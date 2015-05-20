@@ -4,6 +4,60 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Glossary files</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Archivos de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Instalando OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Nota:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Tabla de contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Translation memories</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Memorias de Traducción</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
