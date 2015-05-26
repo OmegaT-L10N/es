@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Groovy&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T120440Z" creationid="Helli" creationdate="20150526T120440Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;*Groovy&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; (http://groovy.codehaus.org): Es una lengua dinámica para el Java Virtual machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115317Z" creationid="Helli" creationdate="20150526T115317Z">
