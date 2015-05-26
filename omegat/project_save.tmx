@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>Insert Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131925Z" creationid="Helli" creationdate="20150526T131802Z">
-        <seg>Insertar Match</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132600Z" creationid="Helli" creationdate="20150526T131802Z">
+        <seg>Insertar Coincidencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN">
         <seg>Replace With Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131920Z" creationid="Helli" creationdate="20150526T131725Z">
-        <seg>Reemplazar Con Match</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132621Z" creationid="Helli" creationdate="20150526T131725Z">
+        <seg>Reemplazar Con Coincidencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Fuzzy Match 1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132527Z" creationid="Helli" creationdate="20150526T132527Z">
+        <seg>Selecciona Partido Borroso 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Next Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132334Z" creationid="Helli" creationdate="20150526T132334Z">
@@ -648,8 +656,8 @@
       <tuv lang="EN">
         <seg>Select Previous Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132311Z" creationid="Helli" creationdate="20150526T132311Z">
-        <seg>Selecciona Match Anterior</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132701Z" creationid="Helli" creationdate="20150526T132311Z">
+        <seg>Selecciona Coincidencia Anterior</seg>
       </tuv>
     </tu>
     <tu>
