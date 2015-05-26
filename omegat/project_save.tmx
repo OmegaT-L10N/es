@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>1. Introduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T113024Z" creationid="Helli" creationdate="20150526T113024Z">
+        <seg>1. Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="ES">
         <seg>Nota:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T113017Z" creationid="Helli" creationdate="20150526T113017Z">
+        <seg>Lenguajes de guiones</seg>
       </tuv>
     </tu>
     <tu>
