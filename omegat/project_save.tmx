@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>8. Help Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144011Z" creationid="Helli" creationdate="20150526T144011Z">
+        <seg>8. Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112852Z" creationid="Helli" creationdate="20150526T112852Z">
         <seg>&lt;a0&gt;Anterior&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;[2] &lt;/a0&gt;The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;a1&gt;Java 1.6 keystrokes shortcuts&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144216Z" creationid="Helli" creationdate="20150526T144216Z">
+        <seg>&lt;a0&gt;[2] &lt;/a0&gt;La sintaxis llena para pulsaciones (atajos) está definido en el siguiente Java 1.6 documentación de Oracle (fondo de página): &lt;a1&gt;Java 1.6 keystrokes atajos&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125528Z" creationid="Helli" creationdate="20150526T125528Z">
         <seg>&lt;f0&gt;Y &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;key&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; puede ser cualquier tecla disponible en vuestro teclado&lt;/f3&gt;&lt;a4&gt;[4]&lt;/a4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144046Z" creationid="Helli" creationdate="20150526T144046Z">
+        <seg>Acerca de...</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,10 +606,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144051Z" creationid="Helli" creationdate="20150526T144051Z">
+        <seg>Últimos Cambios...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114837Z" creationid="Helli" creationdate="20150526T114604Z">
         <seg>Cargue un guión al editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144054Z" creationid="Helli" creationdate="20150526T144054Z">
+        <seg>Registro...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table H.7. Help Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144025Z" creationid="Helli" creationdate="20150526T144025Z">
+        <seg>Tabla H.7. Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Validation...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143426Z" creationid="Helli" creationdate="20150526T143351Z">
@@ -1210,6 +1258,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134516Z" creationid="Helli" creationdate="20150526T134516Z">
         <seg>Usar como Traducción Predeterminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144035Z" creationid="Helli" creationdate="20150526T144035Z">
+        <seg>Manual de usuario...</seg>
       </tuv>
     </tu>
     <tu>
