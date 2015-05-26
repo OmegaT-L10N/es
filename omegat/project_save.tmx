@@ -172,6 +172,14 @@
         <seg>Uso</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the Tools menu or by pressing&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Ctrl+Alt+F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 to 12).&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T115554Z" creationid="Helli" creationdate="20150526T115554Z">
+        <seg> Puede iniciar los marcos seleccionados del menú principal también utilizando sus entradas en el menú de Herramientas o pulsando&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; *Ctrl+*Alt+*F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 a 12).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
