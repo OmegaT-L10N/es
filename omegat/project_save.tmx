@@ -1246,10 +1246,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They also improve glossary matching.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T150339Z" creationid="Helli" creationdate="20150526T150339Z">
+        <seg>También mejoran el glosario que empareja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
         <seg>Para personalizar la característica de guión, haga lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T150333Z" creationid="Helli" creationdate="20150526T150333Z">
+        <seg>*Tokenizers (o stemming, un método para reducir una palabra a su raís) mejora la calidad de coincidencias por reconocer palabras flexivas en fuente y memoria de traducción data.</seg>
       </tuv>
     </tu>
     <tu>
