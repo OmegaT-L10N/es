@@ -78,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendix E. LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T122808Z" creationid="Helli" creationdate="20150526T122808Z">
+        <seg>Apéndice E. Herramienta de Lenguaje plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix F. Scripts</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112727Z" creationid="Helli" creationdate="20150526T112727Z">
         <seg>Apéndice *F. Guiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix G. OmegaT on the web</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T122854Z" creationid="Helli" creationdate="20150526T122854Z">
+        <seg>Apéndice G. OmegaT en la web</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="ES">
         <seg>Archivos de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T122832Z" creationid="Helli" creationdate="20150526T122832Z">
+        <seg>Inicio</seg>
       </tuv>
     </tu>
     <tu>
