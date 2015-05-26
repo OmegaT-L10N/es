@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.1. Search options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155426Z" creationid="Helli" creationdate="20150526T155426Z">
+        <seg>1.1. Opciones de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1. &lt;bk0/&gt;Shortcuts customization</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124452Z" creationid="Helli" creationdate="20150526T124452Z">
@@ -262,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Except one: check &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Untranslated&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in order to operate Search and replace also on segments that have not been translated yet.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155527Z" creationid="Helli" creationdate="20150526T155527Z">
+        <seg>&lt;f0&gt;Excepto uno: control &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Notraducido&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; para operar Buscar y reemplazar también en segmentos que no han sido traducidos todavía.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For example, in the default OmegaT shortcuts&lt;/f0&gt;&lt;a1&gt;[5]&lt;/a1&gt;&lt;f2&gt;, one can find:&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125552Z" creationid="Helli" creationdate="20150526T125552Z">
@@ -322,6 +338,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155035Z" creationid="Helli" creationdate="20150526T155035Z">
         <seg>&lt;f0&gt;Abra la  ventana Buscar y Reemplazar con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ctrl&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;K&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; e introduzca la palabra o expresión que desea reemplazar en la &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;caja&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Buscar&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Search options are similar to the ones displayed in &lt;/f0&gt;&lt;a1&gt;Search window&lt;/a1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155431Z" creationid="Helli" creationdate="20150526T155431Z">
+        <seg>&lt;f0&gt;Opciones de búsqueda son similares a los mostrados en &lt;/f0&gt;&lt;a1&gt;ventana de Búsqueda&lt;/a1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,10 +422,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Close:&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;close the window without any change.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155423Z" creationid="Helli" creationdate="20150526T155423Z">
+        <seg>&lt;f0&gt;*·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Cerrar:&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;cierre la ventana sin cualquier cambio.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Replace All:&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155219Z" creationid="Helli" creationdate="20150526T155219Z">
         <seg>&lt;f0&gt;*·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Reemplaza Todo:&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;opera sustitución de todas las ocurrencias (después de mostrar una ventana de confirmación donde el número de ocurrencias está mostrado).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Replace:&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;operates a "one by one" replacement, by the mean of buttons in the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;header of the Editor pane&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155259Z" creationid="Helli" creationdate="20150526T155259Z">
+        <seg>&lt;f0&gt;*·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Reemplaza:&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;opera una "uno por uno" sustitución, por el significado de botones en el&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;encabezamiento del Editor panel&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +650,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113827Z" creationid="Helli" creationdate="20150526T113538Z">
         <seg>Herramientas de tecleo&gt; Guión abre la ventana de guión:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Replace Next&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; or &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Skip&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;, then end the replacement session with &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Finish&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155409Z" creationid="Helli" creationdate="20150526T155409Z">
+        <seg>Haga clic en &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Reemplazar Siguienteo&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; o &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Omitir&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;, entonces acaba la sesión de sustitución con &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Fin&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
