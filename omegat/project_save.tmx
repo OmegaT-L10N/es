@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cycle Case To...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T134126Z" creationid="Helli" creationdate="20150526T134126Z">
+        <seg>Cycle Case a...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131637Z" creationid="Helli" creationdate="20150526T130841Z">
