@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;[2] &lt;/a0&gt;The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;a1&gt;Java 1.6 keystrokes shortcuts&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T144216Z" creationid="Helli" creationdate="20150526T144216Z">
-        <seg>&lt;a0&gt;[2] &lt;/a0&gt;La sintaxis llena para pulsaciones (atajos) está definido en el siguiente Java 1.6 documentación de Oracle (fondo de página): &lt;a1&gt;Java 1.6 keystrokes atajos&lt;/a1&gt;</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144530Z" creationid="Helli" creationdate="20150526T144216Z">
+        <seg>&lt;a0&gt;[2] &lt;/a0&gt;La sintaxis llena para pulsaciones (atajos) está definido en el siguiente Java 1.6 documentación de Oracle (fondo de página): &lt;a1&gt;Java 1.6 pulsaciones atajos&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
