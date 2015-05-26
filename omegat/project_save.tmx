@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2. Bug reports</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153409Z" creationid="Helli" creationdate="20150526T153409Z">
+        <seg>2. Informe de errores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2. Languages selection</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151750Z" creationid="Helli" creationdate="20150526T151750Z">
@@ -298,6 +306,30 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125528Z" creationid="Helli" creationdate="20150526T125528Z">
         <seg>&lt;f0&gt;Y &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;key&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; puede ser cualquier tecla disponible en vuestro teclado&lt;/f3&gt;&lt;a4&gt;[4]&lt;/a4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;Steps to reproduce&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153448Z" creationid="Helli" creationdate="20150526T153448Z">
+        <seg>&lt;f0&gt;*·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;Pasos para reproducir&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;What you expected to see&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153453Z" creationid="Helli" creationdate="20150526T153453Z">
+        <seg>&lt;f0&gt;*·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;Qué  esperaste ver&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;What you saw instead&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153456Z" creationid="Helli" creationdate="20150526T153456Z">
+        <seg>&lt;f0&gt;*·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;Qué  viste en cambio&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remember that every good bug report needs just three things:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153445Z" creationid="Helli" creationdate="20150526T153445Z">
+        <seg>Recuerda que cada buen buen informe de errores necesita sólo tres cosas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152329Z" creationid="Helli" creationdate="20150526T152329Z">
@@ -1570,6 +1610,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115849Z" creationid="Helli" creationdate="20150526T115849Z">
         <seg> Puedes añadir guiones nuevos allí, así que aparecerán en la lista de guiones disponibles en ventana de guión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also file &lt;/f21&gt;&lt;a22&gt;bug reports&lt;/a22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;and &lt;/f24&gt;&lt;a25&gt;requests for enhancements.&lt;/a25&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153344Z" creationid="Helli" creationdate="20150526T153344Z">
+        <seg>También puede archivar &lt;/f21&gt;&lt;a22&gt;informes de errores&lt;/a22&gt;&lt;f23&gt;y peticiones&lt;/f23&gt;&lt;f24&gt;de mejora.&lt;/a25&gt;</seg>
       </tuv>
     </tu>
     <tu>
