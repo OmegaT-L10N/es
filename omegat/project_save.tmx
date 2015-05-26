@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;To contribute to&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;OmegaT&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154035Z" creationid="Helli" creationdate="20150526T154025Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Para contribuir a &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;OmegaT&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;shortcut&gt; must be of the following form: 0 or more &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;modifier&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; followed by 0 or 1 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;event&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; followed by 1 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;key&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;, where:&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125029Z" creationid="Helli" creationdate="20150526T125029Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125528Z" creationid="Helli" creationdate="20150526T125528Z">
         <seg>&lt;f0&gt;Y &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;key&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; puede ser cualquier tecla disponible en vuestro teclado&lt;/f3&gt;&lt;a4&gt;[4]&lt;/a4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;first join the &lt;/f0&gt;&lt;a1&gt;user group&lt;/a1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;(via web or by sending an email to &lt;/f3&gt;&lt;a4&gt;OmegaT-subscribe@yahoogroups.com&lt;/a4&gt;&lt;f5&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154057Z" creationid="Helli" creationdate="20150526T154031Z">
+        <seg>&lt;f0&gt;Primero unir al &lt;/f0&gt;&lt;a1&gt;grupo de usuario&lt;/a1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;(vía web o enviando un email a &lt;/f3&gt;&lt;a4&gt;OmegaT-subscribe@yahoogroups.com&lt;/a4&gt;&lt;f5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
