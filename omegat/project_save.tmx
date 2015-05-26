@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143711Z" creationid="Helli" creationdate="20150526T143711Z">
+        <seg>Restaurar Ventana Principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115009Z" creationid="Helli" creationdate="20150526T114829Z">
