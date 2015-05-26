@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>6. Tools Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140616Z" creationid="Helli" creationdate="20150526T140616Z">
+        <seg>6. Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -566,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140723Z" creationid="Helli" creationdate="20150526T140723Z">
+        <seg>Estadística de Coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130829Z" creationid="Helli" creationdate="20150526T130829Z">
@@ -870,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140709Z" creationid="Helli" creationdate="20150526T140709Z">
+        <seg>Estadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T133358Z" creationid="Helli" creationdate="20150526T133313Z">
@@ -930,6 +954,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135348Z" creationid="Helli" creationdate="20150526T135348Z">
         <seg>Tabla H.4. Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.5. Tools Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140627Z" creationid="Helli" creationdate="20150526T140627Z">
+        <seg>Tabla H.5. Herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1042,22 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134516Z" creationid="Helli" creationdate="20150526T134516Z">
         <seg>Usar como Traducción Predeterminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140650Z" creationid="Helli" creationdate="20150526T140641Z">
+        <seg>Validar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140701Z" creationid="Helli" creationdate="20150526T140647Z">
+        <seg>Validar Etiquetas para Documento Actual</seg>
       </tuv>
     </tu>
     <tu>
