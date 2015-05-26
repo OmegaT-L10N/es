@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3. Edit Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131605Z" creationid="Helli" creationdate="20150526T131605Z">
+        <seg>3. Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3. Scripting languages</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T120016Z" creationid="Helli" creationdate="20150526T120016Z">
@@ -254,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131501Z" creationid="Helli" creationdate="20150526T131501Z">
+        <seg>Crear Documentos traducidos actuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131342Z" creationid="Helli" creationdate="20150526T131342Z">
@@ -264,8 +280,8 @@
       <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T130841Z" creationid="Helli" creationdate="20150526T130841Z">
-        <seg> Atajo defecto</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131637Z" creationid="Helli" creationdate="20150526T130841Z">
+        <seg>Atajo defecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131520Z" creationid="Helli" creationdate="20150526T131520Z">
+        <seg>Archivos de proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124335Z" creationid="Helli" creationdate="20150526T123707Z">
@@ -462,10 +486,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131515Z" creationid="Helli" creationdate="20150526T131515Z">
+        <seg>Propiedades...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131551Z" creationid="Helli" creationdate="20150526T131551Z">
+        <seg>Salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131701Z" creationid="Helli" creationdate="20150526T131701Z">
+        <seg>Rehacer Última Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131253Z" creationid="Helli" creationdate="20150526T131253Z">
         <seg>Recargar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131725Z" creationid="Helli" creationdate="20150526T131725Z">
+        <seg>Reemplaza Con Match</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table H.2. Edit Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131623Z" creationid="Helli" creationdate="20150526T131623Z">
+        <seg>Tabla H.2. Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114444Z" creationid="Helli" creationdate="20150526T114155Z">
@@ -578,6 +642,14 @@
       </tuv>
       <tuv lang="ES">
         <seg>Memorias de Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131647Z" creationid="Helli" creationdate="20150526T131647Z">
+        <seg>Deshacer Última Acción</seg>
       </tuv>
     </tu>
     <tu>
