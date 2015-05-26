@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following scripting languages have been implemented:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T120102Z" creationid="Helli" creationdate="20150526T120102Z">
+        <seg>Los siguientes lenguajes de guión han sido implementadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
