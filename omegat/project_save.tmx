@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T121400Z" creationid="Helli" creationdate="20150526T121400Z">
-        <seg>El código siguiente *snippet en *groovy para escáners de caso a través de todos los segmentos en todos los  archivos en el proyecto actual y, si la traducción existe, impresiones fuera de la fuente y el objetivo del segmento:</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T122303Z" creationid="Helli" creationdate="20150526T121400Z">
+        <seg>El código siguiente fragmento en groovy para escáners de caso a través de todos los segmentos en todos los archivos en el proyecto actual y, si la traducción existe, imprime la fuente y el objetivo del segmento:</seg>
       </tuv>
     </tu>
     <tu>
