@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;modifier&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can be: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;shift&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;control&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;ctrl&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;meta&lt;/f13&gt;&lt;/f12&gt;&lt;a14&gt;[3]&lt;/a14&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;alt&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;altGraph&lt;/f20&gt;&lt;/f19&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T125329Z" creationid="Helli" creationdate="20150526T125329Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;&lt;modifier&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; puede ser: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;cambio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;control&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;*ctrl&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;*meta&lt;/f13&gt;&lt;/f12&gt;&lt;a14&gt;[3]&lt;/a14&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;*alt&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;*altGraph&lt;/f20&gt;&lt;/f19&gt;</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125749Z" creationid="Helli" creationdate="20150526T125329Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;modifier&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; puede ser: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;cambio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;control&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;ctrl&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;*meta&lt;/f13&gt;&lt;/f12&gt;&lt;a14&gt;[3]&lt;/a14&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;alt&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;altGraph&lt;/f20&gt;&lt;/f19&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +98,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125552Z" creationid="Helli" creationdate="20150526T125552Z">
         <seg>&lt;f0&gt;Por ejemplo, en el defecto OmegaT atajos&lt;/f0&gt;&lt;a1&gt;[5]&lt;/a1&gt;&lt;f2&gt;, uno puede encontrar:&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If you want to use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Ctrl&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;O&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; to open a project, modify your &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;MainMenuShortcuts.properties&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; as follows:&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125735Z" creationid="Helli" creationdate="20150526T125735Z">
+        <seg>&lt;f0&gt;Si quiere usar&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;de uso&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;*Ctrl&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;O&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; para abrir un proyecto, modificar vuestro &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;*MainMenuShortcuts.Propiedades&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; como sigue:&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114444Z" creationid="Helli" creationdate="20150526T114155Z">
         <seg>La ventana de guión le permite cargar un guión existente al área de texto y ejecutare lo en contra el proyecto abierto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is the shortcut for Open Project, the second for Create Glossary Entry.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125657Z" creationid="Helli" creationdate="20150526T125657Z">
+        <seg>El primero es el atajo para Abrir Proyecto, el segundo para Crear Entrada de Glosario.</seg>
       </tuv>
     </tu>
     <tu>
