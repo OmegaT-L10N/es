@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T114155Z" creationid="Helli" creationdate="20150526T114155Z">
+        <seg>El *Scripting la ventana te dejas para cargar un guión de existir al área de texto y corrido lo en contra el proyecto abierto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memories</seg>
       </tuv>
       <tuv lang="ES">
