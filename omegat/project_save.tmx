@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendix I. Legal notices</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T145706Z" creationid="Helli" creationdate="20150526T145706Z">
+        <seg>Apéndice I. Aviso legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142818Z" creationid="Helli" creationdate="20150526T142818Z">
