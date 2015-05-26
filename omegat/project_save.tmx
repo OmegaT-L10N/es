@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T114641Z" creationid="Helli" creationdate="20150526T114604Z">
+        <seg>Carga un guión al editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="ES">
@@ -120,8 +128,8 @@
       <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T114437Z" creationid="Helli" creationdate="20150526T114437Z">
-        <seg>Para personalizar la característica de guión,  el siguiente:</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
+        <seg>Para personalizar la característica de guión, haga lo siguiente:</seg>
       </tuv>
     </tu>
     <tu>
