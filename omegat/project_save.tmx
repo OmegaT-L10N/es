@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When you left-click on the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T115317Z" creationid="Helli" creationdate="20150526T115317Z">
+        <seg>&lt;f0&gt;Cuándo pulse la tecla izquierda del ratón en el número, el guión seleccionado ejecutará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix F. Scripts</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112727Z" creationid="Helli" creationdate="20150526T112727Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="ES">
         <seg>Archivos de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T115204Z" creationid="Helli" creationdate="20150526T115204Z">
+        <seg>En el ejemplo arriba, dos guiones (posición 1 y 2) ya han sido añadido.</seg>
       </tuv>
     </tu>
     <tu>
