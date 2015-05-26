@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151531Z" creationid="Helli" creationdate="20150526T151531Z">
+        <seg>Tomando prestado un ejemplo del esloveno, aquí "bien" en todos las posibles formas gramaticalmente correctas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115750Z" creationid="Helli" creationdate="20150526T115750Z">
@@ -1270,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151402Z" creationid="Helli" creationdate="20150526T151402Z">
+        <seg>Esto es especialmente útil en caso de lenguas que usan pre- y postfijas para las palabras de raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
@@ -1418,6 +1434,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130645Z" creationid="Helli" creationdate="20150526T130645Z">
         <seg>Sus atajos nuevos ahora tendrían que aparecer al lado de los elementos de menú que ha modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151550Z" creationid="Helli" creationdate="20150526T151550Z">
+        <seg>lep, lepa, lepo - singular, masculino, femenino, neutro</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
