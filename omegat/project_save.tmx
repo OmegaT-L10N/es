@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143128Z" creationid="Helli" creationdate="20150526T143128Z">
+        <seg>Editar Funcionamiento...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124728Z" creationid="Helli" creationdate="20150526T124728Z">
@@ -410,6 +418,22 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132214Z" creationid="Helli" creationdate="20150526T132214Z">
         <seg>Exportar Seleccioón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T142934Z" creationid="Helli" creationdate="20150526T142934Z">
+        <seg>Filtros de archivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T142930Z" creationid="Helli" creationdate="20150526T142930Z">
+        <seg>Fuente...</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T142938Z" creationid="Helli" creationdate="20150526T142938Z">
+        <seg>Segmentación...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fuzzy Match 1</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132825Z" creationid="Helli" creationdate="20150526T132527Z">
@@ -930,6 +962,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124321Z" creationid="Helli" creationdate="20150526T123650Z">
         <seg>Atajos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T142954Z" creationid="Helli" creationdate="20150526T142954Z">
+        <seg>Corrector ortográfico...</seg>
       </tuv>
     </tu>
     <tu>
