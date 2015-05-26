@@ -78,10 +78,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Once the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MainMenuShortcuts.properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; file is modified, OmegaT must be relaunched to take the new shortcuts into account.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124858Z" creationid="Helli" creationdate="20150526T124858Z">
+        <seg>&lt;f0&gt;Una vez el archivo&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MainMenuShortcuts.properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; esté modificado, OmegaT tiene que ser relanzado para tomar los atajos nuevos a cuenta.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The shortcut definition file must be named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MainMenuShortcuts.properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T124640Z" creationid="Helli" creationdate="20150526T124640Z">
-        <seg>&lt;f0&gt;El archivo de definición del atajo tiene que ser nombrado &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;*MainMenuShortcuts.Propiedades&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; y tiene que contener como máximo una definición de atajo por línea.</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124706Z" creationid="Helli" creationdate="20150526T124640Z">
+        <seg>&lt;f0&gt;El archivo de definición del atajo tiene que ser nombrado &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MainMenuShortcuts.Propiedades&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; y tiene que contener como máximo una definición de atajo por línea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T121341Z" creationid="Helli" creationdate="20150526T121341Z">
         <seg>Todas las lenguas tienen acceso al OmegaT modelo de objeto, con el proyecto como el objeto superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124737Z" creationid="Helli" creationdate="20150526T124737Z">
+        <seg>Cualquier cosa después del "//" será ignorado.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124341Z" creationid="Helli" creationdate="20150526T123732Z">
         <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124728Z" creationid="Helli" creationdate="20150526T124728Z">
+        <seg>Las líneas vacías están aceptadas y líneas de comentario deberían empezar con "//".</seg>
       </tuv>
     </tu>
     <tu>
