@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124531Z" creationid="Helli" creationdate="20150526T124531Z">
+        <seg>&lt;f0&gt;La mayoría de los elementos que aparecen en el menú principal puede tener un atajo nuevo asignado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The shortcut definition file must be named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MainMenuShortcuts.properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124640Z" creationid="Helli" creationdate="20150526T124640Z">
+        <seg>&lt;f0&gt;El archivo de definición del atajo tiene que ser nombrado &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;*MainMenuShortcuts.Propiedades&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; y tiene que contener como máximo una definición de atajo por línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115317Z" creationid="Helli" creationdate="20150526T115317Z">
@@ -362,6 +378,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115849Z" creationid="Helli" creationdate="20150526T115849Z">
         <seg> Puedes añadir guiones nuevos allí, así que aparecerán en la lista de guiones disponibles en ventana de guión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;/f0&gt;&lt;f1&gt;User files location&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124636Z" creationid="Helli" creationdate="20150526T124636Z">
+        <seg> Puede cambiar los atajos ya asignados y añadir atajos nuevos colocando un archivo de definición del atajo en su OmegaT carpeta de preferencias (ve &lt;/f0&gt;&lt;f1&gt;ubicación de archivos del Usuario&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
