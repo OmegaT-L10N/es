@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>7. Options Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140747Z" creationid="Helli" creationdate="20150526T140747Z">
+        <seg>7. Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -582,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140736Z" creationid="Helli" creationdate="20150526T140736Z">
+        <seg>Estadística de Coincidencias por Archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130829Z" creationid="Helli" creationdate="20150526T130829Z">
@@ -962,6 +978,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140627Z" creationid="Helli" creationdate="20150526T140627Z">
         <seg>Tabla H.5. Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.6. Options Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T140806Z" creationid="Helli" creationdate="20150526T140806Z">
+        <seg>Tabla H.6. Opciones</seg>
       </tuv>
     </tu>
     <tu>
