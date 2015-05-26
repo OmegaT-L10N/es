@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
+        <seg>&lt;a0&gt;Siguiente&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Prev&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T112852Z" creationid="Helli" creationdate="20150526T112852Z">
+        <seg>&lt;a0&gt;Anterior&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix F. Scripts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T112727Z" creationid="Helli" creationdate="20150526T112727Z">
+        <seg>Apéndice *F. Guiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files</seg>
       </tuv>
       <tuv lang="ES">
@@ -50,6 +74,14 @@
       </tuv>
       <tuv lang="ES">
         <seg>Memorias de Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
+        <seg>Uso</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
