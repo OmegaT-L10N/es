@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2. Project Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130735Z" creationid="Helli" creationdate="20150526T130735Z">
+        <seg>2. Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2. Use</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113445Z" creationid="Helli" creationdate="20150526T113445Z">
@@ -286,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130710Z" creationid="Helli" creationdate="20150526T130710Z">
+        <seg>Si no chocan con atajos de sistema, tendrían que ser disponibles de dentro de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115204Z" creationid="Helli" creationdate="20150526T115204Z">
@@ -498,6 +514,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115554Z" creationid="Helli" creationdate="20150526T115554Z">
         <seg> Puede iniciar los marcos seleccionados del menú principal también utilizando sus entradas en el menú de Herramientas o pulsando&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; *Ctrl+*Alt+*F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 a 12).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130645Z" creationid="Helli" creationdate="20150526T130645Z">
+        <seg>Sus atajos nuevos ahora tendrían que aparecer al lado de los elementos de menú que ha modificado.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
