@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151701Z" creationid="Helli" creationdate="20150526T151701Z">
+        <seg>- comparativo, nominative, masculino, femenino, neutro, resp. Forma plural del adjetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1. &lt;bk0/&gt;Shortcuts customization</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124452Z" creationid="Helli" creationdate="20150526T124452Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113024Z" creationid="Helli" creationdate="20150526T113024Z">
         <seg>1. Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Languages selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151750Z" creationid="Helli" creationdate="20150526T151750Z">
+        <seg>2. Selección de lenguas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151833Z" creationid="Helli" creationdate="20150526T151833Z">
+        <seg>Tokenizers están incluidos en OmegaT y activos por defecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tools Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124414Z" creationid="Helli" creationdate="20150526T124414Z">
@@ -1442,6 +1466,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151550Z" creationid="Helli" creationdate="20150526T151550Z">
         <seg>lep, lepa, lepo - singular, masculino, femenino, neutro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151745Z" creationid="Helli" creationdate="20150526T151745Z">
+        <seg>najlepš*ih - superlativo, plural, genitivo para M,F,N</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
