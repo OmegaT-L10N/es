@@ -262,6 +262,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151228Z" creationid="Helli" creationdate="20150526T151228Z">
+        <seg>Un "stemmer" para inglés, por ejemplo, tendría que identificar los string "cats" (y posiblemente "catlike", "catty" etc.) como basado en la raíz "cat", y "stemmer", "stemming", "stemmed" como basado en"stem".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151314Z" creationid="Helli" creationdate="20150526T151314Z">
+        <seg>Un  algoritmo stemming reduce las palabras "fishing", "fished", "fish", y "*fisher" a la palabra de raíz, "fish".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144046Z" creationid="Helli" creationdate="20150526T144046Z">
