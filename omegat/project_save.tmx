@@ -112,8 +112,16 @@
       <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T114155Z" creationid="Helli" creationdate="20150526T114155Z">
-        <seg>El *Scripting la ventana te dejas para cargar un guión de existir al área de texto y corrido lo en contra el proyecto abierto actual.</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T114444Z" creationid="Helli" creationdate="20150526T114155Z">
+        <seg>La ventana de guión le permite cargar un guión existente al área de texto y ejecutare lo en contra el proyecto abierto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the script feature, do the following:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T114437Z" creationid="Helli" creationdate="20150526T114437Z">
+        <seg>Para personalizar la característica de guión,  el siguiente:</seg>
       </tuv>
     </tu>
     <tu>
