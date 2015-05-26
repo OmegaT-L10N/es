@@ -128,8 +128,16 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;[4] &lt;/a0&gt;&lt;f1&gt;The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;/f1&gt;&lt;a2&gt;Java 1.6 keyEvents description&lt;/a2&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T144909Z" creationid="Helli" creationdate="20150526T144909Z">
-        <seg>&lt;a0&gt;[4] &lt;/a0&gt;&lt;f1&gt;El posible *keyevents (llaves) está listado en el siguiente *Java 1.6 documentación de Oracle: &lt;/f1&gt;&lt;a2&gt;*Java 1.6 *keyEvents descripción&lt;/a2&gt;</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144957Z" creationid="Helli" creationdate="20150526T144909Z">
+        <seg>&lt;a0&gt;[4] &lt;/a0&gt;&lt;f1&gt;Los posibles keyevents (llaves) están listados en el siguiente Java 1.6 documentación de Oracle: &lt;/f1&gt;&lt;a2&gt;Java 1.6 keyEvents descripción&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;[5] &lt;/a0&gt;&lt;f1&gt;The default OmegaT shortcuts are available from Sourceforge: &lt;/f1&gt;&lt;a2&gt;Default OmegaT Shortcuts&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T145131Z" creationid="Helli" creationdate="20150526T145131Z">
+        <seg>&lt;a0&gt;[5] &lt;/a0&gt;&lt;f1&gt;Los atajos predeterminados de OmegaT son disponibles de Sourceforge: &lt;/f1&gt;&lt;a2&gt;Atajos predeterminados OmegaT&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
