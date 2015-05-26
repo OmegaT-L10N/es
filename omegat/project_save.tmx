@@ -102,10 +102,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you are on a Mac and you want to add a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Command&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;S&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; shortcut to Tools → Statistics, add the following line to your &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;MainMenuShortcuts.properties&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;:&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130402Z" creationid="Helli" creationdate="20150526T130402Z">
+        <seg>&lt;f0&gt;Si  es usuarios de un Mac y quiere añadir un &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Comando&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;S&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Atajo a Herramientas, Estadísticas, añada la línea siguiente a su &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;*MainMenuShortcuts.properties&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;:&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you want to use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Ctrl&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;O&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; to open a project, modify your &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;MainMenuShortcuts.properties&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; as follows:&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T125735Z" creationid="Helli" creationdate="20150526T125735Z">
-        <seg>&lt;f0&gt;Si quiere usar&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;de uso&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;*Ctrl&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;O&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; para abrir un proyecto, modificar vuestro &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;*MainMenuShortcuts.Propiedades&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; como sigue:&lt;/f12&gt;</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125904Z" creationid="Helli" creationdate="20150526T125735Z">
+        <seg>&lt;f0&gt;Si quiere usar&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Ctrl&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;O&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; para abrir un proyecto, modifique su &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;*MainMenuShortcuts.properties&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; como sigue:&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115009Z" creationid="Helli" creationdate="20150526T114829Z">
         <seg>Pulse la tecla derecha del ratón en un botón de "&lt;1&gt;" a "&lt;12&gt;" en el tablero inferior y seleccione "Añadir".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save then the file and relaunch OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130452Z" creationid="Helli" creationdate="20150526T130452Z">
+        <seg>Guarda el archivo y relanza OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
