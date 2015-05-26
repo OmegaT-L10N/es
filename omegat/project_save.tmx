@@ -80,8 +80,8 @@
       <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T114641Z" creationid="Helli" creationdate="20150526T114604Z">
-        <seg>Carga un guión al editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T114837Z" creationid="Helli" creationdate="20150526T114604Z">
+        <seg>Cargue un guión al editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +98,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113548Z" creationid="Helli" creationdate="20150526T113420Z">
         <seg>OmegaT permite ejecutar los guiones escritos en diferentes lenguajes de guión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T115009Z" creationid="Helli" creationdate="20150526T114829Z">
+        <seg>Pulse la tecla derecha del ratón en un botón de "&lt;1&gt;" a "&lt;12&gt;" en el tablero inferior y seleccione "Añadir".</seg>
       </tuv>
     </tu>
     <tu>
