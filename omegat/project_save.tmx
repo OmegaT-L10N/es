@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143500Z" creationid="Helli" creationdate="20150526T143500Z">
+        <seg>TMXs Externos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Filters...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142934Z" creationid="Helli" creationdate="20150526T142934Z">
@@ -782,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143657Z" creationid="Helli" creationdate="20150526T143657Z">
+        <seg>Acceso representativo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131551Z" creationid="Helli" creationdate="20150526T131551Z">
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130452Z" creationid="Helli" creationdate="20150526T130452Z">
         <seg>Guarda el archivo y relanza OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143603Z" creationid="Helli" creationdate="20150526T143603Z">
+        <seg>Guardar y Producto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1064,8 +1088,16 @@
       <tuv lang="EN">
         <seg>Tag Validation...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T143351Z" creationid="Helli" creationdate="20150526T143351Z">
-        <seg>Validación de Etiquetas  ...</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143426Z" creationid="Helli" creationdate="20150526T143351Z">
+        <seg>Validación de Etiquetas ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143433Z" creationid="Helli" creationdate="20150526T143433Z">
+        <seg>Equipo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1226,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124402Z" creationid="Helli" creationdate="20150526T124228Z">
         <seg>Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143528Z" creationid="Helli" creationdate="20150526T143528Z">
+        <seg>Ver...</seg>
       </tuv>
     </tu>
     <tu>
