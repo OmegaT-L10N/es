@@ -168,7 +168,7 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;Prev&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T112852Z" creationid="Helli" creationdate="20150526T112852Z">
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155725Z" creationid="Helli" creationdate="20150526T155725Z">
         <seg>&lt;a0&gt;Anterior&lt;/a0&gt;</seg>
       </tuv>
     </tu>
@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0/&gt;If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155703Z" creationid="Helli" creationdate="20150526T155703Z">
+        <seg>&lt;t0/&gt;Si ninguna sustitución está hecha a un segmento dado, el segmento de objetivo será “vaciado”, i.e., queda notraducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151228Z" creationid="Helli" creationdate="20150526T151228Z">
@@ -638,10 +646,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 15. Searches</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155730Z" creationid="Helli" creationdate="20150526T155730Z">
+        <seg>Capítulo 15. Búsquedas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 16. Search and Replace</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154832Z" creationid="Helli" creationdate="20150526T154832Z">
         <seg>Capítulo 16. Buscar y Reemplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 17. Regular expressions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155734Z" creationid="Helli" creationdate="20150526T155734Z">
+        <seg>Capítulo 17. Expresiones regulares</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,6 +1682,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154329Z" creationid="Helli" creationdate="20150526T154329Z">
         <seg>Para conseguir ser implicado en el OmegaT development effort  puede unirse al grupo de desarrollador, vía la web o enviando un email a &lt;/f5&gt;&lt;a6&gt;omegat-desarrollo-request@lists.sourceforge.net&lt;/a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;con "suscribir" en el asunto.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155626Z" creationid="Helli" creationdate="20150526T155626Z">
+        <seg>Para hacerlo posible (a pesar de que Buscar y reemplazar opera sólo con memoria), OmegaT copiará el segmento de fuente al segmento de objetivo antes del reemplazar la operación ocurrida.</seg>
       </tuv>
     </tu>
     <tu>
