@@ -246,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default shortcut</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130841Z" creationid="Helli" creationdate="20150526T130841Z">
+        <seg> Atajo defecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131104Z" creationid="Helli" creationdate="20150526T130945Z">
+        <seg>Descargar Proyecto en Equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124341Z" creationid="Helli" creationdate="20150526T123732Z">
@@ -302,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import Source Files...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130952Z" creationid="Helli" creationdate="20150526T130952Z">
+        <seg>Archivos de Fuente de la importación...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115204Z" creationid="Helli" creationdate="20150526T115204Z">
@@ -350,6 +374,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menu Item</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130829Z" creationid="Helli" creationdate="20150526T130829Z">
+        <seg>Elemento de menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu Item Code</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130853Z" creationid="Helli" creationdate="20150526T130853Z">
+        <seg>Código de Elemento del menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130857Z" creationid="Helli" creationdate="20150526T130857Z">
+        <seg>Nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="ES">
@@ -362,6 +410,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113548Z" creationid="Helli" creationdate="20150526T113420Z">
         <seg>OmegaT permite ejecutar los guiones escritos en diferentes lenguajes de guión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131030Z" creationid="Helli" creationdate="20150526T130935Z">
+        <seg>Abrir</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +474,14 @@
       </tuv>
       <tuv lang="ES">
         <seg>Tabla de contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.1. Project Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T130819Z" creationid="Helli" creationdate="20150526T130819Z">
+        <seg>Tabla H.1. Proyecto</seg>
       </tuv>
     </tu>
     <tu>
