@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>1. &lt;bk0/&gt;Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124452Z" creationid="Helli" creationdate="20150526T124452Z">
+        <seg>1. &lt;bk0/&gt;Atajos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1. Introduction</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113024Z" creationid="Helli" creationdate="20150526T113024Z">
@@ -104,8 +112,8 @@
       <tuv lang="EN">
         <seg>Appendix H. Shortcuts customization</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T123551Z" creationid="Helli" creationdate="20150526T123551Z">
-        <seg>Apéndice H. Adaptación de atajos</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124252Z" creationid="Helli" creationdate="20150526T123551Z">
+        <seg>Apéndice H. Atajos de teclado</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +144,8 @@
       <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T123732Z" creationid="Helli" creationdate="20150526T123732Z">
-        <seg>Editar Menú</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124341Z" creationid="Helli" creationdate="20150526T123732Z">
+        <seg>Editar</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +160,16 @@
       <tuv lang="EN">
         <seg>GoTo Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T123856Z" creationid="Helli" creationdate="20150526T123856Z">
-        <seg>GoTo Menú</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124356Z" creationid="Helli" creationdate="20150526T123856Z">
+        <seg>Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124439Z" creationid="Helli" creationdate="20150526T124439Z">
+        <seg>Ayuda</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +246,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124429Z" creationid="Helli" creationdate="20150526T124429Z">
+        <seg>Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T123707Z" creationid="Helli" creationdate="20150526T123707Z">
-        <seg>Menú de proyecto</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124335Z" creationid="Helli" creationdate="20150526T123707Z">
+        <seg>Proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,8 +280,8 @@
       <tuv lang="EN">
         <seg>Shortcuts customization</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T123650Z" creationid="Helli" creationdate="20150526T123650Z">
-        <seg>Adaptación de atajos</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124321Z" creationid="Helli" creationdate="20150526T123650Z">
+        <seg>Atajos de teclado</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124414Z" creationid="Helli" creationdate="20150526T124414Z">
+        <seg>Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memories</seg>
       </tuv>
       <tuv lang="ES">
@@ -314,6 +346,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124402Z" creationid="Helli" creationdate="20150526T124228Z">
+        <seg>Ver</seg>
       </tuv>
     </tu>
     <tu>
