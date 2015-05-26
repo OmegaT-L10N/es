@@ -56,8 +56,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;JavaScript&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;class functions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T120834Z" creationid="Helli" creationdate="20150526T120834Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;*JavaScript&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; (A veces abreviado JS, no para ser confundido con *Java): es un prototipo-basado *scripting lengua que es dinámico, débilmente escrito y ha primero-&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;funciones de clase.</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T121019Z" creationid="Helli" creationdate="20150526T120834Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;*JavaScript&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; (A veces abreviado JS, para no ser confundido con Java): es un lenguaje de guión basado en prototipo que es dinámico, débilmente escrito y tiene -&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;funciones de primera clase.</seg>
       </tuv>
     </tu>
     <tu>
