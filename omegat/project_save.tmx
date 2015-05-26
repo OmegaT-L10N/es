@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131637Z" creationid="Helli" creationdate="20150526T130841Z">
-        <seg>Atajo defecto</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T134909Z" creationid="Helli" creationdate="20150526T130841Z">
+        <seg>Atajo predeterminado</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +346,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132214Z" creationid="Helli" creationdate="20150526T132214Z">
         <seg>Exportar Seleccioón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135158Z" creationid="Helli" creationdate="20150526T135158Z">
+        <seg>Avance en historia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +518,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135105Z" creationid="Helli" creationdate="20150526T135105Z">
+        <seg>Siguiente Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135035Z" creationid="Helli" creationdate="20150526T135035Z">
+        <seg>Siguiente Segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135011Z" creationid="Helli" creationdate="20150526T135011Z">
+        <seg>Siguiente Segmento Traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T134949Z" creationid="Helli" creationdate="20150526T134949Z">
+        <seg>Siguiente Segmento Sin Traducir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="ES">
@@ -538,6 +578,22 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124429Z" creationid="Helli" creationdate="20150526T124429Z">
         <seg>Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135109Z" creationid="Helli" creationdate="20150526T135109Z">
+        <seg>Nota anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135041Z" creationid="Helli" creationdate="20150526T135041Z">
+        <seg>Segmento anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +722,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132257Z" creationid="Helli" creationdate="20150526T132257Z">
         <seg>Buscar y Reemplazar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135046Z" creationid="Helli" creationdate="20150526T135046Z">
+        <seg>Número de segmento...</seg>
       </tuv>
     </tu>
     <tu>
