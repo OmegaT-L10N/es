@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4. GoTo Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T134546Z" creationid="Helli" creationdate="20150526T134546Z">
+        <seg>4. Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131303Z" creationid="Helli" creationdate="20150526T131303Z">
         <seg>Cerrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T134523Z" creationid="Helli" creationdate="20150526T134523Z">
+        <seg>Crear Traducción Alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T134533Z" creationid="Helli" creationdate="20150526T134533Z">
+        <seg>Registrar Traducción Idéntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131253Z" creationid="Helli" creationdate="20150526T131253Z">
@@ -826,6 +850,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T134516Z" creationid="Helli" creationdate="20150526T134516Z">
+        <seg>Usar como Traducción Predeterminada</seg>
       </tuv>
     </tu>
     <tu>
