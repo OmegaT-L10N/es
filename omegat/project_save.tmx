@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135729Z" creationid="Helli" creationdate="20150526T135729Z">
+        <seg>Segmentos de Fuente de exhibición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131104Z" creationid="Helli" creationdate="20150526T130945Z">
@@ -510,6 +518,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135744Z" creationid="Helli" creationdate="20150526T135744Z">
+        <seg>Segmentos No Únicos Marcados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135759Z" creationid="Helli" creationdate="20150526T135759Z">
+        <seg>Segmentos Marcados con Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135536Z" creationid="Helli" creationdate="20150526T135536Z">
+        <seg>Segmento traducido marcado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135612Z" creationid="Helli" creationdate="20150526T135612Z">
+        <seg>Segmentos no traducidos marcados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130829Z" creationid="Helli" creationdate="20150526T130829Z">
@@ -560,8 +600,8 @@
       <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T134949Z" creationid="Helli" creationdate="20150526T134949Z">
-        <seg>Siguiente Segmento Sin Traducir</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135628Z" creationid="Helli" creationdate="20150526T134949Z">
+        <seg>Siguiente Segmento No Traducido</seg>
       </tuv>
     </tu>
     <tu>
