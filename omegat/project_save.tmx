@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Validation...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T143351Z" creationid="Helli" creationdate="20150526T143351Z">
+        <seg>Validación de Etiquetas  ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114444Z" creationid="Helli" creationdate="20150526T114155Z">
