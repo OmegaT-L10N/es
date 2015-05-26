@@ -704,8 +704,24 @@
       <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T133313Z" creationid="Helli" creationdate="20150526T133313Z">
-        <seg>Caso de cambio para/Bajar Caso</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T133358Z" creationid="Helli" creationdate="20150526T133313Z">
+        <seg>Cambiar a minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T133508Z" creationid="Helli" creationdate="20150526T133508Z">
+        <seg>Cambiar a tipo título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T133416Z" creationid="Helli" creationdate="20150526T133416Z">
+        <seg>Cambiar a mayúscula</seg>
       </tuv>
     </tu>
     <tu>
