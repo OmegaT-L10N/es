@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Enter the new word or phrase (regular expressions are not supported) in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Replace with&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; box, then click one of the following options:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155206Z" creationid="Helli" creationdate="20150526T155206Z">
+        <seg>&lt;f0&gt;Introduzca la palabra o frase nueva (las expresiones regulares no son apoyadas) en el &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;caja &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Reemplazar, luego haga clic en uno de las opciones siguientes:&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For example, in the default OmegaT shortcuts&lt;/f0&gt;&lt;a1&gt;[5]&lt;/a1&gt;&lt;f2&gt;, one can find:&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125552Z" creationid="Helli" creationdate="20150526T125552Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Open the Search and replace window with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ctrl&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;K&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and enter the word or expression you wish to replace in the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Search for&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; box.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155035Z" creationid="Helli" creationdate="20150526T155035Z">
+        <seg>&lt;f0&gt;Abra la  ventana Buscar y Reemplazar con &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ctrl&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;+&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;K&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; e introduzca la palabra o expresión que desea reemplazar en la &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;caja&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Buscar&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;/f0&gt;&lt;a1&gt;Default OmegaT Shortcuts for the Mac&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T145419Z" creationid="Helli" creationdate="20150526T145419Z">
@@ -342,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Then click on &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Search&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button to display all the corresponding occurrences.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155053Z" creationid="Helli" creationdate="20150526T155053Z">
+        <seg>&lt;f0&gt;Entonces haga clic el &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;botón&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;de Búsqueda para mostrar todas las ocurrencias correspondientes.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115317Z" creationid="Helli" creationdate="20150526T115317Z">
@@ -370,6 +394,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154651Z" creationid="Helli" creationdate="20150526T154651Z">
         <seg>&lt;f0&gt;Primero lea el &lt;/f0&gt;&lt;a1&gt;Localización y Adaptación&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;guía, y únase &lt;/f7&gt;&lt;t8/&gt;&lt;f9&gt;al grupo de los traductores OmegaT vía web o enviando un email a &lt;/f9&gt;&lt;a10&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;con asunto "suscribir".&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Replace All:&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T155219Z" creationid="Helli" creationdate="20150526T155219Z">
+        <seg>&lt;f0&gt;*·&lt;/f0&gt;&lt;f1&gt;         &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Reemplaza Todo:&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;opera sustitución de todas las ocurrencias (después de mostrar una ventana de confirmación donde el número de ocurrencias está mostrado).&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
