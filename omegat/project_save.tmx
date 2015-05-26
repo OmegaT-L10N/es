@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;To translate&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;OmegaT&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;'s user interface, user manual or other related documents:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154419Z" creationid="Helli" creationdate="20150526T154419Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Para traducir&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;la interfaz&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; de usuario de OmegaT, manual de usuario u otros documentos relacionados:&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;shortcut&gt; must be of the following form: 0 or more &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;modifier&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; followed by 0 or 1 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;event&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; followed by 1 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;key&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;, where:&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125029Z" creationid="Helli" creationdate="20150526T125029Z">
@@ -1514,6 +1522,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
         <seg>Para personalizar la característica de guión, haga lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get involved in the OmegaT development effort you can join the developer group, via the web or by sending an email to &lt;/f5&gt;&lt;a6&gt;omegat-development-request@lists.sourceforge.net&lt;/a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;with "subscribe" as the subject line.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154329Z" creationid="Helli" creationdate="20150526T154329Z">
+        <seg>Para conseguir ser implicado en el OmegaT development effort  puede unirse al grupo de desarrollador, vía la web o enviando un email a &lt;/f5&gt;&lt;a6&gt;omegat-desarrollo-request@lists.sourceforge.net&lt;/a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;con "suscribir" en el asunto.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
