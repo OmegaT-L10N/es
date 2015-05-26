@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2. Use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T113445Z" creationid="Helli" creationdate="20150526T113445Z">
+        <seg>2. Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112727Z" creationid="Helli" creationdate="20150526T112727Z">
         <seg>Apéndice *F. Guiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking Tools &gt; Scripting opens the Scripting window:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T113538Z" creationid="Helli" creationdate="20150526T113538Z">
+        <seg>*Clicking Herramientas &gt; *Scripting abre el *Scripting ventana:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +86,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T113548Z" creationid="Helli" creationdate="20150526T113420Z">
+        <seg>OmegaT permite ejecutar los guiones escritos en diferentes lenguajes de guión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting languages</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T113017Z" creationid="Helli" creationdate="20150526T113017Z">
-        <seg>Lenguajes de guiones</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T113435Z" creationid="Helli" creationdate="20150526T113017Z">
+        <seg>Lenguajes de guión</seg>
       </tuv>
     </tu>
     <tu>
