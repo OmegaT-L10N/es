@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;shortcut&gt; must be of the following form: 0 or more &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;modifier&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; followed by 0 or 1 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;event&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; followed by 1 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;key&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;, where:&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125029Z" creationid="Helli" creationdate="20150526T125029Z">
+        <seg>&lt;f0&gt;&lt;shortcut&gt; tiene que ser de la forma siguiente: 0 o más &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;modifier&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; seguido por 0 o 1 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;event&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; seguido por 1 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;key&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;, dónde:&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124531Z" creationid="Helli" creationdate="20150526T124531Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124706Z" creationid="Helli" creationdate="20150526T124640Z">
         <seg>&lt;f0&gt;El archivo de definición del atajo tiene que ser nombrado &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MainMenuShortcuts.Propiedades&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; y tiene que contener como máximo una definición de atajo por línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The shortcut definition syntax is the following: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, where &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;menu item code&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; is a code taken from the tables below and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;shortcut&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; is a combination of pressed keys specified by the user&lt;/f9&gt;&lt;a10&gt;[2]&lt;/a10&gt;&lt;f11&gt;.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T124959Z" creationid="Helli" creationdate="20150526T124959Z">
+        <seg>&lt;f0&gt;La sintaxis de definición del atajo es la siguiente: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, dónde &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;menu item code&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; es un código tomado de las tablas abajo y &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;shortcut&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; es una combinación de teclas pulsadas especificadas por el usuario&lt;/f9&gt;&lt;a10&gt;[2]&lt;/a10&gt;&lt;f11&gt;.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
