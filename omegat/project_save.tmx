@@ -270,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T142818Z" creationid="Helli" creationdate="20150526T142818Z">
+        <seg>Autocompleción/Autotexto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T142758Z" creationid="Helli" creationdate="20150526T142758Z">
+        <seg>Autocompleción/Glosario...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135307Z" creationid="Helli" creationdate="20150526T135307Z">
@@ -1050,6 +1066,22 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124414Z" creationid="Helli" creationdate="20150526T124414Z">
         <seg>Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T142629Z" creationid="Helli" creationdate="20150526T142629Z">
+        <seg>TransTips/Activar Transtips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Exact Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T142648Z" creationid="Helli" creationdate="20150526T142648Z">
+        <seg>TransTips/Coincidencias Exactas</seg>
       </tuv>
     </tu>
     <tu>
