@@ -118,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;[3] &lt;/a0&gt;&lt;f1&gt;On the Mac, the modifier &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;meta&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; must be used to specify the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;command&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; key.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144914Z" creationid="Helli" creationdate="20150526T144750Z">
+        <seg>&lt;a0&gt;[3] &lt;/a0&gt;&lt;f1&gt;En el Mac, el modificador &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;meta&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tiene que ser usado para especificar la &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;llave&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; de comando.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;[4] &lt;/a0&gt;&lt;f1&gt;The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;/f1&gt;&lt;a2&gt;Java 1.6 keyEvents description&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T144909Z" creationid="Helli" creationdate="20150526T144909Z">
+        <seg>&lt;a0&gt;[4] &lt;/a0&gt;&lt;f1&gt;El posible *keyevents (llaves) está listado en el siguiente *Java 1.6 documentación de Oracle: &lt;/f1&gt;&lt;a2&gt;*Java 1.6 *keyEvents descripción&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;event&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can be: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;typed&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;pressed&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;released&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125507Z" creationid="Helli" creationdate="20150526T125340Z">
