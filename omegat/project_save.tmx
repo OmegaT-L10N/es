@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T121256Z" creationid="Helli" creationdate="20150526T121256Z">
+        <seg>Es una lengua multi-paradigma, apoyando objeto-orientado, imperativo, y estilos de programaci�n funcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114837Z" creationid="Helli" creationdate="20150526T114604Z">
