@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;JavaScript&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;class functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T120834Z" creationid="Helli" creationdate="20150526T120834Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;*JavaScript&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; (A veces abreviado JS, no para ser confundido con *Java): es un prototipo-basado *scripting lengua que es dinámico, débilmente escrito y ha primero-&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;funciones de clase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115317Z" creationid="Helli" creationdate="20150526T115317Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="ES">
         <seg>Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T120748Z" creationid="Helli" creationdate="20150526T120748Z">
+        <seg>Construye a las fuerzas de Java pero tiene poderosas caracter�sticas adicionales inspiradas en lenguas como pit�n, rub� y charloteo.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
