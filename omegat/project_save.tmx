@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132222Z" creationid="Helli" creationdate="20150526T132222Z">
+        <seg>Crear Entrada de Glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131342Z" creationid="Helli" creationdate="20150526T131342Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124728Z" creationid="Helli" creationdate="20150526T124728Z">
         <seg>Las líneas vacías están aceptadas y líneas de comentario deberían empezar con "//".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132214Z" creationid="Helli" creationdate="20150526T132214Z">
+        <seg>Exportar Seleccioón</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131925Z" creationid="Helli" creationdate="20150526T131802Z">
         <seg>Insertar Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132155Z" creationid="Helli" creationdate="20150526T132155Z">
+        <seg>Insertar La Siguiente Etiqueta Ausente</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +618,38 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113435Z" creationid="Helli" creationdate="20150526T113017Z">
         <seg>Lenguajes de guión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132239Z" creationid="Helli" creationdate="20150526T132239Z">
+        <seg>Buscar Proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132257Z" creationid="Helli" creationdate="20150526T132257Z">
+        <seg>Buscar y Reemplazar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132334Z" creationid="Helli" creationdate="20150526T132334Z">
+        <seg>Selecciona Match Siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T132311Z" creationid="Helli" creationdate="20150526T132311Z">
+        <seg>Selecciona Match Anterior</seg>
       </tuv>
     </tu>
     <tu>
