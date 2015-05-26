@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;event&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can be: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;typed&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;pressed&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;released&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125507Z" creationid="Helli" creationdate="20150526T125340Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;event&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Puede ser: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;escrito&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;pulsado&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;liberado&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;modifier&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can be: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;shift&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;control&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;ctrl&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;meta&lt;/f13&gt;&lt;/f12&gt;&lt;a14&gt;[3]&lt;/a14&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;alt&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;altGraph&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125329Z" creationid="Helli" creationdate="20150526T125329Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;modifier&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; puede ser: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;cambio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;control&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;*ctrl&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;, &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;*meta&lt;/f13&gt;&lt;/f12&gt;&lt;a14&gt;[3]&lt;/a14&gt;&lt;f15&gt;, &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;*alt&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;*altGraph&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Groovy&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T120440Z" creationid="Helli" creationdate="20150526T120440Z">
@@ -74,6 +90,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125029Z" creationid="Helli" creationdate="20150526T125029Z">
         <seg>&lt;f0&gt;&lt;shortcut&gt; tiene que ser de la forma siguiente: 0 o más &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;modifier&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; seguido por 0 o 1 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;event&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; seguido por 1 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;key&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;, dónde:&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;For example, in the default OmegaT shortcuts&lt;/f0&gt;&lt;a1&gt;[5]&lt;/a1&gt;&lt;f2&gt;, one can find:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125552Z" creationid="Helli" creationdate="20150526T125552Z">
+        <seg>&lt;f0&gt;Por ejemplo, en el defecto OmegaT atajos&lt;/f0&gt;&lt;a1&gt;[5]&lt;/a1&gt;&lt;f2&gt;, uno puede encontrar:&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +138,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115317Z" creationid="Helli" creationdate="20150526T115317Z">
         <seg>&lt;f0&gt;Cuándo pulse la tecla izquierda del ratón en el número, el guión seleccionado ejecutará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;and &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;key&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; can be any key available on your keyboard&lt;/f3&gt;&lt;a4&gt;[4]&lt;/a4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T125528Z" creationid="Helli" creationdate="20150526T125528Z">
+        <seg>&lt;f0&gt;Y &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;key&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; puede ser cualquier tecla disponible en vuestro teclado&lt;/f3&gt;&lt;a4&gt;[4]&lt;/a4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
