@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5. View Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135326Z" creationid="Helli" creationdate="20150526T135326Z">
+        <seg>5. Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -238,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135307Z" creationid="Helli" creationdate="20150526T135307Z">
+        <seg>Atrás en historia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T121328Z" creationid="Helli" creationdate="20150526T121328Z">
@@ -352,8 +368,8 @@
       <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135158Z" creationid="Helli" creationdate="20150526T135158Z">
-        <seg>Avance en historia...</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135259Z" creationid="Helli" creationdate="20150526T135158Z">
+        <seg>Adelante en historia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +866,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134608Z" creationid="Helli" creationdate="20150526T134608Z">
         <seg>Tabla H.3. Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.4. View Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135348Z" creationid="Helli" creationdate="20150526T135348Z">
+        <seg>Tabla H.4. Ver</seg>
       </tuv>
     </tu>
     <tu>
