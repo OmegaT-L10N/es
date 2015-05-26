@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3. Scripting languages</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T120016Z" creationid="Helli" creationdate="20150526T120016Z">
+        <seg>3. Lenguajes de guión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112727Z" creationid="Helli" creationdate="20150526T112727Z">
         <seg>Apéndice *F. Guiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T115750Z" creationid="Helli" creationdate="20150526T115750Z">
+        <seg>Por defecto, los guiones están almacenados en la "carpeta" de guiones localizada en OmegaT carpeta de instalación (la carpeta que contiene el OmegaT.jar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +186,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T115849Z" creationid="Helli" creationdate="20150526T115849Z">
+        <seg> Puedes añadir guiones nuevos allí, así que aparecerán en la lista de guiones disponibles en ventana de guión.</seg>
       </tuv>
     </tu>
     <tu>
