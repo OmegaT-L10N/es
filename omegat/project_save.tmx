@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;More can be found in the &lt;/f0&gt;&lt;a1&gt;Painless Bug Tracking&lt;/a1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;article by Joel Spolsky.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153543Z" creationid="Helli" creationdate="20150526T153543Z">
+        <seg>&lt;f0&gt;Más puede ser encontrado en el &lt;/f0&gt;&lt;a1&gt;Painless Bug Trackingo&lt;/a1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;artículo por Joel Spolsky.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124531Z" creationid="Helli" creationdate="20150526T124531Z">
@@ -974,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153716Z" creationid="Helli" creationdate="20150526T153716Z">
+        <seg>Nota que *bug los informes y las peticiones para trucajes son públicamente visibles, así que no tendrías que añadir cualesquier archivos sensibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="ES">
@@ -1634,6 +1650,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115554Z" creationid="Helli" creationdate="20150526T115554Z">
         <seg> Puede iniciar los marcos seleccionados del menú principal también utilizando sus entradas en el menú de Herramientas o pulsando&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; *Ctrl+*Alt+*F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 a 12).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153710Z" creationid="Helli" creationdate="20150526T153710Z">
+        <seg> Deberías añadir copias de archivos, porciones del registro, capturas de pantalla, y cualquier cosa más que crees que ayudará a los desarrolladores para encontrar y fijar su error.</seg>
       </tuv>
     </tu>
     <tu>
