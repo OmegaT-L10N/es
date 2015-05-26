@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendix C. OmegaT Team Projects</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T152406Z" creationid="Helli" creationdate="20150526T152406Z">
+        <seg>Apéndice C. OmegaT Proyectos en Equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix D. Tokenizers</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T145915Z" creationid="Helli" creationdate="20150526T145915Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112727Z" creationid="Helli" creationdate="20150526T112727Z">
         <seg>Apéndice *F. Guiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix G. &lt;bk0/&gt;OmegaT on the web</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T152439Z" creationid="Helli" creationdate="20150526T152439Z">
+        <seg>Apéndice G. &lt;bk0/&gt;OmegaT en la web</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T152306Z" creationid="Helli" creationdate="20150526T152240Z">
+        <seg>OmegaT No lanzará si tokenizers están encontradon en la /plugin carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131030Z" creationid="Helli" creationdate="20150526T130935Z">
@@ -994,6 +1018,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131253Z" creationid="Helli" creationdate="20150526T131253Z">
         <seg>Recargar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T152329Z" creationid="Helli" creationdate="20150526T152329Z">
+        <seg>Sacar todos los tokenizers de la /plugin carpeta antes de iniciar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
