@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135853Z" creationid="Helli" creationdate="20150526T135853Z">
+        <seg>Espacios Irrompibles Marcados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Segments with Notes</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135759Z" creationid="Helli" creationdate="20150526T135759Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135612Z" creationid="Helli" creationdate="20150526T135612Z">
         <seg>Segmentos no traducidos marcados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T135910Z" creationid="Helli" creationdate="20150526T135910Z">
+        <seg>Whitespace Marcado</seg>
       </tuv>
     </tu>
     <tu>
