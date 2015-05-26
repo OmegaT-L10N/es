@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1. Search window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154910Z" creationid="Helli" creationdate="20150526T154910Z">
+        <seg>1. Buscar ventana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2. Bug reports</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153409Z" creationid="Helli" creationdate="20150526T153409Z">
@@ -270,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;/f0&gt;&lt;a1&gt;OmegaT PayPal account&lt;/a1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154806Z" creationid="Helli" creationdate="20150526T154806Z">
+        <seg>&lt;f0&gt;Si le gustaría apoyar el desarrollo continuado de OmegaT, sería muy apreciado - haga clic en este enlace para ir al &lt;/f0&gt;&lt;a1&gt;OmegaT PayPal cuenta&lt;/a1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;More can be found in the &lt;/f0&gt;&lt;a1&gt;Painless Bug Tracking&lt;/a1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;article by Joel Spolsky.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153543Z" creationid="Helli" creationdate="20150526T153543Z">
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154057Z" creationid="Helli" creationdate="20150526T154031Z">
         <seg>&lt;f0&gt;Primero unir al &lt;/f0&gt;&lt;a1&gt;grupo de usuario&lt;/a1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;(vía web o enviando un email a &lt;/f3&gt;&lt;a4&gt;OmegaT-subscribe@yahoogroups.com&lt;/a4&gt;&lt;f5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;first read the &lt;/f0&gt;&lt;a1&gt;Localizing and Customizing&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;guide, and join &lt;/f7&gt;&lt;t8/&gt;&lt;f9&gt;the OmegaT translators' group via web or by sending an email to &lt;/f9&gt;&lt;a10&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;with subject "subscribe".&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154651Z" creationid="Helli" creationdate="20150526T154651Z">
+        <seg>&lt;f0&gt;Primero lea el &lt;/f0&gt;&lt;a1&gt;Localización y Adaptación&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;guía, y únase &lt;/f7&gt;&lt;t8/&gt;&lt;f9&gt;al grupo de los traductores OmegaT vía web o enviando un email a &lt;/f9&gt;&lt;a10&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;con asunto "suscribir".&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +472,8 @@
       <tuv lang="EN">
         <seg>Appendix F. Scripts</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T112727Z" creationid="Helli" creationdate="20150526T112727Z">
-        <seg>Apéndice *F. Guiones</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154816Z" creationid="Helli" creationdate="20150526T112727Z">
+        <seg>Apéndice F. Guiones</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +562,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115750Z" creationid="Helli" creationdate="20150526T115750Z">
         <seg>Por defecto, los guiones están almacenados en la "carpeta" de guiones localizada en OmegaT carpeta de instalación (la carpeta que contiene el OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 16. Search and Replace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154832Z" creationid="Helli" creationdate="20150526T154832Z">
+        <seg>Capítulo 16. Buscar y Reemplazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,6 +1294,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154859Z" creationid="Helli" creationdate="20150526T154859Z">
+        <seg>Opciones de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154856Z" creationid="Helli" creationdate="20150526T154856Z">
+        <seg>Busacar ventana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment number...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135046Z" creationid="Helli" creationdate="20150526T135046Z">
@@ -1530,6 +1578,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154329Z" creationid="Helli" creationdate="20150526T154329Z">
         <seg>Para conseguir ser implicado en el OmegaT development effort  puede unirse al grupo de desarrollador, vía la web o enviando un email a &lt;/f5&gt;&lt;a6&gt;omegat-desarrollo-request@lists.sourceforge.net&lt;/a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;con "suscribir" en el asunto.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To support the OmegaT project financially</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154711Z" creationid="Helli" creationdate="20150526T154711Z">
+        <seg>Para apoyar el*OmegaT proyecto economicamente</seg>
       </tuv>
     </tu>
     <tu>
