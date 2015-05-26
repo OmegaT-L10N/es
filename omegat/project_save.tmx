@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;/f0&gt;&lt;a1&gt;Default OmegaT Shortcuts for the Mac&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T145419Z" creationid="Helli" creationdate="20150526T145419Z">
+        <seg>&lt;f0&gt;Los atajos predeterminados de OmegaT para Mac están también disponibles de Sourceforge, todos ellos utilizan "*meta" en vez de "ctrl": &lt;/f0&gt;&lt;a1&gt;* Atajos predeterminados de OmegaT para el Mac&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The shortcut definition file must be named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MainMenuShortcuts.properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124706Z" creationid="Helli" creationdate="20150526T124640Z">
