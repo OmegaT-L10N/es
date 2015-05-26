@@ -246,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131303Z" creationid="Helli" creationdate="20150526T131303Z">
+        <seg>Cerrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131342Z" creationid="Helli" creationdate="20150526T131342Z">
+        <seg>Crear Documentos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130841Z" creationid="Helli" creationdate="20150526T130841Z">
@@ -318,10 +334,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import From MediaWiki...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131152Z" creationid="Helli" creationdate="20150526T131152Z">
+        <seg>Importar de MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import Source Files...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T130952Z" creationid="Helli" creationdate="20150526T130952Z">
-        <seg>Archivos de Fuente de la importación...</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131142Z" creationid="Helli" creationdate="20150526T130952Z">
+        <seg>Importar archivos fuente...</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,10 +462,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131253Z" creationid="Helli" creationdate="20150526T131253Z">
+        <seg>Recargar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115009Z" creationid="Helli" creationdate="20150526T114829Z">
         <seg>Pulse la tecla derecha del ratón en un botón de "&lt;1&gt;" a "&lt;12&gt;" en el tablero inferior y seleccione "Añadir".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131321Z" creationid="Helli" creationdate="20150526T131321Z">
+        <seg>Guardar</seg>
       </tuv>
     </tu>
     <tu>
