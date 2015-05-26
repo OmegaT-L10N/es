@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3. Contributing to OmegaT project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154022Z" creationid="Helli" creationdate="20150526T154022Z">
+        <seg>3. Contribuyendo a OmegaT proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3. Edit Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131605Z" creationid="Helli" creationdate="20150526T131605Z">
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T154015Z" creationid="Helli" creationdate="20150526T153824Z">
+        <seg>Si desea mantener pista de qué está pasando al informe, regístrese como SourceForge usuario, inicies sesión y archivar un informe de errores o simplemente haga clic en la parte superior del informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import From MediaWiki...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131152Z" creationid="Helli" creationdate="20150526T131152Z">
@@ -984,8 +1000,8 @@
       <tuv lang="EN">
         <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T153716Z" creationid="Helli" creationdate="20150526T153716Z">
-        <seg>Nota que *bug los informes y las peticiones para trucajes son públicamente visibles, así que no tendrías que añadir cualesquier archivos sensibles.</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153849Z" creationid="Helli" creationdate="20150526T153716Z">
+        <seg>Note que informes de error y las peticiones de mejora son públicamente visibles, así que no debería añadir cualquier archivos sensibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1120,8 +1136,8 @@
       <tuv lang="EN">
         <seg>Remember that every good bug report needs just three things:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T153445Z" creationid="Helli" creationdate="20150526T153445Z">
-        <seg>Recuerda que cada buen buen informe de errores necesita sólo tres cosas:</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153829Z" creationid="Helli" creationdate="20150526T153445Z">
+        <seg>Recuerde que cada buen buen informe de errores necesita sólo tres cosas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1672,8 @@
       <tuv lang="EN">
         <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T153710Z" creationid="Helli" creationdate="20150526T153710Z">
-        <seg> Deberías añadir copias de archivos, porciones del registro, capturas de pantalla, y cualquier cosa más que crees que ayudará a los desarrolladores para encontrar y fijar su error.</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153840Z" creationid="Helli" creationdate="20150526T153710Z">
+        <seg> Debería añadir copias de archivos, porciones del registro, capturas de pantalla, y cualquier cosa más que cree que ayudará a los desarrolladores para encontrar y fijar su error.</seg>
       </tuv>
     </tu>
     <tu>
