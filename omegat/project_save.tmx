@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1. OmegaT sites and OmegaT SourceForge project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T152930Z" creationid="Helli" creationdate="20150526T152930Z">
+        <seg>1. OmegaT páginas y OmegaT SourceForge proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2. Languages selection</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151750Z" creationid="Helli" creationdate="20150526T151750Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124959Z" creationid="Helli" creationdate="20150526T124959Z">
         <seg>&lt;f0&gt;La sintaxis de definición del atajo es la siguiente: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, dónde &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;menu item code&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; es un código tomado de las tablas abajo y &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;shortcut&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; es una combinación de teclas pulsadas especificadas por el usuario&lt;/f9&gt;&lt;a10&gt;[2]&lt;/a10&gt;&lt;f11&gt;.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;f4&gt;OmegaT&lt;/f4&gt;&lt;/a3&gt;&lt;a5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/a5&gt;&lt;a7&gt;&lt;f8&gt;web site&lt;/f8&gt;&lt;/a7&gt;&lt;a9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/a9&gt;&lt;f11&gt;contains links to numerous OmegaT resources.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153009Z" creationid="Helli" creationdate="20150526T153009Z">
+        <seg>&lt;f0&gt;La&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;f4&gt;OmegaT&lt;/f4&gt;&lt;/a3&gt;&lt;a5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/a5&gt;&lt;a7&gt;&lt;f8&gt;página web&lt;/f8&gt;&lt;/a7&gt;&lt;a9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/a9&gt;&lt;f11&gt;contiene enlaces a numerosos OmegaT recursos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +610,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142930Z" creationid="Helli" creationdate="20150526T142930Z">
         <seg>Fuente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153158Z" creationid="Helli" creationdate="20150526T153136Z">
+        <seg>Para la última versión de OmegaT, consulte la página de descargas en www.omegat.org.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;/f17&gt;&lt;a18&gt;FAQ&lt;/a18&gt;&lt;a19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/a19&gt;&lt;f21&gt;is a good starting point for finding answers to questions you may have.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153140Z" creationid="Helli" creationdate="20150526T153100Z">
+        <seg>El &lt;/f17&gt;&lt;a18&gt;FAQ&lt;/a18&gt;&lt;a19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/a19&gt;&lt;f21&gt;es un punto de partida bueno para encontrar respuestas a cuestiones que puede tener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151402Z" creationid="Helli" creationdate="20150526T151402Z">
@@ -1478,10 +1510,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Group&lt;/f16&gt;&lt;/a15&gt;&lt;f17&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153035Z" creationid="Helli" creationdate="20150526T153035Z">
+        <seg>Grupo de usuario&lt;/f16&gt;&lt;/a15&gt;&lt;f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144035Z" creationid="Helli" creationdate="20150526T144035Z">
         <seg>Manual de usuario...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support is provided on a volunteer basis at the &lt;/f11&gt;&lt;a12&gt;OmegaT&lt;/a12&gt;&lt;a13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;f16&gt;Yahoo!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T153032Z" creationid="Helli" creationdate="20150526T153032Z">
+        <seg>Soporte de usuario está proporcionado en una base de voluntario en el &lt;/f11&gt;&lt;a12&gt;OmegaT&lt;/a12&gt;&lt;a13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;f16&gt;Yahoo!</seg>
       </tuv>
     </tu>
     <tu>
