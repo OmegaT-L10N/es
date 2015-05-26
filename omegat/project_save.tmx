@@ -374,6 +374,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131925Z" creationid="Helli" creationdate="20150526T131802Z">
+        <seg>Insertar Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131952Z" creationid="Helli" creationdate="20150526T131821Z">
+        <seg>Insertar Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source Tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131915Z" creationid="Helli" creationdate="20150526T131915Z">
+        <seg>Insertar Etiquetas Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="ES">
@@ -520,8 +544,24 @@
       <tuv lang="EN">
         <seg>Replace With Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131725Z" creationid="Helli" creationdate="20150526T131725Z">
-        <seg>Reemplaza Con Match</seg>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131920Z" creationid="Helli" creationdate="20150526T131725Z">
+        <seg>Reemplazar Con Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131943Z" creationid="Helli" creationdate="20150526T131817Z">
+        <seg>Reemplazar Con Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T131930Z" creationid="Helli" creationdate="20150526T131809Z">
+        <seg>Reemplazar con Traducción automática</seg>
       </tuv>
     </tu>
     <tu>
