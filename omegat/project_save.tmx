@@ -134,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T123732Z" creationid="Helli" creationdate="20150526T123732Z">
+        <seg>Editar Menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files</seg>
       </tuv>
       <tuv lang="ES">
         <seg>Archivos de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T123856Z" creationid="Helli" creationdate="20150526T123856Z">
+        <seg>GoTo Menú</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T123707Z" creationid="Helli" creationdate="20150526T123707Z">
+        <seg>Menú de proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115009Z" creationid="Helli" creationdate="20150526T114829Z">
@@ -226,6 +250,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113435Z" creationid="Helli" creationdate="20150526T113017Z">
         <seg>Lenguajes de guión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T123650Z" creationid="Helli" creationdate="20150526T123650Z">
+        <seg>Adaptación de atajos</seg>
       </tuv>
     </tu>
     <tu>
