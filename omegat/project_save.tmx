@@ -70,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T121341Z" creationid="Helli" creationdate="20150526T121341Z">
+        <seg>Todas las lenguas tienen acceso al OmegaT modelo de objeto, con el proyecto como el objeto superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix F. Scripts</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112727Z" creationid="Helli" creationdate="20150526T112727Z">
         <seg>Apéndice *F. Guiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T121328Z" creationid="Helli" creationdate="20150526T121328Z">
+        <seg>Siendo la lengua detr�s del software popular como Firefox es una herramienta familiar y de programaci�n preferida en el �mbito de fuente abierta.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +210,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114444Z" creationid="Helli" creationdate="20150526T114155Z">
         <seg>La ventana de guión le permite cargar un guión existente al área de texto y ejecutare lo en contra el proyecto abierto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T121400Z" creationid="Helli" creationdate="20150526T121400Z">
+        <seg>El código siguiente *snippet en *groovy para escáners de caso a través de todos los segmentos en todos los  archivos en el proyecto actual y, si la traducción existe, impresiones fuera de la fuente y el objetivo del segmento:</seg>
       </tuv>
     </tu>
     <tu>
