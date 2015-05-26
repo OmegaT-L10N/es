@@ -622,10 +622,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T152228Z" creationid="Helli" creationdate="20150526T152228Z">
+        <seg>En caso de que ningún tokenizer exista para las lenguas actuales, OmegaT usa Hunspell en cambio (en este caso, asegúrese que los diccionarios Hunspell relevantes estén instalados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115204Z" creationid="Helli" creationdate="20150526T115204Z">
         <seg>En el ejemplo arriba, dos guiones (posición 1 y 2) ya han sido añadido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T152232Z" creationid="Helli" creationdate="20150526T152232Z">
+        <seg>Incompatibilidades</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T121256Z" creationid="Helli" creationdate="20150526T121256Z">
         <seg>Es una lengua multi-paradigma, apoyando objeto-orientado, imperativo, y estilos de programaci�n funcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T152018Z" creationid="Helli" creationdate="20150526T152018Z">
+        <seg>Es posible seleccionar otro tokenizer (Lengua Tokenizer) o una versión diferente del tokenizer (Tokenizer Funcioamiento) de la ventana de Propiedades del Proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +890,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113548Z" creationid="Helli" creationdate="20150526T113420Z">
         <seg>OmegaT permite ejecutar los guiones escritos en diferentes lenguajes de guión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150526T151947Z" creationid="Helli" creationdate="20150526T151947Z">
+        <seg>OmegaT selecciona automáticamente un tokenizer para la fuente y la lengua de objetivo según los encuadres de lengua del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
