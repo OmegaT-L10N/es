@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="sentence" srclang="EN-GB"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>1. Generalities</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235413Z" creationid="Usuario" creationdate="20150603T235413Z">
+        <seg>1. Términos generales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>2. Public and private collections</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235453Z" creationid="Usuario" creationdate="20150603T235453Z">
+        <seg>2. Colecciones públicas y privadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>3. Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235539Z" creationid="Usuario" creationdate="20150603T235539Z">
+        <seg>3. Acceso al servicio de TAA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;Prev&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235345Z" creationid="Usuario" creationdate="20150603T235345Z">
+        <seg>&lt;a0&gt;Anterior&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;&lt;s1&gt;Browse TaaS Collections&lt;/s1&gt;&lt;/s0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235739Z" creationid="Usuario" creationdate="20150603T235739Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Las colecciones de navegación TAA&lt;/s1&gt;&lt;/s0&gt;   le permitirán navegar por las colecciones existentes de la lengua origen y meta del proyecto, además de descargarlas..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;&lt;s1&gt;TaaS Terminology Lookup&lt;/s1&gt;&lt;/s0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235908Z" creationid="Usuario" creationdate="20150603T235908Z">
+        <seg>
+&lt;s0&gt;&lt;s1&gt;Búsqueda de terminología TAA&lt;/s1&gt;&lt;/s0&gt;: cuando esté revisado, se permitirá la consulta de los datos de TAA en una base de segmento por segmento.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235411Z" creationid="Usuario" creationdate="20150603T235411Z">
+        <seg>3. Acceso al servicio de TAA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235916Z" creationid="Usuario" creationdate="20150603T235916Z">
+        <seg>Todas las colecciones (públicas y privadas ) se pueden consultar en la lengua origen y meta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Chapter 19. Glossaries</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235304Z" creationid="Usuario" creationdate="20150603T235304Z">
+        <seg>Capítulo 19. Glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Chapter 20. Using TaaS in OmegaT</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235234Z" creationid="Usuario" creationdate="20150603T235234Z">
+        <seg>Capítulo 20.Utilización de TAA en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Chapter 21. Machine Translation</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235308Z" creationid="Usuario" creationdate="20150603T235308Z">
+        <seg>Capítulo 21. Traducción automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Click on &lt;s0&gt;&lt;s1&gt;Options, Glossary&lt;/s1&gt;&lt;/s0&gt; to display the following options:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235621Z" creationid="Usuario" creationdate="20150603T235621Z">
+        <seg>Haga clic en  &lt;s0&gt;&lt;s1&gt;Opciones, Glosario&lt;/s1&gt;&lt;/s0&gt; para mostrar las siguientes opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235401Z" creationid="Usuario" creationdate="20150603T235401Z">
+        <seg>1. Términos generales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235534Z" creationid="Usuario" creationdate="20150603T235534Z">
+        <seg>Vaya a https://demo.taas-project.eu/account/keys/create?system=omegaT para crear su propia clave y luego registrarla en OmegaT con -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150604T000047Z" creationid="Usuario" creationdate="20150604T000047Z">
+        <seg>Inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150604T000034Z" creationid="Usuario" creationdate="20150604T000034Z">
+        <seg>En ese mensaje, es posible seleccionar todos los dominios o uno específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235448Z" creationid="Usuario" creationdate="20150603T235448Z">
+        <seg>Permite acceder tanto a los datos públicos como a los privados, donde los glosarios privados (llamados "colecciones") se pueden extraer de los documentos existentes y de los términos de la lengua meta que han sido registrados automáticamente de diversas fuentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Navigation footer</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150604T000037Z" creationid="Usuario" creationdate="20150604T000037Z">
+        <seg>Cabecera de navegación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Navigation header</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235325Z" creationid="Usuario" creationdate="20150603T235325Z">
+        <seg>Cabecera de navegación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235350Z" creationid="Usuario" creationdate="20150603T235350Z">
+        <seg>Siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>OmegaT 3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235256Z" creationid="Usuario" creationdate="20150603T235256Z">
+        <seg>OmegaT 3.1 - Guía de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>OmegaT allows accessing the public part of TaaS without any registration.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235457Z" creationid="Usuario" creationdate="20150603T235457Z">
+        <seg>OmegaT permite el acceso a la parte pública de TAA sin ningún tipo de registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235523Z" creationid="Usuario" creationdate="20150603T235523Z">
+        <seg>Los lanzadores de configuración de OmegaT (OmegaT.l4J.ini, omegat.kaptn y OmegaT.sh) se presentan con una entrada en forma de plantilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235749Z" creationid="Usuario" creationdate="20150603T235742Z">
+        <seg>Las colecciones privadas se muestran en negrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Public and private collections</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235406Z" creationid="Usuario" creationdate="20150603T235406Z">
+        <seg>2. Colecciones públicas y privadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235428Z" creationid="Usuario" creationdate="20150603T235428Z">
+        <seg>El servicio de TAA en https://demo.taas-project.eu/info ofrece servicios de terminología de las lenguas europeas (además de ruso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235754Z" creationid="Usuario" creationdate="20150603T235754Z">
+        <seg>Las colecciones se descargan como glosarios TBX en la carpeta glosario actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235516Z" creationid="Usuario" creationdate="20150603T235516Z">
+        <seg>La clave debe tener en cuenta el uso de OmegaT = -Dtaas.user.key xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235509Z" creationid="Usuario" creationdate="20150603T235509Z">
+        <seg>Para acceder a la parte privada, el usuario debe crear una clave a través de https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;s0&gt;&lt;s1&gt;Select TaaS Terminology Lookup Domain&lt;/s1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150604T000027Z" creationid="Usuario" creationdate="20150604T000027Z">
+        <seg>Para limitar la cantidad de datos, es posible escoger un dominio específico seleccionando &lt;s0&gt;&lt;s1&gt;Seleccionar terminología TAA de búsqueda de dominios&lt;/s1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Usuario" changedate="20150603T235528Z" creationid="Usuario" creationdate="20150603T235528Z">
+        <seg>Al acceder al servicio sin una clave privada, aparecerá el siguiente mensaje: clave de API TAA no encontrada.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
