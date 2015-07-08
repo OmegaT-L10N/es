@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115017Z" creationid="Helli" creationdate="20150603T152840Z">
+        <seg>- comparativo, nominativo, masculino, femenino, neutro, adjetivo en su forma plural de cortesía </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.1. Search options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153236Z" creationid="Helli" creationdate="20150603T153236Z">
+        <seg>1.1. Opciones de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. &lt;a0&gt;&lt;/a0&gt;Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115808Z" creationid="Helli" creationdate="20150603T151444Z">
+        <seg>1. Personalización de atajos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. &lt;s0&gt;OmegaT&lt;/s0&gt; sites and &lt;s1&gt;OmegaT&lt;/s1&gt; SourceForge project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112855Z" creationid="Helli" creationdate="20150603T152956Z">
+        <seg>1. Páginas OmegaT y proyecto de OmegaT SourceForge </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. Introduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151017Z" creationid="Helli" creationdate="20150603T151017Z">
+        <seg>1. Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1. Search window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153226Z" creationid="Helli" creationdate="20150603T153226Z">
+        <seg>1. Buscar ventana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Bug reports</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153025Z" creationid="Helli" creationdate="20150603T153025Z">
+        <seg>2. Informe de errores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Languages selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152844Z" creationid="Helli" creationdate="20150603T152844Z">
+        <seg>2. Selección de lenguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Project Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151554Z" creationid="Helli" creationdate="20150603T151554Z">
+        <seg>2. Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. Use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151027Z" creationid="Helli" creationdate="20150603T151027Z">
+        <seg>2. Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2. User settings files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151455Z" creationid="Helli" creationdate="20150603T151455Z">
+        <seg>Manual de usuario...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.2. Search window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153239Z" creationid="Helli" creationdate="20150603T153239Z">
+        <seg>1. Buscar ventana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Contributing to &lt;s0&gt;OmegaT&lt;/s0&gt; project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153047Z" creationid="Helli" creationdate="20150603T153047Z">
+        <seg>3. Contribuyendo a OmegaT proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Edit Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151807Z" creationid="Helli" creationdate="20150603T151807Z">
+        <seg>3. Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Scripting languages</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111843Z" creationid="Helli" creationdate="20150603T151125Z">
+        <seg>3. Scripting languages (lenguaje de programación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4. GoTo Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152205Z" creationid="Helli" creationdate="20150603T152205Z">
+        <seg>4. Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5. View Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152302Z" creationid="Helli" creationdate="20150603T152302Z">
+        <seg>5. Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6. Tools Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152347Z" creationid="Helli" creationdate="20150603T152347Z">
+        <seg>6. Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7. Options Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152426Z" creationid="Helli" creationdate="20150603T152426Z">
+        <seg>7. Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8. Help Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152607Z" creationid="Helli" creationdate="20150603T152607Z">
+        <seg>8. Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;s1&gt;[2] &lt;/s1&gt;&lt;/a0&gt;The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;a2&gt;Java 1.6 keystrokes shortcuts&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T121115Z" creationid="Helli" creationdate="20150603T152644Z">
+        <seg>&lt;a0&gt;&lt;s1&gt;[2] &lt;/s1&gt;&lt;/a0&gt;Toda la sintaxis para los atajos de teclado está definida en la documentación siguiente sobre Java 1.6, extraída de Oracle (final de página): &lt;a2&gt;Java 1.6 atajos de teclado&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;s1&gt;[3] &lt;/s1&gt;&lt;/a0&gt;On the Mac, the modifier &lt;s2&gt;&lt;e3&gt;meta&lt;/e3&gt;&lt;/s2&gt; must be used to specify the &lt;s4&gt;&lt;e5&gt;command&lt;/e5&gt;&lt;/s4&gt; key.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T121153Z" creationid="Helli" creationdate="20150603T152700Z">
+        <seg>&lt;a0&gt;&lt;s1&gt;[3] &lt;/s1&gt;&lt;/a0&gt;En el Mac, el modificador &lt;s2&gt;&lt;e3&gt;meta&lt;/e3&gt;&lt;/s2&gt; tiene que ser usado para especificar la tecla de &lt;s4&gt;&lt;e5&gt;comando&lt;/e5&gt;&lt;/s4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;s1&gt;[4] &lt;/s1&gt;&lt;/a0&gt;The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;a2&gt;Java 1.6 keyEvents description&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T121339Z" creationid="Helli" creationdate="20150603T152707Z">
+        <seg>&lt;a0&gt;[4] &lt;/a0&gt;Los posibles keyevents (teclas) están listados en la documentación siguiente sobre Java 1.6, extraída de Oracle: &lt;a2&gt;Java 1.6 descripción de keyEvents&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;s1&gt;[5] &lt;/s1&gt;&lt;/a0&gt;The default OmegaT shortcuts are available from Sourceforge: &lt;a2&gt;Default OmegaT Shortcuts&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T121418Z" creationid="Helli" creationdate="20150603T152712Z">
+        <seg>&lt;a0&gt;[5] &lt;/a0&gt;Los atajos predeterminados de OmegaT esstán disponibles en Sourceforge: &lt;a2&gt;Atajos predeterminados de OmegaT&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Prev&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T194828Z" creationid="Helli" creationdate="20150603T194828Z">
+        <seg>&lt;a0&gt;Anterior&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;s1&gt;&lt;e2&gt;typed&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;pressed&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;released&lt;/e6&gt;&lt;/s5&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T120213Z" creationid="Helli" creationdate="20150603T151528Z">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; puede ser: &lt;s1&gt;&lt;e2&gt;typed&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;pressed&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;released&lt;/e6&gt;&lt;/s5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;s1&gt;&lt;e2&gt;shift&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;control&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;ctrl&lt;/e6&gt;&lt;/s5&gt;, &lt;s7&gt;&lt;e8&gt;meta&lt;/e8&gt;&lt;/s7&gt;&lt;a9&gt;&lt;s10&gt;[3]&lt;/s10&gt;&lt;/a9&gt;, &lt;s11&gt;&lt;e12&gt;alt&lt;/e12&gt;&lt;/s11&gt;, &lt;s13&gt;&lt;e14&gt;altGraph&lt;/e14&gt;&lt;/s13&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T195918Z" creationid="Helli" creationdate="20150603T151526Z">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; puede ser: &lt;s1&gt;&lt;e2&gt;shift&lt;/e2&gt;&lt;/s1&gt;, &lt;s3&gt;&lt;e4&gt;control&lt;/e4&gt;&lt;/s3&gt;, &lt;s5&gt;&lt;e6&gt;ctrl&lt;/e6&gt;&lt;/s5&gt;, &lt;s7&gt;&lt;e8&gt;meta&lt;/e8&gt;&lt;/s7&gt;&lt;a9&gt;&lt;s10&gt;[3]&lt;/s10&gt;&lt;/a9&gt;, &lt;s11&gt;&lt;e12&gt;alt&lt;/e12&gt;&lt;/s11&gt;, &lt;s13&gt;&lt;e14&gt;altGraph&lt;/e14&gt;&lt;/s13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Close:&lt;/s1&gt;&lt;/s0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T192619Z" creationid="Helli" creationdate="20150603T153235Z">
+        <seg>Cerrar: cierre la ventana sin realizar ningún cambio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Groovy&lt;/s1&gt;&lt;/s0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112037Z" creationid="Helli" creationdate="20150603T151132Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Groovy&lt;/s1&gt;&lt;/s0&gt;(http://groovy.codehaus.org): Es una lengua dinámica para la máquina virtual Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;JavaScript&lt;/s1&gt;&lt;/s0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112315Z" creationid="Helli" creationdate="20150603T151137Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;JavaScript&lt;/s1&gt;&lt;/s0&gt; (a veces abreviado JS, para no ser confundido con Java): es un lenguaje de script basado en prototipos y es dinámico, débilmente tipado (es decir, de cumplimiento flexible de las reglas de escritura) y tiene funciones de primera clase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace All:&lt;/s1&gt;&lt;/s0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T193256Z" creationid="Helli" creationdate="20150603T153231Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Reemplazar todo:&lt;/s1&gt;&lt;/s0&gt; realice la sustitución de todos los resultados (después de mostrar una ventana de confirmación donde se muestra el número de  resultados). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;s1&gt;Replace:&lt;/s1&gt;&lt;/s0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;s2&gt;&lt;s3&gt;header of the Editor pane&lt;/s3&gt;&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T193325Z" creationid="Helli" creationdate="20150603T153232Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Reemplaza:&lt;/s1&gt;&lt;/s0&gt; realice una sustitución "uno por uno", mediante los botones o el &lt;s2&gt;&lt;s3&gt;encabezamiento del panel Editor&lt;/s3&gt;&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; sites and &lt;s1&gt;OmegaT&lt;/s1&gt; SourceForge project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112754Z" creationid="Helli" creationdate="20150603T152939Z">
+        <seg>OmegaT páginas y OmegaT SourceForge proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T121722Z" creationid="Helli" creationdate="20150603T151519Z">
+        <seg>shortcut “&lt;” y “&gt;” tiene que tener esta estructura: 0 o más &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; seguido por 0 o 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; seguido por &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, donde:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114700Z" creationid="Helli" creationdate="20150603T152828Z">
+        <seg>Un "stemmer" en inglés, por ejemplo, tendría que identificar la cadena "cats" (y posiblemente "catlike", "catty", (debería ir una coma aunque no esté en el TO) etc.) al basarse en la raíz "cat", y "stemmer", "stemming", "stemmed" al basarse en "stem".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114743Z" creationid="Helli" creationdate="20150603T152831Z">
+        <seg>Un algoritmo stemming reduce las palabras "fishing", "fished", "fish", y "fisher" a la palabra raíz, "fish".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152628Z" creationid="Helli" creationdate="20150603T152628Z">
+        <seg>Acerca de...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112527Z" creationid="Helli" creationdate="20150603T151142Z">
+        <seg>Todos los lenguajes tienen acceso al modelo de objetos de OmegaT, en el que el proyecto es el objeto más importante. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152441Z" creationid="Helli" creationdate="20150603T152441Z">
+        <seg>Siempre Confirmar Salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115947Z" creationid="Helli" creationdate="20150603T151512Z">
+        <seg>Lo que vaya después del "//" será ignorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix C. OmegaT Team Projects</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152756Z" creationid="Helli" creationdate="20150603T152756Z">
+        <seg>Apéndice C. OmegaT Proyectos en Equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix D. Tokenizers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114421Z" creationid="Helli" creationdate="20150603T152744Z">
+        <seg>Apéndice D. Tokenizers (analizadores léxicos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix E. LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151255Z" creationid="Helli" creationdate="20150603T150832Z">
+        <seg>Apéndice E. Herramienta de Lenguaje plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix F. Scripts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T110704Z" creationid="Helli" creationdate="20150603T150731Z">
+        <seg>Apéndice F. Scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix G. &lt;s0&gt;&lt;a1&gt;&lt;/a1&gt;OmegaT&lt;/s0&gt; on the web</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152932Z" creationid="Helli" creationdate="20150603T152932Z">
+        <seg>Apéndice G. OmegaT en la web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix G. OmegaT on the web</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151320Z" creationid="Helli" creationdate="20150603T150836Z">
+        <seg>Apéndice G. OmegaT en la web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix H. Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115735Z" creationid="Helli" creationdate="20150603T151329Z">
+        <seg>Apéndice H. Personalización de atajos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix I. Legal notices</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152737Z" creationid="Helli" creationdate="20150603T152737Z">
+        <seg>Apéndice I. Aviso legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152515Z" creationid="Helli" creationdate="20150603T152515Z">
+        <seg>Autocompleción/Autotexto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152518Z" creationid="Helli" creationdate="20150603T152518Z">
+        <seg>Autocompleción/Autotexto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152511Z" creationid="Helli" creationdate="20150603T152511Z">
+        <seg>Autocompleción/Glosario...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152256Z" creationid="Helli" creationdate="20150603T152256Z">
+        <seg>Atrás en historia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112454Z" creationid="Helli" creationdate="20150603T151140Z">
+        <seg>Es el lenguaje que hay detrás de scftwares populares como Firefox y es una herramienta conocida que una gran parte de personas elige en el ámbito del código abierto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114836Z" creationid="Helli" creationdate="20150603T152834Z">
+        <seg>Si tomamos prestado un ejemplo del esloveno, estos serían todas las formas posibles y gramaticalmente correctas de la palabra "bien":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bug reports</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152944Z" creationid="Helli" creationdate="20150603T152944Z">
+        <seg>Informe de errores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111720Z" creationid="Helli" creationdate="20150603T151113Z">
+        <seg>Por defecto, los scripts están almacenados en la carpeta "scripts" localizada en OmegaT carpeta de instalación (la carpeta que contiene el OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 15. Searches</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153155Z" creationid="Helli" creationdate="20150603T153155Z">
+        <seg>Capítulo 15. Búsquedas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 16. Search and Replace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T191004Z" creationid="Helli" creationdate="20150603T153148Z">
+        <seg>Capítulo 16. Buscar y reemplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 17. Regular expressions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153158Z" creationid="Helli" creationdate="20150603T153158Z">
+        <seg>Capítulo 17. Expresiones regulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;s4&gt;&lt;e5&gt;Replace Next&lt;/e5&gt;&lt;/s4&gt; or &lt;s6&gt;&lt;e7&gt;Skip&lt;/e7&gt;&lt;/s6&gt;, then end the replacement session with &lt;s8&gt;&lt;e9&gt;Finish&lt;/e9&gt;&lt;/s8&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T193603Z" creationid="Helli" creationdate="20150603T153233Z">
+        <seg> Haga clic en &lt;s4&gt;&lt;e5&gt;Reemplazar siguiente&lt;/e5&gt;&lt;/s4&gt;  u &lt;s6&gt;&lt;e7&gt;Omitir&lt;/e7&gt;&lt;/s6&gt;, y entonces acabe el procedimiento de sustitución con &lt;s8&gt;&lt;e9&gt;Fin&lt;/e9&gt;&lt;/s8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking &lt;s0&gt;Tools &gt; &lt;/s0&gt;&lt;s1&gt;Scripting&lt;/s1&gt; opens the Scripting window:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T110824Z" creationid="Helli" creationdate="20150603T151029Z">
+        <seg>Herramientas &gt; Se abre la ventana Scripts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151640Z" creationid="Helli" creationdate="20150603T151640Z">
+        <seg>Cerrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributing to &lt;s0&gt;OmegaT&lt;/s0&gt; project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112823Z" creationid="Helli" creationdate="20150603T152952Z">
+        <seg>Contribuyendo a OmegaT proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152153Z" creationid="Helli" creationdate="20150603T152153Z">
+        <seg>Crear Traducción Alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151700Z" creationid="Helli" creationdate="20150603T151700Z">
+        <seg>Crear Documentos traducidos actuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152024Z" creationid="Helli" creationdate="20150603T152024Z">
+        <seg>Crear Entrada de Glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151653Z" creationid="Helli" creationdate="20150603T151653Z">
+        <seg>Crear Documentos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cycle Case To...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152144Z" creationid="Helli" creationdate="20150603T152144Z">
+        <seg>Cycle Case a...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default shortcut</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151606Z" creationid="Helli" creationdate="20150603T151606Z">
+        <seg>Atajo predeterminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152320Z" creationid="Helli" creationdate="20150603T152320Z">
+        <seg>Segmentos de Fuente de exhibición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151625Z" creationid="Helli" creationdate="20150603T151625Z">
+        <seg>Descargar Proyecto en Equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151413Z" creationid="Helli" creationdate="20150603T151413Z">
+        <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152540Z" creationid="Helli" creationdate="20150603T152540Z">
+        <seg>Editar Funcionamiento...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115933Z" creationid="Helli" creationdate="20150603T151510Z">
+        <seg>Las líneas vacías están aceptadas y la líneas de comentario deberían empezar con "//".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;s0&gt;&lt;e1&gt;Replace with&lt;/e1&gt;&lt;/s0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T192158Z" creationid="Helli" creationdate="20150603T153230Z">
+        <seg>Introduzca la palabra o frase nueva que no son compatibles con las expresiones regulares) en el cuadro Reemplazar, y luego haga clic en una de las opciones siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Except one: check &lt;s0&gt;&lt;s1&gt;Untranslated&lt;/s1&gt;&lt;/s0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T193941Z" creationid="Helli" creationdate="20150603T153241Z">
+        <seg>Excepto una: compruebe &lt;s0&gt;&lt;s1&gt;Untranslated&lt;/s1&gt;&lt;/s0&gt; para utilizar las opciones Buscar y reemplazar también en segmentos que no han sido traducidos todavía. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152016Z" creationid="Helli" creationdate="20150603T152016Z">
+        <seg>Exportar Seleccioón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152551Z" creationid="Helli" creationdate="20150603T152551Z">
+        <seg>TMXs Externos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152525Z" creationid="Helli" creationdate="20150603T152525Z">
+        <seg>Filtros de archivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152522Z" creationid="Helli" creationdate="20150603T152522Z">
+        <seg>Fuente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts&lt;a0&gt;&lt;s1&gt;[5]&lt;/s1&gt;&lt;/a0&gt;, one can find:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T120444Z" creationid="Helli" creationdate="20150603T151534Z">
+        <seg>Por ejemplo, en los atajos&lt;a0&gt;&lt;s1&gt;[5]&lt;/s1&gt;&lt;/a0&gt; por defecto de OmegaT, uno puede encontrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153017Z" creationid="Helli" creationdate="20150603T153017Z">
+        <seg>Para la última versión de OmegaT, consulte la página de descargas en www.omegat.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152248Z" creationid="Helli" creationdate="20150603T152248Z">
+        <seg>Adelante en historia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151418Z" creationid="Helli" creationdate="20150603T151418Z">
+        <seg>Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151437Z" creationid="Helli" creationdate="20150603T151437Z">
+        <seg>Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151307Z" creationid="Helli" creationdate="20150603T151307Z">
+        <seg>Inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T194126Z" creationid="Helli" creationdate="20150603T153244Z">
+        <seg>Si no se ha hecho ninguna sustitución en un segmento dado, el segmento objetivo será “vaciado”, es decir, queda sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151552Z" creationid="Helli" creationdate="20150603T151552Z">
+        <seg>Si no chocan con atajos de sistema, tendrían que ser disponibles de dentro de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are on a Mac and you want to add a &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Command&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;S&lt;/s5&gt;&lt;/s4&gt; shortcut to &lt;s6&gt;Tools&lt;/s6&gt; → &lt;s7&gt;Statistics&lt;/s7&gt;, add the following line to your &lt;c8&gt;MainMenuShortcuts.properties&lt;/c8&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T120853Z" creationid="Helli" creationdate="20150603T151543Z">
+        <seg>Si es usuario de un Mac y quiere añadir  &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Comando&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;S&lt;/s5&gt;&lt;/s4&gt; como atajo de &lt;s6&gt;Herramientas&lt;/s6&gt; → &lt;s7&gt;Estadísticas&lt;/s7&gt;, y añada la línea siguiente a &lt;c8&gt;MainMenuShortcuts.properties&lt;/c8&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Ctrl&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;O&lt;/s5&gt;&lt;/s4&gt; to open a project, modify your &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T120536Z" creationid="Helli" creationdate="20150603T151539Z">
+        <seg>Si quiere usar &lt;s0&gt;&lt;s1&gt;Shift&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;Ctrl&lt;/s3&gt;&lt;/s2&gt;+&lt;s4&gt;&lt;s5&gt;O&lt;/s5&gt;&lt;/s4&gt; para abrir un proyecto, modifique su archivo &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113604Z" creationid="Helli" creationdate="20150603T153044Z">
+        <seg>Si desea mantener un seguimiento de la evolución del informe, regístrese como usuario en SourceForge, inicies sesión y archive un informe de errores o simplemente haga clic en la parte superior del informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;a0&gt; OmegaT PayPal account&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114138Z" creationid="Helli" creationdate="20150603T153123Z">
+        <seg>Valoraremos mucho cualquier aportación que haga para apoyar el desarrollo continuado de OmegaT. Haga clic en este enlace para ir a la &lt;a0&gt; cuenta PayPal de OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import From MediaWiki...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151633Z" creationid="Helli" creationdate="20150603T151633Z">
+        <seg>Importar de MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import Source Files...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151629Z" creationid="Helli" creationdate="20150603T151629Z">
+        <seg>Importar archivos fuente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115243Z" creationid="Helli" creationdate="20150603T152850Z">
+        <seg>En caso de que no exista ningún tokenizer exista para las lenguas actuales, OmegaT usa en su lugar Hunspell en cambio (en este caso, asegúrese que los diccionarios Hunspell relevantes estén instalados). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111353Z" creationid="Helli" creationdate="20150603T151046Z">
+        <seg>En el ejemplo de arriba, dos scripts (posición 1 y 2) ya han sido añadidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152852Z" creationid="Helli" creationdate="20150603T152852Z">
+        <seg>Incompatibilidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151843Z" creationid="Helli" creationdate="20150603T151843Z">
+        <seg>Insertar Coincidencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152012Z" creationid="Helli" creationdate="20150603T152012Z">
+        <seg>Insertar La Siguiente Etiqueta Ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151905Z" creationid="Helli" creationdate="20150603T151905Z">
+        <seg>Insertar Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source Tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152007Z" creationid="Helli" creationdate="20150603T152007Z">
+        <seg>Insertar Etiquetas Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T150932Z" creationid="Helli" creationdate="20150603T150932Z">
+        <seg>Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112158Z" creationid="Helli" creationdate="20150603T151136Z">
+        <seg>Se construye a partir del funcionamiento de Java pero tiene grandes características adicionales inspiradas en lenguajes como Python, Ruby y Smalltalk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112411Z" creationid="Helli" creationdate="20150603T151139Z">
+        <seg>Es una lengua multi-paradigma, un soporte orientado a la programación por objetos, imperativo y con estilos de programación funcionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115211Z" creationid="Helli" creationdate="20150603T152849Z">
+        <seg>Es posible seleccionar otro tokenizer (analizador léxico de la lengua de partida o de llegada) o una versión diferente del tokenizer (Tokenizer Behaviour) de la ventana de Propiedades del Proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152821Z" creationid="Helli" creationdate="20150603T152821Z">
+        <seg>Selección de lenguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152633Z" creationid="Helli" creationdate="20150603T152633Z">
+        <seg>Últimos Cambios...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111559Z" creationid="Helli" creationdate="20150603T151042Z">
+        <seg>Cargue un script en el editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152636Z" creationid="Helli" creationdate="20150603T152636Z">
+        <seg>Registro...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152454Z" creationid="Helli" creationdate="20150603T152454Z">
+        <seg>Traducción Automáticae</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152323Z" creationid="Helli" creationdate="20150603T152323Z">
+        <seg>Segmentos No Únicos Marcados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152330Z" creationid="Helli" creationdate="20150603T152330Z">
+        <seg>Espacios Irrompibles Marcados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152328Z" creationid="Helli" creationdate="20150603T152328Z">
+        <seg>Segmentos Marcados con Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152311Z" creationid="Helli" creationdate="20150603T152311Z">
+        <seg>Segmento traducido marcado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152315Z" creationid="Helli" creationdate="20150603T152315Z">
+        <seg>Segmentos no traducidos marcados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152333Z" creationid="Helli" creationdate="20150603T152333Z">
+        <seg>Whitespace Marcado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152417Z" creationid="Helli" creationdate="20150603T152417Z">
+        <seg>Estadística de Coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152421Z" creationid="Helli" creationdate="20150603T152421Z">
+        <seg>Estadística de Coincidencias por Archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu Item</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151603Z" creationid="Helli" creationdate="20150603T151603Z">
+        <seg>Elemento de menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu Item Code</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151608Z" creationid="Helli" creationdate="20150603T151608Z">
+        <seg>Código de Elemento del menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More can be found in the &lt;a0&gt;Painless Bug Tracking&lt;/a0&gt; article by Joel Spolsky.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113348Z" creationid="Helli" creationdate="20150603T153039Z">
+        <seg>Puede encontrar más información  &lt;a0&gt;Painless Bug Tracking&lt;/a0&gt; artículo de Joel Spolsky.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115822Z" creationid="Helli" creationdate="20150603T151504Z">
+        <seg>La mayoría de los elementos que aparecen en el menú principal pueden tener un atajo nuevo asignado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151610Z" creationid="Helli" creationdate="20150603T151610Z">
+        <seg>Nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T154130Z" creationid="Helli" creationdate="20150603T150906Z">
+        <seg>Siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152242Z" creationid="Helli" creationdate="20150603T152242Z">
+        <seg>Siguiente Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152229Z" creationid="Helli" creationdate="20150603T152229Z">
+        <seg>Siguiente Segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152222Z" creationid="Helli" creationdate="20150603T152222Z">
+        <seg>Siguiente Segmento Traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152215Z" creationid="Helli" creationdate="20150603T152215Z">
+        <seg>Siguiente Segmento No Traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113531Z" creationid="Helli" creationdate="20150603T153043Z">
+        <seg>Observe que los informes de error y las propuestas de mejora son públicas, así que no debería añadir ningún contenido confidencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T154020Z" creationid="Helli" creationdate="20150603T150755Z">
+        <seg>Grupo de usuario.OmegaT 3.1 - User's Guid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151024Z" creationid="Helli" creationdate="20150603T151024Z">
+        <seg>OmegaT permite ejecutar los guiones escritos en diferentes lenguajes de guión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115126Z" creationid="Helli" creationdate="20150603T152847Z">
+        <seg>OmegaT selecciona automáticamente un tokenizer para la fuente y la lenguameta según la configuración de las lenguas del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115322Z" creationid="Helli" creationdate="20150603T152853Z">
+        <seg>OmegaT no arrancará si hay tokenizers  en la carpeta /plugin .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; file is modified, &lt;s1&gt;OmegaT&lt;/s1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T120026Z" creationid="Helli" creationdate="20150603T151513Z">
+        <seg>Una vez el archivo &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt;  esté modificado,  &lt;s1&gt;OmegaT&lt;/s1&gt; tiene que ser reiniciado para que tenga en cuenta los atajos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151617Z" creationid="Helli" creationdate="20150603T151617Z">
+        <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search and replace window with &lt;s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/s0&gt;+&lt;s2&gt;&lt;s3&gt;K&lt;/s3&gt;&lt;/s2&gt; and enter the word or expression you wish to replace in the &lt;s4&gt;&lt;e5&gt;Search for&lt;/e5&gt;&lt;/s4&gt; box.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T191827Z" creationid="Helli" creationdate="20150603T153227Z">
+        <seg>Abra la  ventana Buscar y reemplazar con &lt;s0&gt;&lt;s1&gt;Ctrl&lt;/s1&gt;&lt;/s0&gt; +&lt;s2&gt;&lt;s3&gt;K&lt;/s3&gt;&lt;/s2&gt; e introduzca la palabra o expresión que desea reemplazar en la cuadro de Búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151433Z" creationid="Helli" creationdate="20150603T151433Z">
+        <seg>Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152244Z" creationid="Helli" creationdate="20150603T152244Z">
+        <seg>Nota anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152234Z" creationid="Helli" creationdate="20150603T152234Z">
+        <seg>Segmento anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151713Z" creationid="Helli" creationdate="20150603T151713Z">
+        <seg>Archivos de proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151403Z" creationid="Helli" creationdate="20150603T151403Z">
+        <seg>Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151706Z" creationid="Helli" creationdate="20150603T151706Z">
+        <seg>Propiedades...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152602Z" creationid="Helli" creationdate="20150603T152602Z">
+        <seg>Acceso representativo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151731Z" creationid="Helli" creationdate="20150603T151731Z">
+        <seg>Salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151826Z" creationid="Helli" creationdate="20150603T151826Z">
+        <seg>Rehacer Última Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152201Z" creationid="Helli" creationdate="20150603T152201Z">
+        <seg>Registrar Traducción Idéntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151635Z" creationid="Helli" creationdate="20150603T151635Z">
+        <seg>Recargar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember that every good bug report needs just three things:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113227Z" creationid="Helli" creationdate="20150603T153026Z">
+        <seg>Recuerde que todo buen informe de errores necesita sólo tres cosas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115407Z" creationid="Helli" creationdate="20150603T152855Z">
+        <seg>Saque todos los tokenizers de la carpeta /plugin antes de iniciar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151834Z" creationid="Helli" creationdate="20150603T151834Z">
+        <seg>Reemplazar Con Coincidencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151901Z" creationid="Helli" creationdate="20150603T151901Z">
+        <seg>Reemplazar Con Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151856Z" creationid="Helli" creationdate="20150603T151856Z">
+        <seg>Reemplazar con Traducción automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152604Z" creationid="Helli" creationdate="20150603T152604Z">
+        <seg>Restaurar Ventana Principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111245Z" creationid="Helli" creationdate="20150603T151045Z">
+        <seg>Pulse con el botón derecho del ratón en una opción del "&lt;1&gt;" a "&lt;12&gt;" del tablero inferior y seleccione "Añadir".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151646Z" creationid="Helli" creationdate="20150603T151646Z">
+        <seg>Guardar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save then the file and relaunch &lt;s0&gt;OmegaT&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151548Z" creationid="Helli" creationdate="20150603T151548Z">
+        <seg>Guarda el archivo y relanza OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152559Z" creationid="Helli" creationdate="20150603T152559Z">
+        <seg>Guardar y Producto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151002Z" creationid="Helli" creationdate="20150603T151002Z">
+        <seg>Lenguajes de guión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152031Z" creationid="Helli" creationdate="20150603T152031Z">
+        <seg>Buscar Proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152037Z" creationid="Helli" creationdate="20150603T152037Z">
+        <seg>Buscar y Reemplazar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153224Z" creationid="Helli" creationdate="20150603T153224Z">
+        <seg>Opciones de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options are similar to the ones displayed in &lt;a0&gt;Search window&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T193815Z" creationid="Helli" creationdate="20150603T153240Z">
+        <seg>Las opciones de búsqueda son similares a las mostrados en la &lt;a0&gt;ventana de Búsqueda&lt;/a0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T153214Z" creationid="Helli" creationdate="20150603T153214Z">
+        <seg>Busacar ventana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152238Z" creationid="Helli" creationdate="20150603T152238Z">
+        <seg>Número de segmento...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152528Z" creationid="Helli" creationdate="20150603T152528Z">
+        <seg>Segmentación...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152052Z" creationid="Helli" creationdate="20150603T152052Z">
+        <seg>Selecciona Coincidencia Parcial 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152056Z" creationid="Helli" creationdate="20150603T152056Z">
+        <seg>Selecciona Coincidencia Parcial 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152101Z" creationid="Helli" creationdate="20150603T152101Z">
+        <seg>Selecciona Coincidencia Parcial 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152105Z" creationid="Helli" creationdate="20150603T152105Z">
+        <seg>Selecciona Coincidencia Parcial 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fuzzy Match 5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152112Z" creationid="Helli" creationdate="20150603T152112Z">
+        <seg>Selecciona Coincidencia Parcial 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152048Z" creationid="Helli" creationdate="20150603T152048Z">
+        <seg>Selecciona Coincidencia Siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152042Z" creationid="Helli" creationdate="20150603T152042Z">
+        <seg>Selecciona Coincidencia Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151357Z" creationid="Helli" creationdate="20150603T151357Z">
+        <seg>Atajos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152531Z" creationid="Helli" creationdate="20150603T152531Z">
+        <seg>Corrector ortográfico...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152413Z" creationid="Helli" creationdate="20150603T152413Z">
+        <seg>Estadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Steps to reproduce</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113238Z" creationid="Helli" creationdate="20150603T153029Z">
+        <seg>Pasos que ha seguido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152127Z" creationid="Helli" creationdate="20150603T152127Z">
+        <seg>Cambiar a minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152141Z" creationid="Helli" creationdate="20150603T152141Z">
+        <seg>Cambiar a tipo título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152134Z" creationid="Helli" creationdate="20150603T152134Z">
+        <seg>Cambiar a mayúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.1. Project Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151556Z" creationid="Helli" creationdate="20150603T151556Z">
+        <seg>Tabla H.1. Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.2. Edit Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151811Z" creationid="Helli" creationdate="20150603T151811Z">
+        <seg>Tabla H.2. Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.3. GoTo Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152208Z" creationid="Helli" creationdate="20150603T152208Z">
+        <seg>Tabla H.3. Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.4. View Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152305Z" creationid="Helli" creationdate="20150603T152305Z">
+        <seg>Tabla H.4. Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.5. Tools Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152350Z" creationid="Helli" creationdate="20150603T152350Z">
+        <seg>Tabla H.5. Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.6. Options Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152429Z" creationid="Helli" creationdate="20150603T152429Z">
+        <seg>Tabla H.6. Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table H.7. Help Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152609Z" creationid="Helli" creationdate="20150603T152609Z">
+        <seg>Tabla H.7. Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Validation...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152543Z" creationid="Helli" creationdate="20150603T152543Z">
+        <seg>Validación de Etiquetas ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152548Z" creationid="Helli" creationdate="20150603T152548Z">
+        <seg>Equipo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;a5&gt;FAQ &lt;/a5&gt; is a good starting point for finding answers to questions you may have.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113152Z" creationid="Helli" creationdate="20150603T153015Z">
+        <seg>El &lt;a5&gt;PMF&lt;/a5&gt; es un punto de partida bueno para encontrar respuestas a cuestiones que usted puede tener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111029Z" creationid="Helli" creationdate="20150603T151039Z">
+        <seg>La ventana Scripts le permite cargar un scripts existente en el área de texto y ejecutarlo en el proyecto en curso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;a0&gt;Default OmegaT Shortcuts for the Mac&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T121443Z" creationid="Helli" creationdate="20150603T152715Z">
+        <seg>Los atajos predeterminados de OmegaT para Mac están también disponibles en Sourceforge, todos utilizan "meta" en vez de "ctrl": &lt;a0&gt;Atajos predeterminados de OmegaT para el Mac&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;s0&gt;Open Project&lt;/s0&gt;, the second for &lt;s1&gt;Create Glossary Entry&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151537Z" creationid="Helli" creationdate="20150603T151537Z">
+        <seg>El primero es el atajo para Abrir Proyecto, el segundo para Crear Entrada de Glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112600Z" creationid="Helli" creationdate="20150603T151143Z">
+        <seg>El siguiente fragmento de código  en groovy por ejemplo busca entre todos los segmentos de todos los archivos del proyecto en curso y, si la traducción existe, imprime el original y la traducción del segmento: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following scripting languages have been implemented:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111921Z" creationid="Helli" creationdate="20150603T151127Z">
+        <seg>Los siguientes lenguajes de script han sido implementados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115923Z" creationid="Helli" creationdate="20150603T151507Z">
+        <seg>El archivo de definición del atajo debe llamarse&lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; y debe contener como máximo una definición de atajo por línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;s1&gt;&lt;e2&gt;&lt;menu item code&gt;&lt;/e2&gt;&lt;/s1&gt; is a code taken from the tables below and &lt;s3&gt;&lt;e4&gt;&lt;shortcut&gt;&lt;/e4&gt;&lt;/s3&gt; is a combination of pressed keys specified by the user&lt;a5&gt;&lt;s6&gt;[2]&lt;/s6&gt;&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T120120Z" creationid="Helli" creationdate="20150603T151517Z">
+        <seg>La sintaxis de definición del atajo es la siguiente: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, donde &lt;s1&gt;&lt;e2&gt;&lt;menu item code&gt;&lt;/e2&gt;&lt;/s1&gt; es un código tomado de las tablas de abajo y &lt;s3&gt;&lt;e4&gt;&lt;shortcut&gt;&lt;/e4&gt;&lt;/s3&gt; es una combinación de teclas pulsadas especificadas por el usuario&lt;a5&gt;&lt;s6&gt;[2]&lt;/s6&gt;&lt;/a5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The&lt;a0&gt; &lt;s1&gt;OmegaT&lt;/s1&gt; web site &lt;/a0&gt;contains links to numerous &lt;s2&gt;OmegaT&lt;/s2&gt; resources.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112913Z" creationid="Helli" creationdate="20150603T153003Z">
+        <seg>La &lt;a0&gt; &lt;s1&gt;página&lt;/s1&gt; OmegaT &lt;/a0&gt; contiene enlaces a numerosos recursos OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click on &lt;s0&gt;&lt;e1&gt;Search&lt;/e1&gt;&lt;/s0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T192023Z" creationid="Helli" creationdate="20150603T153229Z">
+        <seg>Entonces haga clic en Búsqueda para visualizar todos los resultados correspondientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They also improve glossary matching.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114541Z" creationid="Helli" creationdate="20150603T152827Z">
+        <seg>También mejoran las coincidencias del glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114823Z" creationid="Helli" creationdate="20150603T152833Z">
+        <seg>Esto es especialmente útil en el caso de lenguas que usan formas prefijadas y sufijadas para crear palabras flexivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To contribute to &lt;s0&gt;OmegaT&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113629Z" creationid="Helli" creationdate="20150603T153053Z">
+        <seg>Para contribuir a OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the script feature, do the following:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111102Z" creationid="Helli" creationdate="20150603T151041Z">
+        <seg>Para personalizar las característica de scripts, haga lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get involved in the &lt;s3&gt;OmegaT&lt;/s3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;a4&gt;omegat-development-request@lists.sourceforge.net&lt;/a4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113832Z" creationid="Helli" creationdate="20150603T153104Z">
+        <seg>Para formar parte del desarrollo de OmegaT puede unirse al grupo de desarrolladores, a través de la web o enviando un correo electrónico a &lt;a4&gt;omegat-development-request@lists.sourceforge.net&lt;/a4&gt; con la palabra "suscribe" en el asunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T194042Z" creationid="Helli" creationdate="20150603T153243Z">
+        <seg>Para hacerlo posible (a pesar de que Buscar y reemplazar opera sólo en la memoria), OmegaT copiará el segmento fuente al segmento objetivo antes de que se realice la operación de reemplazar. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To support the OmegaT project financially</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114118Z" creationid="Helli" creationdate="20150603T153115Z">
+        <seg>Para apoyar el proyecto OmegaT economicamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate &lt;s0&gt;OmegaT&lt;/s0&gt;'s user interface, user manual or other related documents:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113840Z" creationid="Helli" creationdate="20150603T153106Z">
+        <seg>Para traducirla la interfaz de usuario de OmegaT, manual de usuario u otros documentos relacionados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114518Z" creationid="Helli" creationdate="20150603T152824Z">
+        <seg>Tokenizers (o stemming, un método para reducir una palabra a su raíz) mejora la calidad de coincidencias al reconocer palabras flexivas en los datos del original y de la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152845Z" creationid="Helli" creationdate="20150603T152845Z">
+        <seg>Tokenizers están incluidos en OmegaT y activos por defecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151429Z" creationid="Helli" creationdate="20150603T151429Z">
+        <seg>Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152501Z" creationid="Helli" creationdate="20150603T152501Z">
+        <seg>TransTips/Activar Transtips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Exact Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152505Z" creationid="Helli" creationdate="20150603T152505Z">
+        <seg>TransTips/Coincidencias Exactas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151819Z" creationid="Helli" creationdate="20150603T151819Z">
+        <seg>Deshacer Última Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T150944Z" creationid="Helli" creationdate="20150603T150944Z">
+        <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152437Z" creationid="Helli" creationdate="20150603T152437Z">
+        <seg>Usar TAB para Avanzar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152150Z" creationid="Helli" creationdate="20150603T152150Z">
+        <seg>Usar como Traducción Predeterminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User Group&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113123Z" creationid="Helli" creationdate="20150603T153008Z">
+        <seg>de OmegaT Yahoo&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152624Z" creationid="Helli" creationdate="20150603T152624Z">
+        <seg>Manual de usuario...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support is provided on a volunteer basis at the &lt;a3&gt;&lt;s4&gt;OmegaT&lt;/s4&gt; Yahoo!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113051Z" creationid="Helli" creationdate="20150603T153005Z">
+        <seg>Se proporciona asistencia al usuario está proporcionado basado en aportaciones voluntarias en el &lt;a3&gt;&lt;s4&gt;Grupo&lt;/s4&gt; de usuarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152403Z" creationid="Helli" creationdate="20150603T152403Z">
+        <seg>Validar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152410Z" creationid="Helli" creationdate="20150603T152410Z">
+        <seg>Validar Etiquetas para Documento Actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151425Z" creationid="Helli" creationdate="20150603T151425Z">
+        <seg>Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152554Z" creationid="Helli" creationdate="20150603T152554Z">
+        <seg>Ver...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you expected to see</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113249Z" creationid="Helli" creationdate="20150603T153033Z">
+        <seg>Qué esperaba ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you saw instead</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113328Z" creationid="Helli" creationdate="20150603T153036Z">
+        <seg>Qué vio en su lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you left-click on the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111524Z" creationid="Helli" creationdate="20150603T151048Z">
+        <seg>Cuando pulse con el botón izquierdo del ratón en el número, el script seleccionado ejecutará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111751Z" creationid="Helli" creationdate="20150603T151122Z">
+        <seg> Puedes añadir scripts nuevos allí, y así aparecerán en la lista de guiones disponibles en ventana de guión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also file &lt;a6&gt;bug reports&lt;/a6&gt; and &lt;a7&gt;requests for enhancements.&lt;/a7&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113214Z" creationid="Helli" creationdate="20150603T153023Z">
+        <seg>También puede presentar &lt;a6&gt;informes de errores&lt;/a6&gt; y &lt;a7&gt;propuestas de mejora&lt;/a7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;a0&gt;User files location&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115858Z" creationid="Helli" creationdate="20150603T151505Z">
+        <seg> Puede cambiar los atajos ya asignados y añadir atajos nuevos colocando un archivo de definición del atajo en la carpeta de preferencias de OmegaT (vea &lt;a0&gt;ubicación de archivos del usuario&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;s0&gt;Tools &lt;/s0&gt;menu or by pressing&lt;s1&gt;&lt;s2&gt; Ctrl+Alt+F#&lt;/s2&gt;&lt;/s1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111550Z" creationid="Helli" creationdate="20150603T151103Z">
+        <seg> Puede iniciar las macros seleccionadas del menú principal también utilizando sus entradas en el menú de Herramientas o pulsando &lt;s1&gt;&lt;s2&gt; Ctrl+Alt+F&lt;/s2&gt;&lt;/s1&gt; # (# 1 to 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113429Z" creationid="Helli" creationdate="20150603T153041Z">
+        <seg> Debería añadir copias de archivos, partes del registro, capturas de pantalla y cualquier cosa que cree que ayudará a los desarrolladores para encontrar y solucionar su error. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151550Z" creationid="Helli" creationdate="20150603T151550Z">
+        <seg>Sus atajos nuevos ahora tendrían que aparecer al lado de los elementos de menú que ha modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard&lt;a1&gt;&lt;s2&gt;[4]&lt;/s2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T120322Z" creationid="Helli" creationdate="20150603T151531Z">
+        <seg>Y &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; puede ser cualquier tecla disponible en el teclado&lt;a1&gt;&lt;s2&gt;[4]&lt;/s2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151147Z" creationid="Helli" creationdate="20150603T151147Z">
+        <seg>Filtros de archivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>first join the &lt;a0&gt;user group&lt;/a0&gt; (via web or by sending an email to &lt;a1&gt;&lt;s2&gt;OmegaT&lt;/s2&gt;-subscribe@yahoogroups.com&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113756Z" creationid="Helli" creationdate="20150603T153059Z">
+        <seg>Primero unáse al &lt;a0&gt;grupo de usuario&lt;/a0&gt; (vía web o enviando un correo electrónico a &lt;a1&gt;&lt;s2&gt;omegaT&lt;/s2&gt;-subscribe@yahoogroups.com&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>first read the &lt;a0&gt;Localizing and Customizing &lt;s1&gt;OmegaT&lt;/s1&gt;&lt;/a0&gt; guide, and join the &lt;s2&gt;OmegaT&lt;/s2&gt; translators' group via web or by sending an email to &lt;a3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a3&gt; with subject "subscribe".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T114043Z" creationid="Helli" creationdate="20150603T153112Z">
+        <seg>Primero lea la guía de &lt;a0&gt;Localización y Adaptación&lt;s1&gt; OmegaT&lt;/s1&gt;&lt;/a0&gt;, y únase al grupo de los traductores de OmegaT vía web o enviando un correo electrónico a &lt;a3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a3&gt; con la palabra "suscribir" en el asunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152837Z" creationid="Helli" creationdate="20150603T152837Z">
+        <seg>lep, lepa, lepo - singular, masculino, femenino, neutro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152842Z" creationid="Helli" creationdate="20150603T152842Z">
+        <seg>najlepš*ih - superlativo, plural, genitivo para M,F,N</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
