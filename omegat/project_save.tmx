@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T220914Z" creationid="hcartagena" creationdate="20151116T220914Z">
+        <seg>&amp;Glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203341Z" creationid="hcartagena" creationdate="20151116T203341Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202605Z" creationid="hcartagena" creationdate="20151116T202605Z">
         <seg>&amp;Propiedades...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Proxy Login...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T220901Z" creationid="hcartagena" creationdate="20151116T220901Z">
+        <seg>Acceso vía proxy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +354,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203452Z" creationid="hcartagena" creationdate="20151116T203452Z">
         <seg>&amp;Segmento número...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T220905Z" creationid="hcartagena" creationdate="20151116T220905Z">
+        <seg>&amp;Segmentación...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1670,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T220910Z" creationid="hcartagena" creationdate="20151116T220910Z">
+        <seg>Tra&amp;ducción automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translate</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T141107Z" creationid="Helli" creationdate="20150526T141107Z">
@@ -2177,8 +2209,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Sa&amp;ving and Output...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204603Z" creationid="hcartagena" creationdate="20151116T204507Z">
-        <seg>Guarda&amp;r y generar...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T220734Z" creationid="hcartagena" creationdate="20151116T204507Z">
+        <seg>Guarda&amp;do y resultado...</seg>
       </tuv>
     </tu>
     <tu>
