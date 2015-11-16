@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T193156Z" creationid="hcartagena" creationdate="20151116T193149Z">
+        <seg>1) reducir el número de archivos de origen y traducir en lotes;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.1. Search options</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155426Z" creationid="Helli" creationdate="20150526T155426Z">
@@ -194,6 +202,17 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154910Z" creationid="Helli" creationdate="20150526T154910Z">
         <seg>1. Buscar ventana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T193152Z" creationid="hcartagena" creationdate="20151116T193152Z">
+        <seg>2</seg>
       </tuv>
     </tu>
     <tu>
