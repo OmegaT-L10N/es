@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221005Z" creationid="hcartagena" creationdate="20151116T221005Z">
+        <seg>Mostrar &amp;descripción contextual en glosarios en TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202859Z" creationid="hcartagena" creationdate="20151116T202859Z">
@@ -410,6 +418,22 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202907Z" creationid="hcartagena" creationdate="20151116T202907Z">
         <seg>&amp;Deshacer la última acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Use Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221220Z" creationid="hcartagena" creationdate="20151116T221220Z">
+        <seg>&amp;Usar coincidencias parciales para entradas del diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221031Z" creationid="hcartagena" creationdate="20151116T221031Z">
+        <seg>&amp;Usar términos que aparecen separados en el texto original</seg>
       </tuv>
     </tu>
     <tu>
@@ -1290,6 +1314,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134909Z" creationid="Helli" creationdate="20150526T130841Z">
         <seg>Atajo predeterminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221203Z" creationid="hcartagena" creationdate="20151116T221203Z">
+        <seg>Diccionar&amp;io</seg>
       </tuv>
     </tu>
     <tu>
@@ -2771,6 +2803,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204012Z" creationid="hcartagena" creationdate="20151116T204012Z">
         <seg>Usar &amp;TAB para avanzar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Stemming for &amp;Glossary Entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221147Z" creationid="hcartagena" creationdate="20151116T221147Z">
+        <seg>Usar lexemas en entradas del &amp;glosario</seg>
       </tuv>
     </tu>
     <tu>
