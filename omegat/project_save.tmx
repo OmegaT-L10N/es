@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202319Z" creationid="hcartagena" creationdate="20151116T202319Z">
+        <seg>&amp;Abrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T200652Z" creationid="hcartagena" creationdate="20151116T200652Z">
@@ -982,6 +990,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202315Z" creationid="hcartagena" creationdate="20151116T202315Z">
+        <seg>Descargar Proyecto en Grupo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131104Z" creationid="Helli" creationdate="20150526T130945Z">
@@ -1467,6 +1483,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131030Z" creationid="Helli" creationdate="20150526T130935Z">
         <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202328Z" creationid="hcartagena" creationdate="20151116T202328Z">
+        <seg>Abrir proyecto reciente</seg>
       </tuv>
     </tu>
     <tu>
