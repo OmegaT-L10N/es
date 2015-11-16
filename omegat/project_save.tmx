@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202639Z" creationid="hcartagena" creationdate="20151116T202639Z">
-        <seg>&amp;Acceso a contenido del proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202707Z" creationid="hcartagena" creationdate="20151116T202639Z">
+        <seg>&amp;Acceso a carpetas del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +54,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202802Z" creationid="hcartagena" creationdate="20151116T202754Z">
+        <seg>Do&amp;cumento de origen actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202711Z" creationid="hcartagena" creationdate="20151116T202711Z">
+        <seg>&amp;Diccionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202859Z" creationid="hcartagena" creationdate="20151116T202859Z">
+        <seg>&amp;Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192513Z" creationid="hcartagena" creationdate="20151116T192513Z">
@@ -86,10 +110,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202715Z" creationid="hcartagena" creationdate="20151116T202715Z">
+        <seg>&amp;Glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192651Z" creationid="hcartagena" creationdate="20151116T192651Z">
         <seg>&amp;Insertar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202926Z" creationid="hcartagena" creationdate="20151116T202926Z">
+        <seg>&amp;Insertar coincidencia o selección</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +174,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202854Z" creationid="hcartagena" creationdate="20151116T202854Z">
+        <seg>&amp;Salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202910Z" creationid="hcartagena" creationdate="20151116T202910Z">
+        <seg>&amp;Rehacer la última acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reload</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202521Z" creationid="hcartagena" creationdate="20151116T202521Z">
@@ -174,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202703Z" creationid="hcartagena" creationdate="20151116T202703Z">
+        <seg>&amp;Raíz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202524Z" creationid="hcartagena" creationdate="20151116T202524Z">
@@ -198,10 +262,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202915Z" creationid="hcartagena" creationdate="20151116T202915Z">
+        <seg>Bu&amp;scar en el proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192740Z" creationid="hcartagena" creationdate="20151116T192740Z">
         <seg>&amp;Omitir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202811Z" creationid="hcartagena" creationdate="20151116T202734Z">
+        <seg>Archivo&amp;s de origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202818Z" creationid="hcartagena" creationdate="20151116T202742Z">
+        <seg>Archivos de des&amp;tino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202907Z" creationid="hcartagena" creationdate="20151116T202907Z">
+        <seg>&amp;Deshacer la última acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202847Z" creationid="hcartagena" creationdate="20151116T202847Z">
+        <seg>Glosario edita&amp;ble</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +990,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202830Z" creationid="hcartagena" creationdate="20151116T202830Z">
+        <seg>Documento de destino act&amp;ual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 15. Searches</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155730Z" creationid="Helli" creationdate="20150526T155730Z">
@@ -1202,6 +1314,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T122832Z" creationid="Helli" creationdate="20150526T122832Z">
         <seg>Inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203003Z" creationid="hcartagena" creationdate="20151116T203003Z">
+        <seg>I&amp;nsertar original</seg>
       </tuv>
     </tu>
     <tu>
@@ -1695,6 +1815,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202940Z" creationid="hcartagena" creationdate="20151116T202940Z">
+        <seg>R&amp;eemplazar con la coincidencia o selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191954Z" creationid="hcartagena" creationdate="20151116T191954Z">
@@ -1763,6 +1891,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131943Z" creationid="Helli" creationdate="20150526T131817Z">
         <seg>Reemplazar Con Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202953Z" creationid="hcartagena" creationdate="20151116T202953Z">
+        <seg>Reemplazar con la traducción automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -2003,6 +2139,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T133416Z" creationid="Helli" creationdate="20150526T133416Z">
         <seg>Cambiar a mayúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202725Z" creationid="hcartagena" creationdate="20151116T202725Z">
+        <seg>&amp;Memorias</seg>
       </tuv>
     </tu>
     <tu>
