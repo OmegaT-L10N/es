@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221538Z" creationid="hcartagena" creationdate="20151116T221538Z">
+        <seg>Confirmar &amp;antes de salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Auto-text...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221430Z" creationid="hcartagena" creationdate="20151116T221430Z">
+        <seg>&amp;Autotexto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192147Z" creationid="hcartagena" creationdate="20151116T192147Z">
@@ -50,6 +66,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191938Z" creationid="hcartagena" creationdate="20151116T191938Z">
         <seg>&amp;Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Character Table...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221523Z" creationid="hcartagena" creationdate="20151116T221523Z">
+        <seg>Tabla de &amp;caracteres...</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Exact Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221353Z" creationid="hcartagena" creationdate="20151116T221353Z">
+        <seg>Coincid&amp;encia exacta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191949Z" creationid="hcartagena" creationdate="20151116T191949Z">
@@ -154,6 +186,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T220914Z" creationid="hcartagena" creationdate="20151116T220914Z">
         <seg>&amp;Glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221423Z" creationid="hcartagena" creationdate="20151116T221423Z">
+        <seg>&amp;Glosario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +410,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T220905Z" creationid="hcartagena" creationdate="20151116T220905Z">
         <seg>&amp;Segmentación...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221412Z" creationid="hcartagena" creationdate="20151116T221412Z">
+        <seg>Mo&amp;strar sugerencias pertinentes automáticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1030,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221419Z" creationid="hcartagena" creationdate="20151116T221419Z">
+        <seg>A&amp;utocompletar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144046Z" creationid="Helli" creationdate="20150526T144046Z">
@@ -1394,6 +1450,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124728Z" creationid="Helli" creationdate="20150526T124728Z">
         <seg>Las líneas vacías están aceptadas y líneas de comentario deberían empezar con "//".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable &amp;TransTips</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221347Z" creationid="hcartagena" creationdate="20151116T221347Z">
+        <seg>Habilitar &amp;TransTips</seg>
       </tuv>
     </tu>
     <tu>
