@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202639Z" creationid="hcartagena" creationdate="20151116T202639Z">
+        <seg>&amp;Acceso a contenido del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192524Z" creationid="hcartagena" creationdate="20151116T192524Z">
@@ -118,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202605Z" creationid="hcartagena" creationdate="20151116T202605Z">
+        <seg>&amp;Propiedades...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202521Z" creationid="hcartagena" creationdate="20151116T202521Z">
+        <seg>Volve&amp;r a cargar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192343Z" creationid="hcartagena" creationdate="20151116T192343Z">
@@ -146,6 +170,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192747Z" creationid="hcartagena" creationdate="20151116T192747Z">
         <seg>&amp;Reemplazar siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202524Z" creationid="hcartagena" creationdate="20151116T202524Z">
+        <seg>&amp;Guardar</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,10 +958,42 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202350Z" creationid="hcartagena" creationdate="20151116T202350Z">
+        <seg>Cop&amp;iar archivos a carpeta Source...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202403Z" creationid="hcartagena" creationdate="20151116T202403Z">
+        <seg>Copiar archivos a carpeta Source...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202550Z" creationid="hcartagena" creationdate="20151116T202550Z">
+        <seg>Crear documentos &amp;traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134523Z" creationid="Helli" creationdate="20150526T134523Z">
         <seg>Crear Traducción Alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202602Z" creationid="hcartagena" creationdate="20151116T202602Z">
+        <seg>Crear &amp;documento traducido actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1062,22 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202419Z" creationid="hcartagena" creationdate="20151116T202419Z">
+        <seg>Descargar página de Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202430Z" creationid="hcartagena" creationdate="20151116T202430Z">
+        <seg>Descargar página de MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131104Z" creationid="Helli" creationdate="20150526T130945Z">
@@ -1042,6 +1122,22 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143500Z" creationid="Helli" creationdate="20150526T143500Z">
         <seg>TMXs Externos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202614Z" creationid="hcartagena" creationdate="20151116T202614Z">
+        <seg>&amp;Filtros de archivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202516Z" creationid="hcartagena" creationdate="20151116T202516Z">
+        <seg>Error al copiar el archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1495,10 +1591,26 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202608Z" creationid="hcartagena" creationdate="20151116T202608Z">
+        <seg>Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124429Z" creationid="Helli" creationdate="20150526T124429Z">
         <seg>Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202446Z" creationid="hcartagena" creationdate="20151116T202446Z">
+        <seg>Escriba o pegue la URL de la página de MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1515,6 +1627,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135041Z" creationid="Helli" creationdate="20150526T135041Z">
         <seg>Segmento anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202622Z" creationid="hcartagena" creationdate="20151116T202622Z">
+        <seg>Archivos de&amp;l proyecto...</seg>
       </tuv>
     </tu>
     <tu>
