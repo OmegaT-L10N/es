@@ -56,8 +56,8 @@
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202802Z" creationid="hcartagena" creationdate="20151116T202754Z">
-        <seg>Do&amp;cumento de origen actual</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203053Z" creationid="hcartagena" creationdate="20151116T202754Z">
+        <seg>Do&amp;cumento original actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,16 +280,16 @@
       <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202811Z" creationid="hcartagena" creationdate="20151116T202734Z">
-        <seg>Archivo&amp;s de origen</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203036Z" creationid="hcartagena" creationdate="20151116T202734Z">
+        <seg>Archivo&amp;s originales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202818Z" creationid="hcartagena" creationdate="20151116T202742Z">
-        <seg>Archivos de des&amp;tino</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203048Z" creationid="hcartagena" creationdate="20151116T202742Z">
+        <seg>Archivos &amp;traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,8 +330,8 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T193156Z" creationid="hcartagena" creationdate="20151116T193149Z">
-        <seg>1) reducir el número de archivos de origen y traducir en lotes;</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203031Z" creationid="hcartagena" creationdate="20151116T193149Z">
+        <seg>1) reducir el número de archivos originales y traducir en lotes;</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202830Z" creationid="hcartagena" creationdate="20151116T202830Z">
-        <seg>Documento de destino act&amp;ual</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203112Z" creationid="hcartagena" creationdate="20151116T202830Z">
+        <seg>Documento traducido act&amp;ual</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1082,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202403Z" creationid="hcartagena" creationdate="20151116T202403Z">
         <seg>Copiar archivos a carpeta Source...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203234Z" creationid="hcartagena" creationdate="20151116T203234Z">
+        <seg>Crear entrada de &amp;glosario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1202,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131104Z" creationid="Helli" creationdate="20150526T130945Z">
         <seg>Descargar Proyecto en Equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203115Z" creationid="hcartagena" creationdate="20151116T203115Z">
+        <seg>E&amp;xportar selección</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,6 +1406,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203158Z" creationid="hcartagena" creationdate="20151116T203158Z">
+        <seg>Insertar e&amp;tiquetas originales faltantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132155Z" creationid="Helli" creationdate="20150526T132155Z">
@@ -1410,6 +1434,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131915Z" creationid="Helli" creationdate="20150526T131915Z">
         <seg>Insertar Etiquetas Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203207Z" creationid="hcartagena" creationdate="20151116T203207Z">
+        <seg>Insertar etiqueta {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1839,6 +1871,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203021Z" creationid="hcartagena" creationdate="20151116T203021Z">
+        <seg>Reem&amp;plazar con el original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Redo Last Action</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131701Z" creationid="Helli" creationdate="20150526T131701Z">
@@ -1849,8 +1889,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T134533Z" creationid="Helli" creationdate="20150526T134533Z">
-        <seg>Registrar Traducción Idéntica</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203224Z" creationid="Helli" creationdate="20150526T134533Z">
+        <seg>Registrar traducción idéntica</seg>
       </tuv>
     </tu>
     <tu>
@@ -1875,6 +1915,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152329Z" creationid="Helli" creationdate="20150526T152329Z">
         <seg>Sacar todos los tokenizers de la /plugin carpeta antes de iniciar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203212Z" creationid="hcartagena" creationdate="20151116T203212Z">
+        <seg>Eliminar traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -2039,6 +2087,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203304Z" creationid="hcartagena" creationdate="20151116T203304Z">
+        <seg>Seleccionar coincidencia siguie&amp;nte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fuzzy Match 1</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132825Z" creationid="Helli" creationdate="20150526T132527Z">
@@ -2079,6 +2135,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203246Z" creationid="hcartagena" creationdate="20151116T203246Z">
+        <seg>Seleccionar &amp;coincidencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Next Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132731Z" creationid="Helli" creationdate="20150526T132334Z">
@@ -2091,6 +2155,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132701Z" creationid="Helli" creationdate="20150526T132311Z">
         <seg>Selecciona Coincidencia Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203220Z" creationid="hcartagena" creationdate="20151116T203220Z">
+        <seg>Establecer traducción vacía</seg>
       </tuv>
     </tu>
     <tu>
