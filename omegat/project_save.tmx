@@ -1278,6 +1278,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot open the link {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223745Z" creationid="hcartagena" creationdate="20151116T223745Z">
+        <seg>No se pudo abrir el enlace {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 15. Searches</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155730Z" creationid="Helli" creationdate="20150526T155730Z">
@@ -3175,6 +3183,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223831Z" creationid="hcartagena" creationdate="20151116T223831Z">
+        <seg>Para acceder a este enlace, puede copiar y pegar la URL en su navegador de Internet o abrir el Manual de Usuario en su navegador de Internet preferido (archivo {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
@@ -3363,6 +3379,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223728Z" creationid="hcartagena" creationdate="20151116T223728Z">
         <seg>Manual de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual viewer does not support navigation to external links.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223756Z" creationid="hcartagena" creationdate="20151116T223756Z">
+        <seg>El visor del Manual de Usuario no es compatible con la navegación a enlaces externos.</seg>
       </tuv>
     </tu>
     <tu>
