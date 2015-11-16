@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192524Z" creationid="hcartagena" creationdate="20151116T192524Z">
+        <seg>&amp;Añadir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192509Z" creationid="hcartagena" creationdate="20151116T192509Z">
+        <seg>&amp;Añadir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192147Z" creationid="hcartagena" creationdate="20151116T192147Z">
@@ -30,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192513Z" creationid="hcartagena" creationdate="20151116T192513Z">
+        <seg>&amp;Editar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191949Z" creationid="hcartagena" creationdate="20151116T191949Z">
         <seg>&amp;Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192651Z" creationid="hcartagena" creationdate="20151116T192651Z">
+        <seg>&amp;Insertar</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +586,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151314Z" creationid="Helli" creationdate="20150526T151314Z">
         <seg>Un  algoritmo stemming reduce las palabras "fishing", "fished", "fish", y "*fisher" a la palabra de raíz, "fish".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192527Z" creationid="hcartagena" creationdate="20151116T192527Z">
+        <seg>Aña&amp;dir</seg>
       </tuv>
     </tu>
     <tu>
@@ -1439,6 +1479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192646Z" creationid="hcartagena" creationdate="20151116T192646Z">
+        <seg>Restaurar valore prede&amp;terminados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore Main Window</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143711Z" creationid="Helli" creationdate="20150526T143711Z">
@@ -1785,8 +1833,8 @@
       <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192415Z" creationid="hcartagena" creationdate="20151116T192415Z">
-        <seg>Esta traducción es obra del Equipo de Localización al Español, copyright© 2015.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192438Z" creationid="hcartagena" creationdate="20151116T192415Z">
+        <seg>Esta traducción es obra del Grupo de Localización al Español, copyright© 2015.</seg>
       </tuv>
     </tu>
     <tu>
