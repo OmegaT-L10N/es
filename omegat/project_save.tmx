@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223525Z" creationid="hcartagena" creationdate="20151116T223525Z">
+        <seg>&amp;Aplicar esta fuente en datos tabulados (archivos del proyecto, estadísticas, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-text...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221430Z" creationid="hcartagena" creationdate="20151116T221430Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192733Z" creationid="hcartagena" creationdate="20151116T192733Z">
         <seg>&amp;Reparar todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Font</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223437Z" creationid="hcartagena" creationdate="20151116T223437Z">
+        <seg>&amp;Fuente</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +466,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221412Z" creationid="hcartagena" creationdate="20151116T221412Z">
         <seg>Mo&amp;strar sugerencias pertinentes automáticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223443Z" creationid="hcartagena" creationdate="20151116T223443Z">
+        <seg>&amp;Tamaño</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +1270,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot locate help file:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223734Z" creationid="hcartagena" creationdate="20151116T223734Z">
+        <seg>No se puede encontrar el archivo de ayuda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter 15. Searches</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155730Z" creationid="Helli" creationdate="20150526T155730Z">
@@ -1282,6 +1314,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155409Z" creationid="Helli" creationdate="20150526T155409Z">
         <seg>Haga clic en &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Reemplazar Siguienteo&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; o &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Omitir&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;, entonces acaba la sesión de sustitución con &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Fin&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223712Z" creationid="hcartagena" creationdate="20151116T223712Z">
+        <seg>Cer&amp;rar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1574,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223545Z" creationid="hcartagena" creationdate="20151116T223545Z">
+        <seg>Codificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222204Z" creationid="hcartagena" creationdate="20151116T222204Z">
@@ -1650,6 +1698,30 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223308Z" creationid="hcartagena" creationdate="20151116T223308Z">
         <seg>Archivo: % únicos traducidos (únicos restantes) / proyecto: % únicos traducidos (únicos restantes), número total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223539Z" creationid="hcartagena" creationdate="20151116T223539Z">
+        <seg>Nombre de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223542Z" creationid="hcartagena" creationdate="20151116T223542Z">
+        <seg>Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223704Z" creationid="hcartagena" creationdate="20151116T223704Z">
+        <seg>Filtro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2150,38 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223643Z" creationid="hcartagena" creationdate="20151116T223643Z">
+        <seg>Mover a&amp;bajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223626Z" creationid="hcartagena" creationdate="20151116T223626Z">
+        <seg>Mover al &amp;principio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223658Z" creationid="hcartagena" creationdate="20151116T223658Z">
+        <seg>Mover al &amp;final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223634Z" creationid="hcartagena" creationdate="20151116T223634Z">
+        <seg>Mover &amp;arriba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130857Z" creationid="Helli" creationdate="20150526T130857Z">
@@ -2179,6 +2283,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES">
         <seg>Nota:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223719Z" creationid="hcartagena" creationdate="20151116T223719Z">
+        <seg>Número de segmentos únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2307,6 +2419,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202622Z" creationid="hcartagena" creationdate="20151116T202622Z">
         <seg>Archivos de&amp;l proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223536Z" creationid="hcartagena" creationdate="20151116T223536Z">
+        <seg>Archivos del proyecto ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -2543,6 +2663,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223501Z" creationid="hcartagena" creationdate="20151116T223501Z">
+        <seg>Muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131321Z" creationid="Helli" creationdate="20150526T131321Z">
@@ -2651,6 +2779,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142938Z" creationid="Helli" creationdate="20150526T142938Z">
         <seg>Segmentación...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223548Z" creationid="hcartagena" creationdate="20151116T223548Z">
+        <seg>Segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3023,6 +3159,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223451Z" creationid="hcartagena" creationdate="20151116T223451Z">
+        <seg>Este es el aspecto que tendrá el texto en pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192438Z" creationid="hcartagena" creationdate="20151116T192415Z">
@@ -3087,6 +3231,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223715Z" creationid="hcartagena" creationdate="20151116T223715Z">
+        <seg>Número total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TransTips/Enable Transtips</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142629Z" creationid="Helli" creationdate="20150526T142629Z">
@@ -3099,6 +3251,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142648Z" creationid="Helli" creationdate="20150526T142648Z">
         <seg>TransTips/Coincidencias Exactas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223723Z" creationid="hcartagena" creationdate="20151116T223723Z">
+        <seg>Segmentos únicos traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3123,6 +3283,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131647Z" creationid="Helli" creationdate="20150526T131647Z">
         <seg>Deshacer Última Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223550Z" creationid="hcartagena" creationdate="20151116T223550Z">
+        <seg>Segmentos únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3187,6 +3355,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153032Z" creationid="Helli" creationdate="20150526T153032Z">
         <seg>Soporte de usuario está proporcionado en una base de voluntario en el &lt;/f11&gt;&lt;a12&gt;OmegaT&lt;/a12&gt;&lt;a13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;f16&gt;Yahoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223728Z" creationid="hcartagena" creationdate="20151116T223728Z">
+        <seg>Manual de usuario</seg>
       </tuv>
     </tu>
     <tu>
@@ -3275,6 +3451,16 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124636Z" creationid="Helli" creationdate="20150526T124636Z">
         <seg> Puede cambiar los atajos ya asignados y añadir atajos nuevos colocando un archivo de definición del atajo en su OmegaT carpeta de preferencias (ve &lt;/f0&gt;&lt;f1&gt;ubicación de archivos del Usuario&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223611Z" creationid="hcartagena" creationdate="20151116T223611Z">
+        <seg>Puede encontrar información estadística detallada en el archivo:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
