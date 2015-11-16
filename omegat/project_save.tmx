@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203704Z" creationid="hcartagena" creationdate="20151116T203704Z">
+        <seg>Estadísticas de &amp;coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T200654Z" creationid="hcartagena" creationdate="20151116T200654Z">
@@ -334,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203658Z" creationid="hcartagena" creationdate="20151116T203658Z">
+        <seg>E&amp;stadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203048Z" creationid="hcartagena" creationdate="20151116T202742Z">
@@ -342,10 +358,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203630Z" creationid="hcartagena" creationdate="20151116T203630Z">
+        <seg>Herramien&amp;tas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202907Z" creationid="hcartagena" creationdate="20151116T202907Z">
         <seg>&amp;Deshacer la última acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate Tags...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203638Z" creationid="hcartagena" creationdate="20151116T203638Z">
+        <seg>&amp;Validar etiquetas...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1670,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203719Z" creationid="hcartagena" creationdate="20151116T203719Z">
+        <seg>Estadísticas de coincidencias por &amp;archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics per File</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140736Z" creationid="Helli" creationdate="20150526T140736Z">
@@ -1723,6 +1763,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135011Z" creationid="Helli" creationdate="20150526T135011Z">
         <seg>Siguiente Segmento Traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203626Z" creationid="hcartagena" creationdate="20151116T203626Z">
+        <seg>Siguiente seg&amp;mento único</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,6 +2691,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140650Z" creationid="Helli" creationdate="20150526T140641Z">
         <seg>Validar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for &amp;Current Document...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203655Z" creationid="hcartagena" creationdate="20151116T203655Z">
+        <seg>Validar etiquetas del do&amp;cumento actual...</seg>
       </tuv>
     </tu>
     <tu>
