@@ -153,9 +153,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T195030Z" creationid="hcartagena" creationdate="20151116T195030Z">
-        <seg>(Vea 'Archivos a traducir' &gt; 'Formatos de archivo' para ver un listado de formatos de archivo compatibles)
-Para añadir archivos al proyecto, haga clic en el botón Copiar archivos a la carpeta </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200356Z" creationid="hcartagena" creationdate="20151116T195030Z">
+        <seg>(Vea 'Archivos a traducir' &gt; 'Formatos de archivo' en el manual de usuario para ver un listado de
+formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en el botón Copiar archivos a la carpeta Source... en la ventana Archivos del proyecto o invoque esta acción desde el menú Proyecto y seleccione los archivos que desea copiar.</seg>
       </tuv>
     </tu>
     <tu>
