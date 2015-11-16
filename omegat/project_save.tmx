@@ -1510,6 +1510,22 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222204Z" creationid="hcartagena" creationdate="20151116T222204Z">
+        <seg>Introduzca el número de segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries with modified tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222051Z" creationid="hcartagena" creationdate="20151116T222051Z">
+        <seg>Entradas con etiquetas modificadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export Selection</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132214Z" creationid="Helli" creationdate="20150526T132214Z">
@@ -1538,6 +1554,30 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204132Z" creationid="hcartagena" creationdate="20151116T204132Z">
         <seg>F&amp;uente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222047Z" creationid="hcartagena" creationdate="20151116T222047Z">
+        <seg>Error al compilar los archivos del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222041Z" creationid="hcartagena" creationdate="20151116T222041Z">
+        <seg>Error al cargar el proyecto especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222028Z" creationid="hcartagena" creationdate="20151116T222028Z">
+        <seg>Error al cargar la memoria de traducción {0} del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1830,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222121Z" creationid="hcartagena" creationdate="20151116T222121Z">
+        <seg>No se pudieron crear los documentos traducidos, porque hay etiquetas faltantes o dañadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221805Z" creationid="hcartagena" creationdate="20151116T221805Z">
@@ -2031,6 +2079,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No tag errors detected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222055Z" creationid="hcartagena" creationdate="20151116T222055Z">
+        <seg>No se detectaron errores de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153849Z" creationid="Helli" creationdate="20150526T153716Z">
@@ -2123,6 +2179,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124429Z" creationid="Helli" creationdate="20150526T124429Z">
         <seg>Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222156Z" creationid="hcartagena" creationdate="20151116T222156Z">
+        <seg>Corrija los problemas con las etiquetas antes de volver a usar Crear documentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3019,6 +3083,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140701Z" creationid="Helli" creationdate="20150526T140647Z">
         <seg>Validar Etiquetas para Documento Actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating Tags...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222059Z" creationid="hcartagena" creationdate="20151116T222059Z">
+        <seg>Validando etiquetas...</seg>
       </tuv>
     </tu>
     <tu>
