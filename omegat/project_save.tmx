@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203525Z" creationid="hcartagena" creationdate="20151116T203512Z">
+        <seg>&amp;Retroceder en el historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191938Z" creationid="hcartagena" creationdate="20151116T191938Z">
@@ -110,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203521Z" creationid="hcartagena" creationdate="20151116T203504Z">
+        <seg>A&amp;vanzar en el historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202715Z" creationid="hcartagena" creationdate="20151116T202715Z">
         <seg>&amp;Glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203341Z" creationid="hcartagena" creationdate="20151116T203341Z">
+        <seg>&amp;Ir a</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203357Z" creationid="hcartagena" creationdate="20151116T203357Z">
+        <seg>Segmento siguie&amp;nte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191933Z" creationid="hcartagena" creationdate="20151116T191933Z">
@@ -154,6 +186,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202319Z" creationid="hcartagena" creationdate="20151116T202319Z">
         <seg>&amp;Abrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203439Z" creationid="hcartagena" creationdate="20151116T203439Z">
+        <seg>Segmento &amp;anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +306,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202915Z" creationid="hcartagena" creationdate="20151116T202915Z">
         <seg>Bu&amp;scar en el proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203452Z" creationid="hcartagena" creationdate="20151116T203452Z">
+        <seg>&amp;Segmento número...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1631,6 +1679,30 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203430Z" creationid="hcartagena" creationdate="20151116T203430Z">
+        <seg>Siguiente segmento &amp;traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203421Z" creationid="hcartagena" creationdate="20151116T203421Z">
+        <seg>Sig&amp;uiente segmento por traducir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203410Z" creationid="hcartagena" creationdate="20151116T203410Z">
+        <seg>N&amp;ota siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Note</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135105Z" creationid="Helli" creationdate="20150526T135105Z">
@@ -1763,6 +1835,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202446Z" creationid="hcartagena" creationdate="20151116T202446Z">
         <seg>Escriba o pegue la URL de la página de MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous No&amp;te</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203448Z" creationid="hcartagena" creationdate="20151116T203448Z">
+        <seg>Nota an&amp;terior</seg>
       </tuv>
     </tu>
     <tu>
@@ -2095,6 +2175,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203317Z" creationid="hcartagena" creationdate="20151116T203317Z">
+        <seg>Seleccionar coincidencia &amp;anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fuzzy Match 1</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132825Z" creationid="Helli" creationdate="20150526T132527Z">
@@ -2143,6 +2231,46 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203324Z" creationid="hcartagena" creationdate="20151116T203324Z">
+        <seg>Seleccionar coincidencia #&amp;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203328Z" creationid="hcartagena" creationdate="20151116T203328Z">
+        <seg>Seleccionar coincidencia #&amp;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203329Z" creationid="hcartagena" creationdate="20151116T203329Z">
+        <seg>Seleccionar coincidencia #&amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203330Z" creationid="hcartagena" creationdate="20151116T203330Z">
+        <seg>Seleccionar coincidencia #&amp;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203332Z" creationid="hcartagena" creationdate="20151116T203332Z">
+        <seg>Seleccionar coincidencia #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Next Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132731Z" creationid="Helli" creationdate="20150526T132334Z">
@@ -2171,6 +2299,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124321Z" creationid="Helli" creationdate="20150526T123650Z">
         <seg>Atajos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203602Z" creationid="hcartagena" creationdate="20151116T203602Z">
+        <seg>Origen de la &amp;coincidencia seleccionada</seg>
       </tuv>
     </tu>
     <tu>
