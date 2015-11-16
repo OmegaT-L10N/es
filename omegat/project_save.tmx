@@ -1438,6 +1438,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222420Z" creationid="hcartagena" creationdate="20151116T222420Z">
+        <seg>¿Realmente quiere salir?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202315Z" creationid="hcartagena" creationdate="20151116T202315Z">
@@ -1466,6 +1474,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131104Z" creationid="Helli" creationdate="20150526T130945Z">
         <seg>Descargar Proyecto en Equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate segments: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222216Z" creationid="hcartagena" creationdate="20151116T222216Z">
+        <seg>Segmentos duplicados: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1538,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222051Z" creationid="hcartagena" creationdate="20151116T222051Z">
         <seg>Entradas con etiquetas modificadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to edit the project!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222245Z" creationid="hcartagena" creationdate="20151116T222245Z">
+        <seg>Error al intentar modificar el proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,6 +1658,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES">
         <seg>Archivos de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222207Z" creationid="hcartagena" creationdate="20151116T222207Z">
+        <seg>Ir al segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2030,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222231Z" creationid="hcartagena" creationdate="20151116T222231Z">
+        <seg>Más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130857Z" creationid="Helli" creationdate="20150526T130857Z">
@@ -2255,6 +2295,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222413Z" creationid="hcartagena" creationdate="20151116T222413Z">
+        <seg>Proyecto guardado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131515Z" creationid="Helli" creationdate="20150526T131515Z">
@@ -2375,6 +2423,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reopen the project?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222258Z" creationid="hcartagena" creationdate="20151116T222258Z">
+        <seg>¿Desea volver a abrir el proyecto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace With Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132621Z" creationid="Helli" creationdate="20150526T131725Z">
@@ -2471,6 +2527,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222409Z" creationid="hcartagena" creationdate="20151116T222409Z">
+        <seg>Guardando el proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204006Z" creationid="hcartagena" creationdate="20151116T204006Z">
@@ -2531,6 +2595,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135046Z" creationid="Helli" creationdate="20150526T135046Z">
         <seg>Número de segmento...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222228Z" creationid="hcartagena" creationdate="20151116T222228Z">
+        <seg>Segmento {0,number,#}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3171,6 +3243,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193020Z" creationid="hcartagena" creationdate="20151116T193020Z">
         <seg>Puede intentar solucionar este problema de dos maneras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222236Z" creationid="hcartagena" creationdate="20151116T222236Z">
+        <seg>Debe introducir un número entre 1 y {0}.</seg>
       </tuv>
     </tu>
     <tu>
