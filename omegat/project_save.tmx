@@ -86,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200654Z" creationid="hcartagena" creationdate="20151116T200654Z">
+        <seg>&amp;Nuevo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191933Z" creationid="hcartagena" creationdate="20151116T191933Z">
         <seg>&amp;Aceptar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200652Z" creationid="hcartagena" creationdate="20151116T200652Z">
+        <seg>&amp;Proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,9 +169,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200356Z" creationid="hcartagena" creationdate="20151116T195030Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200547Z" creationid="hcartagena" creationdate="20151116T195030Z">
         <seg>(Vea 'Archivos a traducir' &gt; 'Formatos de archivo' en el manual de usuario para ver un listado de
-formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en el botón Copiar archivos a la carpeta Source... en la ventana Archivos del proyecto o invoque esta acción desde el menú Proyecto y seleccione los archivos que desea copiar.</seg>
+formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en el botón Copiar archivos a la carpeta Source... en la ventana Archivos del proyecto o ejecute esta acción desde el menú Proyecto y seleccione los archivos que desea copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1415,6 +1431,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200648Z" creationid="hcartagena" creationdate="20151116T200648Z">
+        <seg>OmegaT ha escogido la opción 'Sí' automáticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192916Z" creationid="hcartagena" creationdate="20151116T192916Z">
@@ -1483,6 +1507,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124335Z" creationid="Helli" creationdate="20150526T123707Z">
         <seg>Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200621Z" creationid="hcartagena" creationdate="20151116T200621Z">
+        <seg>Proyecto vacío</seg>
       </tuv>
     </tu>
     <tu>
@@ -2143,6 +2175,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200623Z" creationid="hcartagena" creationdate="20151116T200623Z">
+        <seg>Advertencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115849Z" creationid="Helli" creationdate="20150526T115849Z">
@@ -2171,6 +2211,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115554Z" creationid="Helli" creationdate="20150526T115554Z">
         <seg> Puede iniciar los marcos seleccionados del menú principal también utilizando sus entradas en el menú de Herramientas o pulsando&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; *Ctrl+*Alt+*F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 a 12).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200612Z" creationid="hcartagena" creationdate="20151116T200540Z">
+        <seg>También puede copiar los archivos a la carpeta 'source' de su proyecto con su administrador de archivos favorito y volver a cargar el proyecto ejecutando Volver a cargar en el menú Proyecto.</seg>
       </tuv>
     </tu>
     <tu>
