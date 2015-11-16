@@ -924,6 +924,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T193746Z" creationid="hcartagena" creationdate="20151116T193746Z">
+        <seg>Uso de memoria actual de la MV: {0}MB, de los cuales hay libres {1}MB de un máximo disponible de {2}MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cycle Case To...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134126Z" creationid="Helli" creationdate="20150526T134126Z">
@@ -2177,6 +2185,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130645Z" creationid="Helli" creationdate="20150526T130645Z">
         <seg>Sus atajos nuevos ahora tendrían que aparecer al lado de los elementos de menú que ha modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T193819Z" creationid="hcartagena" creationdate="20151116T193819Z">
+        <seg>Su proyecto no contiene archivos en formato compatible.</seg>
       </tuv>
     </tu>
     <tu>
