@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T191938Z" creationid="hcartagena" creationdate="20151116T191938Z">
+        <seg>&amp;Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T191942Z" creationid="hcartagena" creationdate="20151116T191942Z">
+        <seg>&amp;Cerrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T191949Z" creationid="hcartagena" creationdate="20151116T191949Z">
+        <seg>&amp;Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T191933Z" creationid="hcartagena" creationdate="20151116T191933Z">
+        <seg>&amp;Aceptar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192006Z" creationid="hcartagena" creationdate="20151116T192006Z">
+        <seg>&amp;Reemplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151701Z" creationid="Helli" creationdate="20150526T151701Z">
@@ -694,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192051Z" creationid="hcartagena" creationdate="20151116T192051Z">
+        <seg>Con&amp;tenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;f9&gt;project&lt;/f9&gt;&lt;/a8&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152911Z" creationid="Helli" creationdate="20150526T152911Z">
@@ -1125,6 +1173,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T154130Z" creationid="Helli" creationdate="20150603T150906Z">
+        <seg>Siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Next Note</seg>
       </tuv>
@@ -1266,6 +1323,22 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131551Z" creationid="Helli" creationdate="20150526T131551Z">
         <seg>Salir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;move Filter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T191954Z" creationid="hcartagena" creationdate="20151116T191954Z">
+        <seg>Eli&amp;minar filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192018Z" creationid="hcartagena" creationdate="20151116T192018Z">
+        <seg>Reem&amp;plazar todos</seg>
       </tuv>
     </tu>
     <tu>
