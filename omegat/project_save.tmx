@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192757Z" creationid="hcartagena" creationdate="20151116T192757Z">
+        <seg>&amp;Terminar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Fix All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192733Z" creationid="hcartagena" creationdate="20151116T192733Z">
+        <seg>&amp;Reparar todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192651Z" creationid="hcartagena" creationdate="20151116T192651Z">
@@ -86,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192806Z" creationid="hcartagena" creationdate="20151116T192806Z">
+        <seg>&amp;Eliminar filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192006Z" creationid="hcartagena" creationdate="20151116T192006Z">
@@ -94,10 +118,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192747Z" creationid="hcartagena" creationdate="20151116T192747Z">
+        <seg>&amp;Reemplazar siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192815Z" creationid="hcartagena" creationdate="20151116T192815Z">
+        <seg>&amp;Guardar como...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Search</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192340Z" creationid="hcartagena" creationdate="20151116T192340Z">
         <seg>&amp;Buscar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192740Z" creationid="hcartagena" creationdate="20151116T192740Z">
+        <seg>&amp;Omitir</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192819Z" creationid="hcartagena" creationdate="20151116T192819Z">
+        <seg>Confirmar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;f9&gt;project&lt;/f9&gt;&lt;/a8&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152911Z" creationid="Helli" creationdate="20150526T152911Z">
@@ -1307,6 +1363,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151947Z" creationid="Helli" creationdate="20150526T151947Z">
         <seg>OmegaT selecciona automáticamente un tokenizer para la fuente y la lengua de objetivo según los encuadres de lengua del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192916Z" creationid="hcartagena" creationdate="20151116T192916Z">
+        <seg>Se agotó la memoria de OmegaT. El programa se cerrará cuando pulse Aceptar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2035,6 +2099,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115554Z" creationid="Helli" creationdate="20150526T115554Z">
         <seg> Puede iniciar los marcos seleccionados del menú principal también utilizando sus entradas en el menú de Herramientas o pulsando&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; *Ctrl+*Alt+*F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 a 12).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T193020Z" creationid="hcartagena" creationdate="20151116T193020Z">
+        <seg>Puede intentar solucionar este problema de dos maneras:</seg>
       </tuv>
     </tu>
     <tu>
