@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221638Z" creationid="hcartagena" creationdate="20151116T221638Z">
+        <seg>&amp;Acerca de...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202707Z" creationid="hcartagena" creationdate="20151116T202639Z">
@@ -206,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221626Z" creationid="hcartagena" creationdate="20151116T221626Z">
+        <seg>A&amp;yuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192651Z" creationid="hcartagena" creationdate="20151116T192651Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202926Z" creationid="hcartagena" creationdate="20151116T202926Z">
         <seg>&amp;Insertar coincidencia o selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221655Z" creationid="hcartagena" creationdate="20151116T221655Z">
+        <seg>&amp;Cambios recientes...</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221542Z" creationid="hcartagena" creationdate="20151116T221542Z">
+        <seg>&amp;Restaurar ventana principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Root</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202703Z" creationid="hcartagena" creationdate="20151116T202703Z">
@@ -482,6 +514,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221031Z" creationid="hcartagena" creationdate="20151116T221031Z">
         <seg>&amp;Usar términos que aparecen separados en el texto original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221632Z" creationid="hcartagena" creationdate="20151116T221632Z">
+        <seg>Manual de &amp;usuario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1082,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144046Z" creationid="Helli" creationdate="20150526T144046Z">
         <seg>Acerca de...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Configuration Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221609Z" creationid="hcartagena" creationdate="20151116T221609Z">
+        <seg>Acceso a carpeta &amp;de configuración</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,6 +1670,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221815Z" creationid="hcartagena" creationdate="20151116T221815Z">
+        <seg>Para que los cambios surtan efecto, OmegaT debe cerrar y volver a abrir el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115204Z" creationid="Helli" creationdate="20150526T115204Z">
@@ -1730,6 +1786,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152018Z" creationid="Helli" creationdate="20150526T152018Z">
         <seg>Es posible seleccionar otro tokenizer (Lengua Tokenizer) o una versión diferente del tokenizer (Tokenizer Funcioamiento) de la ventana de Propiedades del Proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221805Z" creationid="hcartagena" creationdate="20151116T221805Z">
+        <seg>Registr&amp;o de eventos...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2239,6 +2303,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221821Z" creationid="hcartagena" creationdate="20151116T221821Z">
+        <seg>¿Desea volver a abrir el proyecto ahora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace With Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132621Z" creationid="Helli" creationdate="20150526T131725Z">
@@ -2555,6 +2627,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203602Z" creationid="hcartagena" creationdate="20151116T203602Z">
         <seg>Origen de la &amp;coincidencia seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell &amp;Checking...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221621Z" creationid="hcartagena" creationdate="20151116T221621Z">
+        <seg>Revisión orto&amp;gráfica...</seg>
       </tuv>
     </tu>
     <tu>
