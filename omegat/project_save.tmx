@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Editing Behaviour...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204154Z" creationid="hcartagena" creationdate="20151116T204154Z">
+        <seg>Comportami&amp;ento del campo de edición...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191949Z" creationid="hcartagena" creationdate="20151116T191949Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202319Z" creationid="hcartagena" creationdate="20151116T202319Z">
         <seg>&amp;Abrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204008Z" creationid="hcartagena" creationdate="20151116T204008Z">
+        <seg>&amp;Opciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,6 +1246,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Co&amp;lours...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204146Z" creationid="hcartagena" creationdate="20151116T204146Z">
+        <seg>Co&amp;lores personalizados...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cycle Case To...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134126Z" creationid="Helli" creationdate="20150526T134126Z">
@@ -1330,6 +1354,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143500Z" creationid="Helli" creationdate="20150526T143500Z">
         <seg>TMXs Externos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F&amp;ont...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204132Z" creationid="hcartagena" creationdate="20151116T204132Z">
+        <seg>F&amp;uente...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1642,22 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T141107Z" creationid="Helli" creationdate="20150526T141107Z">
         <seg>Traducción Automáticae</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204014Z" creationid="hcartagena" creationdate="20151116T204014Z">
+        <seg>Marcar &amp;segmentos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204017Z" creationid="hcartagena" creationdate="20151116T204017Z">
+        <seg>Marcar segmentos &amp;no traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2143,6 +2191,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204006Z" creationid="hcartagena" creationdate="20151116T204006Z">
+        <seg>Extensione&amp;s...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting languages</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113435Z" creationid="Helli" creationdate="20150526T113017Z">
@@ -2471,10 +2527,26 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Process&amp;ing...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204213Z" creationid="hcartagena" creationdate="20151116T204213Z">
+        <seg>Procesam&amp;iento de etiquetas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Validation...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143426Z" creationid="Helli" creationdate="20150526T143351Z">
         <seg>Validación de Etiquetas ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tea&amp;m...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204223Z" creationid="hcartagena" creationdate="20151116T204223Z">
+        <seg>&amp;Grupo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,6 +2715,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204012Z" creationid="hcartagena" creationdate="20151116T204012Z">
+        <seg>Usar &amp;TAB para avanzar</seg>
       </tuv>
     </tu>
     <tu>
