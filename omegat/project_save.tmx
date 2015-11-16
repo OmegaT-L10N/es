@@ -1350,6 +1350,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TM&amp;Xs...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204306Z" creationid="hcartagena" creationdate="20151116T204306Z">
+        <seg>Memorias e&amp;xternas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TMXs...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143500Z" creationid="Helli" creationdate="20150526T143500Z">
@@ -2167,6 +2175,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sa&amp;ving and Output...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204507Z" creationid="hcartagena" creationdate="20151116T204507Z">
+        <seg>Guardar y ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131321Z" creationid="Helli" creationdate="20150526T131321Z">
@@ -2545,8 +2561,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Tea&amp;m...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204223Z" creationid="hcartagena" creationdate="20151116T204223Z">
-        <seg>&amp;Grupo...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204511Z" creationid="hcartagena" creationdate="20151116T204223Z">
+        <seg>Trabajo &amp;en grupo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2787,6 +2803,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140701Z" creationid="Helli" creationdate="20150526T140647Z">
         <seg>Validar Etiquetas para Documento Actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vie&amp;w...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204333Z" creationid="hcartagena" creationdate="20151116T204333Z">
+        <seg>&amp;Visualización...</seg>
       </tuv>
     </tu>
     <tu>
