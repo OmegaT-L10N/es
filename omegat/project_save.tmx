@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192147Z" creationid="hcartagena" creationdate="20151116T192147Z">
+        <seg>A&amp;trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191938Z" creationid="hcartagena" creationdate="20151116T191938Z">
@@ -38,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192343Z" creationid="hcartagena" creationdate="20151116T192343Z">
+        <seg>Elimina&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192006Z" creationid="hcartagena" creationdate="20151116T192006Z">
         <seg>&amp;Reemplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192340Z" creationid="hcartagena" creationdate="20151116T192340Z">
+        <seg>&amp;Buscar</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,8 +760,8 @@
       <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192051Z" creationid="hcartagena" creationdate="20151116T192051Z">
-        <seg>Con&amp;tenido</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192136Z" creationid="hcartagena" creationdate="20151116T192051Z">
+        <seg>&amp;Índice</seg>
       </tuv>
     </tu>
     <tu>
@@ -1327,6 +1351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192350Z" creationid="hcartagena" creationdate="20151116T192350Z">
+        <seg>&amp;Eliminar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191954Z" creationid="hcartagena" creationdate="20151116T191954Z">
@@ -1499,6 +1531,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142938Z" creationid="Helli" creationdate="20150526T142938Z">
         <seg>Segmentación...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192337Z" creationid="hcartagena" creationdate="20151116T192337Z">
+        <seg>Seleccionar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1739,6 +1779,14 @@
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151402Z" creationid="Helli" creationdate="20150526T151402Z">
         <seg>Esto es especialmente útil en caso de lenguas que usan pre- y postfijas para las palabras de raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192415Z" creationid="hcartagena" creationdate="20151116T192415Z">
+        <seg>Esta traducción es obra del Equipo de Localización al Español, copyright© 2015.</seg>
       </tuv>
     </tu>
     <tu>
