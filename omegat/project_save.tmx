@@ -1261,11 +1261,12 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T162007Z" creationid="hcartagena" creationdate="20151117T140537Z">
-        <seg>Habla el mesero&lt;p&gt;"No hay martini, muchacho"&lt;p&gt;Pida otro trago</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T164526Z" creationid="hcartagena" creationdate="20151117T140537Z">
+        <seg>Habla el mesero&lt;p&gt;"No hay Daiquiri, muchacho"&lt;p&gt;Pida otro trago</seg>
       </tuv>
     </tu>
     <tu>
@@ -1685,6 +1686,7 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
@@ -1733,6 +1735,7 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
       </tuv>
@@ -1789,7 +1792,7 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Este y los demás mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
@@ -2070,6 +2073,7 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
       </tuv>
@@ -2494,6 +2498,7 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
@@ -2751,6 +2756,7 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
@@ -2923,6 +2929,7 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
       </tuv>
@@ -3643,6 +3650,7 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
@@ -3651,6 +3659,7 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
@@ -4107,6 +4116,7 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
       </tuv>
