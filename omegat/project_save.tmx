@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184711Z" creationid="hcartagena" creationdate="20151117T184711Z">
+        <seg>Idioma de los archivo&amp;s originales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203658Z" creationid="hcartagena" creationdate="20151116T203658Z">
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203630Z" creationid="hcartagena" creationdate="20151116T203630Z">
         <seg>Herramien&amp;tas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184716Z" creationid="hcartagena" creationdate="20151117T184716Z">
+        <seg>Idioma de los archivos &amp;traducidos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3869,6 +3885,14 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184701Z" creationid="hcartagena" creationdate="20151117T184701Z">
+        <seg>Carpeta de memorias de traducción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223420Z" creationid="hcartagena" creationdate="20151116T223420Z">
@@ -4146,6 +4170,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142502Z" creationid="hcartagena" creationdate="20151117T142502Z">
         <seg>Palabras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184650Z" creationid="hcartagena" creationdate="20151117T184650Z">
+        <seg>Archivo de glosario editable:</seg>
       </tuv>
     </tu>
     <tu>
