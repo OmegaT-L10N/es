@@ -1134,6 +1134,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Analyzing strings - {0} of {1} completed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140846Z" creationid="hcartagena" creationdate="20151117T140846Z">
+        <seg>Analizando cadena - {0} de {1} completado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124737Z" creationid="Helli" creationdate="20150526T124737Z">
@@ -1630,6 +1638,22 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140912Z" creationid="hcartagena" creationdate="20151117T140912Z">
+        <seg>Error al crear el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140908Z" creationid="hcartagena" creationdate="20151117T140908Z">
+        <seg>Error al guardar el archivo del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222245Z" creationid="hcartagena" creationdate="20151116T222245Z">
@@ -1698,6 +1722,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222028Z" creationid="hcartagena" creationdate="20151116T222028Z">
         <seg>Error al cargar la memoria de traducción {0} del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141006Z" creationid="hcartagena" creationdate="20151117T141006Z">
+        <seg>Se encontró un error fatal. Se guardará el archivo del proyecto con la extensión de copia de seguridad '.recover'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2058,6 +2090,22 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114837Z" creationid="Helli" creationdate="20150526T114604Z">
         <seg>Cargue un guión al editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140855Z" creationid="hcartagena" creationdate="20151117T140855Z">
+        <seg>Cargando glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140852Z" creationid="hcartagena" creationdate="20151117T140852Z">
+        <seg>Cargando el proyecto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,6 +2563,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T200621Z" creationid="hcartagena" creationdate="20151116T200621Z">
         <seg>Proyecto vacío</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project load cancelled by user</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140900Z" creationid="hcartagena" creationdate="20151117T140900Z">
+        <seg>Carga del proyecto cancelada por el usuario</seg>
       </tuv>
     </tu>
     <tu>
