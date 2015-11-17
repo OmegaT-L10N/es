@@ -1441,6 +1441,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both search types support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T194126Z" creationid="hcartagena" creationdate="20151117T194126Z">
+        <seg>Ambos tipos de búsqueda admiten los caracteres comodín * y ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191152Z" creationid="hcartagena" creationdate="20151117T191152Z">
@@ -2058,6 +2066,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Exact searches look for the entire specified query string.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193951Z" creationid="hcartagena" creationdate="20151117T193951Z">
+        <seg>La búsqueda exacta encuentra la cadena consultada de manera textual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
@@ -2625,6 +2641,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223327Z" creationid="hcartagena" creationdate="20151116T223327Z">
         <seg>Saltando al último segmento editado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T194107Z" creationid="hcartagena" creationdate="20151117T194107Z">
+        <seg>La búsqueda con palabras clave trata la cadena consultada como un conjunto de palabras clave (separadas por espacios) y devuelve todos los segmentos que contienen todas las palabras clave, cualquiera sea su orden.</seg>
       </tuv>
     </tu>
     <tu>
