@@ -1633,6 +1633,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191453Z" creationid="hcartagena" creationdate="20151117T191453Z">
+        <seg>Crear un proyecto nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T141151Z" creationid="hcartagena" creationdate="20151117T141151Z">
@@ -2253,6 +2261,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191447Z" creationid="hcartagena" creationdate="20151117T191447Z">
+        <seg>También puede especificar aquí una ubicación personalizada para las carpetas del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T122832Z" creationid="Helli" creationdate="20150526T122832Z">
@@ -2831,6 +2847,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191508Z" creationid="hcartagena" creationdate="20151117T191508Z">
+        <seg>Archivos de proyecto de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113548Z" creationid="Helli" creationdate="20150526T113420Z">
@@ -2952,6 +2976,16 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222156Z" creationid="hcartagena" creationdate="20151116T222156Z">
         <seg>Corrija los problemas con las etiquetas antes de volver a usar Crear documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target 
+language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191426Z" creationid="hcartagena" creationdate="20151117T191426Z">
+        <seg>Seleccione el idioma de sus archivos originales y el idioma de
+destino al que desea traducirlos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3853,6 +3887,32 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191627Z" creationid="hcartagena" creationdate="20151117T191627Z">
+        <seg>El código de idioma debe ingresarse con el formato xx-YY, xxx-YY, xx_YY o xxx_YY, donde 
+xx o xxx es el código de idioma y YY es el código de región o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191658Z" creationid="hcartagena" creationdate="20151117T191540Z">
+        <seg>El idioma indicado para los archivos originales no es válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191645Z" creationid="hcartagena" creationdate="20151117T191645Z">
+        <seg>El idioma del archivo traducido no es válido</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
@@ -4099,6 +4159,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142025Z" creationid="hcartagena" creationdate="20151117T142025Z">
         <seg>No se pudo compilar el nuevo archivo TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191523Z" creationid="hcartagena" creationdate="20151117T191518Z">
+        <seg>No se pudo leer el archivo del proyecto</seg>
       </tuv>
     </tu>
     <tu>
