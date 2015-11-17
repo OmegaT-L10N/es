@@ -1265,8 +1265,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T164526Z" creationid="hcartagena" creationdate="20151117T140537Z">
-        <seg>Habla el mesero&lt;p&gt;"No hay Daiquiri, muchacho"&lt;p&gt;Pida otro trago</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184435Z" creationid="hcartagena" creationdate="20151117T140537Z">
+        <seg>Dijo el mesero&lt;p&gt;"No hay Daiquiri, muchacho"&lt;p&gt;Pide otro trago</seg>
       </tuv>
     </tu>
     <tu>
@@ -2038,6 +2038,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135259Z" creationid="Helli" creationdate="20150526T135158Z">
         <seg>Adelante en historia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184539Z" creationid="hcartagena" creationdate="20151117T184539Z">
+        <seg>Carpeta de glosario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3825,6 +3833,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142648Z" creationid="Helli" creationdate="20150526T142648Z">
         <seg>TransTips/Coincidencias Exactas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184533Z" creationid="hcartagena" creationdate="20151117T184533Z">
+        <seg>Carpeta de archivos traducidos:</seg>
       </tuv>
     </tu>
     <tu>
