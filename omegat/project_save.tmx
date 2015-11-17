@@ -1264,8 +1264,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T161444Z" creationid="hcartagena" creationdate="20151117T140537Z">
-        <seg>Habla el mesero&lt;p&gt;"No hay whisky, muchacho"&lt;p&gt;Pida otro trago.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T161654Z" creationid="hcartagena" creationdate="20151117T140537Z">
+        <seg>Habla el mesero&lt;p&gt;"No hay whisky, muchacho"&lt;p&gt;Pida otro trago</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,8 +2754,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T160221Z" creationid="hcartagena" creationdate="20151117T140539Z">
-        <seg>La página se desliza entre los dedos&lt;p&gt;El pulso se acelera frenético&lt;p&gt;Se desvanece cual tenue niebla.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T161657Z" creationid="hcartagena" creationdate="20151117T140539Z">
+        <seg>Escurridiza&lt;p&gt;El pulso se acelera&lt;p&gt;Se desvanece</seg>
       </tuv>
     </tu>
     <tu>
@@ -3654,8 +3654,8 @@ descripción de cómo se produjo este error.</seg>
       <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140540Z" creationid="hcartagena" creationdate="20151117T140540Z">
-        <seg>Hay tres cosas seguras: &lt;p&gt;La muerte, los impuestos y la página no encontrada.&lt;p&gt; Usted es víctima de una de ellas, cuando menos.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T161651Z" creationid="hcartagena" creationdate="20151117T140540Z">
+        <seg>Inevitable: &lt;p&gt;Muerte, impuestos y esto&lt;p&gt; Usted es víctima de una de ellas, cuando menos.</seg>
       </tuv>
     </tu>
     <tu>
