@@ -1222,6 +1222,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142934Z" creationid="hcartagena" creationdate="20151117T142934Z">
+        <seg>Las series no deben estar vacías</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142818Z" creationid="Helli" creationdate="20150526T142818Z">
@@ -1282,6 +1290,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115750Z" creationid="Helli" creationdate="20150526T115750Z">
         <seg>Por defecto, los guiones están almacenados en la "carpeta" de guiones localizada en OmegaT carpeta de instalación (la carpeta que contiene el OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142831Z" creationid="hcartagena" creationdate="20151117T142831Z">
+        <seg>C&amp;opiar todo al portapapeles</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,6 +1742,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142855Z" creationid="hcartagena" creationdate="20151117T142855Z">
+        <seg>Coincidencia exacta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140533Z" creationid="hcartagena" creationdate="20151117T140533Z">
@@ -1886,6 +1910,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142916Z" creationid="hcartagena" creationdate="20151117T142916Z">
+        <seg>Archivo {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223213Z" creationid="hcartagena" creationdate="20151116T223213Z">
@@ -1930,6 +1962,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142930Z" creationid="Helli" creationdate="20150526T142930Z">
         <seg>Fuente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142924Z" creationid="hcartagena" creationdate="20151117T142924Z">
+        <seg>Para todos los archivos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +2559,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142908Z" creationid="hcartagena" creationdate="20151117T142908Z">
+        <seg>Sin coincidencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No tag errors detected</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222055Z" creationid="hcartagena" creationdate="20151116T222055Z">
@@ -2867,10 +2915,34 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142746Z" creationid="hcartagena" creationdate="20151117T142746Z">
+        <seg>Caracteres pendientes (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142717Z" creationid="hcartagena" creationdate="20151117T142717Z">
+        <seg>Caracteres pendientes (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142606Z" creationid="hcartagena" creationdate="20151117T142606Z">
         <seg>Segmentos pendientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142645Z" creationid="hcartagena" creationdate="20151117T142645Z">
+        <seg>Palabras pendientes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2919,6 +2991,30 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222258Z" creationid="hcartagena" creationdate="20151116T222258Z">
         <seg>¿Desea volver a abrir el proyecto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142848Z" creationid="hcartagena" creationdate="20151117T142848Z">
+        <seg>Repeticiones de otros archivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142839Z" creationid="hcartagena" creationdate="20151117T142839Z">
+        <seg>Repeticiones en este archivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142834Z" creationid="hcartagena" creationdate="20151117T142834Z">
+        <seg>Repeticiones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3595,10 +3691,34 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142739Z" creationid="hcartagena" creationdate="20151117T142739Z">
+        <seg>Total Caracteres (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142711Z" creationid="hcartagena" creationdate="20151117T142711Z">
+        <seg>Total caracteres (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142602Z" creationid="hcartagena" creationdate="20151117T142602Z">
         <seg>Total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142640Z" creationid="hcartagena" creationdate="20151117T142640Z">
+        <seg>Total palabras</seg>
       </tuv>
     </tu>
     <tu>
@@ -3683,10 +3803,50 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142754Z" creationid="hcartagena" creationdate="20151117T142754Z">
+        <seg>Caracteres únicos (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142723Z" creationid="hcartagena" creationdate="20151117T142723Z">
+        <seg>Caracteres únicos (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142806Z" creationid="hcartagena" creationdate="20151117T142806Z">
+        <seg>Caracteres únicos pendientes (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142731Z" creationid="hcartagena" creationdate="20151117T142731Z">
+        <seg>Caracteres únicos pendientes (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Remaining Segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142618Z" creationid="hcartagena" creationdate="20151117T142618Z">
         <seg>Segmentos únicos pendientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142703Z" creationid="hcartagena" creationdate="20151117T142703Z">
+        <seg>Palabras únicas pendientes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3703,6 +3863,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142610Z" creationid="hcartagena" creationdate="20151117T142610Z">
         <seg>Segmentos únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142657Z" creationid="hcartagena" creationdate="20151117T142657Z">
+        <seg>Palabras únicas</seg>
       </tuv>
     </tu>
     <tu>
