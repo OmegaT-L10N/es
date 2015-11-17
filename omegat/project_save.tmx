@@ -1454,6 +1454,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141151Z" creationid="hcartagena" creationdate="20151117T141151Z">
+        <seg>Creando documentos traducidos: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193746Z" creationid="hcartagena" creationdate="20151116T193746Z">
@@ -2094,6 +2102,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141140Z" creationid="hcartagena" creationdate="20151117T141140Z">
+        <seg>Cargando archivos TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading glossaries</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140855Z" creationid="hcartagena" creationdate="20151117T140855Z">
@@ -2106,6 +2122,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140852Z" creationid="hcartagena" creationdate="20151117T140852Z">
         <seg>Cargando el proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141114Z" creationid="hcartagena" creationdate="20151117T141114Z">
+        <seg>Cargando: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2483,6 +2507,18 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140539Z" creationid="hcartagena" creationdate="20151117T140539Z">
         <seg>La página se le desliza entre los dedos, &lt;p&gt;el pulso se acelera frenético,&lt;p&gt; desvaneciéndose cual tenue niebla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141111Z" creationid="hcartagena" creationdate="20151117T141111Z">
+        <seg>Consulte la documentación sobre opciones de recuperación y envíe la 
+siguiente información al fabricante del software, junto con una 
+descripción de cómo se produjo este error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3063,6 +3099,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141131Z" creationid="hcartagena" creationdate="20151117T141131Z">
+        <seg>Carga de archivo original completada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203602Z" creationid="hcartagena" creationdate="20151116T203602Z">
@@ -3403,6 +3447,22 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142648Z" creationid="Helli" creationdate="20150526T142648Z">
         <seg>TransTips/Coincidencias Exactas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141208Z" creationid="hcartagena" creationdate="20151117T141208Z">
+        <seg>Documento traducido creado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141201Z" creationid="hcartagena" creationdate="20151117T141201Z">
+        <seg>Documentos traducidos creados</seg>
       </tuv>
     </tu>
     <tu>
