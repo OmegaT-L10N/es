@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193553Z" creationid="hcartagena" creationdate="20151117T193553Z">
+        <seg>&amp;Archivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191949Z" creationid="hcartagena" creationdate="20151116T191949Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221626Z" creationid="hcartagena" creationdate="20151116T221626Z">
         <seg>A&amp;yuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193455Z" creationid="hcartagena" creationdate="20151117T193455Z">
+        <seg>En trad&amp;ucción</seg>
       </tuv>
     </tu>
     <tu>
@@ -612,6 +628,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203630Z" creationid="hcartagena" creationdate="20151116T203630Z">
         <seg>Herramien&amp;tas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193348Z" creationid="hcartagena" creationdate="20151117T193348Z">
+        <seg>Con &amp;traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -1801,6 +1825,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193519Z" creationid="hcartagena" creationdate="20151117T193519Z">
+        <seg>Mostrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222420Z" creationid="hcartagena" creationdate="20151116T222420Z">
@@ -2445,6 +2477,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193446Z" creationid="hcartagena" creationdate="20151117T193446Z">
+        <seg>En orig&amp;inal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115204Z" creationid="Helli" creationdate="20150526T115204Z">
@@ -2657,6 +2697,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T141114Z" creationid="hcartagena" creationdate="20151117T141114Z">
         <seg>Cargando: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193535Z" creationid="hcartagena" creationdate="20151117T193535Z">
+        <seg>Ubicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -3703,6 +3751,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193546Z" creationid="hcartagena" creationdate="20151117T193546Z">
+        <seg>Seleccionar carpet&amp;a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fuzzy Match 1</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132825Z" creationid="Helli" creationdate="20150526T132527Z">
@@ -4259,6 +4315,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193508Z" creationid="hcartagena" creationdate="20151117T193508Z">
+        <seg>Con y sin tra&amp;ducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TransTips/Enable Transtips</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142629Z" creationid="Helli" creationdate="20150526T142629Z">
@@ -4359,6 +4423,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192002Z" creationid="hcartagena" creationdate="20151117T191840Z">
         <seg>No existe la carpeta indicada para los archivos de memoria de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193423Z" creationid="hcartagena" creationdate="20151117T193423Z">
+        <seg>&amp;Sin traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -4760,6 +4832,22 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193528Z" creationid="hcartagena" creationdate="20151117T193528Z">
+        <seg>todos los segmentos que coinciden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193532Z" creationid="hcartagena" creationdate="20151117T193532Z">
+        <seg>nombres de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151550Z" creationid="Helli" creationdate="20150526T151550Z">
@@ -4802,6 +4890,8 @@ crearlas.</seg>
     <tu>
       <prop type="file">src/org/omegat/Bundle.properties</prop>
       <prop type="id">SW_SEARCH_IN_TMS</prop>
+      <note>Tuve que crear esta traducción alternativa para diferenciarla del segmento que corresponde a Key: TF_MENU_FILE_ACCESS_TM
+</note>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
