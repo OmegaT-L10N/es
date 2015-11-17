@@ -1841,6 +1841,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193730Z" creationid="hcartagena" creationdate="20151117T193730Z">
+        <seg>¿Desea continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202315Z" creationid="hcartagena" creationdate="20151116T202315Z">
@@ -3015,6 +3023,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193745Z" creationid="hcartagena" creationdate="20151117T193745Z">
+        <seg>Número de segmentos con coincidencias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223719Z" creationid="hcartagena" creationdate="20151116T223719Z">
@@ -3214,6 +3230,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193559Z" creationid="hcartagena" creationdate="20151117T193559Z">
+        <seg>Proye&amp;cto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142129Z" creationid="hcartagena" creationdate="20151117T142129Z">
@@ -3355,6 +3379,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203021Z" creationid="hcartagena" creationdate="20151116T203021Z">
         <seg>Reem&amp;plazar con el original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193611Z" creationid="hcartagena" creationdate="20151117T193611Z">
+        <seg>Búsqueda recursi&amp;va</seg>
       </tuv>
     </tu>
     <tu>
@@ -3683,6 +3715,22 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154856Z" creationid="Helli" creationdate="20150526T154856Z">
         <seg>Busacar ventana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches are done within the current project or in any folder or folder structure.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193853Z" creationid="hcartagena" creationdate="20151117T193853Z">
+        <seg>Se puede buscar en el proyecto actual o en cualquier carpeta o estructura de carpetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches can be performed in the source and/or in the translation and/or in notes and/or in comments.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193836Z" creationid="hcartagena" creationdate="20151117T193836Z">
+        <seg>Se puede buscar en el texto original y en el texto traducido, así como en las notas y en los comentarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4083,6 +4131,22 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143433Z" creationid="Helli" creationdate="20150526T143433Z">
         <seg>Equipo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193646Z" creationid="hcartagena" creationdate="20151117T193646Z">
+        <seg>Reemplazar texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193709Z" creationid="hcartagena" creationdate="20151117T193638Z">
+        <seg>Buscar texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -4732,6 +4796,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193725Z" creationid="hcartagena" creationdate="20151117T193725Z">
+        <seg>Se modificarán {0} segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115849Z" creationid="Helli" creationdate="20150526T115849Z">
@@ -4834,8 +4906,8 @@ crearlas.</seg>
       <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193528Z" creationid="hcartagena" creationdate="20151117T193528Z">
-        <seg>todos los segmentos que coinciden</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193753Z" creationid="hcartagena" creationdate="20151117T193528Z">
+        <seg>todos los segmentos con coincidencias</seg>
       </tuv>
     </tu>
     <tu>
