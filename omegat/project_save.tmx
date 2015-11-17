@@ -4182,6 +4182,15 @@ destino al que desea traducirlos.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>La traducción corrige el error conceptual del original (el término 'run?' sí encuentra 'run' en el ejemplo)</note>
+      <tuv lang="EN">
+        <seg>The '?' character matches exactly one character ('run?' would match 'runs' and 'rung', for example, but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T201056Z" creationid="hcartagena" creationdate="20151117T201056Z">
+        <seg>El carácter '?' coincide con cero o un carácter (el término 'ejecuta?' encontrará 'ejecuta', 'ejecutar' y 'ejecutan', por ejemplo, pero no 'ejecutando' o 'ejecutado').</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
