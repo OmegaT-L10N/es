@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191130Z" creationid="hcartagena" creationdate="20151117T191130Z">
+        <seg>&amp;Explorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191938Z" creationid="hcartagena" creationdate="20151116T191938Z">
@@ -1320,6 +1328,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191142Z" creationid="hcartagena" creationdate="20151117T191142Z">
+        <seg>Explo&amp;rar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135307Z" creationid="Helli" creationdate="20150526T135307Z">
@@ -1349,6 +1365,30 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151531Z" creationid="Helli" creationdate="20150526T151531Z">
         <seg>Tomando prestado un ejemplo del esloveno, aquí "bien" en todos las posibles formas gramaticalmente correctas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191152Z" creationid="hcartagena" creationdate="20151117T191152Z">
+        <seg>Explor&amp;ar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191203Z" creationid="hcartagena" creationdate="20151117T191203Z">
+        <seg>Expl&amp;orar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191154Z" creationid="hcartagena" creationdate="20151117T191154Z">
+        <seg>Explorar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1641,6 +1681,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191242Z" creationid="hcartagena" creationdate="20151117T191242Z">
+        <seg>Carpeta de archivos de diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T190838Z" creationid="hcartagena" creationdate="20151117T190838Z">
@@ -1721,6 +1769,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191135Z" creationid="hcartagena" creationdate="20151117T191135Z">
+        <seg>E&amp;xclusiones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203115Z" creationid="hcartagena" creationdate="20151116T203115Z">
@@ -1782,6 +1838,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221347Z" creationid="hcartagena" creationdate="20151116T221347Z">
         <seg>Habilitar &amp;TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191123Z" creationid="hcartagena" creationdate="20151117T191123Z">
+        <seg>Habilítelos en &lt;b&gt;Opciones &gt; Guardado y resultado...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2128,6 +2192,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135259Z" creationid="Helli" creationdate="20150526T135158Z">
         <seg>Adelante en historia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191231Z" creationid="hcartagena" creationdate="20151117T191231Z">
+        <seg>Carpeta de archivos de glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -3541,6 +3613,22 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191329Z" creationid="hcartagena" creationdate="20151117T191329Z">
+        <seg>Al parecer, cambió la ubicación de algunas carpetas del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191220Z" creationid="hcartagena" creationdate="20151117T191220Z">
+        <seg>Carpeta de archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T154447Z" creationid="hcartagena" creationdate="20151117T154447Z">
@@ -3935,6 +4023,14 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191226Z" creationid="hcartagena" creationdate="20151117T191226Z">
+        <seg>Carpeta de archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T184533Z" creationid="hcartagena" creationdate="20151117T184533Z">
@@ -3963,6 +4059,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223723Z" creationid="hcartagena" creationdate="20151116T223723Z">
         <seg>Segmentos únicos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191245Z" creationid="hcartagena" creationdate="20151117T191238Z">
+        <seg>Carpeta de archivos de memoria de traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -4256,6 +4360,14 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writeable Glossary File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191254Z" creationid="hcartagena" creationdate="20151117T191254Z">
+        <seg>Archivo de glosario editable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writeable Glossary File:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T184650Z" creationid="hcartagena" creationdate="20151117T184650Z">
@@ -4334,6 +4446,16 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153840Z" creationid="Helli" creationdate="20150526T153710Z">
         <seg> Debería añadir copias de archivos, porciones del registro, capturas de pantalla, y cualquier cosa más que cree que ayudará a los desarrolladores para encontrar y fijar su error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate
+them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191355Z" creationid="hcartagena" creationdate="20151117T191355Z">
+        <seg>Debe especificar su nueva ubicación o volver a
+crearlas.</seg>
       </tuv>
     </tu>
     <tu>
