@@ -1230,6 +1230,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140537Z" creationid="hcartagena" creationdate="20151117T140537Z">
+        <seg>El barman exclama a voz en cuello: &lt;p&gt;¡Su página no se encuentra, muchacho!&lt;p&gt; Pida otro trago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T121328Z" creationid="Helli" creationdate="20150526T121328Z">
@@ -1566,6 +1574,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140542Z" creationid="hcartagena" creationdate="20151117T140542Z">
+        <seg>El vacío del alma, &lt;p&gt;la negrura, siempre es dolorosa,&lt;p&gt; no se ha encontrado su página de ayuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124728Z" creationid="Helli" creationdate="20150526T124728Z">
@@ -1606,10 +1622,26 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140549Z" creationid="hcartagena" creationdate="20151117T140549Z">
+        <seg>Página efímera, &lt;p&gt;Yo soy la pantalla azul de la muerte,&lt;p&gt; ¡nadie le oirá gritar!.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222245Z" creationid="hcartagena" creationdate="20151116T222245Z">
         <seg>Error al intentar modificar el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140533Z" creationid="hcartagena" creationdate="20151117T140533Z">
+        <seg>Emocionante página de ayuda &lt;p&gt;Los hilos de la telaraña&lt;p&gt; 404 no encontrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,6 +1818,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124439Z" creationid="Helli" creationdate="20150526T124439Z">
         <seg>Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140559Z" creationid="hcartagena" creationdate="20151117T140559Z">
+        <seg>La ayuda que busca &lt;p&gt;de su senda escapa.&lt;p&gt; Su invierno ha llegado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,6 +2198,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140557Z" creationid="hcartagena" creationdate="20151117T140557Z">
+        <seg>El duelo y la tristeza &lt;p&gt;404 ya no está entre nosotros,&lt;p&gt; partió al paraíso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223643Z" creationid="hcartagena" creationdate="20151116T223643Z">
@@ -2383,6 +2431,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140539Z" creationid="hcartagena" creationdate="20151117T140539Z">
+        <seg>La página se le desliza entre los dedos, &lt;p&gt;el pulso se acelera frenético,&lt;p&gt; desvaneciéndose cual tenue niebla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222156Z" creationid="hcartagena" creationdate="20151116T222156Z">
@@ -2507,6 +2563,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202940Z" creationid="hcartagena" creationdate="20151116T202940Z">
         <seg>R&amp;eemplazar con la coincidencia o selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140554Z" creationid="hcartagena" creationdate="20151117T140554Z">
+        <seg>Mejor que un bip, &lt;p&gt;o un grosero mensaje de error,&lt;p&gt; las siguientes palabras: "Página no encontrada"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3143,6 +3207,22 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140541Z" creationid="hcartagena" creationdate="20151117T140541Z">
+        <seg>La página de ayuda que busca &lt;p&gt;Rebasa los límites de nuestra percepciónp&gt; Sin embargo, otras le aguardan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140540Z" creationid="hcartagena" creationdate="20151117T140540Z">
+        <seg>Hay tres cosas seguras: &lt;p&gt;La muerte, los impuestos y la página no encontrada.&lt;p&gt; Usted es víctima de una de ellas, cuando menos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They also improve glossary matching.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T150339Z" creationid="Helli" creationdate="20150526T150339Z">
@@ -3451,6 +3531,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T200623Z" creationid="hcartagena" creationdate="20151116T200623Z">
         <seg>Advertencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140536Z" creationid="hcartagena" creationdate="20151117T140536Z">
+        <seg>El viento azota los lirios &lt;p&gt;esparciendo sus pétalos al viento:&lt;p&gt; No se ha encontrado su página</seg>
       </tuv>
     </tu>
     <tu>
