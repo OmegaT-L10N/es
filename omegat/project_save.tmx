@@ -1400,6 +1400,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T202341Z" creationid="hcartagena" creationdate="20151117T202341Z">
+        <seg>Sincronizar con el editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191142Z" creationid="hcartagena" creationdate="20151117T191142Z">
@@ -1412,6 +1420,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135307Z" creationid="Helli" creationdate="20150526T135307Z">
         <seg>Atrás en historia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T202352Z" creationid="hcartagena" creationdate="20151117T202352Z">
+        <seg>Volver al segmento inicial al cerrar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2849,6 +2865,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140736Z" creationid="Helli" creationdate="20150526T140736Z">
         <seg>Estadística de Coincidencias por Archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T202525Z" creationid="hcartagena" creationdate="20151117T202525Z">
+        <seg>Se alcanzó el número máximo ({0}) de resultados</seg>
       </tuv>
     </tu>
     <tu>
