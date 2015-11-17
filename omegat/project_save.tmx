@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142523Z" creationid="hcartagena" creationdate="20151117T142523Z">
+        <seg>#Archivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221638Z" creationid="hcartagena" creationdate="20151116T221638Z">
@@ -1342,6 +1350,22 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142514Z" creationid="hcartagena" creationdate="20151117T142514Z">
+        <seg>Caracteres (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142506Z" creationid="hcartagena" creationdate="20151117T142506Z">
+        <seg>Caracteres (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking Tools &gt; Scripting opens the Scripting window:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113827Z" creationid="Helli" creationdate="20150526T113538Z">
@@ -1670,6 +1694,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142454Z" creationid="hcartagena" creationdate="20151117T142454Z">
+        <seg>Error al monitorear el comando externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140908Z" creationid="hcartagena" creationdate="20151117T140908Z">
@@ -1752,8 +1784,24 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142304Z" creationid="hcartagena" creationdate="20151117T142304Z">
-        <seg>Comando externo completado.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142439Z" creationid="hcartagena" creationdate="20151117T142304Z">
+        <seg>Se completó el comando externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142402Z" creationid="hcartagena" creationdate="20151117T142402Z">
+        <seg>El comando externo falló.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142422Z" creationid="hcartagena" creationdate="20151117T142422Z">
+        <seg>Se interrumpió el comando externo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,6 +1874,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142934Z" creationid="Helli" creationdate="20150526T142934Z">
         <seg>Filtros de archivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142557Z" creationid="hcartagena" creationdate="20151117T142557Z">
+        <seg>Nombre de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2066,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152232Z" creationid="Helli" creationdate="20150526T152232Z">
         <seg>Incompatibilidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142555Z" creationid="hcartagena" creationdate="20151117T142555Z">
+        <seg>Estadísticas por archivo individual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2675,6 +2739,14 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142456Z" creationid="hcartagena" creationdate="20151117T142456Z">
+        <seg>Estadísticas del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T200621Z" creationid="hcartagena" creationdate="20151116T200621Z">
@@ -2791,6 +2863,22 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131253Z" creationid="Helli" creationdate="20150526T131253Z">
         <seg>Recargar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142606Z" creationid="hcartagena" creationdate="20151117T142606Z">
+        <seg>Segmentos pendientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142541Z" creationid="hcartagena" creationdate="20151117T142541Z">
+        <seg>Pendientes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3507,6 +3595,14 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142602Z" creationid="hcartagena" creationdate="20151117T142602Z">
+        <seg>Total de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total number of segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223715Z" creationid="hcartagena" creationdate="20151116T223715Z">
@@ -3587,10 +3683,42 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142618Z" creationid="hcartagena" creationdate="20151117T142618Z">
+        <seg>Segmentos únicos pendientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142549Z" creationid="hcartagena" creationdate="20151117T142549Z">
+        <seg>Pendientes únicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142610Z" creationid="hcartagena" creationdate="20151117T142610Z">
+        <seg>Segmentos únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223550Z" creationid="hcartagena" creationdate="20151116T223550Z">
         <seg>Segmentos únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142550Z" creationid="hcartagena" creationdate="20151117T142550Z">
+        <seg>Únicos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3743,6 +3871,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140536Z" creationid="hcartagena" creationdate="20151117T140536Z">
         <seg>El viento azota los lirios &lt;p&gt;esparciendo sus pétalos al viento:&lt;p&gt; No se ha encontrado su página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142502Z" creationid="hcartagena" creationdate="20151117T142502Z">
+        <seg>Palabras</seg>
       </tuv>
     </tu>
     <tu>
