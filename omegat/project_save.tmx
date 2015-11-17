@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Make the segmentation rules project specific</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153737Z" creationid="hcartagena" creationdate="20151117T153737Z">
+        <seg>Usar reglas de seg&amp;mentación específicas del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203704Z" creationid="hcartagena" creationdate="20151116T203704Z">
@@ -1502,6 +1510,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153741Z" creationid="hcartagena" creationdate="20151117T153741Z">
+        <seg>Crear nuevo proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131342Z" creationid="Helli" creationdate="20150526T131342Z">
@@ -1622,6 +1638,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153627Z" creationid="hcartagena" creationdate="20151117T153627Z">
+        <seg>Habilitar segme&amp;ntación a nivel de frase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203115Z" creationid="hcartagena" creationdate="20151116T203115Z">
@@ -1634,6 +1658,22 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124341Z" creationid="Helli" creationdate="20150526T123732Z">
         <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153630Z" creationid="hcartagena" creationdate="20151117T153630Z">
+        <seg>Editar proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153642Z" creationid="hcartagena" creationdate="20151117T153642Z">
+        <seg>Modifique las propiedades del proyecto aquí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,6 +1946,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142557Z" creationid="hcartagena" creationdate="20151117T142557Z">
         <seg>Nombre de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153651Z" creationid="hcartagena" creationdate="20151117T153651Z">
+        <seg>Ubicación de archivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2282,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221805Z" creationid="hcartagena" creationdate="20151116T221805Z">
         <seg>Registr&amp;o de eventos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153643Z" creationid="hcartagena" creationdate="20151117T153643Z">
+        <seg>Idiomas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2651,6 +2707,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131030Z" creationid="Helli" creationdate="20150526T130935Z">
         <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153743Z" creationid="hcartagena" creationdate="20151117T153743Z">
+        <seg>Abrir proyecto</seg>
       </tuv>
     </tu>
     <tu>
