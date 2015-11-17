@@ -1688,8 +1688,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T162831Z" creationid="hcartagena" creationdate="20151117T140542Z">
-        <seg>Vacía está el alma&lt;p&gt;Oscuridad que duele&lt;p&gt;No hay ayuda cerca</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T164312Z" creationid="hcartagena" creationdate="20151117T140542Z">
+        <seg>Vacía está el alma&lt;p&gt;Oscuridad que duele&lt;p&gt;No hay ayuda aquí</seg>
       </tuv>
     </tu>
     <tu>
@@ -2073,8 +2073,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140559Z" creationid="hcartagena" creationdate="20151117T140559Z">
-        <seg>La ayuda que busca &lt;p&gt;de su senda escapa.&lt;p&gt; Su invierno ha llegado.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T164234Z" creationid="hcartagena" creationdate="20151117T140559Z">
+        <seg>La ayuda no está&lt;p&gt;Allí donde la buscas&lt;p&gt;Desapareció</seg>
       </tuv>
     </tu>
     <tu>
@@ -3646,8 +3646,8 @@ descripción de cómo se produjo este error.</seg>
       <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T162409Z" creationid="hcartagena" creationdate="20151117T140541Z">
-        <seg>Eso que buscas&lt;p&gt;Trasciende los sentidos&lt;p&gt;Hay un más allá, sí</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T164238Z" creationid="hcartagena" creationdate="20151117T140541Z">
+        <seg>Eso que buscas&lt;p&gt;Trasciende los sentidos&lt;p&gt;Hay un más allá</seg>
       </tuv>
     </tu>
     <tu>
