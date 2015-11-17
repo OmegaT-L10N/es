@@ -1264,8 +1264,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T161654Z" creationid="hcartagena" creationdate="20151117T140537Z">
-        <seg>Habla el mesero&lt;p&gt;"No hay whisky, muchacho"&lt;p&gt;Pida otro trago</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T162007Z" creationid="hcartagena" creationdate="20151117T140537Z">
+        <seg>Habla el mesero&lt;p&gt;"No hay martini, muchacho"&lt;p&gt;Pida otro trago</seg>
       </tuv>
     </tu>
     <tu>
@@ -3654,8 +3654,8 @@ descripción de cómo se produjo este error.</seg>
       <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T161651Z" creationid="hcartagena" creationdate="20151117T140540Z">
-        <seg>Inevitable: &lt;p&gt;Muerte, impuestos y esto&lt;p&gt; Usted es víctima de una de ellas, cuando menos.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T161938Z" creationid="hcartagena" creationdate="20151117T140540Z">
+        <seg>Lo inevitable: &lt;p&gt;Muerte, impuestos y esto&lt;p&gt;</seg>
       </tuv>
     </tu>
     <tu>
