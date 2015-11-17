@@ -2180,6 +2180,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192020Z" creationid="hcartagena" creationdate="20151117T192020Z">
+        <seg>La carpeta ya existe y no está vacía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142930Z" creationid="Helli" creationdate="20150526T142930Z">
@@ -3000,6 +3008,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222156Z" creationid="hcartagena" creationdate="20151116T222156Z">
         <seg>Corrija los problemas con las etiquetas antes de volver a usar Crear documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192025Z" creationid="hcartagena" creationdate="20151117T192025Z">
+        <seg>Seleccione otra carpeta.</seg>
       </tuv>
     </tu>
     <tu>
