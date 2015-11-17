@@ -1264,8 +1264,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140537Z" creationid="hcartagena" creationdate="20151117T140537Z">
-        <seg>El barman exclama a voz en cuello: &lt;p&gt;¡Su página no se encuentra, muchacho!&lt;p&gt; Pida otro trago.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T155705Z" creationid="hcartagena" creationdate="20151117T140537Z">
+        <seg>El cantinero exclama: &lt;p&gt;¡Su página no se encuentra, muchacho!&lt;p&gt; Pida otro trago.</seg>
       </tuv>
     </tu>
     <tu>
