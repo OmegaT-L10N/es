@@ -1457,6 +1457,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192741Z" creationid="hcartagena" creationdate="20151117T192704Z">
+        <seg>Distinguir m&amp;ayúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142831Z" creationid="hcartagena" creationdate="20151117T142831Z">
@@ -1501,6 +1509,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223745Z" creationid="hcartagena" creationdate="20151116T223745Z">
         <seg>No se pudo abrir el enlace {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192655Z" creationid="hcartagena" creationdate="20151117T192633Z">
+        <seg>Cam&amp;bió antes de:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3495,6 +3511,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192832Z" creationid="hcartagena" creationdate="20151117T192832Z">
+        <seg>E&amp;spacio encuentra nbsp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sa&amp;ving and Output...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T220734Z" creationid="hcartagena" creationdate="20151116T204507Z">
@@ -3579,6 +3603,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192437Z" creationid="hcartagena" creationdate="20151117T192437Z">
         <seg>Buscar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192836Z" creationid="hcartagena" creationdate="20151117T192836Z">
+        <seg>Buscar en</seg>
       </tuv>
     </tu>
     <tu>
