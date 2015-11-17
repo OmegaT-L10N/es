@@ -1792,8 +1792,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140533Z" creationid="hcartagena" creationdate="20151117T140533Z">
-        <seg>Emocionante página de ayuda &lt;p&gt;Los hilos de la telaraña&lt;p&gt; 404 no encontrada</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T155327Z" creationid="hcartagena" creationdate="20151117T140533Z">
+        <seg>Emocionante página de ayuda &lt;p&gt;Los hilos de la telaraña te retienen&lt;p&gt; 404 no encontrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -4109,8 +4109,8 @@ descripción de cómo se produjo este error.</seg>
       <tuv lang="EN">
         <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140536Z" creationid="hcartagena" creationdate="20151117T140536Z">
-        <seg>El viento azota los lirios &lt;p&gt;esparciendo sus pétalos al viento:&lt;p&gt; No se ha encontrado su página</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T155334Z" creationid="hcartagena" creationdate="20151117T140536Z">
+        <seg>El viento azota los lirios &lt;p&gt;Esparciendo sus pétalos al viento:&lt;p&gt; No se ha encontrado su página</seg>
       </tuv>
     </tu>
     <tu>
