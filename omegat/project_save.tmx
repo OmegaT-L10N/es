@@ -1512,8 +1512,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Create New Project</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153741Z" creationid="hcartagena" creationdate="20151117T153741Z">
-        <seg>Crear nuevo proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153746Z" creationid="hcartagena" creationdate="20151117T153741Z">
+        <seg>Crear proyecto nuevo</seg>
       </tuv>
     </tu>
     <tu>
