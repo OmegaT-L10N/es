@@ -2773,6 +2773,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193125Z" creationid="hcartagena" creationdate="20151117T193125Z">
+        <seg>Memo&amp;ria interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130829Z" creationid="Helli" creationdate="20150526T130829Z">
@@ -4791,5 +4799,15 @@ crearlas.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_TMS</prop>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T193216Z" creationid="hcartagena" creationdate="20151117T193216Z">
+        <seg>&amp;Memorias externas</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
