@@ -1705,6 +1705,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191955Z" creationid="hcartagena" creationdate="20151117T191955Z">
+        <seg>No existe la carpeta indicada para los archivos de diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223432Z" creationid="hcartagena" creationdate="20151116T223432Z">
@@ -2224,6 +2232,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES">
         <seg>Archivos de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191927Z" creationid="hcartagena" creationdate="20151117T191753Z">
+        <seg>No existe la carpeta indicada para los archivos de glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -2851,6 +2867,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191508Z" creationid="hcartagena" creationdate="20151117T191508Z">
         <seg>Archivos de proyecto de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192009Z" creationid="hcartagena" creationdate="20151117T192009Z">
+        <seg>Carpeta de proyecto de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3679,6 +3703,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191908Z" creationid="hcartagena" creationdate="20151117T191719Z">
+        <seg>No existe la carpeta indicada para los archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203602Z" creationid="hcartagena" creationdate="20151116T203602Z">
@@ -3908,8 +3940,16 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191645Z" creationid="hcartagena" creationdate="20151117T191645Z">
-        <seg>El idioma del archivo traducido no es válido</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191710Z" creationid="hcartagena" creationdate="20151117T191645Z">
+        <seg>El idioma indicado para los archivos traducidos no es válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writeable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191816Z" creationid="hcartagena" creationdate="20151117T191816Z">
+        <seg>El archivo de glosario editable debe estar dentro de la carpeta de glosarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -4115,6 +4155,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191916Z" creationid="hcartagena" creationdate="20151117T191735Z">
+        <seg>No existe la carpeta indicada para los archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223723Z" creationid="hcartagena" creationdate="20151116T223723Z">
@@ -4151,6 +4199,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES">
         <seg>Memorias de Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192002Z" creationid="hcartagena" creationdate="20151117T191840Z">
+        <seg>No existe la carpeta indicada para los archivos de memoria de traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -4440,6 +4496,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T184650Z" creationid="hcartagena" creationdate="20151117T184650Z">
         <seg>Archivo de glosario editable:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable glossary file folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191856Z" creationid="hcartagena" creationdate="20151117T191803Z">
+        <seg>No existe la carpeta indicada para el archivo de glosario editable</seg>
       </tuv>
     </tu>
     <tu>
