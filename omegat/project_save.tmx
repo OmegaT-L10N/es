@@ -3063,6 +3063,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T220813Z" creationid="hcartagena" creationdate="20151117T220813Z">
+        <seg>La búsqueda no ha dado resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No tag errors detected</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222055Z" creationid="hcartagena" creationdate="20151116T222055Z">
@@ -3091,6 +3099,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192620Z" creationid="hcartagena" creationdate="20151117T192620Z">
         <seg>Ahora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T220835Z" creationid="hcartagena" creationdate="20151117T220835Z">
+        <seg>Nro. de segmentos con coincidencias: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3228,6 +3244,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T161657Z" creationid="hcartagena" creationdate="20151117T140539Z">
         <seg>Escurridiza&lt;p&gt;El pulso se acelera&lt;p&gt;Se desvanece</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T220804Z" creationid="hcartagena" creationdate="20151117T220804Z">
+        <seg>Cierre la ventana de búsqueda.</seg>
       </tuv>
     </tu>
     <tu>
