@@ -1152,8 +1152,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140846Z" creationid="hcartagena" creationdate="20151117T140846Z">
-        <seg>Analizando cadena - {0} de {1} completado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T183957Z" creationid="hcartagena" creationdate="20151117T140846Z">
+        <seg>Analizando cadenas - {0} de {1} completado</seg>
       </tuv>
     </tu>
     <tu>
@@ -2933,8 +2933,8 @@ descripción de cómo se produjo este error.</seg>
       <tuv lang="EN">
         <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T163448Z" creationid="hcartagena" creationdate="20151117T140554Z">
-        <seg>Mejor que un ruido&lt;p&gt;o un frío mensaje de error&lt;p&gt;Aquí ya no está</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184107Z" creationid="hcartagena" creationdate="20151117T140554Z">
+        <seg>Mejor que un ruido&lt;p&gt;o un frío mensaje de error&lt;p&gt;Ten un consuelo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3654,8 +3654,8 @@ descripción de cómo se produjo este error.</seg>
       <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T164238Z" creationid="hcartagena" creationdate="20151117T140541Z">
-        <seg>Eso que buscas&lt;p&gt;Trasciende los sentidos&lt;p&gt;Hay un más allá</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184228Z" creationid="hcartagena" creationdate="20151117T140541Z">
+        <seg>Eso que buscas&lt;p&gt;Trasciende los sentidos&lt;p&gt;En un más allá</seg>
       </tuv>
     </tu>
     <tu>
