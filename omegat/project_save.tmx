@@ -1286,6 +1286,22 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142148Z" creationid="hcartagena" creationdate="20151117T142148Z">
+        <seg>No se puede acceder a la carpeta del glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142217Z" creationid="hcartagena" creationdate="20151117T142217Z">
+        <seg>No se pudo crear la carpeta para los archivos traducidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot locate help file:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223734Z" creationid="hcartagena" creationdate="20151116T223734Z">
@@ -1662,6 +1678,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142246Z" creationid="hcartagena" creationdate="20151117T142246Z">
+        <seg>Error al iniciar comando externo: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222245Z" creationid="hcartagena" creationdate="20151116T222245Z">
@@ -1674,6 +1698,30 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140533Z" creationid="hcartagena" creationdate="20151117T140533Z">
         <seg>Emocionante página de ayuda &lt;p&gt;Los hilos de la telaraña&lt;p&gt; 404 no encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142231Z" creationid="hcartagena" creationdate="20151117T142231Z">
+        <seg>Ejecutando comando externo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142325Z" creationid="hcartagena" creationdate="20151117T142325Z">
+        <seg>Código de salida {0}: "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142315Z" creationid="hcartagena" creationdate="20151117T142315Z">
+        <seg>Código de salida: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,6 +1750,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142304Z" creationid="hcartagena" creationdate="20151117T142304Z">
+        <seg>Comando externo completado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>F&amp;ont...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204132Z" creationid="hcartagena" creationdate="20151116T204132Z">
@@ -1712,24 +1768,32 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222047Z" creationid="hcartagena" creationdate="20151116T222047Z">
-        <seg>Error al compilar los archivos del proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142104Z" creationid="hcartagena" creationdate="20151116T222047Z">
+        <seg>No se pudo compilar los archivos del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142044Z" creationid="hcartagena" creationdate="20151117T142044Z">
+        <seg>No se pudo crear el proyecto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222041Z" creationid="hcartagena" creationdate="20151116T222041Z">
-        <seg>Error al cargar el proyecto especificado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142059Z" creationid="hcartagena" creationdate="20151116T222041Z">
+        <seg>No se pudo cargar el proyecto especificado</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T222028Z" creationid="hcartagena" creationdate="20151116T222028Z">
-        <seg>Error al cargar la memoria de traducción {0} del proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142055Z" creationid="hcartagena" creationdate="20151116T222028Z">
+        <seg>No se pudo cargar la memoria de traducción {0} del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1752,8 +1816,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202516Z" creationid="hcartagena" creationdate="20151116T202516Z">
-        <seg>Error al copiar el archivo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142049Z" creationid="hcartagena" creationdate="20151116T202516Z">
+        <seg>No se pudo copiar el archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2503,6 +2567,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142220Z" creationid="hcartagena" creationdate="20151117T142220Z">
+        <seg>Segmentos huérfanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140539Z" creationid="hcartagena" creationdate="20151117T140539Z">
@@ -2559,6 +2631,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135041Z" creationid="Helli" creationdate="20150526T135041Z">
         <seg>Segmento anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142129Z" creationid="hcartagena" creationdate="20151117T142129Z">
+        <seg>Problema detectado al cargar el archivo del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3487,6 +3567,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES">
         <seg>Memorias de Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142025Z" creationid="hcartagena" creationdate="20151117T142025Z">
+        <seg>No se pudo compilar el nuevo archivo TMX</seg>
       </tuv>
     </tu>
     <tu>
