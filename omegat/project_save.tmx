@@ -517,11 +517,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>Según lo explicado en el mensaje del grupo (ver URL), "tokenizer" es, en jerga de Lucene, un "analizador".
+https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T185623Z" creationid="hcartagena" creationdate="20151117T185623Z">
-        <seg>Lemati&amp;zador del idioma original:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190558Z" creationid="hcartagena" creationdate="20151117T185623Z">
+        <seg>Anali&amp;zador del idioma original:</seg>
       </tuv>
     </tu>
     <tu>
