@@ -1789,11 +1789,12 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Este y los demás mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T155327Z" creationid="hcartagena" creationdate="20151117T140533Z">
-        <seg>Emocionante página de ayuda &lt;p&gt;Los hilos de la telaraña te retienen&lt;p&gt; 404 no encontrada</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T160808Z" creationid="hcartagena" creationdate="20151117T140533Z">
+        <seg>Una página&lt;p&gt;hilos de telaraña&lt;p&gt;la ocultan de ti</seg>
       </tuv>
     </tu>
     <tu>
