@@ -1431,6 +1431,22 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T203839Z" creationid="hcartagena" creationdate="20151117T203839Z">
+        <seg>Nombre de carpeta {0} incorrecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T203828Z" creationid="hcartagena" creationdate="20151117T203828Z">
+        <seg>Expresión regular incorrecta</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
@@ -2055,6 +2071,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140908Z" creationid="hcartagena" creationdate="20151117T140908Z">
         <seg>Error al guardar el archivo del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T203817Z" creationid="hcartagena" creationdate="20151117T203817Z">
+        <seg>Error al buscar en el árbol de directorios</seg>
       </tuv>
     </tu>
     <tu>
@@ -3755,6 +3779,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154859Z" creationid="Helli" creationdate="20150526T154859Z">
         <seg>Opciones de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T204005Z" creationid="hcartagena" creationdate="20151117T204005Z">
+        <seg>El subproceso de búsqueda finalizó inesperadamente</seg>
       </tuv>
     </tu>
     <tu>
