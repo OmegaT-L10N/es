@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190854Z" creationid="hcartagena" creationdate="20151117T190854Z">
+        <seg>&amp;Autopropagación de traducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-text...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221430Z" creationid="hcartagena" creationdate="20151116T221430Z">
@@ -522,8 +530,16 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190558Z" creationid="hcartagena" creationdate="20151117T185623Z">
-        <seg>Anali&amp;zador del idioma original:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190805Z" creationid="hcartagena" creationdate="20151117T185623Z">
+        <seg>Anali&amp;zador del idioma de origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Tokenizer Behaviour:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190824Z" creationid="hcartagena" creationdate="20151117T190824Z">
+        <seg>&amp;Comportamiento del analizador de origen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -540,6 +556,22 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203048Z" creationid="hcartagena" creationdate="20151116T202742Z">
         <seg>Archivos &amp;traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190801Z" creationid="hcartagena" creationdate="20151117T190801Z">
+        <seg>Analiz&amp;ador del idioma de destino:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Tokenizer Behaviour:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190833Z" creationid="hcartagena" creationdate="20151117T190833Z">
+        <seg>C&amp;omportamiento del analizador de destino:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,6 +1136,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191000Z" creationid="hcartagena" creationdate="20151117T191000Z">
+        <seg>&lt;html&gt;Los comandos externos por proyecto están deshabilitados y no se ejecutarán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0/&gt;If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155703Z" creationid="Helli" creationdate="20150526T155703Z">
@@ -1601,6 +1641,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190838Z" creationid="hcartagena" creationdate="20151117T190838Z">
+        <seg>Carpeta de diccionarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223432Z" creationid="hcartagena" creationdate="20151116T223432Z">
@@ -1856,6 +1904,22 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132214Z" creationid="Helli" creationdate="20150526T132214Z">
         <seg>Exportar Seleccioón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190939Z" creationid="hcartagena" creationdate="20151117T190939Z">
+        <seg>Comando externo de posprocesamiento (deshabilitado):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190921Z" creationid="hcartagena" creationdate="20151117T190921Z">
+        <seg>Comando externo de posprocesamiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3065,6 +3129,14 @@ descripción de cómo se produjo este error.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T164420Z" creationid="Helli" creationdate="20150526T153445Z">
         <seg>Recuerde que cada  buen informe de errores necesita sólo tres cosas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T190903Z" creationid="hcartagena" creationdate="20151117T190903Z">
+        <seg>Eliminar eti&amp;quetas</seg>
       </tuv>
     </tu>
     <tu>
