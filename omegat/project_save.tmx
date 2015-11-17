@@ -1736,8 +1736,8 @@ La configuración acutual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T140549Z" creationid="hcartagena" creationdate="20151117T140549Z">
-        <seg>Página efímera, &lt;p&gt;Yo soy la pantalla azul de la muerte,&lt;p&gt; ¡nadie le oirá gritar!.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151117T163129Z" creationid="hcartagena" creationdate="20151117T140549Z">
+        <seg>Desaparece&lt;p&gt;Pantalla azul de muerte&lt;p&gt;Gritar para qué</seg>
       </tuv>
     </tu>
     <tu>
