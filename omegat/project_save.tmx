@@ -2074,6 +2074,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T200921Z" creationid="hcartagena" creationdate="20151118T200921Z">
+        <seg>Se alcanzó el final de la secuencia alcanzado sin haber hallado el bloque de cierre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222204Z" creationid="hcartagena" creationdate="20151116T222204Z">
@@ -2143,6 +2151,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222245Z" creationid="hcartagena" creationdate="20151116T222245Z">
         <seg>Error al intentar modificar el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T200928Z" creationid="hcartagena" creationdate="20151118T200928Z">
+        <seg>Carácter de escape sin terminar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5145,6 +5161,14 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T200859Z" creationid="hcartagena" creationdate="20151118T200859Z">
+        <seg>atributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193532Z" creationid="hcartagena" creationdate="20151117T193532Z">
@@ -5163,8 +5187,8 @@ crearlas.</seg>
       <tuv lang="EN">
         <seg>loaded</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151118T192408Z" creationid="hcartagena" creationdate="20151118T192023Z">
-        <seg>I want to run over the hills as he runs over water</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T200856Z" creationid="hcartagena" creationdate="20151118T192023Z">
+        <seg>cargado</seg>
       </tuv>
     </tu>
     <tu>
