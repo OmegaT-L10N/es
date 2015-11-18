@@ -706,6 +706,30 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T192010Z" creationid="hcartagena" creationdate="20151118T192010Z">
+        <seg>(etiqueta de cierre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T191933Z" creationid="hcartagena" creationdate="20151118T191933Z">
+        <seg>(etiqueta de comentario)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T192004Z" creationid="hcartagena" creationdate="20151118T192004Z">
+        <seg>(etiqueta vacía)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T164155Z" creationid="hcartagena" creationdate="20151118T164155Z">
@@ -1697,6 +1721,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T191924Z" creationid="hcartagena" creationdate="20151118T191924Z">
+        <seg>Confusión por falso comienzo de etiqueta de comentario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;f9&gt;project&lt;/f9&gt;&lt;/a8&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152911Z" creationid="Helli" creationdate="20150526T152911Z">
@@ -2360,6 +2392,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223704Z" creationid="hcartagena" creationdate="20151116T223704Z">
         <seg>Filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T191958Z" creationid="hcartagena" creationdate="20151118T191958Z">
+        <seg>Carácter '?' flotante no ligado con '&gt;'</seg>
       </tuv>
     </tu>
     <tu>
@@ -4263,6 +4303,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T191929Z" creationid="hcartagena" creationdate="20151118T191929Z">
+        <seg>Nombre de etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tea&amp;m...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204611Z" creationid="hcartagena" creationdate="20151116T204223Z">
@@ -5109,6 +5157,14 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151550Z" creationid="Helli" creationdate="20150526T151550Z">
         <seg>lep, lepa, lepo - singular, masculino, femenino, neutro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T192023Z" creationid="hcartagena" creationdate="20151118T192023Z">
+        <seg>cargado</seg>
       </tuv>
     </tu>
     <tu>
