@@ -3615,6 +3615,22 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T225026Z" creationid="hcartagena" creationdate="20151118T225026Z">
+        <seg>Leyendo el archivo TMX {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T225050Z" creationid="hcartagena" creationdate="20151118T225050Z">
+        <seg>Se completó la lectura del archivo TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193611Z" creationid="hcartagena" creationdate="20151117T193611Z">
@@ -4912,6 +4928,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T224934Z" creationid="hcartagena" creationdate="20151118T224934Z">
         <seg>Codificación de archivo incompatible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T225018Z" creationid="hcartagena" creationdate="20151118T225018Z">
+        <seg>La versión del archivo de proyecto ({0}) no es compatible</seg>
       </tuv>
     </tu>
     <tu>
