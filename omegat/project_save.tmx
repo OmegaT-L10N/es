@@ -3368,6 +3368,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T224927Z" creationid="hcartagena" creationdate="20151118T224927Z">
+        <seg>Se encontró un error de análisis al leer el archivo de preferencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T220804Z" creationid="hcartagena" creationdate="20151117T220804Z">
@@ -4772,6 +4780,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T224947Z" creationid="hcartagena" creationdate="20151118T224947Z">
+        <seg>No se pudo leer el archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191523Z" creationid="hcartagena" creationdate="20151117T191518Z">
@@ -4888,6 +4904,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191735Z" creationid="hcartagena" creationdate="20151118T191735Z">
         <seg>La versión de XML {0} es incompatible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T224934Z" creationid="hcartagena" creationdate="20151118T224934Z">
+        <seg>Codificación de archivo incompatible</seg>
       </tuv>
     </tu>
     <tu>
