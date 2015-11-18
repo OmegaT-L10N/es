@@ -4209,8 +4209,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141131Z" creationid="hcartagena" creationdate="20151117T141131Z">
-        <seg>Carga de archivo original completada</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T225133Z" creationid="hcartagena" creationdate="20151117T141131Z">
+        <seg>Se completó la carga de archivo(s) original(es)</seg>
       </tuv>
     </tu>
     <tu>
