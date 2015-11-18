@@ -2155,10 +2155,26 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T213313Z" creationid="hcartagena" creationdate="20151118T213313Z">
+        <seg>El carácter binario de escape contiene datos mal formados ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped character never terminated!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T200928Z" creationid="hcartagena" creationdate="20151118T200928Z">
         <seg>Carácter de escape sin terminar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T213328Z" creationid="hcartagena" creationdate="20151118T213328Z">
+        <seg>El caracter decimal de escape contiene datos mal formados ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -2360,6 +2376,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153651Z" creationid="hcartagena" creationdate="20151117T153651Z">
         <seg>Ubicación de archivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T213333Z" creationid="hcartagena" creationdate="20151118T213333Z">
+        <seg>El archivo {0} no existe</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3418,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202446Z" creationid="hcartagena" creationdate="20151116T202446Z">
         <seg>Escriba o pegue la URL de la página de MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T213441Z" creationid="hcartagena" creationdate="20151118T213441Z">
+        <seg>La operación de guardado de preferencias del sistema falló</seg>
       </tuv>
     </tu>
     <tu>
