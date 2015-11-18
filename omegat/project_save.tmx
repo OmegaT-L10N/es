@@ -706,6 +706,14 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T164155Z" creationid="hcartagena" creationdate="20151118T164155Z">
+        <seg>+{0} más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151701Z" creationid="Helli" creationdate="20150526T151701Z">
@@ -2384,6 +2392,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135259Z" creationid="Helli" creationdate="20150526T135158Z">
         <seg>Adelante en historia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T164136Z" creationid="hcartagena" creationdate="20151118T164136Z">
+        <seg>Glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -5077,6 +5093,14 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223201Z" creationid="hcartagena" creationdate="20151116T223201Z">
         <seg>{0} ({1} restantes) / {2} ({3} restantes), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151118T164216Z" creationid="hcartagena" creationdate="20151118T164216Z">
+        <seg>{0} +{1} más</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
