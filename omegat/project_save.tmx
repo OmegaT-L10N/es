@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205219Z" creationid="hcartagena" creationdate="20151119T205219Z">
+        <seg>&amp;Forzar atajo con "f" para etiquetas &lt;it pos="end"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203521Z" creationid="hcartagena" creationdate="20151116T203504Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221626Z" creationid="hcartagena" creationdate="20151116T221626Z">
         <seg>A&amp;yuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205252Z" creationid="hcartagena" creationdate="20151119T205252Z">
+        <seg>&amp;Ignorar atributos type y ctype al crear atajos para etiqueta &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
