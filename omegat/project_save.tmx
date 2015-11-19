@@ -1496,6 +1496,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213654Z" creationid="hcartagena" creationdate="20151119T213654Z">
+        <seg>Agregar patrón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185652Z" creationid="hcartagena" creationdate="20151119T185652Z">
@@ -2399,10 +2407,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213521Z" creationid="hcartagena" creationdate="20151119T213521Z">
+        <seg>Editar patrones de filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124341Z" creationid="Helli" creationdate="20150526T123732Z">
         <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213657Z" creationid="hcartagena" creationdate="20151119T213657Z">
+        <seg>Editar patrón</seg>
       </tuv>
     </tu>
     <tu>
@@ -3187,6 +3211,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213516Z" creationid="hcartagena" creationdate="20151119T213516Z">
+        <seg>Si el filtro tiene opciones, puede cambiarlas haciendo clic en Opciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130710Z" creationid="Helli" creationdate="20150526T130710Z">
@@ -3199,6 +3231,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154015Z" creationid="Helli" creationdate="20150526T153824Z">
         <seg>Si desea mantener pista de qué está pasando al informe, regístrese como SourceForge usuario, inicies sesión y archivar un informe de errores o simplemente haga clic en la parte superior del informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213649Z" creationid="hcartagena" creationdate="20151119T213649Z">
+        <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4037,6 +4077,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213527Z" creationid="hcartagena" creationdate="20151119T213527Z">
+        <seg>&amp;Opciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191508Z" creationid="hcartagena" creationdate="20151117T191508Z">
@@ -4360,6 +4408,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213633Z" creationid="hcartagena" creationdate="20151119T213633Z">
+        <seg>Conservar espacios en todas las etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203448Z" creationid="hcartagena" creationdate="20151116T203448Z">
@@ -4669,6 +4725,22 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152329Z" creationid="Helli" creationdate="20150526T152329Z">
         <seg>Sacar todos los tokenizers de la /plugin carpeta antes de iniciar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213612Z" creationid="hcartagena" creationdate="20151119T213612Z">
+        <seg>Quitar etiquetas anteriores y posteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213626Z" creationid="hcartagena" creationdate="20151119T213626Z">
+        <seg>Quitar espacio en blanco anterior y posterior en proyectos sin segmentación</seg>
       </tuv>
     </tu>
     <tu>
@@ -5249,10 +5321,26 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213714Z" creationid="hcartagena" creationdate="20151119T213714Z">
+        <seg>Codificación del archivo original:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191129Z" creationid="hcartagena" creationdate="20151119T191114Z">
         <seg>Patrón de nombre de archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213707Z" creationid="hcartagena" creationdate="20151119T213707Z">
+        <seg>Patrón de nombre del archivo original:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5812,6 +5900,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
         <seg>Para personalizar la característica de guión, haga lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213505Z" creationid="hcartagena" creationdate="20151119T213505Z">
+        <seg>Para elegir los archivos que serán procesados por el filtro y su codificación, seleccione el filtro del listado y haga clic en Editar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6424,6 +6520,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124402Z" creationid="Helli" creationdate="20150526T124228Z">
         <seg>Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213410Z" creationid="hcartagena" creationdate="20151119T213410Z">
+        <seg>Vea o edite los filtros de archivo.</seg>
       </tuv>
     </tu>
     <tu>
