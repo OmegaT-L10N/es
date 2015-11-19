@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211957Z" creationid="hcartagena" creationdate="20151119T211957Z">
+        <seg>&amp;Licencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202322Z" creationid="hcartagena" creationdate="20151119T202322Z">
@@ -1440,6 +1448,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211942Z" creationid="hcartagena" creationdate="20151119T211942Z">
+        <seg>Acerca de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144046Z" creationid="Helli" creationdate="20150526T144046Z">
@@ -2009,6 +2025,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202403Z" creationid="hcartagena" creationdate="20151116T202403Z">
         <seg>Copiar archivos a carpeta Source...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211954Z" creationid="hcartagena" creationdate="20151119T211954Z">
+        <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk y otros</seg>
       </tuv>
     </tu>
     <tu>
@@ -3867,10 +3891,42 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212054Z" creationid="hcartagena" creationdate="20151119T212054Z">
+        <seg>OmegaT es una herramienta multiplataforma libre para la traducción asistida por computadora (TAC) que está dotada de diversas funciones: coincidencias parciales, memoria de traducción, búsqueda por palabras clave, glosarios y aprovechamiento de traducciones previas en proyectos nuevos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212057Z" creationid="hcartagena" creationdate="20151119T212057Z">
+        <seg>OmegaT es el trabajo original de Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192916Z" creationid="hcartagena" creationdate="20151116T192916Z">
         <seg>Se agotó la memoria de OmegaT. El programa se cerrará cuando pulse Aceptar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211920Z" creationid="hcartagena" creationdate="20151119T211920Z">
+        <seg>OmegaT versión {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211939Z" creationid="hcartagena" creationdate="20151119T211939Z">
+        <seg>OmegaT versión {0}, actualización {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5043,6 +5099,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192825Z" creationid="hcartagena" creationdate="20151119T192825Z">
         <seg>Estándar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211916Z" creationid="hcartagena" creationdate="20151119T211916Z">
+        <seg>Iniciar nuevo párrafo c&amp;on salto de línea en Word</seg>
       </tuv>
     </tu>
     <tu>
