@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205356Z" creationid="hcartagena" creationdate="20151119T205356Z">
+        <seg>Notas al fina&amp;l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact Match</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221353Z" creationid="hcartagena" creationdate="20151116T221353Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223437Z" creationid="hcartagena" creationdate="20151116T223437Z">
         <seg>&amp;Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205345Z" creationid="hcartagena" creationdate="20151119T205345Z">
+        <seg>&amp;Notas al pie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1901,6 +1917,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205343Z" creationid="hcartagena" creationdate="20151119T205343Z">
+        <seg>Co&amp;mentarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191105Z" creationid="hcartagena" creationdate="20151119T191105Z">
@@ -2784,6 +2808,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205404Z" creationid="hcartagena" creationdate="20151119T205404Z">
+        <seg>&amp;Pies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142924Z" creationid="hcartagena" creationdate="20151117T142924Z">
@@ -2868,6 +2900,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124356Z" creationid="Helli" creationdate="20150526T123856Z">
         <seg>Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205359Z" creationid="hcartagena" creationdate="20151119T205359Z">
+        <seg>Enc&amp;abezados</seg>
       </tuv>
     </tu>
     <tu>
@@ -2957,6 +2997,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154015Z" creationid="Helli" creationdate="20150526T153824Z">
         <seg>Si desea mantener pista de qué está pasando al informe, regístrese como SourceForge usuario, inicies sesión y archivar un informe de errores o simplemente haga clic en la parte superior del informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205314Z" creationid="hcartagena" creationdate="20151119T205314Z">
+        <seg>Ignorar atributos type y ctype al crear atajos para etiquetas &lt;&amp;bpt&gt; y &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3651,6 +3699,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205339Z" creationid="hcartagena" creationdate="20151119T205339Z">
+        <seg>Te&amp;xto de instrucciones no visibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191747Z" creationid="hcartagena" creationdate="20151118T191747Z">
@@ -3807,6 +3863,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202328Z" creationid="hcartagena" creationdate="20151116T202328Z">
         <seg>Abrir proyecto reciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T205323Z" creationid="hcartagena" creationdate="20151119T205323Z">
+        <seg>Opciones del filtro Open XML</seg>
       </tuv>
     </tu>
     <tu>
