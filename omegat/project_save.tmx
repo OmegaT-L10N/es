@@ -1933,6 +1933,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211452Z" creationid="hcartagena" creationdate="20151119T211452Z">
+        <seg>Come&amp;ntarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192136Z" creationid="hcartagena" creationdate="20151116T192051Z">
@@ -2215,8 +2223,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="EN">
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T210452Z" creationid="hcartagena" creationdate="20151119T210452Z">
-        <seg>Texto de reserva duplicado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211423Z" creationid="hcartagena" creationdate="20151119T210452Z">
+        <seg>Texto de reser&amp;va duplicado</seg>
       </tuv>
     </tu>
     <tu>
@@ -4459,6 +4467,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193630Z" creationid="hcartagena" creationdate="20151116T193630Z">
         <seg>Ejecución en Java {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211457Z" creationid="hcartagena" creationdate="20151119T211457Z">
+        <seg>Comentario&amp;s de diapositiva</seg>
       </tuv>
     </tu>
     <tu>
