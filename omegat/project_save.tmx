@@ -6921,10 +6921,26 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214656Z" creationid="hcartagena" creationdate="20151119T214656Z">
+        <seg>h&amp;reflang (idioma de enlaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214635Z" creationid="hcartagena" creationdate="20151119T214635Z">
         <seg>href (URL de en&amp;laces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214651Z" creationid="hcartagena" creationdate="20151119T214651Z">
+        <seg>lan&amp;g (atributo de idioma)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6989,6 +7005,14 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212829Z" creationid="hcartagena" creationdate="20151119T212829Z">
         <seg>slf4j-*.jar (licencia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214642Z" creationid="hcartagena" creationdate="20151119T214642Z">
+        <seg>src (URL de &amp;imágenes)</seg>
       </tuv>
     </tu>
     <tu>
