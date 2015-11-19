@@ -1320,6 +1320,18 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183836Z" creationid="hcartagena" creationdate="20151119T183836Z">
+        <seg>Se produjo una excepción durante el análisis del archivo TMX
+{0}
+El archivo TMX no se cargará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T183957Z" creationid="hcartagena" creationdate="20151117T140846Z">
@@ -1825,6 +1837,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183607Z" creationid="hcartagena" creationdate="20151119T183607Z">
+        <seg>Creado por: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T141151Z" creationid="hcartagena" creationdate="20151117T141151Z">
@@ -2191,6 +2211,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193951Z" creationid="hcartagena" creationdate="20151117T193951Z">
         <seg>La búsqueda exacta encuentra la cadena consultada de manera textual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183740Z" creationid="hcartagena" creationdate="20151119T183740Z">
+        <seg>Excepción durante el análisis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4015,6 +4043,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183611Z" creationid="hcartagena" creationdate="20151119T183611Z">
+        <seg>Método de segmentación: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142938Z" creationid="Helli" creationdate="20150526T142938Z">
@@ -4219,6 +4255,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191908Z" creationid="hcartagena" creationdate="20151117T191719Z">
         <seg>No existe la carpeta indicada para los archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183657Z" creationid="hcartagena" creationdate="20151119T183657Z">
+        <seg>Idioma de origen: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5048,6 +5092,22 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222059Z" creationid="hcartagena" creationdate="20151116T222059Z">
         <seg>Validando etiquetas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variants in the following languages will be displayed: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183729Z" creationid="hcartagena" creationdate="20151119T183729Z">
+        <seg>Se mostrarán las variantes en los siguientes idiomas: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183609Z" creationid="hcartagena" creationdate="20151119T183609Z">
+        <seg>Versión: {0}</seg>
       </tuv>
     </tu>
     <tu>
