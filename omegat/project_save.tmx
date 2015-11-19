@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211808Z" creationid="hcartagena" creationdate="20151119T211808Z">
+        <seg>&amp;Conservar espacios en todas las etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203439Z" creationid="hcartagena" creationdate="20151116T203439Z">
@@ -1416,6 +1424,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211751Z" creationid="hcartagena" creationdate="20151119T211751Z">
+        <seg>A&amp;glutinar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221419Z" creationid="hcartagena" creationdate="20151116T221419Z">
@@ -1765,6 +1781,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211702Z" creationid="hcartagena" creationdate="20151119T211702Z">
+        <seg>Gráf&amp;icos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142831Z" creationid="hcartagena" creationdate="20151117T142831Z">
@@ -2109,6 +2133,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211711Z" creationid="hcartagena" creationdate="20151119T211711Z">
+        <seg>D&amp;iagramas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134909Z" creationid="Helli" creationdate="20150526T130841Z">
@@ -2217,6 +2249,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131104Z" creationid="Helli" creationdate="20150526T130945Z">
         <seg>Descargar Proyecto en Equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211732Z" creationid="hcartagena" creationdate="20151119T211732Z">
+        <seg>Dib&amp;ujos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3931,6 +3971,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211737Z" creationid="hcartagena" creationdate="20151119T211737Z">
+        <seg>Otras opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201800Z" creationid="hcartagena" creationdate="20151119T201800Z">
@@ -4473,8 +4521,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>S&amp;lide Comments</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211457Z" creationid="hcartagena" creationdate="20151119T211457Z">
-        <seg>Comentario&amp;s de diapositiva</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211631Z" creationid="hcartagena" creationdate="20151119T211457Z">
+        <seg>Comentario&amp;s de diapositivas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4851,6 +4899,30 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124321Z" creationid="Helli" creationdate="20150526T123650Z">
         <seg>Atajos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211536Z" creationid="hcartagena" creationdate="20151119T211536Z">
+        <seg>Patrones de &amp;diapostivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211626Z" creationid="hcartagena" creationdate="20151119T211626Z">
+        <seg>Enlaces e&amp;xternos de diapositivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T211628Z" creationid="hcartagena" creationdate="20151119T211609Z">
+        <seg>Di&amp;seños de diapositivas</seg>
       </tuv>
     </tu>
     <tu>
