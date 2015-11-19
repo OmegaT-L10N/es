@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191222Z" creationid="hcartagena" creationdate="20151119T191222Z">
+        <seg>Permitir tr&amp;aducciones en blanco en archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221538Z" creationid="hcartagena" creationdate="20151116T221538Z">
@@ -1725,6 +1733,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191105Z" creationid="hcartagena" creationdate="20151119T191105Z">
+        <seg>El índice de columna debe ser igual a 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192136Z" creationid="hcartagena" creationdate="20151116T192051Z">
@@ -2102,6 +2118,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191057Z" creationid="hcartagena" creationdate="20151119T191057Z">
+        <seg>Habilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223545Z" creationid="hcartagena" creationdate="20151116T223545Z">
@@ -2448,6 +2472,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191055Z" creationid="hcartagena" creationdate="20151119T191055Z">
+        <seg>Formato de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142557Z" creationid="hcartagena" creationdate="20151117T142557Z">
@@ -2508,6 +2540,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223542Z" creationid="hcartagena" creationdate="20151116T223542Z">
         <seg>Filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191053Z" creationid="hcartagena" creationdate="20151119T191053Z">
+        <seg>No se pudo cargar el filtro '{0}' de '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -3474,6 +3514,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191201Z" creationid="hcartagena" creationdate="20151119T191201Z">
+        <seg>Opciones de filtro PO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
@@ -3554,6 +3602,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202446Z" creationid="hcartagena" creationdate="20151116T202446Z">
         <seg>Escriba o pegue la URL de la página de MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191010Z" creationid="hcartagena" creationdate="20151119T191010Z">
+        <seg>Complemento de la clase '{0}' descargado correctamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -4351,6 +4407,22 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191133Z" creationid="hcartagena" creationdate="20151119T191125Z">
+        <seg>Codificación de archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191129Z" creationid="hcartagena" creationdate="20151119T191114Z">
+        <seg>Patrón de nombre de archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191220Z" creationid="hcartagena" creationdate="20151117T191220Z">
@@ -4902,6 +4974,22 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191137Z" creationid="hcartagena" creationdate="20151119T191137Z">
+        <seg>Codificación de archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191142Z" creationid="hcartagena" creationdate="20151119T191142Z">
+        <seg>Patrón de nombre de archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191226Z" creationid="hcartagena" creationdate="20151117T191226Z">
@@ -5030,6 +5118,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191033Z" creationid="hcartagena" creationdate="20151119T191033Z">
+        <seg>No se pudo analizar el archivo de configuración de filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T224947Z" creationid="hcartagena" creationdate="20151118T224947Z">
@@ -5042,6 +5138,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191523Z" creationid="hcartagena" creationdate="20151117T191518Z">
         <seg>No se pudo leer el archivo del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191041Z" creationid="hcartagena" creationdate="20151119T191041Z">
+        <seg>No se pudo guardar el archivo de configuración de filtros</seg>
       </tuv>
     </tu>
     <tu>
