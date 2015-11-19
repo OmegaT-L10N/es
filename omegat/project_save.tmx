@@ -1288,6 +1288,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T185652Z" creationid="hcartagena" creationdate="20151119T185652Z">
+        <seg>Se añadieron {0} entradas de glosario desde {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192608Z" creationid="hcartagena" creationdate="20151117T192608Z">
@@ -1765,6 +1773,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T185709Z" creationid="hcartagena" creationdate="20151119T185709Z">
+        <seg>No se pudo inicializar la apariencia del sistema operativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203234Z" creationid="hcartagena" creationdate="20151116T203234Z">
@@ -2139,6 +2155,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142454Z" creationid="hcartagena" creationdate="20151117T142454Z">
         <seg>Error al monitorear el comando externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T185621Z" creationid="hcartagena" creationdate="20151119T185621Z">
+        <seg>Error durante la lectura del archivo TMX nivel 2 en la línea {0}, columna {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2913,6 +2937,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T185634Z" creationid="hcartagena" creationdate="20151119T185634Z">
+        <seg>Cargando glosario(s) {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading project...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140852Z" creationid="hcartagena" creationdate="20151117T140852Z">
@@ -3351,6 +3383,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193619Z" creationid="hcartagena" creationdate="20151116T193619Z">
         <seg>OmegaT finalizará ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T185547Z" creationid="hcartagena" creationdate="20151119T185547Z">
+        <seg>OmegaT intentará recrear los segmentos del archivo TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,6 +5154,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T185454Z" creationid="hcartagena" creationdate="20151119T185454Z">
+        <seg>Actualizando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
@@ -5419,6 +5467,14 @@ them.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191355Z" creationid="hcartagena" creationdate="20151117T191355Z">
         <seg>Debe especificar su nueva ubicación o volver a
 crearlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T185538Z" creationid="hcartagena" creationdate="20151119T185538Z">
+        <seg>Su proyecto utiliza la segmentación por frases, pero el archivo TMX fue creado con segmentación por párrafos.</seg>
       </tuv>
     </tu>
     <tu>
