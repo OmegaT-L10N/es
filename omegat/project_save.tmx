@@ -1448,6 +1448,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR 3.4 (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212632Z" creationid="hcartagena" creationdate="20151119T212632Z">
+        <seg>ANTLR 3.4 (licencia ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211942Z" creationid="hcartagena" creationdate="20151119T211942Z">
@@ -1713,6 +1721,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T184435Z" creationid="hcartagena" creationdate="20151117T140537Z">
         <seg>Dijo el mesero&lt;p&gt;"No hay Daiquiri, muchacho"&lt;p&gt;Pide otro trago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base64 (public domain)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212704Z" creationid="hcartagena" creationdate="20151119T212704Z">
+        <seg>Base64 (dominio público)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3004,8 +3020,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212359Z" creationid="hcartagena" creationdate="20151119T212359Z">
-        <seg>HTMLParser 1.6 por Somik Raha, Derrick Oswald y otros (Licencia LGPL)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212531Z" creationid="hcartagena" creationdate="20151119T212359Z">
+        <seg>HTMLParser 1.6 por Somik Raha, Derrick Oswald y otros (licencia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3055,6 +3071,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T122832Z" creationid="Helli" creationdate="20150526T122832Z">
         <seg>Inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hunspell by László Németh and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212537Z" creationid="hcartagena" creationdate="20151119T212439Z">
+        <seg>Hunspell por László Németh y otros (licencia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3307,6 +3331,30 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212649Z" creationid="hcartagena" creationdate="20151119T212649Z">
+        <seg>JGit (licencia Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JNA by Todd Fast, Timothy Wall and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212540Z" creationid="hcartagena" creationdate="20151119T212445Z">
+        <seg>JNA por Todd Fast, Timothy Wall y otros (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212656Z" creationid="hcartagena" creationdate="20151119T212656Z">
+        <seg>JSch (licencia JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T190930Z" creationid="hcartagena" creationdate="20151119T190930Z">
@@ -3327,6 +3375,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202820Z" creationid="hcartagena" creationdate="20151119T202820Z">
         <seg>Paquetes de recursos Java(TM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell 2.1.4 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212546Z" creationid="hcartagena" creationdate="20151119T212458Z">
+        <seg>Jmyspell 2.1.4 (licencia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4633,10 +4689,26 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet 1.1.10 (GPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212640Z" creationid="hcartagena" creationdate="20151119T212640Z">
+        <seg>SQLJet 1.1.10 (licencia GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203013Z" creationid="hcartagena" creationdate="20151119T203013Z">
         <seg>Imagen SVG y exportación de Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit 1.8.5 (TMate License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212550Z" creationid="hcartagena" creationdate="20151119T212528Z">
+        <seg>SVNKit 1.8.5 (licencia TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4985,6 +5057,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212623Z" creationid="hcartagena" creationdate="20151119T212623Z">
+        <seg>Sequence Library (licencia Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203220Z" creationid="hcartagena" creationdate="20151116T203220Z">
@@ -5165,6 +5245,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203426Z" creationid="hcartagena" creationdate="20151119T203426Z">
         <seg>Subtítulos SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swing-Layout 1.0.4 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212543Z" creationid="hcartagena" creationdate="20151119T212451Z">
+        <seg>Swing-Layout 1.0.4 (licencia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5548,6 +5636,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192438Z" creationid="hcartagena" creationdate="20151116T192415Z">
         <seg>Esta traducción es obra del Grupo de Localización al Español, copyright© 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TinySegmenter (public domain)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212738Z" creationid="hcartagena" creationdate="20151119T212738Z">
+        <seg>TinySegmenter (dominio público)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6102,8 +6198,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212431Z" creationid="hcartagena" creationdate="20151119T212431Z">
-        <seg>VLDocking Framework 3.0.5-SNAPSHOT (Licencia LGPL)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212534Z" creationid="hcartagena" creationdate="20151119T212431Z">
+        <seg>VLDocking Framework 3.0.5-SNAPSHOT (licencia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6453,6 +6549,14 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223343Z" creationid="hcartagena" creationdate="20151116T223333Z">
         <seg>segmento 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2-1.0.0-build217 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212721Z" creationid="hcartagena" creationdate="20151119T212721Z">
+        <seg>trilead-ssh2-1.0.0-build217 (licencia Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
