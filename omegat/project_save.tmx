@@ -2913,6 +2913,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T201753Z" creationid="hcartagena" creationdate="20151119T201753Z">
+        <seg>Formato de archivo no válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T120748Z" creationid="Helli" creationdate="20150526T120748Z">
@@ -3551,6 +3559,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142220Z" creationid="hcartagena" creationdate="20151117T142220Z">
         <seg>Segmentos huérfanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T201800Z" creationid="hcartagena" creationdate="20151119T201800Z">
+        <seg>PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -4732,6 +4748,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T201056Z" creationid="hcartagena" creationdate="20151117T201056Z">
         <seg>El carácter '?' coincide con cero o un carácter (el término 'ejecuta?' encontrará 'ejecuta', 'ejecutar' y 'ejecutan', por ejemplo, pero no 'ejecutando' o 'ejecutado').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T201747Z" creationid="hcartagena" creationdate="20151119T201747Z">
+        <seg>El filtro PO generó una excepción:</seg>
       </tuv>
     </tu>
     <tu>
