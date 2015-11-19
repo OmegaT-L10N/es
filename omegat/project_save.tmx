@@ -2368,6 +2368,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183911Z" creationid="hcartagena" creationdate="20151119T183911Z">
+        <seg>Error fatal en la línea {0}, columna {1} durante el análisis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202614Z" creationid="hcartagena" creationdate="20151116T202614Z">
@@ -2837,6 +2845,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221805Z" creationid="hcartagena" creationdate="20151116T221805Z">
         <seg>Registr&amp;o de eventos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184041Z" creationid="hcartagena" creationdate="20151119T184041Z">
+        <seg>No se especificó el idioma para la variante de la unidad de traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3424,6 +3440,18 @@ descripción de cómo se produjo este error.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183852Z" creationid="hcartagena" creationdate="20151119T183852Z">
+        <seg>Consulte el registro
+({1})
+para determinar el origen del error y vuelva a intentarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222156Z" creationid="hcartagena" creationdate="20151116T222156Z">
@@ -3655,6 +3683,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T225050Z" creationid="hcartagena" creationdate="20151118T225050Z">
         <seg>Se completó la lectura del archivo TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183905Z" creationid="hcartagena" creationdate="20151119T183905Z">
+        <seg>Error recuperable en la línea {0}, columna {1} durante el análisis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4027,10 +4063,26 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184053Z" creationid="hcartagena" creationdate="20151119T184053Z">
+        <seg>Se encontró un segmento fuera de la variante de la unidad de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment number...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135046Z" creationid="Helli" creationdate="20150526T135046Z">
         <seg>Número de segmento...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184128Z" creationid="hcartagena" creationdate="20151119T184057Z">
+        <seg>Se omitió el segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4275,6 +4327,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184148Z" creationid="hcartagena" creationdate="20151119T184103Z">
+        <seg>No se ha podido localizar el segmento de origen de algunas unidades de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223143Z" creationid="hcartagena" creationdate="20151116T223143Z">
@@ -4484,6 +4544,16 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184001Z" creationid="hcartagena" creationdate="20151119T184001Z">
+        <seg>No se cargará el archivo TMX
+Intente corregir el error y vuelva a cargar el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first is the shortcut for Open Project, the second for Create Glossary Entry.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125657Z" creationid="Helli" creationdate="20150526T125657Z">
@@ -4556,6 +4626,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T162142Z" creationid="hcartagena" creationdate="20151117T140540Z">
         <seg>Lo inevitable: &lt;p&gt;Muerte, impuestos y esto:&lt;p&gt;Que no hay página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184157Z" creationid="hcartagena" creationdate="20151119T184157Z">
+        <seg>Se han omitido estas unidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4816,6 +4894,22 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184016Z" creationid="hcartagena" creationdate="20151119T184016Z">
+        <seg>La unidad de traducción aparece antes del encabezado en TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184024Z" creationid="hcartagena" creationdate="20151119T184024Z">
+        <seg>La variante de la unidad de traducción aparece fuera de la unidad de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193423Z" creationid="hcartagena" creationdate="20151117T193423Z">
@@ -4960,6 +5054,18 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183939Z" creationid="hcartagena" creationdate="20151119T183939Z">
+        <seg>Error irrecuperable durante el análisis del archivo TMX
+{0}
+en la línea {1}, columna {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191735Z" creationid="hcartagena" creationdate="20151118T191735Z">
@@ -5096,6 +5202,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184120Z" creationid="hcartagena" creationdate="20151119T184026Z">
+        <seg>Se omitió la variante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variants in the following languages will be displayed: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183729Z" creationid="hcartagena" creationdate="20151119T183729Z">
@@ -5140,6 +5254,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T200623Z" creationid="hcartagena" creationdate="20151116T200623Z">
         <seg>Advertencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183900Z" creationid="hcartagena" creationdate="20151119T183900Z">
+        <seg>Advertencia en la línea {0}, columna {1} durante el análisis:</seg>
       </tuv>
     </tu>
     <tu>
