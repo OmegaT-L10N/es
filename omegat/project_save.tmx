@@ -2335,6 +2335,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214525Z" creationid="hcartagena" creationdate="20151119T214525Z">
+        <seg>No traducir el atributo 'content' de etiquetas 'meta' cuyos pares clave-valor de los atributos sean (separar con comas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214608Z" creationid="hcartagena" creationdate="20151119T214608Z">
+        <seg>No traducir el contenido de etiquetas cuyos pares clave-valor sean (separar con comas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222420Z" creationid="hcartagena" creationdate="20151116T222420Z">
@@ -4285,6 +4301,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214623Z" creationid="hcartagena" creationdate="20151119T214623Z">
+        <seg>Solo si &amp;el archivo (X)HTML tiene una declaración de codificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131030Z" creationid="Helli" creationdate="20150526T130935Z">
@@ -6128,6 +6152,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214627Z" creationid="hcartagena" creationdate="20151119T214627Z">
+        <seg>Traducir los siguientes atributos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following elements:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203708Z" creationid="hcartagena" creationdate="20151119T203708Z">
@@ -6885,6 +6917,14 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193532Z" creationid="hcartagena" creationdate="20151117T193532Z">
         <seg>nombres de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214635Z" creationid="hcartagena" creationdate="20151119T214635Z">
+        <seg>href (URL de en&amp;laces)</seg>
       </tuv>
     </tu>
     <tu>
