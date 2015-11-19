@@ -422,10 +422,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Make the file filter settings project specific</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213400Z" creationid="hcartagena" creationdate="20151119T213324Z">
+        <seg>&amp;Hacer que la configuración de filtros de archivo sea específica del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T153737Z" creationid="hcartagena" creationdate="20151117T153737Z">
-        <seg>Usar reglas de seg&amp;mentación específicas del proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213351Z" creationid="hcartagena" creationdate="20151117T153737Z">
+        <seg>Hacer que las reglas de se&amp;gmentación sean específicas del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +2850,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213202Z" creationid="hcartagena" creationdate="20151119T213202Z">
+        <seg>Filtros de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Filters...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142934Z" creationid="Helli" creationdate="20150526T142934Z">
@@ -3111,6 +3127,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191447Z" creationid="hcartagena" creationdate="20151117T191447Z">
         <seg>También puede especificar aquí una ubicación personalizada para las carpetas del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213146Z" creationid="hcartagena" creationdate="20151119T213146Z">
+        <seg>Aquí puede configurar los patrones de nombre de archivo de los archivos originales que procesará el filtro, personalizar el nombre de los archivos traducidos y seleccionar las codificaciones que usará para cargar el archivo y guardar su homólogo traducido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3973,6 +3997,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213158Z" creationid="hcartagena" creationdate="20151119T213158Z">
+        <seg>Nota: no todos los filtros permiten seleccionar una codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192620Z" creationid="hcartagena" creationdate="20151117T192620Z">
@@ -4404,6 +4436,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124335Z" creationid="Helli" creationdate="20150526T123707Z">
         <seg>Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific File Filters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213211Z" creationid="hcartagena" creationdate="20151119T213211Z">
+        <seg>Filtros de archivo específicos del proyecto</seg>
       </tuv>
     </tu>
     <tu>
