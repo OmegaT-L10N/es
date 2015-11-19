@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T201911Z" creationid="hcartagena" creationdate="20151119T201911Z">
+        <seg>Elimina&amp;r cadenas no traducidas en archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192006Z" creationid="hcartagena" creationdate="20151116T192006Z">
@@ -3282,6 +3290,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T201851Z" creationid="hcartagena" creationdate="20151119T201851Z">
+        <seg>Opciones del filtro Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130857Z" creationid="Helli" creationdate="20150526T130857Z">
@@ -4752,6 +4768,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T201921Z" creationid="hcartagena" creationdate="20151119T201921Z">
+        <seg>El filtro Mozilla DTD generó una excepción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201747Z" creationid="hcartagena" creationdate="20151119T201747Z">
@@ -5559,6 +5583,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T161055Z" creationid="hcartagena" creationdate="20151117T140536Z">
         <seg>Lirios al viento&lt;p&gt;Pétalos esparcidos&lt;p&gt;¿Y la página?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T201835Z" creationid="hcartagena" creationdate="20151119T201835Z">
+        <seg>Recursos de Windows</seg>
       </tuv>
     </tu>
     <tu>
