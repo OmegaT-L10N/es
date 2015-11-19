@@ -2151,6 +2151,22 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T190225Z" creationid="hcartagena" creationdate="20151119T190225Z">
+        <seg>Error al inicializar marcador '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T190254Z" creationid="hcartagena" creationdate="20151119T190254Z">
+        <seg>Error al cargar complemento de la clase '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142454Z" creationid="hcartagena" creationdate="20151117T142454Z">
@@ -5114,6 +5130,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142550Z" creationid="hcartagena" creationdate="20151117T142550Z">
         <seg>Únicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown plugin type in '{0}'</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T190215Z" creationid="hcartagena" creationdate="20151119T190215Z">
+        <seg>Complemento de tipo desconocido en '{0}'</seg>
       </tuv>
     </tu>
     <tu>
