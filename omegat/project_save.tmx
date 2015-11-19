@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213940Z" creationid="hcartagena" creationdate="20151119T213940Z">
+        <seg>&amp;Siempre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221538Z" creationid="hcartagena" creationdate="20151116T221538Z">
@@ -874,6 +882,14 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213930Z" creationid="hcartagena" creationdate="20151119T213930Z">
+        <seg>Opciones del filtro (X)HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T192010Z" creationid="hcartagena" creationdate="20151118T192010Z">
@@ -1504,6 +1520,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213938Z" creationid="hcartagena" creationdate="20151119T213938Z">
+        <seg>Agregar o reescribir declaración de codificación en archivos HTML y XHTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185652Z" creationid="hcartagena" creationdate="20151119T185652Z">
@@ -1728,6 +1752,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T203839Z" creationid="hcartagena" creationdate="20151117T203839Z">
         <seg>Nombre de carpeta {0} incorrecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214018Z" creationid="hcartagena" creationdate="20151119T214018Z">
+        <seg>Expresión regular incorrecta</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2986,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213730Z" creationid="hcartagena" creationdate="20151119T213730Z">
+        <seg>Variables de nombres de achivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223542Z" creationid="hcartagena" creationdate="20151116T223542Z">
@@ -3106,6 +3146,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213819Z" creationid="hcartagena" creationdate="20151119T213819Z">
+        <seg>HTML y XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212531Z" creationid="hcartagena" creationdate="20151119T212359Z">
@@ -3207,6 +3255,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203934Z" creationid="hcartagena" creationdate="20151119T203934Z">
         <seg>Identificador usado para traducciones alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213923Z" creationid="hcartagena" creationdate="20151119T213923Z">
+        <seg>Si el archivo HTML tiene una declaración de codificación, se utilizará esta, con independencia del valor que usted establezca en este cuadro de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3399,6 +3455,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES">
         <seg>Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213815Z" creationid="hcartagena" creationdate="20151119T213815Z">
+        <seg>Archivo HTML no válido</seg>
       </tuv>
     </tu>
     <tu>
@@ -4037,6 +4101,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213850Z" creationid="hcartagena" creationdate="20151119T213850Z">
+        <seg>Nota: la configuración de codificación del archivo original solo afecta a los archivos HTML que no contienen una declaración de codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213158Z" creationid="hcartagena" creationdate="20151119T213158Z">
@@ -4201,6 +4273,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185547Z" creationid="hcartagena" creationdate="20151119T185547Z">
         <seg>OmegaT intentará recrear los segmentos del archivo TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213952Z" creationid="hcartagena" creationdate="20151119T213952Z">
+        <seg>Solo si el archivo (X)HTML tiene un &amp;encabezado</seg>
       </tuv>
     </tu>
     <tu>
@@ -4508,6 +4588,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142456Z" creationid="hcartagena" creationdate="20151117T142456Z">
         <seg>Estadísticas del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213754Z" creationid="hcartagena" creationdate="20151119T213754Z">
+        <seg>Proyecto autoguardado a las {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5281,6 +5369,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214013Z" creationid="hcartagena" creationdate="20151119T214013Z">
+        <seg>Omitir el texto que coincida con la expresión regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211536Z" creationid="hcartagena" creationdate="20151119T211536Z">
@@ -5952,6 +6048,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213803Z" creationid="hcartagena" creationdate="20151119T213803Z">
+        <seg>El archivo HTML es demasiado grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tools Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124414Z" creationid="Helli" creationdate="20150526T124414Z">
@@ -6036,6 +6140,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191137Z" creationid="hcartagena" creationdate="20151119T191137Z">
         <seg>Codificación de archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213722Z" creationid="hcartagena" creationdate="20151119T213722Z">
+        <seg>Codificación del archivo traducido:</seg>
       </tuv>
     </tu>
     <tu>
