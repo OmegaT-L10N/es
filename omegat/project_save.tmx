@@ -1104,6 +1104,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230446Z" creationid="hcartagena" creationdate="20151119T230446Z">
+        <seg>&lt;&amp;br&gt; (nueva línea)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;f1&gt;1.&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;f9&gt;sites and&lt;/f9&gt;&lt;/a8&gt;&lt;a10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/a10&gt;&lt;a12&gt;&lt;f13&gt;OmegaT&lt;/f13&gt;&lt;/a12&gt;&lt;a14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/a14&gt;&lt;a16&gt;&lt;f17&gt;SourceForge project&lt;/f17&gt;&lt;/a16&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152803Z" creationid="Helli" creationdate="20150526T152618Z">
@@ -1588,8 +1596,8 @@ La configuración acutual es {0}MB;</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183836Z" creationid="hcartagena" creationdate="20151119T183836Z">
-        <seg>Se produjo una excepción durante el análisis del archivo TMX
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230609Z" creationid="hcartagena" creationdate="20151119T183836Z">
+        <seg>Se produjo una excepción al analizar el archivo TMX
 {0}
 El archivo TMX no se cargará.</seg>
       </tuv>
@@ -2753,6 +2761,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230625Z" creationid="hcartagena" creationdate="20151119T230554Z">
+        <seg>Excepción al editar las opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183740Z" creationid="hcartagena" creationdate="20151119T183740Z">
@@ -3174,6 +3190,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124356Z" creationid="Helli" creationdate="20150526T123856Z">
         <seg>Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230638Z" creationid="hcartagena" creationdate="20151119T230638Z">
+        <seg>El archivo HHC es muy grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230630Z" creationid="hcartagena" creationdate="20151119T230630Z">
+        <seg>Compilador de Ayuda HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -4133,6 +4165,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230707Z" creationid="hcartagena" creationdate="20151119T230707Z">
+        <seg>Nota: la configuración de codificación de archivos originales solo afecta a los archivos HHC y HHK que no contienen una declaración de codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213850Z" creationid="hcartagena" creationdate="20151119T213850Z">
@@ -4837,6 +4877,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T164420Z" creationid="Helli" creationdate="20150526T153445Z">
         <seg>Recuerde que cada  buen informe de errores necesita sólo tres cosas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230420Z" creationid="hcartagena" creationdate="20151119T230420Z">
+        <seg>Eliminar comentarios de HTML en el documento traducido</seg>
       </tuv>
     </tu>
     <tu>
@@ -5581,6 +5629,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211916Z" creationid="hcartagena" creationdate="20151119T211916Z">
         <seg>Iniciar nuevo párrafo c&amp;on salto de línea en Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230434Z" creationid="hcartagena" creationdate="20151119T230434Z">
+        <seg>Iniciar un nuevo párrafo en:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6484,8 +6540,8 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
 {0}
 on line {1}, column {2}.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T183939Z" creationid="hcartagena" creationdate="20151119T183939Z">
-        <seg>Error irrecuperable durante el análisis del archivo TMX
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230618Z" creationid="hcartagena" creationdate="20151119T183939Z">
+        <seg>Error irrecuperable al analizar el archivo TMX
 {0}
 en la línea {1}, columna {2}.</seg>
       </tuv>
