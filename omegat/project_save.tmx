@@ -872,6 +872,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T215505Z" creationid="hcartagena" creationdate="20151119T215505Z">
+        <seg>&amp;value (de entradas de formulario del tipo 'button', 'submit' y 'reset')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -7029,6 +7037,14 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223429Z" creationid="hcartagena" creationdate="20151116T223429Z">
         <seg>desconocido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T215535Z" creationid="hcartagena" creationdate="20151119T215535Z">
+        <seg>value (de entradas del tipo 'button', '&amp;submit' y 'reset')</seg>
       </tuv>
     </tu>
     <tu>
