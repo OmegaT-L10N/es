@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203741Z" creationid="hcartagena" creationdate="20151119T203718Z">
+        <seg>&amp;Marcadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191130Z" creationid="hcartagena" creationdate="20151117T191130Z">
@@ -130,6 +138,22 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191942Z" creationid="hcartagena" creationdate="20151116T191942Z">
         <seg>&amp;Cerrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203802Z" creationid="hcartagena" creationdate="20151119T203802Z">
+        <seg>&amp;Comentarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203922Z" creationid="hcartagena" creationdate="20151119T203922Z">
+        <seg>&amp;Compatibilidad con OmegaT 2.6</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203745Z" creationid="hcartagena" creationdate="20151119T203716Z">
+        <seg>&amp;Entradas del índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192651Z" creationid="hcartagena" creationdate="20151116T192651Z">
@@ -382,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203800Z" creationid="hcartagena" creationdate="20151119T203800Z">
+        <seg>&amp;Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191933Z" creationid="hcartagena" creationdate="20151116T191933Z">
@@ -402,6 +442,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204008Z" creationid="hcartagena" creationdate="20151116T204008Z">
         <seg>&amp;Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203847Z" creationid="hcartagena" creationdate="20151119T203816Z">
+        <seg>Notas de &amp;presentaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +618,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T220905Z" creationid="hcartagena" creationdate="20151116T220905Z">
         <seg>&amp;Segmentación...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203851Z" creationid="hcartagena" creationdate="20151119T203843Z">
+        <seg>Nombres de &amp;hojas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1597,6 +1653,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203757Z" creationid="hcartagena" creationdate="20151119T203757Z">
+        <seg>&amp;Referencias de marcadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151531Z" creationid="Helli" creationdate="20150526T151531Z">
@@ -2263,6 +2327,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203855Z" creationid="hcartagena" creationdate="20151119T203855Z">
+        <seg>Error en el archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203108Z" creationid="hcartagena" creationdate="20151119T203108Z">
@@ -2841,6 +2913,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203934Z" creationid="hcartagena" creationdate="20151119T203934Z">
+        <seg>Identificador usado para traducciones alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130710Z" creationid="Helli" creationdate="20150526T130710Z">
@@ -3149,6 +3229,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202401Z" creationid="hcartagena" creationdate="20151119T202401Z">
         <seg>Largo de línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203825Z" creationid="hcartagena" creationdate="20151119T203825Z">
+        <seg>Enlaces (&amp;URL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4735,6 +4823,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify tag handling behaviour</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203911Z" creationid="hcartagena" creationdate="20151119T203911Z">
+        <seg>Especificar comportamiento de manejo de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spell &amp;Checking...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221621Z" creationid="hcartagena" creationdate="20151116T221621Z">
@@ -5847,6 +5943,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191856Z" creationid="hcartagena" creationdate="20151117T191803Z">
         <seg>No existe la carpeta indicada para el archivo de glosario editable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203901Z" creationid="hcartagena" creationdate="20151119T203901Z">
+        <seg>Opciones del filtro XLIFF</seg>
       </tuv>
     </tu>
     <tu>
