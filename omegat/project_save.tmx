@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202325Z" creationid="hcartagena" creationdate="20151119T202325Z">
+        <seg>Lín&amp;eas vacías</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact Match</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221353Z" creationid="hcartagena" creationdate="20151116T221353Z">
@@ -326,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202322Z" creationid="hcartagena" creationdate="20151119T202322Z">
+        <seg>Saltos de &amp;línea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153737Z" creationid="hcartagena" creationdate="20151117T153737Z">
@@ -338,6 +354,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203704Z" creationid="hcartagena" creationdate="20151116T203704Z">
         <seg>Estadísticas de &amp;coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202327Z" creationid="hcartagena" creationdate="20151119T202327Z">
+        <seg>&amp;Nunca</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +790,14 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151701Z" creationid="Helli" creationdate="20150526T151701Z">
         <seg>- comparativo, nominative, masculino, femenino, neutro, resp. Forma plural del adjetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202244Z" creationid="hcartagena" creationdate="20151119T202244Z">
+        <seg>---- Notas de localización ----</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,6 +3065,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202401Z" creationid="hcartagena" creationdate="20151119T202401Z">
+        <seg>Largo de línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114837Z" creationid="Helli" creationdate="20150526T114604Z">
@@ -3197,6 +3237,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140736Z" creationid="Helli" creationdate="20150526T140736Z">
         <seg>Estadística de Coincidencias por Archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202415Z" creationid="hcartagena" creationdate="20151119T202415Z">
+        <seg>Largo máximo de línea:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3567,6 +3615,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124429Z" creationid="Helli" creationdate="20150526T124429Z">
         <seg>Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202403Z" creationid="hcartagena" creationdate="20151119T202352Z">
+        <seg>Opciones para fijar el largo de línea en documentos traducidos (0 = sin límite)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4287,6 +4343,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202319Z" creationid="hcartagena" creationdate="20151119T202319Z">
+        <seg>Segmentar el texto original en párrafos en:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222228Z" creationid="hcartagena" creationdate="20151116T222228Z">
@@ -4731,6 +4795,22 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143433Z" creationid="Helli" creationdate="20150526T143433Z">
         <seg>Equipo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202257Z" creationid="hcartagena" creationdate="20151119T202257Z">
+        <seg>Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202305Z" creationid="hcartagena" creationdate="20151119T202305Z">
+        <seg>Opciones del filtro Texto</seg>
       </tuv>
     </tu>
     <tu>
