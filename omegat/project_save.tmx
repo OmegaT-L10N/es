@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213050Z" creationid="hcartagena" creationdate="20151119T213050Z">
+        <seg>Pre&amp;determinados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202711Z" creationid="hcartagena" creationdate="20151116T202711Z">
@@ -1885,6 +1893,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213024Z" creationid="hcartagena" creationdate="20151119T213024Z">
+        <seg>No se puede restablecer el filtro a los patrones predeterminados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192655Z" creationid="hcartagena" creationdate="20151117T192633Z">
@@ -2019,6 +2035,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192819Z" creationid="hcartagena" creationdate="20151116T192819Z">
         <seg>Confirmar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213002Z" creationid="hcartagena" creationdate="20151119T213002Z">
+        <seg>Confirmar eliminación del patrón {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2359,6 +2383,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212957Z" creationid="hcartagena" creationdate="20151119T212957Z">
+        <seg>Editar filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124341Z" creationid="Helli" creationdate="20150526T123732Z">
@@ -2617,6 +2649,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213029Z" creationid="hcartagena" creationdate="20151119T213029Z">
+        <seg>Ocurrió una excepción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183740Z" creationid="hcartagena" creationdate="20151119T183740Z">
@@ -2782,6 +2822,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202614Z" creationid="hcartagena" creationdate="20151116T202614Z">
         <seg>&amp;Filtros de archivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213053Z" creationid="hcartagena" creationdate="20151119T213053Z">
+        <seg>&amp;Formato de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3427,6 +3475,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool.jar (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212748Z" creationid="hcartagena" creationdate="20151119T212748Z">
+        <seg>LanguageTool.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153643Z" creationid="hcartagena" creationdate="20151117T153643Z">
@@ -3447,6 +3503,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144051Z" creationid="Helli" creationdate="20150526T144051Z">
         <seg>Últimos Cambios...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212846Z" creationid="hcartagena" creationdate="20151119T212846Z">
+        <seg>Cambios recientes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3535,6 +3599,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144054Z" creationid="Helli" creationdate="20150526T144054Z">
         <seg>Registro...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212851Z" creationid="hcartagena" creationdate="20151119T212851Z">
+        <seg>Registro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3985,6 +4057,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212057Z" creationid="hcartagena" creationdate="20151119T212057Z">
         <seg>OmegaT es el trabajo original de Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212838Z" creationid="hcartagena" creationdate="20151119T212838Z">
+        <seg>Licencia OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -4549,6 +4629,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152329Z" creationid="Helli" creationdate="20150526T152329Z">
         <seg>Sacar todos los tokenizers de la /plugin carpeta antes de iniciar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213011Z" creationid="hcartagena" creationdate="20151119T213011Z">
+        <seg>¿Eliminar el patrón?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5249,6 +5337,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SuperTMXMerge-for_OmegaT.jar (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212821Z" creationid="hcartagena" creationdate="20151119T212821Z">
+        <seg>SuperTMXMerge-for_OmegaT.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swing-Layout 1.0.4 (LGPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212543Z" creationid="hcartagena" creationdate="20151119T212451Z">
@@ -5628,6 +5724,22 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223451Z" creationid="hcartagena" creationdate="20151116T223451Z">
         <seg>Este es el aspecto que tendrá el texto en pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212952Z" creationid="hcartagena" creationdate="20151119T212952Z">
+        <seg>Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212935Z" creationid="hcartagena" creationdate="20151119T212935Z">
+        <seg>Este programa es software libre, puede redistribuirlo y/o modificarlo bajo los términos de la GNU General Public License publicada por la Free Software Foundation, bien la versión 3 de la Licencia, o (a su elección) cualquier versión posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6537,6 +6649,22 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>lucene-gosen-2.0.2-ipadic.jar (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212808Z" creationid="hcartagena" creationdate="20151119T212808Z">
+        <seg>lucene-gosen-2.0.2-ipadic.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>morfologik-*.jar (Morfologik license)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212755Z" creationid="hcartagena" creationdate="20151119T212755Z">
+        <seg>morfologik-*.jar (licencia Morfologik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151745Z" creationid="Helli" creationdate="20150526T151745Z">
@@ -6549,6 +6677,22 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223343Z" creationid="hcartagena" creationdate="20151116T223333Z">
         <seg>segmento 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment-1.4.1.jar (Segment License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212803Z" creationid="hcartagena" creationdate="20151119T212803Z">
+        <seg>segment-1.4.1.jar (licencia Segment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slf4j-*.jar (MIT License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212829Z" creationid="hcartagena" creationdate="20151119T212829Z">
+        <seg>slf4j-*.jar (licencia MIT)</seg>
       </tuv>
     </tu>
     <tu>
