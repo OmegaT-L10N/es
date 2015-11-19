@@ -1352,6 +1352,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T204119Z" creationid="hcartagena" creationdate="20151119T204119Z">
+        <seg>&lt;trans-unit&gt; atributo &amp;resname si está disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151228Z" creationid="Helli" creationdate="20150526T151228Z">
@@ -3966,6 +3974,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T204100Z" creationid="hcartagena" creationdate="20151119T204100Z">
+        <seg>Párrafos anteriores y &amp;siguientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193559Z" creationid="hcartagena" creationdate="20151117T193559Z">
@@ -5138,6 +5154,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options apply to the 3.x filter only</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T204220Z" creationid="hcartagena" creationdate="20151119T204220Z">
+        <seg>Las siguientes opciones se aplican solo al filtro 3.x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T120102Z" creationid="Helli" creationdate="20150526T120102Z">
@@ -5886,6 +5910,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183900Z" creationid="hcartagena" creationdate="20151119T183900Z">
         <seg>Advertencia en la línea {0}, columna {1} durante el análisis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T204206Z" creationid="hcartagena" creationdate="20151119T204206Z">
+        <seg>Si no está disponible, se usará el ID como reserva</seg>
       </tuv>
     </tu>
     <tu>
