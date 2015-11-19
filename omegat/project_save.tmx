@@ -1412,6 +1412,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203433Z" creationid="hcartagena" creationdate="20151119T203433Z">
+        <seg>Recursos de Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124737Z" creationid="Helli" creationdate="20150526T124737Z">
@@ -2255,6 +2263,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203108Z" creationid="hcartagena" creationdate="20151119T203108Z">
+        <seg>Error en el archivo {0}, línea {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T190225Z" creationid="hcartagena" creationdate="20151119T190225Z">
@@ -2809,6 +2825,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203654Z" creationid="hcartagena" creationdate="20151119T203654Z">
+        <seg>Archivo de idioma ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191836Z" creationid="hcartagena" creationdate="20151118T191836Z">
@@ -3057,6 +3081,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203449Z" creationid="hcartagena" creationdate="20151119T203449Z">
+        <seg>Texto clave=valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T194107Z" creationid="hcartagena" creationdate="20151117T194107Z">
@@ -3197,6 +3229,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T141107Z" creationid="Helli" creationdate="20150526T141107Z">
         <seg>Traducción Automáticae</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203646Z" creationid="hcartagena" creationdate="20151119T203646Z">
+        <seg>CSV de configuración regional de Magento CE</seg>
       </tuv>
     </tu>
     <tu>
@@ -3523,6 +3563,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203421Z" creationid="hcartagena" creationdate="20151119T203421Z">
+        <seg>Nota: los archivos DocBook requieren, además de la extensión del archivo, tener una declaración DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... para DocBook 4, o un espacio de nombres: xmlns=\"http://docbook.org/ns/docbook" para DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192620Z" creationid="hcartagena" creationdate="20151117T192620Z">
@@ -3647,6 +3695,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202328Z" creationid="hcartagena" creationdate="20151116T202328Z">
         <seg>Abrir proyecto reciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203702Z" creationid="hcartagena" creationdate="20151119T203702Z">
+        <seg>Opciones del filtro OpenDocument</seg>
       </tuv>
     </tu>
     <tu>
@@ -4711,6 +4767,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203426Z" creationid="hcartagena" creationdate="20151119T203426Z">
+        <seg>Subtítulos SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T133358Z" creationid="Helli" creationdate="20150526T133313Z">
@@ -5210,6 +5274,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142648Z" creationid="Helli" creationdate="20150526T142648Z">
         <seg>TransTips/Coincidencias Exactas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203708Z" creationid="hcartagena" creationdate="20151119T203708Z">
+        <seg>Traducir los siguientes elementos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5775,6 +5847,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191856Z" creationid="hcartagena" creationdate="20151117T191803Z">
         <seg>No existe la carpeta indicada para el archivo de glosario editable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T203102Z" creationid="hcartagena" creationdate="20151119T203102Z">
+        <seg>Hoja de cálculo XML 2003</seg>
       </tuv>
     </tu>
     <tu>
