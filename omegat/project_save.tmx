@@ -1965,6 +1965,16 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212239Z" creationid="hcartagena" creationdate="20151119T212239Z">
+        <seg>El proyecto ha recibido aportes de código de: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich y Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191105Z" creationid="hcartagena" creationdate="20151119T191105Z">
@@ -2201,6 +2211,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191955Z" creationid="hcartagena" creationdate="20151117T191955Z">
         <seg>No existe la carpeta indicada para los archivos de diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212154Z" creationid="hcartagena" creationdate="20151119T212154Z">
+        <seg>Didier Briel es el administrador del proyecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2980,6 +2998,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124356Z" creationid="Helli" creationdate="20150526T123856Z">
         <seg>Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212359Z" creationid="hcartagena" creationdate="20151119T212359Z">
+        <seg>HTMLParser 1.6 por Somik Raha, Derrick Oswald y otros (Licencia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3915,6 +3941,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212352Z" creationid="hcartagena" creationdate="20151119T212352Z">
+        <seg>OmegaT utiliza las siguientes bibliotecas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT version {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211920Z" creationid="hcartagena" creationdate="20151119T211920Z">
@@ -4031,6 +4065,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211737Z" creationid="hcartagena" creationdate="20151119T211737Z">
         <seg>Otras opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212327Z" creationid="hcartagena" creationdate="20151119T212327Z">
+        <seg>Otros aportes se detallan en el archivo readme_es.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6054,6 +6096,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223756Z" creationid="hcartagena" creationdate="20151116T223756Z">
         <seg>El visor del Manual de Usuario no es compatible con la navegación a enlaces externos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212431Z" creationid="hcartagena" creationdate="20151119T212431Z">
+        <seg>VLDocking Framework 3.0.5-SNAPSHOT (Licencia LGPL)</seg>
       </tuv>
     </tu>
     <tu>
