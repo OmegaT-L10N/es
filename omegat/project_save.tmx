@@ -2681,6 +2681,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230838Z" creationid="hcartagena" creationdate="20151119T230838Z">
+        <seg>Error al guardar la configuración de las reglas de segmentación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T203817Z" creationid="hcartagena" creationdate="20151117T203817Z">
@@ -2773,6 +2781,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183740Z" creationid="hcartagena" creationdate="20151119T183740Z">
         <seg>Excepción durante el análisis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230832Z" creationid="hcartagena" creationdate="20151119T230832Z">
+        <seg>Se produjeron excepciones al cargar las reglas de segmentación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3325,8 +3341,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213923Z" creationid="hcartagena" creationdate="20151119T213923Z">
-        <seg>Si el archivo HTML tiene una declaración de codificación, se utilizará esta, con independencia del valor que usted establezca en este cuadro de diálogo.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230813Z" creationid="hcartagena" creationdate="20151119T213923Z">
+        <seg>Si el archivo HTML tiene una declaración de codificación, se utilizará esta, con independencia del valor que especifique en este cuadro de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230804Z" creationid="hcartagena" creationdate="20151119T230804Z">
+        <seg>Si el archivo HHC o HHK tiene una declaración de codificación, se utilizará esta, con independencia del valor que especifique en este cuadro de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,6 +3679,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221805Z" creationid="hcartagena" creationdate="20151116T221805Z">
         <seg>Registr&amp;o de eventos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230842Z" creationid="hcartagena" creationdate="20151119T230842Z">
+        <seg>Nombre de idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230844Z" creationid="hcartagena" creationdate="20151119T230844Z">
+        <seg>Patrón de idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,6 +6873,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191856Z" creationid="hcartagena" creationdate="20151117T191803Z">
         <seg>No existe la carpeta indicada para el archivo de glosario editable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230820Z" creationid="hcartagena" creationdate="20151119T230820Z">
+        <seg>Opciones del filtro XHTML</seg>
       </tuv>
     </tu>
     <tu>
