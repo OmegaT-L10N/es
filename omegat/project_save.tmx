@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T192747Z" creationid="hcartagena" creationdate="20151119T192747Z">
+        <seg>&amp;Saltar encabezado de archivo PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203036Z" creationid="hcartagena" creationdate="20151116T202734Z">
@@ -1320,6 +1328,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T192726Z" creationid="hcartagena" creationdate="20151119T192645Z">
+        <seg>Permitir traducción de segmentos originales en &amp;blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T141051Z" creationid="Helli" creationdate="20150526T141051Z">
@@ -1440,6 +1456,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192618Z" creationid="hcartagena" creationdate="20151117T192618Z">
         <seg>Au&amp;tor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T192806Z" creationid="hcartagena" creationdate="20151119T192806Z">
+        <seg>Autoreemplazar 'nplurals=INTEGER; &amp;plural=EXPRESSION;' en encabezado</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,6 +2624,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T192819Z" creationid="hcartagena" creationdate="20151119T192819Z">
+        <seg>Formato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135259Z" creationid="Helli" creationdate="20150526T135158Z">
@@ -3181,6 +3213,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130853Z" creationid="Helli" creationdate="20150526T130853Z">
         <seg>Código de Elemento del menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T192833Z" creationid="hcartagena" creationdate="20151119T192833Z">
+        <seg>Monolingüe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4473,8 +4513,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T184148Z" creationid="hcartagena" creationdate="20151119T184103Z">
-        <seg>No se ha podido localizar el segmento de origen de algunas unidades de traducción.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T192717Z" creationid="hcartagena" creationdate="20151119T184103Z">
+        <seg>No se ha podido localizar el segmento original de algunas unidades de traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4499,6 +4539,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142954Z" creationid="Helli" creationdate="20150526T142954Z">
         <seg>Corrector ortográfico...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151119T192825Z" creationid="hcartagena" creationdate="20151119T192825Z">
+        <seg>Estándar</seg>
       </tuv>
     </tu>
     <tu>
