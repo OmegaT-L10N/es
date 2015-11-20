@@ -5601,6 +5601,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T174639Z" creationid="hcartagena" creationdate="20151120T174639Z">
+        <seg>Las reglas de segmentación se aplican en el siguiente orden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142938Z" creationid="Helli" creationdate="20150526T142938Z">
@@ -5765,6 +5773,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203220Z" creationid="hcartagena" creationdate="20151116T203220Z">
         <seg>Establecer traducción vacía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T174628Z" creationid="hcartagena" creationdate="20151120T174628Z">
+        <seg>Conjuntos de reglas de segmentación:</seg>
       </tuv>
     </tu>
     <tu>
