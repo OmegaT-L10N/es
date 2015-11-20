@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165627Z" creationid="hcartagena" creationdate="20151120T165627Z">
+        <seg>Ba&amp;jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202327Z" creationid="hcartagena" creationdate="20151119T202327Z">
@@ -4206,8 +4214,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223643Z" creationid="hcartagena" creationdate="20151116T223643Z">
-        <seg>Mover a&amp;bajo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165633Z" creationid="hcartagena" creationdate="20151116T223643Z">
+        <seg>Ba&amp;jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,8 +4238,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223634Z" creationid="hcartagena" creationdate="20151116T223634Z">
-        <seg>Mover &amp;arriba</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165617Z" creationid="hcartagena" creationdate="20151116T223634Z">
+        <seg>S&amp;ubir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165602Z" creationid="hcartagena" creationdate="20151120T165602Z">
+        <seg>&amp;Bajar</seg>
       </tuv>
     </tu>
     <tu>
