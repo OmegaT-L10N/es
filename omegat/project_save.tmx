@@ -1893,6 +1893,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T144846Z" creationid="hcartagena" creationdate="20151120T144846Z">
+        <seg>Salto/excepción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191152Z" creationid="hcartagena" creationdate="20151117T191152Z">
