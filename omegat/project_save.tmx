@@ -1008,6 +1008,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T115706Z" creationid="Antonio" creationdate="20151120T115706Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2. Bug reports</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T164356Z" creationid="Helli" creationdate="20150526T153409Z">
@@ -1452,6 +1460,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T204119Z" creationid="hcartagena" creationdate="20151119T204119Z">
         <seg>&lt;trans-unit&gt; atributo &amp;resname si está disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==============================================================================</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T111459Z" creationid="Antonio" creationdate="20151120T111459Z">
+        <seg>==============================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -3475,6 +3491,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information about OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T115703Z" creationid="Antonio" creationdate="20151120T115703Z">
+        <seg>Información acerca de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132600Z" creationid="Helli" creationdate="20150526T131802Z">
@@ -4265,6 +4289,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213527Z" creationid="hcartagena" creationdate="20151119T213527Z">
         <seg>&amp;Opciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 3.0, Read Me file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T111524Z" creationid="Antonio" creationdate="20151120T111524Z">
+        <seg>OmegaT 3.0, archivo readme</seg>
       </tuv>
     </tu>
     <tu>
