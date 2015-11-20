@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175450Z" creationid="hcartagena" creationdate="20151120T175450Z">
+        <seg>&amp;Nombre/ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202327Z" creationid="hcartagena" creationdate="20151119T202327Z">
@@ -1752,6 +1760,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T145706Z" creationid="Helli" creationdate="20150526T145706Z">
         <seg>Apéndice I. Aviso legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175424Z" creationid="hcartagena" creationdate="20151120T175424Z">
+        <seg>¿Está seguro de que desea eliminar el conjunto {0} de reglas de segmentación?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3763,6 +3779,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175448Z" creationid="hcartagena" creationdate="20151120T175448Z">
+        <seg>Se utiliza para marcar sus traducciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222121Z" creationid="hcartagena" creationdate="20151116T222121Z">
@@ -4272,6 +4296,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130857Z" creationid="Helli" creationdate="20150526T130857Z">
         <seg>Nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175428Z" creationid="hcartagena" creationdate="20151120T175428Z">
+        <seg>Nuevo idioma y país</seg>
       </tuv>
     </tu>
     <tu>
@@ -4802,6 +4834,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222156Z" creationid="hcartagena" creationdate="20151116T222156Z">
         <seg>Corrija los problemas con las etiquetas antes de volver a usar Crear documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175441Z" creationid="hcartagena" creationdate="20151120T175441Z">
+        <seg>Ingrese su nombre/ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6157,6 +6197,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204611Z" creationid="hcartagena" creationdate="20151116T204223Z">
         <seg>Trabajo en &amp;grupo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175432Z" creationid="hcartagena" creationdate="20151120T175432Z">
+        <seg>Opciones de trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
