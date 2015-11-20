@@ -1048,6 +1048,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120311Z" creationid="Antonio" creationdate="20151120T120311Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3. Contributing to OmegaT project</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154022Z" creationid="Helli" creationdate="20150526T154022Z">
@@ -1072,10 +1080,26 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120329Z" creationid="Antonio" creationdate="20151120T120329Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4. GoTo Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134546Z" creationid="Helli" creationdate="20150526T134546Z">
         <seg>4. Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120345Z" creationid="Antonio" creationdate="20151120T120345Z">
+        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2151,6 +2175,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributions to OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120342Z" creationid="Antonio" creationdate="20151120T120342Z">
+        <seg>Cómo contribuir a OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202350Z" creationid="hcartagena" creationdate="20151116T202350Z">
@@ -2387,6 +2419,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214608Z" creationid="hcartagena" creationdate="20151119T214608Z">
         <seg>No traducir el contenido de etiquetas cuyos pares clave-valor sean (separar con comas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you need help?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120407Z" creationid="Antonio" creationdate="20151120T120407Z">
+        <seg>¿Necesita ayuda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3549,8 +3589,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
-      <tuv lang="ES">
-        <seg>Instalando OmegaT</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120327Z">
+        <seg>Cómo instalar OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3583,6 +3623,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201753Z" creationid="hcartagena" creationdate="20151119T201753Z">
         <seg>Formato de archivo no válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is OmegaT bugging you?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120358Z" creationid="Antonio" creationdate="20151120T120358Z">
+        <seg>¿OmegaT presenta errores?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,6 +6888,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183900Z" creationid="hcartagena" creationdate="20151119T183900Z">
         <seg>Advertencia en la línea {0}, columna {1} durante el análisis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is OmegaT?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120308Z" creationid="Antonio" creationdate="20151120T120308Z">
+        <seg>¿Qué es OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
