@@ -954,6 +954,14 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120424Z" creationid="Antonio" creationdate="20151120T120424Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.1. Search options</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155426Z" creationid="Helli" creationdate="20150526T155426Z">
@@ -1108,6 +1116,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135326Z" creationid="Helli" creationdate="20150526T135326Z">
         <seg>5. Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120409Z" creationid="Antonio" creationdate="20151120T120409Z">
+        <seg>6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4941,6 +4957,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203224Z" creationid="Helli" creationdate="20150526T134533Z">
         <seg>Registrar traducción idéntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release details</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151120T120418Z" creationid="Antonio" creationdate="20151120T120418Z">
+        <seg>Detalles de esta edición</seg>
       </tuv>
     </tu>
     <tu>
