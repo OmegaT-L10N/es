@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175613Z" creationid="hcartagena" creationdate="20151120T175613Z">
+        <seg>Permitir tr&amp;aducciones idénticas al original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213940Z" creationid="hcartagena" creationdate="20151119T213940Z">
@@ -350,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175634Z" creationid="hcartagena" creationdate="20151120T175634Z">
+        <seg>Sig&amp;uiente segmento por traducir se detiene cuando hay al menos una traducción alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221626Z" creationid="hcartagena" creationdate="20151116T221626Z">
@@ -414,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175543Z" creationid="hcartagena" creationdate="20151120T175543Z">
+        <seg>Dejar el segmento &amp;vacío</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211957Z" creationid="hcartagena" creationdate="20151119T211957Z">
@@ -450,6 +474,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203704Z" creationid="hcartagena" creationdate="20151116T203704Z">
         <seg>Estadísticas de &amp;coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175557Z" creationid="hcartagena" creationdate="20151120T175557Z">
+        <seg>Similitud &amp;mínima:</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +554,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204008Z" creationid="hcartagena" creationdate="20151116T204008Z">
         <seg>&amp;Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175559Z" creationid="hcartagena" creationdate="20151120T175559Z">
+        <seg>&amp;Prefijo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,6 +1680,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175706Z" creationid="hcartagena" creationdate="20151120T175706Z">
+        <seg>Permitir editar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192726Z" creationid="hcartagena" creationdate="20151119T192645Z">
@@ -1776,6 +1824,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142934Z" creationid="hcartagena" creationdate="20151117T142934Z">
         <seg>Las series no deben estar vacías</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175654Z" creationid="hcartagena" creationdate="20151120T175654Z">
+        <seg>Intentar convertir &amp;números al insertar una coincidencia parcial</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,6 +2718,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Editing Behaviour Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175516Z" creationid="hcartagena" creationdate="20151120T175516Z">
+        <seg>Opciones de comportamiento del editor</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
@@ -2974,6 +3038,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132214Z" creationid="Helli" creationdate="20150526T132214Z">
         <seg>Exportar Seleccioón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175616Z" creationid="hcartagena" creationdate="20151120T175616Z">
+        <seg>&amp;Exportar el segmento a un archivo de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3703,6 +3775,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203207Z" creationid="hcartagena" creationdate="20151116T203207Z">
         <seg>Insertar etiqueta {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175554Z" creationid="hcartagena" creationdate="20151120T175554Z">
+        <seg>Insertar la coincidencia parcial &amp;más cercana</seg>
       </tuv>
     </tu>
     <tu>
@@ -4860,6 +4940,14 @@ language you would like to translate to.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191426Z" creationid="hcartagena" creationdate="20151117T191426Z">
         <seg>Seleccione el idioma de sus archivos originales y el idioma de
 destino al que desea traducirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175534Z" creationid="hcartagena" creationdate="20151120T175534Z">
+        <seg>Seleccione el texto que desea insertar en los segmentos que no se han traducido al ingresar a uno de ellos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6257,6 +6345,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &amp;source text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175540Z" creationid="hcartagena" creationdate="20151120T175540Z">
+        <seg>El texto &amp;original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The '*' character matches zero or more characters (the search term 'run*' would match 'run', 'runs', and 'running', for example).</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T194238Z" creationid="hcartagena" creationdate="20151117T194238Z">
@@ -7112,6 +7208,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140701Z" creationid="Helli" creationdate="20150526T140647Z">
         <seg>Validar Etiquetas para Documento Actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175715Z" creationid="hcartagena" creationdate="20151120T175715Z">
+        <seg>Validar etiquetas al salir de un segmento</seg>
       </tuv>
     </tu>
     <tu>
