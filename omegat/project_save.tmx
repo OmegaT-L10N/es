@@ -2029,6 +2029,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165305Z" creationid="hcartagena" creationdate="20151120T165305Z">
+        <seg>Catalán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192655Z" creationid="hcartagena" creationdate="20151117T192633Z">
@@ -2081,6 +2089,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142506Z" creationid="hcartagena" creationdate="20151117T142506Z">
         <seg>Caracteres (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165337Z" creationid="hcartagena" creationdate="20151120T165327Z">
+        <seg>Chino</seg>
       </tuv>
     </tu>
     <tu>
@@ -2359,6 +2375,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165341Z" creationid="hcartagena" creationdate="20151120T165341Z">
+        <seg>Predeterminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134909Z" creationid="Helli" creationdate="20150526T130841Z">
@@ -2527,6 +2551,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165321Z" creationid="hcartagena" creationdate="20151120T165321Z">
+        <seg>Holandés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153627Z" creationid="hcartagena" creationdate="20151117T153627Z">
@@ -2668,6 +2700,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T200921Z" creationid="hcartagena" creationdate="20151118T200921Z">
         <seg>Se alcanzó el final de la secuencia alcanzado sin haber hallado el bloque de cierre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165311Z" creationid="hcartagena" creationdate="20151120T165311Z">
+        <seg>Inglés</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,6 +3202,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165315Z" creationid="hcartagena" creationdate="20151120T165315Z">
+        <seg>Finlandés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203021Z" creationid="hcartagena" creationdate="20151119T203021Z">
@@ -3230,6 +3278,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135259Z" creationid="Helli" creationdate="20150526T135158Z">
         <seg>Adelante en historia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165316Z" creationid="hcartagena" creationdate="20151120T165316Z">
+        <seg>Francés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165306Z" creationid="hcartagena" creationdate="20151120T165306Z">
+        <seg>Alemán</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,6 +3374,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213819Z" creationid="hcartagena" creationdate="20151119T213819Z">
         <seg>HTML y XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165354Z" creationid="hcartagena" creationdate="20151120T165354Z">
+        <seg>Segmentación de archivos HTML, XHTML, ODF e Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -3691,6 +3763,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165318Z" creationid="hcartagena" creationdate="20151120T165318Z">
+        <seg>Italiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212649Z" creationid="hcartagena" creationdate="20151119T212649Z">
@@ -3711,6 +3791,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212656Z" creationid="hcartagena" creationdate="20151119T212656Z">
         <seg>JSch (licencia JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165319Z" creationid="hcartagena" creationdate="20151120T165319Z">
+        <seg>Japonés</seg>
       </tuv>
     </tu>
     <tu>
@@ -4148,6 +4236,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165556Z" creationid="hcartagena" creationdate="20151120T165556Z">
+        <seg>&amp;Subir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201851Z" creationid="hcartagena" creationdate="20151119T201851Z">
@@ -4289,6 +4385,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES">
         <seg>Nota:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165438Z" creationid="hcartagena" creationdate="20151120T165438Z">
+        <seg>Nota: todos los conjuntos de reglas de segmentación con un patrón de idioma coincidente se aplican en el orden indicado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,6 +4734,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165302Z" creationid="hcartagena" creationdate="20151120T165302Z">
+        <seg>Patrón después</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165300Z" creationid="hcartagena" creationdate="20151120T165300Z">
+        <seg>Patrón antes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T220804Z" creationid="hcartagena" creationdate="20151117T220804Z">
@@ -4700,6 +4820,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191010Z" creationid="hcartagena" creationdate="20151119T191010Z">
         <seg>Complemento de la clase '{0}' descargado correctamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165323Z" creationid="hcartagena" creationdate="20151120T165323Z">
+        <seg>Polaco</seg>
       </tuv>
     </tu>
     <tu>
@@ -4804,6 +4932,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213211Z" creationid="hcartagena" creationdate="20151119T213211Z">
         <seg>Filtros de archivo específicos del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165413Z" creationid="hcartagena" creationdate="20151120T165413Z">
+        <seg>Configuración de segmentación específica del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -5201,6 +5337,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165324Z" creationid="hcartagena" creationdate="20151120T165324Z">
+        <seg>Ruso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;lide Comments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211631Z" creationid="hcartagena" creationdate="20151119T211457Z">
@@ -5421,6 +5565,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222228Z" creationid="hcartagena" creationdate="20151116T222228Z">
         <seg>Segmento {0,number,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165356Z" creationid="hcartagena" creationdate="20151120T165356Z">
+        <seg>Configuración de segmentación</seg>
       </tuv>
     </tu>
     <tu>
@@ -5745,6 +5897,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165313Z" creationid="hcartagena" creationdate="20151120T165313Z">
+        <seg>Español</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203911Z" creationid="hcartagena" creationdate="20151119T203911Z">
@@ -5813,6 +5973,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212821Z" creationid="hcartagena" creationdate="20151119T212821Z">
         <seg>SuperTMXMerge-for_OmegaT.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165326Z" creationid="hcartagena" creationdate="20151120T165326Z">
+        <seg>Sueco</seg>
       </tuv>
     </tu>
     <tu>
@@ -6001,6 +6169,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165344Z" creationid="hcartagena" creationdate="20151120T165344Z">
+        <seg>Segmentación de archivos de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The '*' character matches zero or more characters (the search term 'run*' would match 'run', 'runs', and 'running', for example).</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T194238Z" creationid="hcartagena" creationdate="20151117T194238Z">
@@ -6150,6 +6326,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165553Z" creationid="hcartagena" creationdate="20151120T165553Z">
+        <seg>Entonces, mientras se traduce del francés canadiense, su proyecto utilizará todas las reglas definidas para toda la cadena de idiomas en el orden correcto.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
@@ -6220,6 +6404,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192438Z" creationid="hcartagena" creationdate="20151116T192415Z">
         <seg>Esta traducción es obra del Grupo de Localización al Español, copyright© 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165521Z" creationid="hcartagena" creationdate="20151120T165521Z">
+        <seg>Así, por ejemplo, las reglas para el francés canadiense (FR-CA) tienen preeminencia sobre las reglas para el francés (FR.*) y sobre las reglas predeterminadas (.*).</seg>
       </tuv>
     </tu>
     <tu>
