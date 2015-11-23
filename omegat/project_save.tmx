@@ -3851,6 +3851,20 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is free, that is you 
+don't have to pay anything to be able to use it, even for professional use, 
+and you are free to modify it and/or re-distribute it as long as you respect 
+the user license.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151123T182909Z" creationid="Víctor Parra" creationdate="20151123T182909Z">
+        <seg>It is free, that is you 
+don't have to pay anything to be able to use it, even for professional use, 
+and you are free to modify it and/or re-distribute it as long as you respect 
+the user license.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152018Z" creationid="Helli" creationdate="20150526T152018Z">
@@ -4387,6 +4401,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
