@@ -4362,6 +4362,15 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234941Z" creationid="hcartagena" creationdate="20151124T234941Z">
+        <seg>No fue posible crear la carpeta de scripting dentro del directorio de configuración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222121Z" creationid="hcartagena" creationdate="20151116T222121Z">
