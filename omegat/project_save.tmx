@@ -1716,6 +1716,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add glossary entry</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233718Z" creationid="hcartagena" creationdate="20151124T233718Z">
+        <seg>Agregar entrada de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213938Z" creationid="hcartagena" creationdate="20151119T213938Z">
@@ -1777,6 +1785,14 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192726Z" creationid="hcartagena" creationdate="20151119T192645Z">
         <seg>Permitir traducción de segmentos originales en &amp;blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233837Z" creationid="hcartagena" creationdate="20151124T233837Z">
+        <seg>Permite ver, agregar, quitar o editar una nota en el segmento activo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2657,6 +2673,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233720Z" creationid="hcartagena" creationdate="20151124T233720Z">
+        <seg>Diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191242Z" creationid="hcartagena" creationdate="20151117T191242Z">
@@ -2721,10 +2745,34 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233740Z" creationid="hcartagena" creationdate="20151124T233740Z">
+        <seg>Muestra las entradas de diccionario encontradas en los archivos de diccionario en la carpeta /dictionary/ si se encuentran en el segmento original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233623Z" creationid="hcartagena" creationdate="20151124T233623Z">
+        <seg>Muestra las entradas de glosario encontradas en los archivos de glosario en la carpeta /glossary/ si se encuentran en el segmento original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233524Z" creationid="hcartagena" creationdate="20151124T233524Z">
         <seg>Muestra los segmentos en memorias de traducción que coinciden con el segmento original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Options &gt; Machine Translate, if those services are available.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233822Z" creationid="hcartagena" creationdate="20151124T233822Z">
+        <seg>Muestra la traducción del segmento original hecha por los servicios de traducción automática que haya seleccionado en Opciones &gt; Traducción automática, si esos servicios están disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3062,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222204Z" creationid="hcartagena" creationdate="20151116T222204Z">
         <seg>Introduzca el número de segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233714Z" creationid="hcartagena" creationdate="20151124T233714Z">
+        <seg>Las entradas del glosario editable aparecen en negritas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4553,6 +4609,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233745Z" creationid="hcartagena" creationdate="20151124T233745Z">
+        <seg>Traducción automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203646Z" creationid="hcartagena" creationdate="20151119T203646Z">
@@ -4653,6 +4717,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231126Z" creationid="hcartagena" creationdate="20151124T231126Z">
         <seg>Coincidir con plantilla de visualización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233551Z" creationid="hcartagena" creationdate="20151124T233551Z">
+        <seg>Pueden encontrarse coincidencias en su traducción actual o en los archivos TMX que haya puesto en la carpeta /tm/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4992,6 +5064,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213158Z" creationid="hcartagena" creationdate="20151119T213158Z">
         <seg>Nota: no todos los filtros permiten seleccionar una codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233825Z" creationid="hcartagena" creationdate="20151124T233825Z">
+        <seg>Notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8262,6 +8342,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124636Z" creationid="Helli" creationdate="20150526T124636Z">
         <seg> Puede cambiar los atajos ya asignados y añadir atajos nuevos colocando un archivo de definición del atajo en su OmegaT carpeta de preferencias (ve &lt;/f0&gt;&lt;f1&gt;ubicación de archivos del Usuario&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233649Z" creationid="hcartagena" creationdate="20151124T233649Z">
+        <seg>Puede crear entradas de glosario con la función Crear entrada de glosario del menú Editar.</seg>
       </tuv>
     </tu>
     <tu>
