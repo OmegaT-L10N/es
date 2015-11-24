@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1543,6 +1543,15 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T121722Z" creationid="Helli" creationdate="20150603T151519Z">
+        <seg>shortcut “&lt;” y “&gt;” tiene que tener esta estructura: 0 o más &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; seguido por 0 o 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; seguido por &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, donde:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;t0/&gt;If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
@@ -1680,6 +1689,15 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235916Z" creationid="Usuario" creationdate="20150603T235916Z">
+        <seg>Todas las colecciones (públicas y privadas ) se pueden consultar en la lengua origen y meta.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
@@ -1745,6 +1763,15 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203433Z" creationid="hcartagena" creationdate="20151119T203433Z">
         <seg>Recursos de Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115947Z" creationid="Helli" creationdate="20150603T151512Z">
+        <seg>Lo que vaya después del "//" será ignorado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1955,6 +1982,15 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212704Z" creationid="hcartagena" creationdate="20151119T212704Z">
         <seg>Base64 (dominio público)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112454Z" creationid="Helli" creationdate="20150603T151140Z">
+        <seg>Es el lenguaje que hay detrás de scftwares populares como Firefox y es una herramienta conocida que una gran parte de personas elige en el ámbito del código abierto. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3468,6 +3504,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235534Z" creationid="Usuario" creationdate="20150603T235534Z">
+        <seg>Vaya a https://demo.taas-project.eu/account/keys/create?system=omegaT para crear su propia clave y luego registrarla en OmegaT con -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>GoTo Menu</seg>
       </tuv>
@@ -3629,6 +3674,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T194126Z" creationid="Helli" creationdate="20150603T153244Z">
+        <seg>Si no se ha hecho ninguna sustitución en un segmento dado, el segmento objetivo será “vaciado”, es decir, queda sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
@@ -3722,6 +3776,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193446Z" creationid="hcartagena" creationdate="20151117T193446Z">
         <seg>En orig&amp;inal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150604T000034Z" creationid="Usuario" creationdate="20150604T000034Z">
+        <seg>En ese mensaje, es posible seleccionar todos los dominios o uno específico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +3921,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T120358Z" creationid="Antonio" creationdate="20151120T120358Z">
         <seg>¿OmegaT presenta errores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235448Z" creationid="Usuario" creationdate="20150603T235448Z">
+        <seg>Permite acceder tanto a los datos públicos como a los privados, donde los glosarios privados (llamados "colecciones") se pueden extraer de los documentos existentes y de los términos de la lengua meta que han sido registrados automáticamente de diversas fuentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T112158Z" creationid="Helli" creationdate="20150603T151136Z">
+        <seg>Se construye a partir del funcionamiento de Java pero tiene grandes características adicionales inspiradas en lenguajes como Python, Ruby y Smalltalk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4347,6 +4428,15 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T115822Z" creationid="Helli" creationdate="20150603T151504Z">
+        <seg>La mayoría de los elementos que aparecen en el menú principal pueden tener un atajo nuevo asignado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
@@ -4670,6 +4760,15 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>OmegaT allows accessing the public part of TaaS without any registration.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235457Z" creationid="Usuario" creationdate="20150603T235457Z">
+        <seg>OmegaT permite el acceso a la parte pública de TAA sin ningún tipo de registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
@@ -4683,6 +4782,15 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151947Z" creationid="Helli" creationdate="20150526T151947Z">
         <seg>OmegaT selecciona automáticamente un tokenizer para la fuente y la lengua de objetivo según los encuadres de lengua del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235523Z" creationid="Usuario" creationdate="20150603T235523Z">
+        <seg>Los lanzadores de configuración de OmegaT (OmegaT.l4J.ini, omegat.kaptn y OmegaT.sh) se presentan con una entrada en forma de plantilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6504,6 +6612,24 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235428Z" creationid="Usuario" creationdate="20150603T235428Z">
+        <seg>El servicio de TAA en https://demo.taas-project.eu/info ofrece servicios de terminología de las lenguas europeas (además de ruso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235754Z" creationid="Usuario" creationdate="20150603T235754Z">
+        <seg>Las colecciones se descargan como glosarios TBX en la carpeta glosario actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The first is the shortcut for Open Project, the second for Create Glossary Entry.</seg>
       </tuv>
@@ -6682,6 +6808,15 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212738Z" creationid="hcartagena" creationdate="20151119T212738Z">
         <seg>TinySegmenter (dominio público)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235509Z" creationid="Usuario" creationdate="20150603T235509Z">
+        <seg>Para acceder a la parte privada, el usuario debe crear una clave a través de https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7408,6 +7543,15 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150605T113328Z" creationid="Helli" creationdate="20150603T153036Z">
         <seg>Qué vio en su lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235528Z" creationid="Usuario" creationdate="20150603T235528Z">
+        <seg>Al acceder al servicio sin una clave privada, aparecerá el siguiente mensaje: clave de API TAA no encontrada.</seg>
       </tuv>
     </tu>
     <tu>
