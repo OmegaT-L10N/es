@@ -4125,6 +4125,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T225930Z" creationid="hcartagena" creationdate="20151124T225930Z">
+        <seg>La búsqueda por palabras clave encuentran todas las palabras separadas por espacios, con independencia de su orden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T194107Z" creationid="hcartagena" creationdate="20151117T194107Z">
@@ -5351,6 +5359,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T225815Z" creationid="hcartagena" creationdate="20151124T225815Z">
+        <seg>Las búsquedas en el proyecto, de manera predeterminada, se ejecutan en el texto original, en el texto traducido, en las memorias externas, en los glosarios, en las notas y en los comentarios del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131515Z" creationid="Helli" creationdate="20150526T131515Z">
@@ -5477,6 +5493,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203224Z" creationid="Helli" creationdate="20150526T134533Z">
         <seg>Registrar traducción idéntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230007Z" creationid="hcartagena" creationdate="20151124T230007Z">
+        <seg>La búsqueda con expresiones regulares encuentra expresiones regulares de Java, que están documentadas en el manual de usuario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5813,6 +5837,16 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222409Z" creationid="hcartagena" creationdate="20151116T222409Z">
         <seg>Guardando el proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T225728Z" creationid="hcartagena" creationdate="20151124T225728Z">
+        <seg>Ámbito:
+El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede estar también en cualquier archivo ubicado en una jerarquía de carpetas especificada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7181,6 +7215,16 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T225903Z" creationid="hcartagena" creationdate="20151124T225903Z">
+        <seg>Tipos:
+La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193423Z" creationid="hcartagena" creationdate="20151117T193423Z">
@@ -7649,6 +7693,15 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202955Z" creationid="hcartagena" creationdate="20151119T202955Z">
         <seg>Localización WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230012Z" creationid="hcartagena" creationdate="20151124T230012Z">
+        <seg>Palabras clave:</seg>
       </tuv>
     </tu>
     <tu>
