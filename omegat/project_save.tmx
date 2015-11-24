@@ -1946,6 +1946,19 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234339Z" creationid="hcartagena" creationdate="20151124T234339Z">
+        <seg>Como resultado,
+se usará la configuración predeterminada, por lo cual
+puede experimentar un comportamiento inesperado, aunque
+correcto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175654Z" creationid="hcartagena" creationdate="20151120T175654Z">
@@ -7214,6 +7227,16 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, c
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234441Z" creationid="hcartagena" creationdate="20151124T234227Z">
+        <seg>En
+su lugar, se utilizará la carpeta actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &amp;source text</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175540Z" creationid="hcartagena" creationdate="20151120T175540Z">
@@ -7315,6 +7338,16 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234451Z" creationid="hcartagena" creationdate="20151124T234438Z">
+        <seg>En su lugar, se utilizará el directorio
+actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first is the shortcut for Open Project, the second for Create Glossary Entry.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125657Z" creationid="Helli" creationdate="20150526T125657Z">
@@ -7403,6 +7436,16 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165553Z" creationid="hcartagena" creationdate="20151120T165553Z">
         <seg>Entonces, mientras se traduce del francés canadiense, su proyecto utilizará todas las reglas definidas para toda la cadena de idiomas en el orden correcto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234214Z" creationid="hcartagena" creationdate="20151124T234214Z">
+        <seg>Por lo tanto, no se puede determinar de manera confiable
+la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8534,6 +8577,16 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130645Z" creationid="Helli" creationdate="20150526T130645Z">
         <seg>Sus atajos nuevos ahora tendrían que aparecer al lado de los elementos de menú que ha modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234421Z" creationid="hcartagena" creationdate="20151124T234421Z">
+        <seg>Su sistema operativo impidó a OmegaT crear su
+directorio de configuración.</seg>
       </tuv>
     </tu>
     <tu>
