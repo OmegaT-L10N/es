@@ -1272,6 +1272,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T192545Z" creationid="Víctor Parra" creationdate="20151124T192545Z">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;event&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can be: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;typed&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;pressed&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;released&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125507Z" creationid="Helli" creationdate="20150526T125340Z">
@@ -4927,6 +4935,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153743Z" creationid="hcartagena" creationdate="20151117T153743Z">
         <seg>Abrir proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T192636Z" creationid="Víctor Parra" creationdate="20151124T192636Z">
+        <seg>Abrur Pro&amp;jecto Reciente</seg>
       </tuv>
     </tu>
     <tu>
