@@ -2361,6 +2361,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232733Z" creationid="hcartagena" creationdate="20151124T232733Z">
+        <seg>Comentario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230409Z" creationid="hcartagena" creationdate="20151119T230409Z">
@@ -2930,6 +2938,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232719Z" creationid="hcartagena" creationdate="20151124T232719Z">
+        <seg>Introducir un término de origen, un término de destino y un comentario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222204Z" creationid="hcartagena" creationdate="20151116T222204Z">
@@ -2967,6 +2983,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140912Z" creationid="hcartagena" creationdate="20151117T140912Z">
         <seg>Error al crear el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232830Z" creationid="hcartagena" creationdate="20151124T232830Z">
+        <seg>Error al decodificar el usuario y la contraseña.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3597,6 +3621,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232741Z" creationid="hcartagena" creationdate="20151124T232741Z">
+        <seg>Archivo de glosario: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files</seg>
       </tuv>
       <tuv lang="ES">
@@ -3820,6 +3852,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130710Z" creationid="Helli" creationdate="20150526T130710Z">
         <seg>Si no chocan con atajos de sistema, tendrían que ser disponibles de dentro de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232818Z" creationid="hcartagena" creationdate="20151124T232818Z">
+        <seg>Si está usando un proxy autenticado, introduzca aquí su usario y contraseña.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5240,6 +5280,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232837Z" creationid="hcartagena" creationdate="20151124T232837Z">
+        <seg>Contraseña:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pattern After</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165302Z" creationid="hcartagena" creationdate="20151120T165302Z">
@@ -5543,6 +5591,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143657Z" creationid="Helli" creationdate="20150526T143657Z">
         <seg>Acceso representativo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy User and Password</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232749Z" creationid="hcartagena" creationdate="20151124T232749Z">
+        <seg>Usuario y contraseña de proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6519,6 +6575,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232726Z" creationid="hcartagena" creationdate="20151124T232726Z">
+        <seg>Término de origen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223143Z" creationid="hcartagena" creationdate="20151116T223143Z">
@@ -6752,6 +6816,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Processing Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232844Z" creationid="hcartagena" creationdate="20151124T232844Z">
+        <seg>Opciones de procesamiento de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Validation...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143426Z" creationid="Helli" creationdate="20150526T143351Z">
@@ -6764,6 +6836,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191929Z" creationid="hcartagena" creationdate="20151118T191929Z">
         <seg>Nombre de etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232730Z" creationid="hcartagena" creationdate="20151124T232730Z">
+        <seg>Término de destino:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7743,6 +7823,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223756Z" creationid="hcartagena" creationdate="20151116T223756Z">
         <seg>El visor del Manual de Usuario no es compatible con la navegación a enlaces externos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232833Z" creationid="hcartagena" creationdate="20151124T232833Z">
+        <seg>Usuario:</seg>
       </tuv>
     </tu>
     <tu>
