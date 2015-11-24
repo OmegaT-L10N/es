@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_r7936" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1639,6 +1639,15 @@ La configuración acutual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235411Z" creationid="Usuario" creationdate="20150603T235411Z">
+        <seg>3. Acceso al servicio de TAA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
@@ -1855,6 +1864,15 @@ El archivo TMX no se cargará.</seg>
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142818Z" creationid="Helli" creationdate="20150526T142818Z">
+        <seg>Autocompleción/Autotexto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T152518Z" creationid="Helli" creationdate="20150603T152518Z">
         <seg>Autocompleción/Autotexto...</seg>
       </tuv>
     </tu>
@@ -3385,6 +3403,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235401Z" creationid="Usuario" creationdate="20150603T235401Z">
+        <seg>1. Términos generales</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>German</seg>
       </tuv>
@@ -4618,6 +4645,15 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>OmegaT 3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235256Z" creationid="Usuario" creationdate="20150603T235256Z">
+        <seg>OmegaT 3.1 - Guía de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
@@ -5037,6 +5073,15 @@ destino al que desea traducirlos.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235749Z" creationid="Usuario" creationdate="20150603T235742Z">
+        <seg>Las colecciones privadas se muestran en negrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
@@ -5154,6 +5199,15 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143657Z" creationid="Helli" creationdate="20150526T143657Z">
         <seg>Acceso representativo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Public and private collections</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235406Z" creationid="Usuario" creationdate="20150603T235406Z">
+        <seg>2. Colecciones públicas y privadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,6 +6188,15 @@ destino al que desea traducirlos.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Steps to reproduce</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113238Z" creationid="Helli" creationdate="20150603T153029Z">
+        <seg>Pasos que ha seguido</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>SubRip Subtitles</seg>
       </tuv>
@@ -6479,6 +6542,15 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T184228Z" creationid="hcartagena" creationdate="20151117T140541Z">
         <seg>Eso que buscas&lt;p&gt;Trasciende los sentidos&lt;p&gt;En un más allá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Usuario" changedate="20150603T235516Z" creationid="Usuario" creationdate="20150603T235516Z">
+        <seg>La clave debe tener en cuenta el uso de OmegaT = -Dtaas.user.key xxxxx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7321,11 +7393,38 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>What you expected to see</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113249Z" creationid="Helli" creationdate="20150603T153033Z">
+        <seg>Qué esperaba ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>What you saw instead</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T113328Z" creationid="Helli" creationdate="20150603T153036Z">
+        <seg>Qué vio en su lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T204206Z" creationid="hcartagena" creationdate="20151119T204206Z">
         <seg>Si no está disponible, se usará el ID como reserva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>When you left-click on the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150605T111524Z" creationid="Helli" creationdate="20150603T151048Z">
+        <seg>Cuando pulse con el botón izquierdo del ratón en el número, el script seleccionado ejecutará.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7547,6 +7646,15 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193532Z" creationid="hcartagena" creationdate="20151117T193532Z">
         <seg>nombres de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Helli" changedate="20150603T151147Z" creationid="Helli" creationdate="20150603T151147Z">
+        <seg>Filtros de archivo...</seg>
       </tuv>
     </tu>
     <tu>
