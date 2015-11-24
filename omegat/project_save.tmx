@@ -2879,6 +2879,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T192428Z" creationid="Víctor Parra" creationdate="20151124T192428Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error creating project!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T140912Z" creationid="hcartagena" creationdate="20151117T140912Z">
@@ -4728,6 +4736,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T192353Z" creationid="Víctor Parra" creationdate="20151124T192353Z">
+        <seg>Acerca de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT 3.0, Read Me file</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T111524Z" creationid="Antonio" creationdate="20151120T111524Z">
@@ -5653,6 +5669,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193630Z" creationid="hcartagena" creationdate="20151116T193630Z">
         <seg>Ejecución en Java {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T192458Z" creationid="Víctor Parra" creationdate="20151124T192458Z">
+        <seg>Ejeccución en Java {0} ({1} bits)</seg>
       </tuv>
     </tu>
     <tu>
