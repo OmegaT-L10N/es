@@ -4577,6 +4577,22 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232452Z" creationid="hcartagena" creationdate="20151124T232452Z">
+        <seg>Plantilla de información de modificaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232507Z" creationid="hcartagena" creationdate="20151124T232507Z">
+        <seg>Plantilla de información sobre modificaciones de segmentos sin fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192833Z" creationid="hcartagena" creationdate="20151119T192833Z">
@@ -6359,6 +6375,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplify tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232443Z" creationid="hcartagena" creationdate="20151124T232437Z">
+        <seg>Simplificar información sobre herramienas sobre partes protegidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214013Z" creationid="hcartagena" creationdate="20151119T214013Z">
@@ -7671,6 +7695,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134516Z" creationid="Helli" creationdate="20150526T134516Z">
         <seg>Usar como Traducción Predeterminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T232519Z" creationid="hcartagena" creationdate="20151124T232519Z">
+        <seg>Usar plantillas personalizadas para la información sobre modificaciones</seg>
       </tuv>
     </tu>
     <tu>
