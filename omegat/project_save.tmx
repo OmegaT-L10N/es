@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace Glossary Hits when Inserting Source Text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T223718Z" creationid="hcartagena" creationdate="20151124T223718Z">
+        <seg>&amp;Usar aciertos del glosario al insertar el texto original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192747Z" creationid="hcartagena" creationdate="20151116T192747Z">
