@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not check printf-variables</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233043Z" creationid="hcartagena" creationdate="20151124T233043Z">
+        <seg>&amp;No comprobar variables printf-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230718Z" creationid="hcartagena" creationdate="20151124T230718Z">
@@ -2277,6 +2285,22 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233212Z" creationid="hcartagena" creationdate="20151124T233212Z">
+        <seg>Comprob&amp;ar todas las variables printf- (%s, %-s, por ejemplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233109Z" creationid="hcartagena" creationdate="20151124T233109Z">
+        <seg>Comprobar variables printf- &amp;simples (%s, %d, por ejemplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165337Z" creationid="hcartagena" creationdate="20151120T165327Z">
@@ -3568,6 +3592,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165316Z" creationid="hcartagena" creationdate="20151120T165316Z">
         <seg>Francés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full checking can lead to false positives in normal texts.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233032Z" creationid="hcartagena" creationdate="20151124T233032Z">
+        <seg>La comprobación completa puede acarrear falsos positivos en textos normales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5021,6 +5053,14 @@ the user license.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233005Z" creationid="hcartagena" creationdate="20151124T233005Z">
+        <seg>OmegaT también puede comprobar variables de programación (variables printf-function) tales como '%s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
@@ -5382,6 +5422,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175534Z" creationid="hcartagena" creationdate="20151120T175534Z">
         <seg>Seleccione el texto que desea insertar en los segmentos que no se han traducido al ingresar a uno de ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233016Z" creationid="hcartagena" creationdate="20151124T233016Z">
+        <seg>Seleccione el comportamiento que corresponda.</seg>
       </tuv>
     </tu>
     <tu>
