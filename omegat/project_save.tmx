@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Display tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231046Z" creationid="hcartagena" creationdate="20151124T231046Z">
+        <seg>&amp;Mostrar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230718Z" creationid="hcartagena" creationdate="20151124T230718Z">
@@ -3204,6 +3212,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231007Z" creationid="hcartagena" creationdate="20151124T231007Z">
+        <seg>Opciones de TMX externos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TMXs...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143500Z" creationid="Helli" creationdate="20150526T143500Z">
@@ -3520,6 +3536,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165316Z" creationid="hcartagena" creationdate="20151120T165316Z">
         <seg>Francés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231216Z" creationid="hcartagena" creationdate="20151124T231216Z">
+        <seg>Texto completo, con etiquetas y números</seg>
       </tuv>
     </tu>
     <tu>
@@ -4489,6 +4513,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231126Z" creationid="hcartagena" creationdate="20151124T231126Z">
+        <seg>Coincidir con plantilla de visualización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202415Z" creationid="hcartagena" creationdate="20151119T202415Z">
@@ -4728,6 +4760,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222055Z" creationid="hcartagena" creationdate="20151116T222055Z">
         <seg>No se detectaron errores de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231157Z" creationid="hcartagena" creationdate="20151124T231157Z">
+        <seg>Sin etiquetas ni números</seg>
       </tuv>
     </tu>
     <tu>
@@ -5236,6 +5276,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192025Z" creationid="hcartagena" creationdate="20151117T192025Z">
         <seg>Seleccione otra carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231039Z" creationid="hcartagena" creationdate="20151124T231039Z">
+        <seg>Seleccionar cómo se mostrarán etiquetas de TMX no creados en OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6335,6 +6383,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231133Z" creationid="hcartagena" creationdate="20151124T231133Z">
+        <seg>Ordenar coincidencias parciales por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source File Encoding</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191133Z" creationid="hcartagena" creationdate="20151119T191125Z">
@@ -6491,6 +6547,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140709Z" creationid="Helli" creationdate="20150526T140709Z">
         <seg>Estadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231152Z" creationid="hcartagena" creationdate="20151124T231152Z">
+        <seg>Lematización, sin etiquetas ni números</seg>
       </tuv>
     </tu>
     <tu>
@@ -6684,6 +6748,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143433Z" creationid="Helli" creationdate="20150526T143433Z">
         <seg>Equipo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231112Z" creationid="hcartagena" creationdate="20151124T231112Z">
+        <seg>Variables de plantillas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7555,6 +7627,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231106Z" creationid="hcartagena" creationdate="20151124T231106Z">
+        <seg>Usar &amp;XML para etiquetas independientes (&lt;i/&gt;, por ejemplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Stemming for &amp;Glossary Entries</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221147Z" creationid="hcartagena" creationdate="20151116T221147Z">
@@ -7703,6 +7783,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124402Z" creationid="Helli" creationdate="20150526T124228Z">
         <seg>Ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231225Z" creationid="hcartagena" creationdate="20151124T231225Z">
+        <seg>Ver opciones</seg>
       </tuv>
     </tu>
     <tu>
