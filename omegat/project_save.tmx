@@ -1105,11 +1105,11 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T193448Z" creationid="hcartagena" creationdate="20151116T193152Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235407Z" creationid="hcartagena" creationdate="20151116T193152Z">
         <seg>2) aumentar la cantidad de memoria disponible para OmegaT
 con la instrucción "java -Xmx&lt;tamaño-en-MB&gt;M -jar OmegaT.jar" en la
 línea de comandos o en el script de arranque de OmegaT;
-La configuración acutual es {0}MB;</seg>
+El ajuste actual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4365,8 +4365,9 @@ the user license.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234941Z" creationid="hcartagena" creationdate="20151124T234941Z">
-        <seg>No fue posible crear la carpeta de scripting dentro del directorio de configuración.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235331Z" creationid="hcartagena" creationdate="20151124T234941Z">
+        <seg>No fue posible crear la carpeta de scripts dentro
+de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6393,14 +6394,6 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T225728Z" creationid="hcartagena" creationdate="20151124T225728Z">
         <seg>Ámbito:
 El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede estar también en cualquier archivo ubicado en una jerarquía de carpetas especificada.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Scriptin&amp;g...</seg>
-      </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204006Z" creationid="hcartagena" creationdate="20151116T204006Z">
-        <seg>Extensione&amp;s...</seg>
       </tuv>
     </tu>
     <tu>
