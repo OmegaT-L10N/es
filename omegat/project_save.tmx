@@ -2649,6 +2649,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231322Z" creationid="hcartagena" creationdate="20151124T231322Z">
+        <seg>Mostrar todos los &amp;segmentos originales en negritas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193519Z" creationid="hcartagena" creationdate="20151117T193519Z">
@@ -3909,6 +3917,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115204Z" creationid="Helli" creationdate="20150526T115204Z">
         <seg>En el ejemplo arriba, dos guiones (posición 1 y 2) ya han sido añadido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include the first non-&amp;unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231357Z" creationid="hcartagena" creationdate="20151124T231357Z">
+        <seg>Incluir el primer segmento &amp;no único al marcar segmentos no únicos</seg>
       </tuv>
     </tu>
     <tu>
