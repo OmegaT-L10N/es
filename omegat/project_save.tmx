@@ -3635,6 +3635,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T225456Z" creationid="hcartagena" creationdate="20151124T225456Z">
+        <seg>Ocultar &amp;opciones avanzadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T122832Z" creationid="Helli" creationdate="20150526T122832Z">
@@ -6153,6 +6161,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T225459Z" creationid="hcartagena" creationdate="20151124T225445Z">
+        <seg>Mostrar &amp;opciones avanzadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214013Z" creationid="hcartagena" creationdate="20151119T214013Z">
@@ -7994,6 +8010,16 @@ crearlas.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">OmegaT_3.5.3_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_TMS</prop>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T225519Z" creationid="hcartagena" creationdate="20151124T225519Z">
+        <seg>&amp;Memorias externas</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">src/org/omegat/Bundle.properties</prop>
       <prop type="id">SW_SEARCH_IN_TMS</prop>
