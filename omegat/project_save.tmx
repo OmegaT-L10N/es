@@ -4101,6 +4101,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyboard shortcuts in the editor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T211315Z" creationid="Víctor Parra" creationdate="20151124T211315Z">
+        <seg>Atajos del teclado en el editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T194107Z" creationid="hcartagena" creationdate="20151117T194107Z">
