@@ -4011,6 +4011,18 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234716Z" creationid="hcartagena" creationdate="20151124T234716Z">
+        <seg>Si posteriormente se concede el acceso a la ubicación
+deseada, esta se utilizará y, como resultado, la configuración
+volverá al estado predeterminado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
