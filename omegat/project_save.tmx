@@ -480,16 +480,16 @@
       <tuv lang="EN">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213400Z" creationid="hcartagena" creationdate="20151119T213324Z">
-        <seg>&amp;Hacer que la configuración de filtros de archivo sea específica del proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235438Z" creationid="hcartagena" creationdate="20151119T213324Z">
+        <seg>&amp;Hacer que el ajuste de filtros de archivo sea específico para el proyecto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213351Z" creationid="hcartagena" creationdate="20151117T153737Z">
-        <seg>Hacer que las reglas de se&amp;gmentación sean específicas del proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235537Z" creationid="hcartagena" creationdate="20151117T153737Z">
+        <seg>Hacer que las reglas de se&amp;gmentación sean específicas para el proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,9 +1950,9 @@ El archivo TMX no se cargará.</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234339Z" creationid="hcartagena" creationdate="20151124T234339Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235505Z" creationid="hcartagena" creationdate="20151124T234339Z">
         <seg>Como resultado,
-se usará la configuración predeterminada, por lo cual
+se usarán los ajustes predeterminados, por lo cual
 puede experimentar un comportamiento inesperado, aunque
 correcto.</seg>
       </tuv>
@@ -4016,10 +4016,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234716Z" creationid="hcartagena" creationdate="20151124T234716Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235518Z" creationid="hcartagena" creationdate="20151124T234716Z">
         <seg>Si posteriormente se concede el acceso a la ubicación
-deseada, esta se utilizará y, como resultado, la configuración
-volverá al estado predeterminado.</seg>
+deseada, esta se utilizará y, como resultado, los ajustes
+volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5145,16 +5145,16 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230707Z" creationid="hcartagena" creationdate="20151119T230707Z">
-        <seg>Nota: la configuración de codificación de archivos originales solo afecta a los archivos HHC y HHK que no contienen una declaración de codificación.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235450Z" creationid="hcartagena" creationdate="20151119T230707Z">
+        <seg>Nota: el ajuste de codificación de archivos originales solo afecta a los archivos HHC y HHK que no contienen una declaración de codificación.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213850Z" creationid="hcartagena" creationdate="20151119T213850Z">
-        <seg>Nota: la configuración de codificación del archivo original solo afecta a los archivos HTML que no contienen una declaración de codificación.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235446Z" creationid="hcartagena" creationdate="20151119T213850Z">
+        <seg>Nota: el ajuste de codificación del archivo original solo afecta a los archivos HTML que no contienen una declaración de codificación.</seg>
       </tuv>
     </tu>
     <tu>
