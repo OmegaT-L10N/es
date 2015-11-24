@@ -944,6 +944,16 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230248Z" creationid="hcartagena" creationdate="20151124T230248Z">
+        <seg>'*' encuentra cero o más caracteres ('ejecuta*' encuentra 'ejecuta', 'ejecutas', 'ejecutar', 'ejecutando', etc.)
+'?' coincide exactamente con un carácter ('ejecuta?' coincide con 'ejecutas' y 'ejecutar', pero no con 'ejecuta' ni 'ejecutando').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -6620,6 +6630,16 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230334Z" creationid="hcartagena" creationdate="20151124T230334Z">
+        <seg>Reemplazar texto:
+El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, con independencia de su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193709Z" creationid="hcartagena" creationdate="20151117T193638Z">
@@ -7700,8 +7720,9 @@ en la línea {1}, columna {2}.</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230012Z" creationid="hcartagena" creationdate="20151124T230012Z">
-        <seg>Palabras clave:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230052Z" creationid="hcartagena" creationdate="20151124T230012Z">
+        <seg>Comodines:
+La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</seg>
       </tuv>
     </tu>
     <tu>
