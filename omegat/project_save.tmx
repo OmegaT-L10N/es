@@ -1971,6 +1971,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230519Z" creationid="hcartagena" creationdate="20151124T230519Z">
+        <seg>Se respaldaron las preferencias en {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T203839Z" creationid="hcartagena" creationdate="20151117T203839Z">
@@ -3098,6 +3106,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230457Z" creationid="hcartagena" creationdate="20151124T230457Z">
+        <seg>Excluir segmentos huérfanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142231Z" creationid="hcartagena" creationdate="20151117T142231Z">
@@ -3198,6 +3214,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204132Z" creationid="hcartagena" creationdate="20151116T204132Z">
         <seg>F&amp;uente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230530Z" creationid="hcartagena" creationdate="20151124T230530Z">
+        <seg>No se pudo respaldar el archivo de preferencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4131,6 +4155,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T211315Z" creationid="Víctor Parra" creationdate="20151124T211315Z">
         <seg>Atajos del teclado en el editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230430Z" creationid="hcartagena" creationdate="20151124T230430Z">
+        <seg>No está disponible la búsqueda por palabras clave en la cadena de búsqueda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6633,9 +6665,9 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230334Z" creationid="hcartagena" creationdate="20151124T230334Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230351Z" creationid="hcartagena" creationdate="20151124T230334Z">
         <seg>Reemplazar texto:
-El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, con independencia de su contenido.</seg>
+El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, con independencia de que tengan o no contenido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7696,6 +7728,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T204206Z" creationid="hcartagena" creationdate="20151119T204206Z">
         <seg>Si no está disponible, se usará el ID como reserva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string does not support references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230447Z" creationid="hcartagena" creationdate="20151124T230447Z">
+        <seg>Al usar expresiones regulares, la cadena de reemplazo no admite referencias a grupos definidos en la cadena de búsqueda.</seg>
       </tuv>
     </tu>
     <tu>
