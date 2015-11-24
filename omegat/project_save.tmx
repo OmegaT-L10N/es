@@ -1627,6 +1627,14 @@ La configuración acutual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233854Z" creationid="hcartagena" creationdate="20151124T233854Z">
+        <seg>Una nota es un simple comentario relacionado con este conjunto de texto original y traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151228Z" creationid="Helli" creationdate="20150526T151228Z">
@@ -2425,6 +2433,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233856Z" creationid="hcartagena" creationdate="20151124T233856Z">
+        <seg>Comentarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230409Z" creationid="hcartagena" creationdate="20151119T230409Z">
@@ -2745,6 +2761,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233925Z" creationid="hcartagena" creationdate="20151124T233925Z">
+        <seg>Muestra comentarios en el segmento activo si existen en el archivo original y el filtro de archivo los admite (filtro PO, por ejemplo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233740Z" creationid="hcartagena" creationdate="20151124T233740Z">
@@ -2821,6 +2845,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193730Z" creationid="hcartagena" creationdate="20151117T193730Z">
         <seg>¿Desea continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233952Z" creationid="hcartagena" creationdate="20151124T233952Z">
+        <seg>Acoplar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4201,6 +4233,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234003Z" creationid="hcartagena" creationdate="20151124T234003Z">
+        <seg>Guía de inicio rápido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="ES">
@@ -4381,6 +4421,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223327Z" creationid="hcartagena" creationdate="20151116T223327Z">
         <seg>Saltando al último segmento editado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233930Z" creationid="hcartagena" creationdate="20151124T233930Z">
+        <seg>Clave:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4729,6 +4777,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233957Z" creationid="hcartagena" creationdate="20151124T233957Z">
+        <seg>Maximizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202415Z" creationid="hcartagena" creationdate="20151119T202415Z">
@@ -4765,6 +4821,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130853Z" creationid="Helli" creationdate="20150526T130853Z">
         <seg>Código de Elemento del menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233954Z" creationid="hcartagena" creationdate="20151124T233954Z">
+        <seg>Minimizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5215,6 +5279,18 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234134Z" creationid="hcartagena" creationdate="20151124T234005Z">
+        <seg>OmegaT tiene prohibido el acceso a la propiedad del sistema que
+contiene el nombre de su sistema operativo o a la propiedad
+del sistema que contiene su carpeta particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212057Z" creationid="hcartagena" creationdate="20151119T212057Z">
@@ -5452,6 +5528,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232837Z" creationid="hcartagena" creationdate="20151124T232837Z">
         <seg>Contraseña:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233935Z" creationid="hcartagena" creationdate="20151124T233935Z">
+        <seg>Ruta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6113,6 +6197,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192443Z" creationid="hcartagena" creationdate="20151117T192443Z">
         <seg>Reemplazar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233959Z" creationid="hcartagena" creationdate="20151124T233959Z">
+        <seg>Restaurar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7701,6 +7793,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233939Z" creationid="hcartagena" creationdate="20151124T233939Z">
+        <seg>Traducción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
@@ -7771,6 +7871,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131647Z" creationid="Helli" creationdate="20150526T131647Z">
         <seg>Deshacer Última Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T234000Z" creationid="hcartagena" creationdate="20151124T234000Z">
+        <seg>Desacoplar</seg>
       </tuv>
     </tu>
     <tu>
