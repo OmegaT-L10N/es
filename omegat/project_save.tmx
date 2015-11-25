@@ -3296,6 +3296,54 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000234Z" creationid="hcartagena" creationdate="20151125T000234Z">
+        <seg>Evento: cierre de la aplicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: application startup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000202Z" creationid="hcartagena" creationdate="20151125T000202Z">
+        <seg>Evento: inicio de la aplicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: font changed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000251Z" creationid="hcartagena" creationdate="20151125T000251Z">
+        <seg>Evento: cambio de fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new entry activated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000245Z" creationid="hcartagena" creationdate="20151125T000245Z">
+        <seg>Evento: nueva entrada activada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new file activated ({0})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000242Z" creationid="hcartagena" creationdate="20151125T000242Z">
+        <seg>Evento: nuevo archivo ({0}) activado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: project change - "{0}"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000152Z" creationid="hcartagena" creationdate="20151125T000129Z">
+        <seg>Evento: cambio en el proyecto - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exact match:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142855Z" creationid="hcartagena" creationdate="20151117T142855Z">
@@ -5874,10 +5922,42 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000343Z" creationid="hcartagena" creationdate="20151125T000343Z">
+        <seg>Fin de carga del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000331Z" creationid="hcartagena" creationdate="20151125T000331Z">
+        <seg>Inicio de carga del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222413Z" creationid="hcartagena" creationdate="20151116T222413Z">
         <seg>Proyecto guardado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000359Z" creationid="hcartagena" creationdate="20151125T000359Z">
+        <seg>Fin de guardado del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000352Z" creationid="hcartagena" creationdate="20151125T000352Z">
+        <seg>Inicio de guardado del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7519,6 +7599,22 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153140Z" creationid="Helli" creationdate="20150526T153100Z">
         <seg>El &lt;/f17&gt;&lt;a18&gt;FAQ&lt;/a18&gt;&lt;a19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/a19&gt;&lt;f21&gt;es un punto de partida bueno para encontrar respuestas a cuestiones que puede tener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This call MUST NOT be in swing thread</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000325Z" creationid="hcartagena" creationdate="20151125T000325Z">
+        <seg>Esta llamada NO DEBE estar en un subproceso swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This call MUST be in swing thread</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000314Z" creationid="hcartagena" creationdate="20151125T000314Z">
+        <seg>Esta llamada DEBE estar en un subproceso swing</seg>
       </tuv>
     </tu>
     <tu>
