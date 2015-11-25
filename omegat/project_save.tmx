@@ -1724,6 +1724,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T004313Z" creationid="Víctor Parra" creationdate="20151125T004313Z">
+        <seg>Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213654Z" creationid="hcartagena" creationdate="20151119T213654Z">
@@ -4668,6 +4676,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T004317Z" creationid="Víctor Parra" creationdate="20151125T004317Z">
+        <seg>Izquierda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202401Z" creationid="hcartagena" creationdate="20151119T202401Z">
@@ -6432,6 +6448,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115009Z" creationid="Helli" creationdate="20150526T114829Z">
         <seg>Pulse la tecla derecha del ratón en un botón de "&lt;1&gt;" a "&lt;12&gt;" en el tablero inferior y seleccione "Añadir".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T004321Z" creationid="Víctor Parra" creationdate="20151125T004321Z">
+        <seg>Derecha:</seg>
       </tuv>
     </tu>
     <tu>
