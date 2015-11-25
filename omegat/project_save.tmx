@@ -7755,6 +7755,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This short text describes key behavior in the editor pane.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011151Z" creationid="Víctor Parra" creationdate="20151125T011151Z">
+        <seg>Este breve texto describe el comportamiento de las teclas en el panel del editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
       <tuv lang="ES" changeid="victor" changedate="20151123T153730Z" creationid="hcartagena" creationdate="20151116T192415Z">
