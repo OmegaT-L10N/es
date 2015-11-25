@@ -4052,6 +4052,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T020411Z" creationid="Víctor Parra" creationdate="20151125T020411Z">
+        <seg>Inicio*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hunspell by László Németh and others (LGPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212537Z" creationid="hcartagena" creationdate="20151119T212439Z">
