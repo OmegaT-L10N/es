@@ -978,6 +978,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'{0}' menu selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000008Z" creationid="hcartagena" creationdate="20151125T000008Z">
+        <seg>Menú '{0}' seleccionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -2358,6 +2366,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165337Z" creationid="hcartagena" creationdate="20151120T165327Z">
         <seg>Chino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on '{0}' menu item</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235957Z" creationid="hcartagena" creationdate="20151124T235941Z">
+        <seg>Clic en el elemento de menú '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,6 +7368,16 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235845Z" creationid="hcartagena" creationdate="20151124T235845Z">
+        <seg>En su lugar, se utilizará la carpeta de
+configuración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -8778,6 +8804,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T164216Z" creationid="hcartagena" creationdate="20151118T164216Z">
         <seg>{0} +{1} más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}, executed from '{2}'</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235903Z" creationid="hcartagena" creationdate="20151124T235903Z">
+        <seg>{1}, ejecutado desde '{2}'</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
