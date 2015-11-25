@@ -1732,6 +1732,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000615Z" creationid="hcartagena" creationdate="20151125T000615Z">
+        <seg>Agregar al diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add glossary entry</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233718Z" creationid="hcartagena" creationdate="20151124T233718Z">
@@ -4129,6 +4137,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000608Z" creationid="hcartagena" creationdate="20151125T000608Z">
+        <seg>Ignorar todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213649Z" creationid="hcartagena" creationdate="20151119T213649Z">
@@ -5127,6 +5143,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Suggestions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000601Z" creationid="hcartagena" creationdate="20151125T000601Z">
+        <seg>Sin sugerencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142908Z" creationid="hcartagena" creationdate="20151117T142908Z">
@@ -5139,6 +5163,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T220813Z" creationid="hcartagena" creationdate="20151117T220813Z">
         <seg>La búsqueda no ha dado resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000413Z" creationid="hcartagena" creationdate="20151125T000413Z">
+        <seg>No es necesario guardar el proyecto, porque no hubo cambios</seg>
       </tuv>
     </tu>
     <tu>
@@ -5902,6 +5934,46 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213754Z" creationid="hcartagena" creationdate="20151119T213754Z">
         <seg>Proyecto autoguardado a las {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000415Z" creationid="hcartagena" creationdate="20151125T000415Z">
+        <seg>Proyecto cerrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling end</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000547Z" creationid="hcartagena" creationdate="20151125T000547Z">
+        <seg>Fin de compilación del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000522Z" creationid="hcartagena" creationdate="20151125T000522Z">
+        <seg>Inicio de compilación del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project creating end</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000557Z" creationid="hcartagena" creationdate="20151125T000557Z">
+        <seg>Fin de creación del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project creating start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000552Z" creationid="hcartagena" creationdate="20151125T000552Z">
+        <seg>Inicio de creación del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7098,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142954Z" creationid="Helli" creationdate="20150526T142954Z">
         <seg>Corrector ortográfico...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000624Z" creationid="hcartagena" creationdate="20151125T000624Z">
+        <seg>Configuración del corrector ortográfico</seg>
       </tuv>
     </tu>
     <tu>
