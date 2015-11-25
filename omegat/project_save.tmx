@@ -2670,6 +2670,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Left:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011537Z" creationid="Víctor Parra" creationdate="20151125T011537Z">
+        <seg>CTRL+Izquierda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193746Z" creationid="hcartagena" creationdate="20151116T193746Z">
@@ -4548,6 +4556,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key behavior in the editor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011414Z" creationid="Víctor Parra" creationdate="20151125T011402Z">
+        <seg>Comportamiento de las teclas en el panel del editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key combination</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011411Z" creationid="Víctor Parra" creationdate="20151125T011411Z">
+        <seg>Combinación de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233930Z" creationid="hcartagena" creationdate="20151124T233930Z">
@@ -4678,7 +4702,7 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T004317Z" creationid="Víctor Parra" creationdate="20151125T004317Z">
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011457Z" creationid="Víctor Parra" creationdate="20151125T004317Z">
         <seg>Izquierda:</seg>
       </tuv>
     </tu>
@@ -7640,6 +7664,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011334Z" creationid="Víctor Parra" creationdate="20151125T011334Z">
+        <seg>El término "Mover dentro del segmento" significa que el cursor se moverá al principio del segmento si éste estaba previamente antes del segmento y, al final del segmento si el mismo estaba previamente después de él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191710Z" creationid="hcartagena" creationdate="20151117T191645Z">
@@ -8940,6 +8972,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151745Z" creationid="Helli" creationdate="20150526T151745Z">
         <seg>najlepš*ih - superlativo, plural, genitivo para M,F,N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011450Z" creationid="Víctor Parra" creationdate="20151125T011450Z">
+        <seg>un carácter a la izquierda, pero no más allá del principio del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011522Z" creationid="Víctor Parra" creationdate="20151125T011522Z">
+        <seg>un carácter a la derecha, pero no más allá del final del segmento</seg>
       </tuv>
     </tu>
     <tu>
