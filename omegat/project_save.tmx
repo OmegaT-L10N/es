@@ -2678,6 +2678,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Right:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011610Z" creationid="Víctor Parra" creationdate="20151125T011610Z">
+        <seg>CTRL+Derecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193746Z" creationid="hcartagena" creationdate="20151116T193746Z">
@@ -8988,6 +8996,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011522Z" creationid="Víctor Parra" creationdate="20151125T011522Z">
         <seg>un carácter a la derecha, pero no más allá del final del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011633Z" creationid="Víctor Parra" creationdate="20151125T011556Z">
+        <seg>una palabra a la izquierda pero no más allá del principio del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011628Z" creationid="Víctor Parra" creationdate="20151125T011628Z">
+        <seg>una palabra a la derecha pero no más allá del principio del segmento</seg>
       </tuv>
     </tu>
     <tu>
