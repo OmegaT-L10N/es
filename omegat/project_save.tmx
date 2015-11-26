@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_r7939" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3086,6 +3086,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161621Z" creationid="Antonio" creationdate="20151126T161621Z">
+        <seg>Descargar colección {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211732Z" creationid="hcartagena" creationdate="20151119T211732Z">
@@ -3460,6 +3468,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T190837Z" creationid="hcartagena" creationdate="20151119T190837Z">
         <seg>Error al descargar complemento de la clase '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161521Z" creationid="Antonio" creationdate="20151126T161521Z">
+        <seg>Error al actualizar el archivo de glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -4140,8 +4156,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T155651Z" creationid="Antonio" creationdate="20151126T154926Z">
-        <seg>Vaya a https://demo.taas-project.eu/account/keys/create?system=omegaT para crear su propia clave y luego registrarla en OmegaT con -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161414Z" creationid="Antonio" creationdate="20151126T154926Z">
+        <seg>Vaya a https://demo.taas-project.eu/account/keys/create?system=omegaT para crear su propia clave y luego regístrela en OmegaT con -Dtaas.user.key = xxxxx</seg>
       </tuv>
     </tu>
     <tu>
@@ -6828,6 +6844,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161618Z" creationid="Antonio" creationdate="20151126T161618Z">
+        <seg>Error de solicitud: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T152703Z" creationid="Antonio" creationdate="20151126T152703Z">
@@ -7723,6 +7747,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184337Z" creationid="hcartagena" creationdate="20151119T184337Z">
         <seg>El archivo TMX fue creado con OmegaT 1.4.x o anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS API key not found.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161508Z" creationid="Antonio" creationdate="20151126T161508Z">
+        <seg>No se encuentra la clave de la API de TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -8678,6 +8710,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161615Z" creationid="Antonio" creationdate="20151126T161604Z">
+        <seg>Solicitud no autorizada al servicio TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131647Z" creationid="Helli" creationdate="20150526T131647Z">
@@ -9229,6 +9269,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191856Z" creationid="hcartagena" creationdate="20151117T191803Z">
         <seg>No existe la carpeta indicada para el archivo de glosario editable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161547Z" creationid="Antonio" creationdate="20151126T161547Z">
+        <seg>Formato de respuesta erróneo del servicio TaaS</seg>
       </tuv>
     </tu>
     <tu>
