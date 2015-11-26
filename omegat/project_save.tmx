@@ -3158,10 +3158,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194142Z" creationid="Víctor Parra" creationdate="20151126T194142Z">
+        <seg>DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233952Z" creationid="hcartagena" creationdate="20151124T233952Z">
         <seg>Acoplar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194145Z" creationid="Víctor Parra" creationdate="20151126T194145Z">
+        <seg>DokuWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4674,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194136Z" creationid="Víctor Parra" creationdate="20151126T194136Z">
+        <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T115703Z" creationid="Antonio" creationdate="20151120T115703Z">
@@ -6142,6 +6166,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194147Z" creationid="Víctor Parra" creationdate="20151126T194147Z">
+        <seg>OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203702Z" creationid="hcartagena" creationdate="20151119T203702Z">
@@ -6667,6 +6699,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194124Z" creationid="Víctor Parra" creationdate="20151126T194124Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131551Z" creationid="Helli" creationdate="20150526T131551Z">
@@ -7016,6 +7056,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161618Z" creationid="Antonio" creationdate="20151126T161618Z">
         <seg>Error de solicitud: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194129Z" creationid="Víctor Parra" creationdate="20151126T194129Z">
+        <seg>ResX</seg>
       </tuv>
     </tu>
     <tu>
@@ -8886,6 +8934,22 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194133Z" creationid="Víctor Parra" creationdate="20151126T194133Z">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194135Z" creationid="Víctor Parra" creationdate="20151126T194135Z">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193423Z" creationid="hcartagena" creationdate="20151117T193423Z">
@@ -9354,6 +9418,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194139Z" creationid="Víctor Parra" creationdate="20151126T194139Z">
+        <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T200623Z" creationid="hcartagena" creationdate="20151116T200623Z">
@@ -9481,6 +9553,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194138Z" creationid="Víctor Parra" creationdate="20151126T194138Z">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142502Z" creationid="hcartagena" creationdate="20151117T142502Z">
@@ -9525,6 +9605,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230820Z" creationid="hcartagena" creationdate="20151119T230820Z">
         <seg>Opciones del filtro XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194127Z" creationid="Víctor Parra" creationdate="20151126T194127Z">
+        <seg>XLIFF</seg>
       </tuv>
     </tu>
     <tu>
