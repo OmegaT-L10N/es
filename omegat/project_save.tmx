@@ -1873,6 +1873,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T151021Z" creationid="Antonio" creationdate="20151126T151021Z">
+        <seg>Ya existe un elemento denominado "{0}" en esta ubicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T183957Z" creationid="hcartagena" creationdate="20151117T140846Z">
@@ -2978,6 +2986,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211732Z" creationid="hcartagena" creationdate="20151119T211732Z">
         <seg>Dib&amp;ujos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T151138Z" creationid="Antonio" creationdate="20151126T151138Z">
+        <seg>Suelte un proyecto aquí para abrirlo.</seg>
       </tuv>
     </tu>
     <tu>
