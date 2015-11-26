@@ -8199,14 +8199,6 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>T&amp;Ms</seg>
-      </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202725Z" creationid="hcartagena" creationdate="20151116T202725Z">
-        <seg>&amp;Memorias</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184337Z" creationid="hcartagena" creationdate="20151119T184337Z">
