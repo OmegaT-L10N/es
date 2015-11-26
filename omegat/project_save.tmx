@@ -994,8 +994,8 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       <tuv lang="EN">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195302Z" creationid="Víctor Parra" creationdate="20151126T195302Z">
-        <seg>&amp;Tipografía de Título</seg>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195340Z" creationid="Víctor Parra" creationdate="20151126T195302Z">
+        <seg>&amp;Tipografía de título</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3170,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212154Z" creationid="hcartagena" creationdate="20151119T212154Z">
         <seg>Didier Briel es el administrador del proyecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195335Z" creationid="Víctor Parra" creationdate="20151126T195335Z">
+        <seg>Mostrar &amp;segmentos originales</seg>
       </tuv>
     </tu>
     <tu>
