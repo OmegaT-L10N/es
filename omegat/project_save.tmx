@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161906Z" creationid="Antonio" creationdate="20151126T161906Z">
+        <seg>&amp;Examinar colecciones de TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191938Z" creationid="hcartagena" creationdate="20151116T191938Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230718Z" creationid="hcartagena" creationdate="20151124T230718Z">
         <seg>&amp;No eliminar escape de literales de Unicode (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161657Z" creationid="Antonio" creationdate="20151126T161657Z">
+        <seg>&amp;Descargar</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161849Z" creationid="Antonio" creationdate="20151126T161849Z">
+        <seg>&amp;Seleccionar el dominio de búsqueda de la terminología TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203851Z" creationid="hcartagena" creationdate="20151119T203843Z">
@@ -884,6 +908,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203658Z" creationid="hcartagena" creationdate="20151116T203658Z">
         <seg>E&amp;stadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161828Z" creationid="Antonio" creationdate="20151126T161828Z">
+        <seg>Consulta de la terminología de &amp;TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1857,6 +1889,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235916Z" creationid="Usuario" creationdate="20150603T235916Z">
         <seg>Todas las colecciones (públicas y privadas ) se pueden consultar en la lengua origen y meta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161649Z" creationid="Antonio" creationdate="20151126T161649Z">
+        <seg>Todos los dominios</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,6 +2902,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161742Z" creationid="Antonio" creationdate="20151126T161742Z">
+        <seg>Descripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DictZip from JDict (GPL)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230900Z" creationid="hcartagena" creationdate="20151124T230900Z">
@@ -3050,6 +3098,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233952Z" creationid="hcartagena" creationdate="20151124T233952Z">
         <seg>Acoplar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161702Z" creationid="Antonio" creationdate="20151126T161702Z">
+        <seg>Dominios</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,6 +5494,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161745Z" creationid="Antonio" creationdate="20151126T161745Z">
+        <seg>Nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130857Z" creationid="Helli" creationdate="20150526T130857Z">
@@ -6884,6 +6948,22 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161644Z" creationid="Antonio" creationdate="20151126T161644Z">
+        <seg>Recuperar lista de colección...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161625Z" creationid="Antonio" creationdate="20151126T161625Z">
+        <seg>Recuperar lista de dominio...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115009Z" creationid="Helli" creationdate="20150526T114829Z">
@@ -7366,6 +7446,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161640Z" creationid="Antonio" creationdate="20151126T161640Z">
+        <seg>Seleccionar el dominio de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212623Z" creationid="hcartagena" creationdate="20151119T212623Z">
@@ -7506,6 +7594,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T154447Z" creationid="hcartagena" creationdate="20151117T154447Z">
         <seg>Subdirectorio de archivos fuente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161738Z" creationid="Antonio" creationdate="20151126T161738Z">
+        <seg>Recuento del origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -7759,6 +7855,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161748Z" creationid="Antonio" creationdate="20151126T161748Z">
+        <seg>Colecciones de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="ES">
@@ -7859,6 +7963,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T153318Z" creationid="Antonio" creationdate="20151126T153318Z">
         <seg>Etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161716Z" creationid="Antonio" creationdate="20151126T161716Z">
+        <seg>Recuento del destinoQ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8886,6 +8998,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T153943Z" creationid="Antonio" creationdate="20151126T153943Z">
         <seg>Texto de los segmentos sin traducir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T161700Z" creationid="Antonio" creationdate="20151126T161700Z">
+        <seg>Actualizado</seg>
       </tuv>
     </tu>
     <tu>
