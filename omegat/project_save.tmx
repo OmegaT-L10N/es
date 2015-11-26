@@ -2926,6 +2926,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T184850Z" creationid="Víctor Parra" creationdate="20151126T184850Z">
+        <seg>&amp;Diccionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233720Z" creationid="hcartagena" creationdate="20151124T233720Z">
