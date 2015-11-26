@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154912Z" creationid="Antonio" creationdate="20151126T154912Z">
+        <seg>&amp;Seleccionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203851Z" creationid="hcartagena" creationdate="20151119T203843Z">
@@ -1622,6 +1630,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191000Z" creationid="hcartagena" creationdate="20151117T191000Z">
         <seg>&lt;html&gt;Los comandos externos por proyecto están deshabilitados y no se ejecutarán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154855Z" creationid="Antonio" creationdate="20151126T154855Z">
+        <seg>&lt;html&gt;Puede agregar patrones usando comodines (estilo hormiga): ' * ','?' y ' **', como ' ** / SVN / **'&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,6 +2822,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154811Z" creationid="Antonio" creationdate="20151126T154811Z">
+        <seg>Selección de colores personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cycle Case To...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134126Z" creationid="Helli" creationdate="20150526T134126Z">
@@ -3585,6 +3609,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion patterns</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154905Z" creationid="Antonio" creationdate="20151126T154905Z">
+        <seg>Patrones de exclusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142231Z" creationid="hcartagena" creationdate="20151117T142231Z">
@@ -4102,6 +4134,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222207Z" creationid="hcartagena" creationdate="20151116T222207Z">
         <seg>Ir al segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154926Z" creationid="Antonio" creationdate="20151126T154926Z">
+        <seg>**Vaya a https://demo.taas-project.eu/account/keys/create?system=omegaT para crear su propia clave y luego registrarla en OmegaT con -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5104,6 +5144,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135910Z" creationid="Helli" creationdate="20150526T135910Z">
         <seg>Whitespace Marcado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154900Z" creationid="Antonio" creationdate="20151126T154900Z">
+        <seg>Máscara</seg>
       </tuv>
     </tu>
     <tu>
