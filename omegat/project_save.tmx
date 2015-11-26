@@ -3929,6 +3929,38 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153023Z" creationid="Antonio" creationdate="20151126T153023Z">
+        <seg>De la memoria 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153033Z" creationid="Antonio" creationdate="20151126T153033Z">
+        <seg>De la memoria ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153005Z" creationid="Antonio" creationdate="20151126T153005Z">
+        <seg>De la memoria automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153039Z" creationid="Antonio" creationdate="20151126T153039Z">
+        <seg>De la memoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233032Z" creationid="hcartagena" creationdate="20151124T233032Z">
@@ -4756,6 +4788,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152948Z" creationid="Antonio" creationdate="20151126T152948Z">
+        <seg>Corrector ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language Name</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230842Z" creationid="hcartagena" creationdate="20151119T230842Z">
@@ -5048,6 +5088,54 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231126Z" creationid="hcartagena" creationdate="20151124T231126Z">
         <seg>Coincidir con plantilla de visualización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152916Z" creationid="Antonio" creationdate="20151126T152916Z">
+        <seg>Concordancias con cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152826Z" creationid="Antonio" creationdate="20151126T152826Z">
+        <seg>Concordancias borrada activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152813Z" creationid="Antonio" creationdate="20151126T152813Z">
+        <seg>Concordancias borradas inactivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152856Z" creationid="Antonio" creationdate="20151126T152856Z">
+        <seg>Concordancias insertadas activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152837Z" creationid="Antonio" creationdate="20151126T152837Z">
+        <seg>Concordancias insertadas inactivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152908Z" creationid="Antonio" creationdate="20151126T152908Z">
+        <seg>Concordancias sin cambios</seg>
       </tuv>
     </tu>
     <tu>
@@ -6540,6 +6628,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152953Z" creationid="Antonio" creationdate="20151126T152953Z">
+        <seg>&amp;Reemplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace With Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132621Z" creationid="Helli" creationdate="20150526T131725Z">
@@ -7290,6 +7386,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T142954Z" creationid="Helli" creationdate="20150526T142954Z">
         <seg>Corrector ortográfico...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152926Z" creationid="Antonio" creationdate="20151126T152926Z">
+        <seg>Corrector ortográfico</seg>
       </tuv>
     </tu>
     <tu>
@@ -8104,6 +8208,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193508Z" creationid="hcartagena" creationdate="20151117T193508Z">
         <seg>Con y sin tra&amp;ducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152931Z" creationid="Antonio" creationdate="20151126T152931Z">
+        <seg>TransTips</seg>
       </tuv>
     </tu>
     <tu>
