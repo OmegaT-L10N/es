@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152723Z" creationid="Antonio" creationdate="20151126T152723Z">
+        <seg>&amp;Restaurar este color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221542Z" creationid="hcartagena" creationdate="20151116T221542Z">
@@ -1602,6 +1610,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152603Z" creationid="Antonio" creationdate="20151126T152603Z">
+        <seg>&lt;html&gt;&lt;i&gt;Opciones&lt;/i&gt; &amp;amp;gt; &lt;i&gt;Use TAB para avanzar&lt;/i&gt; marcada&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191000Z" creationid="hcartagena" creationdate="20151117T191000Z">
@@ -1982,6 +1998,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175424Z" creationid="hcartagena" creationdate="20151120T175424Z">
         <seg>¿Está seguro de que desea eliminar el conjunto {0} de reglas de segmentación?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152630Z" creationid="Antonio" creationdate="20151126T152630Z">
+        <seg>¿Está seguro que desea restablecer todos los colores personalizados?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2706,6 +2730,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011610Z" creationid="Víctor Parra" creationdate="20151125T011610Z">
         <seg>CTRL+Derecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152519Z" creationid="Antonio" creationdate="20151126T152519Z">
+        <seg>Ctrl+Shift+O alterna la orientación entre LTR (izda a dcha), RTL (dcha a izda) y a dependiente del idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -4132,6 +4164,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152736Z" creationid="Antonio" creationdate="20151126T152736Z">
+        <seg>Hipervínculos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203003Z" creationid="hcartagena" creationdate="20151116T203003Z">
@@ -4560,6 +4600,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165318Z" creationid="hcartagena" creationdate="20151120T165318Z">
         <seg>Italiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152730Z" creationid="Antonio" creationdate="20151126T152730Z">
+        <seg>Elemento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5855,6 +5903,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152611Z" creationid="Antonio" creationdate="20151126T152611Z">
+        <seg>Reinicie la aplicación para mostrar correctamente los nuevos colores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192025Z" creationid="hcartagena" creationdate="20151117T192025Z">
@@ -6520,6 +6576,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192443Z" creationid="hcartagena" creationdate="20151117T192443Z">
         <seg>Reemplazar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset &amp;All Colours</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152703Z" creationid="Antonio" creationdate="20151126T152703Z">
+        <seg>Rest&amp;aurar todos los colores</seg>
       </tuv>
     </tu>
     <tu>
@@ -7732,6 +7796,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191627Z" creationid="hcartagena" creationdate="20151117T191627Z">
         <seg>El código de idioma debe ingresarse con el formato xx-YY, xxx-YY, xx_YY o xxx_YY, donde 
 xx o xxx es el código de idioma y YY es el código de región o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152619Z" creationid="Antonio" creationdate="20151126T152619Z">
+        <seg>Los nuevos colores se han guardado.</seg>
       </tuv>
     </tu>
     <tu>
