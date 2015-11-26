@@ -1108,6 +1108,22 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194014Z" creationid="Víctor Parra" creationdate="20151126T194014Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194016Z" creationid="Víctor Parra" creationdate="20151126T194016Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203031Z" creationid="hcartagena" creationdate="20151116T193149Z">
@@ -1282,6 +1298,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194028Z" creationid="Víctor Parra" creationdate="20151126T194028Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>6.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T120409Z" creationid="Antonio" creationdate="20151120T120409Z">
@@ -1306,10 +1330,34 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194027Z" creationid="Víctor Parra" creationdate="20151126T194027Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>8. Help Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144011Z" creationid="Helli" creationdate="20150526T144011Z">
         <seg>8. Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194026Z" creationid="Víctor Parra" creationdate="20151126T194026Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194025Z" creationid="Víctor Parra" creationdate="20151126T194025Z">
+        <seg>95%-100%:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,6 +3302,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194032Z" creationid="Víctor Parra" creationdate="20151126T194032Z">
+        <seg>ERROR: {0}Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212957Z" creationid="hcartagena" creationdate="20151119T212957Z">
@@ -4964,6 +5020,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194042Z" creationid="Víctor Parra" creationdate="20151126T194042Z">
+        <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language Checker</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T152948Z" creationid="Antonio" creationdate="20151126T152948Z">
@@ -5502,10 +5566,26 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194054Z" creationid="Víctor Parra" creationdate="20151126T194054Z">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201851Z" creationid="hcartagena" creationdate="20151119T201851Z">
         <seg>Opciones del filtro Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194102Z" creationid="Víctor Parra" creationdate="20151126T194102Z">
+        <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -5801,8 +5881,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T192353Z" creationid="Víctor Parra" creationdate="20151124T192353Z">
-        <seg>Acerca de OmegaT</seg>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T193902Z" creationid="Víctor Parra" creationdate="20151124T192353Z">
+        <seg>OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6202,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201800Z" creationid="hcartagena" creationdate="20151119T201800Z">
         <seg>PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194050Z" creationid="Víctor Parra" creationdate="20151126T194044Z">
+        <seg>PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -8572,6 +8660,22 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194022Z" creationid="Víctor Parra" creationdate="20151126T194022Z">
+        <seg>Total:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tra&amp;nsTips</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T193955Z" creationid="Víctor Parra" creationdate="20151126T193955Z">
+        <seg>Consejos de Traducció&amp;n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193508Z" creationid="hcartagena" creationdate="20151117T193508Z">
@@ -9772,6 +9876,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T164216Z" creationid="hcartagena" creationdate="20151118T164216Z">
         <seg>{0} +{1} más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T193932Z" creationid="Víctor Parra" creationdate="20151126T193932Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T193933Z" creationid="Víctor Parra" creationdate="20151126T193933Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T193914Z" creationid="Víctor Parra" creationdate="20151126T193914Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
     </tu>
     <tu>
