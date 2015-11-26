@@ -1756,6 +1756,38 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154512Z" creationid="Antonio" creationdate="20151126T154512Z">
+        <seg>Origen del segmento activo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154452Z" creationid="Antonio" creationdate="20151126T154445Z">
+        <seg>Texto de origen del segmento activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154431Z" creationid="Antonio" creationdate="20151126T154431Z">
+        <seg>Destino del segmento activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154414Z" creationid="Antonio" creationdate="20151126T154414Z">
+        <seg>Texto destino del segmento activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213654Z" creationid="hcartagena" creationdate="20151119T213654Z">
@@ -2116,6 +2148,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230519Z" creationid="hcartagena" creationdate="20151124T230519Z">
         <seg>Se respaldaron las preferencias en {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154522Z" creationid="Antonio" creationdate="20151126T154522Z">
+        <seg>Fondo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5636,6 +5676,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235256Z" creationid="Usuario" creationdate="20150603T235256Z">
         <seg>OmegaT 3.1 - Guía de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Custom Colours</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154534Z" creationid="Antonio" creationdate="20151126T154534Z">
+        <seg>Colores personalizados de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
