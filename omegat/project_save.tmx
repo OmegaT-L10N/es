@@ -5212,6 +5212,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153838Z" creationid="Antonio" creationdate="20151126T153838Z">
+        <seg>Modificación info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232452Z" creationid="hcartagena" creationdate="20151124T232452Z">
@@ -5224,6 +5232,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232507Z" creationid="hcartagena" creationdate="20151124T232507Z">
         <seg>Plantilla de información sobre modificaciones de segmentos sin fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153827Z" creationid="Antonio" creationdate="20151126T153827Z">
+        <seg>Modificación texto info</seg>
       </tuv>
     </tu>
     <tu>
@@ -5459,6 +5475,22 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T153239Z" creationid="Antonio" creationdate="20151126T153239Z">
         <seg>Espacios irrompibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153901Z" creationid="Antonio" creationdate="20151126T153901Z">
+        <seg>Segmentos no únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153852Z" creationid="Antonio" creationdate="20151126T153852Z">
+        <seg>Fondo de los segmentos no únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8348,6 +8380,22 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153925Z" creationid="Antonio" creationdate="20151126T153925Z">
+        <seg>Segmentos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153915Z" creationid="Antonio" creationdate="20151126T153915Z">
+        <seg>Texto de los segmentos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223723Z" creationid="hcartagena" creationdate="20151116T223723Z">
@@ -8638,6 +8686,22 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T225018Z" creationid="hcartagena" creationdate="20151118T225018Z">
         <seg>La versión del archivo de proyecto ({0}) no es compatible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153951Z" creationid="Antonio" creationdate="20151126T153951Z">
+        <seg>Segmentos sin traducir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T153943Z" creationid="Antonio" creationdate="20151126T153943Z">
+        <seg>Texto de los segmentos sin traducir</seg>
       </tuv>
     </tu>
     <tu>
