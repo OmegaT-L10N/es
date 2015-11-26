@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3_0_r7939" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2990,10 +2990,34 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152341Z" creationid="Antonio" creationdate="20151126T152341Z">
+        <seg>Suelte archivos TMX aquí para agregarlos al proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop a project here to open it.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T151138Z" creationid="Antonio" creationdate="20151126T151138Z">
         <seg>Suelte un proyecto aquí para abrirlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152405Z" creationid="Antonio" creationdate="20151126T152405Z">
+        <seg>Suelte archivos aquí para agregarlos al proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T152355Z" creationid="Antonio" creationdate="20151126T152355Z">
+        <seg>Suelte archivos de glosario aquí para agregarlos al proyecto.</seg>
       </tuv>
     </tu>
     <tu>
