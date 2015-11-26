@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Choose...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194753Z" creationid="Víctor Parra" creationdate="20151126T194753Z">
+        <seg>&amp;Seleccionar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191942Z" creationid="hcartagena" creationdate="20151116T191942Z">
@@ -466,6 +474,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202926Z" creationid="hcartagena" creationdate="20151116T202926Z">
         <seg>&amp;Insertar coincidencia o selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Install new dictionary...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194812Z" creationid="Víctor Parra" creationdate="20151126T194812Z">
+        <seg>&amp;Instalar nuevo diccionario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2490,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot install</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194904Z" creationid="Víctor Parra" creationdate="20151126T194904Z">
+        <seg>No se puede installar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot load specified XML file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191757Z" creationid="hcartagena" creationdate="20151118T191757Z">
@@ -2730,6 +2754,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213002Z" creationid="hcartagena" creationdate="20151119T213002Z">
         <seg>Confirmar eliminación del patrón {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm uninstalling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194845Z" creationid="Víctor Parra" creationdate="20151126T194845Z">
+        <seg>Confirmar desinstalación</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,10 +3030,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries already installed:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194734Z" creationid="Víctor Parra" creationdate="20151126T194734Z">
+        <seg>Diccionarios ya instalados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233720Z" creationid="hcartagena" creationdate="20151124T233720Z">
         <seg>Diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194752Z" creationid="Víctor Parra" creationdate="20151126T194752Z">
+        <seg>Subdirectorio de archivos del diccionario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,6 +3066,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T190838Z" creationid="hcartagena" creationdate="20151117T190838Z">
         <seg>Carpeta de diccionarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194742Z" creationid="Víctor Parra" creationdate="20151126T194742Z">
+        <seg>Subdirectorio de archivos del diccionario:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4117,6 +4173,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192020Z" creationid="hcartagena" creationdate="20151117T192020Z">
         <seg>La carpeta ya existe y no está vacía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195022Z" creationid="Víctor Parra" creationdate="20151126T195022Z">
+        <seg>El directorio no existe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6506,6 +6570,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194839Z" creationid="Víctor Parra" creationdate="20151126T194839Z">
+        <seg>¿Desea continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project &amp;Files...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202622Z" creationid="hcartagena" creationdate="20151116T202622Z">
@@ -8432,6 +8504,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194927Z" creationid="Víctor Parra" creationdate="20151126T194927Z">
+        <seg>El directorio de diccionarios especificado no se puede utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011334Z" creationid="Víctor Parra" creationdate="20151125T011334Z">
@@ -8966,6 +9046,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL of online dictionaries:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194832Z" creationid="Víctor Parra" creationdate="20151126T194832Z">
+        <seg>URL de diccionarios en línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142025Z" creationid="hcartagena" creationdate="20151117T142025Z">
@@ -9014,6 +9102,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to uninstall the selected dictionary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194848Z" creationid="Víctor Parra" creationdate="20151126T194848Z">
+        <seg>No se puede desinstalar el diccionario seleccionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unauthorized request to TaaS service</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161615Z" creationid="Antonio" creationdate="20151126T161604Z">
@@ -9042,6 +9138,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191847Z" creationid="hcartagena" creationdate="20151118T191847Z">
         <seg>Carácter inesperado {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling failed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194854Z" creationid="Víctor Parra" creationdate="20151126T194854Z">
+        <seg>Falló la desinstalación</seg>
       </tuv>
     </tu>
     <tu>
@@ -9645,6 +9749,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193725Z" creationid="hcartagena" creationdate="20151117T193725Z">
         <seg>Se modificarán {0} segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194836Z" creationid="Víctor Parra" creationdate="20151126T194836Z">
+        <seg>Usted está desinstalando el diccionario del corrector ortográfico que su proyecto está utilizando.</seg>
       </tuv>
     </tu>
     <tu>
