@@ -4140,8 +4140,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T154926Z" creationid="Antonio" creationdate="20151126T154926Z">
-        <seg>**Vaya a https://demo.taas-project.eu/account/keys/create?system=omegaT para crear su propia clave y luego registrarla en OmegaT con -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T155651Z" creationid="Antonio" creationdate="20151126T154926Z">
+        <seg>Vaya a https://demo.taas-project.eu/account/keys/create?system=omegaT para crear su propia clave y luego registrarla en OmegaT con -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
       </tuv>
     </tu>
     <tu>
