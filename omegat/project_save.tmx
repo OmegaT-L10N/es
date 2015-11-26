@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195318Z" creationid="Víctor Parra" creationdate="20151126T195318Z">
+        <seg>&amp;Intercambiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Defaults</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213050Z" creationid="hcartagena" creationdate="20151119T213050Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202322Z" creationid="hcartagena" creationdate="20151119T202322Z">
         <seg>Saltos de &amp;línea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Lower Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195231Z" creationid="Víctor Parra" creationdate="20151126T195213Z">
+        <seg>&amp;Minúsculas</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195152Z" creationid="Víctor Parra" creationdate="20151126T195152Z">
+        <seg>&amp;Fuente (segmento {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203036Z" creationid="hcartagena" creationdate="20151116T202734Z">
@@ -968,6 +992,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195302Z" creationid="Víctor Parra" creationdate="20151126T195302Z">
+        <seg>&amp;Tipografía de Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203630Z" creationid="hcartagena" creationdate="20151116T203630Z">
@@ -1000,6 +1032,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Upper Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195222Z" creationid="Víctor Parra" creationdate="20151126T195222Z">
+        <seg>&amp;Mayúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221220Z" creationid="hcartagena" creationdate="20151116T221220Z">
@@ -1028,6 +1068,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203638Z" creationid="hcartagena" creationdate="20151116T203638Z">
         <seg>&amp;Validar etiquetas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195320Z" creationid="Víctor Parra" creationdate="20151126T195320Z">
+        <seg>&amp;Ver</seg>
       </tuv>
     </tu>
     <tu>
@@ -2029,6 +2077,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195143Z" creationid="Víctor Parra" creationdate="20151126T195143Z">
+        <seg>Ha ocurrido un error al descargar el diccionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T150156Z" creationid="Antonio" creationdate="20151126T150156Z">
@@ -2252,6 +2308,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T202341Z" creationid="hcartagena" creationdate="20151117T202341Z">
         <seg>Sincronizar con el editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available dictionaries:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195207Z" creationid="Víctor Parra" creationdate="20151126T195207Z">
+        <seg>Diccionarios disponibles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2814,6 +2878,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195131Z" creationid="Víctor Parra" creationdate="20151126T195131Z">
+        <seg>No se ha podido crear la carpeta esfecificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185709Z" creationid="hcartagena" creationdate="20151119T185709Z">
@@ -3070,6 +3142,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Installer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195155Z" creationid="Víctor Parra" creationdate="20151126T195155Z">
+        <seg>Instalador de diccionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary file folder:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194742Z" creationid="Víctor Parra" creationdate="20151126T194742Z">
@@ -3210,6 +3290,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193730Z" creationid="hcartagena" creationdate="20151117T193730Z">
         <seg>¿Desea continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195110Z" creationid="Víctor Parra" creationdate="20151126T195110Z">
+        <seg>¿Quiere crearla?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4179,8 +4267,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Folder does not exist</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195022Z" creationid="Víctor Parra" creationdate="20151126T195022Z">
-        <seg>El directorio no existe</seg>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195045Z" creationid="Víctor Parra" creationdate="20151126T195022Z">
+        <seg>La carpeta no existe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,6 +4902,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175554Z" creationid="hcartagena" creationdate="20151120T175554Z">
         <seg>Insertar la coincidencia parcial &amp;más cercana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195205Z" creationid="Víctor Parra" creationdate="20151126T195205Z">
+        <seg>Instalar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5815,6 +5911,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No new dictionaries available at the remote server.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195159Z" creationid="Víctor Parra" creationdate="20151126T195159Z">
+        <seg>No hay nuevos diccionarios disponibles en el servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No tag errors detected</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222055Z" creationid="hcartagena" creationdate="20151116T222055Z">
@@ -6447,6 +6551,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select the dictionaries you want to install and press the Install button.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195156Z" creationid="Víctor Parra" creationdate="20151126T195156Z">
+        <seg>Por favor, seleccione los diccionarios que desee instalar y pulse el botón Instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select the language of your source files and the target 
 language you would like to translate to.</seg>
       </tuv>
@@ -6469,6 +6581,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233016Z" creationid="hcartagena" creationdate="20151124T233016Z">
         <seg>Seleccione el comportamiento que corresponda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195149Z" creationid="Víctor Parra" creationdate="20151126T195149Z">
+        <seg>Por favor, inténtelo de nuevo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7248,6 +7368,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192832Z" creationid="hcartagena" creationdate="20151117T192832Z">
         <seg>E&amp;spacio encuentra nbsp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;witch Case To</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195240Z" creationid="Víctor Parra" creationdate="20151126T195212Z">
+        <seg>I&amp;ntercambiar mayús/minús...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8506,8 +8634,16 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194927Z" creationid="Víctor Parra" creationdate="20151126T194927Z">
-        <seg>El directorio de diccionarios especificado no se puede utilizar.</seg>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195036Z" creationid="Víctor Parra" creationdate="20151126T194927Z">
+        <seg>La carpeta de diccionarios especificada no se puede utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195102Z" creationid="Víctor Parra" creationdate="20151126T195102Z">
+        <seg>La carpeta de diccionarios especificada no existe.</seg>
       </tuv>
     </tu>
     <tu>
