@@ -7006,6 +7006,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154133Z" creationid="Antonio" creationdate="20151126T154133Z">
+        <seg>Fondo del marcador de segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154147Z" creationid="Antonio" creationdate="20151126T154147Z">
+        <seg>Texto del marcador del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment number...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135046Z" creationid="Helli" creationdate="20150526T135046Z">
@@ -7074,6 +7090,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223548Z" creationid="hcartagena" creationdate="20151116T223548Z">
         <seg>Segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154031Z" creationid="Antonio" creationdate="20151126T154031Z">
+        <seg>Segmentos con notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154027Z" creationid="Antonio" creationdate="20151126T154027Z">
+        <seg>Texto de los segmentos con notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -7394,6 +7426,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192717Z" creationid="hcartagena" creationdate="20151119T184103Z">
         <seg>No se ha podido localizar el segmento original de algunas unidades de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154121Z" creationid="Antonio" creationdate="20151126T154121Z">
+        <seg>Segmentos de origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T154115Z" creationid="Antonio" creationdate="20151126T154115Z">
+        <seg>Texto de los segmentos origen</seg>
       </tuv>
     </tu>
     <tu>
