@@ -1,0 +1,5 @@
+source	original	como adjetivo, salvo si acompaña a "language" o a "term"
+source	de origen	cuando acompaña a "language" y a "term", de lo contrario usar "original"
+target	traducido	como adjetivo, salvo si acompaña a "language" o a "term"
+target	de destino	cuando acompaña a "language" o a "term"
+e.g.	por ejemplo	preferir situarlo al final.
