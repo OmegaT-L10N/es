@@ -1837,6 +1837,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T150156Z" creationid="Antonio" creationdate="20151126T150156Z">
+        <seg>Error al abrir el elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192434Z" creationid="hcartagena" creationdate="20151117T192434Z">
