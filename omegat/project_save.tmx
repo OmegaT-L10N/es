@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151126T150336Z" creationid="Antonio" creationdate="20151126T150336Z">
+        <seg>&amp;Aplicar a todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T190854Z" creationid="hcartagena" creationdate="20151117T190854Z">
