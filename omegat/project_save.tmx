@@ -8230,6 +8230,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show source term first</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T082523Z" creationid="Antonio" creationdate="20151127T082523Z">
+        <seg>Mostrar primero el término de origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplify tooltips on protected parts</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232443Z" creationid="hcartagena" creationdate="20151124T232437Z">
