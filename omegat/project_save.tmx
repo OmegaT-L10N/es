@@ -2066,6 +2066,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align project against {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172546Z" creationid="Antonio" creationdate="20151127T172546Z">
+        <seg>Alinear el proyecto contra {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235916Z" creationid="Usuario" creationdate="20150603T235916Z">
@@ -2174,6 +2182,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192434Z" creationid="hcartagena" creationdate="20151117T192434Z">
         <seg>Error al intentar crear una carpeta nueva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172512Z" creationid="Antonio" creationdate="20151127T172512Z">
+        <seg>Se ha producido un error al intentar ejecutar el proceso de consola: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4991,6 +5007,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172429Z" creationid="Antonio" creationdate="20151127T172429Z">
+        <seg>La carpeta de {0} de glosario no existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222207Z" creationid="hcartagena" creationdate="20151116T222207Z">
@@ -5896,6 +5920,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114837Z" creationid="Helli" creationdate="20150526T114604Z">
         <seg>Cargue un guión al editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172525Z" creationid="Antonio" creationdate="20151127T172525Z">
+        <seg>Cargando proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7162,6 +7194,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172320Z" creationid="Antonio" creationdate="20151127T172320Z">
+        <seg>Es posible que ya esté abierta otra instancia de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T220804Z" creationid="hcartagena" creationdate="20151117T220804Z">
@@ -7584,6 +7624,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000331Z" creationid="hcartagena" creationdate="20151125T000331Z">
         <seg>Inicio de carga del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172333Z" creationid="Antonio" creationdate="20151127T172328Z">
+        <seg>Proyecto bloqueado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8234,6 +8282,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172246Z" creationid="Antonio" creationdate="20151127T172246Z">
         <seg>La ejecución de '{0}' de SVN ha terminado con éxito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172301Z" creationid="Antonio" creationdate="20151127T172301Z">
+        <seg>Inicio de la ejecución de '{0}' de SVN</seg>
       </tuv>
     </tu>
     <tu>
@@ -8936,6 +8992,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172457Z" creationid="Antonio" creationdate="20151127T172457Z">
+        <seg>La carpeta de {0} de origen no existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183657Z" creationid="hcartagena" creationdate="20151119T183657Z">
@@ -9329,6 +9393,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172444Z" creationid="Antonio" creationdate="20151127T172444Z">
+        <seg>La carpeta de {0} de destino no existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target term:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232730Z" creationid="hcartagena" creationdate="20151124T232730Z">
@@ -9671,6 +9743,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172517Z" creationid="Antonio" creationdate="20151127T172517Z">
+        <seg>El proyecto no puede ser verificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project folder {0} is missing and could not be created.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164203Z" creationid="Antonio" creationdate="20151127T164203Z">
@@ -9723,6 +9803,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163153Z" creationid="Antonio" creationdate="20151127T163153Z">
         <seg>La traducción ha cambiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172353Z" creationid="Antonio" creationdate="20151127T172329Z">
+        <seg>El archivo de glosario editable no está en la carpeta de glosarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -10171,6 +10259,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated files location not defined</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172603Z" creationid="Antonio" creationdate="20151127T172603Z">
+        <seg>No se ha definido la ubicación de los archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated segments</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T153925Z" creationid="Antonio" creationdate="20151126T153925Z">
@@ -10239,6 +10335,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192002Z" creationid="hcartagena" creationdate="20151117T191840Z">
         <seg>No existe la carpeta indicada para los archivos de memoria de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172414Z" creationid="Antonio" creationdate="20151127T172414Z">
+        <seg>La carpeta de memorias de traducción {0} no existe.</seg>
       </tuv>
     </tu>
     <tu>
