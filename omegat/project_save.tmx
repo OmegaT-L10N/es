@@ -2772,6 +2772,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173503Z" creationid="Antonio" creationdate="20151127T173503Z">
+        <seg>No se puede leer el archivo de script seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213024Z" creationid="hcartagena" creationdate="20151119T213024Z">
