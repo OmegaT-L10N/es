@@ -2352,6 +2352,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081508Z" creationid="Antonio" creationdate="20151127T081508Z">
+        <seg>Archivo de autotexto (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195207Z" creationid="Víctor Parra" creationdate="20151126T195207Z">
@@ -2698,6 +2706,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081359Z" creationid="Antonio" creationdate="20151127T081359Z">
+        <seg>Opiones Autorrellenador de la tabla de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142514Z" creationid="hcartagena" creationdate="20151117T142514Z">
@@ -2834,6 +2850,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211452Z" creationid="hcartagena" creationdate="20151119T211452Z">
         <seg>Come&amp;ntarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081402Z" creationid="Antonio" creationdate="20151127T081402Z">
+        <seg>Comentario</seg>
       </tuv>
     </tu>
     <tu>
@@ -4541,6 +4565,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T081020Z" creationid="Antonio" creationdate="20151127T081020Z">
         <seg>Tabla completa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081405Z" creationid="Antonio" creationdate="20151127T081405Z">
+        <seg>Texto completo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8126,6 +8158,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081410Z" creationid="Antonio" creationdate="20151127T081410Z">
+        <seg>Acceso rápido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcuts customization</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124321Z" creationid="Helli" creationdate="20150526T123650Z">
@@ -9522,6 +9562,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191523Z" creationid="hcartagena" creationdate="20151117T191518Z">
         <seg>No se pudo leer el archivo del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081431Z" creationid="Antonio" creationdate="20151127T081431Z">
+        <seg>No es posible guardar los datos.</seg>
       </tuv>
     </tu>
     <tu>
