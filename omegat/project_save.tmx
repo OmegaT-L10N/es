@@ -2660,6 +2660,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancelled creating new team project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164544Z" creationid="Antonio" creationdate="20151127T164544Z">
+        <seg>Se canceló la creación de un nuevo proyecto de equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142148Z" creationid="hcartagena" creationdate="20151117T142148Z">
@@ -8915,6 +8923,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronization error</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164549Z" creationid="Antonio" creationdate="20151127T164549Z">
+        <seg>Error de sincronización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184337Z" creationid="hcartagena" creationdate="20151119T184337Z">
@@ -9087,6 +9103,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175432Z" creationid="hcartagena" creationdate="20151120T175432Z">
         <seg>Opciones de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164615Z" creationid="Antonio" creationdate="20151127T164615Z">
+        <seg>Sincronización de equipo: Guardando la traducción en {0} s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164621Z" creationid="Antonio" creationdate="20151127T164621Z">
+        <seg>Sincronización de eq</seg>
       </tuv>
     </tu>
     <tu>
