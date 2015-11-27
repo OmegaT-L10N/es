@@ -2146,6 +2146,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the repo type.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164102Z" creationid="Antonio" creationdate="20151127T164102Z">
+        <seg>Se produjo un error al intentar detectar el tipo de repo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195143Z" creationid="Víctor Parra" creationdate="20151126T195143Z">
@@ -3072,6 +3080,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164138Z" creationid="Antonio" creationdate="20151127T164138Z">
+        <seg>Fue imposible guardar las credenciales en un archivo de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233503Z" creationid="hcartagena" creationdate="20151124T233503Z">
@@ -3308,6 +3324,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075501Z" creationid="Antonio" creationdate="20151127T075501Z">
         <seg>Detalles no disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164110Z" creationid="Antonio" creationdate="20151127T164110Z">
+        <seg>Detectando...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9345,6 +9369,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project folder {0} is missing and could not be created.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164203Z" creationid="Antonio" creationdate="20151127T164203Z">
+        <seg>La carpeta del proyecto {0} no existe y no se puede crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191658Z" creationid="hcartagena" creationdate="20151117T191540Z">
@@ -9480,6 +9512,22 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163750Z" creationid="Antonio" creationdate="20151127T163750Z">
         <seg>Este comando se ejecutará después de crear los documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164044Z" creationid="Antonio" creationdate="20151127T164044Z">
+        <seg>Este es un repositorio de Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164035Z" creationid="Antonio" creationdate="20151127T164035Z">
+        <seg>Este es un repositorio de Subversion</seg>
       </tuv>
     </tu>
     <tu>
@@ -10318,6 +10366,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144035Z" creationid="Helli" creationdate="20150526T144035Z">
         <seg>Manual de usuario...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164218Z" creationid="Antonio" creationdate="20151127T164218Z">
+        <seg>Credenciales de usuario rechazadas</seg>
       </tuv>
     </tu>
     <tu>
