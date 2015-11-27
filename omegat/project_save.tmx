@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173743Z" creationid="Antonio" creationdate="20151127T173743Z">
+        <seg>&amp;Archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Files</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193553Z" creationid="hcartagena" creationdate="20151117T193553Z">
@@ -638,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173740Z" creationid="Antonio" creationdate="20151127T173740Z">
+        <seg>&amp;Abrir script...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202319Z" creationid="hcartagena" creationdate="20151116T202319Z">
@@ -810,6 +826,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202703Z" creationid="hcartagena" creationdate="20151116T202703Z">
         <seg>&amp;Raíz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173724Z" creationid="Antonio" creationdate="20151127T173724Z">
+        <seg>&amp;Ejecutar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +1494,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230446Z" creationid="hcartagena" creationdate="20151119T230446Z">
         <seg>&lt;&amp;br&gt; (nueva línea)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173810Z" creationid="Antonio" creationdate="20151127T173810Z">
+        <seg>&lt; VACIO &gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,6 +2210,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173656Z" creationid="Antonio" creationdate="20151127T173656Z">
+        <seg>Se produjo un error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the repo type.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164102Z" creationid="Antonio" creationdate="20151127T164102Z">
@@ -2487,6 +2527,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195207Z" creationid="Víctor Parra" creationdate="20151126T195207Z">
         <seg>Diccionarios disponibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173647Z" creationid="Antonio" creationdate="20151127T173647Z">
+        <seg>Motores de script disponibles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3908,6 +3956,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ERROR: (declaring bean)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173639Z" creationid="Antonio" creationdate="20151127T173639Z">
+        <seg>ERROR: (declaracion de bean)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ERROR: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194032Z" creationid="Víctor Parra" creationdate="20151126T194032Z">
@@ -5091,6 +5147,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222207Z" creationid="hcartagena" creationdate="20151116T222207Z">
         <seg>Ir al segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Segment Source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173823Z" creationid="Antonio" creationdate="20151127T173823Z">
+        <seg>Ir al segmento origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -6685,6 +6749,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173552Z" creationid="Antonio" creationdate="20151127T173552Z">
+        <seg>No se seleccionó ningún script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script set.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173026Z" creationid="Antonio" creationdate="20151127T173026Z">
@@ -8182,6 +8254,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173827Z" creationid="Antonio" creationdate="20151127T173827Z">
+        <seg>Sustituir la traducción con el texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace With Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132621Z" creationid="Helli" creationdate="20150526T131725Z">
@@ -8290,6 +8370,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143711Z" creationid="Helli" creationdate="20150526T143711Z">
         <seg>Restaurar Ventana Principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Result:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173718Z" creationid="Antonio" creationdate="20151127T173718Z">
+        <seg>Resultado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8544,6 +8632,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script &amp;Language</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173733Z" creationid="Antonio" creationdate="20151127T173733Z">
+        <seg>Script &amp; lenguaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script Result</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173157Z" creationid="Antonio" creationdate="20151127T173157Z">
@@ -8552,10 +8648,34 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173746Z" creationid="Antonio" creationdate="20151127T173746Z">
+        <seg>Scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting languages</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113435Z" creationid="Helli" creationdate="20150526T113017Z">
         <seg>Lenguajes de guión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173559Z" creationid="Antonio" creationdate="20151127T173559Z">
+        <seg>Carpeta de scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173612Z" creationid="Antonio" creationdate="20151127T173612Z">
+        <seg>Carpeta de scripts:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9955,6 +10075,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164203Z" creationid="Antonio" creationdate="20151127T164203Z">
         <seg>La carpeta del proyecto {0} no existe y no se puede crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173715Z" creationid="Antonio" creationdate="20151127T173715Z">
+        <seg>Se está ejecutando el "{0}"...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11807,6 +11935,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075518Z" creationid="Antonio" creationdate="20151127T075518Z">
         <seg>{0} conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} loaded.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173621Z" creationid="Antonio" creationdate="20151127T173621Z">
+        <seg>{0} cargado.</seg>
       </tuv>
     </tu>
     <tu>
