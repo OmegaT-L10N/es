@@ -1833,7 +1833,6 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
@@ -1946,7 +1945,6 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Accessing the TaaS service</seg>
       </tuv>
@@ -2059,7 +2057,6 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
@@ -2192,7 +2189,6 @@ El archivo TMX no se cargará.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
@@ -2342,7 +2338,6 @@ correcto.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Auto-completion/Character Table...</seg>
       </tuv>
@@ -2480,7 +2475,6 @@ correcto.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
@@ -4672,7 +4666,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
@@ -4769,7 +4762,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Go to https://demo.taas-project.eu/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
       </tuv>
@@ -4991,7 +4983,6 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
@@ -5112,7 +5103,6 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
       </tuv>
@@ -5297,7 +5287,6 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
       </tuv>
@@ -5306,7 +5295,6 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
@@ -6059,7 +6047,6 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
@@ -6173,7 +6160,6 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
@@ -6486,7 +6472,6 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>OmegaT 3.1 - User's Guide</seg>
       </tuv>
@@ -6519,7 +6504,6 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>OmegaT allows accessing the public part of TaaS without any registration.</seg>
       </tuv>
@@ -6552,7 +6536,6 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and OmegaT.sh) contain a template entry.</seg>
       </tuv>
@@ -7080,7 +7063,6 @@ destino al que desea traducirlos.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Private collections are displayed in bold.</seg>
       </tuv>
@@ -7313,7 +7295,6 @@ destino al que desea traducirlos.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Public and private collections</seg>
       </tuv>
@@ -8653,7 +8634,6 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Steps to reproduce</seg>
       </tuv>
@@ -9045,7 +9025,6 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
       </tuv>
@@ -9054,7 +9033,6 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
       </tuv>
@@ -9124,7 +9102,6 @@ actual.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
       </tuv>
@@ -9330,7 +9307,6 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
@@ -10281,7 +10257,6 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>What you expected to see</seg>
       </tuv>
@@ -10290,7 +10265,6 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>What you saw instead</seg>
       </tuv>
@@ -10299,7 +10273,6 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
       </tuv>
@@ -10332,7 +10305,6 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
@@ -10638,7 +10610,6 @@ directorio de configuración.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>files = project.projectFiles;</seg>
       </tuv>
