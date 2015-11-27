@@ -2384,6 +2384,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T154555Z" creationid="Antonio" creationdate="20151127T154421Z">
+        <seg>Entradas de Autotexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195207Z" creationid="Víctor Parra" creationdate="20151126T195207Z">
@@ -2726,6 +2734,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155734Z" creationid="Helli" creationdate="20150526T155734Z">
         <seg>Capítulo 17. Expresiones regulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T154415Z" creationid="Antonio" creationdate="20151127T154415Z">
+        <seg>Tabla de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3410,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231322Z" creationid="hcartagena" creationdate="20151124T231322Z">
         <seg>Mostrar todos los &amp;segmentos originales en negritas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display source terms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T154411Z" creationid="Antonio" creationdate="20151127T154411Z">
+        <seg>Mostrar &amp;segmentos de origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -4698,6 +4722,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T154551Z" creationid="Antonio" creationdate="20151127T154551Z">
+        <seg>Entradas de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232741Z" creationid="hcartagena" creationdate="20151124T232741Z">
@@ -5972,6 +6004,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T154543Z" creationid="Antonio" creationdate="20151127T154423Z">
+        <seg>Etiquetas perdidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T153838Z" creationid="Antonio" creationdate="20151126T153838Z">
@@ -6989,6 +7029,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213633Z" creationid="hcartagena" creationdate="20151119T213633Z">
         <seg>Conservar espacios en todas las etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T154625Z" creationid="Antonio" creationdate="20151127T154625Z">
+        <seg>Presione &lt;u&gt;{0}&lt;/u&gt; para ir a &lt;b&gt;{1}&lt;/b&gt; sugerencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10257,6 +10305,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235528Z" creationid="Usuario" creationdate="20150603T235528Z">
         <seg>Al acceder al servicio sin una clave privada, aparecerá el siguiente mensaje: clave de API TAA no encontrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T154357Z" creationid="Antonio" creationdate="20151127T154357Z">
+        <seg>Cuando están marcados, los elementos de la lista del autorelleno del glosario tendrán también el texto de origen. </seg>
       </tuv>
     </tu>
     <tu>
