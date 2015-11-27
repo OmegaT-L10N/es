@@ -4940,6 +4940,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T111016Z" creationid="Antonio" creationdate="20151127T111016Z">
+        <seg>Si está marcada, las entradas se ordenan según su longitud, las más largas las primeras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -8254,6 +8262,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show longer target terms first</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T111055Z" creationid="Antonio" creationdate="20151127T111055Z">
+        <seg>Mostrar primero los términos de destino más largos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show source term first</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T082523Z" creationid="Antonio" creationdate="20151127T082523Z">
@@ -8342,10 +8358,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by source term alphabetically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T110941Z" creationid="Antonio" creationdate="20151127T110941Z">
+        <seg>Ordenar alfabéticamente por término de origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231133Z" creationid="hcartagena" creationdate="20151124T231133Z">
         <seg>Ordenar coincidencias parciales por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort target terms alphabetically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T110930Z" creationid="Antonio" creationdate="20151127T110930Z">
+        <seg>Ordenar alfabéticamente los términos destino</seg>
       </tuv>
     </tu>
     <tu>
