@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081833Z" creationid="Antonio" creationdate="20151127T081833Z">
+        <seg>&amp;Guardar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Search</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192340Z" creationid="hcartagena" creationdate="20151116T192340Z">
