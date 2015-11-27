@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175212Z" creationid="Antonio" creationdate="20151127T175212Z">
+        <seg>&amp;Mayúsculas de frase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203851Z" creationid="hcartagena" creationdate="20151119T203843Z">
@@ -3666,6 +3674,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175039Z" creationid="Antonio" creationdate="20151127T175039Z">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T081856Z" creationid="Antonio" creationdate="20151127T081856Z">
@@ -4107,6 +4123,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175124Z" creationid="Antonio" creationdate="20151127T175124Z">
+        <seg>Editor - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
@@ -4506,6 +4530,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193951Z" creationid="hcartagena" creationdate="20151117T193951Z">
         <seg>La búsqueda exacta encuentra la cadena consultada de manera textual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175027Z" creationid="Antonio" creationdate="20151127T175018Z">
+        <seg>Excel</seg>
       </tuv>
     </tu>
     <tu>
@@ -5175,6 +5207,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175034Z" creationid="Antonio" creationdate="20151127T175034Z">
+        <seg>Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T164136Z" creationid="hcartagena" creationdate="20151118T164136Z">
@@ -5684,6 +5724,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175129Z" creationid="Antonio" creationdate="20151127T175129Z">
+        <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T115703Z" creationid="Antonio" creationdate="20151120T115703Z">
@@ -5992,6 +6040,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202820Z" creationid="hcartagena" creationdate="20151119T202820Z">
         <seg>Paquetes de recursos Java(TM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175143Z" creationid="Antonio" creationdate="20151127T175143Z">
+        <seg>Java: ver. {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,6 +6364,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175041Z" creationid="Antonio" creationdate="20151127T175041Z">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T220910Z" creationid="hcartagena" creationdate="20151116T220910Z">
@@ -6560,6 +6624,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075606Z" creationid="Antonio" creationdate="20151127T075606Z">
         <seg>Mezclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175010Z" creationid="Antonio" creationdate="20151127T175010Z">
+        <seg>Microsoft Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -7756,6 +7828,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175031Z" creationid="Antonio" creationdate="20151127T175031Z">
+        <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T213441Z" creationid="hcartagena" creationdate="20151118T213441Z">
@@ -8856,6 +8936,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175005Z" creationid="Antonio" creationdate="20151127T175005Z">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173746Z" creationid="Antonio" creationdate="20151127T173746Z">
@@ -9757,6 +9845,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164549Z" creationid="Antonio" creationdate="20151127T164549Z">
         <seg>Error de sincronización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175001Z" creationid="Antonio" creationdate="20151127T175001Z">
+        <seg>T&amp;Ms</seg>
       </tuv>
     </tu>
     <tu>
@@ -11733,6 +11829,22 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175014Z" creationid="Antonio" creationdate="20151127T175014Z">
+        <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175036Z" creationid="Antonio" creationdate="20151127T175036Z">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wordfast TXML</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194138Z" creationid="Víctor Parra" creationdate="20151126T194138Z">
@@ -11801,6 +11913,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T171455Z" creationid="Antonio" creationdate="20151127T171455Z">
         <seg>Nombre de usuario o contraseña no válidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175109Z" creationid="Antonio" creationdate="20151127T175109Z">
+        <seg>XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -12035,6 +12155,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175120Z" creationid="Antonio" creationdate="20151127T175120Z">
+        <seg>[parcial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193753Z" creationid="hcartagena" creationdate="20151117T193528Z">
@@ -12047,6 +12175,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T200859Z" creationid="hcartagena" creationdate="20151118T200859Z">
         <seg>atributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>commons-*.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175047Z" creationid="Antonio" creationdate="20151127T175047Z">
+        <seg>commons-*.jar (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12075,6 +12211,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>groovy-all-2.2.2.jar (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175101Z" creationid="Antonio" creationdate="20151127T175101Z">
+        <seg>groovy-all-2.2.2.jar (Apache Licence 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214656Z" creationid="hcartagena" creationdate="20151119T214656Z">
@@ -12087,6 +12231,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214635Z" creationid="hcartagena" creationdate="20151119T214635Z">
         <seg>href (URL de en&amp;laces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet-1.0.3.jar (GPL)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175106Z" creationid="Antonio" creationdate="20151127T175106Z">
+        <seg>juniversalchardet-1.0.3.jar (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jwordsplitter-3.4.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175049Z" creationid="Antonio" creationdate="20151127T175049Z">
+        <seg>jwordsplitter-3.4.jar (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12167,6 +12327,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011628Z" creationid="Víctor Parra" creationdate="20151125T011628Z">
         <seg>una palabra a la derecha pero no más allá del principio del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pdfbox-app-1.8.1.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175052Z" creationid="Antonio" creationdate="20151127T175052Z">
+        <seg>commons-*.jar (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
