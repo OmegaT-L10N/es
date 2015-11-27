@@ -1626,6 +1626,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T180056Z" creationid="Antonio" creationdate="20151127T180056Z">
+        <seg>&lt;e0&gt;Gestión de la terminología&lt;/e0&gt;: La gestión de la terminología es importante para la consistencia de la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175635Z" creationid="Antonio" creationdate="20151127T175635Z">
@@ -5111,6 +5119,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T180209Z" creationid="Antonio" creationdate="20151127T180209Z">
+        <seg>A efectos de referencia, OmegaT muestra la traducción de esas palabras, que están presentes en el segmento actual y registradas en el glosario, para su referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Force saving password as plain text</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T171603Z" creationid="Antonio" creationdate="20151127T171603Z">
@@ -5640,6 +5656,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130710Z" creationid="Helli" creationdate="20150526T130710Z">
         <seg>Si no chocan con atajos de sistema, tendrían que ser disponibles de dentro de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T180001Z" creationid="Antonio" creationdate="20151127T180001Z">
+        <seg>Si está utilizando memorias de traducción creadas previamente, por ejemplo, que le ha asignado la agencia de traducción o su cliente, OmegaT será capaz de utilizarlas como memorias de referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6828,6 +6852,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifications to the original document are thus handled with greater ease.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175940Z" creationid="Antonio" creationdate="20151127T175940Z">
+        <seg>Las modificaciones al documento original, por lo tanto, se realizarán con mayor facilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192833Z" creationid="hcartagena" creationdate="20151119T192833Z">
@@ -7465,10 +7497,26 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T180117Z" creationid="Antonio" creationdate="20151127T180117Z">
+        <seg>OmegaT utiliza glosarios que contienen la traducción de palabras sueltas o pequeñas frases, una especie de diccionario bilingüe simplificado para un dominio específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the following libraries:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212352Z" creationid="hcartagena" creationdate="20151119T212352Z">
         <seg>OmegaT utiliza las siguientes bibliotecas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T180025Z" creationid="Antonio" creationdate="20151127T180025Z">
+        <seg>OmegaT utiliza el formato de archivo TMX estándar para almacenar y acceder a las memorias de traducción, lo cual garantiza que usted puede intercambiar su material con otras aplicaciones de traducción CAT, que soporten este formato de archivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11313,6 +11361,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161615Z" creationid="Antonio" creationdate="20151126T161604Z">
         <seg>Solicitud no autorizada al servicio TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175925Z" creationid="Antonio" creationdate="20151127T175925Z">
+        <seg>Las frases que no han cambiado se traducen automáticamente, mientras que las frases actualizadas se muestran con la frase traducida, más antigua.</seg>
       </tuv>
     </tu>
     <tu>
