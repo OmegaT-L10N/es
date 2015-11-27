@@ -5780,6 +5780,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075606Z" creationid="Antonio" creationdate="20151127T075606Z">
+        <seg>Mezclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075615Z" creationid="Antonio" creationdate="20151127T075615Z">
+        <seg>Mio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233954Z" creationid="hcartagena" creationdate="20151124T233954Z">
@@ -8018,6 +8034,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212623Z" creationid="hcartagena" creationdate="20151119T212623Z">
         <seg>Sequence Library (licencia Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075618Z" creationid="Antonio" creationdate="20151127T075618Z">
+        <seg>Servidor (original)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075610Z" creationid="Antonio" creationdate="20151127T075610Z">
+        <seg>Servidor (actualizado)</seg>
       </tuv>
     </tu>
     <tu>
