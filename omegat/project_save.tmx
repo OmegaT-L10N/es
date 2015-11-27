@@ -1474,6 +1474,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163136Z" creationid="Antonio" creationdate="20151127T163136Z">
+        <seg>&lt;No hay sugerencias&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;f1&gt;1.&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;f9&gt;sites and&lt;/f9&gt;&lt;/a8&gt;&lt;a10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/a10&gt;&lt;a12&gt;&lt;f13&gt;OmegaT&lt;/f13&gt;&lt;/a12&gt;&lt;a14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/a14&gt;&lt;a16&gt;&lt;f17&gt;SourceForge project&lt;/f17&gt;&lt;/a16&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152803Z" creationid="Helli" creationdate="20150526T152618Z">
@@ -2274,6 +2282,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T162948Z" creationid="Antonio" creationdate="20151127T162948Z">
         <seg>**Â¿Seguro que desea eliminar la bÃºsqueda seleccionada Â« %1 Â»?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to fix all tags automatically?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163318Z" creationid="Antonio" creationdate="20151127T163247Z">
+        <seg>¿Está seguro de que desea reparar automáticamente las etiquetas?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,6 +3946,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163203Z" creationid="Antonio" creationdate="20151127T163203Z">
+        <seg>Error al corregir las etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error in file</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203855Z" creationid="hcartagena" creationdate="20151119T203855Z">
@@ -4495,6 +4519,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165315Z" creationid="hcartagena" creationdate="20151120T165315Z">
         <seg>Finlandés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163301Z" creationid="Antonio" creationdate="20151127T163301Z">
+        <seg>Reparar </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fix all</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163305Z" creationid="Antonio" creationdate="20151127T163255Z">
+        <seg>Reparar todo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6773,6 +6813,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163344Z" creationid="Antonio" creationdate="20151127T163338Z">
+        <seg>Huérfanas  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211737Z" creationid="hcartagena" creationdate="20151119T211737Z">
@@ -6910,6 +6958,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163149Z" creationid="Antonio" creationdate="20151127T163149Z">
+        <seg>Por favor repite la validación de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075554Z" creationid="Antonio" creationdate="20151127T075554Z">
@@ -7026,8 +7082,16 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T154625Z" creationid="Antonio" creationdate="20151127T154625Z">
-        <seg>Presione &lt;u&gt;{0}&lt;/u&gt; para ir a &lt;b&gt;{1}&lt;/b&gt; sugerencias.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163115Z" creationid="Antonio" creationdate="20151127T154625Z">
+        <seg>Presione &lt;u&gt;{0}&lt;/u&gt; para ir a sugerencias &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163103Z" creationid="Antonio" creationdate="20151127T163054Z">
+        <seg>Pulse &lt;u&gt;{0}&lt;/u&gt; para volver a sugerencias &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9177,6 +9241,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163153Z" creationid="Antonio" creationdate="20151127T163153Z">
+        <seg>La traducción ha cambiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191816Z" creationid="hcartagena" creationdate="20151117T191816Z">
@@ -9264,6 +9336,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223451Z" creationid="hcartagena" creationdate="20151116T223451Z">
         <seg>Este es el aspecto que tendrá el texto en pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This operation will affect {0} segments and cannot be undone.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163238Z" creationid="Antonio" creationdate="20151127T163238Z">
+        <seg>Esta operación afectará {0} segmentos y no se puede deshacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9922,6 +10002,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163341Z" creationid="Antonio" creationdate="20151127T163327Z">
+        <seg>Sin especificar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191735Z" creationid="hcartagena" creationdate="20151118T191735Z">
@@ -10318,6 +10406,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150605T111524Z" creationid="Helli" creationdate="20150603T151048Z">
         <seg>Cuando pulse con el botón izquierdo del ratón en el número, el script seleccionado ejecutará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163347Z" creationid="Antonio" creationdate="20151127T163347Z">
+        <seg>Espacios en blanco</seg>
       </tuv>
     </tu>
     <tu>
