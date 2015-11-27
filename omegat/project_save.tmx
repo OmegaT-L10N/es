@@ -2004,6 +2004,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075033Z" creationid="Antonio" creationdate="20151127T075033Z">
+        <seg>Agregado: {1}, Eliminado: {2}, Modificado: {3} (Conflictos: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192608Z" creationid="hcartagena" creationdate="20151117T192608Z">
@@ -2602,6 +2610,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075148Z" creationid="Antonio" creationdate="20151127T075148Z">
+        <seg>Fecha de moficación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192655Z" creationid="hcartagena" creationdate="20151117T192633Z">
@@ -2614,6 +2630,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192630Z" creationid="hcartagena" creationdate="20151117T192630Z">
         <seg>Cambió después de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075137Z" creationid="Antonio" creationdate="20151127T075137Z">
+        <seg>Modificado por</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3010,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T141151Z" creationid="hcartagena" creationdate="20151117T141151Z">
         <seg>Creando documentos traducidos: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075127Z" creationid="Antonio" creationdate="20151127T075127Z">
+        <seg>Fecha de creación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075125Z" creationid="Antonio" creationdate="20151127T075125Z">
+        <seg>Creador</seg>
       </tuv>
     </tu>
     <tu>
@@ -4105,6 +4145,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075045Z" creationid="Antonio" creationdate="20151127T075045Z">
+        <seg>Archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202614Z" creationid="hcartagena" creationdate="20151116T202614Z">
@@ -4974,6 +5022,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T120358Z" creationid="Antonio" creationdate="20151120T120358Z">
         <seg>¿OmegaT presenta errores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075123Z" creationid="Antonio" creationdate="20151127T075123Z">
+        <seg>Es la traducción predeterminada</seg>
       </tuv>
     </tu>
     <tu>
@@ -5895,6 +5951,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075151Z" creationid="Antonio" creationdate="20151127T075151Z">
+        <seg>Siguiente →</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000601Z" creationid="hcartagena" creationdate="20151125T000601Z">
@@ -5987,6 +6051,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191747Z" creationid="hcartagena" creationdate="20151118T191747Z">
         <seg>El archivo XML no es válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075103Z" creationid="Antonio" creationdate="20151127T075103Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -6649,6 +6721,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075036Z" creationid="Antonio" creationdate="20151127T075036Z">
+        <seg>Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203448Z" creationid="hcartagena" creationdate="20151116T203448Z">
@@ -7272,6 +7352,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161618Z" creationid="Antonio" creationdate="20151126T161618Z">
         <seg>Error de solicitud: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T074924Z" creationid="Antonio" creationdate="20151127T074924Z">
+        <seg>Solicitar a TaaS: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7922,6 +8010,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231133Z" creationid="hcartagena" creationdate="20151124T231133Z">
         <seg>Ordenar coincidencias parciales por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075100Z" creationid="Antonio" creationdate="20151127T075100Z">
+        <seg>Origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -9088,6 +9184,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223723Z" creationid="hcartagena" creationdate="20151116T223723Z">
         <seg>Segmentos únicos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075053Z" creationid="Antonio" creationdate="20151127T075053Z">
+        <seg>Traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -10260,6 +10364,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T235903Z" creationid="hcartagena" creationdate="20151124T235903Z">
         <seg>{1}, ejecutado desde '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075159Z" creationid="Antonio" creationdate="20151127T075159Z">
+        <seg>← Anterior</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
