@@ -8775,6 +8775,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T082504Z" creationid="Antonio" creationdate="20151127T082504Z">
+        <seg>Términos con varios destinos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202257Z" creationid="hcartagena" creationdate="20151119T202257Z">
