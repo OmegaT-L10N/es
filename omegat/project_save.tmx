@@ -1196,6 +1196,22 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075505Z" creationid="Antonio" creationdate="20151127T075505Z">
+        <seg>1 conflicto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075522Z" creationid="Antonio" creationdate="20151127T075522Z">
+        <seg>1 segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203031Z" creationid="hcartagena" creationdate="20151116T193149Z">
@@ -2854,6 +2870,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075346Z" creationid="Antonio" creationdate="20151127T075346Z">
+        <seg>Resolución de conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075328Z" creationid="Antonio" creationdate="20151127T075328Z">
+        <seg>Conflicto {0} de {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191924Z" creationid="hcartagena" creationdate="20151118T191924Z">
@@ -3110,10 +3142,34 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075324Z" creationid="Antonio" creationdate="20151127T075324Z">
+        <seg>Borrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161742Z" creationid="Antonio" creationdate="20151126T161742Z">
         <seg>Descripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075256Z" creationid="Antonio" creationdate="20151127T075256Z">
+        <seg>Vista de detalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075501Z" creationid="Antonio" creationdate="20151127T075501Z">
+        <seg>Detalles no disponibles</seg>
       </tuv>
     </tu>
     <tu>
@@ -3386,6 +3442,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161702Z" creationid="Antonio" creationdate="20151126T161702Z">
         <seg>Dominios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075350Z" creationid="Antonio" creationdate="20151127T075350Z">
+        <seg>Hecho</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,6 +5452,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075259Z" creationid="Antonio" creationdate="20151127T075259Z">
+        <seg>Vista de lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114837Z" creationid="Helli" creationdate="20150526T114604Z">
@@ -6055,6 +6127,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075303Z" creationid="Antonio" creationdate="20151127T075303Z">
+        <seg>No presente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075103Z" creationid="Antonio" creationdate="20151127T075103Z">
@@ -6615,6 +6695,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075554Z" creationid="Antonio" creationdate="20151127T075554Z">
+        <seg>Por favor, resuelva los conflictos seleccionando una traducción para cada segmento que sigue a continuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please restart the application to correctly display the new colours.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T152611Z" creationid="Antonio" creationdate="20151126T152611Z">
@@ -6790,6 +6878,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194839Z" creationid="Víctor Parra" creationdate="20151126T194839Z">
         <seg>¿Desea continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075341Z" creationid="Antonio" creationdate="20151127T075341Z">
+        <seg>Procesando...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9602,6 +9698,30 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075431Z" creationid="Antonio" creationdate="20151127T075431Z">
+        <seg>Uso todo lo mio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075411Z" creationid="Antonio" creationdate="20151127T075411Z">
+        <seg>Uso todo lo original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075403Z" creationid="Antonio" creationdate="20151127T075403Z">
+        <seg>Uso todo lo actualizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134516Z" creationid="Helli" creationdate="20150526T134516Z">
@@ -10336,6 +10456,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075518Z" creationid="Antonio" creationdate="20151127T075518Z">
+        <seg>{0} conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075530Z" creationid="Antonio" creationdate="20151127T075530Z">
+        <seg>{0} segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} {1}</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T193932Z" creationid="Víctor Parra" creationdate="20151126T193932Z">
@@ -10356,6 +10492,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T193914Z" creationid="Víctor Parra" creationdate="20151126T193914Z">
         <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}/{1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T075253Z" creationid="Antonio" creationdate="20151127T075253Z">
+        <seg>{0}/{1}</seg>
       </tuv>
     </tu>
     <tu>
