@@ -2916,6 +2916,15 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171935Z" creationid="Antonio" creationdate="20151127T171935Z">
+        <seg>Cierre la instancia actual de OmegaT 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T205343Z" creationid="hcartagena" creationdate="20151119T205343Z">
@@ -4863,6 +4872,30 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T171420Z" creationid="Antonio" creationdate="20151127T171420Z">
         <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171722Z" creationid="Antonio" creationdate="20151127T171705Z">
+        <seg>Error '{0}' de Git: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171736Z" creationid="Antonio" creationdate="20151127T171718Z">
+        <seg>La ejecución de '{0}? de Git ha terminado con éxito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171756Z" creationid="Antonio" creationdate="20151127T171756Z">
+        <seg>Inicio de la ejecución de '{0}' de Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -7600,6 +7633,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171648Z" creationid="Antonio" creationdate="20151127T171648Z">
+        <seg>Operación push fallida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194124Z" creationid="Víctor Parra" creationdate="20151126T194124Z">
@@ -7865,6 +7906,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171929Z" creationid="Antonio" creationdate="20151127T171929Z">
+        <seg>Elimine manualmente la carpeta de proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203212Z" creationid="hcartagena" creationdate="20151116T203212Z">
@@ -7917,6 +7966,15 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T152953Z" creationid="Antonio" creationdate="20151126T152953Z">
         <seg>&amp;Reemplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
+6.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171851Z" creationid="Antonio" creationdate="20151127T171851Z">
+        <seg>Reemplazar &lt;project&gt;/omegat/project_save.tmx en el proyecto recién descargado por el archivo guardado en un lugar seguro 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8943,6 +9001,23 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192825Z" creationid="hcartagena" creationdate="20151119T192825Z">
         <seg>Estándar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT again, download the team project, close OmegaT
+5.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171915Z" creationid="Antonio" creationdate="20151127T171915Z">
+        <seg>Vuelva de nuevo a OmegaT, descargue el proyecto de equipo, cierre OmegaT 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT and continue to translate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171810Z" creationid="Antonio" creationdate="20151127T171810Z">
+        <seg>Inicie OmegaT y continue traduciendo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10722,6 +10797,15 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WARNING: all unsaved data will be lost
+4.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171920Z" creationid="Antonio" creationdate="20151127T171920Z">
+        <seg>ADVERTENCIA: todos los datos no guardados se perderán 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T200623Z" creationid="hcartagena" creationdate="20151116T200623Z">
@@ -10848,6 +10932,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230052Z" creationid="hcartagena" creationdate="20151124T230012Z">
         <seg>Comodines:
 La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will be synchronized next time.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171630Z" creationid="Antonio" creationdate="20151127T171630Z">
+        <seg>Se sincronizará la siguiente vez.</seg>
       </tuv>
     </tu>
     <tu>
