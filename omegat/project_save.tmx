@@ -2310,6 +2310,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174443Z" creationid="Antonio" creationdate="20151127T174443Z">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix C. OmegaT Team Projects</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152406Z" creationid="Helli" creationdate="20150526T152406Z">
@@ -2640,6 +2648,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T121328Z" creationid="Helli" creationdate="20150526T121328Z">
         <seg>Siendo la lengua detr�s del software popular como Firefox es una herramienta familiar y de programaci�n preferida en el �mbito de fuente abierta.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174448Z" creationid="Antonio" creationdate="20151127T174448Z">
+        <seg>Belazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,6 +4230,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error extracting MT result from MyMemory, response:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174426Z" creationid="Antonio" creationdate="20151127T174426Z">
+        <seg>Error al extraer el resultado de MT de MyMemory, respuesta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163203Z" creationid="Antonio" creationdate="20151127T163203Z">
@@ -4330,6 +4354,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173109Z" creationid="Antonio" creationdate="20151127T173109Z">
         <seg>Error al intentar guardar el script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error {0}: {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174412Z" creationid="Antonio" creationdate="20151127T174412Z">
+        <seg>Error {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,6 +5219,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124356Z" creationid="Helli" creationdate="20150526T123856Z">
         <seg>Dirigirse a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174409Z" creationid="Antonio" creationdate="20151127T174409Z">
+        <seg>Clave de la Api de Google no está disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6436,6 +6476,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174440Z" creationid="Antonio" creationdate="20151127T174440Z">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174255Z" creationid="Antonio" creationdate="20151127T174255Z">
+        <seg>No se dispone de la ID de cliente en Microsoft Translator o del secreto de cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075615Z" creationid="Antonio" creationdate="20151127T075615Z">
@@ -6617,6 +6673,22 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173914Z" creationid="Antonio" creationdate="20151127T173914Z">
         <seg>Varias traducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174438Z" creationid="Antonio" creationdate="20151127T174438Z">
+        <seg>MyMemory (humano)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174434Z" creationid="Antonio" creationdate="20151127T174434Z">
+        <seg>MyMemory (máquina)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8802,8 +8874,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174209Z" creationid="Antonio" creationdate="20151127T174209Z">
-        <seg>Vea el manual de OmegaT para ver las instrucciones</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174352Z" creationid="Antonio" creationdate="20151127T174209Z">
+        <seg>Consulte las instrucciones en el manual de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11605,6 +11677,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wrong response from engine</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174258Z" creationid="Antonio" creationdate="20151127T174258Z">
+        <seg>Respuesta incorrecta del motor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wrong username/password</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T171455Z" creationid="Antonio" creationdate="20151127T171455Z">
@@ -11641,6 +11721,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203102Z" creationid="hcartagena" creationdate="20151119T203102Z">
         <seg>Hoja de cálculo XML 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174428Z" creationid="Antonio" creationdate="20151127T174428Z">
+        <seg>Yandex Translate</seg>
       </tuv>
     </tu>
     <tu>
