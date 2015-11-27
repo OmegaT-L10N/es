@@ -3658,6 +3658,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173907Z" creationid="Antonio" creationdate="20151127T173907Z">
+        <seg>Muestra las traducciones alternativas que usted creó para los segmentos que se repiten en el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233925Z" creationid="hcartagena" creationdate="20151124T233925Z">
@@ -5668,6 +5676,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid API key</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174134Z" creationid="Antonio" creationdate="20151127T174134Z">
+        <seg>Clave de API no válida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213815Z" creationid="hcartagena" creationdate="20151119T213815Z">
@@ -5944,6 +5960,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194042Z" creationid="Víctor Parra" creationdate="20151126T194042Z">
         <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Chec&amp;ker</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173926Z" creationid="Antonio" creationdate="20151127T173926Z">
+        <seg>Corrector &amp;ortográfico</seg>
       </tuv>
     </tu>
     <tu>
@@ -6585,6 +6609,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194102Z" creationid="Víctor Parra" creationdate="20151126T194102Z">
         <seg>Mozilla Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173914Z" creationid="Antonio" creationdate="20151127T173914Z">
+        <seg>Varias traducciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -8768,6 +8800,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174209Z" creationid="Antonio" creationdate="20151127T174209Z">
+        <seg>Vea el manual de OmegaT para ver las instrucciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184053Z" creationid="hcartagena" creationdate="20151119T184053Z">
@@ -10111,10 +10151,34 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173939Z" creationid="Antonio" creationdate="20151127T173939Z">
+        <seg>La dirección de traducción especificada no está admitida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011334Z" creationid="Víctor Parra" creationdate="20151125T011334Z">
         <seg>El término "Mover dentro del segmento" significa que el cursor se moverá al principio del segmento si éste estaba previamente antes del segmento y, al final del segmento si el mismo estaba previamente después de él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text could not be translated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173959Z" creationid="Antonio" creationdate="20151127T173959Z">
+        <seg>El texto no se pudo traducir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174003Z" creationid="Antonio" creationdate="20151127T174003Z">
+        <seg>El tamaño del texto supera el máximo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,6 +10262,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153140Z" creationid="Helli" creationdate="20150526T153100Z">
         <seg>El &lt;/f17&gt;&lt;a18&gt;FAQ&lt;/a18&gt;&lt;a19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/a19&gt;&lt;f21&gt;es un punto de partida bueno para encontrar respuestas a cuestiones que puede tener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This API key has been blocked</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174122Z" creationid="Antonio" creationdate="20151127T174122Z">
+        <seg>Este clave de API está bloqueada</seg>
       </tuv>
     </tu>
     <tu>
@@ -11573,6 +11645,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yandex Translate - No API Key Specified</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174149Z" creationid="Antonio" creationdate="20151127T174149Z">
+        <seg>Yandex Translate - no se especifió una clave de API </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193725Z" creationid="hcartagena" creationdate="20151117T193725Z">
@@ -11643,6 +11723,22 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115554Z" creationid="Helli" creationdate="20150526T115554Z">
         <seg> Puede iniciar los marcos seleccionados del menú principal también utilizando sus entradas en el menú de Herramientas o pulsando&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; *Ctrl+*Alt+*F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 a 12).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for requests (including calls of the detect method)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174104Z" creationid="Antonio" creationdate="20151127T174104Z">
+        <seg>Alcanzó el límite diario para de solicitudes (incluyendo las llamadas del método detect)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for the volume of translated text (including calls of the detect method)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174042Z" creationid="Antonio" creationdate="20151127T174042Z">
+        <seg>Se alcanzó el límite diario de volumen de texto traducido (incluidas las llamadas del método detect)</seg>
       </tuv>
     </tu>
     <tu>
