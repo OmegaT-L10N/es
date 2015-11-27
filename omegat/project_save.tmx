@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174603Z" creationid="Antonio" creationdate="20151127T174603Z">
+        <seg>Recuperar &amp;automáticamente las traducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194715Z" creationid="Víctor Parra" creationdate="20151126T194715Z">
@@ -1072,6 +1080,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174553Z" creationid="Antonio" creationdate="20151127T174553Z">
+        <seg>Solamente segmentos sin trad&amp;ucir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Upper Case</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195222Z" creationid="Víctor Parra" creationdate="20151126T195222Z">
@@ -1150,6 +1166,14 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000008Z" creationid="hcartagena" creationdate="20151125T000008Z">
         <seg>Menú '{0}' seleccionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174718Z" creationid="Antonio" creationdate="20151127T174718Z">
+        <seg>(+{0} más)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3217,6 +3241,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174618Z" creationid="Antonio" creationdate="20151127T174609Z">
+        <seg>Copiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
 2.</seg>
       </tuv>
@@ -3446,6 +3478,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T081058Z" creationid="Antonio" creationdate="20151127T081058Z">
         <seg>Personalizar la tabla de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174622Z" creationid="Antonio" creationdate="20151127T174622Z">
+        <seg>Cortar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,6 +4326,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174704Z" creationid="Antonio" creationdate="20151127T174704Z">
+        <seg>Error al iniciar la aplicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185621Z" creationid="hcartagena" creationdate="20151119T185621Z">
@@ -4983,6 +5031,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174732Z" creationid="Antonio" creationdate="20151127T174732Z">
+        <seg>Se encuentra en:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165316Z" creationid="hcartagena" creationdate="20151120T165316Z">
@@ -5231,6 +5287,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174542Z" creationid="Antonio" creationdate="20151127T174542Z">
+        <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230638Z" creationid="hcartagena" creationdate="20151119T230638Z">
@@ -5316,6 +5380,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213146Z" creationid="hcartagena" creationdate="20151119T213146Z">
         <seg>Aquí puede configurar los patrones de nombre de archivo de los archivos originales que procesará el filtro, personalizar el nombre de los archivos traducidos y seleccionar las codificaciones que usará para cargar el archivo y guardar su homólogo traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174710Z" creationid="Antonio" creationdate="20151127T174710Z">
+        <seg>Ocultar '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,6 +7514,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174615Z" creationid="Antonio" creationdate="20151127T174607Z">
+        <seg>Pegar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233935Z" creationid="hcartagena" creationdate="20151124T233935Z">
@@ -8354,6 +8434,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T171851Z" creationid="Antonio" creationdate="20151127T171851Z">
         <seg>Reemplazar &lt;project&gt;/omegat/project_save.tmx en el proyecto recién descargado por el archivo guardado en un lugar seguro 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174754Z" creationid="Antonio" creationdate="20151127T174754Z">
+        <seg>Reemplazar con la coincidencia o selección</seg>
       </tuv>
     </tu>
     <tu>
@@ -10434,6 +10522,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174722Z" creationid="Antonio" creationdate="20151127T174722Z">
+        <seg>Este proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011151Z" creationid="Víctor Parra" creationdate="20151125T011151Z">
@@ -11855,6 +11951,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174701Z" creationid="Antonio" creationdate="20151127T174701Z">
+        <seg>Usted debe actualizar su JDK 1.6 a la versión más reciente, o simplemente elimine los archivos  jaxb-*.jar directorio OmegaT/lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153840Z" creationid="Helli" creationdate="20150526T153710Z">
@@ -11903,6 +12007,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193819Z" creationid="hcartagena" creationdate="20151116T193819Z">
         <seg>Su proyecto no contiene archivos en formato compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174742Z" creationid="Antonio" creationdate="20151127T174742Z">
+        <seg>[parcial]</seg>
       </tuv>
     </tu>
     <tu>
