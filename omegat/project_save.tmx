@@ -2026,6 +2026,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172948Z" creationid="Antonio" creationdate="20151127T172948Z">
+        <seg>Añadir script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add To Dictionary</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000615Z" creationid="hcartagena" creationdate="20151125T000615Z">
@@ -4242,6 +4250,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222245Z" creationid="hcartagena" creationdate="20151116T222245Z">
         <seg>Error al intentar modificar el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173109Z" creationid="Antonio" creationdate="20151127T173109Z">
+        <seg>Error al intentar guardar el script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6653,6 +6669,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173006Z" creationid="Antonio" creationdate="20151127T173006Z">
+        <seg>Ningún script vinculado a la ranura #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173026Z" creationid="Antonio" creationdate="20151127T173026Z">
+        <seg>Sin script establecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No tag errors detected</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222055Z" creationid="hcartagena" creationdate="20151116T222055Z">
@@ -7901,6 +7933,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script directory "{0}"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173148Z" creationid="Antonio" creationdate="20151127T173148Z">
+        <seg>Actualizando el directorio de script "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203224Z" creationid="Helli" creationdate="20150526T134533Z">
@@ -8001,6 +8041,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230420Z" creationid="hcartagena" creationdate="20151119T230420Z">
         <seg>Eliminar comentarios de HTML en el documento traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172940Z" creationid="Antonio" creationdate="20151127T172940Z">
+        <seg>Eliminar el script</seg>
       </tuv>
     </tu>
     <tu>
@@ -8270,6 +8318,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173043Z" creationid="Antonio" creationdate="20151127T173043Z">
+        <seg>Ejecutar script en la ranura #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running on Java {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193630Z" creationid="hcartagena" creationdate="20151116T193630Z">
@@ -8398,6 +8454,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173130Z" creationid="Antonio" creationdate="20151127T173130Z">
+        <seg>Guardar script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save auto-populated status</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230946Z" creationid="hcartagena" creationdate="20151124T230946Z">
@@ -8456,10 +8520,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173058Z" creationid="Antonio" creationdate="20151127T173058Z">
+        <seg>Se ha guardado el script "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172859Z" creationid="Antonio" creationdate="20151127T172859Z">
         <seg>Script "{0}" desvinculado de la ranura #{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173157Z" creationid="Antonio" creationdate="20151127T173157Z">
+        <seg>Resultado del script</seg>
       </tuv>
     </tu>
     <tu>
@@ -8812,6 +8892,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161640Z" creationid="Antonio" creationdate="20151126T161640Z">
         <seg>Seleccionar el dominio de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T173219Z" creationid="Antonio" creationdate="20151127T173219Z">
+        <seg>Motor seleccionado: {0}</seg>
       </tuv>
     </tu>
     <tu>
