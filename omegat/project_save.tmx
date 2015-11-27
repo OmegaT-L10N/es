@@ -2363,6 +2363,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171509Z" creationid="Antonio" creationdate="20151127T171509Z">
+        <seg>Authentificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192806Z" creationid="hcartagena" creationdate="20151119T192806Z">
@@ -3036,6 +3044,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191924Z" creationid="hcartagena" creationdate="20151118T191924Z">
         <seg>Confusión por falso comienzo de etiqueta de comentario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171519Z" creationid="Antonio" creationdate="20151127T171519Z">
+        <seg>Conexión disponible, el proyecto está en modo de proyecto de equipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4723,6 +4739,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Force saving password as plain text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171603Z" creationid="Antonio" creationdate="20151127T171603Z">
+        <seg>Forzar guardar contraseña como texto sin formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192819Z" creationid="hcartagena" creationdate="20151119T192819Z">
@@ -4831,6 +4855,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165306Z" creationid="hcartagena" creationdate="20151120T165306Z">
         <seg>Alemán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171420Z" creationid="Antonio" creationdate="20151127T171420Z">
+        <seg>Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -5848,6 +5880,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171407Z" creationid="Antonio" creationdate="20151127T171407Z">
+        <seg>Carpeta local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T165054Z" creationid="Antonio" creationdate="20151127T165054Z">
@@ -6421,6 +6461,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000601Z" creationid="hcartagena" creationdate="20151125T000601Z">
         <seg>Sin sugerencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171527Z" creationid="Antonio" creationdate="20151127T171527Z">
+        <seg>No hay conexión disponible, el proyecto está en modo fuera de línea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7102,6 +7150,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter username/password</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171506Z" creationid="Antonio" creationdate="20151127T171506Z">
+        <seg>Por favor introduzca el nombre de usuario y contraseña</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175441Z" creationid="hcartagena" creationdate="20151120T175441Z">
@@ -7609,6 +7665,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Read-only</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171606Z" creationid="Antonio" creationdate="20151127T171606Z">
+        <seg>Solo lectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reading TMX file {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T225026Z" creationid="hcartagena" creationdate="20151118T225026Z">
@@ -7897,6 +7961,22 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Type:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171430Z" creationid="Antonio" creationdate="20151127T171430Z">
+        <seg>Tipo de repositorio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository URL:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171417Z" creationid="Antonio" creationdate="20151127T171417Z">
+        <seg>URL del repositorio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Request error: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161618Z" creationid="Antonio" creationdate="20151126T161618Z">
@@ -8045,6 +8125,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203013Z" creationid="hcartagena" creationdate="20151119T203013Z">
         <seg>Imagen SVG y exportación de Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171423Z" creationid="Antonio" creationdate="20151127T171423Z">
+        <seg>SVN</seg>
       </tuv>
     </tu>
     <tu>
@@ -9143,6 +9231,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175432Z" creationid="hcartagena" creationdate="20151120T175432Z">
         <seg>Opciones de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171413Z" creationid="Antonio" creationdate="20151127T171413Z">
+        <seg>Proyecto de equipo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10362,6 +10458,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upload disabled because repository in read-only mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171621Z" creationid="Antonio" creationdate="20151127T171621Z">
+        <seg>Subida desactivada debido a que el repositorio está en modo de sólo lectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
@@ -10805,10 +10909,26 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wrong authentication</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171443Z" creationid="Antonio" creationdate="20151127T171443Z">
+        <seg>Mala autentificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161547Z" creationid="Antonio" creationdate="20151126T161547Z">
         <seg>Formato de respuesta erróneo del servicio TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong username/password</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171455Z" creationid="Antonio" creationdate="20151127T171455Z">
+        <seg>Nombre de usuario o contraseña no válidos</seg>
       </tuv>
     </tu>
     <tu>
