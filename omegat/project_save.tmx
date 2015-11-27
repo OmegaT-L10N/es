@@ -2993,6 +2993,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit not possible because somebody else changed remote translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172200Z" creationid="Antonio" creationdate="20151127T172200Z">
+        <seg>No es posible realizar la confirmación debido a que alguien ha cambiado la traducción remota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230409Z" creationid="hcartagena" creationdate="20151119T230409Z">
@@ -3085,6 +3093,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202350Z" creationid="hcartagena" creationdate="20151116T202350Z">
         <seg>Cop&amp;iar archivos a carpeta Source...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T171955Z" creationid="Antonio" creationdate="20151127T171955Z">
+        <seg>Copie el archivo de &lt;project&gt;/omegat/project_save.tmx en lugar seguro 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3781,6 +3798,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222216Z" creationid="hcartagena" creationdate="20151116T222216Z">
         <seg>Segmentos duplicados: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172058Z" creationid="Antonio" creationdate="20151127T172058Z">
+        <seg>Durante el error ({0}) de SVN,
+project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
     </tu>
     <tu>
@@ -8195,6 +8222,22 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172219Z" creationid="Antonio" creationdate="20151127T172219Z">
+        <seg>Error '{0}' de SVN: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172246Z" creationid="Antonio" creationdate="20151127T172246Z">
+        <seg>La ejecución de '{0}' de SVN ha terminado con éxito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVNKit 1.8.5 (TMate License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212550Z" creationid="hcartagena" creationdate="20151119T212528Z">
@@ -9879,6 +9922,15 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:
+1.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172016Z" creationid="Antonio" creationdate="20151127T172016Z">
+        <seg>Para asegurarse que no se perderá ninguna traducción, usted necesita: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
@@ -10473,6 +10525,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163341Z" creationid="Antonio" creationdate="20151127T163327Z">
         <seg>Sin especificar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172108Z" creationid="Antonio" creationdate="20151127T172108Z">
+        <seg>Error de SVN no admitido</seg>
       </tuv>
     </tu>
     <tu>
