@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175311Z" creationid="Antonio" creationdate="20151127T175311Z">
+        <seg>Información de &amp;modificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Move Down</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165627Z" creationid="hcartagena" creationdate="20151120T165627Z">
@@ -2018,6 +2026,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175550Z" creationid="Antonio" creationdate="20151127T175550Z">
+        <seg>Acerca de &lt;a0&gt;OmegaT&lt;/a0&gt; - introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211942Z" creationid="hcartagena" creationdate="20151119T211942Z">
@@ -2158,6 +2174,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192608Z" creationid="hcartagena" creationdate="20151117T192608Z">
         <seg>&amp;Opciones avanzadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175528Z" creationid="Antonio" creationdate="20151127T175528Z">
+        <seg>Sustitución de fuente agresiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -3690,6 +3714,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;None</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175328Z" creationid="Antonio" creationdate="20151127T175328Z">
+        <seg>&amp;Ocultar todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195335Z" creationid="Víctor Parra" creationdate="20151126T195335Z">
@@ -3718,6 +3750,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231322Z" creationid="hcartagena" creationdate="20151124T231322Z">
         <seg>Mostrar todos los &amp;segmentos originales en negritas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175356Z" creationid="Antonio" creationdate="20151127T175356Z">
+        <seg>Mostrar para todos los &amp;segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175342Z" creationid="Antonio" creationdate="20151127T175342Z">
+        <seg>Mostrar para el actual &amp;segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -6404,6 +6452,30 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mar&amp;k Whitespace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175436Z" creationid="Antonio" creationdate="20151127T175436Z">
+        <seg>Marcar &amp;espacio en blando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175455Z" creationid="Antonio" creationdate="20151127T175455Z">
+        <seg>Marcar caracteres de control del algoritmo &amp;bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175425Z" creationid="Antonio" creationdate="20151127T175411Z">
+        <seg>Marcar &amp;espacios Irrompibles </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204014Z" creationid="hcartagena" creationdate="20151116T204014Z">
@@ -6416,6 +6488,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204017Z" creationid="hcartagena" creationdate="20151116T204017Z">
         <seg>Marcar segmentos &amp;no traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175507Z" creationid="Antonio" creationdate="20151127T175507Z">
+        <seg>Marcar segmentos autorellenado</seg>
       </tuv>
     </tu>
     <tu>
@@ -6440,6 +6520,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135853Z" creationid="Helli" creationdate="20150526T135853Z">
         <seg>Espacios Irrompibles Marcados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T175259Z" creationid="Antonio" creationdate="20151127T175259Z">
+        <seg>Segmentos marcados &amp;con Notas</seg>
       </tuv>
     </tu>
     <tu>
