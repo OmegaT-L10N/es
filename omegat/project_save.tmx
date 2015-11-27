@@ -1842,6 +1842,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172832Z" creationid="Antonio" creationdate="20151127T172832Z">
+        <seg>&lt;ninguno&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150605T121722Z" creationid="Helli" creationdate="20150603T151519Z">
@@ -1926,6 +1934,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212632Z" creationid="hcartagena" creationdate="20151119T212632Z">
         <seg>ANTLR 3.4 (licencia ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aborted.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172621Z" creationid="Antonio" creationdate="20151127T172621Z">
+        <seg>Cancelado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2367,6 +2383,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175654Z" creationid="hcartagena" creationdate="20151120T175654Z">
         <seg>Intentar convertir &amp;números al insertar una coincidencia parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172719Z" creationid="Antonio" creationdate="20151127T172719Z">
+        <seg>Atributo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,6 +3262,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191453Z" creationid="hcartagena" creationdate="20151117T191453Z">
         <seg>Crear un proyecto nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172618Z" creationid="Antonio" creationdate="20151127T172618Z">
+        <seg>Crear un archivo tmx pseudotraducido</seg>
       </tuv>
     </tu>
     <tu>
@@ -4471,6 +4503,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172804Z" creationid="Antonio" creationdate="20151127T172804Z">
+        <seg>Comentarios extraidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extraneous</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163408Z" creationid="Antonio" creationdate="20151127T163408Z">
@@ -4683,6 +4723,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223704Z" creationid="hcartagena" creationdate="20151116T223704Z">
         <seg>Filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172640Z" creationid="Antonio" creationdate="20151127T172640Z">
+        <seg>Terminado</seg>
       </tuv>
     </tu>
     <tu>
@@ -5424,6 +5472,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T115703Z" creationid="Antonio" creationdate="20151120T115703Z">
         <seg>Información acerca de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172716Z" creationid="Antonio" creationdate="20151127T172716Z">
+        <seg>Inicializando</seg>
       </tuv>
     </tu>
     <tu>
@@ -7348,6 +7404,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172753Z" creationid="Antonio" creationdate="20151127T172753Z">
+        <seg>Por favor, traduzca este plural con #{0} en forma plural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195149Z" creationid="Víctor Parra" creationdate="20151126T195149Z">
@@ -7825,6 +7889,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131701Z" creationid="Helli" creationdate="20150526T131701Z">
         <seg>Rehacer Última Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172757Z" creationid="Antonio" creationdate="20151127T172757Z">
+        <seg>Referencias:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8372,6 +8444,22 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T225728Z" creationid="hcartagena" creationdate="20151124T225728Z">
         <seg>Ámbito:
 El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede estar también en cualquier archivo ubicado en una jerarquía de carpetas especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172915Z" creationid="Antonio" creationdate="20151127T172915Z">
+        <seg>Script "{0}" vinculado a la ranura #{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172859Z" creationid="Antonio" creationdate="20151127T172859Z">
+        <seg>Script "{0}" desvinculado de la ranura #{1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9377,6 +9465,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172707Z" creationid="Antonio" creationdate="20151127T172707Z">
+        <seg>Falló la validación de las etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172722Z" creationid="Antonio" creationdate="20151127T172722Z">
+        <seg>Etiqueta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T153318Z" creationid="Antonio" creationdate="20151126T153318Z">
@@ -10291,6 +10395,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172657Z" creationid="Antonio" creationdate="20151127T172657Z">
+        <seg>Proyecto de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075053Z" creationid="Antonio" creationdate="20151127T075053Z">
@@ -10367,6 +10479,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233939Z" creationid="hcartagena" creationdate="20151124T233939Z">
         <seg>Traducción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172815Z" creationid="Antonio" creationdate="20151127T172815Z">
+        <seg>Comentarios de traductor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10889,6 +11009,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validating tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172628Z" creationid="Antonio" creationdate="20151127T172628Z">
+        <seg>Validando etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184120Z" creationid="hcartagena" creationdate="20151119T184026Z">
@@ -11383,6 +11511,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T200859Z" creationid="hcartagena" creationdate="20151118T200859Z">
         <seg>atributos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T172820Z" creationid="Antonio" creationdate="20151127T172820Z">
+        <seg>extensiones:</seg>
       </tuv>
     </tu>
     <tu>
