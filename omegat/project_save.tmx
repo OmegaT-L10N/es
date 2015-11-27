@@ -9107,6 +9107,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164954Z" creationid="Antonio" creationdate="20151127T164954Z">
+        <seg>Sincronización de equipo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization: Saving translation in {0} s</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164615Z" creationid="Antonio" creationdate="20151127T164615Z">
@@ -9117,8 +9125,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T164621Z" creationid="Antonio" creationdate="20151127T164621Z">
-        <seg>Sincronización de eq</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164726Z" creationid="Antonio" creationdate="20151127T164621Z">
+        <seg>Sincronización de equipo: Esperando a que usted termine este segmento...</seg>
       </tuv>
     </tu>
     <tu>
