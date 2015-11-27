@@ -4417,6 +4417,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T080226Z" creationid="Antonio" creationdate="20151127T080226Z">
+        <seg>Para obtener mejores resultados, instale los diccionarios apropiados: selecione Opciones &gt; Corrección ortográfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153158Z" creationid="Helli" creationdate="20150526T153136Z">
