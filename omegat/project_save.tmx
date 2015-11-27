@@ -2467,6 +2467,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163432Z" creationid="Antonio" creationdate="20151127T163432Z">
+        <seg>Anidamiento incorrecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214018Z" creationid="hcartagena" creationdate="20151119T214018Z">
@@ -3680,6 +3688,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163442Z" creationid="Antonio" creationdate="20151127T163437Z">
+        <seg>Duplicar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211423Z" creationid="hcartagena" creationdate="20151119T210452Z">
@@ -4303,6 +4319,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142422Z" creationid="hcartagena" creationdate="20151117T142422Z">
         <seg>Se interrumpió el comando externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163408Z" creationid="Antonio" creationdate="20151127T163408Z">
+        <seg>Extraño</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,6 +6064,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163416Z" creationid="Antonio" creationdate="20151127T163416Z">
+        <seg>Ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Missing tags</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T154543Z" creationid="Antonio" creationdate="20151127T154423Z">
@@ -6341,6 +6373,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231157Z" creationid="hcartagena" creationdate="20151124T231157Z">
         <seg>Sin etiquetas ni números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163456Z" creationid="Antonio" creationdate="20151127T163456Z">
+        <seg>Espacio irrompible</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,6 +6873,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212327Z" creationid="hcartagena" creationdate="20151119T212327Z">
         <seg>Otros aportes se detallan en el archivo readme_es.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163402Z" creationid="Antonio" creationdate="20151127T163402Z">
+        <seg>No está en orden</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,6 +8843,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163450Z" creationid="Antonio" creationdate="20151127T163450Z">
+        <seg>Ficha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="ES">
@@ -8855,6 +8911,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144025Z" creationid="Helli" creationdate="20150526T144025Z">
         <seg>Tabla H.7. Ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163448Z" creationid="Antonio" creationdate="20151127T163448Z">
+        <seg>Etiqueta</seg>
       </tuv>
     </tu>
     <tu>
@@ -9001,6 +9065,14 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, c
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165344Z" creationid="hcartagena" creationdate="20151120T165344Z">
         <seg>Segmentación de archivos de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163445Z" creationid="Antonio" creationdate="20151127T163445Z">
+        <seg>Texto a insertar</seg>
       </tuv>
     </tu>
     <tu>
