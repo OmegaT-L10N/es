@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081844Z" creationid="Antonio" creationdate="20151127T081844Z">
+        <seg>&amp;Cargar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Lower Case</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195231Z" creationid="Víctor Parra" creationdate="20151126T195213Z">
@@ -2360,6 +2368,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081931Z" creationid="Antonio" creationdate="20151127T081931Z">
+        <seg>Configuración de autotexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T081508Z" creationid="Antonio" creationdate="20151127T081508Z">
@@ -3342,6 +3358,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081856Z" creationid="Antonio" creationdate="20151127T081856Z">
+        <seg>Visualización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195335Z" creationid="Víctor Parra" creationdate="20151126T195335Z">
@@ -3811,6 +3835,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222204Z" creationid="hcartagena" creationdate="20151116T222204Z">
         <seg>Introduzca el número de segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081847Z" creationid="Antonio" creationdate="20151127T081847Z">
+        <seg>Entradas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4461,6 +4493,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195045Z" creationid="Víctor Parra" creationdate="20151126T195022Z">
         <seg>La carpeta no existe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T082032Z" creationid="Antonio" creationdate="20151127T082032Z">
+        <seg>Aplicar las mayúsculas del texto mecanografiado</seg>
       </tuv>
     </tu>
     <tu>
@@ -8234,6 +8274,30 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191329Z" creationid="hcartagena" creationdate="20151117T191329Z">
         <seg>Al parecer, cambió la ubicación de algunas carpetas del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort alphabetically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081956Z" creationid="Antonio" creationdate="20151127T081956Z">
+        <seg>Ordenar alfabéticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081949Z" creationid="Antonio" creationdate="20151127T081949Z">
+        <seg>Ordenar por texto completo, no por atajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by length</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T082005Z" creationid="Antonio" creationdate="20151127T082005Z">
+        <seg>Ordenar por longitud</seg>
       </tuv>
     </tu>
     <tu>
