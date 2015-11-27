@@ -3422,6 +3422,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T110750Z" creationid="Antonio" creationdate="20151127T110750Z">
+        <seg>Muestra las entradas como "&lt;destino&gt;→ &lt;origen&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233623Z" creationid="hcartagena" creationdate="20151124T233623Z">
@@ -4682,6 +4690,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T110839Z" creationid="Antonio" creationdate="20151127T110839Z">
+        <seg>Opciones Autorrellenador del glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232741Z" creationid="hcartagena" creationdate="20151124T232741Z">
@@ -4912,6 +4928,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230804Z" creationid="hcartagena" creationdate="20151119T230804Z">
         <seg>Si el archivo HHC o HHK tiene una declaración de codificación, se utilizará esta, con independencia del valor que especifique en este cuadro de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T110903Z" creationid="Antonio" creationdate="20151127T110854Z">
+        <seg>Si está marcada, las entradas se ordenan alfabéticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8234,6 +8258,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T082523Z" creationid="Antonio" creationdate="20151127T082523Z">
         <seg>Mostrar primero el término de origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show target term first</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T110813Z" creationid="Antonio" creationdate="20151127T110813Z">
+        <seg>Muestra primero el término de destino</seg>
       </tuv>
     </tu>
     <tu>
