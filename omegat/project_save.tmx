@@ -1924,8 +1924,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T204119Z" creationid="hcartagena" creationdate="20151119T204119Z">
-        <seg>&lt;trans-unit&gt; atributo &amp;resname si está disponible</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174922Z" creationid="hcartagena" creationdate="20151119T204119Z">
+        <seg>atributo &lt;trans-unit&gt; &amp;resname si está disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174926Z" creationid="Antonio" creationdate="20151127T174926Z">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -5696,6 +5704,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T132600Z" creationid="Helli" creationdate="20150526T131802Z">
         <seg>Insertar Coincidencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T174813Z" creationid="Antonio" creationdate="20151127T174813Z">
+        <seg>&amp;Insertar la coincidencia o selección en la traducción</seg>
       </tuv>
     </tu>
     <tu>
