@@ -1996,6 +1996,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081050Z" creationid="Antonio" creationdate="20151127T081050Z">
+        <seg>Añada caracteres a la tabla personalizada haciendo doble clic, o bien resaltando la tabla y pulsando la tecla Insertar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add glossary entry</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233718Z" creationid="hcartagena" creationdate="20151124T233718Z">
@@ -2057,6 +2065,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T121341Z" creationid="Helli" creationdate="20150526T121341Z">
         <seg>Todas las lenguas tienen acceso al OmegaT modelo de objeto, con el proyecto como el objeto superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T080959Z" creationid="Antonio" creationdate="20151127T080959Z">
+        <seg>Permite sólo caracteres únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,6 +2746,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T080950Z" creationid="Antonio" creationdate="20151127T080950Z">
+        <seg>Limpiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T235957Z" creationid="hcartagena" creationdate="20151124T235941Z">
@@ -3106,6 +3130,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T154811Z" creationid="Antonio" creationdate="20151126T154811Z">
         <seg>Selección de colores personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081016Z" creationid="Antonio" creationdate="20151127T081016Z">
+        <seg>Tabla personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character table</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081058Z" creationid="Antonio" creationdate="20151127T081058Z">
+        <seg>Personalizar la tabla de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -4493,6 +4533,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233032Z" creationid="hcartagena" creationdate="20151124T233032Z">
         <seg>La comprobación completa puede acarrear falsos positivos en textos normales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T081020Z" creationid="Antonio" creationdate="20151127T081020Z">
+        <seg>Tabla completa</seg>
       </tuv>
     </tu>
     <tu>
@@ -9962,6 +10010,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T080940Z" creationid="Antonio" creationdate="20151127T080940Z">
+        <seg>¡Cuidado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233428Z" creationid="hcartagena" creationdate="20151124T233428Z">
@@ -10157,6 +10213,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193725Z" creationid="hcartagena" creationdate="20151117T193725Z">
         <seg>Se modificarán {0} segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T080929Z" creationid="Antonio" creationdate="20151127T080929Z">
+        <seg>Usted está intentando utilizar HunspellTokenizer con el idioma {0}, pero no hay diccionarios ortográficos instalados para este idioma.</seg>
       </tuv>
     </tu>
     <tu>
