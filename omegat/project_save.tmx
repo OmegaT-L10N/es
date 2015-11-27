@@ -2846,8 +2846,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T170326Z" creationid="Antonio" creationdate="20151127T170326Z">
-        <seg>Sacando el proyecto...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T170344Z" creationid="Antonio" creationdate="20151127T170326Z">
+        <seg>Descargando el proyecto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4004,16 +4004,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T165206Z" creationid="Antonio" creationdate="20151127T165206Z">
-        <seg>Error al sacar el proyecto del repositorio remoto:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T170349Z" creationid="Antonio" creationdate="20151127T165206Z">
+        <seg>Error al descargar el proyecto del repositorio remoto:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Error checking out the project from remote repository: {0}</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T165215Z" creationid="Antonio" creationdate="20151127T165125Z">
-        <seg>Error al sacar el proyecto del repositorio remoto: {0}</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T170359Z" creationid="Antonio" creationdate="20151127T165125Z">
+        <seg>Error al descargar el proyecto del repositorio remoto: {0}</seg>
       </tuv>
     </tu>
     <tu>
