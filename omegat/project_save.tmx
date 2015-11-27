@@ -2130,6 +2130,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163735Z" creationid="Antonio" creationdate="20151127T163735Z">
+        <seg>Permitir también comandos externos por proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T141051Z" creationid="Helli" creationdate="20150526T141051Z">
@@ -3881,6 +3889,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163934Z" creationid="Antonio" creationdate="20151127T163934Z">
+        <seg>Final rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165311Z" creationid="hcartagena" creationdate="20151120T165311Z">
@@ -4255,6 +4271,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175616Z" creationid="hcartagena" creationdate="20151120T175616Z">
         <seg>&amp;Exportar el segmento a un archivo de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163818Z" creationid="Antonio" creationdate="20151127T163818Z">
+        <seg>Comando externo de posprocesamiento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6064,6 +6088,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163825Z" creationid="Antonio" creationdate="20151127T163825Z">
+        <seg>Minutos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Missing</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163416Z" creationid="Antonio" creationdate="20151127T163416Z">
@@ -6998,6 +7030,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164010Z" creationid="Antonio" creationdate="20151127T164010Z">
+        <seg>Por favor, compruébelo dos veces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175441Z" creationid="hcartagena" creationdate="20151120T175441Z">
@@ -7050,6 +7090,14 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195156Z" creationid="Víctor Parra" creationdate="20151126T195156Z">
         <seg>Por favor, seleccione los diccionarios que desee instalar y pulse el botón Instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163849Z" creationid="Antonio" creationdate="20151127T163849Z">
+        <seg>Por favor, seleccione el intervalo para guardar automáticamente el proyecto, en minutos y segundos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7977,6 +8025,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163906Z" creationid="Antonio" creationdate="20151127T163906Z">
+        <seg>Opciones de Guardar y Producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T143603Z" creationid="Helli" creationdate="20150526T143603Z">
@@ -8079,6 +8135,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193836Z" creationid="hcartagena" creationdate="20151117T193836Z">
         <seg>Se puede buscar en el texto original y en el texto traducido, así como en las notas y en los comentarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163822Z" creationid="Antonio" creationdate="20151127T163822Z">
+        <seg>Segundos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8739,6 +8803,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163956Z" creationid="Antonio" creationdate="20151127T163956Z">
+        <seg>Incio rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T140709Z" creationid="Helli" creationdate="20150526T140709Z">
@@ -9380,6 +9452,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T164023Z" creationid="Antonio" creationdate="20151127T164023Z">
+        <seg>Esta URL no es válida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000325Z" creationid="hcartagena" creationdate="20151125T000325Z">
@@ -9392,6 +9472,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000314Z" creationid="hcartagena" creationdate="20151125T000314Z">
         <seg>Esta llamada DEBE estar en un subproceso swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151127T163750Z" creationid="Antonio" creationdate="20151127T163750Z">
+        <seg>Este comando se ejecutará después de crear los documentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
