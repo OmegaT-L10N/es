@@ -13419,6 +13419,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163136Z" creationid="Antonio" creationdate="20151128T163136Z">
+        <seg>Cuando se aplique la regla, la frase correspondiente se  subrayará en color azul en el Editor (véase &lt;e1&gt;también &lt;/e1&gt;y  &lt;e2&gt;No hice nada&lt;/e2&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235528Z" creationid="Usuario" creationdate="20150603T235528Z">
