@@ -6511,8 +6511,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175436Z" creationid="Antonio" creationdate="20151127T175436Z">
-        <seg>Marcar &amp;espacio en blando</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T080950Z" creationid="Antonio" creationdate="20151127T175436Z">
+        <seg>Marcar &amp;espacio en blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -6559,8 +6559,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Non-&amp;Unique Segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151127T011240Z" creationid="Víctor Parra" creationdate="20151127T011240Z">
-        <seg>Mark Non-&amp;Unique Segments</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081022Z" creationid="Víctor Parra" creationdate="20151127T011240Z">
+        <seg>Marcar Segmentos No Únicos </seg>
       </tuv>
     </tu>
     <tu>
