@@ -8294,6 +8294,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154444Z" creationid="Antonio" creationdate="20151128T154444Z">
+        <seg>Eslavo eclesiástico antiguo, Eslavo eclesiástico, búlgaro antiguo, eslavo antiguo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T073038Z" creationid="Víctor Parra" creationdate="20151124T192353Z">
@@ -8626,6 +8634,22 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Oriya</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154459Z" creationid="Antonio" creationdate="20151128T154452Z">
+        <seg>Oriya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oromo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154449Z" creationid="Antonio" creationdate="20151128T154447Z">
+        <seg>Oromo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142220Z" creationid="hcartagena" creationdate="20151117T142220Z">
@@ -8638,6 +8662,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163344Z" creationid="Antonio" creationdate="20151127T163338Z">
         <seg>Huérfanas  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ossetian, Ossetic</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154513Z" creationid="Antonio" creationdate="20151128T154513Z">
+        <seg>Osetio</seg>
       </tuv>
     </tu>
     <tu>
@@ -8699,10 +8731,26 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Panjabi, Punjabi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154533Z" creationid="Antonio" creationdate="20151128T154533Z">
+        <seg>Punjabí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T224927Z" creationid="hcartagena" creationdate="20151118T224927Z">
         <seg>Se encontró un error de análisis al leer el archivo de preferencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pashto, Pushto</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154707Z" creationid="Antonio" creationdate="20151128T154707Z">
+        <seg>Pastún</seg>
       </tuv>
     </tu>
     <tu>
@@ -8751,6 +8799,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172320Z" creationid="Antonio" creationdate="20151127T172320Z">
         <seg>Es posible que ya esté abierta otra instancia de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Persian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154627Z" creationid="Antonio" creationdate="20151128T154627Z">
+        <seg>Persa</seg>
       </tuv>
     </tu>
     <tu>
@@ -8945,6 +9001,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165323Z" creationid="hcartagena" creationdate="20151120T165323Z">
         <seg>Polaco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154710Z" creationid="Antonio" creationdate="20151128T154710Z">
+        <seg>**PortuguÃ©s</seg>
       </tuv>
     </tu>
     <tu>
@@ -9289,6 +9353,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T075415Z" creationid="Antonio" creationdate="20151127T171648Z">
         <seg>Falló la operación push.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pāli</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154621Z" creationid="Antonio" creationdate="20151128T154536Z">
+        <seg>Pali</seg>
       </tuv>
     </tu>
     <tu>
@@ -13716,6 +13788,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>chu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154446Z" creationid="Antonio" creationdate="20151128T154446Z">
+        <seg>chu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>chv</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083649Z" creationid="Antonio" creationdate="20151128T083649Z">
@@ -13776,6 +13856,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084126Z" creationid="Antonio" creationdate="20151128T084126Z">
         <seg>cs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154445Z" creationid="Antonio" creationdate="20151128T154445Z">
+        <seg>cu</seg>
       </tuv>
     </tu>
     <tu>
@@ -13956,10 +14044,26 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>fa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154630Z" creationid="Antonio" creationdate="20151128T154630Z">
+        <seg>fa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fao</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084913Z" creationid="Antonio" creationdate="20151128T084913Z">
         <seg>fao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fas</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154633Z" creationid="Antonio" creationdate="20151128T154631Z">
+        <seg>fas</seg>
       </tuv>
     </tu>
     <tu>
@@ -15308,6 +15412,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>om</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154450Z" creationid="Antonio" creationdate="20151128T154450Z">
+        <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011450Z" creationid="Víctor Parra" creationdate="20151125T011450Z">
@@ -15340,10 +15452,106 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154503Z" creationid="Antonio" creationdate="20151128T154453Z">
+        <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ori</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154505Z" creationid="Antonio" creationdate="20151128T154505Z">
+        <seg>ori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>orm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154451Z" creationid="Antonio" creationdate="20151128T154451Z">
+        <seg>orm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>os</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154515Z" creationid="Antonio" creationdate="20151128T154515Z">
+        <seg>os</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oss</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154517Z" creationid="Antonio" creationdate="20151128T154515Z">
+        <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154535Z" creationid="Antonio" creationdate="20151128T154535Z">
+        <seg>pa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pdfbox-app-1.8.1.jar (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175052Z" creationid="Antonio" creationdate="20151127T175052Z">
         <seg>commons-*.jar (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154623Z" creationid="Antonio" creationdate="20151128T154538Z">
+        <seg>pi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pl</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154637Z" creationid="Antonio" creationdate="20151128T154637Z">
+        <seg>pl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pli</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154624Z" creationid="Antonio" creationdate="20151128T154624Z">
+        <seg>pli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pol</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154638Z" creationid="Antonio" creationdate="20151128T154638Z">
+        <seg>pol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ps</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154644Z" creationid="Antonio" creationdate="20151128T154644Z">
+        <seg>ps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154709Z" creationid="Antonio" creationdate="20151128T154709Z">
+        <seg>**lplYou are about to translate the 'PenDown 'COMMAND, there are some rules on how to translate it. Please see http: / /edu. kde. org/ kturtle/ translator. php to learn how to properly translate it.</seg>
       </tuv>
     </tu>
     <tu>
