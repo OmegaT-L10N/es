@@ -7439,8 +7439,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Marshallese</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T152759Z" creationid="Antonio" creationdate="20151128T152759Z">
-        <seg>**MarshalésName</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152814Z" creationid="Antonio" creationdate="20151128T152759Z">
+        <seg>Marshalés</seg>
       </tuv>
     </tu>
     <tu>
@@ -7701,6 +7701,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mongolian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152821Z" creationid="Antonio" creationdate="20151128T152821Z">
+        <seg>Mongol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192833Z" creationid="hcartagena" creationdate="20151119T192833Z">
@@ -7842,6 +7850,22 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161745Z" creationid="Antonio" creationdate="20151126T161745Z">
         <seg>Nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nauru</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152838Z" creationid="Antonio" creationdate="20151128T152825Z">
+        <seg>Nauru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navajo, Navaho</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152852Z" creationid="Antonio" creationdate="20151128T152852Z">
+        <seg>Navajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14804,6 +14828,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mah</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152817Z" creationid="Antonio" creationdate="20151128T152817Z">
+        <seg>mah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mal</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152602Z" creationid="Antonio" creationdate="20151128T152602Z">
@@ -14824,6 +14856,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152528Z" creationid="Antonio" creationdate="20151128T152528Z">
         <seg>mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mh</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152816Z" creationid="Antonio" creationdate="20151128T152816Z">
+        <seg>mh</seg>
       </tuv>
     </tu>
     <tu>
@@ -14872,6 +14912,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152713Z" creationid="Antonio" creationdate="20151128T152713Z">
         <seg>mlt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152823Z" creationid="Antonio" creationdate="20151128T152823Z">
+        <seg>mn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152827Z" creationid="Antonio" creationdate="20151128T152824Z">
+        <seg>mon</seg>
       </tuv>
     </tu>
     <tu>
@@ -14940,10 +14996,26 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>na</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152843Z" creationid="Antonio" creationdate="20151128T152839Z">
+        <seg>na</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151745Z" creationid="Helli" creationdate="20150526T151745Z">
         <seg>najlepš*ih - superlativo, plural, genitivo para M,F,N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nau</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152844Z" creationid="Antonio" creationdate="20151128T152844Z">
+        <seg>nau</seg>
       </tuv>
     </tu>
     <tu>
@@ -14960,6 +15032,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084151Z" creationid="Antonio" creationdate="20151128T084151Z">
         <seg>nld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152854Z" creationid="Antonio" creationdate="20151128T152854Z">
+        <seg>nv</seg>
       </tuv>
     </tu>
     <tu>
