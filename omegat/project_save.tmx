@@ -10729,6 +10729,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sinhala, Sinhalese</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155030Z" creationid="Antonio" creationdate="20151128T155030Z">
+        <seg>Cingalés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214013Z" creationid="hcartagena" creationdate="20151119T214013Z">
@@ -10757,6 +10765,30 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211628Z" creationid="hcartagena" creationdate="20151119T211609Z">
         <seg>Di&amp;seños de diapositivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155040Z" creationid="Antonio" creationdate="20151128T155040Z">
+        <seg>Eslovaco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovene</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155105Z" creationid="Antonio" creationdate="20151128T155105Z">
+        <seg>Esloveno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Somali</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155111Z" creationid="Antonio" creationdate="20151128T155111Z">
+        <seg>Somalí</seg>
       </tuv>
     </tu>
     <tu>
@@ -10969,10 +11001,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Southern Sotho</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155119Z" creationid="Antonio" creationdate="20151128T155119Z">
+        <seg>Sotho meridional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165313Z" creationid="hcartagena" creationdate="20151120T165313Z">
         <seg>Español</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish, Castilian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155127Z" creationid="Antonio" creationdate="20151128T155127Z">
+        <seg>Español, castellano</seg>
       </tuv>
     </tu>
     <tu>
@@ -11098,10 +11146,34 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sundanese</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155133Z" creationid="Antonio" creationdate="20151128T155133Z">
+        <seg>Sundanés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SuperTMXMerge-for_OmegaT.jar (LGPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212821Z" creationid="hcartagena" creationdate="20151119T212821Z">
         <seg>SuperTMXMerge-for_OmegaT.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swahili</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155157Z" creationid="Antonio" creationdate="20151128T155137Z">
+        <seg>Suahili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swati</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155218Z" creationid="Antonio" creationdate="20151128T155218Z">
+        <seg>Swati</seg>
       </tuv>
     </tu>
     <tu>
@@ -11322,6 +11394,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tajik</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155254Z" creationid="Antonio" creationdate="20151128T155254Z">
+        <seg>Tajiko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155231Z" creationid="Antonio" creationdate="20151128T155231Z">
+        <seg>Tamil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target count</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T073836Z" creationid="Antonio" creationdate="20151126T161716Z">
@@ -11410,6 +11498,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Telugu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155238Z" creationid="Antonio" creationdate="20151128T155238Z">
+        <seg>Telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231112Z" creationid="hcartagena" creationdate="20151124T231112Z">
@@ -11480,6 +11576,14 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, c
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163445Z" creationid="Antonio" creationdate="20151127T163445Z">
         <seg>Texto a insertar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155302Z" creationid="Antonio" creationdate="20151128T155302Z">
+        <seg>Tailandés</seg>
       </tuv>
     </tu>
     <tu>
@@ -11975,6 +12079,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165521Z" creationid="hcartagena" creationdate="20151120T165521Z">
         <seg>Así, por ejemplo, las reglas para el francés canadiense (FR-CA) tienen preeminencia sobre las reglas para el francés (FR.*) y sobre las reglas predeterminadas (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tigrinya</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155333Z" creationid="Antonio" creationdate="20151128T155333Z">
+        <seg>**TigrinyaName</seg>
       </tuv>
     </tu>
     <tu>
@@ -14100,6 +14212,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>es</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155129Z" creationid="Antonio" creationdate="20151128T155129Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>est</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084234Z" creationid="Antonio" creationdate="20151128T084234Z">
@@ -15852,10 +15972,58 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>si</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155032Z" creationid="Antonio" creationdate="20151128T155032Z">
+        <seg>si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155036Z" creationid="Antonio" creationdate="20151128T155034Z">
+        <seg>sin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155100Z" creationid="Antonio" creationdate="20151128T155042Z">
+        <seg>sk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sl</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155106Z" creationid="Antonio" creationdate="20151128T155106Z">
+        <seg>sl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slf4j-*.jar (MIT License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212829Z" creationid="hcartagena" creationdate="20151119T212829Z">
         <seg>slf4j-*.jar (licencia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155101Z" creationid="Antonio" creationdate="20151128T155101Z">
+        <seg>slk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155108Z" creationid="Antonio" creationdate="20151128T155108Z">
+        <seg>slv</seg>
       </tuv>
     </tu>
     <tu>
@@ -15908,6 +16076,38 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>so</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155113Z" creationid="Antonio" creationdate="20151128T155113Z">
+        <seg>so</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>som</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155114Z" creationid="Antonio" creationdate="20151128T155114Z">
+        <seg>som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sot</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155125Z" creationid="Antonio" creationdate="20151128T155125Z">
+        <seg>sot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155130Z" creationid="Antonio" creationdate="20151128T155130Z">
+        <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sq</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081813Z" creationid="Antonio" creationdate="20151128T081813Z">
@@ -15952,6 +16152,150 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155002Z" creationid="Antonio" creationdate="20151128T155002Z">
         <seg>srp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ss</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155220Z" creationid="Antonio" creationdate="20151128T155220Z">
+        <seg>ss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ssw</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155224Z" creationid="Antonio" creationdate="20151128T155221Z">
+        <seg>ssw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>st</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155123Z" creationid="Antonio" creationdate="20151128T155121Z">
+        <seg>st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>su</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155135Z" creationid="Antonio" creationdate="20151128T155135Z">
+        <seg>su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sun</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155139Z" creationid="Antonio" creationdate="20151128T155136Z">
+        <seg>sun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155227Z" creationid="Antonio" creationdate="20151128T155227Z">
+        <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sw</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155159Z" creationid="Antonio" creationdate="20151128T155159Z">
+        <seg>sw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>swa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155159Z" creationid="Antonio" creationdate="20151128T155159Z">
+        <seg>swa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>swe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155229Z" creationid="Antonio" creationdate="20151128T155229Z">
+        <seg>swe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ta</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155232Z" creationid="Antonio" creationdate="20151128T155232Z">
+        <seg>ta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tam</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155234Z" creationid="Antonio" creationdate="20151128T155234Z">
+        <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155240Z" creationid="Antonio" creationdate="20151128T155240Z">
+        <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155247Z" creationid="Antonio" creationdate="20151128T155247Z">
+        <seg>tel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155256Z" creationid="Antonio" creationdate="20151128T155256Z">
+        <seg>tg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tgk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155257Z" creationid="Antonio" creationdate="20151128T155257Z">
+        <seg>tgk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>th</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155303Z" creationid="Antonio" creationdate="20151128T155303Z">
+        <seg>th</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tha</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155305Z" creationid="Antonio" creationdate="20151128T155305Z">
+        <seg>tha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ti</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155334Z" creationid="Antonio" creationdate="20151128T155334Z">
+        <seg>**%1 ligado</seg>
       </tuv>
     </tu>
     <tu>
