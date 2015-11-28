@@ -2869,6 +2869,22 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bashkir</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082911Z" creationid="Antonio" creationdate="20151128T082911Z">
+        <seg>Bashkir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Basque</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082920Z" creationid="Antonio" creationdate="20151128T082920Z">
+        <seg>Euskera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150605T112454Z" creationid="Helli" creationdate="20150603T151140Z">
@@ -12756,6 +12772,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ba</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082914Z" creationid="Antonio" creationdate="20151128T082914Z">
+        <seg>ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bak</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082915Z" creationid="Antonio" creationdate="20151128T082915Z">
+        <seg>bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>bam</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T082251Z" creationid="Antonio" creationdate="20151128T082251Z">
@@ -12776,6 +12808,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175047Z" creationid="Antonio" creationdate="20151127T175047Z">
         <seg>commons-*.jar (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>eu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082922Z" creationid="Antonio" creationdate="20151128T082922Z">
+        <seg>eu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>eus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082923Z" creationid="Antonio" creationdate="20151128T082923Z">
+        <seg>eus</seg>
       </tuv>
     </tu>
     <tu>
