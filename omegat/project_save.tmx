@@ -3611,6 +3611,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163540Z" creationid="Antonio" creationdate="20151128T163540Z">
+        <seg>Derechos de autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2014 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211954Z" creationid="hcartagena" creationdate="20151119T211954Z">
@@ -4191,6 +4199,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233822Z" creationid="hcartagena" creationdate="20151124T233822Z">
         <seg>Muestra la traducción del segmento original hecha por los servicios de traducción automática que haya seleccionado en Opciones &gt; Traducción automática, si esos servicios están disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Distribution and modifications</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163823Z" creationid="Antonio" creationdate="20151128T163732Z">
+        <seg>Distribución y modificaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -5492,6 +5508,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T080226Z" creationid="Antonio" creationdate="20151127T080226Z">
         <seg>Para obtener mejores resultados, instale los diccionarios apropiados: selecione Opciones &gt; Corrección ortográfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the documentation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163536Z" creationid="Antonio" creationdate="20151128T163536Z">
+        <seg>Para la documentación</seg>
       </tuv>
     </tu>
     <tu>
@@ -11825,6 +11849,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163818Z" creationid="Antonio" creationdate="20151128T163731Z">
+        <seg>El autor del Capítulo &lt;e1&gt;¡Empiece a utilizar Omegat en 5 minutos!&lt;/e1&gt;es Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235754Z" creationid="Usuario" creationdate="20150603T235754Z">
@@ -11849,6 +11881,22 @@ instead.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T234451Z" creationid="hcartagena" creationdate="20151124T234438Z">
         <seg>En su lugar, se utilizará el directorio
 actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163617Z" creationid="Antonio" creationdate="20151128T163617Z">
+        <seg>La documentación distribuida con &lt;a0&gt;OmegaT&lt;/a0&gt; incluye el Manual de usuario y el documento readme.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014 Vincent Bidaux.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163641Z" creationid="Antonio" creationdate="20151128T163641Z">
+        <seg>Derechos de autor de la documentación:  ©2013 Vito Smolej, ©2014 Vincent Bidaux.</seg>
       </tuv>
     </tu>
     <tu>
