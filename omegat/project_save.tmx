@@ -1955,6 +1955,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081603Z" creationid="Antonio" creationdate="20151128T081603Z">
+        <seg>&lt;p0&gt;Proyecto&lt;/p0&gt; &lt;s1&gt;Propiedades&lt;/s1&gt; &lt;s2&gt;Idiomas&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150605T121722Z" creationid="Helli" creationdate="20150603T151519Z">
@@ -2047,6 +2055,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212632Z" creationid="hcartagena" creationdate="20151119T212632Z">
         <seg>ANTLR 3.4 (licencia ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abkhaz</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081806Z" creationid="Antonio" creationdate="20151128T081723Z">
+        <seg>Absajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2211,10 +2227,42 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Afar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081733Z" creationid="Antonio" creationdate="20151128T081728Z">
+        <seg>Afar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Afrikaans</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081737Z" creationid="Antonio" creationdate="20151128T081737Z">
+        <seg>Afrikaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175528Z" creationid="Antonio" creationdate="20151127T175528Z">
         <seg>Sustitución de fuente agresiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Akan</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081740Z" creationid="Antonio" creationdate="20151128T081740Z">
+        <seg>Akan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081751Z" creationid="Antonio" creationdate="20151128T081751Z">
+        <seg>Albanés</seg>
       </tuv>
     </tu>
     <tu>
@@ -5601,6 +5649,38 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ISO 639-1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081710Z" creationid="Antonio" creationdate="20151128T081710Z">
+        <seg>ISO 639-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO 639-1/639-2 Language code list</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081657Z" creationid="Antonio" creationdate="20151128T081657Z">
+        <seg>Lista de códigos de idioma ISO 639-1/639-2 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO 639-2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081712Z" creationid="Antonio" creationdate="20151128T081712Z">
+        <seg>ISO 639-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO language codes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081554Z" creationid="Antonio" creationdate="20151128T081554Z">
+        <seg>Códigos de idioma ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203934Z" creationid="hcartagena" creationdate="20151119T203934Z">
@@ -6285,6 +6365,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081708Z" creationid="Antonio" creationdate="20151128T081708Z">
+        <seg>Nombre del idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184041Z" creationid="hcartagena" creationdate="20151119T184041Z">
@@ -6305,6 +6393,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153643Z" creationid="hcartagena" creationdate="20151117T153643Z">
         <seg>Idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081611Z" creationid="Antonio" creationdate="20151128T081611Z">
+        <seg>Idiomas - Lista de códigos ISO 639</seg>
       </tuv>
     </tu>
     <tu>
@@ -7823,6 +7919,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172320Z" creationid="Antonio" creationdate="20151127T172320Z">
         <seg>Es posible que ya esté abierta otra instancia de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081640Z" creationid="Antonio" creationdate="20151128T081640Z">
+        <seg>Por favor, consule la &lt;a0&gt;Tabla de código ISO 639&lt;/a0&gt; para  obtener información posterior y actualizada sobre los códigos de idioma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12372,6 +12476,70 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>aa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081734Z" creationid="Antonio" creationdate="20151128T081731Z">
+        <seg>aa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081736Z" creationid="Antonio" creationdate="20151128T081736Z">
+        <seg>aar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081725Z" creationid="Antonio" creationdate="20151128T081725Z">
+        <seg>ab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>abk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081727Z" creationid="Antonio" creationdate="20151128T081727Z">
+        <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>af</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081738Z" creationid="Antonio" creationdate="20151128T081738Z">
+        <seg>af</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>afr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081739Z" creationid="Antonio" creationdate="20151128T081739Z">
+        <seg>afr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ak</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081741Z" creationid="Antonio" creationdate="20151128T081741Z">
+        <seg>ak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aka</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081742Z" creationid="Antonio" creationdate="20151128T081742Z">
+        <seg>aka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193753Z" creationid="hcartagena" creationdate="20151117T193528Z">
@@ -12440,6 +12608,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214635Z" creationid="hcartagena" creationdate="20151119T214635Z">
         <seg>href (URL de en&amp;laces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081615Z" creationid="Antonio" creationdate="20151128T081615Z">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
     </tu>
     <tu>
@@ -12568,6 +12744,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212829Z" creationid="hcartagena" creationdate="20151119T212829Z">
         <seg>slf4j-*.jar (licencia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sq</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081813Z" creationid="Antonio" creationdate="20151128T081813Z">
+        <seg>sq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sqi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T081815Z" creationid="Antonio" creationdate="20151128T081815Z">
+        <seg>sqi</seg>
       </tuv>
     </tu>
     <tu>
