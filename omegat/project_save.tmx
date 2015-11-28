@@ -3396,6 +3396,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T165432Z" creationid="Antonio" creationdate="20151128T165432Z">
+        <seg>Al seleccionar &lt;g0&gt;Herramientas &gt; &lt;/g0&gt;&lt;g1&gt;Programación&lt;/g1&gt; se abre la ventana Programación:&lt;s2&gt; &lt;s3&gt;Ventana Programación&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking Tools &gt; Scripting opens the Scripting window:</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T113827Z" creationid="Helli" creationdate="20150526T113538Z">
@@ -10386,8 +10394,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Scripts</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T164455Z" creationid="Antonio" creationdate="20151128T164455Z">
-        <seg>**Scripts</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T165313Z" creationid="Antonio" creationdate="20151128T164455Z">
+        <seg>Scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -11864,8 +11872,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T114444Z" creationid="Helli" creationdate="20150526T114155Z">
-        <seg>La ventana de guión le permite cargar un guión existente al área de texto y ejecutare lo en contra el proyecto abierto actual.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T165540Z" creationid="Helli" creationdate="20150526T114155Z">
+        <seg>La ventana de Programación le permite cargar un programa que aparezca en el área de texto y ejecutarlo en el proyecto abierto actualmente.</seg>
       </tuv>
     </tu>
     <tu>
