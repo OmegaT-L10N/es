@@ -7045,10 +7045,26 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limburgish, Limburgan, Limburger</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145547Z" creationid="Antonio" creationdate="20151128T145547Z">
+        <seg>Limburgués</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202401Z" creationid="hcartagena" creationdate="20151119T202401Z">
         <seg>Largo de línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lingala</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145555Z" creationid="Antonio" creationdate="20151128T145555Z">
+        <seg>Lingala</seg>
       </tuv>
     </tu>
     <tu>
@@ -7169,6 +7185,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175041Z" creationid="Antonio" creationdate="20151127T175041Z">
         <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luganda</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145458Z" creationid="Antonio" creationdate="20151128T145458Z">
+        <seg>Luganda, ganda</seg>
       </tuv>
     </tu>
     <tu>
@@ -14524,6 +14548,30 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>lg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145459Z" creationid="Antonio" creationdate="20151128T145459Z">
+        <seg>lg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>li</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145549Z" creationid="Antonio" creationdate="20151128T145549Z">
+        <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lim</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145550Z" creationid="Antonio" creationdate="20151128T145550Z">
+        <seg>lim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T200856Z" creationid="hcartagena" creationdate="20151118T192023Z">
@@ -14544,6 +14592,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212808Z" creationid="hcartagena" creationdate="20151119T212808Z">
         <seg>lucene-gosen-2.0.2-ipadic.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lug</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145500Z" creationid="Antonio" creationdate="20151128T145500Z">
+        <seg>lug</seg>
       </tuv>
     </tu>
     <tu>
