@@ -5608,10 +5608,26 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Galician</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144300Z" creationid="Antonio" creationdate="20151128T144247Z">
+        <seg>Gallego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235401Z" creationid="Usuario" creationdate="20150603T235401Z">
         <seg>1. Términos generales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144306Z" creationid="Antonio" creationdate="20151128T144306Z">
+        <seg>Georgiano</seg>
       </tuv>
     </tu>
     <tu>
@@ -5792,6 +5808,30 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Greek, Modern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144323Z" creationid="Antonio" creationdate="20151128T144323Z">
+        <seg>Griego, moderno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guaraní</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144328Z" creationid="Antonio" creationdate="20151128T144328Z">
+        <seg>Guaraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gujarati</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144340Z" creationid="Antonio" creationdate="20151128T144340Z">
+        <seg>Gujarati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230638Z" creationid="hcartagena" creationdate="20151119T230638Z">
@@ -5832,10 +5872,34 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Haitian, Haitian Creole</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144412Z" creationid="Antonio" creationdate="20151128T144412Z">
+        <seg>Haitiano, haitiano creol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hausa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144416Z" creationid="Antonio" creationdate="20151128T144416Z">
+        <seg>Hausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T205359Z" creationid="hcartagena" creationdate="20151119T205359Z">
         <seg>Enc&amp;abezados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hebrew (modern)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144422Z" creationid="Antonio" creationdate="20151128T144422Z">
+        <seg>Hebreo (Israel)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5881,6 +5945,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Herero</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144427Z" creationid="Antonio" creationdate="20151128T144427Z">
+        <seg>Herero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T174710Z" creationid="Antonio" creationdate="20151127T174710Z">
@@ -5897,6 +5969,22 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hindi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144431Z" creationid="Antonio" creationdate="20151128T144431Z">
+        <seg>Hindi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiri Motu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144500Z" creationid="Antonio" creationdate="20151128T144500Z">
+        <seg>Hiri Motu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T122832Z" creationid="Helli" creationdate="20150526T122832Z">
@@ -5909,6 +5997,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T020411Z" creationid="Víctor Parra" creationdate="20151125T020411Z">
         <seg>Inicio*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144505Z" creationid="Antonio" creationdate="20151128T144505Z">
+        <seg>Húngaro</seg>
       </tuv>
     </tu>
     <tu>
@@ -6329,6 +6425,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T234003Z" creationid="hcartagena" creationdate="20151124T234003Z">
         <seg>Guía de inicio rápido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Interlingua</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144509Z" creationid="Antonio" creationdate="20151128T144509Z">
+        <seg>Interlingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -13268,6 +13372,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>de</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144313Z" creationid="Antonio" creationdate="20151128T144313Z">
+        <seg>de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>deu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144314Z" creationid="Antonio" creationdate="20151128T144314Z">
+        <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>div</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084147Z" creationid="Antonio" creationdate="20151128T084147Z">
@@ -13304,6 +13424,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084313Z" creationid="Antonio" creationdate="20151128T084313Z">
         <seg>ee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>el</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144325Z" creationid="Antonio" creationdate="20151128T144325Z">
+        <seg>el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ell</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144325Z" creationid="Antonio" creationdate="20151128T144325Z">
+        <seg>ell</seg>
       </tuv>
     </tu>
     <tu>
@@ -13476,6 +13612,38 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gl</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144302Z" creationid="Antonio" creationdate="20151128T144254Z">
+        <seg>gl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>glg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144303Z" creationid="Antonio" creationdate="20151128T144303Z">
+        <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144330Z" creationid="Antonio" creationdate="20151128T144330Z">
+        <seg>gn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>grn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144331Z" creationid="Antonio" creationdate="20151128T144331Z">
+        <seg>grn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>groovy-all-2.2.2.jar (Apache Licence 2.0)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175101Z" creationid="Antonio" creationdate="20151127T175101Z">
@@ -13484,10 +13652,106 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144343Z" creationid="Antonio" creationdate="20151128T144343Z">
+        <seg>gu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>guj</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144344Z" creationid="Antonio" creationdate="20151128T144344Z">
+        <seg>guj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214656Z" creationid="hcartagena" creationdate="20151119T214656Z">
         <seg>h&amp;reflang (idioma de enlaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ha</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144418Z" creationid="Antonio" creationdate="20151128T144418Z">
+        <seg>ha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hat</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144414Z" creationid="Antonio" creationdate="20151128T144414Z">
+        <seg>hat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hau</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144419Z" creationid="Antonio" creationdate="20151128T144419Z">
+        <seg>hau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>he</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144424Z" creationid="Antonio" creationdate="20151128T144424Z">
+        <seg>he</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>heb</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144425Z" creationid="Antonio" creationdate="20151128T144425Z">
+        <seg>heb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>her</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144429Z" creationid="Antonio" creationdate="20151128T144429Z">
+        <seg>her</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144432Z" creationid="Antonio" creationdate="20151128T144432Z">
+        <seg>hi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144433Z" creationid="Antonio" creationdate="20151128T144433Z">
+        <seg>hin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hmo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144503Z" creationid="Antonio" creationdate="20151128T144503Z">
+        <seg>hmo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ho</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144502Z" creationid="Antonio" creationdate="20151128T144502Z">
+        <seg>ho</seg>
       </tuv>
     </tu>
     <tu>
@@ -13516,10 +13780,34 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ht</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144413Z" creationid="Antonio" creationdate="20151128T144413Z">
+        <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081615Z" creationid="Antonio" creationdate="20151128T081615Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144507Z" creationid="Antonio" creationdate="20151128T144507Z">
+        <seg>hu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hun</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144507Z" creationid="Antonio" creationdate="20151128T144507Z">
+        <seg>hun</seg>
       </tuv>
     </tu>
     <tu>
@@ -13540,6 +13828,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>hz</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144429Z" creationid="Antonio" creationdate="20151128T144429Z">
+        <seg>hz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>juniversalchardet-1.0.3.jar (GPL)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175106Z" creationid="Antonio" creationdate="20151127T175106Z">
@@ -13552,6 +13848,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175049Z" creationid="Antonio" creationdate="20151127T175049Z">
         <seg>jwordsplitter-3.4.jar (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ka</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144308Z" creationid="Antonio" creationdate="20151128T144308Z">
+        <seg>ka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kat</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144310Z" creationid="Antonio" creationdate="20151128T144310Z">
+        <seg>kat</seg>
       </tuv>
     </tu>
     <tu>
