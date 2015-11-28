@@ -3813,8 +3813,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Display source terms</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T154411Z" creationid="Antonio" creationdate="20151127T154411Z">
-        <seg>Mostrar &amp;segmentos de origen</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T075108Z" creationid="Antonio" creationdate="20151127T154411Z">
+        <seg>Mostrar segmentos de origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -11949,8 +11949,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T154357Z" creationid="Antonio" creationdate="20151127T154357Z">
-        <seg>Cuando están marcados, los elementos de la lista del autorelleno del glosario tendrán también el texto de origen. </seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T075123Z" creationid="Antonio" creationdate="20151127T154357Z">
+        <seg>Cuando están marcados, los elementos de la lista de autorelleno del glosario tendrán también el texto de origen. </seg>
       </tuv>
     </tu>
     <tu>
