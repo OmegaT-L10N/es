@@ -7870,6 +7870,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ndonga</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153302Z" creationid="Antonio" creationdate="20151128T153302Z">
+        <seg>Ndonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nepali</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153254Z" creationid="Antonio" creationdate="20151128T153254Z">
+        <seg>Nepalí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130857Z" creationid="Helli" creationdate="20150526T130857Z">
@@ -8090,6 +8106,38 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T205339Z" creationid="hcartagena" creationdate="20151119T205339Z">
         <seg>Te&amp;xto de instrucciones no visibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>North Ndebele</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153246Z" creationid="Antonio" creationdate="20151128T153246Z">
+        <seg>Ndebele del norte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153410Z" creationid="Antonio" creationdate="20151128T153410Z">
+        <seg>Noruego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian Bokmål</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153147Z" creationid="Antonio" creationdate="20151128T153147Z">
+        <seg>Noruego Bokmål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian Nynorsk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153404Z" creationid="Antonio" creationdate="20151128T153404Z">
+        <seg>Noruego Nynorsk</seg>
       </tuv>
     </tu>
     <tu>
@@ -15020,6 +15068,70 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>nav</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153139Z" creationid="Antonio" creationdate="20151128T153139Z">
+        <seg>nav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nb</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153148Z" creationid="Antonio" creationdate="20151128T153148Z">
+        <seg>nb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nd</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153248Z" creationid="Antonio" creationdate="20151128T153248Z">
+        <seg>nd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nde</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153249Z" creationid="Antonio" creationdate="20151128T153249Z">
+        <seg>nde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ndo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153305Z" creationid="Antonio" creationdate="20151128T153305Z">
+        <seg>ndo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ne</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153255Z" creationid="Antonio" creationdate="20151128T153255Z">
+        <seg>ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nep</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153256Z" creationid="Antonio" creationdate="20151128T153256Z">
+        <seg>nep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ng</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153304Z" creationid="Antonio" creationdate="20151128T153304Z">
+        <seg>ng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>nl</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084150Z" creationid="Antonio" creationdate="20151128T084150Z">
@@ -15032,6 +15144,46 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084151Z" creationid="Antonio" creationdate="20151128T084151Z">
         <seg>nld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153406Z" creationid="Antonio" creationdate="20151128T153406Z">
+        <seg>nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nno</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153407Z" creationid="Antonio" creationdate="20151128T153407Z">
+        <seg>nno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153411Z" creationid="Antonio" creationdate="20151128T153411Z">
+        <seg>no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nob</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153149Z" creationid="Antonio" creationdate="20151128T153149Z">
+        <seg>nob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153413Z" creationid="Antonio" creationdate="20151128T153413Z">
+        <seg>nor</seg>
       </tuv>
     </tu>
     <tu>
