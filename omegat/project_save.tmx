@@ -5192,6 +5192,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Faroese</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084910Z" creationid="Antonio" creationdate="20151128T084910Z">
+        <seg>Feroés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T141006Z" creationid="hcartagena" creationdate="20151117T141006Z">
@@ -5204,6 +5212,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183911Z" creationid="hcartagena" creationdate="20151119T183911Z">
         <seg>Error fatal en la línea {0}, columna {1} durante el análisis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fijian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084919Z" creationid="Antonio" creationdate="20151128T084919Z">
+        <seg>Fiyiano</seg>
       </tuv>
     </tu>
     <tu>
@@ -13364,6 +13380,30 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>fao</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084913Z" creationid="Antonio" creationdate="20151128T084913Z">
+        <seg>fao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084926Z" creationid="Antonio" creationdate="20151128T084926Z">
+        <seg>fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fij</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084923Z" creationid="Antonio" creationdate="20151128T084923Z">
+        <seg>fij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193532Z" creationid="hcartagena" creationdate="20151117T193532Z">
@@ -13376,6 +13416,46 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150603T151147Z" creationid="Helli" creationdate="20150603T151147Z">
         <seg>Filtros de archivo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084927Z" creationid="Antonio" creationdate="20151128T084927Z">
+        <seg>fin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fj</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084921Z" creationid="Antonio" creationdate="20151128T084921Z">
+        <seg>fj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084911Z" creationid="Antonio" creationdate="20151128T084911Z">
+        <seg>fo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084935Z" creationid="Antonio" creationdate="20151128T084935Z">
+        <seg>fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fra</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084936Z" creationid="Antonio" creationdate="20151128T084936Z">
+        <seg>fra</seg>
       </tuv>
     </tu>
     <tu>
