@@ -5290,8 +5290,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171736Z" creationid="Antonio" creationdate="20151127T171718Z">
-        <seg>La ejecución de '{0}? de Git ha terminado con éxito</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T075423Z" creationid="Antonio" creationdate="20151127T171718Z">
+        <seg>La ejecución de '{0}' de Git ha terminado con éxito</seg>
       </tuv>
     </tu>
     <tu>
@@ -8351,8 +8351,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Push failed.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171648Z" creationid="Antonio" creationdate="20151127T171648Z">
-        <seg>Operación push fallida.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T075415Z" creationid="Antonio" creationdate="20151127T171648Z">
+        <seg>Falló la operación push.</seg>
       </tuv>
     </tu>
     <tu>
