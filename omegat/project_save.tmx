@@ -3755,6 +3755,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cree</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084109Z" creationid="Antonio" creationdate="20151128T084109Z">
+        <seg>Cree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084116Z" creationid="Antonio" creationdate="20151128T084116Z">
+        <seg>Croata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011537Z" creationid="Víctor Parra" creationdate="20151125T011537Z">
@@ -3835,10 +3851,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084124Z" creationid="Antonio" creationdate="20151128T084124Z">
+        <seg>Checo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211711Z" creationid="hcartagena" creationdate="20151119T211711Z">
         <seg>D&amp;iagramas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084131Z" creationid="Antonio" creationdate="20151128T084131Z">
+        <seg>Danés</seg>
       </tuv>
     </tu>
     <tu>
@@ -4139,6 +4171,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Divehi, Dhivehi, Maldivian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084144Z" creationid="Antonio" creationdate="20151128T084144Z">
+        <seg>Divehi, Dhivehi, Maldivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233447Z" creationid="hcartagena" creationdate="20151124T233447Z">
@@ -4361,6 +4401,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165321Z" creationid="hcartagena" creationdate="20151120T165321Z">
         <seg>Holandés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dzongkha</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084158Z" creationid="Antonio" creationdate="20151128T084158Z">
+        <seg>Dzongkha</seg>
       </tuv>
     </tu>
     <tu>
@@ -4815,6 +4863,22 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Esperanto</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084218Z" creationid="Antonio" creationdate="20151128T084210Z">
+        <seg>Esperanto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084231Z" creationid="Antonio" creationdate="20151128T084231Z">
+        <seg>Estonio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000234Z" creationid="hcartagena" creationdate="20151125T000234Z">
@@ -4859,6 +4923,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000152Z" creationid="hcartagena" creationdate="20151125T000129Z">
         <seg>Evento: cambio en el proyecto - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ewe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084311Z" creationid="Antonio" creationdate="20151128T084311Z">
+        <seg>Ewé</seg>
       </tuv>
     </tu>
     <tu>
@@ -13052,6 +13124,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ces</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084127Z" creationid="Antonio" creationdate="20151128T084127Z">
+        <seg>ces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ch</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083614Z" creationid="Antonio" creationdate="20151128T083614Z">
@@ -13116,10 +13196,138 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084111Z" creationid="Antonio" creationdate="20151128T084111Z">
+        <seg>cr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cre</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084111Z" creationid="Antonio" creationdate="20151128T084111Z">
+        <seg>cre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084126Z" creationid="Antonio" creationdate="20151128T084126Z">
+        <seg>cs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cv</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083648Z" creationid="Antonio" creationdate="20151128T083648Z">
         <seg>cv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>da</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084135Z" creationid="Antonio" creationdate="20151128T084135Z">
+        <seg>da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dan</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084136Z" creationid="Antonio" creationdate="20151128T084136Z">
+        <seg>dan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>div</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084147Z" creationid="Antonio" creationdate="20151128T084147Z">
+        <seg>div</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084146Z" creationid="Antonio" creationdate="20151128T084146Z">
+        <seg>dv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dz</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084200Z" creationid="Antonio" creationdate="20151128T084200Z">
+        <seg>dz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dzo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084201Z" creationid="Antonio" creationdate="20151128T084201Z">
+        <seg>dzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ee</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084313Z" creationid="Antonio" creationdate="20151128T084313Z">
+        <seg>ee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084204Z" creationid="Antonio" creationdate="20151128T084204Z">
+        <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>eng</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084206Z" creationid="Antonio" creationdate="20151128T084206Z">
+        <seg>eng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>eo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084221Z" creationid="Antonio" creationdate="20151128T084213Z">
+        <seg>eo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>epo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084222Z" creationid="Antonio" creationdate="20151128T084222Z">
+        <seg>epo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>est</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084234Z" creationid="Antonio" creationdate="20151128T084234Z">
+        <seg>est</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>et</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084233Z" creationid="Antonio" creationdate="20151128T084233Z">
+        <seg>et</seg>
       </tuv>
     </tu>
     <tu>
@@ -13136,6 +13344,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T082923Z" creationid="Antonio" creationdate="20151128T082923Z">
         <seg>eus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ewe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084314Z" creationid="Antonio" creationdate="20151128T084314Z">
+        <seg>ewe</seg>
       </tuv>
     </tu>
     <tu>
@@ -13180,10 +13396,26 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>hr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084118Z" creationid="Antonio" creationdate="20151128T084118Z">
+        <seg>hr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214635Z" creationid="hcartagena" creationdate="20151119T214635Z">
         <seg>href (URL de en&amp;laces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hrv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084119Z" creationid="Antonio" creationdate="20151128T084119Z">
+        <seg>hrv</seg>
       </tuv>
     </tu>
     <tu>
@@ -13296,6 +13528,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151745Z" creationid="Helli" creationdate="20150526T151745Z">
         <seg>najlepš*ih - superlativo, plural, genitivo para M,F,N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nl</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084150Z" creationid="Antonio" creationdate="20151128T084150Z">
+        <seg>nl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nld</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084151Z" creationid="Antonio" creationdate="20151128T084151Z">
+        <seg>nld</seg>
       </tuv>
     </tu>
     <tu>
