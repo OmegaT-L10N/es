@@ -1955,6 +1955,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T161627Z" creationid="Antonio" creationdate="20151128T161627Z">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081603Z" creationid="Antonio" creationdate="20151128T081603Z">
@@ -1991,6 +1999,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T174926Z" creationid="Antonio" creationdate="20151127T174926Z">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T161747Z" creationid="Antonio" creationdate="20151128T161655Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; es un software libre de corrección de estilo y revisión de gramática de inglés, francés, alemán, polaco, holandés, rumano y un número de otras idiomas - vea la &lt;u1&gt;lista de idiomas admitidos&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6977,6 +6993,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184041Z" creationid="hcartagena" creationdate="20151119T184041Z">
         <seg>No se especificó el idioma para la variante de la unidad de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T161637Z" creationid="Antonio" creationdate="20151128T161637Z">
+        <seg>Plugin de LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -14848,6 +14872,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144413Z" creationid="Antonio" creationdate="20151128T144413Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T161641Z" creationid="Antonio" creationdate="20151128T161641Z">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T161643Z" creationid="Antonio" creationdate="20151128T161643Z">
+        <seg>http://www.languagetool.org/languages/</seg>
       </tuv>
     </tu>
     <tu>
