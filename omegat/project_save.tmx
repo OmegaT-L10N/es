@@ -5560,6 +5560,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T084940Z" creationid="Antonio" creationdate="20151128T084940Z">
+        <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233032Z" creationid="hcartagena" creationdate="20151124T233032Z">
@@ -13384,6 +13392,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084913Z" creationid="Antonio" creationdate="20151128T084913Z">
         <seg>fao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ff</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T085514Z" creationid="Antonio" creationdate="20151128T085514Z">
+        <seg>ff</seg>
       </tuv>
     </tu>
     <tu>
