@@ -6757,6 +6757,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kashmiri</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144837Z" creationid="Antonio" creationdate="20151128T144837Z">
+        <seg>Cachemiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kazakh</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144841Z" creationid="Antonio" creationdate="20151128T144841Z">
+        <seg>Kazakh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key behavior in the editor</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011414Z" creationid="Víctor Parra" creationdate="20151125T011402Z">
@@ -6817,6 +6833,46 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T194107Z" creationid="hcartagena" creationdate="20151117T194107Z">
         <seg>La búsqueda con palabras clave trata la cadena consultada como un conjunto de palabras clave (separadas por espacios) y devuelve todos los segmentos que contienen todas las palabras clave, cualquiera sea su orden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Khmer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144850Z" creationid="Antonio" creationdate="20151128T144844Z">
+        <seg>Camboyano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144904Z" creationid="Antonio" creationdate="20151128T144904Z">
+        <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kinyarwanda</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144938Z" creationid="Antonio" creationdate="20151128T144908Z">
+        <seg>Kiñaruanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirghiz, Kyrgyz</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145029Z" creationid="Antonio" creationdate="20151128T145029Z">
+        <seg>Kirguís</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Komi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145033Z" creationid="Antonio" creationdate="20151128T145033Z">
+        <seg>Komi</seg>
       </tuv>
     </tu>
     <tu>
@@ -14164,6 +14220,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>kas</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144840Z" creationid="Antonio" creationdate="20151128T144840Z">
+        <seg>kas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>kat</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144310Z" creationid="Antonio" creationdate="20151128T144310Z">
@@ -14180,10 +14244,74 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>kaz</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144843Z" creationid="Antonio" creationdate="20151128T144843Z">
+        <seg>kaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>khm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144854Z" creationid="Antonio" creationdate="20151128T144854Z">
+        <seg>khm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ki</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144906Z" creationid="Antonio" creationdate="20151128T144906Z">
+        <seg>ki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kik</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144907Z" creationid="Antonio" creationdate="20151128T144907Z">
+        <seg>kik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144941Z" creationid="Antonio" creationdate="20151128T144941Z">
+        <seg>kin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kir</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145032Z" creationid="Antonio" creationdate="20151128T145032Z">
+        <seg>kir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144842Z" creationid="Antonio" creationdate="20151128T144842Z">
+        <seg>kk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>kl</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144709Z" creationid="Antonio" creationdate="20151128T144709Z">
         <seg>kl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>km</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144852Z" creationid="Antonio" creationdate="20151128T144846Z">
+        <seg>km</seg>
       </tuv>
     </tu>
     <tu>
@@ -14204,10 +14332,26 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144838Z" creationid="Antonio" creationdate="20151128T144838Z">
+        <seg>ks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>kw</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083658Z" creationid="Antonio" creationdate="20151128T083658Z">
         <seg>kw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ky</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145031Z" creationid="Antonio" creationdate="20151128T145031Z">
+        <seg>ky</seg>
       </tuv>
     </tu>
     <tu>
@@ -14344,6 +14488,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175052Z" creationid="Antonio" creationdate="20151127T175052Z">
         <seg>commons-*.jar (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rw</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T144940Z" creationid="Antonio" creationdate="20151128T144940Z">
+        <seg>rw</seg>
       </tuv>
     </tu>
     <tu>
