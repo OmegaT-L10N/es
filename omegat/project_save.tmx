@@ -8286,6 +8286,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154312Z" creationid="Antonio" creationdate="20151128T154312Z">
+        <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T073038Z" creationid="Víctor Parra" creationdate="20151124T192353Z">
@@ -15280,6 +15288,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153629Z" creationid="Antonio" creationdate="20151128T153629Z">
         <seg>oci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oj</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154313Z" creationid="Antonio" creationdate="20151128T154313Z">
+        <seg>oj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oji</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154314Z" creationid="Antonio" creationdate="20151128T154314Z">
+        <seg>oji</seg>
       </tuv>
     </tu>
     <tu>
