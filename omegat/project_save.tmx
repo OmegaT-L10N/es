@@ -7245,6 +7245,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152513Z" creationid="Antonio" creationdate="20151128T152513Z">
+        <seg>Macedonio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translate</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T141107Z" creationid="Helli" creationdate="20150526T141107Z">
@@ -7269,10 +7277,58 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Malagasy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152526Z" creationid="Antonio" creationdate="20151128T152517Z">
+        <seg>Malgache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malay</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152532Z" creationid="Antonio" creationdate="20151128T152532Z">
+        <seg>Malayo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152558Z" creationid="Antonio" creationdate="20151128T152558Z">
+        <seg>Malabar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152711Z" creationid="Antonio" creationdate="20151128T152711Z">
+        <seg>Maltés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152507Z" creationid="Antonio" creationdate="20151128T152507Z">
+        <seg>Manés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T080950Z" creationid="Antonio" creationdate="20151127T175436Z">
         <seg>Marcar &amp;espacio en blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marathi (Marāṭhī)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152755Z" creationid="Antonio" creationdate="20151128T152755Z">
+        <seg>Marati</seg>
       </tuv>
     </tu>
     <tu>
@@ -7377,6 +7433,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T135910Z" creationid="Helli" creationdate="20150526T135910Z">
         <seg>Whitespace Marcado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marshallese</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152759Z" creationid="Antonio" creationdate="20151128T152759Z">
+        <seg>**MarshalésName</seg>
       </tuv>
     </tu>
     <tu>
@@ -7762,6 +7826,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T174434Z" creationid="Antonio" creationdate="20151127T174434Z">
         <seg>MyMemory (máquina)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Māori</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152731Z" creationid="Antonio" creationdate="20151128T152731Z">
+        <seg>Maorí</seg>
       </tuv>
     </tu>
     <tu>
@@ -13900,6 +13972,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>glv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152510Z" creationid="Antonio" creationdate="20151128T152510Z">
+        <seg>glv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gn</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144330Z" creationid="Antonio" creationdate="20151128T144330Z">
@@ -13936,6 +14016,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144344Z" creationid="Antonio" creationdate="20151128T144344Z">
         <seg>guj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152509Z" creationid="Antonio" creationdate="20151128T152509Z">
+        <seg>gv</seg>
       </tuv>
     </tu>
     <tu>
@@ -14716,10 +14804,122 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mal</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152602Z" creationid="Antonio" creationdate="20151128T152602Z">
+        <seg>mal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152801Z" creationid="Antonio" creationdate="20151128T152758Z">
+        <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152528Z" creationid="Antonio" creationdate="20151128T152528Z">
+        <seg>mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152733Z" creationid="Antonio" creationdate="20151128T152733Z">
+        <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152515Z" creationid="Antonio" creationdate="20151128T152515Z">
+        <seg>mk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mkd</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152519Z" creationid="Antonio" creationdate="20151128T152516Z">
+        <seg>mkd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ml</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152559Z" creationid="Antonio" creationdate="20151128T152559Z">
+        <seg>ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mlg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152529Z" creationid="Antonio" creationdate="20151128T152529Z">
+        <seg>mlg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mlt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152713Z" creationid="Antonio" creationdate="20151128T152713Z">
+        <seg>mlt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>morfologik-*.jar (Morfologik license)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212755Z" creationid="hcartagena" creationdate="20151119T212755Z">
         <seg>morfologik-*.jar (licencia Morfologik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152757Z" creationid="Antonio" creationdate="20151128T152757Z">
+        <seg>mr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mri</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152734Z" creationid="Antonio" creationdate="20151128T152734Z">
+        <seg>mri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152534Z" creationid="Antonio" creationdate="20151128T152534Z">
+        <seg>ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>msa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152536Z" creationid="Antonio" creationdate="20151128T152536Z">
+        <seg>msa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T152712Z" creationid="Antonio" creationdate="20151128T152712Z">
+        <seg>mt</seg>
       </tuv>
     </tu>
     <tu>
