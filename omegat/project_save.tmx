@@ -6877,6 +6877,38 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kongo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145232Z" creationid="Antonio" creationdate="20151128T145232Z">
+        <seg>Kongo, Kikongo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145238Z" creationid="Antonio" creationdate="20151128T145238Z">
+        <seg>Coreano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kurdish</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145243Z" creationid="Antonio" creationdate="20151128T145243Z">
+        <seg>Kurdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kwanyama, Kuanyama</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145400Z" creationid="Antonio" creationdate="20151128T145400Z">
+        <seg>Kuanyama, kwanyama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221805Z" creationid="hcartagena" creationdate="20151116T221805Z">
@@ -6993,6 +7025,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223424Z" creationid="hcartagena" creationdate="20151116T223424Z">
         <seg>Última modificación por {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145412Z" creationid="Antonio" creationdate="20151128T145412Z">
+        <seg>Latín</seg>
       </tuv>
     </tu>
     <tu>
@@ -7129,6 +7169,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175041Z" creationid="Antonio" creationdate="20151127T175041Z">
         <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luxembourgish, Letzeburgesch</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145431Z" creationid="Antonio" creationdate="20151128T145431Z">
+        <seg>Luxemburgués</seg>
       </tuv>
     </tu>
     <tu>
@@ -14252,6 +14300,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>kg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145234Z" creationid="Antonio" creationdate="20151128T145234Z">
+        <seg>kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>khm</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144854Z" creationid="Antonio" creationdate="20151128T144854Z">
@@ -14292,6 +14348,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>kj</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145402Z" creationid="Antonio" creationdate="20151128T145402Z">
+        <seg>kj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>kk</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144842Z" creationid="Antonio" creationdate="20151128T144842Z">
@@ -14324,6 +14388,38 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ko</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145239Z" creationid="Antonio" creationdate="20151128T145239Z">
+        <seg>ko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kom</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145135Z" creationid="Antonio" creationdate="20151128T145135Z">
+        <seg>kom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145235Z" creationid="Antonio" creationdate="20151128T145235Z">
+        <seg>kon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145241Z" creationid="Antonio" creationdate="20151128T145241Z">
+        <seg>kor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>kr</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144730Z" creationid="Antonio" creationdate="20151128T144727Z">
@@ -14336,6 +14432,38 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144838Z" creationid="Antonio" creationdate="20151128T144838Z">
         <seg>ks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ku</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145245Z" creationid="Antonio" creationdate="20151128T145245Z">
+        <seg>ku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kua</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145403Z" creationid="Antonio" creationdate="20151128T145403Z">
+        <seg>kua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kur</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145256Z" creationid="Antonio" creationdate="20151128T145256Z">
+        <seg>kur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kv</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145134Z" creationid="Antonio" creationdate="20151128T145134Z">
+        <seg>kv</seg>
       </tuv>
     </tu>
     <tu>
@@ -14356,10 +14484,34 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>la</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145414Z" creationid="Antonio" creationdate="20151128T145414Z">
+        <seg>la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214651Z" creationid="hcartagena" creationdate="20151119T214651Z">
         <seg>lan&amp;g (atributo de idioma)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lat</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145415Z" creationid="Antonio" creationdate="20151128T145415Z">
+        <seg>lat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lb</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145432Z" creationid="Antonio" creationdate="20151128T145432Z">
+        <seg>lb</seg>
       </tuv>
     </tu>
     <tu>
@@ -14376,6 +14528,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T200856Z" creationid="hcartagena" creationdate="20151118T192023Z">
         <seg>cargado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ltz</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T145433Z" creationid="Antonio" creationdate="20151128T145433Z">
+        <seg>ltz</seg>
       </tuv>
     </tu>
     <tu>
