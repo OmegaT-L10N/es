@@ -6453,6 +6453,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation and Use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T162049Z" creationid="Antonio" creationdate="20151128T162049Z">
+        <seg>Instalación y uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T120327Z">
@@ -6585,6 +6593,22 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T120748Z" creationid="Helli" creationdate="20150526T120748Z">
         <seg>Construye a las fuerzas de Java pero tiene poderosas caracter�sticas adicionales inspiradas en lenguas como pit�n, rub� y charloteo.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can also detect some grammar mistakes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T161932Z" creationid="Antonio" creationdate="20151128T161932Z">
+        <seg>También puede detectar algunos errores gramaticales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not include spell checking.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T161958Z" creationid="Antonio" creationdate="20151128T161958Z">
+        <seg>No incluye la verificación de ortografía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7001,6 +7025,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161637Z" creationid="Antonio" creationdate="20151128T161637Z">
         <seg>Plugin de LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T162037Z" creationid="Antonio" creationdate="20151128T162037Z">
+        <seg>LanguageTool encontrará errores para los cuales se haya definido una regla, en sus archivos de configuración específicos de idioma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11679,6 +11711,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LanguageTool in OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T162046Z" creationid="Antonio" creationdate="20151128T162046Z">
+        <seg>LanguageTool en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202926Z" creationid="hcartagena" creationdate="20151119T201921Z">
@@ -13700,6 +13740,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115554Z" creationid="Helli" creationdate="20150526T115554Z">
         <seg> Puede iniciar los marcos seleccionados del menú principal también utilizando sus entradas en el menú de Herramientas o pulsando&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; *Ctrl+*Alt+*F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 a 12).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T161905Z" creationid="Antonio" creationdate="20151128T161905Z">
+        <seg>Puede ver LangugeTool como un software para detectar errores que no puede detectar un simple corrector  ortográfico, por ejemplo,  confundir allí y allá,  ahora y hora, etc.</seg>
       </tuv>
     </tu>
     <tu>
