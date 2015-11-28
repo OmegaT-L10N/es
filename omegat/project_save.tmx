@@ -3603,6 +3603,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Corsican</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T083736Z" creationid="Antonio" creationdate="20151128T083736Z">
+        <seg>Corso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195131Z" creationid="Víctor Parra" creationdate="20151126T195131Z">
@@ -13076,6 +13084,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>co</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T083738Z" creationid="Antonio" creationdate="20151128T083738Z">
+        <seg>co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>commons-*.jar (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175047Z" creationid="Antonio" creationdate="20151127T175047Z">
@@ -13088,6 +13104,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083659Z" creationid="Antonio" creationdate="20151128T083659Z">
         <seg>cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cos</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T083739Z" creationid="Antonio" creationdate="20151128T083739Z">
+        <seg>cos</seg>
       </tuv>
     </tu>
     <tu>
