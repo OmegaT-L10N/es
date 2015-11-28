@@ -1941,8 +1941,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T154855Z" creationid="Antonio" creationdate="20151126T154855Z">
-        <seg>&lt;html&gt;Puede agregar patrones usando comodines (estilo hormiga): ' * ','?' y ' **', como ' ** / SVN / **'&lt;/html&gt;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T073657Z" creationid="Antonio" creationdate="20151126T154855Z">
+        <seg>&lt;html&gt;Puede agregar patrones usando comodines (estilo hormiga): ' * ','?' y ' **', como '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10204,8 +10204,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Target count</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T161716Z" creationid="Antonio" creationdate="20151126T161716Z">
-        <seg>Recuento del destinoQ</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T073836Z" creationid="Antonio" creationdate="20151126T161716Z">
+        <seg>Recuento del destino</seg>
       </tuv>
     </tu>
     <tu>
