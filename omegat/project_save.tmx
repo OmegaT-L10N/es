@@ -3031,8 +3031,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T081359Z" creationid="Antonio" creationdate="20151127T081359Z">
-        <seg>Opiones Autorrellenador de la tabla de caracteres</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T074143Z" creationid="Antonio" creationdate="20151127T081359Z">
+        <seg>Opciones de autorrelleno de la tabla de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,8 +5338,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T110839Z" creationid="Antonio" creationdate="20151127T110839Z">
-        <seg>Opciones Autorrellenador del glosario</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T074253Z" creationid="Antonio" creationdate="20151127T110839Z">
+        <seg>Opciones de autorrelleno del glosario</seg>
       </tuv>
     </tu>
     <tu>
