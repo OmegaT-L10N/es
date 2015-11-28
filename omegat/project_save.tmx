@@ -6869,6 +6869,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kirundi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154815Z" creationid="Antonio" creationdate="20151128T154815Z">
+        <seg>Kirundi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Komi</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T145033Z" creationid="Antonio" creationdate="20151128T145033Z">
@@ -8118,6 +8126,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Northern Sami</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154937Z" creationid="Antonio" creationdate="20151128T154937Z">
+        <seg>Samí del norte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Norwegian</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153410Z" creationid="Antonio" creationdate="20151128T153410Z">
@@ -9007,8 +9023,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T154710Z" creationid="Antonio" creationdate="20151128T154710Z">
-        <seg>**PortuguÃ©s</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154720Z" creationid="Antonio" creationdate="20151128T154710Z">
+        <seg>Portugués</seg>
       </tuv>
     </tu>
     <tu>
@@ -9369,6 +9385,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194124Z" creationid="Víctor Parra" creationdate="20151126T194124Z">
         <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quechua</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154728Z" creationid="Antonio" creationdate="20151128T154728Z">
+        <seg>Quechua</seg>
       </tuv>
     </tu>
     <tu>
@@ -9895,6 +9919,22 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Romanian, Moldavian, Moldovan</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154830Z" creationid="Antonio" creationdate="20151128T154830Z">
+        <seg>Rumano, moldavo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Romansh</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154752Z" creationid="Antonio" creationdate="20151128T154752Z">
+        <seg>Romanche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173043Z" creationid="Antonio" creationdate="20151127T173043Z">
@@ -10015,10 +10055,42 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Samoan</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154945Z" creationid="Antonio" creationdate="20151128T154945Z">
+        <seg>Samoano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223501Z" creationid="hcartagena" creationdate="20151116T223501Z">
         <seg>Muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sango</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154951Z" creationid="Antonio" creationdate="20151128T154951Z">
+        <seg>Sango</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sanskrit (Saṁskṛta)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154850Z" creationid="Antonio" creationdate="20151128T154850Z">
+        <seg>Sánscrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sardinian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154900Z" creationid="Antonio" creationdate="20151128T154854Z">
+        <seg>Sardo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10085,6 +10157,14 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T225728Z" creationid="hcartagena" creationdate="20151124T225728Z">
         <seg>Ámbito:
 El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede estar también en cualquier archivo ubicado en una jerarquía de carpetas especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scottish Gaelic, Gaelic</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155005Z" creationid="Antonio" creationdate="20151128T155005Z">
+        <seg>Gaélico escocés, gaélico</seg>
       </tuv>
     </tu>
     <tu>
@@ -10537,6 +10617,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Serbian</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154959Z" creationid="Antonio" creationdate="20151128T154959Z">
+        <seg>Serbio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075618Z" creationid="Antonio" creationdate="20151127T075618Z">
@@ -10565,6 +10653,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T174628Z" creationid="hcartagena" creationdate="20151120T174628Z">
         <seg>Conjuntos de reglas de segmentación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shona</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155013Z" creationid="Antonio" creationdate="20151128T155013Z">
+        <seg>Shona</seg>
       </tuv>
     </tu>
     <tu>
@@ -10621,6 +10717,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232443Z" creationid="hcartagena" creationdate="20151124T232437Z">
         <seg>Simplificar información sobre herramienas sobre partes protegidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sindhi</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154907Z" creationid="Antonio" creationdate="20151128T154907Z">
+        <seg>Sindhi</seg>
       </tuv>
     </tu>
     <tu>
@@ -14156,10 +14260,26 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gd</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155009Z" creationid="Antonio" creationdate="20151128T155009Z">
+        <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gl</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144302Z" creationid="Antonio" creationdate="20151128T144254Z">
         <seg>gl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gla</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155010Z" creationid="Antonio" creationdate="20151128T155010Z">
+        <seg>gla</seg>
       </tuv>
     </tu>
     <tu>
@@ -15540,6 +15660,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>por</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154725Z" creationid="Antonio" creationdate="20151128T154725Z">
+        <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ps</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154644Z" creationid="Antonio" creationdate="20151128T154644Z">
@@ -15548,10 +15676,98 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>pt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154724Z" creationid="Antonio" creationdate="20151128T154722Z">
+        <seg>pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pus</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T154709Z" creationid="Antonio" creationdate="20151128T154709Z">
-        <seg>**lplYou are about to translate the 'PenDown 'COMMAND, there are some rules on how to translate it. Please see http: / /edu. kde. org/ kturtle/ translator. php to learn how to properly translate it.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154718Z" creationid="Antonio" creationdate="20151128T154709Z">
+        <seg>pus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>qu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154729Z" creationid="Antonio" creationdate="20151128T154729Z">
+        <seg>qu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>que</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154730Z" creationid="Antonio" creationdate="20151128T154730Z">
+        <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154753Z" creationid="Antonio" creationdate="20151128T154753Z">
+        <seg>rm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154816Z" creationid="Antonio" creationdate="20151128T154816Z">
+        <seg>rn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ro</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154832Z" creationid="Antonio" creationdate="20151128T154832Z">
+        <seg>ro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>roh</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154754Z" creationid="Antonio" creationdate="20151128T154754Z">
+        <seg>roh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ron</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154833Z" creationid="Antonio" creationdate="20151128T154833Z">
+        <seg>ron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ru</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154840Z" creationid="Antonio" creationdate="20151128T154840Z">
+        <seg>ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>run</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154819Z" creationid="Antonio" creationdate="20151128T154819Z">
+        <seg>run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154841Z" creationid="Antonio" creationdate="20151128T154841Z">
+        <seg>rus</seg>
       </tuv>
     </tu>
     <tu>
@@ -15560,6 +15776,54 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144940Z" creationid="Antonio" creationdate="20151128T144940Z">
         <seg>rw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154852Z" creationid="Antonio" creationdate="20151128T154852Z">
+        <seg>sa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sag</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154955Z" creationid="Antonio" creationdate="20151128T154955Z">
+        <seg>sag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>san</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154856Z" creationid="Antonio" creationdate="20151128T154853Z">
+        <seg>san</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sc</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154902Z" creationid="Antonio" creationdate="20151128T154902Z">
+        <seg>sc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sd</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154908Z" creationid="Antonio" creationdate="20151128T154908Z">
+        <seg>sd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>se</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154940Z" creationid="Antonio" creationdate="20151128T154940Z">
+        <seg>se</seg>
       </tuv>
     </tu>
     <tu>
@@ -15580,10 +15844,66 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154952Z" creationid="Antonio" creationdate="20151128T154952Z">
+        <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slf4j-*.jar (MIT License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212829Z" creationid="hcartagena" creationdate="20151119T212829Z">
         <seg>slf4j-*.jar (licencia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154947Z" creationid="Antonio" creationdate="20151128T154947Z">
+        <seg>sm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sme</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154941Z" creationid="Antonio" creationdate="20151128T154941Z">
+        <seg>sme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>smo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154948Z" creationid="Antonio" creationdate="20151128T154948Z">
+        <seg>smo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155015Z" creationid="Antonio" creationdate="20151128T155015Z">
+        <seg>sn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sna</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155016Z" creationid="Antonio" creationdate="20151128T155016Z">
+        <seg>sna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>snd</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154909Z" creationid="Antonio" creationdate="20151128T154909Z">
+        <seg>snd</seg>
       </tuv>
     </tu>
     <tu>
@@ -15604,10 +15924,34 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155001Z" creationid="Antonio" creationdate="20151128T155001Z">
+        <seg>sr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214642Z" creationid="hcartagena" creationdate="20151119T214642Z">
         <seg>src (URL de &amp;imágenes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>srd</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T154903Z" creationid="Antonio" creationdate="20151128T154903Z">
+        <seg>srd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>srp</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155002Z" creationid="Antonio" creationdate="20151128T155002Z">
+        <seg>srp</seg>
       </tuv>
     </tu>
     <tu>
