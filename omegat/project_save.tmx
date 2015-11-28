@@ -11386,6 +11386,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagalog</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155459Z" creationid="Antonio" creationdate="20151128T155449Z">
+        <seg>Tagalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T153318Z" creationid="Antonio" creationdate="20151126T153318Z">
@@ -12083,10 +12091,18 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tibetan Standard, Tibetan, Central</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155418Z" creationid="Antonio" creationdate="20151128T155418Z">
+        <seg>Tibetano estándar, tibetano central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tigrinya</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T155333Z" creationid="Antonio" creationdate="20151128T155333Z">
-        <seg>**TigrinyaName</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155348Z" creationid="Antonio" creationdate="20151128T155333Z">
+        <seg>Tigriña</seg>
       </tuv>
     </tu>
     <tu>
@@ -12176,6 +12192,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151833Z" creationid="Helli" creationdate="20150526T151833Z">
         <seg>Tokenizers están incluidos en OmegaT y activos por defecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tonga (Tonga Islands)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155544Z" creationid="Antonio" creationdate="20151128T155544Z">
+        <seg>Tonga (Islas Tonga)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12496,6 +12520,30 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172815Z" creationid="Antonio" creationdate="20151127T172815Z">
         <seg>Comentarios de traductor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tswana</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155536Z" creationid="Antonio" creationdate="20151128T155505Z">
+        <seg>Setsuana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkish</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155556Z" creationid="Antonio" creationdate="20151128T155556Z">
+        <seg>Turco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkmen</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155444Z" creationid="Antonio" creationdate="20151128T155444Z">
+        <seg>Turcomano</seg>
       </tuv>
     </tu>
     <tu>
@@ -13904,6 +13952,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083454Z" creationid="Antonio" creationdate="20151128T083454Z">
         <seg>bn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bo</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155420Z" creationid="Antonio" creationdate="20151128T155420Z">
+        <seg>bo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bod</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155422Z" creationid="Antonio" creationdate="20151128T155422Z">
+        <seg>bod</seg>
       </tuv>
     </tu>
     <tu>
@@ -16276,6 +16340,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tgl</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155504Z" creationid="Antonio" creationdate="20151128T155504Z">
+        <seg>tgl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>th</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155303Z" creationid="Antonio" creationdate="20151128T155303Z">
@@ -16294,8 +16366,64 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>ti</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T155334Z" creationid="Antonio" creationdate="20151128T155334Z">
-        <seg>**%1 ligado</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155350Z" creationid="Antonio" creationdate="20151128T155334Z">
+        <seg>ti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tir</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155354Z" creationid="Antonio" creationdate="20151128T155352Z">
+        <seg>tir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155445Z" creationid="Antonio" creationdate="20151128T155445Z">
+        <seg>tk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tl</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155502Z" creationid="Antonio" creationdate="20151128T155449Z">
+        <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155537Z" creationid="Antonio" creationdate="20151128T155537Z">
+        <seg>tn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155546Z" creationid="Antonio" creationdate="20151128T155546Z">
+        <seg>to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ton</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155552Z" creationid="Antonio" creationdate="20151128T155552Z">
+        <seg>ton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155557Z" creationid="Antonio" creationdate="20151128T155557Z">
+        <seg>tr</seg>
       </tuv>
     </tu>
     <tu>
@@ -16304,6 +16432,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212721Z" creationid="hcartagena" creationdate="20151119T212721Z">
         <seg>trilead-ssh2-1.0.0-build217 (licencia Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tsn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155538Z" creationid="Antonio" creationdate="20151128T155538Z">
+        <seg>tsn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tuk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155446Z" creationid="Antonio" creationdate="20151128T155446Z">
+        <seg>tuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tur</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T155559Z" creationid="Antonio" creationdate="20151128T155559Z">
+        <seg>tur</seg>
       </tuv>
     </tu>
     <tu>
