@@ -8262,10 +8262,26 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nuosu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153605Z" creationid="Antonio" creationdate="20151128T153605Z">
+        <seg>Nuosu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213527Z" creationid="hcartagena" creationdate="20151119T213527Z">
         <seg>&amp;Opciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Occitan</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153626Z" creationid="Antonio" creationdate="20151128T153620Z">
+        <seg>Occitano</seg>
       </tuv>
     </tu>
     <tu>
@@ -10757,6 +10773,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223143Z" creationid="hcartagena" creationdate="20151116T223143Z">
         <seg>Longitud original/traducción (caracteres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>South Ndebele</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153614Z" creationid="Antonio" creationdate="20151128T153614Z">
+        <seg>Ndebele del sur</seg>
       </tuv>
     </tu>
     <tu>
@@ -14316,6 +14340,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ii</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153606Z" creationid="Antonio" creationdate="20151128T153606Z">
+        <seg>ii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>iii</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153609Z" creationid="Antonio" creationdate="20151128T153607Z">
+        <seg>iii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ik</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144608Z" creationid="Antonio" creationdate="20151128T144604Z">
@@ -15084,6 +15124,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>nbl</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153618Z" creationid="Antonio" creationdate="20151128T153618Z">
+        <seg>nbl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>nd</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153248Z" creationid="Antonio" creationdate="20151128T153248Z">
@@ -15188,6 +15236,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>nr</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153616Z" creationid="Antonio" creationdate="20151128T153616Z">
+        <seg>nr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>nv</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152854Z" creationid="Antonio" creationdate="20151128T152854Z">
@@ -15208,6 +15264,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083631Z" creationid="Antonio" creationdate="20151128T083631Z">
         <seg>nya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oc</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153624Z" creationid="Antonio" creationdate="20151128T153624Z">
+        <seg>oc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oci</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T153629Z" creationid="Antonio" creationdate="20151128T153629Z">
+        <seg>oci</seg>
       </tuv>
     </tu>
     <tu>
