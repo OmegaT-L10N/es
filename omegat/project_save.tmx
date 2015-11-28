@@ -7270,8 +7270,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T114837Z" creationid="Helli" creationdate="20150526T114604Z">
-        <seg>Cargue un guión al editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T165618Z" creationid="Helli" creationdate="20150526T114604Z">
+        <seg>Cargue un programa en el editor haciendo clic en su nombre en la lista en el tablero izquierdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12405,8 +12405,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T114526Z" creationid="Helli" creationdate="20150526T114437Z">
-        <seg>Para personalizar la característica de guión, haga lo siguiente:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T165557Z" creationid="Helli" creationdate="20150526T114437Z">
+        <seg>Para personalizar la función de programa, haga lo siguiente:</seg>
       </tuv>
     </tu>
     <tu>
