@@ -2061,8 +2061,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T081806Z" creationid="Antonio" creationdate="20151128T081723Z">
-        <seg>Absajo</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082234Z" creationid="Antonio" creationdate="20151128T081723Z">
+        <seg>Abjasio</seg>
       </tuv>
     </tu>
     <tu>
@@ -2840,6 +2840,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T203828Z" creationid="hcartagena" creationdate="20151117T203828Z">
         <seg>Expresión regular incorrecta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bambara</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082249Z" creationid="Antonio" creationdate="20151128T082249Z">
+        <seg>Bambara</seg>
       </tuv>
     </tu>
     <tu>
@@ -12736,6 +12744,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T082040Z" creationid="Antonio" creationdate="20151128T082040Z">
         <seg>aym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>az</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082245Z" creationid="Antonio" creationdate="20151128T082245Z">
+        <seg>az</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bam</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082251Z" creationid="Antonio" creationdate="20151128T082251Z">
+        <seg>bam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T082251Z" creationid="Antonio" creationdate="20151128T082251Z">
+        <seg>bm</seg>
       </tuv>
     </tu>
     <tu>
