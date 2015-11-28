@@ -6669,6 +6669,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T162939Z" creationid="Antonio" creationdate="20151128T162854Z">
+        <seg>OmegaT lo utilizará automáticamente si se ha marcado &lt;g0&gt;Opciones &gt; Corrector ortográfico&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165318Z" creationid="hcartagena" creationdate="20151120T165318Z">
@@ -11719,6 +11727,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T162829Z" creationid="Antonio" creationdate="20151128T162829Z">
+        <seg>El plugin LanguageTool está incluido en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202926Z" creationid="hcartagena" creationdate="20151119T201921Z">
@@ -11884,6 +11900,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164203Z" creationid="Antonio" creationdate="20151127T164203Z">
         <seg>La carpeta del proyecto {0} no existe y no se puede crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163012Z" creationid="Antonio" creationdate="20151128T163012Z">
+        <seg>Las reglas que se apliquen (de existir) dependerán del idioma de origen y de destino del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
