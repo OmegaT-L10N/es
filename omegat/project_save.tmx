@@ -1955,6 +1955,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the documentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163531Z" creationid="Antonio" creationdate="20151128T163531Z">
+        <seg>&lt;p0&gt;Notas leganés&lt;/p0&gt; &lt;s1&gt;Para la documentación&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161627Z" creationid="Antonio" creationdate="20151128T161627Z">
@@ -7045,6 +7053,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163359Z" creationid="Antonio" creationdate="20151128T163359Z">
+        <seg>LanguageTool no funcionará bien si existe una versión antigua en la carpeta /plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool.jar (LGPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212748Z" creationid="hcartagena" creationdate="20151119T212748Z">
@@ -7129,6 +7145,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011457Z" creationid="Víctor Parra" creationdate="20151125T004317Z">
         <seg>Izquierda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal notices</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163454Z" creationid="Antonio" creationdate="20151128T163454Z">
+        <seg>Notas legales</seg>
       </tuv>
     </tu>
     <tu>
@@ -9682,6 +9706,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230420Z" creationid="hcartagena" creationdate="20151119T230420Z">
         <seg>Eliminar comentarios de HTML en el documento traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163444Z" creationid="Antonio" creationdate="20151128T163444Z">
+        <seg>Elimine LanguageTool de la carpeta /plugin antes de iniciar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13421,8 +13453,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T163136Z" creationid="Antonio" creationdate="20151128T163136Z">
-        <seg>Cuando se aplique la regla, la frase correspondiente se  subrayará en color azul en el Editor (véase &lt;e1&gt;también &lt;/e1&gt;y  &lt;e2&gt;No hice nada&lt;/e2&gt; </seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163242Z" creationid="Antonio" creationdate="20151128T163136Z">
+        <seg>Cuando se aplique una regla determinada, la frase correspondiente se  subrayará en color azul en el Editor (véase &lt;e1&gt;también &lt;/e1&gt;y  &lt;e2&gt;No hice nada&lt;/e2&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -13439,6 +13471,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T075123Z" creationid="Antonio" creationdate="20151127T154357Z">
         <seg>Cuando están marcados, los elementos de la lista de autorelleno del glosario tendrán también el texto de origen. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T163325Z" creationid="Antonio" creationdate="20151128T163325Z">
+        <seg>Al colocar el  ratón sobre la frase subrayada, aparecerá una explacación.</seg>
       </tuv>
     </tu>
     <tu>
