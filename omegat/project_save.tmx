@@ -12258,8 +12258,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You have reached the daily limit for requests (including calls of the detect method)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174104Z" creationid="Antonio" creationdate="20151127T174104Z">
-        <seg>Alcanzó el límite diario para de solicitudes (incluyendo las llamadas del método detect)</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151128T080849Z" creationid="Antonio" creationdate="20151127T174104Z">
+        <seg>Alcanzó el límite diario de solicitudes (incluyendo las llamadas del método detect)</seg>
       </tuv>
     </tu>
     <tu>
