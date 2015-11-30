@@ -2813,24 +2813,24 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T142818Z" creationid="Helli" creationdate="20150526T142818Z">
-        <seg>Autocompleción/Autotexto...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162517Z" creationid="Helli" creationdate="20150526T142818Z">
+        <seg>Autorrellenado/Autotexto...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-completion/Character Table...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150603T152518Z" creationid="Helli" creationdate="20150603T152518Z">
-        <seg>Autocompleción/Autotexto...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162534Z" creationid="Helli" creationdate="20150603T152518Z">
+        <seg>Autorrellenado/Tabla de caracteres...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-completion/Glossary...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T142758Z" creationid="Helli" creationdate="20150526T142758Z">
-        <seg>Autocompleción/Glosario...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162459Z" creationid="Helli" creationdate="20150526T142758Z">
+        <seg>Autorrellenado/Glosario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5825,8 +5825,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Font...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T142930Z" creationid="Helli" creationdate="20150526T142930Z">
-        <seg>Fuente...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162549Z" creationid="Helli" creationdate="20150526T142930Z">
+        <seg>Tipo de letra...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13085,16 +13085,16 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>TransTips/Enable Transtips</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T142629Z" creationid="Helli" creationdate="20150526T142629Z">
-        <seg>TransTips/Activar Transtips</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162407Z" creationid="Helli" creationdate="20150526T142629Z">
+        <seg>Consejos de traducción/Activar consejos de traducción</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>TransTips/Exact Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T142648Z" creationid="Helli" creationdate="20150526T142648Z">
-        <seg>TransTips/Coincidencias Exactas</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162437Z" creationid="Helli" creationdate="20150526T142648Z">
+        <seg>Consejos de traducción/Coincidencia exacta</seg>
       </tuv>
     </tu>
     <tu>
@@ -17155,10 +17155,58 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162519Z" creationid="Antonio" creationdate="20151130T162519Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162537Z" creationid="Antonio" creationdate="20151130T162537Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162501Z" creationid="Antonio" creationdate="20151130T162501Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162551Z" creationid="Antonio" creationdate="20151130T162551Z">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162254Z" creationid="Antonio" creationdate="20151130T162254Z">
         <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162409Z" creationid="Antonio" creationdate="20151130T162409Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTransTipsExactMatchMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162447Z" creationid="Antonio" creationdate="20151130T162447Z">
+        <seg>optionsTransTipsExactMatchMenuItem</seg>
       </tuv>
     </tu>
     <tu>
