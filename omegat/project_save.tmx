@@ -2492,8 +2492,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T141051Z" creationid="Helli" creationdate="20150526T141051Z">
-        <seg>Siempre Confirmar Salir</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162315Z" creationid="Helli" creationdate="20150526T141051Z">
+        <seg>Confirmar siempre antes de salir</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,8 +7750,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Machine Translate</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T141107Z" creationid="Helli" creationdate="20150526T141107Z">
-        <seg>Traducción Automáticae</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162331Z" creationid="Helli" creationdate="20150526T141107Z">
+        <seg>Traducción automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -7958,8 +7958,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T140723Z" creationid="Helli" creationdate="20150526T140723Z">
-        <seg>Estadística de Coincidencias</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162158Z" creationid="Helli" creationdate="20150526T140723Z">
+        <seg>Estadística de coincidencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -7974,8 +7974,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per File</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T140736Z" creationid="Helli" creationdate="20150526T140736Z">
-        <seg>Estadística de Coincidencias por Archivo</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162215Z" creationid="Helli" creationdate="20150526T140736Z">
+        <seg>Estadística de coincidencias por archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9171,8 +9171,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Options Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T124429Z" creationid="Helli" creationdate="20150526T124429Z">
-        <seg>Opciones</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162221Z" creationid="Helli" creationdate="20150526T124429Z">
+        <seg>Menú Opciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -13755,8 +13755,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T141040Z" creationid="Helli" creationdate="20150526T141040Z">
-        <seg>Usar TAB para Avanzar</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162251Z" creationid="Helli" creationdate="20150526T141040Z">
+        <seg>Usar TAB para avanzar</seg>
       </tuv>
     </tu>
     <tu>
@@ -17147,6 +17147,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162318Z" creationid="Antonio" creationdate="20151130T162318Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162254Z" creationid="Antonio" creationdate="20151130T162254Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>or</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154503Z" creationid="Antonio" creationdate="20151128T154453Z">
@@ -17955,10 +17971,42 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162201Z" creationid="Antonio" creationdate="20151130T162201Z">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162216Z" creationid="Antonio" creationdate="20151130T162216Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162146Z" creationid="Antonio" creationdate="20151130T162146Z">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145036Z" creationid="Antonio" creationdate="20151130T145036Z">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T162136Z" creationid="Antonio" creationdate="20151130T162136Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
