@@ -14307,6 +14307,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T124530Z" creationid="Antonio" creationdate="20151130T124530Z">
+        <seg>Y &lt;c0&gt;&lt;tecla&gt;&lt;/c0&gt; puede ser cualquier tecla disponible en el teclado&lt;a1&gt;&lt;s2&gt;[4]&lt;/s2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ar</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081835Z" creationid="Antonio" creationdate="20151128T081835Z">
