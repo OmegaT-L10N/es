@@ -6382,8 +6382,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T115204Z" creationid="Helli" creationdate="20150526T115204Z">
-        <seg>En el ejemplo arriba, dos guiones (posición 1 y 2) ya han sido añadido.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T105412Z" creationid="Helli" creationdate="20150526T115204Z">
+        <seg>En el ejemplo arriba, dos scripts (posición 1 y 2) ya han sido añadido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8527,8 +8527,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T113548Z" creationid="Helli" creationdate="20150526T113420Z">
-        <seg>OmegaT permite ejecutar los guiones escritos en diferentes lenguajes de guión.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T105240Z" creationid="Helli" creationdate="20150526T113420Z">
+        <seg>OmegaT permite ejecutar los scripts escritos en diferentes lenguajes de scripting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10064,8 +10064,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T115009Z" creationid="Helli" creationdate="20150526T114829Z">
-        <seg>Pulse la tecla derecha del ratón en un botón de "&lt;1&gt;" a "&lt;12&gt;" en el tablero inferior y seleccione "Añadir".</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T105402Z" creationid="Helli" creationdate="20150526T114829Z">
+        <seg>Pulse la tecla derecha del ratón en un botón, de "&lt;1&gt;" a "&lt;12&gt;", del tablero inferior y seleccione "Añadir".</seg>
       </tuv>
     </tu>
     <tu>
@@ -11872,8 +11872,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T165540Z" creationid="Helli" creationdate="20150526T114155Z">
-        <seg>La ventana de Programación le permite cargar un programa que aparezca en el área de texto y ejecutarlo en el proyecto abierto actualmente.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T105312Z" creationid="Helli" creationdate="20150526T114155Z">
+        <seg>La ventana de Programación le permite cargar un script que aparezca en el área de texto y ejecutarlo en el proyecto abierto actualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12405,8 +12405,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T165557Z" creationid="Helli" creationdate="20150526T114437Z">
-        <seg>Para personalizar la función de programa, haga lo siguiente:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T105326Z" creationid="Helli" creationdate="20150526T114437Z">
+        <seg>Para personalizar la función de script, haga lo siguiente:</seg>
       </tuv>
     </tu>
     <tu>
