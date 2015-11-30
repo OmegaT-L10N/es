@@ -3836,8 +3836,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Create Translated Documents</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131342Z" creationid="Helli" creationdate="20150526T131342Z">
-        <seg>Crear Documentos traducidos</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151342Z" creationid="Helli" creationdate="20150526T131342Z">
+        <seg>Crear documentos finales</seg>
       </tuv>
     </tu>
     <tu>
@@ -3906,6 +3906,30 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+D</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151344Z" creationid="Antonio" creationdate="20151130T151344Z">
+        <seg>Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+E</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151414Z" creationid="Antonio" creationdate="20151130T151414Z">
+        <seg>Ctrl+E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+L</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151422Z" creationid="Antonio" creationdate="20151130T151422Z">
+        <seg>Ctrl+L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011537Z" creationid="Víctor Parra" creationdate="20151125T011537Z">
@@ -3922,6 +3946,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151427Z" creationid="Antonio" creationdate="20151130T151427Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+R</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151550Z" creationid="Antonio" creationdate="20151130T151550Z">
+        <seg>Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Right:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011610Z" creationid="Víctor Parra" creationdate="20151125T011610Z">
@@ -3930,10 +3970,42 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151313Z" creationid="Antonio" creationdate="20151130T151313Z">
+        <seg>Ctrl+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T152519Z" creationid="Antonio" creationdate="20151126T152519Z">
         <seg>Ctrl+Shift+O alterna la orientación entre LTR (izda a dcha), RTL (dcha a izda) y a dependiente del idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+W</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151306Z" creationid="Antonio" creationdate="20151130T151306Z">
+        <seg>Ctrl+Mayús+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151523Z" creationid="Antonio" creationdate="20151130T151523Z">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151508Z" creationid="Antonio" creationdate="20151130T151508Z">
+        <seg>Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -4622,8 +4694,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T124341Z" creationid="Helli" creationdate="20150526T123732Z">
-        <seg>Editar</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151435Z" creationid="Helli" creationdate="20150526T123732Z">
+        <seg>Menú Editar</seg>
       </tuv>
     </tu>
     <tu>
@@ -9775,8 +9847,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Redo Last Action</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131701Z" creationid="Helli" creationdate="20150526T131701Z">
-        <seg>Rehacer Última Acción</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151518Z" creationid="Helli" creationdate="20150526T131701Z">
+        <seg>Rehacer la última Acción</seg>
       </tuv>
     </tu>
     <tu>
@@ -10056,8 +10128,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Replace With Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132621Z" creationid="Helli" creationdate="20150526T131725Z">
-        <seg>Reemplazar Con Coincidencia</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151543Z" creationid="Helli" creationdate="20150526T131725Z">
+        <seg>Reemplazar con la coincidencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -10972,6 +11044,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T174628Z" creationid="hcartagena" creationdate="20151120T174628Z">
         <seg>Conjuntos de reglas de segmentación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+D</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151407Z" creationid="Antonio" creationdate="20151130T151407Z">
+        <seg>Mayús+Ctrl+D</seg>
       </tuv>
     </tu>
     <tu>
@@ -13167,8 +13247,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131647Z" creationid="Helli" creationdate="20150526T131647Z">
-        <seg>Deshacer Última Acción</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151506Z" creationid="Helli" creationdate="20150526T131647Z">
+        <seg>Deshacer la última Acción</seg>
       </tuv>
     </tu>
     <tu>
@@ -14923,6 +15003,30 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151552Z" creationid="Antonio" creationdate="20151130T151552Z">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151525Z" creationid="Antonio" creationdate="20151130T151525Z">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151510Z" creationid="Antonio" creationdate="20151130T151510Z">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ee</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084313Z" creationid="Antonio" creationdate="20151128T084313Z">
@@ -16643,6 +16747,38 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151307Z" creationid="Antonio" creationdate="20151130T151307Z">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151346Z" creationid="Antonio" creationdate="20151130T151346Z">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151416Z" creationid="Antonio" creationdate="20151130T151416Z">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151429Z" creationid="Antonio" creationdate="20151130T151429Z">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectImportMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145657Z" creationid="Antonio" creationdate="20151130T145657Z">
@@ -16671,6 +16807,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144355Z" creationid="Antonio" creationdate="20151130T144355Z">
         <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151256Z" creationid="Antonio" creationdate="20151130T151256Z">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151314Z" creationid="Antonio" creationdate="20151130T151314Z">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151408Z" creationid="Antonio" creationdate="20151130T151408Z">
+        <seg>projectSingleCompileMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -17495,6 +17655,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161207Z" creationid="Antonio" creationdate="20151128T161207Z">
         <seg>vie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151424Z" creationid="Antonio" creationdate="20151130T151424Z">
+        <seg>viewFileListMenuItem</seg>
       </tuv>
     </tu>
     <tu>
