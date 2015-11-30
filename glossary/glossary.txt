@@ -6,3 +6,4 @@ e.g.	por ejemplo	preferir situarlo al final.
 Scripting window	ventana Programación
 Shift	Mayús
 Modification Info	Información de modificación
+TransTips	Consejos de traducción
