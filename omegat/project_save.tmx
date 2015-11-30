@@ -1252,6 +1252,14 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, one can find:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144353Z" creationid="Antonio" creationdate="20151130T144335Z">
+        <seg>, se puede ver:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151701Z" creationid="Helli" creationdate="20150526T151701Z">
@@ -12028,6 +12036,22 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144247Z" creationid="Antonio" creationdate="20151130T144247Z">
+        <seg>Los atajos predeterminados de OmegaT están disponibles en Sourceforge: &lt;u0&gt;Atajos predeterminados de OmegaT&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144327Z" creationid="Antonio" creationdate="20151130T144327Z">
+        <seg>Los atajos predeterminados de OmegaT para Mac están también disponibles en Sourceforge, todos utilizan "meta" en vez de "ctrl": &lt;u0&gt;Atajos predeterminados de OmegaT para el Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163617Z" creationid="Antonio" creationdate="20151128T163617Z">
@@ -12056,6 +12080,14 @@ actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163915Z" creationid="Antonio" creationdate="20151128T163915Z">
         <seg>La documentación se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144451Z" creationid="Antonio" creationdate="20151130T144451Z">
+        <seg>El primero es el atajo para &lt;g0&gt;Abrir Proyecto&lt;/g0&gt;, el segundo para &lt;g1&gt;Crear Entrada de Glosario&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14827,6 +14859,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144358Z" creationid="Antonio" creationdate="20151130T144358Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ee</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084313Z" creationid="Antonio" creationdate="20151128T084313Z">
@@ -15311,6 +15351,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T121538Z" creationid="Antonio" creationdate="20151130T121538Z">
         <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144251Z" creationid="Antonio" creationdate="20151130T144251Z">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144212Z" creationid="Antonio" creationdate="20151130T144212Z">
+        <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -16527,6 +16583,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154725Z" creationid="Antonio" creationdate="20151128T154725Z">
         <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144355Z" creationid="Antonio" creationdate="20151130T144355Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
     </tu>
     <tu>
