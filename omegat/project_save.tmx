@@ -5303,6 +5303,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151254Z" creationid="Antonio" creationdate="20151130T151254Z">
+        <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230530Z" creationid="hcartagena" creationdate="20151124T230530Z">
@@ -16671,6 +16679,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145646Z" creationid="Antonio" creationdate="20151130T145646Z">
         <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151249Z" creationid="Antonio" creationdate="20151130T151249Z">
+        <seg>projectWikiImportMenuItem</seg>
       </tuv>
     </tu>
     <tu>
