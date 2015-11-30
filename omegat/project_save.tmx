@@ -17963,6 +17963,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161234Z" creationid="Antonio" creationdate="20151130T161234Z">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tr</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155557Z" creationid="Antonio" creationdate="20151128T155557Z">
