@@ -3681,6 +3681,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T164022Z" creationid="Antonio" creationdate="20151130T164022Z">
+        <seg>Los conflictos - por ejemplo, la existencia de varias traducciones para el mismo segmento o entrada del glosario - se pueden monitorizar, resolver y fusionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191924Z" creationid="hcartagena" creationdate="20151118T191924Z">
@@ -12572,6 +12580,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following terms, to be used in the text below, deserve a short explanation:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T164100Z" creationid="Antonio" creationdate="20151130T164100Z">
+        <seg>Los términos siguientes, que se van a utilizar el texto que sigue, merecen al menos una breve explicación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T122436Z" creationid="Antonio" creationdate="20151130T122436Z">
@@ -12699,6 +12715,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173939Z" creationid="Antonio" creationdate="20151127T173939Z">
         <seg>La dirección de traducción especificada no está admitida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The system maintains versioning for data shared</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T163918Z" creationid="Antonio" creationdate="20151130T163918Z">
+        <seg>El sistema conserva y gestiona la información de versiones de los datos compartidos</seg>
       </tuv>
     </tu>
     <tu>
