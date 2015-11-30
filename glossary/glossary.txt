@@ -4,3 +4,4 @@ target	traducido	como adjetivo, salvo si acompaña a "language" o a "term"
 target	de destino	cuando acompaña a "language" o a "term"
 e.g.	por ejemplo	preferir situarlo al final.
 Scripting window	ventana Programación
+Shift	Mayús
