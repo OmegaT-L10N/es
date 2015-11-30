@@ -11739,24 +11739,24 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T153404Z" creationid="Helli" creationdate="20150526T133313Z">
-        <seg>Intercambiar mayús/minus</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153500Z" creationid="Helli" creationdate="20150526T133313Z">
+        <seg>Cambiar a/minúsculas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T133508Z" creationid="Helli" creationdate="20150526T133508Z">
-        <seg>Cambiar a tipo título</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153536Z" creationid="Helli" creationdate="20150526T133508Z">
+        <seg>Cambiar a título estilo inglés</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switch Case To/Upper Case</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T133416Z" creationid="Helli" creationdate="20150526T133416Z">
-        <seg>Cambiar a mayúscula</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153513Z" creationid="Helli" creationdate="20150526T133416Z">
+        <seg>Cambiar a/mayúscula</seg>
       </tuv>
     </tu>
     <tu>
@@ -17691,6 +17691,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153538Z" creationid="Antonio" creationdate="20151130T153538Z">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tk</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155445Z" creationid="Antonio" creationdate="20151128T155445Z">
@@ -17863,6 +17871,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223429Z" creationid="hcartagena" creationdate="20151116T223429Z">
         <seg>desconocido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>upperCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153515Z" creationid="Antonio" creationdate="20151130T153515Z">
+        <seg>upperCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
