@@ -1738,6 +1738,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T164452Z" creationid="Antonio" creationdate="20151130T164452Z">
+        <seg>&lt;e0&gt;Servidor de VCS - &lt;/e0&gt;El servidor de SVN o Git es el entorno donde se conserva el material común y se mantiene en la red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;event&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can be: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;typed&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;pressed&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;released&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T125507Z" creationid="Helli" creationdate="20150526T125340Z">
@@ -12667,6 +12675,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173715Z" creationid="Antonio" creationdate="20151127T173715Z">
         <seg>Se está ejecutando el "{0}"...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T164634Z" creationid="Antonio" creationdate="20151130T164634Z">
+        <seg>El servidor puede existir en la red local, pero en la mayoría de los casos estará disponible en Internet, es decir, mediante  una dirección URL.</seg>
       </tuv>
     </tu>
     <tu>
