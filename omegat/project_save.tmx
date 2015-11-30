@@ -3914,6 +3914,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145623Z" creationid="Antonio" creationdate="20151130T145623Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Right:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011610Z" creationid="Víctor Parra" creationdate="20151125T011610Z">
@@ -4452,8 +4460,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131104Z" creationid="Helli" creationdate="20150526T130945Z">
-        <seg>Descargar Proyecto en Equipo</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145644Z" creationid="Helli" creationdate="20150526T130945Z">
+        <seg>Descargar proyecto en grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6334,8 +6342,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T130710Z" creationid="Helli" creationdate="20150526T130710Z">
-        <seg>Si no chocan con atajos de sistema, tendrían que ser disponibles de dentro de OmegaT.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145540Z" creationid="Helli" creationdate="20150526T130710Z">
+        <seg>Si no entran en conflicto con atajos del sistema, tendrían que estar disponibles en OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7838,8 +7846,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Menu Item Code</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T130853Z" creationid="Helli" creationdate="20150526T130853Z">
-        <seg>Código de Elemento del menú</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145559Z" creationid="Helli" creationdate="20150526T130853Z">
+        <seg>Código de elemento del menú</seg>
       </tuv>
     </tu>
     <tu>
@@ -9438,8 +9446,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Project Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T124335Z" creationid="Helli" creationdate="20150526T123707Z">
-        <seg>Proyecto</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145544Z" creationid="Helli" creationdate="20150526T123707Z">
+        <seg>Menú Proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -10956,6 +10964,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T174628Z" creationid="hcartagena" creationdate="20151120T174628Z">
         <seg>Conjuntos de reglas de segmentación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145616Z" creationid="Antonio" creationdate="20151130T145616Z">
+        <seg>Mayús+Ctrl+N</seg>
       </tuv>
     </tu>
     <tu>
@@ -16619,10 +16635,42 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145657Z" creationid="Antonio" creationdate="20151130T145657Z">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145618Z" creationid="Antonio" creationdate="20151130T145618Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145625Z" creationid="Antonio" creationdate="20151130T145625Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144355Z" creationid="Antonio" creationdate="20151130T144355Z">
         <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T145646Z" creationid="Antonio" creationdate="20151130T145646Z">
+        <seg>projectTeamNewMenuItem</seg>
       </tuv>
     </tu>
     <tu>
