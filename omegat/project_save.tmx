@@ -12119,6 +12119,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T121534Z" creationid="Antonio" creationdate="20151130T121534Z">
+        <seg>La sintaxis de definición del atajo es la siguiente: &lt;c0&gt;&lt;código del elemento del menú&gt;=&lt;atajo&gt;&lt;/c0&gt;, donde &lt;e1&gt;&lt;código del elemento de menú&gt;&lt;/e1&gt;1 es un código de los incluidos en las tablas de abajo y &lt;e2&gt;&lt;atajo&gt;&lt;/e2&gt; es una combinación de teclas pulsadas que especifica el usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191658Z" creationid="hcartagena" creationdate="20151117T191540Z">
@@ -15215,6 +15223,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144413Z" creationid="Antonio" creationdate="20151128T144413Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T121538Z" creationid="Antonio" creationdate="20151130T121538Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
       </tuv>
     </tu>
     <tu>
