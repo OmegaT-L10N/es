@@ -1276,6 +1276,14 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T122440Z" creationid="Antonio" creationdate="20151130T122440Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075505Z" creationid="Antonio" creationdate="20151127T075505Z">
@@ -2028,8 +2036,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150605T121722Z" creationid="Helli" creationdate="20150603T151519Z">
-        <seg>shortcut “&lt;” y “&gt;” tiene que tener esta estructura: 0 o más &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; seguido por 0 o 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; seguido por &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, donde:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T122649Z" creationid="Helli" creationdate="20150603T151519Z">
+        <seg>&lt;atajo&gt; debe adoptar la forma siguiente: 0 o más &lt;c0&gt;&lt;modificadores&gt;&lt;/c0&gt; seguido de 0 o 1 &lt;c1&gt;&lt;evento&gt;&lt;c1&gt; seguido de &lt;c2&gt;&lt;tecla&gt;&lt;/c2&gt;, donde:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12040,6 +12048,14 @@ actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T110519Z" creationid="Helli" creationdate="20150526T120102Z">
         <seg>Los siguientes lenguajes de script han sido implementadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T122436Z" creationid="Antonio" creationdate="20151130T122436Z">
+        <seg>La sintaxis  completa de las combinaciones de tecla (atajos) aparecew definida en la siguiente documentación de Oracle Java 1.6 (parte inferior de la página): &lt;a1&gt;Java 1.6 Atajos y combinaciones de teclas&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
