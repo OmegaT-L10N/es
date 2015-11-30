@@ -3820,8 +3820,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132222Z" creationid="Helli" creationdate="20150526T132222Z">
-        <seg>Crear Entrada de Glosario</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152357Z" creationid="Helli" creationdate="20150526T132222Z">
+        <seg>Crear entrada en el glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -3922,10 +3922,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+F</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152439Z" creationid="Antonio" creationdate="20151130T152439Z">
+        <seg>Ctrl+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+I</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151612Z" creationid="Antonio" creationdate="20151130T151612Z">
         <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+K</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152452Z" creationid="Antonio" creationdate="20151130T152452Z">
+        <seg>Ctrl+K</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,6 +4046,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151508Z" creationid="Antonio" creationdate="20151130T151508Z">
         <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152518Z" creationid="Antonio" creationdate="20151130T152518Z">
+        <seg>Ctrl+↑</seg>
       </tuv>
     </tu>
     <tu>
@@ -10650,8 +10674,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Search Project...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132239Z" creationid="Helli" creationdate="20150526T132239Z">
-        <seg>Buscar Proyecto...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152437Z" creationid="Helli" creationdate="20150526T132239Z">
+        <seg>Buscar en el proyecto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11002,8 +11026,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Select Previous Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132701Z" creationid="Helli" creationdate="20150526T132311Z">
-        <seg>Selecciona Coincidencia Anterior</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152514Z" creationid="Helli" creationdate="20150526T132311Z">
+        <seg>Seleccionar coincidencia anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -11084,6 +11108,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151407Z" creationid="Antonio" creationdate="20151130T151407Z">
         <seg>Mayús+Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+G</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152421Z" creationid="Antonio" creationdate="20151130T152421Z">
+        <seg>Mayús+Ctrl+G</seg>
       </tuv>
     </tu>
     <tu>
@@ -15051,6 +15083,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152424Z" creationid="Antonio" creationdate="20151130T152424Z">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144358Z" creationid="Antonio" creationdate="20151130T144358Z">
@@ -15063,6 +15103,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T152002Z" creationid="Antonio" creationdate="20151130T152002Z">
         <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152441Z" creationid="Antonio" creationdate="20151130T152441Z">
+        <seg>editFindInProjectMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -15111,6 +15159,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151525Z" creationid="Antonio" creationdate="20151130T151525Z">
         <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152453Z" creationid="Antonio" creationdate="20151130T152453Z">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152520Z" creationid="Antonio" creationdate="20151130T152520Z">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
       </tuv>
     </tu>
     <tu>
