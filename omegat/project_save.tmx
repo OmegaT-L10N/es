@@ -2026,6 +2026,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155634Z" creationid="Antonio" creationdate="20151130T155634Z">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; o &lt;k1&gt;Enter&lt;/k1&gt; o &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172832Z" creationid="Antonio" creationdate="20151127T172832Z">
@@ -3796,8 +3804,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Create Alternative Translation</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T134523Z" creationid="Helli" creationdate="20150526T134523Z">
-        <seg>Crear Traducción Alternativa</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155357Z" creationid="Helli" creationdate="20150526T134523Z">
+        <seg>Crear traducción alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,6 +4078,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151939Z" creationid="Antonio" creationdate="20151130T151939Z">
         <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155516Z" creationid="Antonio" creationdate="20151130T155516Z">
+        <seg>Ctrl+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -6137,8 +6153,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>GoTo Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T124356Z" creationid="Helli" creationdate="20150526T123856Z">
-        <seg>Dirigirse a</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155426Z" creationid="Helli" creationdate="20150526T123856Z">
+        <seg>Menú Dirigirse a</seg>
       </tuv>
     </tu>
     <tu>
@@ -8383,16 +8399,16 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Next Segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135035Z" creationid="Helli" creationdate="20150526T135035Z">
-        <seg>Siguiente Segmento</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155559Z" creationid="Helli" creationdate="20150526T135035Z">
+        <seg>Siguiente segmento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next Translated Segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135011Z" creationid="Helli" creationdate="20150526T135011Z">
-        <seg>Siguiente Segmento Traducido</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155532Z" creationid="Helli" creationdate="20150526T135011Z">
+        <seg>Siguiente segmento traducido</seg>
       </tuv>
     </tu>
     <tu>
@@ -8407,8 +8423,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135628Z" creationid="Helli" creationdate="20150526T134949Z">
-        <seg>Siguiente Segmento No Traducido</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155514Z" creationid="Helli" creationdate="20150526T134949Z">
+        <seg>Siguiente segmento por traducir</seg>
       </tuv>
     </tu>
     <tu>
@@ -11200,6 +11216,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+U</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155545Z" creationid="Antonio" creationdate="20151130T155545Z">
+        <seg>Mayús+Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T154608Z" creationid="Antonio" creationdate="20151130T154608Z">
@@ -13683,8 +13707,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T134516Z" creationid="Helli" creationdate="20150526T134516Z">
-        <seg>Usar como Traducción Predeterminada</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155348Z" creationid="Helli" creationdate="20150526T134516Z">
+        <seg>Usar como traducción predeterminada</seg>
       </tuv>
     </tu>
     <tu>
@@ -15195,6 +15219,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155400Z" creationid="Antonio" creationdate="20151130T155400Z">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editMultipleDefault</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155350Z" creationid="Antonio" creationdate="20151130T155350Z">
+        <seg>editMultipleDefault</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editOverwriteMachineTranslationMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151629Z" creationid="Antonio" creationdate="20151130T151629Z">
@@ -15223,6 +15263,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151525Z" creationid="Antonio" creationdate="20151130T151525Z">
         <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155411Z" creationid="Antonio" creationdate="20151130T155411Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -15623,6 +15671,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144330Z" creationid="Antonio" creationdate="20151128T144330Z">
         <seg>gn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155637Z" creationid="Antonio" creationdate="20151130T155637Z">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155546Z" creationid="Antonio" creationdate="20151130T155546Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155518Z" creationid="Antonio" creationdate="20151130T155518Z">
+        <seg>gotoNextUntranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
