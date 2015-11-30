@@ -4631,8 +4631,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T124728Z" creationid="Helli" creationdate="20150526T124728Z">
-        <seg>Las líneas vacías están aceptadas y líneas de comentario deberían empezar con "//".</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T115120Z" creationid="Helli" creationdate="20150526T124728Z">
+        <seg>Pueden incluirse líneas vacías; las líneas de comentarios deben empezar con "//".</seg>
       </tuv>
     </tu>
     <tu>
@@ -12105,8 +12105,8 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T114927Z" creationid="Antonio" creationdate="20151130T114927Z">
-        <seg>El archivo de definición del atajo debe llamarse&lt;c0&gt;MainMenuShortcuts.properties&lt;/c0&gt; y debe contener como máximo una definición de atajo por línea.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T115045Z" creationid="Antonio" creationdate="20151130T114927Z">
+        <seg>El archivo con las definiciones de los atajos &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; y debe contener como máximo una definición de atajo por línea.</seg>
       </tuv>
     </tu>
     <tu>
