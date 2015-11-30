@@ -5599,6 +5599,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144207Z" creationid="Antonio" creationdate="20151130T144207Z">
+        <seg>Por ejemplo, en los atajos predeterminados de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T164019Z" creationid="Antonio" creationdate="20151128T164019Z">
@@ -12127,6 +12135,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144127Z" creationid="Antonio" creationdate="20151130T144127Z">
+        <seg>Los posibles keyevents (teclas) se indican en el siguiente documento de Java 1.6, extraída de Oracle: &lt;u0&gt;Java 1.6 descripción de keyEvents&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172517Z" creationid="Antonio" creationdate="20151127T172517Z">
@@ -14309,8 +14325,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T124530Z" creationid="Antonio" creationdate="20151130T124530Z">
-        <seg>Y &lt;c0&gt;&lt;tecla&gt;&lt;/c0&gt; puede ser cualquier tecla disponible en el teclado&lt;a1&gt;&lt;s2&gt;[4]&lt;/s2&gt;&lt;/a1&gt;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144023Z" creationid="Antonio" creationdate="20151130T124530Z">
+        <seg>y &lt;c0&gt;&lt;tecla&gt;&lt;/c0&gt; puede ser cualquier tecla disponible en el teclado</seg>
       </tuv>
     </tu>
     <tu>
@@ -15279,6 +15295,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144413Z" creationid="Antonio" creationdate="20151128T144413Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T144027Z" creationid="Antonio" creationdate="20151130T144027Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
     </tu>
     <tu>
