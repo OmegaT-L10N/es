@@ -3922,6 +3922,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151612Z" creationid="Antonio" creationdate="20151130T151612Z">
+        <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+L</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151422Z" creationid="Antonio" creationdate="20151130T151422Z">
@@ -3934,6 +3942,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011537Z" creationid="Víctor Parra" creationdate="20151125T011537Z">
         <seg>CTRL+Izquierda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151626Z" creationid="Antonio" creationdate="20151130T151626Z">
+        <seg>Ctrl+M</seg>
       </tuv>
     </tu>
     <tu>
@@ -6638,8 +6654,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Insert Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132600Z" creationid="Helli" creationdate="20150526T131802Z">
-        <seg>Insertar Coincidencia</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151609Z" creationid="Helli" creationdate="20150526T131802Z">
+        <seg>Insertar coincidencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -6670,16 +6686,16 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Insert Source</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131952Z" creationid="Helli" creationdate="20150526T131821Z">
-        <seg>Insertar Fuente</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151730Z" creationid="Helli" creationdate="20150526T131821Z">
+        <seg>Insertar original</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Insert Source Tags</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131915Z" creationid="Helli" creationdate="20150526T131915Z">
-        <seg>Insertar Etiquetas Fuente</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151758Z" creationid="Helli" creationdate="20150526T131915Z">
+        <seg>Insertar etiquetas fuente</seg>
       </tuv>
     </tu>
     <tu>
@@ -10136,8 +10152,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Replace With Source</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131943Z" creationid="Helli" creationdate="20150526T131817Z">
-        <seg>Reemplazar Con Fuente</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151649Z" creationid="Helli" creationdate="20150526T131817Z">
+        <seg>Reemplazar con el original</seg>
       </tuv>
     </tu>
     <tu>
@@ -10152,8 +10168,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Replace with Machine Translation</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T131930Z" creationid="Helli" creationdate="20150526T131809Z">
-        <seg>Reemplazar con Traducción automática</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151624Z" creationid="Helli" creationdate="20150526T131809Z">
+        <seg>Reemplazar con la traducción automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -11056,10 +11072,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+I</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151741Z" creationid="Antonio" creationdate="20151130T151741Z">
+        <seg>Mayús+Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+N</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145616Z" creationid="Antonio" creationdate="20151130T145616Z">
         <seg>Mayús+Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+R</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151705Z" creationid="Antonio" creationdate="20151130T151705Z">
+        <seg>Mayús+Ctrl+R</seg>
       </tuv>
     </tu>
     <tu>
@@ -14999,6 +15031,38 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144358Z" creationid="Antonio" creationdate="20151130T144358Z">
         <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151743Z" creationid="Antonio" creationdate="20151130T151743Z">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151614Z" creationid="Antonio" creationdate="20151130T151614Z">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151629Z" creationid="Antonio" creationdate="20151130T151629Z">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151715Z" creationid="Antonio" creationdate="20151130T151715Z">
+        <seg>editOverwriteSourceMenuItem</seg>
       </tuv>
     </tu>
     <tu>
