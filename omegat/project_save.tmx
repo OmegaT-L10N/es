@@ -7926,8 +7926,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Whitespace</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135910Z" creationid="Helli" creationdate="20150526T135910Z">
-        <seg>Whitespace Marcado</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160906Z" creationid="Helli" creationdate="20150526T135910Z">
+        <seg>Marcar espacio en blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -18183,6 +18183,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T160340Z" creationid="Antonio" creationdate="20151130T160340Z">
         <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160909Z" creationid="Antonio" creationdate="20151130T160909Z">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
