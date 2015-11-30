@@ -2034,6 +2034,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155707Z" creationid="Antonio" creationdate="20151130T155707Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; o &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; o &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172832Z" creationid="Antonio" creationdate="20151127T172832Z">
@@ -2909,8 +2917,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Back in history...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135307Z" creationid="Helli" creationdate="20150526T135307Z">
-        <seg>Atrás en historia...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155854Z" creationid="Helli" creationdate="20150526T135307Z">
+        <seg>Retroceder en la historia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,6 +3994,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+J</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155745Z" creationid="Antonio" creationdate="20151130T155745Z">
+        <seg>Ctrl+J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+K</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T152452Z" creationid="Antonio" creationdate="20151130T152452Z">
@@ -4058,10 +4074,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155841Z" creationid="Antonio" creationdate="20151130T155841Z">
+        <seg>Ctrl+Mayús+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T152519Z" creationid="Antonio" creationdate="20151126T152519Z">
         <seg>Ctrl+Shift+O alterna la orientación entre LTR (izda a dcha), RTL (dcha a izda) y a dependiente del idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155900Z" creationid="Antonio" creationdate="20151130T155900Z">
+        <seg>Ctrl+Mayús+P</seg>
       </tuv>
     </tu>
     <tu>
@@ -5873,8 +5905,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135259Z" creationid="Helli" creationdate="20150526T135158Z">
-        <seg>Adelante en historia...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155835Z" creationid="Helli" creationdate="20150526T135158Z">
+        <seg>Avanzar en la historia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8391,8 +8423,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Next Note</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135105Z" creationid="Helli" creationdate="20150526T135105Z">
-        <seg>Siguiente Nota</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155800Z" creationid="Helli" creationdate="20150526T135105Z">
+        <seg>Siguiente nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -10874,8 +10906,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Segment number...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135046Z" creationid="Helli" creationdate="20150526T135046Z">
-        <seg>Número de segmento...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155743Z" creationid="Helli" creationdate="20150526T135046Z">
+        <seg>Al segmento número...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13891,8 +13923,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>View Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T124402Z" creationid="Helli" creationdate="20150526T124228Z">
-        <seg>Ver</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155908Z" creationid="Helli" creationdate="20150526T124228Z">
+        <seg>Menú Ver</seg>
       </tuv>
     </tu>
     <tu>
@@ -15675,6 +15707,30 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155901Z" creationid="Antonio" creationdate="20151130T155901Z">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155843Z" creationid="Antonio" creationdate="20151130T155843Z">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155802Z" creationid="Antonio" creationdate="20151130T155802Z">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gotoNextSegmentMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T155637Z" creationid="Antonio" creationdate="20151130T155637Z">
@@ -15695,6 +15751,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T155518Z" creationid="Antonio" creationdate="20151130T155518Z">
         <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155812Z" creationid="Antonio" creationdate="20151130T155812Z">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155709Z" creationid="Antonio" creationdate="20151130T155709Z">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T155748Z" creationid="Antonio" creationdate="20151130T155748Z">
+        <seg>gotoSegmentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
