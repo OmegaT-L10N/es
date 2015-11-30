@@ -1642,6 +1642,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T110758Z" creationid="Antonio" creationdate="20151130T110758Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt;(http://groovy.codehaus.org): Es un lenguaje dinámico para la máquina virtual Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T110935Z" creationid="Antonio" creationdate="20151130T110935Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (a veces abreviado JS, que no debe confundirse): es un lenguaje de script basado en prototipos y es dinámico, débilmente tipado (es decir, de cumplimiento flexible de las reglas de escritura) y tiene funciones de primera clase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T164348Z" creationid="Antonio" creationdate="20151128T164348Z">
@@ -6654,8 +6670,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150605T112158Z" creationid="Helli" creationdate="20150603T151136Z">
-        <seg>Se construye a partir del funcionamiento de Java pero tiene grandes características adicionales inspiradas en lenguajes como Python, Ruby y Smalltalk.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T110836Z" creationid="Helli" creationdate="20150603T151136Z">
+        <seg>Se basa sobre los puntos fuertes de Java pero tiene características adicionales potentes inspiradas en lenguajes como Python, Ruby y Smalltalk.</seg>
       </tuv>
     </tu>
     <tu>
