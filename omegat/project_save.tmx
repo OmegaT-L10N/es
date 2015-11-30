@@ -13943,6 +13943,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T105625Z" creationid="Antonio" creationdate="20151130T105625Z">
+        <seg>Puede iniciar las macros seleccionadas en el menú principal también utilizando sus entradas en el menú de &lt;g0&gt;Herramientas&lt;/g0&gt; o pulsando &lt;k1&gt;Ctrl+Alt+F&lt;/k1&gt; Nº (donde Nº puede ser 1 a 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can start the selected macros from the main menu as well by using their entries in the Tools menu or by pressing&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Ctrl+Alt+F#&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (# 1 to 12).&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T115554Z" creationid="Helli" creationdate="20150526T115554Z">
