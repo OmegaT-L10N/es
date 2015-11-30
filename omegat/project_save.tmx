@@ -4156,8 +4156,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Cycle Case To...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T134126Z" creationid="Helli" creationdate="20150526T134126Z">
-        <seg>Cycle Case a...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T154554Z" creationid="Helli" creationdate="20150526T134126Z">
+        <seg>Intercambiar mayús/minús.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11200,6 +11200,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+F3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T154608Z" creationid="Antonio" creationdate="20151130T154608Z">
+        <seg>Mayús+F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shona</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155013Z" creationid="Antonio" creationdate="20151128T155013Z">
@@ -15055,6 +15063,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161234Z" creationid="Antonio" creationdate="20151128T161234Z">
         <seg>cy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T154609Z" creationid="Antonio" creationdate="20151130T154609Z">
+        <seg>cycleSwitchCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
