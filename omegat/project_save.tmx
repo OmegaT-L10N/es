@@ -4436,8 +4436,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135729Z" creationid="Helli" creationdate="20150526T135729Z">
-        <seg>Segmentos de Fuente de exhibición</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160437Z" creationid="Helli" creationdate="20150526T135729Z">
+        <seg>Mostrar segmentos originales</seg>
       </tuv>
     </tu>
     <tu>
@@ -7878,16 +7878,16 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135744Z" creationid="Helli" creationdate="20150526T135744Z">
-        <seg>Segmentos No Únicos Marcados</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160458Z" creationid="Helli" creationdate="20150526T135744Z">
+        <seg>Marcar segmentos no únicos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135853Z" creationid="Helli" creationdate="20150526T135853Z">
-        <seg>Espacios Irrompibles Marcados</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160529Z" creationid="Helli" creationdate="20150526T135853Z">
+        <seg>Marcar espacios irrompibles</seg>
       </tuv>
     </tu>
     <tu>
@@ -7902,8 +7902,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Segments with Notes</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135759Z" creationid="Helli" creationdate="20150526T135759Z">
-        <seg>Segmentos Marcados con Notas</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160512Z" creationid="Helli" creationdate="20150526T135759Z">
+        <seg>Marcar segmentos con notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -7918,8 +7918,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135612Z" creationid="Helli" creationdate="20150526T135612Z">
-        <seg>Segmentos no traducidos marcados</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160338Z" creationid="Helli" creationdate="20150526T135612Z">
+        <seg>Marcar segmentos no traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -18131,6 +18131,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160439Z" creationid="Antonio" creationdate="20151130T160439Z">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>viewFileListMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151424Z" creationid="Antonio" creationdate="20151130T151424Z">
@@ -18139,10 +18147,42 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160532Z" creationid="Antonio" creationdate="20151130T160532Z">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160501Z" creationid="Antonio" creationdate="20151130T160501Z">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160516Z" creationid="Antonio" creationdate="20151130T160516Z">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T160205Z" creationid="Antonio" creationdate="20151130T160205Z">
         <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160340Z" creationid="Antonio" creationdate="20151130T160340Z">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
