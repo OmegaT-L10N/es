@@ -2124,8 +2124,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175550Z" creationid="Antonio" creationdate="20151127T175550Z">
-        <seg>Acerca de &lt;a0&gt;OmegaT&lt;/a0&gt; - introducción</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T110627Z" creationid="Antonio" creationdate="20151127T175550Z">
+        <seg>Acerca de &lt;a0&gt;OmegaT&lt;/a0&gt; - Introducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -10386,8 +10386,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Scripting languages</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T113435Z" creationid="Helli" creationdate="20150526T113017Z">
-        <seg>Lenguajes de guión</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T110436Z" creationid="Helli" creationdate="20150526T113017Z">
+        <seg>Lenguajes de scripting</seg>
       </tuv>
     </tu>
     <tu>
@@ -12006,8 +12006,8 @@ actual.</seg>
       <tuv lang="EN">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T120102Z" creationid="Helli" creationdate="20150526T120102Z">
-        <seg>Los siguientes lenguajes de guión han sido implementadas:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T110519Z" creationid="Helli" creationdate="20150526T120102Z">
+        <seg>Los siguientes lenguajes de script han sido implementadas:</seg>
       </tuv>
     </tu>
     <tu>
