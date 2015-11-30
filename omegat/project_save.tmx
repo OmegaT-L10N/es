@@ -1244,6 +1244,14 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T123110Z" creationid="Antonio" creationdate="20151130T123110Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151701Z" creationid="Helli" creationdate="20150526T151701Z">
@@ -8747,8 +8755,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T122757Z" creationid="Antonio" creationdate="20151130T122757Z">
-        <seg>En el Mac, el modificador &lt;e0&gt;meta&lt;/e0&gt; tiene que ser usado para especificar la tecla de &lt;s4&gt;&lt;e5&gt;comando&lt;/e5&gt;&lt;/s4&gt;.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T123105Z" creationid="Antonio" creationdate="20151130T122757Z">
+        <seg>En el Mac, es necesario usar modificador &lt;e0&gt;meta&lt;/e0&gt; para especificar la tecla de &lt;e1&gt;comando&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
