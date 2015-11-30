@@ -3906,6 +3906,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152601Z" creationid="Antonio" creationdate="20151130T152601Z">
+        <seg>Ctrl+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+D</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151344Z" creationid="Antonio" creationdate="20151130T151344Z">
@@ -4054,6 +4062,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T152518Z" creationid="Antonio" creationdate="20151130T152518Z">
         <seg>Ctrl+↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152537Z" creationid="Antonio" creationdate="20151130T152537Z">
+        <seg>Ctrl+↓</seg>
       </tuv>
     </tu>
     <tu>
@@ -10930,16 +10946,16 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Select Fuzzy Match 1</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132825Z" creationid="Helli" creationdate="20150526T132527Z">
-        <seg>Selecciona Coincidencia Parcial 1</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152632Z" creationid="Helli" creationdate="20150526T132527Z">
+        <seg>Seleccionar la coincidencia parcial 1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Fuzzy Match 2</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132840Z" creationid="Helli" creationdate="20150526T132840Z">
-        <seg>Selecciona Coincidencia Parcial 2</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152626Z" creationid="Helli" creationdate="20150526T132840Z">
+        <seg>Selecciona la coincidencia parcial 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -11018,8 +11034,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Select Next Match</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132731Z" creationid="Helli" creationdate="20150526T132334Z">
-        <seg>Selecciona Coincidencia Siguiente</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152535Z" creationid="Helli" creationdate="20150526T132334Z">
+        <seg>Selecciona coincidencia siguiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -15167,6 +15183,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T152453Z" creationid="Antonio" creationdate="20151130T152453Z">
         <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152602Z" creationid="Antonio" creationdate="20151130T152602Z">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152539Z" creationid="Antonio" creationdate="20151130T152539Z">
+        <seg>editSelectFuzzyNextMenuItem</seg>
       </tuv>
     </tu>
     <tu>
