@@ -9145,6 +9145,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T165155Z" creationid="Antonio" creationdate="20151130T165155Z">
+        <seg>Uno de los miembros del equipo, el administrador del proyecto, çççç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213952Z" creationid="hcartagena" creationdate="20151119T213952Z">
