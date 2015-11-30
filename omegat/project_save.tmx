@@ -4010,6 +4010,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+T</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151939Z" creationid="Antonio" creationdate="20151130T151939Z">
+        <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Y</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151523Z" creationid="Antonio" creationdate="20151130T151523Z">
@@ -5281,8 +5289,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Export Selection</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132214Z" creationid="Helli" creationdate="20150526T132214Z">
-        <seg>Exportar Seleccioón</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151952Z" creationid="Helli" creationdate="20150526T132214Z">
+        <seg>Exportar selección</seg>
       </tuv>
     </tu>
     <tu>
@@ -6678,8 +6686,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132155Z" creationid="Helli" creationdate="20150526T132155Z">
-        <seg>Insertar La Siguiente Etiqueta Ausente</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151936Z" creationid="Helli" creationdate="20150526T132155Z">
+        <seg>Insertar la siguiente etiqueta ausente</seg>
       </tuv>
     </tu>
     <tu>
@@ -11064,6 +11072,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+C</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152000Z" creationid="Antonio" creationdate="20151130T152000Z">
+        <seg>Mayús+Ctrl+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+D</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151407Z" creationid="Antonio" creationdate="20151130T151407Z">
@@ -11092,6 +11108,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151705Z" creationid="Antonio" creationdate="20151130T151705Z">
         <seg>Mayús+Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+T</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151921Z" creationid="Antonio" creationdate="20151130T151921Z">
+        <seg>Mayús+Ctrl+T</seg>
       </tuv>
     </tu>
     <tu>
@@ -15035,6 +15059,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T152002Z" creationid="Antonio" creationdate="20151130T152002Z">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editInsertSourceMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151743Z" creationid="Antonio" creationdate="20151130T151743Z">
@@ -15079,6 +15111,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151525Z" creationid="Antonio" creationdate="20151130T151525Z">
         <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151941Z" creationid="Antonio" creationdate="20151130T151941Z">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T151923Z" creationid="Antonio" creationdate="20151130T151923Z">
+        <seg>editTagPainterMenuItem</seg>
       </tuv>
     </tu>
     <tu>
