@@ -2356,8 +2356,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T121341Z" creationid="Helli" creationdate="20150526T121341Z">
-        <seg>Todas las lenguas tienen acceso al OmegaT modelo de objeto, con el proyecto como el objeto superior.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113141Z" creationid="Helli" creationdate="20150526T121341Z">
+        <seg>Todos los idiomas de programación tienen acceso al modelo de objetos de OmegaT, donde el proyecto es el objeto superior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12006,8 +12006,8 @@ actual.</seg>
       <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T122303Z" creationid="Helli" creationdate="20150526T121400Z">
-        <seg>El código siguiente fragmento en groovy para escáners de caso a través de todos los segmentos en todos los archivos en el proyecto actual y, si la traducción existe, imprime la fuente y el objetivo del segmento:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113315Z" creationid="Helli" creationdate="20150526T121400Z">
+        <seg>Por ejemplo, el siguiente fragmento de código escrito en groovy analiza todos los segmentos de todos los archivos del proyecto actual y, si existe traducción, imprime el segmento de origen y de destino:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14563,6 +14563,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113345Z" creationid="Antonio" creationdate="20151130T113345Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cor</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083659Z" creationid="Antonio" creationdate="20151128T083659Z">
@@ -14607,6 +14615,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154445Z" creationid="Antonio" creationdate="20151128T154445Z">
         <seg>cu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113338Z" creationid="Antonio" creationdate="20151130T113338Z">
+        <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -14869,8 +14885,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>files = project.projectFiles;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150603T151147Z" creationid="Helli" creationdate="20150603T151147Z">
-        <seg>Filtros de archivo...</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113320Z" creationid="Helli" creationdate="20150603T151147Z">
+        <seg>files = project.projectFiles;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14895,6 +14911,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084911Z" creationid="Antonio" creationdate="20151128T084911Z">
         <seg>fo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113321Z" creationid="Antonio" creationdate="20151130T113321Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113334Z" creationid="Antonio" creationdate="20151130T113334Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -15255,6 +15287,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144534Z" creationid="Antonio" creationdate="20151128T144534Z">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113340Z" creationid="Antonio" creationdate="20151130T113340Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -16675,6 +16715,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113342Z" creationid="Antonio" creationdate="20151130T113342Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>spa</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155130Z" creationid="Antonio" creationdate="20151128T155130Z">
@@ -16823,6 +16871,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155234Z" creationid="Antonio" creationdate="20151128T155234Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113343Z" creationid="Antonio" creationdate="20151130T113343Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17291,6 +17347,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113332Z" creationid="Antonio" creationdate="20151130T113332Z">
+        <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223201Z" creationid="hcartagena" creationdate="20151116T223201Z">
@@ -17367,6 +17431,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T235903Z" creationid="hcartagena" creationdate="20151124T235903Z">
         <seg>{1}, ejecutado desde '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T113347Z" creationid="Antonio" creationdate="20151130T113347Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
