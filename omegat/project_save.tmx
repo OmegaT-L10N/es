@@ -2082,6 +2082,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts Customization&lt;/p0&gt; &lt;s1&gt;View Menu&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160141Z" creationid="Antonio" creationdate="20151130T160141Z">
+        <seg>&lt;p0&gt;Personalización de los atajos&lt;/p0&gt; &lt;s1&gt;Menú Ver&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T114729Z" creationid="Antonio" creationdate="20151130T114729Z">
@@ -7902,8 +7910,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Translated Segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T135536Z" creationid="Helli" creationdate="20150526T135536Z">
-        <seg>Segmento traducido marcado</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160203Z" creationid="Helli" creationdate="20150526T135536Z">
+        <seg>Marcar segmentos traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -18127,6 +18135,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151424Z" creationid="Antonio" creationdate="20151130T151424Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160205Z" creationid="Antonio" creationdate="20151130T160205Z">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
