@@ -3914,6 +3914,38 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153231Z" creationid="Antonio" creationdate="20151130T153231Z">
+        <seg>Ctrl+2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153254Z" creationid="Antonio" creationdate="20151130T153254Z">
+        <seg>Ctrl+3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153316Z" creationid="Antonio" creationdate="20151130T153316Z">
+        <seg>Ctrl+4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153329Z" creationid="Antonio" creationdate="20151130T153329Z">
+        <seg>Ctrl+5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+D</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151344Z" creationid="Antonio" creationdate="20151130T151344Z">
@@ -10962,24 +10994,24 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Select Fuzzy Match 3</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T132944Z" creationid="Helli" creationdate="20150526T132905Z">
-        <seg>Selecciona Coincidencia Parcial 3</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153252Z" creationid="Helli" creationdate="20150526T132905Z">
+        <seg>Selecciona la coincidencia parcial 3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Fuzzy Match 4</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T133019Z" creationid="Helli" creationdate="20150526T133019Z">
-        <seg>Selecciona Coincidencia Parcial 4</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153314Z" creationid="Helli" creationdate="20150526T133019Z">
+        <seg>Selecciona la coincidencia parcial 4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Fuzzy Match 5</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T133058Z" creationid="Helli" creationdate="20150526T133058Z">
-        <seg>Selecciona Coincidencia Parcial 5</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153327Z" creationid="Helli" creationdate="20150526T133058Z">
+        <seg>Selecciona la coincidencia parcial 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -11707,8 +11739,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T133358Z" creationid="Helli" creationdate="20150526T133313Z">
-        <seg>Cambiar a minúscula</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153404Z" creationid="Helli" creationdate="20150526T133313Z">
+        <seg>Intercambiar mayús/minus</seg>
       </tuv>
     </tu>
     <tu>
@@ -15195,6 +15227,38 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153232Z" creationid="Antonio" creationdate="20151130T153232Z">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153256Z" creationid="Antonio" creationdate="20151130T153256Z">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153318Z" creationid="Antonio" creationdate="20151130T153318Z">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153331Z" creationid="Antonio" creationdate="20151130T153331Z">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editSelectFuzzyNextMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T152539Z" creationid="Antonio" creationdate="20151130T152539Z">
@@ -16375,6 +16439,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T200856Z" creationid="hcartagena" creationdate="20151118T192023Z">
         <seg>cargado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lowerCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T153426Z" creationid="Antonio" creationdate="20151130T153426Z">
+        <seg>lowerCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
