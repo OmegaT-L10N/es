@@ -7868,6 +7868,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160933Z" creationid="Antonio" creationdate="20151130T160933Z">
+        <seg>Marcar caracteres de control del algoritmo bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Non-&amp;Unique Segments</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081022Z" creationid="Víctor Parra" creationdate="20151127T011240Z">
@@ -8152,6 +8160,30 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T154543Z" creationid="Antonio" creationdate="20151127T154423Z">
         <seg>Etiquetas perdidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161059Z" creationid="Antonio" creationdate="20151130T161059Z">
+        <seg>Información de modificación/Mostrar todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161001Z" creationid="Antonio" creationdate="20151130T161001Z">
+        <seg>Información de modificación/No mostrar nada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161044Z" creationid="Antonio" creationdate="20151130T161044Z">
+        <seg>Información de modificación/Mostrar seleccionado</seg>
       </tuv>
     </tu>
     <tu>
@@ -11264,6 +11296,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+V</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161218Z" creationid="Antonio" creationdate="20151130T161218Z">
+        <seg>Mayús+Ctrl+V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T154608Z" creationid="Antonio" creationdate="20151130T154608Z">
@@ -12965,8 +13005,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tools Menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T124414Z" creationid="Helli" creationdate="20150526T124414Z">
-        <seg>Herramientas</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161130Z" creationid="Helli" creationdate="20150526T124414Z">
+        <seg>Menú Herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -18131,6 +18171,30 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161122Z" creationid="Antonio" creationdate="20151130T161122Z">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161003Z" creationid="Antonio" creationdate="20151130T161003Z">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T161046Z" creationid="Antonio" creationdate="20151130T161046Z">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T160439Z" creationid="Antonio" creationdate="20151130T160439Z">
@@ -18143,6 +18207,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151424Z" creationid="Antonio" creationdate="20151130T151424Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T160935Z" creationid="Antonio" creationdate="20151130T160935Z">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
