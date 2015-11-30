@@ -9009,6 +9009,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T163545Z" creationid="Antonio" creationdate="20151130T163545Z">
+        <seg>OmegaT admite dos de los sistemas de control de versiones  (abreviado como VCS) más populares, &lt;u0&gt;Apache Subversion&lt;/u0&gt; (a menudo aparece como SVN, por el nombre del comando, svn) y &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T180117Z" creationid="Antonio" creationdate="20151127T180117Z">
@@ -12412,6 +12420,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163818Z" creationid="Antonio" creationdate="20151128T163731Z">
         <seg>El autor del Capítulo &lt;e1&gt;¡Empiece a utilizar Omegat en 5 minutos!&lt;/e1&gt;es Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151130T163337Z" creationid="Antonio" creationdate="20151130T163337Z">
+        <seg>La traducción en grupo que ofrece OmegaT se basa en la funcionalidad de control de versión o revisiones, de uso amplio en la comunidad de software para mantener el control de cambios en el código de un programa y permitir sin trabas colaboración dentro del equipo de desarrollo.</seg>
       </tuv>
     </tu>
     <tu>
