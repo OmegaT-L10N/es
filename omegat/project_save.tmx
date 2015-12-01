@@ -5,6 +5,15 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>me salió en un glosario y me parece mejor que "coincidencias parciales"</note>
+      <tuv lang="EN">
+        <seg>"fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223541Z" creationid="hcartagena" creationdate="20151201T223541Z">
+        <seg>«coincidencias aproximadas»</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
@@ -2018,6 +2027,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223724Z" creationid="hcartagena" creationdate="20151201T223724Z">
+        <seg>ver el diálogo &lt;g1&gt;Buscar texto&lt;/g1&gt; en cualquier momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T152603Z" creationid="Antonio" creationdate="20151126T152603Z">
@@ -2054,6 +2071,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T155707Z" creationid="Antonio" creationdate="20151130T155707Z">
         <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; o &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; o &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223606Z" creationid="hcartagena" creationdate="20151201T223606Z">
+        <seg>&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; o copiar glosarios a</seg>
       </tuv>
     </tu>
     <tu>
@@ -5999,6 +6024,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223750Z" creationid="hcartagena" creationdate="20151201T223750Z">
+        <seg>Para ver una introducción más detallada consulte &lt;u0&gt;OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142924Z" creationid="hcartagena" creationdate="20151117T142924Z">
@@ -6796,6 +6829,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need assistance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223805Z" creationid="hcartagena" creationdate="20151201T223805Z">
+        <seg>Si necesita ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you place such</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223416Z" creationid="hcartagena" creationdate="20151201T223410Z">
@@ -7254,6 +7295,14 @@ the user license.</seg>
 don't have to pay anything to be able to use it, even for professional use, 
 and you are free to modify it and/or re-distribute it as long as you respect 
 the user license.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is often useful to search for words and phrases in the source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223649Z" creationid="hcartagena" creationdate="20151201T223649Z">
+        <seg>A menudo es útil buscar palabras y frases en el texto original</seg>
       </tuv>
     </tu>
     <tu>
@@ -14925,6 +14974,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223551Z" creationid="hcartagena" creationdate="20151201T223551Z">
+        <seg>Puede añadir un término nuevo al glosario con la combinación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T110421Z" creationid="Helli" creationdate="20150526T115849Z">
@@ -15247,6 +15304,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144023Z" creationid="Antonio" creationdate="20151130T124530Z">
         <seg>y &lt;c0&gt;&lt;tecla&gt;&lt;/c0&gt; puede ser cualquier tecla disponible en el teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223637Z" creationid="hcartagena" creationdate="20151201T223637Z">
+        <seg>y OmegaT buscará palabras en ellos automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16244,6 +16309,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223801Z" creationid="hcartagena" creationdate="20151201T223801Z">
+        <seg>for beginners&lt;/u0&gt; en el sitio web de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fr</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084935Z" creationid="Antonio" creationdate="20151128T084935Z">
@@ -16424,6 +16497,15 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175101Z" creationid="Antonio" creationdate="20151127T175101Z">
         <seg>groovy-all-2.2.2.jar (Apache Licence 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>quedó solo el punto por el orden de las palabras en el original</note>
+      <tuv lang="EN">
+        <seg>group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223845Z" creationid="hcartagena" creationdate="20151201T223845Z">
+        <seg>.&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18757,6 +18839,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223710Z" creationid="hcartagena" creationdate="20151201T223710Z">
+        <seg>y en la traducción, para lo que debe pulsar &lt;k0&gt;Ctrl+F&lt;/k0&gt; para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tg</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155256Z" creationid="Antonio" creationdate="20151128T155256Z">
@@ -18801,6 +18891,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222527Z" creationid="hcartagena" creationdate="20151201T222527Z">
         <seg>que rodean al texto que está traduciendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223627Z" creationid="hcartagena" creationdate="20151201T223624Z">
+        <seg>la carpeta &lt;f1&gt;/glossary/&lt;/f1&gt; dentro de la carpeta de su proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -19314,6 +19412,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221733Z" creationid="hcartagena" creationdate="20151201T221733Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223827Z" creationid="hcartagena" creationdate="20151201T223827Z">
+        <seg>con cualquier aspecto de OmegaT, no dude en suscribirse al &lt;u1&gt;grupo de usuarios de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
