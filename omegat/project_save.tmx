@@ -2210,6 +2210,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A source</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222600Z" creationid="hcartagena" creationdate="20151201T222600Z">
+        <seg>Una oración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151228Z" creationid="Helli" creationdate="20150526T151228Z">
@@ -6159,6 +6167,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222859Z" creationid="hcartagena" creationdate="20151201T222859Z">
+        <seg>Generar el archivo traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Georgian</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144306Z" creationid="Antonio" creationdate="20151128T144306Z">
@@ -6532,6 +6548,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T020411Z" creationid="Víctor Parra" creationdate="20151125T020411Z">
         <seg>Inicio*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you made mistakes when you</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222801Z" creationid="hcartagena" creationdate="20151201T222801Z">
+        <seg>Sin embargo, si comete errores al</seg>
       </tuv>
     </tu>
     <tu>
@@ -9285,6 +9309,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185547Z" creationid="hcartagena" creationdate="20151119T185547Z">
         <seg>OmegaT intentará recrear los segmentos del archivo TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, however, will present this sentence in the following</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222641Z" creationid="hcartagena" creationdate="20151201T222641Z">
+        <seg>Sin embargo, Omegat presentará la oración de la siguiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -12927,6 +12959,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222717Z" creationid="hcartagena" creationdate="20151201T222717Z">
+        <seg>Las etiquetas en OmegaT aparecen en gris, para que sean fáciles de reconocer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011334Z" creationid="Víctor Parra" creationdate="20151125T011334Z">
@@ -12991,6 +13031,14 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222838Z" creationid="hcartagena" creationdate="20151201T222838Z">
+        <seg>Por lo tanto, pulse &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; antes de generar sus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
@@ -13022,6 +13070,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184157Z" creationid="hcartagena" creationdate="20151119T184157Z">
         <seg>Se han omitido estas unidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222726Z" creationid="hcartagena" creationdate="20151201T222726Z">
+        <seg>Están</seg>
       </tuv>
     </tu>
     <tu>
@@ -15123,6 +15179,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222747Z" creationid="hcartagena" creationdate="20151201T222747Z">
+        <seg>protegidas para que no pueda modificar su contenido, pero puede eliminarlas, introducirlas manualmente o cambiarlas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>arg</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081846Z" creationid="Antonio" creationdate="20151128T081846Z">
@@ -15959,6 +16023,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154633Z" creationid="Antonio" creationdate="20151128T154631Z">
         <seg>fas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fashion:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222657Z" creationid="hcartagena" creationdate="20151201T222657Z">
+        <seg>manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18172,6 +18244,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sentence might look like:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222622Z" creationid="hcartagena" creationdate="20151201T222603Z">
+        <seg>original podría lucir así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sg</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154952Z" creationid="Antonio" creationdate="20151128T154952Z">
@@ -18454,8 +18534,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>tags that have nothing to do with formatting, but which are also</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222546Z" creationid="hcartagena" creationdate="20151201T222546Z">
-        <seg>etiquetas que no cumplen funciones de formato, pero que también son</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222700Z" creationid="hcartagena" creationdate="20151201T222546Z">
+        <seg>etiquetas que no cumplen funciones de formato, pero que son</seg>
       </tuv>
     </tu>
     <tu>
@@ -18552,6 +18632,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222527Z" creationid="hcartagena" creationdate="20151201T222527Z">
         <seg>que rodean al texto que está traduciendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222754Z" creationid="hcartagena" creationdate="20151201T222754Z">
+        <seg>de lugar en la oración traducida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18676,6 +18764,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222852Z" creationid="hcartagena" creationdate="20151201T222852Z">
+        <seg>archivos traducidos, para validar que sus etiquetas estén correctas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>translation will look like in its final format, press</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222331Z" creationid="hcartagena" creationdate="20151201T222255Z">
@@ -18768,6 +18864,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T160948Z" creationid="Antonio" creationdate="20151128T160948Z">
         <seg>ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222819Z" creationid="hcartagena" creationdate="20151201T222819Z">
+        <seg>escribir las etiquetas de formato, sus archivos traducidos podrían no abrirse.</seg>
       </tuv>
     </tu>
     <tu>
