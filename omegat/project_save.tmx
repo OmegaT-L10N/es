@@ -2859,6 +2859,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223234Z" creationid="hcartagena" creationdate="20151201T223234Z">
+        <seg>Al finalizar su traducción, OmegaT exporta tres memorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time, it can use memories files from previous translations for reference.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175655Z" creationid="Antonio" creationdate="20151127T175655Z">
@@ -6788,6 +6796,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you place such</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223416Z" creationid="hcartagena" creationdate="20151201T223410Z">
+        <seg>Si pone esos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144703Z" creationid="Antonio" creationdate="20151130T144703Z">
@@ -9209,6 +9225,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223408Z" creationid="hcartagena" creationdate="20151201T223408Z">
+        <seg>OmegaT para proyectos futuros que desee crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT license</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212838Z" creationid="hcartagena" creationdate="20151119T212838Z">
@@ -9293,6 +9317,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230808Z" creationid="hcartagena" creationdate="20151124T230808Z">
         <seg>OmegaT versión {0}, actualización {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will automatically search them for similar segments, called</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223451Z" creationid="hcartagena" creationdate="20151201T223451Z">
+        <seg>OmegaT buscará automáticamente segmentos similares en ellos, lo que se conoce como</seg>
       </tuv>
     </tu>
     <tu>
@@ -12622,6 +12654,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223339Z" creationid="hcartagena" creationdate="20151201T223339Z">
+        <seg>Las memorias &lt;f3&gt;level1&lt;/f3&gt; y &lt;f4&gt;level2&lt;/f4&gt; pueden compartirse con usuarios de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202919Z" creationid="hcartagena" creationdate="20151119T202919Z">
@@ -12883,6 +12923,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191627Z" creationid="hcartagena" creationdate="20151117T191627Z">
         <seg>El código de idioma debe ingresarse con el formato xx-YY, xxx-YY, xx_YY o xxx_YY, donde 
 xx o xxx es el código de idioma y YY es el código de región o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223357Z" creationid="hcartagena" creationdate="20151201T223357Z">
+        <seg>La memoria con el nombre &lt;f5&gt;omegat&lt;/f5&gt; puede servir a</seg>
       </tuv>
     </tu>
     <tu>
@@ -16170,6 +16218,15 @@ directorio de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>queda solo el punto debido al orden de las palabras</note>
+      <tuv lang="EN">
+        <seg>folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223315Z" creationid="hcartagena" creationdate="20151201T223315Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
@@ -17347,6 +17404,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223259Z" creationid="hcartagena" creationdate="20151201T223259Z">
+        <seg>de traducción con los nombres &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; y &lt;f2&gt;omegat&lt;/f2&gt; en la carpeta de su proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221551Z" creationid="hcartagena" creationdate="20151201T221551Z">
@@ -17975,6 +18040,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154517Z" creationid="Antonio" creationdate="20151128T154515Z">
         <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>other translation programs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223343Z" creationid="hcartagena" creationdate="20151201T223343Z">
+        <seg>otros programas de traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18864,6 +18937,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222852Z" creationid="hcartagena" creationdate="20151201T222852Z">
         <seg>archivos traducidos, para validar que sus etiquetas estén correctas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223432Z" creationid="hcartagena" creationdate="20151201T223432Z">
+        <seg>archivos de memoria de traducción en la carpeta &lt;f6&gt;/tm/&lt;/f6&gt; de un proyecto,</seg>
       </tuv>
     </tu>
     <tu>
