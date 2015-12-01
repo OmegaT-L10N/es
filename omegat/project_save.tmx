@@ -5898,8 +5898,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223539Z" creationid="hcartagena" creationdate="20151116T223539Z">
-        <seg>Nombre de archivo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T224828Z" creationid="hcartagena" creationdate="20151116T223539Z">
+        <seg>Nombre del archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9492,8 +9492,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T192636Z" creationid="Víctor Parra" creationdate="20151124T192636Z">
-        <seg>Abrur Pro&amp;jecto Reciente</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T224801Z" creationid="Víctor Parra" creationdate="20151124T192636Z">
+        <seg>Abrir pro&amp;yecto reciente</seg>
       </tuv>
     </tu>
     <tu>
@@ -12629,8 +12629,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T230351Z" creationid="hcartagena" creationdate="20151124T230334Z">
-        <seg>Reemplazar texto:
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T224853Z" creationid="hcartagena" creationdate="20151124T230334Z">
+        <seg>Reemplazo:
 El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, con independencia de que tengan o no contenido.</seg>
       </tuv>
     </tu>
