@@ -5537,8 +5537,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Extracted comments:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172804Z" creationid="Antonio" creationdate="20151127T172804Z">
-        <seg>Comentarios extraidos:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T144304Z" creationid="Antonio" creationdate="20151127T172804Z">
+        <seg>Comentarios extraídos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8615,8 +8615,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>No script set.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141628Z" creationid="Antonio" creationdate="20151127T173026Z">
-        <seg>Sin programa establecido.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T144245Z" creationid="Antonio" creationdate="20151127T173026Z">
+        <seg>Sin programa especificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9582,8 +9582,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Please translate this plural as plural form #{0}.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172753Z" creationid="Antonio" creationdate="20151127T172753Z">
-        <seg>Por favor, traduzca este plural con #{0} en forma plural</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T144351Z" creationid="Antonio" creationdate="20151127T172753Z">
+        <seg>Por favor, traduzca este plural con la forma en plural #{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13429,8 +13429,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Translator comments:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172815Z" creationid="Antonio" creationdate="20151127T172815Z">
-        <seg>Comentarios de traductor:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T144306Z" creationid="Antonio" creationdate="20151127T172815Z">
+        <seg>Comentarios del traductor:</seg>
       </tuv>
     </tu>
     <tu>
