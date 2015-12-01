@@ -2434,10 +2434,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222117Z" creationid="hcartagena" creationdate="20151201T222117Z">
+        <seg>Después de que se hayan cargado los archivos originales en el panel del &lt;g3&gt;Editor&lt;/g3&gt;, puede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221716Z" creationid="hcartagena" creationdate="20151201T221716Z">
         <seg>Tras darle un nombre a su proyecto, aparecerá el diálogo &lt;g0&gt;Crear proyecto nuevo&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222200Z" creationid="hcartagena" creationdate="20151201T222200Z">
+        <seg>Después de traducir cada segmento, pulse &lt;k0&gt;Ctrl-U&lt;/k0&gt; para</seg>
       </tuv>
     </tu>
     <tu>
@@ -3552,6 +3568,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T235957Z" creationid="hcartagena" creationdate="20151124T235941Z">
         <seg>Clic en el elemento de menú '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222015Z" creationid="hcartagena" creationdate="20151201T222015Z">
+        <seg>Haga clic en &lt;g1&gt;Copiar archivos a carpeta Source...&lt;/g1&gt;para seleccionar sus archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9201,6 +9225,22 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222143Z" creationid="hcartagena" creationdate="20151201T222143Z">
+        <seg>OmegaT presentará un segmento a la vez para que traduzca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222025Z" creationid="hcartagena" creationdate="20151201T222025Z">
+        <seg>OmegaT copiará los archivos seleccionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185547Z" creationid="hcartagena" creationdate="20151119T185547Z">
@@ -13323,6 +13363,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222130Z" creationid="hcartagena" creationdate="20151201T222130Z">
+        <seg>Traducir el archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T214627Z" creationid="hcartagena" creationdate="20151119T214627Z">
@@ -15331,6 +15379,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222126Z" creationid="hcartagena" creationdate="20151201T222126Z">
+        <seg>cerrar el diálogo &lt;g4&gt;Archivos del proyecto&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>co</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083738Z" creationid="Antonio" creationdate="20151128T083738Z">
@@ -15879,6 +15935,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T113320Z" creationid="Helli" creationdate="20150603T151147Z">
         <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222045Z" creationid="hcartagena" creationdate="20151201T222040Z">
+        <seg>a la carpeta &lt;f2&gt;/source/&lt;/f2&gt; de su proyecto recién creado</seg>
       </tuv>
     </tu>
     <tu>
@@ -17163,6 +17227,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222237Z" creationid="hcartagena" creationdate="20151201T222237Z">
+        <seg>pasar al siguiente segmento traducido).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222225Z" creationid="hcartagena" creationdate="20151201T222225Z">
+        <seg>pasar al siguiente segmento sin traducir (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; para)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mr</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152757Z" creationid="Antonio" creationdate="20151128T152757Z">
@@ -17719,6 +17799,15 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154725Z" creationid="Antonio" creationdate="20151128T154725Z">
         <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>queda solo el punto debido al orden de las palabras</note>
+      <tuv lang="EN">
+        <seg>project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222058Z" creationid="hcartagena" creationdate="20151201T222058Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
