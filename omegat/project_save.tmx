@@ -1564,8 +1564,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173810Z" creationid="Antonio" creationdate="20151127T173810Z">
-        <seg>&lt; VACIO &gt;</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T140427Z" creationid="Antonio" creationdate="20151127T173810Z">
+        <seg>&lt;VACÍO&gt;</seg>
       </tuv>
     </tu>
     <tu>
