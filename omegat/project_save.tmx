@@ -2058,6 +2058,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222340Z" creationid="hcartagena" creationdate="20151201T222307Z">
+        <seg>&lt;k2&gt;Ctrl+D&lt;/k2&gt; para generar los documentos traducidos, que se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172832Z" creationid="Antonio" creationdate="20151127T172832Z">
@@ -4858,6 +4866,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222404Z" creationid="hcartagena" creationdate="20151201T222404Z">
+        <seg>Durante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During SVN error({0}),
 project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
       </tuv>
@@ -6740,6 +6756,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222455Z" creationid="hcartagena" creationdate="20151201T222455Z">
+        <seg>Si los archivos originales están en archivos con formato, como Microsoft Word,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Igbo</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144552Z" creationid="Antonio" creationdate="20151128T144552Z">
@@ -7688,6 +7712,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163454Z" creationid="Antonio" creationdate="20151128T163454Z">
         <seg>Notas legales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice Writer or HTML, OmegaT will convert the formatting into tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222515Z" creationid="hcartagena" creationdate="20151201T222515Z">
+        <seg>LibreOffice Writer o HTML, por ejemplo, OmegaT convertirá el formato en etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8961,6 +8993,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153626Z" creationid="Antonio" creationdate="20151128T153620Z">
         <seg>Occitano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often documents will also have</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222535Z" creationid="hcartagena" creationdate="20151201T222535Z">
+        <seg>A menudo, los documentos también tienen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14177,6 +14217,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222438Z" creationid="hcartagena" creationdate="20151201T222438Z">
+        <seg>Validar sus etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating Tags...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222059Z" creationid="hcartagena" creationdate="20151116T222059Z">
@@ -14446,6 +14494,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150605T111524Z" creationid="Helli" creationdate="20150603T151048Z">
         <seg>Cuando pulse con el botón izquierdo del ratón en el número, el script seleccionado ejecutará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222321Z" creationid="hcartagena" creationdate="20151201T222248Z">
+        <seg>Cuando desee ver su</seg>
       </tuv>
     </tu>
     <tu>
@@ -15439,6 +15495,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084111Z" creationid="Antonio" creationdate="20151128T084111Z">
         <seg>cre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222359Z" creationid="hcartagena" creationdate="20151201T222359Z">
+        <seg>crearán en la carpeta &lt;f3&gt;/target/&lt;/f3&gt; dentro de la carpeta del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16555,6 +16619,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222557Z" creationid="hcartagena" creationdate="20151201T222557Z">
+        <seg>importantes en los archivos originales (y en los archivos traducidos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ina</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144511Z" creationid="Antonio" creationdate="20151128T144511Z">
@@ -17135,6 +17207,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221551Z" creationid="hcartagena" creationdate="20151201T221551Z">
         <seg>seleccione &lt;m1&gt;&lt;g2&gt;Nuevo...&lt;/g2&gt;&lt;/m1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222434Z" creationid="hcartagena" creationdate="20151201T222434Z">
+        <seg>para ejecutar diversas funciones útiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18372,6 +18452,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tags that have nothing to do with formatting, but which are also</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222546Z" creationid="hcartagena" creationdate="20151201T222546Z">
+        <seg>etiquetas que no cumplen funciones de formato, pero que también son</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tah</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T160951Z" creationid="Antonio" creationdate="20151128T160949Z">
@@ -18456,6 +18544,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155305Z" creationid="Antonio" creationdate="20151128T155305Z">
         <seg>tha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222527Z" creationid="hcartagena" creationdate="20151201T222527Z">
+        <seg>que rodean al texto que está traduciendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18576,6 +18672,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155557Z" creationid="Antonio" creationdate="20151128T155557Z">
         <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation will look like in its final format, press</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222331Z" creationid="hcartagena" creationdate="20151201T222255Z">
+        <seg>traducción en el formato final, pulse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222426Z" creationid="hcartagena" creationdate="20151201T222426Z">
+        <seg>la traducción, use los menús &lt;g4&gt;Editar&lt;/g4&gt; e &lt;g5&gt;Ir a&lt;/g5&gt;</seg>
       </tuv>
     </tu>
     <tu>
