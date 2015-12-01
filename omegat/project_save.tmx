@@ -2066,6 +2066,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223048Z" creationid="hcartagena" creationdate="20151201T223048Z">
+        <seg>&lt;l1&gt;Filtros de archivo&lt;/l1&gt; para obtener un listado de los formatos de archivo que OmegaT entiende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172832Z" creationid="Antonio" creationdate="20151127T172832Z">
@@ -5735,6 +5743,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222959Z" creationid="hcartagena" creationdate="20151201T222959Z">
+        <seg>Un par de cosas más a tener en cuenta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fijian</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084919Z" creationid="Antonio" creationdate="20151128T084919Z">
@@ -6676,6 +6692,14 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230804Z" creationid="hcartagena" creationdate="20151119T230804Z">
         <seg>Si el archivo HHC o HHK tiene una declaración de codificación, se utilizará esta, con independencia del valor que especifique en este cuadro de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223023Z" creationid="hcartagena" creationdate="20151201T223023Z">
+        <seg>Si un archivo no se carga en el panel del &lt;g0&gt;Editor&lt;/g0&gt;, podría ser que su formato no sea compatible con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9337,6 +9361,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222916Z" creationid="hcartagena" creationdate="20151201T222916Z">
+        <seg>Cuando se haya asegurado de que no hay errores de etiquetas en su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T165155Z" creationid="Antonio" creationdate="20151130T165155Z">
@@ -11148,6 +11180,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163822Z" creationid="Antonio" creationdate="20151127T163822Z">
         <seg>Segundos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223024Z" creationid="hcartagena" creationdate="20151201T223024Z">
+        <seg>Vea</seg>
       </tuv>
     </tu>
     <tu>
@@ -13315,6 +13355,22 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223128Z" creationid="hcartagena" creationdate="20151201T223128Z">
+        <seg>Para tener un recordatorio de los ajustes iniciales del proyecto, abra el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223155Z" creationid="hcartagena" creationdate="20151201T223155Z">
+        <seg>Para ver un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221505Z" creationid="hcartagena" creationdate="20151201T221505Z">
@@ -14849,6 +14905,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124636Z" creationid="Helli" creationdate="20150526T124636Z">
         <seg> Puede cambiar los atajos ya asignados y añadir atajos nuevos colocando un archivo de definición del atajo en su OmegaT carpeta de preferencias (ve &lt;/f0&gt;&lt;f1&gt;ubicación de archivos del Usuario&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223103Z" creationid="hcartagena" creationdate="20151201T223103Z">
+        <seg>Puede crear un proyecto nuevo para cada trabajo nuevo y puede añadir</seg>
       </tuv>
     </tu>
     <tu>
@@ -17155,6 +17219,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223213Z" creationid="hcartagena" creationdate="20151201T223213Z">
+        <seg>listado de los archivos del proyecto, abra el diálogo &lt;g1&gt;Archivos del proyecto&lt;/g1&gt; con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lit</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152329Z" creationid="Antonio" creationdate="20151128T152329Z">
@@ -17535,6 +17607,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153256Z" creationid="Antonio" creationdate="20151128T153256Z">
         <seg>nep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223113Z" creationid="hcartagena" creationdate="20151201T223113Z">
+        <seg>archivos originales nuevos a un proyecto en cualquier momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17951,6 +18031,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154725Z" creationid="Antonio" creationdate="20151128T154725Z">
         <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223221Z" creationid="hcartagena" creationdate="20151201T223221Z">
+        <seg>la combinación &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T223153Z" creationid="hcartagena" creationdate="20151201T223153Z">
+        <seg>diálogo de propiedades del proyecto con la combinación &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18780,6 +18876,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222934Z" creationid="hcartagena" creationdate="20151201T222934Z">
+        <seg>traducción, pulse &lt;k0&gt;Ctrl+D&lt;/k0&gt; para generar los archivos traducidos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222426Z" creationid="hcartagena" creationdate="20151201T222426Z">
@@ -19115,6 +19219,14 @@ directorio de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222946Z" creationid="hcartagena" creationdate="20151201T222946Z">
+        <seg>que se crearán en la carpeta &lt;f1&gt;/target/&lt;/f1&gt; dentro de</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>queda solo el punto debido al orden de las palabras</note>
       <tuv lang="EN">
         <seg>will open.</seg>
@@ -19209,6 +19321,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221520Z" creationid="hcartagena" creationdate="20151201T221520Z">
         <seg>sus archivos, como el archivo original, las memorias de traducción, los glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>your project folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222950Z" creationid="hcartagena" creationdate="20151201T222950Z">
+        <seg>la carpeta del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
