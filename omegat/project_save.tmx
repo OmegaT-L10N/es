@@ -2074,6 +2074,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221445Z" creationid="hcartagena" creationdate="20151201T221445Z">
+        <seg>&lt;p0&gt;Menó Proyecto&lt;/p0&gt; &lt;s1&gt;Nuevo...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T163135Z" creationid="Antonio" creationdate="20151130T163135Z">
@@ -2086,6 +2094,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161627Z" creationid="Antonio" creationdate="20151128T161627Z">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221327Z" creationid="hcartagena" creationdate="20151201T221327Z">
+        <seg>&lt;p0&gt;Proyecto&lt;/p0&gt; &lt;s1&gt;Nuevo... / Abrir...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,6 +2126,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T114729Z" creationid="Antonio" creationdate="20151130T114729Z">
         <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Personalización&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221356Z" creationid="hcartagena" creationdate="20151201T221356Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; en un Apple Mac, usar la tecla &lt;k1&gt;Command&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6756,6 +6780,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221539Z" creationid="hcartagena" creationdate="20151201T221539Z">
+        <seg>En el menú &lt;g0&gt;Proyecto&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T105412Z" creationid="Helli" creationdate="20150526T115204Z">
@@ -10221,6 +10253,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remember where you are</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221622Z" creationid="hcartagena" creationdate="20151201T221604Z">
+        <seg>Recuerde en qué ubicación está</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230420Z" creationid="hcartagena" creationdate="20151119T230420Z">
@@ -11292,6 +11332,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203220Z" creationid="hcartagena" creationdate="20151116T203220Z">
         <seg>Establecer traducción vacía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set up a new project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221338Z" creationid="hcartagena" creationdate="20151201T221338Z">
+        <seg>Configurar un proyecto nuevo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13091,6 +13139,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start using OmegaT, first create a project that will hold all</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221505Z" creationid="hcartagena" creationdate="20151201T221505Z">
+        <seg>Para empezar a usar OmegaT, cree primero un proyecto que tendrá todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To support the OmegaT project financially</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154711Z" creationid="Helli" creationdate="20150526T154711Z">
@@ -14883,6 +14939,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and eventually your translated file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221532Z" creationid="hcartagena" creationdate="20151201T221532Z">
+        <seg>y después el archivo traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221558Z" creationid="hcartagena" creationdate="20151201T221558Z">
+        <seg>y escriba un nombre para el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ar</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081835Z" creationid="Antonio" creationdate="20151128T081835Z">
@@ -15263,6 +15335,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084111Z" creationid="Antonio" creationdate="20151128T084111Z">
         <seg>cre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221612Z" creationid="hcartagena" creationdate="20151201T221612Z">
+        <seg>creando el proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -16539,6 +16619,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221408Z" creationid="hcartagena" creationdate="20151201T221408Z">
+        <seg>en lugar de la tecla &lt;k2&gt;Control&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>kg</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T145234Z" creationid="Antonio" creationdate="20151128T145234Z">
@@ -16927,6 +17015,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152801Z" creationid="Antonio" creationdate="20151128T152758Z">
         <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221551Z" creationid="hcartagena" creationdate="20151201T221551Z">
+        <seg>seleccione &lt;m1&gt;&lt;g2&gt;Nuevo...&lt;/g2&gt;&lt;/m1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18735,6 +18831,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161356Z" creationid="Antonio" creationdate="20151128T161356Z">
         <seg>yor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>your files, such as your source file, translation memories, glossaries,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221520Z" creationid="hcartagena" creationdate="20151201T221520Z">
+        <seg>sus archivos, como el archivo original, las memorias de traducción, los glosarios</seg>
       </tuv>
     </tu>
     <tu>
