@@ -2324,8 +2324,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add Script</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172948Z" creationid="Antonio" creationdate="20151127T172948Z">
-        <seg>Añadir script</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141636Z" creationid="Antonio" creationdate="20151127T172948Z">
+        <seg>Añadir programa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4838,8 +4838,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173639Z" creationid="Antonio" creationdate="20151127T173639Z">
-        <seg>ERROR: (declaracion de bean)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141831Z" creationid="Antonio" creationdate="20151127T173639Z">
+        <seg>ERROR: (declaración de bean)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8599,8 +8599,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173006Z" creationid="Antonio" creationdate="20151127T173006Z">
-        <seg>Ningún script vinculado a la ranura #{0}.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141633Z" creationid="Antonio" creationdate="20151127T173006Z">
+        <seg>Ningún programa vinculado a la ranura #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8615,8 +8615,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>No script set.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173026Z" creationid="Antonio" creationdate="20151127T173026Z">
-        <seg>Sin script establecido.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141628Z" creationid="Antonio" creationdate="20151127T173026Z">
+        <seg>Sin programa establecido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10231,8 +10231,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172940Z" creationid="Antonio" creationdate="20151127T172940Z">
-        <seg>Eliminar el script</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141639Z" creationid="Antonio" creationdate="20151127T172940Z">
+        <seg>Eliminar el programa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10544,8 +10544,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173043Z" creationid="Antonio" creationdate="20151127T173043Z">
-        <seg>Ejecutar script en la ranura #{0}.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141622Z" creationid="Antonio" creationdate="20151127T173043Z">
+        <seg>Ejecutar programa en la ranura #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10786,24 +10786,24 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172915Z" creationid="Antonio" creationdate="20151127T172915Z">
-        <seg>Script "{0}" vinculado a la ranura #{1}.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141645Z" creationid="Antonio" creationdate="20151127T172915Z">
+        <seg>Programa "{0}" vinculado a la ranura #{1}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Script "{0}" saved.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173058Z" creationid="Antonio" creationdate="20151127T173058Z">
-        <seg>Se ha guardado el script "{0}".</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141617Z" creationid="Antonio" creationdate="20151127T173058Z">
+        <seg>Se ha guardado el programa "{0}".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172859Z" creationid="Antonio" creationdate="20151127T172859Z">
-        <seg>Script "{0}" desvinculado de la ranura #{1}.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141654Z" creationid="Antonio" creationdate="20151127T172859Z">
+        <seg>Programa "{0}" desvinculado de la ranura #{1}.</seg>
       </tuv>
     </tu>
     <tu>
