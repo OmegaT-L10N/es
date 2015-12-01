@@ -2010,6 +2010,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221831Z" creationid="hcartagena" creationdate="20151201T221831Z">
+        <seg>&lt;g1&gt;OK&lt;/g1&gt; para continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T152603Z" creationid="Antonio" creationdate="20151126T152603Z">
@@ -2426,6 +2434,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221716Z" creationid="hcartagena" creationdate="20151201T221716Z">
+        <seg>Tras darle un nombre a su proyecto, aparecerá el diálogo &lt;g0&gt;Crear proyecto nuevo&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175528Z" creationid="Antonio" creationdate="20151127T175528Z">
@@ -2807,6 +2823,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175655Z" creationid="Antonio" creationdate="20151127T175655Z">
         <seg>Al mismo tiempo, puede utilizar referencias a memorias de traducción anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221812Z" creationid="hcartagena" creationdate="20151201T221812Z">
+        <seg>Al principio de ese diálogo, seleccione el idioma del archivo original</seg>
       </tuv>
     </tu>
     <tu>
@@ -6644,6 +6668,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221843Z" creationid="hcartagena" creationdate="20151201T221843Z">
+        <seg>Si le interesan los demás ajustes de este diálogo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145033Z" creationid="Antonio" creationdate="20151130T145033Z">
@@ -8585,6 +8617,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075151Z" creationid="Antonio" creationdate="20151127T075151Z">
         <seg>Siguiente →</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221918Z" creationid="hcartagena" creationdate="20151201T221918Z">
+        <seg>Después, se abre el diálogo &lt;g0&gt;Archivos del proyecto&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14947,6 +14987,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and the language that your translated file will be, and click</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221826Z" creationid="hcartagena" creationdate="20151201T221826Z">
+        <seg>y el idioma que tendrá el archivo traducido y haga clic en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and type a name for your project.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221558Z" creationid="hcartagena" creationdate="20151201T221558Z">
@@ -15341,8 +15389,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>creating the project, because you will need to return to it later.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221612Z" creationid="hcartagena" creationdate="20151201T221612Z">
-        <seg>creando el proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221633Z" creationid="hcartagena" creationdate="20151201T221612Z">
+        <seg>creando el proyecto, porque tendrá que regresar ahí más tarde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18762,6 +18810,15 @@ directorio de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>queda solo el punto debido al orden de las palabras</note>
+      <tuv lang="EN">
+        <seg>will open.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221733Z" creationid="hcartagena" creationdate="20151201T221733Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>wln</seg>
       </tuv>
@@ -18831,6 +18888,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161356Z" creationid="Antonio" creationdate="20151128T161356Z">
         <seg>yor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151201T221900Z" creationid="hcartagena" creationdate="20151201T221900Z">
+        <seg>puede volver a ello en cualquier momento pulsando &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
