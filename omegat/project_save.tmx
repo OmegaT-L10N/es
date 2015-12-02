@@ -7663,8 +7663,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Language Checker</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152948Z" creationid="Antonio" creationdate="20151126T152948Z">
-        <seg>Corrector ortográfico</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T174737Z" creationid="Antonio" creationdate="20151126T152948Z">
+        <seg>Corrector gramatical</seg>
       </tuv>
     </tu>
     <tu>
@@ -10656,8 +10656,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152953Z" creationid="Antonio" creationdate="20151126T152953Z">
-        <seg>&amp;Reemplazar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T174752Z" creationid="Antonio" creationdate="20151126T152953Z">
+        <seg>Reemplazar</seg>
       </tuv>
     </tu>
     <tu>
