@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170558Z" creationid="Antonio" creationdate="20151120T170539Z">
+        <seg>&lt;/e4&gt;También pueden ser complejas, permitiéndote, por ejemplo, buscar segmentos en los que el texto de destino contiene dos o más espacios consecutivos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T115618Z" creationid="Antonio" creationdate="20151120T115200Z">
+        <seg>OmegaT es una herramienta multiplataforma libre para la Traducción Asistida por Ordenador, con los siguientes atractivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T171701Z" creationid="Antonio" creationdate="20151120T171643Z">
+        <seg>&lt;e0&gt;Apéndices&lt;/e0&gt; contiene la siguiente información</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170824Z" creationid="Antonio" creationdate="20151120T170742Z">
+        <seg>&lt;e0&gt;Diccionarios, Glosarios&lt;/e0&gt;, &lt;e1&gt;Traducción automática&lt;/e1&gt; y &lt;e2&gt;Corrector ortográfico:&lt;/e2&gt; OmegaT habilita una amplia gama de diccionarios y glosarios. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165901Z" creationid="Antonio" creationdate="20151120T165901Z">
+        <seg>&lt;e0&gt;Comportamiento del campo de edición:&lt;/e0&gt; un breve capítulo que describe cómo configurar el comportamiento de edición del segmento en proceso de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165304Z" creationid="Antonio" creationdate="20151120T165304Z">
+        <seg>&lt;e0&gt;Instalación y ejecución de OmegaT: &lt;/e0&gt;este capítulo es útil cuando comienza a usar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T171830Z" creationid="Antonio" creationdate="20151120T171830Z">
+        <seg>&lt;e0&gt;Atajos de teclado&lt;/e0&gt;: lista los métodos abreviados disponibles en el editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172329Z" creationid="Antonio" creationdate="20151120T172329Z">
+        <seg>&lt;e0&gt;Indice de palabras clave&lt;/e0&gt;: proporciona un extenso índice de palabras clave para ayudar al lector a encontrar la información pertinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T171756Z" creationid="Antonio" creationdate="20151120T171733Z">
+        <seg>&lt;e0&gt;Idiomas:&lt;/e0&gt; contiene la lista ISO de idiomas y códigos de idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165215Z" creationid="Antonio" creationdate="20151120T165215Z">
+        <seg>&lt;e0&gt;Aprender a usar OmegaT en 5 minutos!:&lt;/e0&gt; este capítulo pretende ser un tutorial rápido para principiantes, así como personas que ya conocen las herramientas CAT, mostrando el procedimiento completo, desde la apertura de un nuevo proyecto de traducción hasta la finalización de la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T171633Z" creationid="Antonio" creationdate="20151120T171621Z">
+        <seg>&lt;e0&gt;Miscelánea&lt;/e0&gt;: Se refiere a otros temas de interés, tales como la forma de evitar la pérdida de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T171723Z" creationid="Antonio" creationdate="20151120T171710Z">
+        <seg>&lt;e0&gt;OmegaT en la web:&lt;/e0&gt; información sobre recursos de OmegaT en línea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165632Z" creationid="Antonio" creationdate="20151120T165531Z">
+        <seg>&lt;e0&gt;Propiedades del proyecto&lt;/e0&gt;, archivos y carpetas de &lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt;:&lt;/e1&gt; en el contexto de OmegaT, un proyecto es un elemento de trabajo que OmegaT, como herramienta CAT, es capaz de manejar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170540Z" creationid="Antonio" creationdate="20151120T170528Z">
+        <seg>&lt;e0&gt;Búsquedas&lt;/e0&gt; y&lt;e1&gt; &lt;/e1&gt; &lt;e2&gt;expresiones regulares&lt;/e2&gt;: búsquedas en OmegaT pueden ser tan simples como "&lt;e3&gt;segmentos de lista con &lt;/e3&gt; &lt;e4&gt;el 'canguro' de palabra".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170243Z" creationid="Antonio" creationdate="20151120T170149Z">
+        <seg>&lt;e0&gt;Segmentación&lt;/e0&gt;: las herramientas de memorias de traducción trabajan con unidades denominadas segmentos textuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T171921Z" creationid="Antonio" creationdate="20151120T171841Z">
+        <seg>&lt;e0&gt;Personalización del teclado:&lt;/e0&gt; los atajos se pueden personalizar a para adaptarlos a sus preferencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155802Z" creationid="Antonio" creationdate="20151120T155802Z">
+        <seg>&lt;e0&gt;Gestión de la terminología&lt;/e0&gt;: al gestión terminológica es importante para obtener una traducción homogénea y coherente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165537Z" creationid="Antonio" creationdate="20151120T165437Z">
+        <seg>&lt;e0&gt;La interfaz de usuario&lt;/e0&gt;,&lt;e1&gt; menú principal y atajos de teclado&lt;/e1&gt;: estos dos capítulos son probablemente los más consultados, ya que en ellos se explica la interfaz de usuario de OmegaT y las funciones disponibles en el menú principal, así como los atajos de teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170206Z" creationid="Antonio" creationdate="20151120T170147Z">
+        <seg>&lt;e0&gt;Memorias de traducción:&lt;/e0&gt; explica el papel de los diversos subdirectorios que contienen memorias de traducción, y proporciona información sobre otros aspectos importantes relacionados con las memorias de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155020Z" creationid="Antonio" creationdate="20151120T155020Z">
+        <seg>&lt;e0&gt;Memoria de traducción:&lt;/e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; almacena su traducción en un archivo de memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T160115Z" creationid="Antonio" creationdate="20151120T160115Z">
+        <seg>&lt;e0&gt;Proceso de traducción:&lt;/e0&gt; Imagine tener que traducir algo; puede que sea tan solo archivo o bien toda una carpeta con subcarpetas, cada una de ellas con diversos archivos de muy variados formatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170120Z" creationid="Antonio" creationdate="20151120T170120Z">
+        <seg>&lt;e0&gt;Trabajando con texto plano y &lt;/e0&gt; y &lt;e1&gt;Trabajando con texto con formato&lt;/e1&gt;: estos dos capítulos explican ciertos puntos importantes acerca de los textos a traducir, como la codificación (en el caso de archivos de texto plano) y el manejo de las etiquetas (al trabajar con texto provisto de formato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170426Z" creationid="Antonio" creationdate="20151120T170426Z">
+        <seg>Proporcionamos una serie de conjuntos de reglas mientras que el usuario puede definir reglas adicionales, tal como se describe en este capítulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T115120Z" creationid="Antonio" creationdate="20151120T115120Z">
+        <seg>Acerca de &lt;a0&gt;OmegaT&lt;/a0&gt; - Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172343Z" creationid="Antonio" creationdate="20151120T172343Z">
+        <seg>Agradecimientos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the same time, it can use memories files from previous translations for reference.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155215Z" creationid="Antonio" creationdate="20151120T155215Z">
+        <seg>Simultáneamente, puede utilizar como referencia las  traducciones anteriores almacenadas en memorias de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172739Z" creationid="Antonio" creationdate="20151120T172739Z">
+        <seg>Didier Briel: no podría hacer nada sin la ayuda paciente y constante de Didier con los recovecos de DocBook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explicit thanks to:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172544Z" creationid="Antonio" creationdate="20151120T172544Z">
+        <seg>Agradecimiento especial a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165337Z" creationid="Antonio" creationdate="20151120T165337Z">
+        <seg>Para usuarios avanzados, el capítulo describe el modo de línea de comandos y sus posibilidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155911Z" creationid="Antonio" creationdate="20151120T155911Z">
+        <seg>Para su referencia, OmegaT le muestra la traducción de cualquier palabra que está presente en el segmento y se haya introducido en el glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here is a short summary of the chapters and their contents.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165126Z" creationid="Antonio" creationdate="20151120T165126Z">
+        <seg>A continuación se presneta un breve resumen de los capítulos y su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T171435Z" creationid="Antonio" creationdate="20151120T170748Z">
+        <seg>Si dispones de una conexión a Internet, puedes utilizar en OmegaT varios servicios TA, como Google Translate y Microsoft Translator. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170751Z" creationid="Antonio" creationdate="20151120T170751Z">
+        <seg>Si activas el corrector ortográfico, este reconoce errores ortográficos y tipográficos y los puedes corregir durante la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155701Z" creationid="Antonio" creationdate="20151120T155701Z">
+        <seg>**Por ejemplo, si está utilizando memorias de traducción creadas previamente, que le ha entregado la agencia de traducción o su cliente, OmegaT será capaz de utilizarlas como memorias de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170314Z" creationid="Antonio" creationdate="20151120T170314Z">
+        <seg>En OmegaT, los segmentos pueden estar basados en párrafos o en reglas de segmentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170620Z" creationid="Antonio" creationdate="20151120T170620Z">
+        <seg>En este caso la expresión regular ^s^s+ se utiliza para encontrar y listar los segmentos que cumplen esta condición. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction to tokenizers and scripts</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172232Z" creationid="Antonio" creationdate="20151120T172041Z">
+        <seg>Introducción a los tokenizers y scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165324Z" creationid="Antonio" creationdate="20151120T165324Z">
+        <seg>Contiene instrucciones específicas sobre cómo instalar OmegaT y ejecutarlo en Windows, Mac OS X y Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T173926Z" creationid="Antonio" creationdate="20151120T173926Z">
+        <seg>Jean-Christophe Helary: doy unas gracias especiales a JC por su concisa descripción del funcionamiento de OmegaT, los parámetros de la línea de comando y otros detalles, que todavía se me pasan desapercibidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep up your good work!</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T174301Z" creationid="Antonio" creationdate="20151120T174301Z">
+        <seg>¡Continúen su buen trabajo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T174317Z" creationid="Antonio" creationdate="20151120T174217Z">
+        <seg>Y por último, pero no menos importante: gracias a todos los que contribuyen al rastreador de la documentación OmegaT (&lt;u0&gt;OmegaT documentation tracker&lt;/u0&gt;) por todas las inconsistencias encontradas en las versiones anteriores de la documentación. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172258Z" creationid="Antonio" creationdate="20151120T172258Z">
+        <seg>Aviso Legal y agradecimientos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172636Z" creationid="Antonio" creationdate="20151120T172636Z">
+        <seg>Marc Prior: por corregir el primer borrador como expresión de su amor por OmegaT y por el idioma inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifications to the original document are thus handled with greater ease.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155615Z" creationid="Antonio" creationdate="20151120T155615Z">
+        <seg>**Las modificaciones al documento original, por lo tanto, se pueden gestionar con mayor facilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172836Z" creationid="Antonio" creationdate="20151120T172836Z">
+        <seg>Por no mencionar su atención y diligencia para conservar los repositorios intactos y en buen orden de funcionamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT highlights</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T115247Z" creationid="Antonio" creationdate="20151120T115152Z">
+        <seg>OmegaT - Puntos importantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T161152Z" creationid="Antonio" creationdate="20151120T161152Z">
+        <seg>OmegaT almacena sus traducciones y propone posibles traducciones de segmentos similares almacenados en los archivos de las memorias de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155843Z" creationid="Antonio" creationdate="20151120T155843Z">
+        <seg>**OmegaT utiliza glosarios que contienen la traducción de palabras sueltas o pequeñas frases, una especie de diccionario bilingüe simplificado que se concentra en un  campo temático específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155723Z" creationid="Antonio" creationdate="20151120T155723Z">
+        <seg>**OmegaT utiliza el formato de archivo TMX estándar para almacenar y acceder a las memorias de traducción, lo cual garantiza que usted puede intercambiar su material con otras aplicaciones de traducción CAT, que soporten este formato de archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155434Z" creationid="Antonio" creationdate="20151120T155434Z">
+        <seg>**OmegaT utiliza memorias de traducción para guardar sus traducciones anteriores y sugerirle la traducción más probable considerando el texto objeto del trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T173800Z" creationid="Antonio" creationdate="20151120T173800Z">
+        <seg>Podríamos preguntarnos cuántos artículos y preposiciones faltarían sin su inestimable ayuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170352Z" creationid="Antonio" creationdate="20151120T170352Z">
+        <seg>La segmentación por párrafos es menos frecuente, pero puede ser útil en casos de los así llamados textos "creativos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170635Z" creationid="Antonio" creationdate="20151120T170635Z">
+        <seg>Las expresiones regulares también se utilizan ampliamente en las reglas de segmentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T173623Z" creationid="Antonio" creationdate="20151120T173623Z">
+        <seg>Samuel Murray: por el capítulo de introducción "¡Comienza a usar OmegaT en 5 Minutos!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary of chapters</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165026Z" creationid="Antonio" creationdate="20151120T165026Z">
+        <seg>Resumen de capítulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Projects</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172240Z" creationid="Antonio" creationdate="20151120T172240Z">
+        <seg>Proyectos en equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you all!</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172353Z" creationid="Antonio" creationdate="20151120T172353Z">
+        <seg>¡Gracias a todos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T171622Z" creationid="Antonio" creationdate="20151120T171519Z">
+        <seg>El código abierto LanguageTool puede utilizarse para corregir errores gramaticales y estilísticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T170415Z" creationid="Antonio" creationdate="20151120T170415Z">
+        <seg>La segmentación basada en reglas suele ser sinónimo de segmentación basada en frases. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165805Z" creationid="Antonio" creationdate="20151120T165805Z">
+        <seg>El segundo de estos capítulos describe las distintas subcarpetas y archivos en un proyecto de traducción y su papel, así como otros archivos de usuario y la aplicación asociadas con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155455Z" creationid="Antonio" creationdate="20151120T155455Z">
+        <seg>Estas memorias de traducción pueden ser muy útiles cuando necesita actualizar un documento, que ya ha sido traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter describes the project properties, such as the source and target languages.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165746Z" creationid="Antonio" creationdate="20151120T165746Z">
+        <seg>Este capítulo describe las propiedades del proyecto, tales como los idiomas de origen y destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T165102Z" creationid="Antonio" creationdate="20151120T165102Z">
+        <seg>Esta documentación tiene la finalidad de servir como un tutorial y como guía de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172509Z" creationid="Antonio" creationdate="20151120T172509Z">
+        <seg>Sin embargo, este manual no sería posible sin la ayuda y apoyo de    muchas personas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memories can be very useful in a translation where there are numerous repetitions or reasonably similar segments of text.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155343Z" creationid="Antonio" creationdate="20151120T155343Z">
+        <seg>Las memorias de traducción pueden ser muy útiles cuando debemos realizar una traducción donde aparecen frases que tienen cierta concordancia, son bastante parecidas, o se repiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T155540Z" creationid="Antonio" creationdate="20151120T155540Z">
+        <seg>Las frases donde no se han producido cambios se traducen automáticamente, mientras que otras frases ya actualizadas se muestran ofreciendo la traducción de la frase más similar, la antigua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whatever the inconsistencies, omissions and straightforward errors you may find in the present version, I declare them all my own.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T172442Z" creationid="Antonio" creationdate="20151120T172442Z">
+        <seg>Todas las incoherencias, omisiones y errores claros que pueda encontrar en la presente versión, los declaro todos mios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T162717Z" creationid="Antonio" creationdate="20151120T162717Z">
+        <seg>Cuando estés listo para ver el producto final, puede exportar los archivos traducidos, abrir en la aplicación correspondiente y ver la traducción en el formato final...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T161123Z" creationid="Antonio" creationdate="20151120T161123Z">
+        <seg>**Cuando usted le indica a OmegaT los archivos que desea traducir, el programa buscará los archivos que sean de los formatos admitidos, aplicando las reglas de los filtros de archivo, donde reconocerá los elementos de texto de estos archivos, separando los grupos de texto de acuerdo con las reglas de segmentación y le mostrará los segmentos para que pueda proceder con la traducción uno por uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will Helton: his final reading of the draft has spared me a lot of embarrassment.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T173657Z" creationid="Antonio" creationdate="20151120T173657Z">
+        <seg>Will Helton: su lectura final del borrador me ha ahorrado muchos bochornos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Antonio" changedate="20151120T173931Z" creationid="Antonio" creationdate="20151120T173931Z">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
