@@ -6635,8 +6635,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Hyperlinks</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152736Z" creationid="Antonio" creationdate="20151126T152736Z">
-        <seg>Hipervínculos</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T190419Z" creationid="Antonio" creationdate="20151126T152736Z">
+        <seg>Hiperenlaces</seg>
       </tuv>
     </tu>
     <tu>
@@ -8272,11 +8272,12 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Changed</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T185359Z" creationid="Antonio" creationdate="20151126T152916Z">
-        <seg>Cambios en coincidencias</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T190236Z" creationid="Antonio" creationdate="20151126T152916Z">
+        <seg>Coincidencias con cambios</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Ver https://groups.yahoo.com/neo/groups/OmegaT/conversations/topics/36178</note>
       <tuv lang="EN">
         <seg>Matches Deleted Active</seg>
       </tuv>
@@ -8285,6 +8286,7 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Ver https://groups.yahoo.com/neo/groups/OmegaT/conversations/topics/36178</note>
       <tuv lang="EN">
         <seg>Matches Deleted Inactive</seg>
       </tuv>
@@ -8293,6 +8295,7 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Ver https://groups.yahoo.com/neo/groups/OmegaT/conversations/topics/36178</note>
       <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
@@ -8301,6 +8304,7 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Ver https://groups.yahoo.com/neo/groups/OmegaT/conversations/topics/36178</note>
       <tuv lang="EN">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
@@ -8309,6 +8313,7 @@ de la carpeta de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Ver https://groups.yahoo.com/neo/groups/OmegaT/conversations/topics/36178</note>
       <tuv lang="EN">
         <seg>Matches Unchanged</seg>
       </tuv>
