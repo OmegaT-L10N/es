@@ -833,8 +833,8 @@
       <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152723Z" creationid="Antonio" creationdate="20151126T152723Z">
-        <seg>&amp;Restaurar este color</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162854Z" creationid="Antonio" creationdate="20151126T152723Z">
+        <seg>&amp;Restablecer este color</seg>
       </tuv>
     </tu>
     <tu>
@@ -2037,8 +2037,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152603Z" creationid="Antonio" creationdate="20151126T152603Z">
-        <seg>&lt;html&gt;&lt;i&gt;Opciones&lt;/i&gt; &amp;amp;gt; &lt;i&gt;Use TAB para avanzar&lt;/i&gt; marcada&lt;/html&gt;</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162755Z" creationid="Antonio" creationdate="20151126T152603Z">
+        <seg>&lt;html&gt;&lt;i&gt;Opciones&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB para avanzar&lt;/i&gt; marcada&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2841,8 +2841,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to reset all custom colours?</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152630Z" creationid="Antonio" creationdate="20151126T152630Z">
-        <seg>¿Está seguro que desea restablecer todos los colores personalizados?</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162806Z" creationid="Antonio" creationdate="20151126T152630Z">
+        <seg>¿Está seguro de que desea restablecer todos los colores personalizados?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8279,32 +8279,32 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Deleted Active</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152826Z" creationid="Antonio" creationdate="20151126T152826Z">
-        <seg>Concordancias borrada activo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162948Z" creationid="Antonio" creationdate="20151126T152826Z">
+        <seg>Coincidencias borradas activo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Matches Deleted Inactive</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152813Z" creationid="Antonio" creationdate="20151126T152813Z">
-        <seg>Concordancias borradas inactivo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162936Z" creationid="Antonio" creationdate="20151126T152813Z">
+        <seg>Coincidencias borradas inactivo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152856Z" creationid="Antonio" creationdate="20151126T152856Z">
-        <seg>Concordancias insertadas activo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T163002Z" creationid="Antonio" creationdate="20151126T152856Z">
+        <seg>Coincidencias insertadas activo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152837Z" creationid="Antonio" creationdate="20151126T152837Z">
-        <seg>Concordancias insertadas inactivo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162956Z" creationid="Antonio" creationdate="20151126T152837Z">
+        <seg>Coincidencias insertadas inactivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10769,8 +10769,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152703Z" creationid="Antonio" creationdate="20151126T152703Z">
-        <seg>Rest&amp;aurar todos los colores</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162812Z" creationid="Antonio" creationdate="20151126T152703Z">
+        <seg>Rest&amp;ablecer todos los colores</seg>
       </tuv>
     </tu>
     <tu>
