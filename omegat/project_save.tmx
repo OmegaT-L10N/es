@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8271,8 +8271,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Changed</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152916Z" creationid="Antonio" creationdate="20151126T152916Z">
-        <seg>Concordancias con cambios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T174037Z" creationid="Antonio" creationdate="20151126T152916Z">
+        <seg>Coincidencias con cambios</seg>
       </tuv>
     </tu>
     <tu>
@@ -8311,8 +8311,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Unchanged</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152908Z" creationid="Antonio" creationdate="20151126T152908Z">
-        <seg>Concordancias sin cambios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T174022Z" creationid="Antonio" creationdate="20151126T152908Z">
+        <seg>Coincidencias sin cambios</seg>
       </tuv>
     </tu>
     <tu>
