@@ -4245,8 +4245,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152519Z" creationid="Antonio" creationdate="20151126T152519Z">
-        <seg>Ctrl+Shift+O alterna la orientación entre LTR (izda a dcha), RTL (dcha a izda) y a dependiente del idioma</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162649Z" creationid="Antonio" creationdate="20151126T152519Z">
+        <seg>Ctrl+Shift+O alterna la orientación entre LTR (izda. a dcha.), RTL (dcha. a izda.) y dependiente del idioma</seg>
       </tuv>
     </tu>
     <tu>
