@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9452,8 +9452,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T165155Z" creationid="Antonio" creationdate="20151130T165155Z">
-        <seg>Uno de los miembros del equipo, el administrador del proyecto, çççç</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151202T173919Z" creationid="Antonio" creationdate="20151130T165155Z">
+        <seg>Uno de los miembros del equipo, el administrador de proyecto, debe estar familiarizado con el manejo del lado del servidor, es decir, con el trabajo de configurar el entorno, importar el proyecto de OmegaT, asignar los derechos de acceso a los miembros del equipo, resolver los conflictos, etc..</seg>
       </tuv>
     </tu>
     <tu>
@@ -16686,6 +16686,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151202T173924Z" creationid="Antonio" creationdate="20151202T173924Z">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144027Z" creationid="Antonio" creationdate="20151130T144027Z">
@@ -16730,6 +16738,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T163243Z" creationid="Antonio" creationdate="20151130T163243Z">
         <seg>http://subversion.apache.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151202T173922Z" creationid="Antonio" creationdate="20151202T173922Z">
+        <seg>http://tortoisesvn.net/</seg>
       </tuv>
     </tu>
     <tu>
