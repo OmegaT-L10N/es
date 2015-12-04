@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2351,6 +2351,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235411Z" creationid="Usuario" creationdate="20150603T235411Z">
         <seg>3. Acceso al servicio de TAA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151204T200359Z" creationid="Antonio" creationdate="20151204T200359Z">
+        <seg>**Agradecimientos</seg>
       </tuv>
     </tu>
     <tu>
