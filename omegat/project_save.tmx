@@ -4037,8 +4037,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172618Z" creationid="Antonio" creationdate="20151127T172618Z">
-        <seg>Crear un archivo tmx pseudotraducido</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230129Z" creationid="Antonio" creationdate="20151127T172618Z">
+        <seg>Crear un archivo TMX de seudotraducción</seg>
       </tuv>
     </tu>
     <tu>
