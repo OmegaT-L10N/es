@@ -2645,8 +2645,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>An error occurred when trying to detect the repo type.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T143720Z" creationid="Antonio" creationdate="20151127T164102Z">
-        <seg>Error al intentar detectar el tipo de repositorio.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231348Z" creationid="Antonio" creationdate="20151127T164102Z">
+        <seg>Se produjo un error al intentar detectar el tipo de repositorio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3951,8 +3951,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T164138Z" creationid="Antonio" creationdate="20151127T164138Z">
-        <seg>Fue imposible guardar las credenciales en un archivo de texto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231321Z" creationid="Antonio" creationdate="20151127T164138Z">
+        <seg>No se pudo guardar las credenciales en un archivo de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -12574,16 +12574,16 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Team synchronization: Saving translation in {0} s</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204124Z" creationid="Antonio" creationdate="20151127T164615Z">
-        <seg>Sincronización de trabajo en grupo: guardando la traducción en {0} s</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231230Z" creationid="Antonio" creationdate="20151127T164615Z">
+        <seg>Sincronización de trabajo en grupo: se guardará la traducción en {0} s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204114Z" creationid="Antonio" creationdate="20151127T164621Z">
-        <seg>Sincronización de trabajo en grupo: esperando a que usted termine este segmento...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231218Z" creationid="Antonio" creationdate="20151127T164621Z">
+        <seg>Sincronización de trabajo en grupo: esperando a que finalice este segmento...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13028,8 +13028,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The project folder {0} is missing and could not be created.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T164203Z" creationid="Antonio" creationdate="20151127T164203Z">
-        <seg>La carpeta del proyecto {0} no existe y no se puede crear.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231311Z" creationid="Antonio" creationdate="20151127T164203Z">
+        <seg>La carpeta de proyecto {0} no existe y no se pudo crear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,8 +13271,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T164023Z" creationid="Antonio" creationdate="20151127T164023Z">
-        <seg>Esta URL no es válida.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231355Z" creationid="Antonio" creationdate="20151127T164023Z">
+        <seg>Esta URL parece no ser válida.</seg>
       </tuv>
     </tu>
     <tu>
