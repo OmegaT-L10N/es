@@ -6410,8 +6410,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174409Z" creationid="Antonio" creationdate="20151127T174409Z">
-        <seg>Clave de la Api de Google no está disponible.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224525Z" creationid="Antonio" creationdate="20151127T174409Z">
+        <seg>La clave de la Api de Google no está disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8413,8 +8413,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174255Z" creationid="Antonio" creationdate="20151127T174255Z">
-        <seg>No se dispone de la ID de cliente en Microsoft Translator o del secreto de cliente.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224724Z" creationid="Antonio" creationdate="20151127T174255Z">
+        <seg>No se dispone de la ID de cliente o clave secreta de cliente en Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11297,8 +11297,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174352Z" creationid="Antonio" creationdate="20151127T174209Z">
-        <seg>Consulte las instrucciones en el manual de OmegaT.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224537Z" creationid="Antonio" creationdate="20151127T174209Z">
+        <seg>Consulte las instrucciones en el Manual de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13129,8 +13129,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The text could not be translated</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173959Z" creationid="Antonio" creationdate="20151127T173959Z">
-        <seg>El texto no se pudo traducir</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224830Z" creationid="Antonio" creationdate="20151127T173959Z">
+        <seg>No se pudo traducir el texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13260,8 +13260,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>This API key has been blocked</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174122Z" creationid="Antonio" creationdate="20151127T174122Z">
-        <seg>Este clave de API está bloqueada</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224742Z" creationid="Antonio" creationdate="20151127T174122Z">
+        <seg>Esta clave de API está bloqueada</seg>
       </tuv>
     </tu>
     <tu>
@@ -15081,16 +15081,16 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You have reached the daily limit for requests (including calls of the detect method)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T080849Z" creationid="Antonio" creationdate="20151127T174104Z">
-        <seg>Alcanzó el límite diario de solicitudes (incluyendo las llamadas del método detect)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224759Z" creationid="Antonio" creationdate="20151127T174104Z">
+        <seg>Alcanzó el límite diario de solicitudes (incluidas las llamadas del método 'detect')</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You have reached the daily limit for the volume of translated text (including calls of the detect method)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174042Z" creationid="Antonio" creationdate="20151127T174042Z">
-        <seg>Se alcanzó el límite diario de volumen de texto traducido (incluidas las llamadas del método detect)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224816Z" creationid="Antonio" creationdate="20151127T174042Z">
+        <seg>Alcanzó el límite diario de volumen de texto traducido (incluidas las llamadas del método 'detect')</seg>
       </tuv>
     </tu>
     <tu>
