@@ -9306,8 +9306,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192916Z" creationid="hcartagena" creationdate="20151116T192916Z">
-        <seg>Se agotó la memoria de OmegaT. El programa se cerrará cuando pulse Aceptar.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T171345Z" creationid="hcartagena" creationdate="20151116T192916Z">
+        <seg>OmegaT no tiene memoria suficiente. El programa se cerrará cuando pulse Aceptar.</seg>
       </tuv>
     </tu>
     <tu>
