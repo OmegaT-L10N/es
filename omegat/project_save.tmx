@@ -5126,8 +5126,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151118T200921Z" creationid="hcartagena" creationdate="20151118T200921Z">
-        <seg>Se alcanzó el final de la secuencia alcanzado sin haber hallado el bloque de cierre</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T183958Z" creationid="hcartagena" creationdate="20151118T200921Z">
+        <seg>Se alcanzó el final de la secuencia sin haberse hallado el bloque de cierre</seg>
       </tuv>
     </tu>
     <tu>
@@ -5399,8 +5399,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Escaped decimal char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151118T213328Z" creationid="hcartagena" creationdate="20151118T213328Z">
-        <seg>El caracter decimal de escape contiene datos mal formados ({0})</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T184011Z" creationid="hcartagena" creationdate="20151118T213328Z">
+        <seg>El carácter decimal de escape contiene datos mal formados ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -11239,8 +11239,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T204005Z" creationid="hcartagena" creationdate="20151117T204005Z">
-        <seg>El subproceso de búsqueda finalizó inesperadamente</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T183901Z" creationid="hcartagena" creationdate="20151117T204005Z">
+        <seg>El subproceso de búsqueda finalizó inesperadamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12432,8 +12432,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151118T191929Z" creationid="hcartagena" creationdate="20151118T191929Z">
-        <seg>Nombre de etiqueta.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T183933Z" creationid="hcartagena" creationdate="20151118T191929Z">
+        <seg>Nombre de etiqueta:</seg>
       </tuv>
     </tu>
     <tu>
