@@ -5431,8 +5431,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000202Z" creationid="hcartagena" creationdate="20151125T000202Z">
-        <seg>Evento: inicio de la aplicación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213440Z" creationid="hcartagena" creationdate="20151125T000202Z">
+        <seg>Evento: arranque de la aplicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -6771,9 +6771,9 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235518Z" creationid="hcartagena" creationdate="20151124T234716Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213234Z" creationid="hcartagena" creationdate="20151124T234716Z">
         <seg>Si posteriormente se concede el acceso a la ubicación
-deseada, esta se utilizará y, como resultado, los ajustes
+deseada, se utilizará esta y, como resultado, los ajustes
 volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
