@@ -2833,8 +2833,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to fix all tags automatically?</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163318Z" creationid="Antonio" creationdate="20151127T163247Z">
-        <seg>¿Está seguro de que desea reparar automáticamente las etiquetas?</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232912Z" creationid="Antonio" creationdate="20151127T163247Z">
+        <seg>¿Está seguro de que desea reparar automáticamente todas las etiquetas?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5251,8 +5251,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163203Z" creationid="Antonio" creationdate="20151127T163203Z">
-        <seg>Error al corregir las etiquetas</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232932Z" creationid="Antonio" creationdate="20151127T163203Z">
+        <seg>Error al reparar las etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5692,8 +5692,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Extraneous</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163408Z" creationid="Antonio" creationdate="20151127T163408Z">
-        <seg>Extraño</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232815Z" creationid="Antonio" creationdate="20151127T163408Z">
+        <seg>Extraña</seg>
       </tuv>
     </tu>
     <tu>
@@ -5964,8 +5964,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Fix</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163301Z" creationid="Antonio" creationdate="20151127T163301Z">
-        <seg>Reparar </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232901Z" creationid="Antonio" creationdate="20151127T163301Z">
+        <seg>Reparar</seg>
       </tuv>
     </tu>
     <tu>
@@ -8447,16 +8447,16 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Missing</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163416Z" creationid="Antonio" creationdate="20151127T163416Z">
-        <seg>Ausente</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232807Z" creationid="Antonio" creationdate="20151127T163416Z">
+        <seg>Faltante</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Missing tags</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T154543Z" creationid="Antonio" creationdate="20151127T154423Z">
-        <seg>Etiquetas perdidas</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233023Z" creationid="Antonio" creationdate="20151127T154423Z">
+        <seg>Etiquetas faltantes</seg>
       </tuv>
     </tu>
     <tu>
@@ -9596,8 +9596,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Orphaned</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163344Z" creationid="Antonio" creationdate="20151127T163338Z">
-        <seg>Huérfanas  </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232851Z" creationid="Antonio" creationdate="20151127T163338Z">
+        <seg>Huérfanas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9628,8 +9628,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Out-of-order</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163402Z" creationid="Antonio" creationdate="20151127T163402Z">
-        <seg>No está en orden</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232840Z" creationid="Antonio" creationdate="20151127T163402Z">
+        <seg>Desordenada</seg>
       </tuv>
     </tu>
     <tu>
@@ -9821,8 +9821,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163149Z" creationid="Antonio" creationdate="20151127T163149Z">
-        <seg>Por favor repite la validación de etiquetas.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232941Z" creationid="Antonio" creationdate="20151127T163149Z">
+        <seg>Repita la validación de etiquetas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9975,16 +9975,16 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163115Z" creationid="Antonio" creationdate="20151127T154625Z">
-        <seg>Presione &lt;u&gt;{0}&lt;/u&gt; para ir a sugerencias &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233011Z" creationid="Antonio" creationdate="20151127T154625Z">
+        <seg>Presione &lt;u&gt;{0}&lt;/u&gt; para ir a sugerencias de &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163103Z" creationid="Antonio" creationdate="20151127T163054Z">
-        <seg>Pulse &lt;u&gt;{0}&lt;/u&gt; para volver a sugerencias &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233005Z" creationid="Antonio" creationdate="20151127T163054Z">
+        <seg>Pulse &lt;u&gt;{0}&lt;/u&gt; para volver a sugerencias de &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14167,8 +14167,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Unspecified</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163341Z" creationid="Antonio" creationdate="20151127T163327Z">
-        <seg>Sin especificar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232858Z" creationid="Antonio" creationdate="20151127T163327Z">
+        <seg>No especificado</seg>
       </tuv>
     </tu>
     <tu>
@@ -14729,8 +14729,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Whitespace</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163347Z" creationid="Antonio" creationdate="20151127T163347Z">
-        <seg>Espacios en blanco</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232845Z" creationid="Antonio" creationdate="20151127T163347Z">
+        <seg>Espacio en blanco</seg>
       </tuv>
     </tu>
     <tu>
@@ -14852,16 +14852,16 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>Wrong authentication</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230916Z" creationid="Antonio" creationdate="20151127T171443Z">
-        <seg>Autentificación errónea</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232745Z" creationid="Antonio" creationdate="20151127T171443Z">
+        <seg>Autentificación incorrecta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T161547Z" creationid="Antonio" creationdate="20151126T161547Z">
-        <seg>Formato de respuesta erróneo del servicio TaaS</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232755Z" creationid="Antonio" creationdate="20151126T161547Z">
+        <seg>Formato de respuesta incorrecto del servicio TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -19725,8 +19725,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>Duplicate</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232711Z" creationid="hcartagena" creationdate="20151209T232711Z">
-        <seg>Duplicado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232826Z" creationid="hcartagena" creationdate="20151209T232711Z">
+        <seg>Duplicada</seg>
       </tuv>
     </tu>
     <tu>
