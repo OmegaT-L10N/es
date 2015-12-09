@@ -5138,8 +5138,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>End rebase</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214127Z" creationid="Antonio" creationdate="20151127T163934Z">
-        <seg>Finalizar reorganización</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231530Z" creationid="Antonio" creationdate="20151127T163934Z">
+        <seg>Fin de reorganización</seg>
       </tuv>
     </tu>
     <tu>
@@ -12182,8 +12182,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Start rebase</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214045Z" creationid="Antonio" creationdate="20151127T163956Z">
-        <seg>Iniciar reorganización</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231526Z" creationid="Antonio" creationdate="20151127T163956Z">
+        <seg>Inicio de reorganización</seg>
       </tuv>
     </tu>
     <tu>
@@ -19715,6 +19715,17 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T225519Z" creationid="hcartagena" creationdate="20151124T225519Z">
         <seg>&amp;Memorias externas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.5.3_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TEAM_DETECTED_REPO_UNKNOWN</prop>
+      <note>en femenino, porque se refiere a una URL</note>
+      <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T231433Z" creationid="hcartagena" creationdate="20151209T231433Z">
+        <seg>Por favor, compruébela.</seg>
       </tuv>
     </tu>
     <tu>
