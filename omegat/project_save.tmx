@@ -3931,8 +3931,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195131Z" creationid="Víctor Parra" creationdate="20151126T195131Z">
-        <seg>No se ha podido crear la carpeta esfecificada.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214826Z" creationid="Víctor Parra" creationdate="20151126T195131Z">
+        <seg>No se ha podido crear la carpeta especificada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9907,8 +9907,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195149Z" creationid="Víctor Parra" creationdate="20151126T195149Z">
-        <seg>Por favor, inténtelo de nuevo.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214833Z" creationid="Víctor Parra" creationdate="20151126T195149Z">
+        <seg>Inténtelo de nuevo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13079,8 +13079,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195036Z" creationid="Víctor Parra" creationdate="20151126T194927Z">
-        <seg>La carpeta de diccionarios especificada no se puede utilizar.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214808Z" creationid="Víctor Parra" creationdate="20151126T194927Z">
+        <seg>No se puede utilizar la carpeta de diccionarios especificada.</seg>
       </tuv>
     </tu>
     <tu>
