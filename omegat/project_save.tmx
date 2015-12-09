@@ -3688,8 +3688,9 @@ correcto.</seg>
         <seg>Close the current OmegaT instance
 3.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171935Z" creationid="Antonio" creationdate="20151127T171935Z">
-        <seg>Cierre la instancia actual de OmegaT 3.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230551Z" creationid="Antonio" creationdate="20151127T171935Z">
+        <seg>Cerrar la instancia actual de OmegaT
+3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3885,8 +3886,9 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
         <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
 2.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204628Z" creationid="Antonio" creationdate="20151127T171955Z">
-        <seg>Copie el archivo de &lt;proyecto&gt;/omegat/project_save.tmx en un lugar seguro 2.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230536Z" creationid="Antonio" creationdate="20151127T171955Z">
+        <seg>Copiar el archivo &lt;proyecto&gt;/omegat/project_save.tmx en un lugar seguro
+2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10614,8 +10616,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Remove the project folder manually.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171929Z" creationid="Antonio" creationdate="20151127T171929Z">
-        <seg>Elimine manualmente la carpeta de proyecto.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230559Z" creationid="Antonio" creationdate="20151127T171929Z">
+        <seg>Eliminar manualmente la carpeta del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10679,8 +10681,9 @@ destino al que desea traducirlos.</seg>
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
 6.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171851Z" creationid="Antonio" creationdate="20151127T171851Z">
-        <seg>Reemplazar &lt;project&gt;/omegat/project_save.tmx en el proyecto recién descargado por el archivo guardado en un lugar seguro 6.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230650Z" creationid="Antonio" creationdate="20151127T171851Z">
+        <seg>Reemplazar &lt;project&gt;/omegat/project_save.tmx en el proyecto recién descargado por el archivo guardado en un lugar seguro
+6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12146,8 +12149,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213621Z" creationid="Antonio" creationdate="20151127T171915Z">
-        <seg>Vuelva a arrancar OmegaT, descargue el proyecto de trabajo en grupo, cierre OmegaT
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230629Z" creationid="Antonio" creationdate="20151127T171915Z">
+        <seg>Volver a arrancar OmegaT, descargar el proyecto de trabajo en grupo, cerrar OmegaT
 5.</seg>
       </tuv>
     </tu>
@@ -12155,8 +12158,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Start OmegaT and continue to translate</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213633Z" creationid="Antonio" creationdate="20151127T171810Z">
-        <seg>Arranque OmegaT y continue traduciendo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230724Z" creationid="Antonio" creationdate="20151127T171810Z">
+        <seg>Luego puede arrancar OmegaT y continuar traduciendo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13429,8 +13432,9 @@ la ubicación del directorio de configuración de OmegaT.</seg>
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172016Z" creationid="Antonio" creationdate="20151127T172016Z">
-        <seg>Para asegurarse que no se perderá ninguna traducción, usted necesita: 1.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230532Z" creationid="Antonio" creationdate="20151127T172016Z">
+        <seg>Para evitar que se pierda alguna traducción, es necesario:
+1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14572,8 +14576,9 @@ en la línea {1}, columna {2}.</seg>
         <seg>WARNING: all unsaved data will be lost
 4.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171920Z" creationid="Antonio" creationdate="20151127T171920Z">
-        <seg>ADVERTENCIA: todos los datos no guardados se perderán 4.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230614Z" creationid="Antonio" creationdate="20151127T171920Z">
+        <seg>ADVERTENCIA: se perderán todos los datos no guardados
+4.</seg>
       </tuv>
     </tu>
     <tu>
