@@ -2573,8 +2573,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233244Z" creationid="Antonio" creationdate="20151127T080959Z">
-        <seg>Permite solo caracteres únicos</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T234507Z" creationid="Antonio" creationdate="20151127T080959Z">
+        <seg>Permitir solo caracteres únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6196,8 +6196,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Full text</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T081405Z" creationid="Antonio" creationdate="20151127T081405Z">
-        <seg>Texto completo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T234438Z" creationid="Antonio" creationdate="20151127T081405Z">
+        <seg>Texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -11740,8 +11740,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T081410Z" creationid="Antonio" creationdate="20151127T081410Z">
-        <seg>Acceso rápido</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T234425Z" creationid="Antonio" creationdate="20151127T081410Z">
+        <seg>Atajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14601,8 +14601,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Warning!</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T080940Z" creationid="Antonio" creationdate="20151127T080940Z">
-        <seg>¡Cuidado!</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T234518Z" creationid="Antonio" creationdate="20151127T080940Z">
+        <seg>Advertencia</seg>
       </tuv>
     </tu>
     <tu>
