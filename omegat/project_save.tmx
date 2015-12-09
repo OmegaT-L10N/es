@@ -4631,8 +4631,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Display source terms</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T075108Z" creationid="Antonio" creationdate="20151127T154411Z">
-        <seg>Mostrar segmentos de origen</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233411Z" creationid="Antonio" creationdate="20151127T154411Z">
+        <seg>Mostrar segmentos originales</seg>
       </tuv>
     </tu>
     <tu>
@@ -4671,8 +4671,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T110750Z" creationid="Antonio" creationdate="20151127T110750Z">
-        <seg>Muestra las entradas como "&lt;destino&gt;→ &lt;origen&gt;"</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233658Z" creationid="Antonio" creationdate="20151127T110750Z">
+        <seg>Muestra las entradas en la forma "&lt;traducido&gt;→ &lt;original&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6324,8 +6324,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T074253Z" creationid="Antonio" creationdate="20151127T110839Z">
-        <seg>Opciones de autorrelleno del glosario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233616Z" creationid="Antonio" creationdate="20151127T110839Z">
+        <seg>Opciones de autocompletar del glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -11764,8 +11764,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Show longer target terms first</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T111055Z" creationid="Antonio" creationdate="20151127T111055Z">
-        <seg>Mostrar primero los términos de destino más largos</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233542Z" creationid="Antonio" creationdate="20151127T111055Z">
+        <seg>Mostrar los términos traducidos más largos al principio</seg>
       </tuv>
     </tu>
     <tu>
@@ -11780,8 +11780,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Show target term first</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T110813Z" creationid="Antonio" creationdate="20151127T110813Z">
-        <seg>Muestra primero el término de destino</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233631Z" creationid="Antonio" creationdate="20151127T110813Z">
+        <seg>Mostrar el término traducido al principio</seg>
       </tuv>
     </tu>
     <tu>
@@ -11900,8 +11900,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Sort by source term alphabetically</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T110941Z" creationid="Antonio" creationdate="20151127T110941Z">
-        <seg>Ordenar alfabéticamente por término de origen</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233554Z" creationid="Antonio" creationdate="20151127T110941Z">
+        <seg>Ordenar alfabéticamente por término original</seg>
       </tuv>
     </tu>
     <tu>
@@ -11916,8 +11916,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Sort target terms alphabetically</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T110930Z" creationid="Antonio" creationdate="20151127T110930Z">
-        <seg>Ordenar alfabéticamente los términos destino</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233605Z" creationid="Antonio" creationdate="20151127T110930Z">
+        <seg>Ordenar alfabéticamente los términos traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -14681,8 +14681,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T075123Z" creationid="Antonio" creationdate="20151127T154357Z">
-        <seg>Cuando están marcados, los elementos de la lista de autorelleno del glosario tendrán también el texto de origen. </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233441Z" creationid="Antonio" creationdate="20151127T154357Z">
+        <seg>Cuando están marcados, los elementos de la lista autocompletar del glosario tendrán también el texto original.</seg>
       </tuv>
     </tu>
     <tu>
