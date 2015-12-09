@@ -8904,8 +8904,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163456Z" creationid="Antonio" creationdate="20151127T163456Z">
-        <seg>Espacio irrompible</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232505Z" creationid="Antonio" creationdate="20151127T163456Z">
+        <seg>Espacio duro</seg>
       </tuv>
     </tu>
     <tu>
@@ -9869,8 +9869,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="EN">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163849Z" creationid="Antonio" creationdate="20151127T163849Z">
-        <seg>Por favor, seleccione el intervalo para guardar automáticamente el proyecto, en minutos y segundos.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232450Z" creationid="Antonio" creationdate="20151127T163849Z">
+        <seg>Por favor, seleccione la frecuencia con que se guardará automáticamente el proyecto, en minutos y segundos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11074,8 +11074,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T172524Z" creationid="Antonio" creationdate="20151127T163906Z">
-        <seg>Opciones de Guardado y salida</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232412Z" creationid="Antonio" creationdate="20151127T163906Z">
+        <seg>Opciones de guardado y salida</seg>
       </tuv>
     </tu>
     <tu>
@@ -12332,14 +12332,6 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Tab</seg>
-      </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163450Z" creationid="Antonio" creationdate="20151127T163450Z">
-        <seg>Ficha</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="ES">
@@ -12672,8 +12664,8 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
       <tuv lang="EN">
         <seg>Text to be removed</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163445Z" creationid="Antonio" creationdate="20151127T163445Z">
-        <seg>Texto a insertar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232700Z" creationid="Antonio" creationdate="20151127T163445Z">
+        <seg>Texto a quitar</seg>
       </tuv>
     </tu>
     <tu>
@@ -19709,12 +19701,32 @@ directorio de configuración.</seg>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">OmegaT_3.5.3_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MARKER_TAB</prop>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232555Z" creationid="hcartagena" creationdate="20151209T232555Z">
+        <seg>Tabulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.5.3_L10N_Full/src/org/omegat/Bundle.properties</prop>
       <prop type="id">SW_SEARCH_IN_TMS</prop>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T225519Z" creationid="hcartagena" creationdate="20151124T225519Z">
         <seg>&amp;Memorias externas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.5.3_L10N_Full/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">TAG_ERROR_DUPLICATE</prop>
+      <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T232711Z" creationid="hcartagena" creationdate="20151209T232711Z">
+        <seg>Duplicado</seg>
       </tuv>
     </tu>
     <tu>
