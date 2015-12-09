@@ -1121,8 +1121,8 @@
       <tuv lang="EN">
         <seg>&amp;Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221220Z" creationid="hcartagena" creationdate="20151116T221220Z">
-        <seg>&amp;Usar coincidencias parciales para entradas del diccionario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211100Z" creationid="hcartagena" creationdate="20151116T221220Z">
+        <seg>&amp;Usar coincidencias parciales para entradas de diccionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -2451,8 +2451,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T185652Z" creationid="hcartagena" creationdate="20151119T185652Z">
-        <seg>Se añadieron {0} entradas de glosario desde {1}</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211119Z" creationid="hcartagena" creationdate="20151119T185652Z">
+        <seg>Se añadieron {0} términos de glosarios desde {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3963,8 +3963,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203234Z" creationid="hcartagena" creationdate="20151116T203234Z">
-        <seg>Crear entrada de &amp;glosario...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T210920Z" creationid="hcartagena" creationdate="20151116T203234Z">
+        <seg>Crear término en el &amp;glosario...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4003,8 +4003,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T152357Z" creationid="Helli" creationdate="20150526T132222Z">
-        <seg>Crear entrada en el glosario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211143Z" creationid="Helli" creationdate="20150526T132222Z">
+        <seg>Crear término en el glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -14281,8 +14281,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Use Stemming for &amp;Glossary Entries</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T172632Z" creationid="hcartagena" creationdate="20151116T221147Z">
-        <seg>Usar lematización en entradas del &amp;glosario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211054Z" creationid="hcartagena" creationdate="20151116T221147Z">
+        <seg>Usar lematización en términos de &amp;glosarios</seg>
       </tuv>
     </tu>
     <tu>
