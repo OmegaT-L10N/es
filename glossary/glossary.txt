@@ -1,5 +1,5 @@
-source	original	como adjetivo, salvo si acompaña a "language", a "analizador" o a "term"
-source	de origen	cuando acompaña a "language", a "analizador" y a "term", de lo contrario usar "original"
+source	original	como adjetivo, salvo si acompaña a "language", a "tokenizer" o a "term"
+source	de origen	cuando acompaña a "language", a "tokenizer" y a "term", de lo contrario usar "original"
 target	traducido	como adjetivo, salvo si acompaña a "language" o a "term"
 target	de destino	cuando acompaña a "language" o a "term"
 e.g.	por ejemplo	preferir situarlo al final.
@@ -10,3 +10,4 @@ TransTips	Consejos de traducción
 OmegaT	OmegaT
 version control	control de versiones
 writeable glossary	glosario principal	mejor que "glosario editable"
+tokenizer	analizador	Según lo explicado en el mensaje del grupo (ver URL), "tokenizer" es, en jerga de Lucene, un "analizador".
