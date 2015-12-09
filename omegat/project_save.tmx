@@ -6761,8 +6761,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T111016Z" creationid="Antonio" creationdate="20151127T111016Z">
-        <seg>Si está marcada, las entradas se ordenan según su longitud, las más largas las primeras.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T212103Z" creationid="Antonio" creationdate="20151127T111016Z">
+        <seg>Si está marcada, las entradas más largas aparecen al principio.</seg>
       </tuv>
     </tu>
     <tu>
