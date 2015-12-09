@@ -2517,8 +2517,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175528Z" creationid="Antonio" creationdate="20151127T175528Z">
-        <seg>Sustitución de fuente agresiva</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T223010Z" creationid="Antonio" creationdate="20151127T175528Z">
+        <seg>Sustitución forzosa de fuente</seg>
       </tuv>
     </tu>
     <tu>
@@ -6378,8 +6378,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Go To Segment Source</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173823Z" creationid="Antonio" creationdate="20151127T173823Z">
-        <seg>Ir al segmento origen</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T223048Z" creationid="Antonio" creationdate="20151127T173823Z">
+        <seg>Ir al origen del segmento</seg>
       </tuv>
     </tu>
     <tu>
