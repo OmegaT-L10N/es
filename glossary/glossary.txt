@@ -14,3 +14,4 @@ tokenizer	analizador	Según lo explicado en el mensaje del grupo (ver URL), "tok
 nbsp	espacio duro
 TMX level2	TMX de nivel 2
 team	trabajo en grupo
+team project	proyecto de trabajo en grupo
