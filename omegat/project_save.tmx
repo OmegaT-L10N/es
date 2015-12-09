@@ -7413,16 +7413,16 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202858Z" creationid="hcartagena" creationdate="20151119T202858Z">
-        <seg>Opciones de filtro de Paquetes de recursos Java</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T185048Z" creationid="hcartagena" creationdate="20151119T202858Z">
+        <seg>Opciones de filtro de Paquetes de recursos de Java</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202820Z" creationid="hcartagena" creationdate="20151119T202820Z">
-        <seg>Paquetes de recursos Java(TM)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T185052Z" creationid="hcartagena" creationdate="20151119T202820Z">
+        <seg>Paquetes de recursos de Java(TM)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11359,8 +11359,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202319Z" creationid="hcartagena" creationdate="20151119T202319Z">
-        <seg>Segmentar el texto original en párrafos en:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T184917Z" creationid="hcartagena" creationdate="20151119T202319Z">
+        <seg>Segmentar el texto original en párrafos al encontrar:</seg>
       </tuv>
     </tu>
     <tu>
