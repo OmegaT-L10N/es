@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10606,8 +10606,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Remove text target</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T153251Z" creationid="Antonio" creationdate="20151126T153251Z">
-        <seg>Eliminar texto del destino</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151202T190515Z" creationid="Antonio" creationdate="20151126T153251Z">
+        <seg>Eliminar texto de la traducción</seg>
       </tuv>
     </tu>
     <tu>
