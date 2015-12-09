@@ -3471,8 +3471,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T075148Z" creationid="Antonio" creationdate="20151127T075148Z">
-        <seg>Fecha de moficación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235226Z" creationid="Antonio" creationdate="20151127T075148Z">
+        <seg>Fecha de modificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -8391,8 +8391,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T075606Z" creationid="Antonio" creationdate="20151127T075606Z">
-        <seg>Mezclar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235103Z" creationid="Antonio" creationdate="20151127T075606Z">
+        <seg>Combinar</seg>
       </tuv>
     </tu>
     <tu>
@@ -8992,8 +8992,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T075303Z" creationid="Antonio" creationdate="20151127T075303Z">
-        <seg>No presente</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235205Z" creationid="Antonio" creationdate="20151127T075303Z">
+        <seg>Inexistente</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,8 +9829,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="EN">
         <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T075554Z" creationid="Antonio" creationdate="20151127T075554Z">
-        <seg>Por favor, resuelva los conflictos seleccionando una traducción para cada segmento que sigue a continuación.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235120Z" creationid="Antonio" creationdate="20151127T075554Z">
+        <seg>Resuelva los conflictos seleccionando una traducción para cada segmento que sigue a continuación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14295,24 +14295,24 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Use all mine</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T075431Z" creationid="Antonio" creationdate="20151127T075431Z">
-        <seg>Uso todo lo mio</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235129Z" creationid="Antonio" creationdate="20151127T075431Z">
+        <seg>Usar todo lo mio</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use all original</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T075411Z" creationid="Antonio" creationdate="20151127T075411Z">
-        <seg>Uso todo lo original</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235131Z" creationid="Antonio" creationdate="20151127T075411Z">
+        <seg>Usar todo lo original</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use all updated</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T075403Z" creationid="Antonio" creationdate="20151127T075403Z">
-        <seg>Uso todo lo actualizado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235134Z" creationid="Antonio" creationdate="20151127T075403Z">
+        <seg>Usar todo lo actualizado</seg>
       </tuv>
     </tu>
     <tu>
