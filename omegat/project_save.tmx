@@ -4659,8 +4659,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233740Z" creationid="hcartagena" creationdate="20151124T233740Z">
-        <seg>Muestra las entradas de diccionario encontradas en los archivos de diccionario en la carpeta /dictionary/ si se encuentran en el segmento original.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T212434Z" creationid="hcartagena" creationdate="20151124T233740Z">
+        <seg>Muestra las entradas de diccionarios en la carpeta /dictionary/ que haya en el segmento original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5174,8 +5174,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211246Z" creationid="hcartagena" creationdate="20151124T233714Z">
-        <seg>Los términos del glosario principal aparecen en negritas.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T212328Z" creationid="hcartagena" creationdate="20151124T233714Z">
+        <seg>Los términos del glosario principal aparecen en negrita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9801,8 +9801,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="EN">
         <seg>Please enter username/password</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171506Z" creationid="Antonio" creationdate="20151127T171506Z">
-        <seg>Por favor introduzca el nombre de usuario y contraseña</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T212442Z" creationid="Antonio" creationdate="20151127T171506Z">
+        <seg>Introduzca el nombre de usuario y contraseña</seg>
       </tuv>
     </tu>
     <tu>
@@ -15037,8 +15037,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211233Z" creationid="hcartagena" creationdate="20151124T233649Z">
-        <seg>Puede crear términos de glosario con la función 'Crear término en el glosario' del menú Editar.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T212317Z" creationid="hcartagena" creationdate="20151124T233649Z">
+        <seg>Puede crear términos en el glosario con la función 'Crear término en el glosario' del menú Editar.</seg>
       </tuv>
     </tu>
     <tu>
