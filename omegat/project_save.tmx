@@ -5176,8 +5176,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233714Z" creationid="hcartagena" creationdate="20151124T233714Z">
-        <seg>Las entradas del glosario editable aparecen en negritas.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174700Z" creationid="hcartagena" creationdate="20151124T233714Z">
+        <seg>Las entradas del glosario principal aparecen en negritas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13160,16 +13160,16 @@ xx o xxx es el código de idioma y YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172353Z" creationid="Antonio" creationdate="20151127T172329Z">
-        <seg>El archivo de glosario editable no está en la carpeta de glosarios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174712Z" creationid="Antonio" creationdate="20151127T172329Z">
+        <seg>El archivo del glosario principal no está en la carpeta de glosarios</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191816Z" creationid="hcartagena" creationdate="20151117T191816Z">
-        <seg>El archivo de glosario editable debe estar dentro de la carpeta de glosarios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174656Z" creationid="hcartagena" creationdate="20151117T191816Z">
+        <seg>El archivo del glosario principal debe estar dentro de la carpeta de glosarios</seg>
       </tuv>
     </tu>
     <tu>
