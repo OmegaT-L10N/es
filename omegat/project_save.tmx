@@ -13419,8 +13419,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223831Z" creationid="hcartagena" creationdate="20151116T223831Z">
-        <seg>Para acceder a este enlace, puede copiar y pegar la URL en su navegador de Internet o abrir el Manual de Usuario en su navegador de Internet preferido (archivo {0}).</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T173548Z" creationid="hcartagena" creationdate="20151116T223831Z">
+        <seg>Para acceder a este enlace, puede copiar y pegar la URL en su navegador o abrir el Manual de Usuario en su navegador (archivo {0}).</seg>
       </tuv>
     </tu>
     <tu>
