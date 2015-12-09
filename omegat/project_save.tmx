@@ -7549,8 +7549,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T225930Z" creationid="hcartagena" creationdate="20151124T225930Z">
-        <seg>La búsqueda por palabras clave encuentran todas las palabras separadas por espacios, con independencia de su orden.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T181742Z" creationid="hcartagena" creationdate="20151124T225930Z">
+        <seg>La búsqueda por palabras clave encuentra todas las palabras separadas por espacios, con independencia de su orden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10909,8 +10909,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192832Z" creationid="hcartagena" creationdate="20151117T192832Z">
-        <seg>E&amp;spacio encuentra nbsp</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T181634Z" creationid="hcartagena" creationdate="20151117T192832Z">
+        <seg>Incluir es&amp;pacios duros</seg>
       </tuv>
     </tu>
     <tu>
@@ -12641,9 +12641,9 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T224853Z" creationid="hcartagena" creationdate="20151124T230334Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T181821Z" creationid="hcartagena" creationdate="20151124T230334Z">
         <seg>Reemplazo:
-El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, con independencia de que tengan o no contenido.</seg>
+El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, tengan o no contenido.</seg>
       </tuv>
     </tu>
     <tu>
