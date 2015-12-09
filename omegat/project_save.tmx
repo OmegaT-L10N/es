@@ -6052,8 +6052,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T080226Z" creationid="Antonio" creationdate="20151127T080226Z">
-        <seg>Para obtener mejores resultados, instale los diccionarios apropiados: selecione Opciones &gt; Corrección ortográfica.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T234655Z" creationid="Antonio" creationdate="20151127T080226Z">
+        <seg>Para obtener mejores resultados, instale los diccionarios apropiados desde Opciones &gt; Corrección ortográfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14972,8 +14972,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T080929Z" creationid="Antonio" creationdate="20151127T080929Z">
-        <seg>Usted está intentando utilizar HunspellTokenizer con el idioma {0}, pero no hay diccionarios ortográficos instalados para este idioma.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T234643Z" creationid="Antonio" creationdate="20151127T080929Z">
+        <seg>Está intentando utilizar HunspellTokenizer con el idioma {0}, pero no hay diccionarios ortográficos instalados para este idioma.</seg>
       </tuv>
     </tu>
     <tu>
