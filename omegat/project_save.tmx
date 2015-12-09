@@ -1006,8 +1006,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>Según lo explicado en el mensaje del grupo (ver URL), "tokenizer" es, en jerga de Lucene, un "analizador".
-https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
@@ -5096,8 +5094,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191123Z" creationid="hcartagena" creationdate="20151117T191123Z">
-        <seg>Habilítelos en &lt;b&gt;Opciones &gt; Guardado y resultado...&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T175232Z" creationid="hcartagena" creationdate="20151117T191123Z">
+        <seg>Habilítelos en &lt;b&gt;Opciones &gt; Guardado y salida...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
