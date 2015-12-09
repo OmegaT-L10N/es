@@ -233,8 +233,8 @@
       <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195318Z" creationid="Víctor Parra" creationdate="20151126T195318Z">
-        <seg>&amp;Intercambiar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222315Z" creationid="Víctor Parra" creationdate="20151126T195318Z">
+        <seg>&amp;Alternar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4573,8 +4573,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175328Z" creationid="Antonio" creationdate="20151127T175328Z">
-        <seg>&amp;Ocultar todo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222432Z" creationid="Antonio" creationdate="20151127T175328Z">
+        <seg>&amp;No mostrar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4613,16 +4613,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175356Z" creationid="Antonio" creationdate="20151127T175356Z">
-        <seg>Mostrar para todos los &amp;segmentos</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222522Z" creationid="Antonio" creationdate="20151127T175356Z">
+        <seg>Mostrar para &amp;todos los segmentos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175342Z" creationid="Antonio" creationdate="20151127T175342Z">
-        <seg>Mostrar para el actual &amp;segmento</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222457Z" creationid="Antonio" creationdate="20151127T175342Z">
+        <seg>Mostrar para el segm&amp;ento actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -8127,8 +8127,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175425Z" creationid="Antonio" creationdate="20151127T175411Z">
-        <seg>Marcar &amp;espacios Irrompibles </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222542Z" creationid="Antonio" creationdate="20151127T175411Z">
+        <seg>Marcar espacios &amp;duros</seg>
       </tuv>
     </tu>
     <tu>
@@ -8167,8 +8167,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Non-&amp;Unique Segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T081022Z" creationid="Víctor Parra" creationdate="20151127T011240Z">
-        <seg>Marcar Segmentos No Únicos </seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222346Z" creationid="Víctor Parra" creationdate="20151127T011240Z">
+        <seg>Marcar s&amp;egmentos no únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8191,8 +8191,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175259Z" creationid="Antonio" creationdate="20151127T175259Z">
-        <seg>Segmentos marcados &amp;con Notas</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222408Z" creationid="Antonio" creationdate="20151127T175259Z">
+        <seg>Marcar se&amp;gmentos con notas</seg>
       </tuv>
     </tu>
     <tu>
