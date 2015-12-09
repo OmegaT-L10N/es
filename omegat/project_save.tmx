@@ -2865,8 +2865,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T142934Z" creationid="hcartagena" creationdate="20151117T142934Z">
-        <seg>Las series no deben estar vacías</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174254Z" creationid="hcartagena" creationdate="20151117T142934Z">
+        <seg>Las matrices no deben estar vacías</seg>
       </tuv>
     </tu>
     <tu>
@@ -9765,9 +9765,9 @@ del sistema que contiene su carpeta particular.</seg>
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T141111Z" creationid="hcartagena" creationdate="20151117T141111Z">
-        <seg>Consulte la documentación sobre opciones de recuperación y envíe la 
-siguiente información al fabricante del software, junto con una 
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174228Z" creationid="hcartagena" creationdate="20151117T141111Z">
+        <seg>Consulte la documentación sobre opciones de recuperación y envíe la
+siguiente información al fabricante del software, junto con una
 descripción de cómo se produjo este error.</seg>
       </tuv>
     </tu>
