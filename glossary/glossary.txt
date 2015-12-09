@@ -9,3 +9,4 @@ Modification Info	Información de modificación
 TransTips	Consejos de traducción
 OmegaT	OmegaT
 version control	control de versiones
+writeable glossary	glosario principal	mejor que "glosario editable"
