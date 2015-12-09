@@ -12168,8 +12168,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T230434Z" creationid="hcartagena" creationdate="20151119T230434Z">
-        <seg>Iniciar un nuevo párrafo en:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T201451Z" creationid="hcartagena" creationdate="20151119T230434Z">
+        <seg>Iniciar un nuevo párrafo al encontrar:</seg>
       </tuv>
     </tu>
     <tu>
