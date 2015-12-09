@@ -934,11 +934,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>"tipo oración" es como lo traducen en Microsoft</note>
       <tuv lang="EN">
         <seg>&amp;Sentence Case</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175212Z" creationid="Antonio" creationdate="20151127T175212Z">
-        <seg>&amp;Mayúsculas de frase</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222211Z" creationid="Antonio" creationdate="20151127T175212Z">
+        <seg>Tipo &amp;oración</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,11 +1063,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>"tipo título" es como lo traducen en Microsoft</note>
       <tuv lang="EN">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195340Z" creationid="Víctor Parra" creationdate="20151126T195302Z">
-        <seg>&amp;Tipografía de título</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222139Z" creationid="Víctor Parra" creationdate="20151126T195302Z">
+        <seg>&amp;Tipo título</seg>
       </tuv>
     </tu>
     <tu>
