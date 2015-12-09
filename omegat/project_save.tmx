@@ -4983,8 +4983,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141831Z" creationid="Antonio" creationdate="20151127T173639Z">
-        <seg>ERROR: (declaración de bean)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T225013Z" creationid="Antonio" creationdate="20151127T173639Z">
+        <seg>ERROR: (declaración de 'bean')</seg>
       </tuv>
     </tu>
     <tu>
@@ -7663,8 +7663,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Language Chec&amp;ker</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173926Z" creationid="Antonio" creationdate="20151127T173926Z">
-        <seg>Corrector &amp;ortográfico</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224913Z" creationid="Antonio" creationdate="20151127T173926Z">
+        <seg>Corrector &amp;gramatical</seg>
       </tuv>
     </tu>
     <tu>
@@ -8638,8 +8638,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173914Z" creationid="Antonio" creationdate="20151127T173914Z">
-        <seg>Varias traducciones</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224926Z" creationid="Antonio" creationdate="20151127T173914Z">
+        <seg>Traducciones múltiples</seg>
       </tuv>
     </tu>
     <tu>
@@ -13097,8 +13097,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T173939Z" creationid="Antonio" creationdate="20151127T173939Z">
-        <seg>La dirección de traducción especificada no está admitida</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224847Z" creationid="Antonio" creationdate="20151127T173939Z">
+        <seg>No se admite la dirección de traducción especificada</seg>
       </tuv>
     </tu>
     <tu>
