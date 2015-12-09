@@ -185,8 +185,8 @@
       <tuv lang="EN">
         <seg>&amp;Character Table...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T221523Z" creationid="hcartagena" creationdate="20151116T221523Z">
-        <seg>Tabla de &amp;caracteres...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233059Z" creationid="hcartagena" creationdate="20151116T221523Z">
+        <seg>Cuadro de &amp;caracteres...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2429,8 +2429,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T081050Z" creationid="Antonio" creationdate="20151127T081050Z">
-        <seg>Añada caracteres a la tabla personalizada haciendo doble clic, o bien resaltando la tabla y pulsando la tecla Insertar.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233229Z" creationid="Antonio" creationdate="20151127T081050Z">
+        <seg>Añada caracteres al cuadro personalizado haciendo doble clic o bien resaltando el carácter y pulsando la tecla 'Insertar'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2573,8 +2573,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T080959Z" creationid="Antonio" creationdate="20151127T080959Z">
-        <seg>Permite sólo caracteres únicos</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233244Z" creationid="Antonio" creationdate="20151127T080959Z">
+        <seg>Permite solo caracteres únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3527,16 +3527,16 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Character table</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T154415Z" creationid="Antonio" creationdate="20151127T154415Z">
-        <seg>Tabla de caracteres</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233046Z" creationid="Antonio" creationdate="20151127T154415Z">
+        <seg>Cuadro de caracteres</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T074143Z" creationid="Antonio" creationdate="20151127T081359Z">
-        <seg>Opciones de autorrelleno de la tabla de caracteres</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233130Z" creationid="Antonio" creationdate="20151127T081359Z">
+        <seg>Opciones de autocompletar del cuadro de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -4351,16 +4351,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T081016Z" creationid="Antonio" creationdate="20151127T081016Z">
-        <seg>Tabla personalizada</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233239Z" creationid="Antonio" creationdate="20151127T081016Z">
+        <seg>Cuadro personalizado</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Customize character table</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T081058Z" creationid="Antonio" creationdate="20151127T081058Z">
-        <seg>Personalizar la tabla de caracteres</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233135Z" creationid="Antonio" creationdate="20151127T081058Z">
+        <seg>Personalizar el cuadro de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -6188,8 +6188,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Full table</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T081020Z" creationid="Antonio" creationdate="20151127T081020Z">
-        <seg>Tabla completa</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233233Z" creationid="Antonio" creationdate="20151127T081020Z">
+        <seg>Cuadro completo</seg>
       </tuv>
     </tu>
     <tu>
