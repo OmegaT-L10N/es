@@ -7079,8 +7079,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T151936Z" creationid="Helli" creationdate="20150526T132155Z">
-        <seg>Insertar la siguiente etiqueta ausente</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T172316Z" creationid="Helli" creationdate="20150526T132155Z">
+        <seg>Insertar la siguiente etiqueta faltante</seg>
       </tuv>
     </tu>
     <tu>
@@ -12298,8 +12298,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175001Z" creationid="Antonio" creationdate="20151127T175001Z">
-        <seg>T&amp;Ms</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T172224Z" creationid="Antonio" creationdate="20151127T175001Z">
+        <seg>&amp;Memorias externas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14266,8 +14266,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T204012Z" creationid="hcartagena" creationdate="20151116T204012Z">
-        <seg>Usar &amp;TAB para avanzar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T172323Z" creationid="hcartagena" creationdate="20151116T204012Z">
+        <seg>Usar &amp;tabulación para avanzar</seg>
       </tuv>
     </tu>
     <tu>
