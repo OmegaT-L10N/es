@@ -1163,8 +1163,8 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
       <tuv lang="EN">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202847Z" creationid="hcartagena" creationdate="20151116T202847Z">
-        <seg>Glosario edita&amp;ble</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174606Z" creationid="hcartagena" creationdate="20151116T202847Z">
+        <seg>Glosario &amp;principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,8 +6314,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184539Z" creationid="hcartagena" creationdate="20151117T184539Z">
-        <seg>Carpeta de glosario:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174532Z" creationid="hcartagena" creationdate="20151117T184539Z">
+        <seg>Carpeta de glosarios:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11969,8 +11969,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T154447Z" creationid="hcartagena" creationdate="20151117T154447Z">
-        <seg>Subdirectorio de archivos fuente:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174530Z" creationid="hcartagena" creationdate="20151117T154447Z">
+        <seg>Carpeta de archivos originales:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14830,24 +14830,24 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>Writeable Glossary File</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191254Z" creationid="hcartagena" creationdate="20151117T191254Z">
-        <seg>Archivo de glosario editable</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174626Z" creationid="hcartagena" creationdate="20151117T191254Z">
+        <seg>Archivo del glosario principal</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable Glossary File:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T184650Z" creationid="hcartagena" creationdate="20151117T184650Z">
-        <seg>Archivo de glosario editable:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174542Z" creationid="hcartagena" creationdate="20151117T184650Z">
+        <seg>Archivo del glosario principal:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191856Z" creationid="hcartagena" creationdate="20151117T191803Z">
-        <seg>No existe la carpeta indicada para el archivo de glosario editable</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T174648Z" creationid="hcartagena" creationdate="20151117T191803Z">
+        <seg>No existe la carpeta indicada para el archivo del glosario principal</seg>
       </tuv>
     </tu>
     <tu>
