@@ -577,8 +577,8 @@
       <tuv lang="EN">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235438Z" creationid="hcartagena" creationdate="20151119T213324Z">
-        <seg>&amp;Hacer que el ajuste de filtros de archivo sea específico para el proyecto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T193919Z" creationid="hcartagena" creationdate="20151119T213324Z">
+        <seg>&amp;Hacer que los ajustes de filtros de archivo sean específicos para el proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9036,16 +9036,16 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235450Z" creationid="hcartagena" creationdate="20151119T230707Z">
-        <seg>Nota: el ajuste de codificación de archivos originales solo afecta a los archivos HHC y HHK que no contienen una declaración de codificación.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T194001Z" creationid="hcartagena" creationdate="20151119T230707Z">
+        <seg>Nota: los ajustes de codificación de archivos originales solo afectan a los archivos HHC y HHK que no contienen una declaración de codificación.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T235446Z" creationid="hcartagena" creationdate="20151119T213850Z">
-        <seg>Nota: el ajuste de codificación del archivo original solo afecta a los archivos HTML que no contienen una declaración de codificación.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T193940Z" creationid="hcartagena" creationdate="20151119T213850Z">
+        <seg>Nota: los ajustes de codificación del archivo original solo afectan a los archivos HTML que no contienen una declaración de codificación.</seg>
       </tuv>
     </tu>
     <tu>
