@@ -15,3 +15,4 @@ nbsp	espacio duro
 TMX level2	TMX de nivel 2
 team	trabajo en grupo
 team project	proyecto de trabajo en grupo
+entry	término	cuando se refiere al glosario; de lo contrario "entrada"
