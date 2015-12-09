@@ -13,3 +13,4 @@ writeable glossary	glosario principal	mejor que "glosario editable"
 tokenizer	analizador	Según lo explicado en el mensaje del grupo (ver URL), "tokenizer" es, en jerga de Lucene, un "analizador".
 nbsp	espacio duro
 TMX level2	TMX de nivel 2
+team	trabajo en grupo
