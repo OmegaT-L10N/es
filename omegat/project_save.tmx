@@ -1169,8 +1169,8 @@
       <tuv lang="EN">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T215505Z" creationid="hcartagena" creationdate="20151119T215505Z">
-        <seg>&amp;value (de entradas de formulario del tipo 'button', 'submit' y 'reset')</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T201150Z" creationid="hcartagena" creationdate="20151119T215505Z">
+        <seg>&amp;value (valor de entradas de formulario del tipo 'button', 'submit' y 'reset')</seg>
       </tuv>
     </tu>
     <tu>
@@ -19269,8 +19269,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T215535Z" creationid="hcartagena" creationdate="20151119T215535Z">
-        <seg>value (de entradas del tipo 'button', '&amp;submit' y 'reset')</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T201158Z" creationid="hcartagena" creationdate="20151119T215535Z">
+        <seg>value (valor de entradas del tipo 'button', '&amp;submit' y 'reset')</seg>
       </tuv>
     </tu>
     <tu>
