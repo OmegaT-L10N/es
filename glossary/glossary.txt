@@ -11,3 +11,4 @@ OmegaT	OmegaT
 version control	control de versiones
 writeable glossary	glosario principal	mejor que "glosario editable"
 tokenizer	analizador	Según lo explicado en el mensaje del grupo (ver URL), "tokenizer" es, en jerga de Lucene, un "analizador".
+nbsp	espacio duro
