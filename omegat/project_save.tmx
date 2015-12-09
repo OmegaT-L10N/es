@@ -2587,8 +2587,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233326Z" creationid="hcartagena" creationdate="20151124T233326Z">
-        <seg>Permitir que las etiquetas traducidas estén en un orden di&amp;ferente</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T210328Z" creationid="hcartagena" creationdate="20151124T233326Z">
+        <seg>Permitir un orden di&amp;ferente para las etiquetas traducidas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,8 +4715,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233447Z" creationid="hcartagena" creationdate="20151124T233447Z">
-        <seg>No permitir la creación de documentos traducidos con problemas en las et&amp;iquetas</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T210400Z" creationid="hcartagena" creationdate="20151124T233447Z">
+        <seg>No permitir la creación de documentos traducidos con problemas de et&amp;iquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14610,8 +14610,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233428Z" creationid="hcartagena" creationdate="20151124T233428Z">
-        <seg>Advertencia: cambiar el orden de las etiquetas puede corromper el documento traducido.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T210352Z" creationid="hcartagena" creationdate="20151124T233428Z">
+        <seg>Advertencia: cambiar el orden de las etiquetas puede invalidar el documento traducido.</seg>
       </tuv>
     </tu>
     <tu>
