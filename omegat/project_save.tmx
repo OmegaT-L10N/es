@@ -5295,8 +5295,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174704Z" creationid="Antonio" creationdate="20151127T174704Z">
-        <seg>Error al iniciar la aplicación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213458Z" creationid="Antonio" creationdate="20151127T174704Z">
+        <seg>Error al arrancar la aplicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -6264,24 +6264,24 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171722Z" creationid="Antonio" creationdate="20151127T171705Z">
-        <seg>Error '{0}' de Git: {1}</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213656Z" creationid="Antonio" creationdate="20151127T171705Z">
+        <seg>Error '{0}' en Git: {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T075423Z" creationid="Antonio" creationdate="20151127T171718Z">
-        <seg>La ejecución de '{0}' de Git ha terminado con éxito</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213643Z" creationid="Antonio" creationdate="20151127T171718Z">
+        <seg>La ejecución de '{0}' en Git ha terminado con éxito</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Git '{0}' execution start</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171756Z" creationid="Antonio" creationdate="20151127T171756Z">
-        <seg>Inicio de la ejecución de '{0}' de Git</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213637Z" creationid="Antonio" creationdate="20151127T171756Z">
+        <seg>Inicio de la ejecución de '{0}' en Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -10283,8 +10283,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Push failed.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T075415Z" creationid="Antonio" creationdate="20151127T171648Z">
-        <seg>Falló la operación push.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213701Z" creationid="Antonio" creationdate="20151127T171648Z">
+        <seg>Falló la operación 'push'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10949,24 +10949,24 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172219Z" creationid="Antonio" creationdate="20151127T172219Z">
-        <seg>Error '{0}' de SVN: {1}</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213555Z" creationid="Antonio" creationdate="20151127T172219Z">
+        <seg>Error '{0}' en SVN: {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>SVN '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172246Z" creationid="Antonio" creationdate="20151127T172246Z">
-        <seg>La ejecución de '{0}' de SVN ha terminado con éxito</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213550Z" creationid="Antonio" creationdate="20151127T172246Z">
+        <seg>La ejecución de '{0}' en SVN ha terminado con éxito</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>SVN '{0}' execution start</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172301Z" creationid="Antonio" creationdate="20151127T172301Z">
-        <seg>Inicio de la ejecución de '{0}' de SVN</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213543Z" creationid="Antonio" creationdate="20151127T172301Z">
+        <seg>Inicio de la ejecución de '{0}' en SVN</seg>
       </tuv>
     </tu>
     <tu>
@@ -12144,8 +12144,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204035Z" creationid="Antonio" creationdate="20151127T171915Z">
-        <seg>Vuelva a iniciar OmegaT, descargue el proyecto de trabajo en grupo, cierre OmegaT
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213621Z" creationid="Antonio" creationdate="20151127T171915Z">
+        <seg>Vuelva a arrancar OmegaT, descargue el proyecto de trabajo en grupo, cierre OmegaT
 5.</seg>
       </tuv>
     </tu>
@@ -12153,8 +12153,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Start OmegaT and continue to translate</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171810Z" creationid="Antonio" creationdate="20151127T171810Z">
-        <seg>Inicie OmegaT y continue traduciendo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213633Z" creationid="Antonio" creationdate="20151127T171810Z">
+        <seg>Arranque OmegaT y continue traduciendo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14241,8 +14241,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Upload disabled because repository in read-only mode</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171621Z" creationid="Antonio" creationdate="20151127T171621Z">
-        <seg>Subida desactivada debido a que el repositorio está en modo de sólo lectura</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213726Z" creationid="Antonio" creationdate="20151127T171621Z">
+        <seg>Carga desactivada debido a que el repositorio está en modo de solo lectura</seg>
       </tuv>
     </tu>
     <tu>
@@ -14764,8 +14764,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>Will be synchronized next time.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171630Z" creationid="Antonio" creationdate="20151127T171630Z">
-        <seg>Se sincronizará la siguiente vez.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213711Z" creationid="Antonio" creationdate="20151127T171630Z">
+        <seg>Se sincronizará la próxima vez.</seg>
       </tuv>
     </tu>
     <tu>
