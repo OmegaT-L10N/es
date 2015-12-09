@@ -1204,9 +1204,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T171606Z" creationid="hcartagena" creationdate="20151116T195030Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T215159Z" creationid="hcartagena" creationdate="20151116T195030Z">
         <seg>(Consultar 'Archivos a traducir' &gt; 'Formatos de archivo' en el manual de usuario para ver un listado de
-formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en el botón Agregar archivos... en la ventana Archivos del proyecto o ejecute esta acción desde el menú Proyecto y seleccione los archivos que desea copiar.</seg>
+formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en el botón 'Agregar archivos...' en la ventana 'Archivos del proyecto' o ejecute esta acción desde el menú 'Proyecto' y seleccione los archivos que desea copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9857,8 +9857,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="EN">
         <seg>Please select the dictionaries you want to install and press the Install button.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195156Z" creationid="Víctor Parra" creationdate="20151126T195156Z">
-        <seg>Por favor, seleccione los diccionarios que desee instalar y pulse el botón Instalar.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T215227Z" creationid="Víctor Parra" creationdate="20151126T195156Z">
+        <seg>Por favor, seleccione los diccionarios que desee instalar y pulse el botón 'Instalar'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15037,8 +15037,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T212317Z" creationid="hcartagena" creationdate="20151124T233649Z">
-        <seg>Puede crear términos en el glosario con la función 'Crear término en el glosario' del menú Editar.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T215312Z" creationid="hcartagena" creationdate="20151124T233649Z">
+        <seg>Puede crear términos en el glosario con la función 'Crear término en el glosario' del menú 'Editar'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15095,8 +15095,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200612Z" creationid="hcartagena" creationdate="20151116T200540Z">
-        <seg>También puede copiar los archivos a la carpeta 'source' de su proyecto con su administrador de archivos favorito y volver a cargar el proyecto ejecutando Volver a cargar en el menú Proyecto.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T215303Z" creationid="hcartagena" creationdate="20151116T200540Z">
+        <seg>También puede copiar los archivos a la carpeta 'source' de su proyecto con su administrador de archivos favorito y volver a cargar el proyecto ejecutando Volver a cargar en el menú 'Proyecto'.</seg>
       </tuv>
     </tu>
     <tu>
