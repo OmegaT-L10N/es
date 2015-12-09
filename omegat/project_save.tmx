@@ -2435,8 +2435,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add glossary entry</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233718Z" creationid="hcartagena" creationdate="20151124T233718Z">
-        <seg>Agregar entrada de glosario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211602Z" creationid="hcartagena" creationdate="20151124T233718Z">
+        <seg>Agregar término en el glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -3004,8 +3004,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T154555Z" creationid="Antonio" creationdate="20151127T154421Z">
-        <seg>Entradas de Autotexto</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211708Z" creationid="Antonio" creationdate="20151127T154421Z">
+        <seg>Entradas de autotexto</seg>
       </tuv>
     </tu>
     <tu>
@@ -6328,8 +6328,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Glossary entries</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T154551Z" creationid="Antonio" creationdate="20151127T154551Z">
-        <seg>Entradas de glosario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211638Z" creationid="Antonio" creationdate="20151127T154551Z">
+        <seg>Términos de glosarios</seg>
       </tuv>
     </tu>
     <tu>
