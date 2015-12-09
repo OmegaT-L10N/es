@@ -6012,8 +6012,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T082032Z" creationid="Antonio" creationdate="20151127T082032Z">
-        <seg>Aplicar las mayúsculas del texto mecanografiado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233803Z" creationid="Antonio" creationdate="20151127T082032Z">
+        <seg>Continuar el uso de mayúsculas del texto escrito</seg>
       </tuv>
     </tu>
     <tu>
@@ -11772,8 +11772,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Show source term first</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T082523Z" creationid="Antonio" creationdate="20151127T082523Z">
-        <seg>Mostrar primero el término de origen</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233705Z" creationid="Antonio" creationdate="20151127T082523Z">
+        <seg>Mostrar el término original al principio</seg>
       </tuv>
     </tu>
     <tu>
@@ -12606,8 +12606,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T082504Z" creationid="Antonio" creationdate="20151127T082504Z">
-        <seg>Términos con varios destinos</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T233712Z" creationid="Antonio" creationdate="20151127T082504Z">
+        <seg>Términos con traducciones múltiples</seg>
       </tuv>
     </tu>
     <tu>
