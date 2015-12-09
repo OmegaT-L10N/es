@@ -12725,8 +12725,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T202919Z" creationid="hcartagena" creationdate="20151119T202919Z">
-        <seg>El filtro Paquete de recursos Java arrojó una excepción:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T185711Z" creationid="hcartagena" creationdate="20151119T202919Z">
+        <seg>El filtro Paquete de recursos de Java arrojó una excepción:</seg>
       </tuv>
     </tu>
     <tu>
