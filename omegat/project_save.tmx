@@ -785,8 +785,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192343Z" creationid="hcartagena" creationdate="20151116T192343Z">
-        <seg>Elimina&amp;r</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214654Z" creationid="hcartagena" creationdate="20151116T192343Z">
+        <seg>Quita&amp;r</seg>
       </tuv>
     </tu>
     <tu>
@@ -3405,8 +3405,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Cannot install</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194904Z" creationid="Víctor Parra" creationdate="20151126T194904Z">
-        <seg>No se puede installar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214749Z" creationid="Víctor Parra" creationdate="20151126T194904Z">
+        <seg>No se puede instalar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4499,8 +4499,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Dictionary File Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194752Z" creationid="Víctor Parra" creationdate="20151126T194752Z">
-        <seg>Subdirectorio de archivos del diccionario:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214633Z" creationid="Víctor Parra" creationdate="20151126T194752Z">
+        <seg>Carpeta de archivos de diccionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -4531,8 +4531,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Dictionary file folder:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194742Z" creationid="Víctor Parra" creationdate="20151126T194742Z">
-        <seg>Subdirectorio de archivos del diccionario:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214622Z" creationid="Víctor Parra" creationdate="20151126T194742Z">
+        <seg>Carpeta de archivos de diccionarios:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13274,16 +13274,16 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000325Z" creationid="hcartagena" creationdate="20151125T000325Z">
-        <seg>Esta llamada NO DEBE estar en un subproceso swing</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214535Z" creationid="hcartagena" creationdate="20151125T000325Z">
+        <seg>Esta llamada NO DEBE estar en un subproceso 'swing'</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This call MUST be in swing thread</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151125T000314Z" creationid="hcartagena" creationdate="20151125T000314Z">
-        <seg>Esta llamada DEBE estar en un subproceso swing</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214532Z" creationid="hcartagena" creationdate="20151125T000314Z">
+        <seg>Esta llamada DEBE estar en un subproceso 'swing'</seg>
       </tuv>
     </tu>
     <tu>
@@ -14981,8 +14981,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194836Z" creationid="Víctor Parra" creationdate="20151126T194836Z">
-        <seg>Usted está desinstalando el diccionario del corrector ortográfico que su proyecto está utilizando.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214736Z" creationid="Víctor Parra" creationdate="20151126T194836Z">
+        <seg>Está desinstalando el diccionario de corrección ortográfica que está utilizando su proyecto.</seg>
       </tuv>
     </tu>
     <tu>
