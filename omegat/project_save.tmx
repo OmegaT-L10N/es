@@ -1206,9 +1206,9 @@ https://groups.yahoo.com/neo/groups/OmegaT/conversations/messages/33999</note>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T200547Z" creationid="hcartagena" creationdate="20151116T195030Z">
-        <seg>(Vea 'Archivos a traducir' &gt; 'Formatos de archivo' en el manual de usuario para ver un listado de
-formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en el botón Copiar archivos a la carpeta Source... en la ventana Archivos del proyecto o ejecute esta acción desde el menú Proyecto y seleccione los archivos que desea copiar.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T171606Z" creationid="hcartagena" creationdate="20151116T195030Z">
+        <seg>(Consultar 'Archivos a traducir' &gt; 'Formatos de archivo' en el manual de usuario para ver un listado de
+formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en el botón Agregar archivos... en la ventana Archivos del proyecto o ejecute esta acción desde el menú Proyecto y seleccione los archivos que desea copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3868,8 +3868,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202350Z" creationid="hcartagena" creationdate="20151116T202350Z">
-        <seg>Cop&amp;iar archivos a carpeta Source...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T171751Z" creationid="hcartagena" creationdate="20151116T202350Z">
+        <seg>Agreg&amp;ar archivos...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3893,8 +3893,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202403Z" creationid="hcartagena" creationdate="20151116T202403Z">
-        <seg>Copiar archivos a carpeta Source...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T171615Z" creationid="hcartagena" creationdate="20151116T202403Z">
+        <seg>Agregar archivos...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4821,8 +4821,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T202315Z" creationid="hcartagena" creationdate="20151116T202315Z">
-        <seg>Descargar Proyecto en Grupo...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T171733Z" creationid="hcartagena" creationdate="20151116T202315Z">
+        <seg>Descargar proyec&amp;to en grupo...</seg>
       </tuv>
     </tu>
     <tu>
