@@ -3381,8 +3381,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T164544Z" creationid="Antonio" creationdate="20151127T164544Z">
-        <seg>Se canceló la creación de un nuevo proyecto de equipo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204144Z" creationid="Antonio" creationdate="20151127T164544Z">
+        <seg>Se canceló la creación de un nuevo proyecto de trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,8 +3842,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171519Z" creationid="Antonio" creationdate="20151127T171519Z">
-        <seg>Conexión disponible, el proyecto está en modo de proyecto de equipo.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204044Z" creationid="Antonio" creationdate="20151127T171519Z">
+        <seg>Conexión disponible, el proyecto está en modo de proyecto de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12144,8 +12144,9 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171915Z" creationid="Antonio" creationdate="20151127T171915Z">
-        <seg>Vuelva de nuevo a OmegaT, descargue el proyecto de equipo, cierre OmegaT 5.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204035Z" creationid="Antonio" creationdate="20151127T171915Z">
+        <seg>Vuelva a iniciar OmegaT, descargue el proyecto de trabajo en grupo, cierre OmegaT
+5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12544,40 +12545,40 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Team Project</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171413Z" creationid="Antonio" creationdate="20151127T171413Z">
-        <seg>Proyecto de equipo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204049Z" creationid="Antonio" creationdate="20151127T171413Z">
+        <seg>Proyecto de trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T165025Z" creationid="Antonio" creationdate="20151127T165025Z">
-        <seg>Sincronización de equipo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204054Z" creationid="Antonio" creationdate="20151127T165025Z">
+        <seg>Sincronización de trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T165019Z" creationid="Antonio" creationdate="20151127T164954Z">
-        <seg>Sincronización de equipo...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204100Z" creationid="Antonio" creationdate="20151127T164954Z">
+        <seg>Sincronización de trabajo en grupo...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization: Saving translation in {0} s</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T164615Z" creationid="Antonio" creationdate="20151127T164615Z">
-        <seg>Sincronización de equipo: Guardando la traducción en {0} s</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204124Z" creationid="Antonio" creationdate="20151127T164615Z">
+        <seg>Sincronización de trabajo en grupo: guardando la traducción en {0} s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T164726Z" creationid="Antonio" creationdate="20151127T164621Z">
-        <seg>Sincronización de equipo: Esperando a que usted termine este segmento...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204114Z" creationid="Antonio" creationdate="20151127T164621Z">
+        <seg>Sincronización de trabajo en grupo: esperando a que usted termine este segmento...</seg>
       </tuv>
     </tu>
     <tu>
