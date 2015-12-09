@@ -4539,8 +4539,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191955Z" creationid="hcartagena" creationdate="20151117T191955Z">
-        <seg>No existe la carpeta indicada para los archivos de diccionario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T180327Z" creationid="hcartagena" creationdate="20151117T191955Z">
+        <seg>No existe la carpeta indicada para los archivos de diccionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -6352,8 +6352,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191927Z" creationid="hcartagena" creationdate="20151117T191753Z">
-        <seg>No existe la carpeta indicada para los archivos de glosario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T180308Z" creationid="hcartagena" creationdate="20151117T191753Z">
+        <seg>No existe la carpeta indicada para los archivos de glosarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -13802,8 +13802,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T192002Z" creationid="hcartagena" creationdate="20151117T191840Z">
-        <seg>No existe la carpeta indicada para los archivos de memoria de traducción</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T180325Z" creationid="hcartagena" creationdate="20151117T191840Z">
+        <seg>No existe la carpeta indicada para los archivos de memorias de traducción</seg>
       </tuv>
     </tu>
     <tu>
