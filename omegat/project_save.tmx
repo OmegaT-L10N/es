@@ -4507,8 +4507,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191242Z" creationid="hcartagena" creationdate="20151117T191242Z">
-        <seg>Carpeta de archivos de diccionario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T180223Z" creationid="hcartagena" creationdate="20151117T191242Z">
+        <seg>Carpeta de archivos de diccionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,8 +6304,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191231Z" creationid="hcartagena" creationdate="20151117T191231Z">
-        <seg>Carpeta de archivos de glosario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T180147Z" creationid="hcartagena" creationdate="20151117T191231Z">
+        <seg>Carpeta de archivos de glosarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -12981,9 +12981,9 @@ actual.</seg>
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191627Z" creationid="hcartagena" creationdate="20151117T191627Z">
-        <seg>El código de idioma debe ingresarse con el formato xx-YY, xxx-YY, xx_YY o xxx_YY, donde 
-xx o xxx es el código de idioma y YY es el código de región o país (opcional).</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T180255Z" creationid="hcartagena" creationdate="20151117T191627Z">
+        <seg>Se debe ingresar el código de idioma con el formato xx-YY, xxx-YY, xx_YY o xxx_YY, donde 
+xx o xxx es el código de idioma e YY es el código de región o país (opcional).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13762,8 +13762,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151117T191245Z" creationid="hcartagena" creationdate="20151117T191238Z">
-        <seg>Carpeta de archivos de memoria de traducción</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T180149Z" creationid="hcartagena" creationdate="20151117T191238Z">
+        <seg>Carpeta de archivos de memorias de traducción</seg>
       </tuv>
     </tu>
     <tu>
