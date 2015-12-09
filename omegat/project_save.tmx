@@ -2839,8 +2839,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175424Z" creationid="hcartagena" creationdate="20151120T175424Z">
-        <seg>¿Está seguro de que desea eliminar el conjunto {0} de reglas de segmentación?</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T202115Z" creationid="hcartagena" creationdate="20151120T175424Z">
+        <seg>¿Está seguro de que desea eliminar el conjunto de reglas de segmentación {0}?</seg>
       </tuv>
     </tu>
     <tu>
