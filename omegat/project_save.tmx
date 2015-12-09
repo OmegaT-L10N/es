@@ -2443,8 +2443,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T213938Z" creationid="hcartagena" creationdate="20151119T213938Z">
-        <seg>Agregar o reescribir declaración de codificación en archivos HTML y XHTML:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T194327Z" creationid="hcartagena" creationdate="20151119T213938Z">
+        <seg>Agregar o reescribir la declaración de codificación en archivos HTML y XHTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11807,8 +11807,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T214013Z" creationid="hcartagena" creationdate="20151119T214013Z">
-        <seg>Omitir el texto que coincida con la expresión regular:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T194338Z" creationid="hcartagena" creationdate="20151119T214013Z">
+        <seg>Omitir el texto que coincide con la expresión regular:</seg>
       </tuv>
     </tu>
     <tu>
