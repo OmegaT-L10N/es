@@ -121,8 +121,8 @@
       <tuv lang="EN">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174603Z" creationid="Antonio" creationdate="20151127T174603Z">
-        <seg>Recuperar &amp;automáticamente las traducciones</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224434Z" creationid="Antonio" creationdate="20151127T174603Z">
+        <seg>Obtener traducciones &amp;automáticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1107,8 +1107,8 @@
       <tuv lang="EN">
         <seg>&amp;Untranslated Segments Only</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174553Z" creationid="Antonio" creationdate="20151127T174553Z">
-        <seg>Solamente segmentos sin trad&amp;ucir</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224440Z" creationid="Antonio" creationdate="20151127T174553Z">
+        <seg>Solamente segmentos sin trad&amp;ucción</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,8 +5241,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174426Z" creationid="Antonio" creationdate="20151127T174426Z">
-        <seg>Error al extraer el resultado de MT de MyMemory, respuesta:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224521Z" creationid="Antonio" creationdate="20151127T174426Z">
+        <seg>Error al extraer el resultado de traducción automática de MyMemory, respuesta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15121,8 +15121,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T174701Z" creationid="Antonio" creationdate="20151127T174701Z">
-        <seg>Usted debe actualizar su JDK 1.6 a la versión más reciente, o simplemente elimine los archivos  jaxb-*.jar directorio OmegaT/lib</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T224303Z" creationid="Antonio" creationdate="20151127T174701Z">
+        <seg>Debe actualizar su JDK 1.6 a la versión más reciente o simplemente eliminar los archivos jaxb-*.jar del directorio /lib/ de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
