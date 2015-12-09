@@ -4675,8 +4675,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233623Z" creationid="hcartagena" creationdate="20151124T233623Z">
-        <seg>Muestra las entradas de glosario encontradas en los archivos de glosario en la carpeta /glossary/ si se encuentran en el segmento original.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T210842Z" creationid="hcartagena" creationdate="20151124T233623Z">
+        <seg>Muestra los términos de glosarios en la carpeta /glossary/ que haya en el segmento original.</seg>
       </tuv>
     </tu>
     <tu>
