@@ -2309,8 +2309,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Aborted.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172621Z" creationid="Antonio" creationdate="20151127T172621Z">
-        <seg>Cancelado.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T225708Z" creationid="Antonio" creationdate="20151127T172621Z">
+        <seg>Anulado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5946,8 +5946,8 @@ project_save.tmx no se ha subido realmente y SVN a pasado a inestable</seg>
       <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172640Z" creationid="Antonio" creationdate="20151127T172640Z">
-        <seg>Terminado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T225656Z" creationid="Antonio" creationdate="20151127T172640Z">
+        <seg>Finalizado</seg>
       </tuv>
     </tu>
     <tu>
@@ -9901,8 +9901,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Please translate this plural as plural form #{0}.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T144351Z" creationid="Antonio" creationdate="20151127T172753Z">
-        <seg>Por favor, traduzca este plural con la forma en plural #{0}</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T225521Z" creationid="Antonio" creationdate="20151127T172753Z">
+        <seg>Traduzca este plural con la forma en plural #{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12443,8 +12443,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172707Z" creationid="Antonio" creationdate="20151127T172707Z">
-        <seg>Falló la validación de las etiquetas</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T225536Z" creationid="Antonio" creationdate="20151127T172707Z">
+        <seg>Falló la validación de etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -13749,8 +13749,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T172657Z" creationid="Antonio" creationdate="20151127T172657Z">
-        <seg>Proyecto de traducción</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T225645Z" creationid="Antonio" creationdate="20151127T172657Z">
+        <seg>Traduciendo proyecto</seg>
       </tuv>
     </tu>
     <tu>
