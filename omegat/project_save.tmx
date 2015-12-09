@@ -617,8 +617,8 @@
       <tuv lang="EN">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165627Z" creationid="hcartagena" creationdate="20151120T165627Z">
-        <seg>Ba&amp;jar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T202027Z" creationid="hcartagena" creationdate="20151120T165627Z">
+        <seg>Aba&amp;jo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8588,24 +8588,24 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165617Z" creationid="hcartagena" creationdate="20151116T223634Z">
-        <seg>S&amp;ubir</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T202017Z" creationid="hcartagena" creationdate="20151116T223634Z">
+        <seg>A&amp;rriba</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165602Z" creationid="hcartagena" creationdate="20151120T165602Z">
-        <seg>&amp;Bajar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T202045Z" creationid="hcartagena" creationdate="20151120T165602Z">
+        <seg>A&amp;bajo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151120T165556Z" creationid="hcartagena" creationdate="20151120T165556Z">
-        <seg>&amp;Subir</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T202006Z" creationid="hcartagena" creationdate="20151120T165556Z">
+        <seg>&amp;Arriba</seg>
       </tuv>
     </tu>
     <tu>
