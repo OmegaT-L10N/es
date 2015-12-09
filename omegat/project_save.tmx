@@ -2942,8 +2942,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Authentication</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171509Z" creationid="Antonio" creationdate="20151127T171509Z">
-        <seg>Authentificación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230837Z" creationid="Antonio" creationdate="20151127T171509Z">
+        <seg>Autentificación</seg>
       </tuv>
     </tu>
     <tu>
@@ -6100,8 +6100,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Force saving password as plain text</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171603Z" creationid="Antonio" creationdate="20151127T171603Z">
-        <seg>Forzar guardar contraseña como texto sin formato</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230800Z" creationid="Antonio" creationdate="20151127T171603Z">
+        <seg>Forzar el guardado de la contraseña como texto sin formato</seg>
       </tuv>
     </tu>
     <tu>
@@ -8824,8 +8824,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171527Z" creationid="Antonio" creationdate="20151127T171527Z">
-        <seg>No hay conexión disponible, el proyecto está en modo fuera de línea.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230817Z" creationid="Antonio" creationdate="20151127T171527Z">
+        <seg>No hay conexión disponible, el proyecto está en modo sin conexión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9805,8 +9805,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="EN">
         <seg>Please enter username/password</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T212442Z" creationid="Antonio" creationdate="20151127T171506Z">
-        <seg>Introduzca el nombre de usuario y contraseña</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230841Z" creationid="Antonio" creationdate="20151127T171506Z">
+        <seg>Introduzca el nombre de usuario y la contraseña</seg>
       </tuv>
     </tu>
     <tu>
@@ -14860,8 +14860,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>Wrong authentication</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T171443Z" creationid="Antonio" creationdate="20151127T171443Z">
-        <seg>Mala autentificación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T230916Z" creationid="Antonio" creationdate="20151127T171443Z">
+        <seg>Autentificación errónea</seg>
       </tuv>
     </tu>
     <tu>
