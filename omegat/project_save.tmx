@@ -89,8 +89,8 @@
       <tuv lang="EN">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223525Z" creationid="hcartagena" creationdate="20151116T223525Z">
-        <seg>&amp;Aplicar esta fuente en datos tabulados (archivos del proyecto, estadísticas, etc.)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T173212Z" creationid="hcartagena" creationdate="20151116T223525Z">
+        <seg>&amp;Aplicar esta fuente a los datos tabulados (archivos del proyecto, estadísticas, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13588,8 +13588,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tra&amp;nsTips</seg>
       </tuv>
-      <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T193955Z" creationid="Víctor Parra" creationdate="20151126T193955Z">
-        <seg>Consejos de Traducció&amp;n</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T172738Z" creationid="Víctor Parra" creationdate="20151126T193955Z">
+        <seg>Tra&amp;nsTips</seg>
       </tuv>
     </tu>
     <tu>
@@ -14370,8 +14370,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>User's Manual</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T223728Z" creationid="hcartagena" creationdate="20151116T223728Z">
-        <seg>Manual de usuario</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T173223Z" creationid="hcartagena" creationdate="20151116T223728Z">
+        <seg>Manual de Usuario</seg>
       </tuv>
     </tu>
     <tu>
