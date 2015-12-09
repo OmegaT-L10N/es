@@ -9150,8 +9150,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T073038Z" creationid="Víctor Parra" creationdate="20151124T192353Z">
-        <seg>OmegaTN</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T170926Z" creationid="hcartagena" creationdate="20151209T170926Z">
+        <seg>OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -10799,8 +10799,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T192646Z" creationid="hcartagena" creationdate="20151116T192646Z">
-        <seg>Restaurar valore prede&amp;terminados</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T171005Z" creationid="hcartagena" creationdate="20151116T192646Z">
+        <seg>Restablecer valores prede&amp;terminados</seg>
       </tuv>
     </tu>
     <tu>
