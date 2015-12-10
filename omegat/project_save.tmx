@@ -1707,6 +1707,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185919Z" creationid="Antonio" creationdate="20151210T185919Z">
+        <seg>&lt;e0&gt;Apéndices&lt;/e0&gt; contiene la siguiente información</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185453Z" creationid="Antonio" creationdate="20151210T185453Z">
@@ -1755,10 +1763,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185909Z" creationid="Antonio" creationdate="20151210T185909Z">
+        <seg>&lt;e0&gt;Miscelánea&lt;/e0&gt;: Aquí se abordan otros temas de interés, tales como la forma de evitar la pérdida de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T164348Z" creationid="Antonio" creationdate="20151128T164348Z">
         <seg>&lt;e0&gt;OmegaT&lt;/e0&gt; es un software libre, puede redistribuirlo y/o modificarlo bajo los términos de la GNU General Public License publicada por la Free Software Foundation, bien la versión 3 de la Licencia, o (a su elección) cualquier versión posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185924Z" creationid="Antonio" creationdate="20151210T185924Z">
+        <seg>&lt;e0&gt;OmegaT en la web:&lt;/e0&gt; información sobre recursos de OmegaT en línea</seg>
       </tuv>
     </tu>
     <tu>
@@ -6907,6 +6931,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150603T194126Z" creationid="Helli" creationdate="20150603T153244Z">
         <seg>Si no se ha hecho ninguna sustitución en un segmento dado, el segmento objetivo será “vaciado”, es decir, queda sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185826Z" creationid="Antonio" creationdate="20151210T185826Z">
+        <seg>Si activa el corrector ortográfico, este reconoce errores ortográficos y tipográficos y usted los puede corregir durante la traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13174,6 +13206,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151210T001055Z" creationid="Antonio" creationdate="20151126T152619Z">
         <seg>Se han guardado los colores nuevos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185849Z" creationid="Antonio" creationdate="20151210T185849Z">
+        <seg>La herramienta de código abierto LanguageTool puede utilizarse para corregir errores gramaticales y estilísticos.</seg>
       </tuv>
     </tu>
     <tu>
