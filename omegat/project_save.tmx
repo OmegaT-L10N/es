@@ -15065,8 +15065,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T163242Z" creationid="Antonio" creationdate="20151128T163136Z">
-        <seg>Cuando se aplique una regla determinada, la frase correspondiente se  subrayará en color azul en el Editor (véase &lt;e1&gt;también &lt;/e1&gt;y  &lt;e2&gt;No hice nada&lt;/e2&gt; </seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T195805Z" creationid="Antonio" creationdate="20151128T163136Z">
+        <seg>Cuando se aplique una regla determinada, la frase correspondiente se  subrayará en color azul en el Editor (véase &lt;e1&gt;también &lt;/e1&gt;y  &lt;e2&gt;No hice nada&lt;/e2&gt; en la figura anterior).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15089,8 +15089,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T163325Z" creationid="Antonio" creationdate="20151128T163325Z">
-        <seg>Al colocar el  ratón sobre la frase subrayada, aparecerá una explacación.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T195814Z" creationid="Antonio" creationdate="20151128T163325Z">
+        <seg>Al colocar el  ratón sobre la frase subrayada, aparecerá una explicación.</seg>
       </tuv>
     </tu>
     <tu>
