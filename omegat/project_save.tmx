@@ -2253,8 +2253,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T163952Z" creationid="Antonio" creationdate="20151128T163952Z">
-        <seg>&lt;p0&gt;Notas legales&lt;/p0&gt; &lt;s1&gt;Para la documentación&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T200734Z" creationid="Antonio" creationdate="20151128T163952Z">
+        <seg>&lt;p0&gt;Aviso legal&lt;/p0&gt; &lt;s1&gt;Para la documentación&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
