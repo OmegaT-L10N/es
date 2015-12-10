@@ -7017,8 +7017,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T145033Z" creationid="Antonio" creationdate="20151130T145033Z">
-        <seg>Si es usuario de un Mac y quiere añadir  &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Comando&gt;+&lt;s2&gt;&lt;s3&gt;Comando&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; como atajo de &lt;m4&gt;&lt;g5&gt;Herramientas&lt;/g5&gt; &lt;g6&gt;Estadísticas&lt;/g7&gt; &lt;/m4&gt;, y añada la línea siguiente a &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T205917Z" creationid="Antonio" creationdate="20151130T145033Z">
+        <seg>Si es usuario de un Mac y quiere añadir  &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt;&lt;k2&gt;Comando&gt;+&lt;s2&gt;&lt;s3&gt;Comando&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; como atajo de &lt;m4&gt;&lt;g5&gt;Herramientas&lt;/g5&gt; &lt;g6&gt;Estadísticas&lt;/g7&gt; &lt;/m4&gt;, y añada la línea siguiente a &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7057,8 +7057,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T144703Z" creationid="Antonio" creationdate="20151130T144703Z">
-        <seg>Si quiere usar &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; para abrir un proyecto, modifique su archivo &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; de la manera siguiente:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T205905Z" creationid="Antonio" creationdate="20151130T144703Z">
+        <seg>Si quiere usar &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; para abrir un proyecto, modifique su archivo &lt;c6&gt;MainMenuShortcuts.properties&lt;/c6&gt; de la manera siguiente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11378,8 +11378,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T145056Z" creationid="Antonio" creationdate="20151130T145056Z">
-        <seg>Guarda el archivo y relanza &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T205942Z" creationid="Antonio" creationdate="20151130T145056Z">
+        <seg>Guarde el archivo y reinicie &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
