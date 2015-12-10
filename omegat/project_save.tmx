@@ -1755,6 +1755,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185207Z" creationid="Antonio" creationdate="20151210T185207Z">
+        <seg>&lt;e0&gt;Búsquedas&lt;/e0&gt; y&lt;e1&gt; &lt;/e1&gt; &lt;e2&gt;expresiones regulares&lt;/e2&gt;: búsquedas en OmegaT pueden ser tan simples como "&lt;e3&gt;segmentos de lista que tienen la&lt;/e3&gt; &lt;e4&gt;palabra 'canguro' ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185053Z" creationid="Antonio" creationdate="20151210T185053Z">
+        <seg>&lt;e0&gt;Segmentación&lt;/e0&gt;: las herramientas de memorias de traducción trabajan con unidades denominadas segmentos textuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T180056Z" creationid="Antonio" creationdate="20151127T180056Z">
@@ -1767,6 +1783,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184443Z" creationid="Antonio" creationdate="20151210T184443Z">
         <seg>&lt;e0&gt;La interfaz de usuario&lt;/e0&gt;,&lt;e1&gt; menú principal y atajos de teclado&lt;/e1&gt;: estos dos capítulos son probablemente los más consultados, ya que en ellos se explica la interfaz de usuario de OmegaT y las funciones disponibles en el menú principal, así como los atajos de teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185026Z" creationid="Antonio" creationdate="20151210T185026Z">
+        <seg>&lt;e0&gt;Memorias de traducción:&lt;/e0&gt; explica el papel de los diversos subdirectorios que contienen memorias de traducción, y proporciona información sobre otros aspectos importantes relacionados con las memorias de traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2287,6 +2311,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233854Z" creationid="hcartagena" creationdate="20151124T233854Z">
         <seg>Una nota es un simple comentario relacionado con este conjunto de texto original y traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185123Z" creationid="Antonio" creationdate="20151210T185123Z">
+        <seg>Proporcionamos una serie de conjuntos de reglas mientras que el usuario puede definir reglas adicionales, tal como se describe en este capítulo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6991,6 +7023,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185102Z" creationid="Antonio" creationdate="20151210T185102Z">
+        <seg>En OmegaT, los segmentos pueden estar basados en párrafos o en reglas de segmentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152228Z" creationid="Helli" creationdate="20150526T152228Z">
@@ -9751,6 +9791,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154533Z" creationid="Antonio" creationdate="20151128T154533Z">
         <seg>Punjabí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185112Z" creationid="Antonio" creationdate="20151210T185112Z">
+        <seg>La segmentación por párrafos es menos frecuente, pero puede ser útil en casos de los así llamados textos "creativos".</seg>
       </tuv>
     </tu>
     <tu>
@@ -13110,6 +13158,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T231311Z" creationid="Antonio" creationdate="20151127T164203Z">
         <seg>La carpeta de proyecto {0} no existe y no se pudo crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185118Z" creationid="Antonio" creationdate="20151210T185118Z">
+        <seg>La segmentación basada en reglas suele ser sinónimo de segmentación basada en frases. </seg>
       </tuv>
     </tu>
     <tu>
