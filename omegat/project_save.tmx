@@ -2205,16 +2205,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T155634Z" creationid="Antonio" creationdate="20151130T155634Z">
-        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; o &lt;k1&gt;Enter&lt;/k1&gt; o &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T213816Z" creationid="Antonio" creationdate="20151130T155634Z">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; o &lt;k1&gt;Intro&lt;/k1&gt; o &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T155707Z" creationid="Antonio" creationdate="20151130T155707Z">
-        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; o &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; o &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T213826Z" creationid="Antonio" creationdate="20151130T155707Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; o &lt;k1&gt;Ctrl+Intro&lt;/k1&gt; o &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9032,8 +9032,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Next Note</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T155800Z" creationid="Helli" creationdate="20150526T135105Z">
-        <seg>Siguiente nota</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T213846Z" creationid="Helli" creationdate="20150526T135105Z">
+        <seg>Nota siguiente</seg>
       </tuv>
     </tu>
     <tu>
