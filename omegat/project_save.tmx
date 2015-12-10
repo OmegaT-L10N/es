@@ -2053,8 +2053,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T073657Z" creationid="Antonio" creationdate="20151126T154855Z">
-        <seg>&lt;html&gt;Puede agregar patrones usando comodines (estilo hormiga): ' * ','?' y ' **', como '**/.svn/**'&lt;/html&gt;</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235754Z" creationid="Antonio" creationdate="20151126T154855Z">
+        <seg>&lt;html&gt;Puede agregar patrones usando comodines (estilo 'ant'): '*','?' y '**', como en '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2397,8 +2397,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Active segment target text</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T154414Z" creationid="Antonio" creationdate="20151126T154414Z">
-        <seg>Texto destino del segmento activo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235837Z" creationid="Antonio" creationdate="20151126T154414Z">
+        <seg>Texto de destino del segmento activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10826,16 +10826,16 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Retrieve collection list...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T161644Z" creationid="Antonio" creationdate="20151126T161644Z">
-        <seg>Recuperar lista de colección...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235624Z" creationid="Antonio" creationdate="20151126T161644Z">
+        <seg>Recuperar lista de colecciones...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Retrieve domain list...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T161625Z" creationid="Antonio" creationdate="20151126T161625Z">
-        <seg>Recuperar lista de dominio...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235639Z" creationid="Antonio" creationdate="20151126T161625Z">
+        <seg>Recuperar lista de dominios...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11332,16 +11332,16 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Segment marker background</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T154133Z" creationid="Antonio" creationdate="20151126T154133Z">
-        <seg>Fondo del marcador de segmento</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235843Z" creationid="Antonio" creationdate="20151126T154133Z">
+        <seg>Fondo del marcador de segmentos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Segment marker text</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T154147Z" creationid="Antonio" creationdate="20151126T154147Z">
-        <seg>Texto del marcador del segmento</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235841Z" creationid="Antonio" creationdate="20151126T154147Z">
+        <seg>Texto del marcador de segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -12036,16 +12036,16 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Source segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T154121Z" creationid="Antonio" creationdate="20151126T154121Z">
-        <seg>Segmentos de origen</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235849Z" creationid="Antonio" creationdate="20151126T154121Z">
+        <seg>Segmentos originales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source segments text</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T154115Z" creationid="Antonio" creationdate="20151126T154115Z">
-        <seg>Texto de los segmentos origen</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235852Z" creationid="Antonio" creationdate="20151126T154115Z">
+        <seg>Texto de los segmentos originales</seg>
       </tuv>
     </tu>
     <tu>
@@ -14207,16 +14207,16 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Untranslated segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T153951Z" creationid="Antonio" creationdate="20151126T153951Z">
-        <seg>Segmentos sin traducir</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235902Z" creationid="Antonio" creationdate="20151126T153951Z">
+        <seg>Segmentos sin traducción</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Untranslated segments text</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T153943Z" creationid="Antonio" creationdate="20151126T153943Z">
-        <seg>Texto de los segmentos sin traducir</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151209T235908Z" creationid="Antonio" creationdate="20151126T153943Z">
+        <seg>Texto de los segmentos sin traducción</seg>
       </tuv>
     </tu>
     <tu>
