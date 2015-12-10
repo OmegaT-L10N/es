@@ -2261,8 +2261,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the documentation&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T164000Z" creationid="Antonio" creationdate="20151128T163531Z">
-        <seg>&lt;p0&gt;Notas legales&lt;/p0&gt; &lt;s1&gt;Para la documentación&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T195936Z" creationid="Antonio" creationdate="20151128T163531Z">
+        <seg>&lt;p0&gt;Aviso legal&lt;/p0&gt; &lt;s1&gt;Para la documentación&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8089,8 +8089,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Legal notices</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T163454Z" creationid="Antonio" creationdate="20151128T163454Z">
-        <seg>Notas legales</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T195929Z" creationid="Antonio" creationdate="20151128T163454Z">
+        <seg>Aviso legal</seg>
       </tuv>
     </tu>
     <tu>
