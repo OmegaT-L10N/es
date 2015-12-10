@@ -7481,8 +7481,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T110836Z" creationid="Helli" creationdate="20150603T151136Z">
-        <seg>Se basa sobre los puntos fuertes de Java pero tiene características adicionales potentes inspiradas en lenguajes como Python, Ruby y Smalltalk.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T203546Z" creationid="Helli" creationdate="20150603T151136Z">
+        <seg>Se construye sobre los puntos fuertes de Java pero tiene características adicionales potentes inspiradas en lenguajes como Python, Ruby y Smalltalk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13281,8 +13281,8 @@ actual.</seg>
       <tuv lang="EN">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T110519Z" creationid="Helli" creationdate="20150526T120102Z">
-        <seg>Los siguientes lenguajes de script han sido implementadas:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T203517Z" creationid="Helli" creationdate="20150526T120102Z">
+        <seg>Se han implementado los siguientes lenguajes de script:</seg>
       </tuv>
     </tu>
     <tu>
