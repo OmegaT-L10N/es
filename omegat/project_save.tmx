@@ -9496,8 +9496,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T105240Z" creationid="Helli" creationdate="20150526T113420Z">
-        <seg>OmegaT permite ejecutar los scripts escritos en diferentes lenguajes de scripting.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T200845Z" creationid="Helli" creationdate="20150526T113420Z">
+        <seg>OmegaT permite ejecutar scripts escritos en diferentes lenguajes de scripting.</seg>
       </tuv>
     </tu>
     <tu>
