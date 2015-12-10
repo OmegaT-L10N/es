@@ -1755,6 +1755,30 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185959Z" creationid="Antonio" creationdate="20151210T185959Z">
+        <seg>&lt;e0&gt;Atajos de teclado&lt;/e0&gt;: lista los métodos abreviados disponibles en el editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190057Z" creationid="Antonio" creationdate="20151210T190057Z">
+        <seg>&lt;e0&gt;Indice de palabras clave&lt;/e0&gt;: se proporciona un extenso índice de palabras clave para ayudar al lector a encontrar la información pertinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185952Z" creationid="Antonio" creationdate="20151210T185952Z">
+        <seg>&lt;e0&gt;Idiomas:&lt;/e0&gt; contiene la lista ISO de idiomas y códigos de idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184321Z" creationid="Antonio" creationdate="20151210T184321Z">
@@ -1807,6 +1831,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185053Z" creationid="Antonio" creationdate="20151210T185053Z">
         <seg>&lt;e0&gt;Segmentación&lt;/e0&gt;: las herramientas de memorias de traducción trabajan con unidades denominadas segmentos textuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190014Z" creationid="Antonio" creationdate="20151210T190004Z">
+        <seg>&lt;e0&gt;Personalización del teclado:&lt;/e0&gt; los atajos se pueden personalizar para adaptarlos a sus preferencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -7351,6 +7383,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction to tokenizers and scripts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190020Z" creationid="Antonio" creationdate="20151210T190007Z">
+        <seg>Introducción a los tokenizers y scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inuktitut</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144639Z" creationid="Antonio" creationdate="20151128T144639Z">
@@ -8011,6 +8051,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163454Z" creationid="Antonio" creationdate="20151128T163454Z">
         <seg>Notas legales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190044Z" creationid="Antonio" creationdate="20151210T190044Z">
+        <seg>Aviso legal y agradecimientos</seg>
       </tuv>
     </tu>
     <tu>
@@ -12752,6 +12800,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T204049Z" creationid="Antonio" creationdate="20151127T171413Z">
         <seg>Proyecto de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Projects</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190031Z" creationid="Antonio" creationdate="20151210T190031Z">
+        <seg>Proyectos en equipo</seg>
       </tuv>
     </tu>
     <tu>
