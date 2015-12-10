@@ -1707,10 +1707,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T184347Z" creationid="Antonio" creationdate="20151210T184347Z">
+        <seg>&lt;e0&gt;Instalación y ejecución de OmegaT: &lt;/e0&gt;este capítulo es útil cuando comienza a usar OmegaT por primera vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T110935Z" creationid="Antonio" creationdate="20151130T110935Z">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (a veces abreviado JS, que no debe confundirse): es un lenguaje de script basado en prototipos y es dinámico, débilmente tipado (es decir, de cumplimiento flexible de las reglas de escritura) y tiene funciones de primera clase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T184321Z" creationid="Antonio" creationdate="20151210T184321Z">
+        <seg>&lt;e0&gt;¡Aprenda a usar OmegaT en 5 minutos!:&lt;/e0&gt; este capítulo pretende ser un tutorial rápido para principiantes y para quienes ya conocen las herramientas CAT, mostrando el procedimiento completo, desde la apertura de un nuevo proyecto de traducción hasta la finalización de la traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6547,6 +6563,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here is a short summary of the chapters and their contents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T184230Z" creationid="Antonio" creationdate="20151210T184230Z">
+        <seg>A continuación se presenta un breve resumen de los capítulos y su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191447Z" creationid="hcartagena" creationdate="20151117T191447Z">
@@ -9310,6 +9334,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T171345Z" creationid="hcartagena" creationdate="20151116T192916Z">
         <seg>OmegaT no tiene memoria suficiente. El programa se cerrará cuando pulse Aceptar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T184143Z" creationid="Antonio" creationdate="20151210T184143Z">
+        <seg>OmegaT almacena sus traducciones y propone posibles traducciones de segmentos similares almacenados en los archivos de las memorias de traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12220,6 +12252,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summary of chapters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T184209Z" creationid="Antonio" creationdate="20151210T184209Z">
+        <seg>Resumen de capítulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sundanese</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155133Z" creationid="Antonio" creationdate="20151128T155133Z">
@@ -13289,6 +13329,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163750Z" creationid="Antonio" creationdate="20151127T163750Z">
         <seg>Este comando se ejecutará después de crear los documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T184220Z" creationid="Antonio" creationdate="20151210T184220Z">
+        <seg>Esta documentación tiene la finalidad de servir como un tutorial y como guía de referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14707,6 +14755,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230447Z" creationid="hcartagena" creationdate="20151124T230447Z">
         <seg>Al usar expresiones regulares, la cadena de reemplazo no admite referencias a grupos definidos en la cadena de búsqueda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T184203Z" creationid="Antonio" creationdate="20151210T184203Z">
+        <seg>Cuando esté listo para ver el producto final, puede exportar los archivos traducidos, abrir en la aplicación correspondiente y ver la traducción en el formato final...</seg>
       </tuv>
     </tu>
     <tu>
