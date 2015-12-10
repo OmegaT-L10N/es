@@ -1571,6 +1571,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185421Z" creationid="Antonio" creationdate="20151210T185421Z">
+        <seg>&lt;/e4&gt;También pueden ser complejas, permitiéndote, por ejemplo, buscar segmentos en los que el texto de destino contiene dos o más espacios consecutivos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T140427Z" creationid="Antonio" creationdate="20151127T173810Z">
@@ -1695,6 +1703,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T164305Z" creationid="Antonio" creationdate="20151128T073121Z">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; Copyright © 2000-2015 Keith Godfrey, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich y Michael Zakharov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185453Z" creationid="Antonio" creationdate="20151210T185453Z">
+        <seg>&lt;e0&gt;Diccionarios, Glosarios&lt;/e0&gt;, &lt;e1&gt;Traducción automática&lt;/e1&gt; y &lt;e2&gt;Corrector ortográfico:&lt;/e2&gt; OmegaT habilita una amplia gama de diccionarios y glosarios. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6851,6 +6867,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185509Z" creationid="Antonio" creationdate="20151210T185509Z">
+        <seg>Si dispone de una conexión a Internet, puede utilizar en OmegaT varios servicios TA, como Google Translate y Microsoft Translator. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T110903Z" creationid="Antonio" creationdate="20151127T110854Z">
@@ -7091,6 +7115,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T105412Z" creationid="Helli" creationdate="20150526T115204Z">
         <seg>En el ejemplo arriba, dos scripts (posición 1 y 2) ya han sido añadido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185433Z" creationid="Antonio" creationdate="20151210T185433Z">
+        <seg>En este caso la expresión regular ^s^s+ se utiliza para encontrar y listar los segmentos que cumplen esta condición. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10594,6 +10626,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230007Z" creationid="hcartagena" creationdate="20151124T230007Z">
         <seg>La búsqueda con expresiones regulares encuentra expresiones regulares de Java, que están documentadas en el manual de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T185438Z" creationid="Antonio" creationdate="20151210T185438Z">
+        <seg>Las expresiones regulares también se utilizan ampliamente en las reglas de segmentación.</seg>
       </tuv>
     </tu>
     <tu>
