@@ -13083,8 +13083,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The LanguageTool plugin is included in OmegaT.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T162829Z" creationid="Antonio" creationdate="20151128T162829Z">
-        <seg>El plugin LanguageTool está incluido en OmegaT.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T195643Z" creationid="Antonio" creationdate="20151128T162829Z">
+        <seg>El complemento LanguageTool está incluido en OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
