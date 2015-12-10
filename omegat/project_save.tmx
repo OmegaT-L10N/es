@@ -13356,8 +13356,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T144127Z" creationid="Antonio" creationdate="20151130T144127Z">
-        <seg>Los posibles keyevents (teclas) se indican en el siguiente documento de Java 1.6, extraída de Oracle: &lt;u0&gt;Java 1.6 descripción de keyEvents&lt;/u0&gt;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T205810Z" creationid="Antonio" creationdate="20151130T144127Z">
+        <seg>Los posibles keyevents (teclas) se indican en el siguiente documento de Java 1.6, procedente de Oracle: &lt;u0&gt;Java 1.6 descripción de keyEvents&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
