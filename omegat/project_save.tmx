@@ -14719,6 +14719,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T184036Z" creationid="Antonio" creationdate="20151210T184036Z">
+        <seg>Cuando usted le indica a OmegaT los archivos que desea traducir, el programa buscará los archivos que sean de los formatos admitidos, aplicando las reglas de los filtros de archivo, donde reconocerá los elementos de texto de estos archivos, separando los grupos de texto de acuerdo con las reglas de segmentación y le mostrará los segmentos para que pueda proceder con la traducción uno por uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whenever you want to see what your</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222321Z" creationid="hcartagena" creationdate="20151201T222248Z">
