@@ -2509,8 +2509,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151204T200359Z" creationid="Antonio" creationdate="20151204T200359Z">
-        <seg>**Agradecimientos</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190114Z" creationid="Antonio" creationdate="20151204T200359Z">
+        <seg>Agradecimientos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4709,6 +4709,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190219Z" creationid="Antonio" creationdate="20151210T190219Z">
+        <seg>Didier Briel: no podría hacer nada sin la ayuda paciente y constante de Didier con los recovecos de DocBook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175039Z" creationid="Antonio" creationdate="20151127T175039Z">
@@ -5742,6 +5750,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142315Z" creationid="hcartagena" creationdate="20151117T142315Z">
         <seg>Código de salida: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explicit thanks to:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190151Z" creationid="Antonio" creationdate="20151210T190151Z">
+        <seg>Agradecimiento especial a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8343,6 +8359,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190209Z" creationid="Antonio" creationdate="20151210T190209Z">
+        <seg>Marc Prior: por corregir el primer borrador fue una expresión de su amor por OmegaT y por el idioma inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175455Z" creationid="Antonio" creationdate="20151127T175455Z">
@@ -9222,6 +9246,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190248Z" creationid="Antonio" creationdate="20151210T190248Z">
+        <seg>Por no mencionar su atención y diligencia para conservar los repositorios intactos y en buen orden de funcionamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075103Z" creationid="Antonio" creationdate="20151127T075103Z">
@@ -9694,6 +9726,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222916Z" creationid="hcartagena" creationdate="20151201T222916Z">
         <seg>Cuando se haya asegurado de que no hay errores de etiquetas en su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190312Z" creationid="Antonio" creationdate="20151210T190312Z">
+        <seg>Podríamos preguntarnos cuántos artículos y preposiciones faltarían sin su inestimable ayuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11252,6 +11292,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223501Z" creationid="hcartagena" creationdate="20151116T223501Z">
         <seg>Muestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190255Z" creationid="Antonio" creationdate="20151210T190255Z">
+        <seg>Samuel Murray: por el capítulo de introducción "¡Comienza a usar OmegaT en 5 Minutos!".</seg>
       </tuv>
     </tu>
     <tu>
@@ -12942,6 +12990,14 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thank you all!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190117Z" creationid="Antonio" creationdate="20151210T190117Z">
+        <seg>¡Gracias a todos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -13625,6 +13681,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223451Z" creationid="hcartagena" creationdate="20151116T223451Z">
         <seg>Este es el aspecto que tendrá el texto en pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190147Z" creationid="Antonio" creationdate="20151210T190147Z">
+        <seg>Sin embargo, este manual no sería posible sin la ayuda y apoyo de muchas personas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14967,6 +15031,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whatever the inconsistencies, omissions and straightforward errors you may find in the present version, I declare them all my own.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190137Z" creationid="Antonio" creationdate="20151210T190137Z">
+        <seg>Todas las incoherencias, omisiones y errores claros que pueda encontrar en la presente versión, son todos mios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163242Z" creationid="Antonio" creationdate="20151128T163136Z">
@@ -15077,6 +15149,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230052Z" creationid="hcartagena" creationdate="20151124T230012Z">
         <seg>Comodines:
 La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will Helton: his final reading of the draft has spared me a lot of embarrassment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T190305Z" creationid="Antonio" creationdate="20151210T190305Z">
+        <seg>Will Helton: su lectura final del borrador me ha ahorrado muchos bochornos.</seg>
       </tuv>
     </tu>
     <tu>
