@@ -8282,8 +8282,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Changed</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T190236Z" creationid="Antonio" creationdate="20151126T152916Z">
-        <seg>Coincidencias con cambios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000906Z" creationid="Antonio" creationdate="20151126T152916Z">
+        <seg>Cambios en coincidencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -8309,8 +8309,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T163002Z" creationid="Antonio" creationdate="20151126T152856Z">
-        <seg>Coincidencias insertadas activo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000830Z" creationid="Antonio" creationdate="20151126T152856Z">
+        <seg>Coincidencias insertadas en segmento activo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,8 +8318,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162956Z" creationid="Antonio" creationdate="20151126T152837Z">
-        <seg>Coincidencias insertadas inactivo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000848Z" creationid="Antonio" creationdate="20151126T152837Z">
+        <seg>Coincidencias insertadas en segmento inactivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10608,8 +10608,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Remove text target</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000533Z" creationid="Antonio" creationdate="20151126T153251Z">
-        <seg>Destino de texto eliminado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000748Z" creationid="Antonio" creationdate="20151126T153251Z">
+        <seg>Texto a eliminar de la traducción</seg>
       </tuv>
     </tu>
     <tu>
