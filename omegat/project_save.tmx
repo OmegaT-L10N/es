@@ -609,8 +609,8 @@
       <tuv lang="EN">
         <seg>&amp;Modification Info</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T175311Z" creationid="Antonio" creationdate="20151127T175311Z">
-        <seg>Información de &amp;modificación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000019Z" creationid="Antonio" creationdate="20151127T175311Z">
+        <seg>Información sobre &amp;modificaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -8487,8 +8487,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Modification info</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T153838Z" creationid="Antonio" creationdate="20151126T153838Z">
-        <seg>Modificación info</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000026Z" creationid="Antonio" creationdate="20151126T153838Z">
+        <seg>Información sobre modificaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -8511,8 +8511,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Modification info text</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T153827Z" creationid="Antonio" creationdate="20151126T153827Z">
-        <seg>Modificación texto info</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000246Z" creationid="Antonio" creationdate="20151126T153827Z">
+        <seg>Texto de información sobre modificaciones</seg>
       </tuv>
     </tu>
     <tu>
