@@ -3182,8 +3182,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Avaric</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T082020Z" creationid="Antonio" creationdate="20151128T082020Z">
-        <seg>Aváro</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T191302Z" creationid="Antonio" creationdate="20151128T082020Z">
+        <seg>Ávaro</seg>
       </tuv>
     </tu>
     <tu>
@@ -6869,8 +6869,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>ISO 639-1/639-2 Language code list</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T081657Z" creationid="Antonio" creationdate="20151128T081657Z">
-        <seg>Lista de códigos de idioma ISO 639-1/639-2 </seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T191128Z" creationid="Antonio" creationdate="20151128T081657Z">
+        <seg>Lista de códigos de idioma de la norma ISO 639-1/639-2 </seg>
       </tuv>
     </tu>
     <tu>
@@ -10053,8 +10053,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T081640Z" creationid="Antonio" creationdate="20151128T081640Z">
-        <seg>Por favor, consule la &lt;a0&gt;Tabla de código ISO 639&lt;/a0&gt; para  obtener información posterior y actualizada sobre los códigos de idioma.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20151210T191116Z" creationid="Antonio" creationdate="20151128T081640Z">
+        <seg>Por favor, consule la &lt;a0&gt;Tabla de códigos ISO 639&lt;/a0&gt; para  obtener información posterior y actualizada sobre los códigos de idioma.</seg>
       </tuv>
     </tu>
     <tu>
