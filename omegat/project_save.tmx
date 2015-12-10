@@ -8912,8 +8912,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Non-breakable spaces</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T153239Z" creationid="Antonio" creationdate="20151126T153239Z">
-        <seg>Espacios irrompibles</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000537Z" creationid="Antonio" creationdate="20151126T153239Z">
+        <seg>Espacios duros</seg>
       </tuv>
     </tu>
     <tu>
@@ -10608,8 +10608,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Remove text target</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T190515Z" creationid="Antonio" creationdate="20151126T153251Z">
-        <seg>Eliminar texto de la traducción</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000533Z" creationid="Antonio" creationdate="20151126T153251Z">
+        <seg>Destino de texto eliminado</seg>
       </tuv>
     </tu>
     <tu>
