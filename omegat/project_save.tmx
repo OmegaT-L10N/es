@@ -4775,8 +4775,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T151001Z" creationid="Antonio" creationdate="20151126T151001Z">
-        <seg>¿Desea reemplazarlo por el que está trasladando?</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T001311Z" creationid="Antonio" creationdate="20151126T151001Z">
+        <seg>¿Desea reemplazarlo por el que está moviendo?</seg>
       </tuv>
     </tu>
     <tu>
