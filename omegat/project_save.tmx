@@ -2037,8 +2037,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162755Z" creationid="Antonio" creationdate="20151126T152603Z">
-        <seg>&lt;html&gt;&lt;i&gt;Opciones&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB para avanzar&lt;/i&gt; marcada&lt;/html&gt;</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T001156Z" creationid="Antonio" creationdate="20151126T152603Z">
+        <seg>&lt;html&gt;&lt;i&gt;Opciones&lt;/i&gt; &amp;gt; &lt;i&gt;Usar tabulador para avanzar&lt;/i&gt; está marcada&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2849,8 +2849,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to reset all custom colours?</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162806Z" creationid="Antonio" creationdate="20151126T152630Z">
-        <seg>¿Está seguro de que desea restablecer todos los colores personalizados?</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T001036Z" creationid="Antonio" creationdate="20151126T152630Z">
+        <seg>¿Realmente desea restablecer todos los colores personalizados?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8291,8 +8291,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Deleted Active</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162948Z" creationid="Antonio" creationdate="20151126T152826Z">
-        <seg>Coincidencias borradas activo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000950Z" creationid="Antonio" creationdate="20151126T152826Z">
+        <seg>Texto borrado en coincidencias activas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8300,8 +8300,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Deleted Inactive</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T162936Z" creationid="Antonio" creationdate="20151126T152813Z">
-        <seg>Coincidencias borradas inactivo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T001004Z" creationid="Antonio" creationdate="20151126T152813Z">
+        <seg>Texto borrado en coincidencias inactivas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8309,8 +8309,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000830Z" creationid="Antonio" creationdate="20151126T152856Z">
-        <seg>Coincidencias insertadas en segmento activo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000934Z" creationid="Antonio" creationdate="20151126T152856Z">
+        <seg>Texto insertado en coincidencias activas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,8 +8318,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000848Z" creationid="Antonio" creationdate="20151126T152837Z">
-        <seg>Coincidencias insertadas en segmento inactivo</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000941Z" creationid="Antonio" creationdate="20151126T152837Z">
+        <seg>Texto insertado en coincidencias inactivas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8327,8 +8327,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Matches Unchanged</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151202T174022Z" creationid="Antonio" creationdate="20151126T152908Z">
-        <seg>Coincidencias sin cambios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T000920Z" creationid="Antonio" creationdate="20151126T152908Z">
+        <seg>Sin cambios en coincidencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -9837,8 +9837,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="EN">
         <seg>Please restart the application to correctly display the new colours.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152611Z" creationid="Antonio" creationdate="20151126T152611Z">
-        <seg>Reinicie la aplicación para mostrar correctamente los nuevos colores.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T001107Z" creationid="Antonio" creationdate="20151126T152611Z">
+        <seg>Reinicie la aplicación para mostrar correctamente los colores nuevos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12996,8 +12996,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T152619Z" creationid="Antonio" creationdate="20151126T152619Z">
-        <seg>Los nuevos colores se han guardado.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T001055Z" creationid="Antonio" creationdate="20151126T152619Z">
+        <seg>Se han guardado los colores nuevos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14263,8 +14263,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T172323Z" creationid="hcartagena" creationdate="20151116T204012Z">
-        <seg>Usar &amp;tabulación para avanzar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20151210T001140Z" creationid="hcartagena" creationdate="20151116T204012Z">
+        <seg>Usar &amp;tabulador para avanzar</seg>
       </tuv>
     </tu>
     <tu>
