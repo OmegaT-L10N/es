@@ -12106,6 +12106,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T221833Z" creationid="Antonio" creationdate="20160124T221833Z">
+        <seg>Seleccione &lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; Aparece el diálogo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173219Z" creationid="Antonio" creationdate="20151127T173219Z">
