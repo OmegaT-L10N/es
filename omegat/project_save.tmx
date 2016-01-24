@@ -10733,6 +10733,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Projects can be managed according to your development style and needs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T220143Z" creationid="Antonio" creationdate="20160124T220143Z">
+        <seg>Los proyectos se pueden administrar según sus necesidades y su estilo de desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131515Z" creationid="Helli" creationdate="20150526T131515Z">
@@ -12294,6 +12302,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T214320Z" creationid="Antonio" creationdate="20160124T214320Z">
         <seg>Primero, inicie sesión en el sitio, o bien, si es la primera vez que accede al sitio, regístrese y anote su nombre de usuario y su contraseña para futuros proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T220234Z" creationid="Antonio" creationdate="20160124T220234Z">
+        <seg>Al igual que en el caso de los proyectos de OmegaT,  tendrá que disponer de distintos repositorios para distintos pares de idiomas.</seg>
       </tuv>
     </tu>
     <tu>
