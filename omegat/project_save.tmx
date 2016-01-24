@@ -4293,6 +4293,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T221643Z" creationid="Antonio" creationdate="20160124T221643Z">
+        <seg>Cree una carpeta vacía, donde guardará su proyecto, y haga click en ella con el botón derecho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T230129Z" creationid="Antonio" creationdate="20151127T172618Z">
@@ -13626,6 +13634,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The repository is empty at this moment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T221522Z" creationid="Antonio" creationdate="20160124T221514Z">
+        <seg>El repositorio está vacío en este momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185118Z" creationid="Antonio" creationdate="20151210T185118Z">
@@ -15816,6 +15832,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T195339Z" creationid="Antonio" creationdate="20151128T161905Z">
         <seg>Puede considerar LangugeTool como un software para detectar errores que no puede detectar un simple corrector  ortográfico, por ejemplo,  confundir allí y allá,  ahora y hora, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You create first an empty client folder on your disk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T221610Z" creationid="Antonio" creationdate="20160124T221610Z">
+        <seg>En primer lugar, usted creará una carpeta de cliente vacía en su disco.</seg>
       </tuv>
     </tu>
     <tu>
