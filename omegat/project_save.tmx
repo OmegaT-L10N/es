@@ -13458,6 +13458,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T210903Z" creationid="Antonio" creationdate="20160124T210903Z">
+        <seg>El servidor conserva la información al realizar la operación de checkout, de manera que luego se puede realizar la consolidación (commit; véase más abajo) de una manera ordenada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T205046Z" creationid="Antonio" creationdate="20151130T114927Z">
