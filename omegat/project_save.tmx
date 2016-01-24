@@ -9930,6 +9930,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T204034Z" creationid="Antonio" creationdate="20160124T204034Z">
+        <seg>Otros sistemas operativos (Linux, OS X) ofrecen paquetes similares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Out-of-order</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T232840Z" creationid="Antonio" creationdate="20151127T163402Z">
