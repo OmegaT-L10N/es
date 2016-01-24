@@ -9430,6 +9430,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the team members have to be registered first, before you can add them to the project (Note: in the free version of ProjectLocker you are allowed only two users per project).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T220114Z" creationid="Antonio" creationdate="20160124T220114Z">
+        <seg>Observe que primero es necesario registrar a los miembros del equipo, para poder añadirlos al proyecto (Nota: en la versión gratuita de ProyectLocker, solo puede haber dos usuarios por proyecto). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="ES">
