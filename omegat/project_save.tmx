@@ -3869,6 +3869,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T215525Z" creationid="Antonio" creationdate="20160124T215525Z">
+        <seg>Haga clic en &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T235957Z" creationid="hcartagena" creationdate="20151124T235941Z">
@@ -9962,6 +9970,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the&lt;e0&gt; Projects&lt;/e0&gt; view for your account.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T215601Z" creationid="Antonio" creationdate="20160124T215601Z">
+        <seg>Abra la vista &lt;e0&gt; Projects&lt;/e0&gt; correspondiente a su cuenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194147Z" creationid="Víctor Parra" creationdate="20151126T194147Z">
@@ -13315,6 +13331,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T215711Z" creationid="Antonio" creationdate="20160124T215711Z">
+        <seg>La URL que se muestra bajo Project Services la utilizará SVN para conectar clientes con el servidor SVN que acaba de establecer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T204443Z" creationid="Antonio" creationdate="20151130T163628Z">
@@ -13889,6 +13913,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164035Z" creationid="Antonio" creationdate="20151127T164035Z">
         <seg>Este es un repositorio de Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is also the place to add members of the team to the project and assign them their rights.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T215811Z" creationid="Antonio" creationdate="20160124T215811Z">
+        <seg>Aquí también es donde se deben añadir al proyecto miembros del equipo y asignarles sus derechos.</seg>
       </tuv>
     </tu>
     <tu>
