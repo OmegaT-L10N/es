@@ -2371,6 +2371,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Subversion&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212250Z" creationid="Antonio" creationdate="20160124T212250Z">
+        <seg>&lt;p0&gt;Equipos de proyecto&lt;/p0&gt; &lt;s1&gt;Subversion&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221356Z" creationid="hcartagena" creationdate="20151201T221356Z">
@@ -12034,6 +12042,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sharing a project using SVN</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212310Z" creationid="Antonio" creationdate="20160124T212310Z">
+        <seg>Compartir un proyecto usando SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+C</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T152000Z" creationid="Antonio" creationdate="20151130T152000Z">
@@ -13622,6 +13638,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165553Z" creationid="hcartagena" creationdate="20151120T165553Z">
         <seg>Entonces, mientras se traduce del francés canadiense, su proyecto utilizará todas las reglas definidas para toda la cadena de idiomas en el orden correcto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two possibilities to run an SVN server: you can install SVN on your own server or you can use a hosted service.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212441Z" creationid="Antonio" creationdate="20160124T212441Z">
+        <seg>Hay dos posibilidades para operar un servidor SVN: puede instalar SVN en su propio servidor o puede utilizar un servicio de acogida.</seg>
       </tuv>
     </tu>
     <tu>
