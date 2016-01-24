@@ -6386,6 +6386,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T221255Z" creationid="Antonio" creationdate="20160124T221255Z">
+        <seg>Para el ejemplo que hemos mostrado aquí, nos decidimos por el proyecto de OmegaT: un solo repositorio, por razones de simplicidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153158Z" creationid="Helli" creationdate="20150526T153136Z">
@@ -7251,6 +7259,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131142Z" creationid="Helli" creationdate="20150526T130952Z">
         <seg>Importar archivos fuente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing the project to SVN repository - Windows</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T221355Z" creationid="Antonio" creationdate="20160124T221355Z">
+        <seg>Importación del proyecto en el repositorio de SVN - Windows </seg>
       </tuv>
     </tu>
     <tu>
