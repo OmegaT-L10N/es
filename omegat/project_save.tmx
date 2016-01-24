@@ -13371,6 +13371,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T221100Z" creationid="Antonio" creationdate="20160124T221100Z">
+        <seg>La alternativa es tener un solo repositorio con subcarpetas, &lt;l0&gt;Proyecto1&lt;/l0&gt;, &lt;l1&gt;Proyecto2&lt;/l1&gt;, etc., y compartir el material común a través de las carpetas&lt;l2&gt;tm&lt;/l2&gt;, un &lt;l3&gt;glossary&lt;/l3&gt; y &lt;l4&gt;dictionary&lt;/l4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163818Z" creationid="Antonio" creationdate="20151128T163731Z">
@@ -15494,6 +15502,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201835Z" creationid="hcartagena" creationdate="20151119T201835Z">
         <seg>Recursos de Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T220904Z" creationid="Antonio" creationdate="20160124T220904Z">
+        <seg>Dentro de cada par de idiomas, también es mejor mantener separados los distintos temas y los distinttos clientes, en distintos repositorios.</seg>
       </tuv>
     </tu>
     <tu>
