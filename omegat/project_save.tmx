@@ -13165,8 +13165,8 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       <tuv lang="EN">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T163628Z" creationid="Antonio" creationdate="20151130T163628Z">
-        <seg>La ventaja para el equipo de traductores de usar un sistema de control de versiones se puede resumir así:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T204443Z" creationid="Antonio" creationdate="20151130T163628Z">
+        <seg>Las ventajas que aporta al equipo de traductores el hecho de utilizar un sistema de control de versiones se puede resumir así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13428,8 +13428,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T164634Z" creationid="Antonio" creationdate="20151130T164634Z">
-        <seg>El servidor puede existir en la red local, pero en la mayoría de los casos estará disponible en Internet, es decir, mediante  una dirección URL.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T204523Z" creationid="Antonio" creationdate="20151130T164634Z">
+        <seg>El servidor puede existir en la red local, pero en la mayoría de los casos estará disponible en Internet, es decir, mediante una dirección URL.</seg>
       </tuv>
     </tu>
     <tu>
