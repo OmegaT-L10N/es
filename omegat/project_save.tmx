@@ -1883,6 +1883,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T203920Z" creationid="Antonio" creationdate="20160124T203920Z">
+        <seg>&lt;e0&gt;Cliente de VCS: &lt;/e0&gt;Para interrelacionarse con el servidor, se debe instalar un cliente de SVN o de Git en equipos de los "jefes de proyecto", que participen en el proyecto de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T164452Z" creationid="Antonio" creationdate="20151130T164452Z">
@@ -9764,8 +9772,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151202T173919Z" creationid="Antonio" creationdate="20151130T165155Z">
-        <seg>Uno de los miembros del equipo, el administrador de proyecto, debe estar familiarizado con el manejo del lado del servidor, es decir, con el trabajo de configurar el entorno, importar el proyecto de OmegaT, asignar los derechos de acceso a los miembros del equipo, resolver los conflictos, etc..</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T203721Z" creationid="Antonio" creationdate="20151130T165155Z">
+        <seg>Uno de los miembros del equipo, el administrador de proyecto, debe estar familiarizado con el manejo del lado del servidor, es decir, con el trabajo de configurar el entorno, importar el proyecto de OmegaT, asignar los derechos de acceso a los miembros del equipo, resolver los conflictos, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14889,6 +14897,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183609Z" creationid="hcartagena" creationdate="20151119T183609Z">
         <seg>Versión: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Very popular clients for Windows environment are &lt;u1&gt;TortoiseSVN&lt;/u1&gt; and &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T203958Z" creationid="Antonio" creationdate="20160124T203958Z">
+        <seg>Para el entorno Windows, son clientes muy populares los programas &lt;u1&gt;TortoiseSVN&lt;/u1&gt; y &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
