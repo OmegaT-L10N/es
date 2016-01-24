@@ -1915,6 +1915,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T211717Z" creationid="Antonio" creationdate="20160124T211717Z">
+        <seg>&lt;e0&gt;consolidación (commit): &lt;/e0&gt;cuando está preparada una nueva versión local del material que se ha retirado (ckeckout) del servidor para trabajar, se puede guardar en el repositorio y de esta manera quedará a disposición del resto del equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T204710Z" creationid="Antonio" creationdate="20160124T204710Z">
@@ -13462,6 +13470,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T210903Z" creationid="Antonio" creationdate="20160124T210903Z">
         <seg>El servidor conserva la información al realizar la operación de checkout, de manera que luego se puede realizar la consolidación (commit; véase más abajo) de una manera ordenada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server makes sure that any conflicting changes, due to two members working on the same checked-out contents, will be resolved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T211908Z" creationid="Antonio" creationdate="20160124T211908Z">
+        <seg>El servidor se asegura de que se resuelva cualquier cambio que suponga un conflicto, por ejemplo porque dos miembros estén trabajando con el mismo contenido que se ha retirado del servidor.</seg>
       </tuv>
     </tu>
     <tu>
