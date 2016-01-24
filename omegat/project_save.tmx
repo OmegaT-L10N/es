@@ -6266,6 +6266,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T213256Z" creationid="Antonio" creationdate="20160124T213256Z">
+        <seg>Para Windows, recomendamos &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223750Z" creationid="hcartagena" creationdate="20151201T223750Z">
