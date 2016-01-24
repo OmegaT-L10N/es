@@ -1195,6 +1195,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>( &lt;l0&gt;OmegaT&lt;/l0&gt; and &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;in the example used here)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T215318Z" creationid="Antonio" creationdate="20160124T215318Z">
+        <seg>( &lt;l0&gt;OmegaT&lt;/l0&gt; y &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;en el ejemplo que usamos aquí)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T174718Z" creationid="Antonio" creationdate="20151127T174718Z">
@@ -3833,6 +3841,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165337Z" creationid="hcartagena" creationdate="20151120T165327Z">
         <seg>Chino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T215334Z" creationid="Antonio" creationdate="20160124T215334Z">
+        <seg>Seleccione &lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
