@@ -2827,6 +2827,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212801Z" creationid="Antonio" creationdate="20160124T212801Z">
+        <seg>Como alternativa, para evitar este problema, puede establecer un servidor SVN privado, por ejemplo, si ya tiene un servidor Apache que incluye el software en cuestión (por ejemplo, VisualSVN). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162315Z" creationid="Helli" creationdate="20150526T141051Z">
@@ -15223,6 +15231,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212613Z" creationid="Antonio" creationdate="20160124T212613Z">
+        <seg>Cuando se utiliza un servicio externo, debe tener presente las posibles consecuencia en cuanto  a la confidencialidad, ya que está cargando el documento original en un servidor sobre el cual no tiene usted un control directo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using regular expressions, the replacement string does not support references to groups defined in the search string.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230447Z" creationid="hcartagena" creationdate="20151124T230447Z">
@@ -17350,6 +17366,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T190906Z" creationid="Antonio" creationdate="20151210T190906Z">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212807Z" creationid="Antonio" creationdate="20160124T212807Z">
+        <seg>https://sourceforge.net/projects/macsvn/</seg>
       </tuv>
     </tu>
     <tu>
