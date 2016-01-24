@@ -1907,6 +1907,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212109Z" creationid="Antonio" creationdate="20160124T212109Z">
+        <seg>&lt;e0&gt;administrador: &lt;/e0&gt;la persona responsable de crear el repositorio y realizar su mantenimiento, es decir, cuidar del lado del servidor de la tarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T205221Z" creationid="Antonio" creationdate="20160124T205221Z">
@@ -1927,6 +1935,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T204710Z" creationid="Antonio" creationdate="20160124T204710Z">
         <seg>&lt;e0&gt;repositorio: &lt;/e0&gt;el lugar donde se guarda y se conserva el material compartido, bien en una red local o bien en Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;user&lt;/e0&gt;: a member of the team, collaborating on the common project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212230Z" creationid="Antonio" creationdate="20160124T212230Z">
+        <seg>&lt;e0&gt;usuario&lt;/e0&gt;: un miembro del equipo, que colabora en el proyecto común.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13873,6 +13889,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T173548Z" creationid="hcartagena" creationdate="20151116T223831Z">
         <seg>Para acceder a este enlace, puede copiar y pegar la URL en su navegador o abrir el Manual de Usuario en su navegador (archivo {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid any problems, one person only should have these rights at least initially.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T212142Z" creationid="Antonio" creationdate="20160124T212142Z">
+        <seg>Para evitar cualquier problema, solo una persona debería tener estos derechos, al menos al principio.</seg>
       </tuv>
     </tu>
     <tu>
