@@ -2371,6 +2371,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Creating SVN repository&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T213832Z" creationid="Antonio" creationdate="20160124T213816Z">
+        <seg>&lt;p0&gt;Equipos de proyecto&lt;/p0&gt; &lt;s1&gt;Creación de un repositorio de SVN&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Subversion&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T212250Z" creationid="Antonio" creationdate="20160124T212250Z">
@@ -4265,6 +4273,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183607Z" creationid="hcartagena" creationdate="20151119T183607Z">
         <seg>Creado por: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a repository</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T213827Z" creationid="Antonio" creationdate="20160124T213827Z">
+        <seg>Crear un repositorio</seg>
       </tuv>
     </tu>
     <tu>
@@ -6262,6 +6278,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T205404Z" creationid="hcartagena" creationdate="20151119T205404Z">
         <seg>&amp;Pies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T213753Z" creationid="Antonio" creationdate="20160124T213753Z">
+        <seg>Para Mac, puede descargar el cliente, por ejemplo de &lt;u1&gt;SourceForge&lt;/u1&gt;. Para Linux, vea la sección titulada &lt;u2&gt;Comandos y scripts de Subversion&lt;/u2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17334,6 +17358,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144212Z" creationid="Antonio" creationdate="20151130T144212Z">
         <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://projectlocker.com/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T213835Z" creationid="Antonio" creationdate="20160124T213835Z">
+        <seg>http://projectlocker.com/</seg>
       </tuv>
     </tu>
     <tu>
