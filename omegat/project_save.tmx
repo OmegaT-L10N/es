@@ -4261,6 +4261,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a new project on ProjectLocker</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T214341Z" creationid="Antonio" creationdate="20160124T214341Z">
+        <seg>Cree un proyecto nuevo en ProyectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T230129Z" creationid="Antonio" creationdate="20151127T172618Z">
@@ -12242,6 +12250,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sign in to the site first or - if it is your first time on the site, register for it and note your user name and password for the future projects.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T214320Z" creationid="Antonio" creationdate="20160124T214320Z">
+        <seg>Primero, inicie sesión en el sitio, o bien, si es la primera vez que accede al sitio, regístrese y anote su nombre de usuario y su contraseña para futuros proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplify tooltips on protected parts</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T205346Z" creationid="hcartagena" creationdate="20151124T232437Z">
@@ -14451,6 +14467,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T160936Z" creationid="Antonio" creationdate="20151128T160936Z">
         <seg>Twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the name and description of the repository.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T214357Z" creationid="Antonio" creationdate="20160124T214357Z">
+        <seg>Escriba el nombre y la descripción del repositorio.</seg>
       </tuv>
     </tu>
     <tu>
