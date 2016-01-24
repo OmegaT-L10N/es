@@ -9604,8 +9604,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T163545Z" creationid="Antonio" creationdate="20151130T163545Z">
-        <seg>OmegaT admite dos de los sistemas de control de versiones  (abreviado como VCS) más populares, &lt;u0&gt;Apache Subversion&lt;/u0&gt; (a menudo aparece como SVN, por el nombre del comando, svn) y &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T203526Z" creationid="Antonio" creationdate="20151130T163545Z">
+        <seg>OmegaT admite dos de los sistemas de control de versiones (abreviado como VCS) más populares, &lt;u0&gt;Apache Subversion&lt;/u0&gt; (a menudo aparece como SVN, por el nombre del comando, svn) y &lt;u1&gt;Git&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13165,8 +13165,8 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T163337Z" creationid="Antonio" creationdate="20151130T163337Z">
-        <seg>La traducción en grupo que ofrece OmegaT se basa en la funcionalidad de control de versión o revisiones, de uso amplio en la comunidad de software para mantener el control de cambios en el código de un programa y permitir sin trabas colaboración dentro del equipo de desarrollo.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T203455Z" creationid="Antonio" creationdate="20151130T163337Z">
+        <seg>La traducción en grupo que ofrece OmegaT se basa en la funcionalidad de control de versiones o revisiones, de uso amplio en la comunidad de software para mantener el control de cambios en el código de un programa y permitir sin trabas colaboración dentro del equipo de desarrollo.</seg>
       </tuv>
     </tu>
     <tu>
