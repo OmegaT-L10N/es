@@ -1907,6 +1907,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T205221Z" creationid="Antonio" creationdate="20160124T205221Z">
+        <seg>&lt;e0&gt;retirada del archivo (checkout):&lt;/e0&gt; la operación crea en su PC personal una copia de trabajo reflejo de los datos existentes en el repositorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T204710Z" creationid="Antonio" creationdate="20160124T204710Z">
