@@ -9390,6 +9390,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T214022Z" creationid="Antonio" creationdate="20160124T214022Z">
+        <seg>Observe que el creador del repositorio tiene, implícitamente, los derechos de administración del repositorio que se ha creado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="ES">
@@ -13486,6 +13494,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T201152Z" creationid="Antonio" creationdate="20151130T144127Z">
         <seg>Los posibles keyevents (teclas) se indican en el siguiente documento de Java 1.6, procedente de Oracle: &lt;u0&gt;Java 1.6 Descripción de keyEvents&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160124T213937Z" creationid="Antonio" creationdate="20160124T213937Z">
+        <seg>El proyecto que se presenta aprovecha el servidor SVN libre (limitado a 2 usuarios) que ofrece &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
