@@ -13525,6 +13525,14 @@ configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of the checkout folder will be marked accordingly:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T091910Z" creationid="Antonio" creationdate="20160125T091910Z">
+        <seg>El contenido de la carpeta de checkout estará unas marcas adecuadas a su situación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
