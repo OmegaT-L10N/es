@@ -14449,8 +14449,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tokenizers are included in OmegaT and active by default.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T151833Z" creationid="Helli" creationdate="20150526T151833Z">
-        <seg>Tokenizers están incluidos en OmegaT y activos por defecto.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111529Z" creationid="Helli" creationdate="20150526T151833Z">
+        <seg>Los lemmificadores (tokenizers)  están incluidos en OmegaT y están activados de manera predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
