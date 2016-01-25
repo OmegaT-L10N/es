@@ -2379,6 +2379,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Reporting bugs&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115013Z" creationid="Antonio" creationdate="20160125T115013Z">
+        <seg>&lt;p0&gt;OmegaT en la web&lt;/p0&gt; &lt;s1&gt;Informes de errores&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;SourceForge Project&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112523Z" creationid="Antonio" creationdate="20160125T112523Z">
@@ -3631,8 +3639,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T152855Z" creationid="Helli" creationdate="20150526T152855Z">
-        <seg>Informe de errores</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115019Z" creationid="Helli" creationdate="20150526T152855Z">
+        <seg>Informes de errores</seg>
       </tuv>
     </tu>
     <tu>
@@ -11248,8 +11256,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Remember that every good bug report needs just three things:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T164420Z" creationid="Helli" creationdate="20150526T153445Z">
-        <seg>Recuerde que cada  buen informe de errores necesita sólo tres cosas:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115035Z" creationid="Helli" creationdate="20150526T153445Z">
+        <seg>Recuerde que todo buen informe de errores necesita sólo tres cosas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16090,6 +16098,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also file &lt;u6&gt;bug reports&lt;/u6&gt; and &lt;u7&gt;requests for enhancements.&lt;/u7&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T114950Z" creationid="Antonio" creationdate="20160125T114950Z">
+        <seg>También puede presentar &lt;u6&gt;informes de errores&lt;/u6&gt; y &lt;u7&gt;propuestas de mejora&lt;/u7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also file &lt;/f21&gt;&lt;a22&gt;bug reports&lt;/a22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;and &lt;/f24&gt;&lt;a25&gt;requests for enhancements.&lt;/a25&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150527T101636Z" creationid="Helli" creationdate="20150526T153344Z">
@@ -17902,6 +17918,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151202T173922Z" creationid="Antonio" creationdate="20151202T173922Z">
         <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115054Z" creationid="Antonio" creationdate="20160125T115054Z">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
       </tuv>
     </tu>
     <tu>
