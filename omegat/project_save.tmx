@@ -6548,8 +6548,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T153158Z" creationid="Helli" creationdate="20150526T153136Z">
-        <seg>Para la última versión de OmegaT, consulte la página de descargas en www.omegat.org.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T114910Z" creationid="Helli" creationdate="20150526T153136Z">
+        <seg>Puede obtener la última versión de OmegaT, en la página de descargas de www.omegat.org.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13505,6 +13505,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T114832Z" creationid="Antonio" creationdate="20160125T114832Z">
+        <seg>El documento &lt;a5&gt;PMF&lt;/a5&gt; es un buen punto de partida para encontrar respuestas a las preguntas que se le puedan plantear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Add Finished!</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T091324Z" creationid="Antonio" creationdate="20160125T091244Z">
@@ -15341,6 +15349,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Group&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T114747Z" creationid="Antonio" creationdate="20160125T114747Z">
+        <seg>&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144035Z" creationid="Helli" creationdate="20150526T144035Z">
@@ -15359,8 +15375,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T114449Z" creationid="Antonio" creationdate="20160125T114449Z">
-        <seg>**Se proporciona asistencia al usuario está proporcionado basado en aportaciones voluntarias en el &lt;a3&gt;&lt;s4&gt;Grupo&lt;/s4&gt; de usuarios</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T114729Z" creationid="Antonio" creationdate="20160125T114449Z">
+        <seg>Se proporciona asistencia al usuario a través de la aportación de voluntarios, en el &lt;u3&gt;&lt;a4&gt;Grupo de usuarios de OmegaT&lt;/a4&gt; de Yahoo!</seg>
       </tuv>
     </tu>
     <tu>
