@@ -6572,8 +6572,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T114910Z" creationid="Helli" creationdate="20150526T153136Z">
-        <seg>Puede obtener la última versión de OmegaT, en la página de descargas de www.omegat.org.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150442Z" creationid="Helli" creationdate="20150526T153136Z">
+        <seg>Puede obtener la última versión de OmegaT en la página de descargas de www.omegat.org.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13539,8 +13539,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T114832Z" creationid="Antonio" creationdate="20160125T114832Z">
-        <seg>El documento &lt;a5&gt;PMF&lt;/a5&gt; es un buen punto de partida para encontrar respuestas a las preguntas que se le puedan plantear.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150429Z" creationid="Antonio" creationdate="20160125T114832Z">
+        <seg>El documento &lt;u5&gt;PMF&lt;/u5&gt; es un buen punto de partida para encontrar respuestas a las preguntas que se le puedan plantear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14116,8 +14116,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T114441Z" creationid="Antonio" creationdate="20160125T114441Z">
-        <seg>La &lt;u0&gt; &lt;a1&gt;página&lt;/a1&gt; OmegaT &lt;/u0&gt; contiene enlaces a numerosos recursos OmegaT.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150331Z" creationid="Antonio" creationdate="20160125T114441Z">
+        <seg>La &lt;u0&gt; &lt;a1&gt;página&lt;/a1&gt; OmegaT &lt;/u0&gt; contiene enlaces a numerosos recursos de &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
