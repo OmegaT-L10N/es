@@ -2517,16 +2517,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T111110Z" creationid="Helli" creationdate="20150526T151228Z">
-        <seg>Por ejemplo, un lemificador para el idioma castellano, debería identificar, a modo de ejemplo, as cadenas "cats" (y posiblemente "catlike", catty, etc.) tomando como base la raíz "cat", y "stemmer", "stemming", "stemmed" tomando como base "stem".</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112000Z" creationid="Helli" creationdate="20150526T151228Z">
+        <seg>Por ejemplo, un analizador para el idioma inglés, debería identificar, a modo de ejemplo, las cadenas "cats" (y posiblemente "catlike", catty, etc.) tomando como base la raíz "cat", y "stemmer", "stemming", "stemmed" tomando como base "stem".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T151314Z" creationid="Helli" creationdate="20150526T151314Z">
-        <seg>Un  algoritmo stemming reduce las palabras "fishing", "fished", "fish", y "*fisher" a la palabra de raíz, "fish".</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112025Z" creationid="Helli" creationdate="20150526T151314Z">
+        <seg>Un  algoritmo de extracción de raíces reduce las palabras "fishing", "fished", "fish", y "*fisher" a la palabra de raíz, "fish".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3543,8 +3543,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T151531Z" creationid="Helli" creationdate="20150526T151531Z">
-        <seg>Tomando prestado un ejemplo del esloveno, aquí "bien" en todos las posibles formas gramaticalmente correctas:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112105Z" creationid="Helli" creationdate="20150526T151531Z">
+        <seg>Tomando prestado un ejemplo del esloveno, aquí aparece "bien" en todos las posibles formas gramaticalmente correctas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7409,8 +7409,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T152228Z" creationid="Helli" creationdate="20150526T152228Z">
-        <seg>En caso de que ningún tokenizer exista para las lenguas actuales, OmegaT usa Hunspell en cambio (en este caso, asegúrese que los diccionarios Hunspell relevantes estén instalados).</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111833Z" creationid="Helli" creationdate="20150526T152228Z">
+        <seg>En caso de que no exista ningún analizador ningún tokenizer exista para las lenguas actuales, OmegaT usa Hunspell en cambio (en este caso, asegúrese que los diccionarios Hunspell relevantes estén instalados).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7831,8 +7831,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T152018Z" creationid="Helli" creationdate="20150526T152018Z">
-        <seg>Es posible seleccionar otro tokenizer (Lengua Tokenizer) o una versión diferente del tokenizer (Tokenizer Funcioamiento) de la ventana de Propiedades del Proyecto.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111819Z" creationid="Helli" creationdate="20150526T152018Z">
+        <seg>Es posible seleccionar otro analizador (Tokenizer de idoma) o una versión diferente del analizador (Tokenizer de funcionamiento) de la ventana de Propiedades del Proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14215,8 +14215,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T111311Z" creationid="Helli" creationdate="20150526T151402Z">
-        <seg>Esto es especialmente útil en caso de lenguas que construyen formas con prefijo y sufijo a partir de la raíz.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112050Z" creationid="Helli" creationdate="20150526T151402Z">
+        <seg>Esto resulta de especial utilidad con las lenguas que construyen formas con prefijo y sufijo a partir de la raíz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14433,16 +14433,16 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tokenizers</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T105503Z" creationid="Antonio" creationdate="20160125T105503Z">
-        <seg>Lemificadores</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111901Z" creationid="Antonio" creationdate="20160125T105503Z">
+        <seg>Analizadores</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T105625Z" creationid="Helli" creationdate="20150526T150333Z">
-        <seg>Los lemificadores (tokenizers, o stemming, un método para reducir una palabra a su raíz) mejoran la calidad de coincidencias al reconocer palabras flexivas en el origen y en la memoria de traducción.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111940Z" creationid="Helli" creationdate="20150526T150333Z">
+        <seg>Los analizadores (que reducen una palabra a su raíz) mejoran la calidad de coincidencias al reconocer palabras flexivas en el origen y en la memoria de traducción.</seg>
       </tuv>
     </tu>
     <tu>
