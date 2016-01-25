@@ -1963,6 +1963,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T094624Z" creationid="Antonio" creationdate="20160125T094624Z">
+        <seg>&lt;e0&gt;actualizar los archivos locales a partir de la copia del repositorio local &lt;/e0&gt; - los cambios recibidos del repositorio del servidor residen en la subcarpeta .svn pero todavía no están en los archivos y carpetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;user&lt;/e0&gt;: a member of the team, collaborating on the common project.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T212230Z" creationid="Antonio" creationdate="20160124T212230Z">
