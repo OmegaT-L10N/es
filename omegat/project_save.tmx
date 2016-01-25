@@ -7815,6 +7815,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T092818Z" creationid="Antonio" creationdate="20160125T092818Z">
+        <seg>En primer lugar se consolidarán los contenidos actuales en el repositorio del servidor y, a continuación, se actualizará la copia local del repositorio - es decir, el contenido de la subcarpeta .svn - de manera que esté actualizado cokn la versión más reciente del repositorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165318Z" creationid="hcartagena" creationdate="20151120T165318Z">
