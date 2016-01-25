@@ -14074,6 +14074,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T114441Z" creationid="Antonio" creationdate="20160125T114441Z">
+        <seg>La &lt;u0&gt; &lt;a1&gt;página&lt;/a1&gt; OmegaT &lt;/u0&gt; contiene enlaces a numerosos recursos OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165553Z" creationid="hcartagena" creationdate="20151120T165553Z">
@@ -15345,6 +15353,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164218Z" creationid="Antonio" creationdate="20151127T164218Z">
         <seg>Credenciales de usuario rechazadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T114449Z" creationid="Antonio" creationdate="20160125T114449Z">
+        <seg>**Se proporciona asistencia al usuario está proporcionado basado en aportaciones voluntarias en el &lt;a3&gt;&lt;s4&gt;Grupo&lt;/s4&gt; de usuarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -17926,6 +17942,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T190906Z" creationid="Antonio" creationdate="20151210T190906Z">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T114344Z" creationid="Antonio" creationdate="20160125T114344Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
     </tu>
     <tu>
