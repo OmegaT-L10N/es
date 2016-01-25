@@ -14111,8 +14111,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>They also improve glossary matching.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T150339Z" creationid="Helli" creationdate="20150526T150339Z">
-        <seg>También mejoran el glosario que empareja.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T110718Z" creationid="Helli" creationdate="20150526T150339Z">
+        <seg>También mejoran las concordancias obtenidas en el glosario.</seg>
       </tuv>
     </tu>
     <tu>
