@@ -7359,6 +7359,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085035Z" creationid="Antonio" creationdate="20160125T085035Z">
+        <seg>En el paso siguiente, añadieremos los archivos de OmegaT a la carpeta local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185433Z" creationid="Antonio" creationdate="20151210T185433Z">
