@@ -13559,6 +13559,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following files are to be shared among the members of the team and thus have to be included in any case:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085138Z" creationid="Antonio" creationdate="20160125T085138Z">
+        <seg>Los archivos siguientes se van a compartir entre los miembros del equipo y, por lo tanto, se deben incluir en cualquier caso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options apply to the 3.x filter only</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T204220Z" creationid="hcartagena" creationdate="20151119T204220Z">
@@ -19791,6 +19799,38 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223627Z" creationid="hcartagena" creationdate="20151201T223624Z">
         <seg>la carpeta &lt;f1&gt;/glossary/&lt;/f1&gt; dentro de la carpeta de su proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the contents of the source folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085247Z" creationid="Antonio" creationdate="20160125T085247Z">
+        <seg>el contenido de la carpeta de origen de contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the omegat project file - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085206Z" creationid="Antonio" creationdate="20160125T085206Z">
+        <seg>el archivo de proyecto de omegat - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the project-specific filters definition - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085312Z" creationid="Antonio" creationdate="20160125T085312Z">
+        <seg>la definición de los filtros específicos del proyecto - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the translation memory - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085221Z" creationid="Antonio" creationdate="20160125T085221Z">
+        <seg>la memoria de traducción - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
