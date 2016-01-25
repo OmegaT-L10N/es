@@ -2517,8 +2517,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T151228Z" creationid="Helli" creationdate="20150526T151228Z">
-        <seg>Un "stemmer" para inglés, por ejemplo, tendría que identificar los string "cats" (y posiblemente "catlike", "catty" etc.) como basado en la raíz "cat", y "stemmer", "stemming", "stemmed" como basado en"stem".</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111110Z" creationid="Helli" creationdate="20150526T151228Z">
+        <seg>Por ejemplo, un lemificador para el idioma castellano, debería identificar, a modo de ejemplo, as cadenas "cats" (y posiblemente "catlike", catty, etc.) tomando como base la raíz "cat", y "stemmer", "stemming", "stemmed" tomando como base "stem".</seg>
       </tuv>
     </tu>
     <tu>
