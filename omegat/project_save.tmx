@@ -13371,8 +13371,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The Add Finished!</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T091244Z" creationid="Antonio" creationdate="20160125T091244Z">
-        <seg>Con esto termina la operación de añadir</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T091324Z" creationid="Antonio" creationdate="20160125T091244Z">
+        <seg>Aparece la ventana Add Finished! </seg>
       </tuv>
     </tu>
     <tu>
@@ -20414,8 +20414,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>window, similar to the one below will appear:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T091252Z" creationid="Antonio" creationdate="20160125T091252Z">
-        <seg>window, similar to the one below will appear:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T091432Z" creationid="Antonio" creationdate="20160125T091252Z">
+        <seg>, similar a la que se indica a continuación:</seg>
       </tuv>
     </tu>
     <tu>
