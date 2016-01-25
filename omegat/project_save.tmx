@@ -2371,6 +2371,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Dictionaries&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T155104Z" creationid="Antonio" creationdate="20160125T155104Z">
+        <seg>&lt;p0&gt;Dictionarios&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Dictionaries&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Problems with&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T155208Z" creationid="Antonio" creationdate="20160125T155208Z">
+        <seg>Diccionarios &lt;s1&gt; Problemas con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152345Z" creationid="Antonio" creationdate="20160125T152345Z">
@@ -9117,6 +9133,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T155140Z" creationid="Antonio" creationdate="20160125T155140Z">
+        <seg>Diccionario Merriam Webster - utilización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175010Z" creationid="Antonio" creationdate="20151127T175010Z">
@@ -10889,6 +10913,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142129Z" creationid="hcartagena" creationdate="20151117T142129Z">
         <seg>Problema detectado al cargar el archivo del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T155217Z" creationid="Antonio" creationdate="20160125T155217Z">
+        <seg>Problemas con los diccionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -12778,6 +12810,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T155021Z" creationid="Antonio" creationdate="20160125T155021Z">
+        <seg>Algunos de los diccionarios se pueden usar sin condiciones, es decir, son "de uso libre", y otros, como los indicados anteriormente, están bajo la licencia GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191329Z" creationid="hcartagena" creationdate="20151117T191329Z">
@@ -13923,6 +13963,14 @@ actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T113315Z" creationid="Helli" creationdate="20150526T121400Z">
         <seg>Por ejemplo, el siguiente fragmento de código escrito en groovy analiza todos los segmentos de todos los archivos del proyecto actual y, si existe traducción, imprime el segmento de origen y de destino:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T155057Z" creationid="Antonio" creationdate="20160125T155057Z">
+        <seg>El siguiente ejemplo muestra "en plena acción" el Merriam Webster 10th:</seg>
       </tuv>
     </tu>
     <tu>
