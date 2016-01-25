@@ -1611,6 +1611,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; on the web</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112501Z" creationid="Antonio" creationdate="20160125T112501Z">
+        <seg>OmegaT en la Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Next&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112907Z" creationid="Helli" creationdate="20150526T112907Z">
@@ -1623,6 +1631,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T183727Z" creationid="Víctor Parra" creationdate="20151126T192339Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; es una herramienta multiplataforma gratuita de Traducción Asistida por Ordenador con los siguientes puntos destacados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; sites and &lt;a1&gt;OmegaT&lt;/a1&gt; SourceForge project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112632Z" creationid="Antonio" creationdate="20160125T112632Z">
+        <seg>&lt;a0&gt;Sitios de OmegaT&lt;/a0&gt; y el proyecto de  OmegaT en &lt;a1&gt;SourceForge&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2359,6 +2375,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221445Z" creationid="hcartagena" creationdate="20151201T221445Z">
         <seg>&lt;p0&gt;Menó Proyecto&lt;/p0&gt; &lt;s1&gt;Nuevo...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;SourceForge Project&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112523Z" creationid="Antonio" creationdate="20160125T112523Z">
+        <seg>&lt;p0&gt;OmegaT en la web&lt;/p0&gt; &lt;s1&gt;Proyecto en SourceForge&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9898,6 +9922,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT on the web</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112457Z" creationid="Antonio" creationdate="20160125T112457Z">
+        <seg>OmegaT en la Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T171345Z" creationid="hcartagena" creationdate="20151116T192916Z">
@@ -11264,8 +11296,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="EN">
         <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T152329Z" creationid="Helli" creationdate="20150526T152329Z">
-        <seg>Sacar todos los tokenizers de la /plugin carpeta antes de iniciar OmegaT.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112441Z" creationid="Helli" creationdate="20150526T152329Z">
+        <seg>Es necesario retirar todos los analizadores de esta carpeta /plugin carpeta antes de iniciar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17818,6 +17850,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/database?method=reportRows&amp;tbl=1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112655Z" creationid="Antonio" creationdate="20160125T112655Z">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/database?method=reportRows&amp;tbl=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112649Z" creationid="Antonio" creationdate="20160125T112649Z">
+        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://tortoisesvn.net/</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151202T173922Z" creationid="Antonio" creationdate="20151202T173922Z">
@@ -17842,6 +17890,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.omegat.org/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112646Z" creationid="Antonio" creationdate="20160125T112646Z">
+        <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081615Z" creationid="Antonio" creationdate="20151128T081615Z">
@@ -17854,6 +17910,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T213011Z" creationid="Antonio" creationdate="20160124T213011Z">
         <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112702Z" creationid="Antonio" creationdate="20160125T112702Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
     </tu>
     <tu>
