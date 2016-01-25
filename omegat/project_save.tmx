@@ -2347,6 +2347,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T154851Z" creationid="Antonio" creationdate="20160125T154851Z">
+        <seg>&lt;p0&gt;Dictionarios&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Downloading and installing&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152100Z" creationid="Antonio" creationdate="20160125T152100Z">
@@ -2355,10 +2363,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T154835Z" creationid="Antonio" creationdate="20160125T154835Z">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; Longman &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152345Z" creationid="Antonio" creationdate="20160125T152345Z">
         <seg>&lt;p0&gt;Diccionarios&lt;/p0&gt;StarDict &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T154823Z" creationid="Antonio" creationdate="20160125T154823Z">
+        <seg>&lt;p0&gt;Diccionarios&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8663,6 +8687,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T154838Z" creationid="Antonio" creationdate="20160125T154838Z">
+        <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luba-Katanga</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152414Z" creationid="Antonio" creationdate="20151128T152414Z">
@@ -9714,6 +9746,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T115732Z" creationid="Helli" creationdate="20150526T153716Z">
         <seg>Observe que los informes de error y las peticiones de mejora son públicamente visibles, así que no debería añadir ningún archivo importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T154816Z" creationid="Antonio" creationdate="20160125T154816Z">
+        <seg>Tenga en cuenta que, además de los diccionarios "origen-destino" usted puede, a través del Diccionario, acceder a información tal como:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13633,6 +13673,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T154853Z" creationid="Antonio" creationdate="20160125T154853Z">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Commit window will open and show the progress of the commit command.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T092619Z" creationid="Antonio" creationdate="20160125T092511Z">
@@ -15823,6 +15871,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T154825Z" creationid="Antonio" creationdate="20160125T154825Z">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Welsh</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161233Z" creationid="Antonio" creationdate="20151128T161233Z">
@@ -17436,6 +17492,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084233Z" creationid="Antonio" creationdate="20151128T084233Z">
         <seg>et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T154902Z" creationid="Antonio" creationdate="20160125T154902Z">
+        <seg>etc.</seg>
       </tuv>
     </tu>
     <tu>
