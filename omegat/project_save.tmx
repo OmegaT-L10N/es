@@ -2715,6 +2715,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085931Z" creationid="Antonio" creationdate="20160125T085931Z">
+        <seg>Después de copiar los archivos requeridos en la carpeta de checkout, comprobará icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222117Z" creationid="hcartagena" creationdate="20151201T222117Z">
@@ -3280,6 +3288,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T082027Z" creationid="Antonio" creationdate="20151128T082027Z">
         <seg>Avéstico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085804Z" creationid="Antonio" creationdate="20160125T085804Z">
+        <seg>En cualquier caso, evite añadir ningún archivo con la terminación &lt;f6&gt;bak&lt;/f6&gt;, con el nombre &lt;f7&gt;project_stats.txt&lt;/f7&gt; y el nombre &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, en la subcarpeta &lt;f9&gt;omegat&lt;/f9&gt;, ya que sólo serviria´n para aumentar el tamaño del repositorio sin necesidad ni beneficio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13607,6 +13623,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following two steps will bring the server version up to date:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085939Z" creationid="Antonio" creationdate="20160125T085939Z">
+        <seg>ueThe following two steps will bring the server version up to date:q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160121T095312Z" creationid="Antonio" creationdate="20151130T122436Z">
@@ -15936,6 +15960,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193020Z" creationid="hcartagena" creationdate="20151116T193020Z">
         <seg>Puede intentar solucionar este problema de dos maneras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might want to apply the same to the &lt;f10&gt;target&lt;/f10&gt; folder and its contents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085853Z" creationid="Antonio" creationdate="20160125T085853Z">
+        <seg>Lo mismo se aplica a la carpeta &lt;f10&gt;target&lt;/f10&gt; y a su contenido.</seg>
       </tuv>
     </tu>
     <tu>
