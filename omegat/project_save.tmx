@@ -8297,8 +8297,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Languages selection</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T145936Z" creationid="Helli" creationdate="20150526T145936Z">
-        <seg>Selección de lenguas</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111440Z" creationid="Helli" creationdate="20150526T145936Z">
+        <seg>Selección de idiomas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14215,8 +14215,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T151402Z" creationid="Helli" creationdate="20150526T151402Z">
-        <seg>Esto es especialmente útil en caso de lenguas que usan pre- y postfijas para las palabras de raíz.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111311Z" creationid="Helli" creationdate="20150526T151402Z">
+        <seg>Esto es especialmente útil en caso de lenguas que construyen formas con prefijo y sufijo a partir de la raíz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18438,6 +18438,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151550Z" creationid="Helli" creationdate="20150526T151550Z">
         <seg>lep, lepa, lepo - singular, masculino, femenino, neutro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T111420Z" creationid="Antonio" creationdate="20160125T111413Z">
+        <seg>lepši, lepša, lepše.</seg>
       </tuv>
     </tu>
     <tu>
