@@ -17,3 +17,4 @@ team	trabajo en grupo
 team project	proyecto de trabajo en grupo
 entry	término	cuando se refiere al glosario; de lo contrario "entrada"
 Legal notices	Aviso legal
+OmegaT on the web	OmegaT en la web
