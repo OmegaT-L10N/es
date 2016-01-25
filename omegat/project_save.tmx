@@ -4007,8 +4007,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T160901Z" creationid="Antonio" creationdate="20160125T160901Z">
-        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T160944Z" creationid="Antonio" creationdate="20160125T160901Z">
+        <seg>Realizar la operación de çç Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5321,6 +5321,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233952Z" creationid="hcartagena" creationdate="20151124T233952Z">
         <seg>Acoplar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T161025Z" creationid="Antonio" creationdate="20160125T161025Z">
+        <seg>¿La carpeta contiene tres archivos con el mismo nombre, con extensiones?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7403,6 +7411,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T161126Z" creationid="Antonio" creationdate="20160125T161126Z">
+        <seg>Si la extensión es &lt;s2&gt;tar.bz&lt;/s2&gt;, entonces usted ha olvidado descomprimirlo (con untar o winrar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -7419,6 +7435,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150603T194126Z" creationid="Helli" creationdate="20150603T153244Z">
         <seg>Si no se ha hecho ninguna sustitución en un segmento dado, el segmento objetivo será “vaciado”, es decir, queda sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T161056Z" creationid="Antonio" creationdate="20160125T161056Z">
+        <seg>Si solo aparece un archivo, verifique su extensión.</seg>
       </tuv>
     </tu>
     <tu>
