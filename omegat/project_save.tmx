@@ -3877,6 +3877,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T095655Z" creationid="Antonio" creationdate="20160125T095655Z">
+        <seg>Revise el interior de la carpeta para comprobar que la copia local del respositorio y los archivos y carpetas correspondientes se corresponden con la versión más reciente existente en el servidor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T170344Z" creationid="Antonio" creationdate="20151127T170326Z">
@@ -14351,6 +14359,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T095532Z" creationid="Antonio" creationdate="20160125T095532Z">
+        <seg>Para actualizar los archivos locales, haga clic con el botón derecho en la carpeta de checkout y seleccione &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T163851Z" creationid="Helli" creationdate="20150526T150333Z">
@@ -15249,6 +15265,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232833Z" creationid="hcartagena" creationdate="20151124T232833Z">
         <seg>Usuario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the team project in OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T095711Z" creationid="Antonio" creationdate="20160125T095711Z">
+        <seg>Utilización del proyecto de equipo en OmegaT</seg>
       </tuv>
     </tu>
     <tu>
