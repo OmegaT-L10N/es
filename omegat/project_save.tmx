@@ -6330,6 +6330,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T095844Z" creationid="Antonio" creationdate="20160125T095844Z">
+        <seg>En primer lugar, debe usar &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fix</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T232901Z" creationid="Antonio" creationdate="20151127T163301Z">
@@ -10030,6 +10038,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T084522Z" creationid="Antonio" creationdate="20160125T084522Z">
         <seg>Cuando haya terminado la operación, puede revisar esta carpeta y comprobará que contiene la subcarpeta .svn y una etiqueta verde con OK  en el icono, indicando que el contenido de la carpeta está actualizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T095823Z" creationid="Antonio" creationdate="20160125T095823Z">
+        <seg>Una vez que está configurado el proyecto en equipo, sus integrantes sólo necesitan &lt;a0&gt;OmegaT&lt;/a0&gt; para acceder este proyecto del equipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14225,6 +14241,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="victor" changedate="20151123T153730Z" creationid="hcartagena" creationdate="20151116T192415Z">
         <seg>uEsta traducción es obra del Grupo de Localización al Español, copyright© 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will actually do a checkout of the project in a local folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T095948Z" creationid="Antonio" creationdate="20160125T095948Z">
+        <seg>Esto, realmente, realizar una operación de checkout en la carpeta local.</seg>
       </tuv>
     </tu>
     <tu>
