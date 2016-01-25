@@ -5325,6 +5325,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T152529Z" creationid="Antonio" creationdate="20160125T152529Z">
+        <seg>Descargue el archivo ― debe ser un archivo tarball (extensión &lt;s0&gt;tar.bz&lt;/s0&gt; o &lt;s1&gt;tar.bz2&lt;/s1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211732Z" creationid="hcartagena" creationdate="20151119T211732Z">
@@ -14210,6 +14218,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T152646Z" creationid="Antonio" creationdate="20160125T152646Z">
+        <seg>Debe haber tres ficheros, con extensiones &lt;s0&gt;dz, idx&lt;/s0&gt; e &lt;s1&gt;ifo.&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222838Z" creationid="hcartagena" creationdate="20151201T222838Z">
@@ -15473,6 +15489,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232519Z" creationid="hcartagena" creationdate="20151124T232519Z">
         <seg>Usar plantillas personalizadas para la información sobre modificaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T152604Z" creationid="Antonio" creationdate="20160125T152604Z">
+        <seg>Use la utilidad untar o su equivalente (por ejemplo winrar en Windows) para extraer su contenido en el subdirectorio "dictionary" del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
