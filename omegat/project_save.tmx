@@ -2347,6 +2347,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T105507Z" creationid="Antonio" creationdate="20160125T105507Z">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221445Z" creationid="hcartagena" creationdate="20151201T221445Z">
@@ -2399,6 +2407,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T114729Z" creationid="Antonio" creationdate="20151130T114729Z">
         <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Personalización&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T105511Z" creationid="Antonio" creationdate="20160125T105511Z">
+        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6474,6 +6490,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T105313Z" creationid="Antonio" creationdate="20160125T105313Z">
+        <seg>A partir de este momento, para trabajar con esos archivos basta con abrir el proyecto como cualquier otro de &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T164019Z" creationid="Antonio" creationdate="20151128T164019Z">
@@ -9990,6 +10014,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222143Z" creationid="hcartagena" creationdate="20151201T222143Z">
         <seg>OmegaT presentará un segmento a la vez para que traduzca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T105443Z" creationid="Antonio" creationdate="20160125T105443Z">
+        <seg>OmegaT lo reconocerá como proyecto de equipo y sincronizará todo automáticamente, cada tres  minutos como plazo predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14395,6 +14427,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T095532Z" creationid="Antonio" creationdate="20160125T095532Z">
         <seg>Para actualizar los archivos locales, haga clic con el botón derecho en la carpeta de checkout y seleccione &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T105503Z" creationid="Antonio" creationdate="20160125T105503Z">
+        <seg>Lemificadores</seg>
       </tuv>
     </tu>
     <tu>
