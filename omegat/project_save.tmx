@@ -9149,6 +9149,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115614Z" creationid="Antonio" creationdate="20160125T115614Z">
+        <seg>Puede encontrar más información &lt;a0&gt;Painless Bug Tracking&lt;/a0&gt; artículo de Joel Spolsky.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T114803Z" creationid="Helli" creationdate="20150603T151504Z">
@@ -9616,8 +9624,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T153849Z" creationid="Helli" creationdate="20150526T153716Z">
-        <seg>Note que informes de error y las peticiones de mejora son públicamente visibles, así que no debería añadir cualquier archivos sensibles.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115732Z" creationid="Helli" creationdate="20150526T153716Z">
+        <seg>Observe que los informes de error y las peticiones de mejora son públicamente visibles, así que no debería añadir ningún archivo importante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16246,8 +16254,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T153840Z" creationid="Helli" creationdate="20150526T153710Z">
-        <seg> Debería añadir copias de archivos, porciones del registro, capturas de pantalla, y cualquier cosa más que cree que ayudará a los desarrolladores para encontrar y fijar su error.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115648Z" creationid="Helli" creationdate="20150526T153710Z">
+        <seg>Debería añadir copias de archivos, porciones del registro, capturas de pantalla, y cualquier cosa más que crea que puede ayudar a los desarrolladores para encontrar y corregir ese error.</seg>
       </tuv>
     </tu>
     <tu>
