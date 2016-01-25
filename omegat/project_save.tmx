@@ -2531,6 +2531,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T160804Z" creationid="Antonio" creationdate="20160125T160804Z">
+        <seg>&lt;p0&gt;Combinaciones de teclas&lt;/p0&gt; &lt;s1&gt;Propiedades del proyecto - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T105511Z" creationid="Antonio" creationdate="20160125T105511Z">
@@ -3997,10 +4005,26 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T160901Z" creationid="Antonio" creationdate="20160125T160901Z">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T210111Z" creationid="hcartagena" creationdate="20151124T233239Z">
         <seg>Comprobar patrones MessageFormat simples de Java ({0}, por ejemplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T160906Z" creationid="Antonio" creationdate="20160125T160850Z">
+        <seg>Compruebe que los archivos de diccionario estén en la carpeta adecuada (o en una subcarpeta de ella).</seg>
       </tuv>
     </tu>
     <tu>
