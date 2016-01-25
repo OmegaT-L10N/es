@@ -5490,8 +5490,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Enter an appropriate message into the message window and press &lt;g0&gt;OK&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T092233Z" creationid="Antonio" creationdate="20160125T092233Z">
-        <seg>Escriba el mensaje que corresponda en la ventana de mensaje y pulse &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T092523Z" creationid="Antonio" creationdate="20160125T092233Z">
+        <seg>Escriba el mensaje que corresponda en la ventana de mensaje y pulse &lt;g0&gt;Aceptar&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13397,6 +13397,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T091324Z" creationid="Antonio" creationdate="20160125T091244Z">
         <seg>Aparece la ventana Add Finished! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Commit window will open and show the progress of the commit command.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T092619Z" creationid="Antonio" creationdate="20160125T092511Z">
+        <seg>Se abrirá la ventana Commit que mostrará cómo progresa el comando commit.</seg>
       </tuv>
     </tu>
     <tu>
