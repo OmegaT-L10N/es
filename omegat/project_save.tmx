@@ -8487,6 +8487,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T084343Z" creationid="Antonio" creationdate="20160125T084343Z">
+        <seg>Asegúrese de que el campo &lt;e1&gt;Checkout directory&lt;/e1&gt; es correcto, es decir, que especifica la carpeta vacía que ha creado, y pulse &lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Malagasy</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152526Z" creationid="Antonio" creationdate="20151128T152517Z">
