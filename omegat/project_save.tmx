@@ -14939,8 +14939,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="EN">
         <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T101619Z" creationid="Antonio" creationdate="20160125T101619Z">
-        <seg>En Linux, si &lt;a2&gt;OmegaT&lt;/a2&gt; sigue pidiendo sus credenciales, puede marcar la casilla &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T105157Z" creationid="Antonio" creationdate="20160125T101619Z">
+        <seg>En Linux, si &lt;a2&gt;OmegaT&lt;/a2&gt; sigue pidiendo sus credenciales, puede marcar la casilla &lt;g3&gt;Forzar el guardado de la contraseña como texto sin formato&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
