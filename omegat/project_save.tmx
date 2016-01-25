@@ -7399,6 +7399,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;u0&gt; OmegaT PayPal account&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T151451Z" creationid="Antonio" creationdate="20160125T151451Z">
+        <seg>Valoraremos mucho cualquier aportación que haga para apoyar el desarrollo continuado de OmegaT. Haga clic en este enlace para ir a la &lt;a0&gt; cuenta de OmegaT en PayPal&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your source files are formatted files, e.g. Microsoft Word,</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222455Z" creationid="hcartagena" creationdate="20151201T222455Z">
