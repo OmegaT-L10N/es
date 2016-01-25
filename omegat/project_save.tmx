@@ -1939,6 +1939,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T092120Z" creationid="Antonio" creationdate="20160125T092120Z">
+        <seg>&lt;e0&gt;consolidar en el servidor los cambios locales: &lt;/e0&gt;haga clic con el botón derecho en la carpeta de checkout local y seleccione &lt;g1&gt;SVN Commit....&lt;/g1&gt; Se abre la ventana de Commit - véase más abajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T211717Z" creationid="Antonio" creationdate="20160124T211717Z">
@@ -3853,6 +3861,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T092202Z" creationid="Antonio" creationdate="20160125T092202Z">
+        <seg>Revise los cambios que se van a realizar - es decir, las carpetas y archivos que se añaden, en este caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T170344Z" creationid="Antonio" creationdate="20151127T170326Z">
@@ -5468,6 +5484,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232719Z" creationid="hcartagena" creationdate="20151124T232719Z">
         <seg>Introducir un término de origen, un término de destino y un comentario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter an appropriate message into the message window and press &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T092233Z" creationid="Antonio" creationdate="20160125T092233Z">
+        <seg>Escriba el mensaje que corresponda en la ventana de mensaje y pulse &lt;g0&gt;OK&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
