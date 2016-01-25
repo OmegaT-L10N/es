@@ -4221,8 +4221,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T145912Z" creationid="Antonio" creationdate="20160125T145912Z">
-        <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150549Z" creationid="Antonio" creationdate="20160125T145912Z">
+        <seg>Contribuir al proyecto de &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14439,6 +14439,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To contribute to &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150608Z" creationid="Antonio" creationdate="20160125T150608Z">
+        <seg>Para contribuir a &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T105326Z" creationid="Helli" creationdate="20150526T114437Z">
@@ -14451,6 +14459,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213505Z" creationid="hcartagena" creationdate="20151119T213505Z">
         <seg>Para elegir los archivos que serán procesados por el filtro y su codificación, seleccione el filtro del listado y haga clic en Editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150840Z" creationid="Antonio" creationdate="20160125T150840Z">
+        <seg>Para participar en el desarrollo de &lt;a3&gt;OmegaT&lt;/a3&gt; puede unirse al grupo de desarrolladores, a través de la web o enviando un correo electrónico a &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; con la palabra "suscribe" en el asunto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17432,6 +17448,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150735Z" creationid="Antonio" creationdate="20160125T150735Z">
+        <seg>Primero unáse al &lt;u0&gt;grupo de usuario&lt;/u0&gt; (vía web o enviando un correo electrónico a &lt;u1&gt;&lt;a2&gt;omegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fj</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084921Z" creationid="Antonio" creationdate="20151128T084921Z">
@@ -17918,6 +17942,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T163243Z" creationid="Antonio" creationdate="20151130T163243Z">
         <seg>http://subversion.apache.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150619Z" creationid="Antonio" creationdate="20160125T150619Z">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
     </tu>
     <tu>
@@ -18742,6 +18774,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152817Z" creationid="Antonio" creationdate="20151128T152817Z">
         <seg>mah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150623Z" creationid="Antonio" creationdate="20160125T150623Z">
+        <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150638Z" creationid="Antonio" creationdate="20160125T150638Z">
+        <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
       </tuv>
     </tu>
     <tu>
