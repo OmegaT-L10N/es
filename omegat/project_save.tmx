@@ -2379,6 +2379,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Contributing to OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115936Z" creationid="Antonio" creationdate="20160125T115936Z">
+        <seg>&lt;p0&gt;OmegaT en la web&lt;/p0&gt; &lt;s1&gt;Contribuir en favor de OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Reporting bugs&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T115013Z" creationid="Antonio" creationdate="20160125T115013Z">
@@ -7361,8 +7369,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T154015Z" creationid="Helli" creationdate="20150526T153824Z">
-        <seg>Si desea mantener pista de qué está pasando al informe, regístrese como SourceForge usuario, inicies sesión y archivar un informe de errores o simplemente haga clic en la parte superior del informe.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T115854Z" creationid="Helli" creationdate="20150526T153824Z">
+        <seg>Si desea estar informado de lo que ocurre con su informe, regístrese como usuario de SourceForge, inicie sesión y presente un informe de errores o simplemente haga clic en la opción Monitor, en la parte superior del informe.</seg>
       </tuv>
     </tu>
     <tu>
