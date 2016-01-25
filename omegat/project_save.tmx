@@ -2835,6 +2835,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085559Z" creationid="Antonio" creationdate="20160125T085443Z">
+        <seg>Además, puede merecer la pena que los archivos &lt;f3&gt;ignored_words.txt&lt;/f3&gt; y &lt;f4&gt;learned_words.txt&lt;/f4&gt;, de la carpeta &lt;f5&gt;omegat&lt;/f5&gt;, se compartan y se usen a nivel de todo el equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also allow per-project external commands</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163735Z" creationid="Antonio" creationdate="20151127T163735Z">
@@ -13423,6 +13431,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T215711Z" creationid="Antonio" creationdate="20160124T215711Z">
         <seg>La URL que se muestra bajo Project Services la utilizará SVN para conectar clientes con el servidor SVN que acaba de establecer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The administrator may decide to include following folders and their contents as well: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; and &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T085436Z" creationid="Antonio" creationdate="20160125T085436Z">
+        <seg>El administrador, además, puede optar por incluir las siguientes carpetas y su contenido: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; y &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
