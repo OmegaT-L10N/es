@@ -2717,8 +2717,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T085931Z" creationid="Antonio" creationdate="20160125T085931Z">
-        <seg>Después de copiar los archivos requeridos en la carpeta de checkout, comprobará icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T090135Z" creationid="Antonio" creationdate="20160125T085931Z">
+        <seg>Después de copiar los archivos requeridos en la carpeta de checkout, comprobará el icono ha cambiado: la etiqueta de OK verde se ha transformado en un signo de interrogación rojo, lo cual indica que se ha producido un cambio en la copia local del repositorio.</seg>
       </tuv>
     </tu>
     <tu>
