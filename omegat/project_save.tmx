@@ -2387,6 +2387,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Development, Localizing&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T151038Z" creationid="Antonio" creationdate="20160125T151038Z">
+        <seg>&lt;p0&gt;OmegaT en la web&lt;/p0&gt; &lt;s1&gt;Desarrollo y localización&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Financial support&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T151059Z" creationid="Antonio" creationdate="20160125T151059Z">
+        <seg>&lt;p0&gt;OmegaT en la web&lt;/p0&gt; &lt;s1&gt;Ayuda económica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Reporting bugs&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T115013Z" creationid="Antonio" creationdate="20160125T115013Z">
@@ -14513,8 +14529,16 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>To support the OmegaT project financially</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T154711Z" creationid="Helli" creationdate="20150526T154711Z">
-        <seg>Para apoyar el*OmegaT proyecto economicamente</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T151122Z" creationid="Helli" creationdate="20150526T154711Z">
+        <seg>Para apoyar economicamente el proyecto OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate &lt;a0&gt;OmegaT&lt;/a0&gt;'s user interface, user manual or other related documents:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150905Z" creationid="Antonio" creationdate="20160125T150905Z">
+        <seg>Para traducirla la interfaz de usuario de &lt;a0&gt;OmegaT, manual de usuario u otros documentos relacionados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17456,6 +17480,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>first read the &lt;u0&gt;Localizing and Customizing &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; guide, and join the &lt;a2&gt;OmegaT&lt;/a2&gt; translators' group via web or by sending an email to &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; with subject "subscribe".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150958Z" creationid="Antonio" creationdate="20160125T150958Z">
+        <seg>Primero lea la guía de &lt;a0&gt;Localización y Adaptación&lt;s1&gt; OmegaT&lt;/s1&gt;&lt;/a0&gt;, y únase al grupo de los traductores de OmegaT vía web o enviando un correo electrónico a &lt;a3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/a3&gt; con la palabra "subscribe" en el asunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fj</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084921Z" creationid="Antonio" creationdate="20151128T084921Z">
@@ -18010,6 +18042,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150906Z" creationid="Antonio" creationdate="20160125T150906Z">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081615Z" creationid="Antonio" creationdate="20151128T081615Z">
@@ -18054,6 +18094,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T212807Z" creationid="Antonio" creationdate="20160124T212807Z">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T151128Z" creationid="Antonio" creationdate="20160125T151128Z">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
       </tuv>
     </tu>
     <tu>
@@ -18790,6 +18838,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T150638Z" creationid="Antonio" creationdate="20160125T150638Z">
         <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T150917Z" creationid="Antonio" creationdate="20160125T150917Z">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
       </tuv>
     </tu>
     <tu>
