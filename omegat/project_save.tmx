@@ -7409,8 +7409,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T111833Z" creationid="Helli" creationdate="20150526T152228Z">
-        <seg>En caso de que no exista ningún analizador ningún tokenizer exista para las lenguas actuales, OmegaT usa Hunspell en cambio (en este caso, asegúrese que los diccionarios Hunspell relevantes estén instalados).</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112337Z" creationid="Helli" creationdate="20150526T152228Z">
+        <seg>En caso de que no exista ningún analizador para los idiomas actuales, OmegaT usará Hunspell en suy lugar (en este caso, asegúrese que los diccionarios Hunspell relevantes estén instalados).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7831,8 +7831,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T111819Z" creationid="Helli" creationdate="20150526T152018Z">
-        <seg>Es posible seleccionar otro analizador (Tokenizer de idoma) o una versión diferente del analizador (Tokenizer de funcionamiento) de la ventana de Propiedades del Proyecto.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112235Z" creationid="Helli" creationdate="20150526T152018Z">
+        <seg>Es posible seleccionar otro analizador (de idoma) o una versión diferente del analizador (analizador de funcionamiento) de la ventana de Propiedades del Proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9816,8 +9816,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T151947Z" creationid="Helli" creationdate="20150526T151947Z">
-        <seg>OmegaT selecciona automáticamente un tokenizer para la fuente y la lengua de objetivo según los encuadres de lengua del proyecto.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112216Z" creationid="Helli" creationdate="20150526T151947Z">
+        <seg>OmegaT selecciona automáticamente un analizador para la fuente y la lengua de objetivo según los encuadres de lengua del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9996,8 +9996,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T152306Z" creationid="Helli" creationdate="20150526T152240Z">
-        <seg>OmegaT No lanzará si tokenizers están encontradon en la /plugin carpeta.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112408Z" creationid="Helli" creationdate="20150526T152240Z">
+        <seg>OmegaT no se iniciará si aparecen analizadoreds en la carpeta /plugin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14449,8 +14449,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tokenizers are included in OmegaT and active by default.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T111529Z" creationid="Helli" creationdate="20150526T151833Z">
-        <seg>Los lemmificadores (tokenizers)  están incluidos en OmegaT y están activados de manera predeterminada.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T112205Z" creationid="Helli" creationdate="20150526T151833Z">
+        <seg>Los analizadores están incluidos en OmegaT y están activados de manera predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
