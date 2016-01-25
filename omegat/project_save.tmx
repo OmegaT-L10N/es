@@ -2347,6 +2347,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Downloading and installing&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T152100Z" creationid="Antonio" creationdate="20160125T152100Z">
+        <seg>Diccionarios&lt;p0&gt;Descarga e instalación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T200734Z" creationid="Antonio" creationdate="20151128T163952Z">
@@ -2391,6 +2399,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T151038Z" creationid="Antonio" creationdate="20160125T151038Z">
         <seg>&lt;p0&gt;OmegaT en la web&lt;/p0&gt; &lt;s1&gt;Desarrollo y localización&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Donating to OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T151913Z" creationid="Antonio" creationdate="20160125T151913Z">
+        <seg>&lt;p0&gt;&lt;p0&gt;OmegaT en la web&lt;/p0&gt; &lt;s1&gt;Donaciones para OmegaT&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7127,6 +7143,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T020411Z" creationid="Víctor Parra" creationdate="20151125T020411Z">
         <seg>Inicio*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T152106Z" creationid="Antonio" creationdate="20160125T152106Z">
+        <seg>Cómo descargar e instalar diccionarios</seg>
       </tuv>
     </tu>
     <tu>
