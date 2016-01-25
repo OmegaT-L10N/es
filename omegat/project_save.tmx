@@ -14441,8 +14441,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T163851Z" creationid="Helli" creationdate="20150526T150333Z">
-        <seg>Tokenizers (o stemming, un método para reducir una palabra a su raís) mejora la calidad de coincidencias por reconocer palabras flexivas en fuente y memoria de traducción data.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160125T105625Z" creationid="Helli" creationdate="20150526T150333Z">
+        <seg>Los lemificadores (tokenizers, o stemming, un método para reducir una palabra a su raíz) mejoran la calidad de coincidencias al reconocer palabras flexivas en el origen y en la memoria de traducción.</seg>
       </tuv>
     </tu>
     <tu>
