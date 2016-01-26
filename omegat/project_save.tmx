@@ -7591,6 +7591,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T163856Z" creationid="Antonio" creationdate="20160126T163856Z">
+        <seg>Si deseamos evitar que se use la traducción que no es correcta, cuando hay segmentos con varias posibles traducciones de destino, al marcar esta casilla de verificación hará que &lt;&gt;'Ir a &gt; Siguiente segmento por traducir' se detendrá en el siguiente segmento, independientemente de que se haya traducido ya o no. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T151852Z" creationid="Antonio" creationdate="20160126T151852Z">
@@ -15717,6 +15725,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175925Z" creationid="Antonio" creationdate="20151127T175925Z">
         <seg>Las frases que no han cambiado se traducen automáticamente, mientras que las frases actualizadas se muestran con la frase traducida, más antigua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T163945Z" creationid="Antonio" creationdate="20160126T163945Z">
+        <seg>Deseleccione esta opción para evitar cualquier alteración de las etiquetas (por ejemplo, borrado parcial) durante la edición.</seg>
       </tuv>
     </tu>
     <tu>
