@@ -14637,6 +14637,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T110149Z" creationid="Antonio" creationdate="20160126T110149Z">
+        <seg>Esta opción le permite introducir la traducción sin la necesidad de eliminar el texto fuente, lo cual le ahorra un par de pulsaciones de teclado (&lt;c0&gt;Ctrl+A&lt;/c0&gt; y &lt;c1&gt;Supr&lt;/c1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212952Z" creationid="hcartagena" creationdate="20151119T212952Z">
