@@ -10166,6 +10166,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T151606Z" creationid="Antonio" creationdate="20160126T151606Z">
+        <seg>OmegaT insertará la traducción de la cadena más parecida a la frase de origen actual, si está por encima del umbral de similitud que ha establecido en este diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212054Z" creationid="hcartagena" creationdate="20151119T212054Z">
@@ -14222,6 +14230,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T201152Z" creationid="Antonio" creationdate="20151130T144127Z">
         <seg>Los posibles keyevents (teclas) se indican en el siguiente documento de Java 1.6, procedente de Oracle: &lt;u0&gt;Java 1.6 Descripción de keyEvents&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T151736Z" creationid="Antonio" creationdate="20160126T151736Z">
+        <seg>El prefijo (vacío, de manera predeterminada) puede usarse para etiquetar las traducciones, que se han realizado con coincidencias aproximadas.</seg>
       </tuv>
     </tu>
     <tu>
