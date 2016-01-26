@@ -7519,6 +7519,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T151852Z" creationid="Antonio" creationdate="20160126T151852Z">
+        <seg>Si añade un prefijo como etiqueta (por ejemplo, [aprox.]), puede detecta estas  traducciones posteriormente para ver que son correctas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog,</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221843Z" creationid="hcartagena" creationdate="20151201T221843Z">
