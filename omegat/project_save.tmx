@@ -10426,6 +10426,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then report these segments as not translated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T155946Z" creationid="Antonio" creationdate="20160126T155946Z">
+        <seg>En este caso, OmegaT computará estos segmentos como no traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185547Z" creationid="hcartagena" creationdate="20151119T185547Z">
@@ -14761,6 +14769,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112050Z" creationid="Helli" creationdate="20150526T151402Z">
         <seg>Esto resulta de especial utilidad con las lenguas que construyen formas con prefijo y sufijo a partir de la raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the default.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T155953Z" creationid="Antonio" creationdate="20160126T155953Z">
+        <seg>Este es el valor predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
