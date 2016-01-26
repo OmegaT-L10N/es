@@ -2437,8 +2437,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160126T103501Z" creationid="Antonio" creationdate="20160126T103501Z">
-        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T104409Z" creationid="Antonio" creationdate="20160126T103501Z">
+        <seg>&lt;p0&gt;Menú&lt;/p0&gt; &lt;s1&gt;Opciones&lt;/s1&gt; &lt;t2&gt;Comportamiento del campo de edición...&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
