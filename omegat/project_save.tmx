@@ -5615,6 +5615,22 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing behavior</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T104433Z" creationid="Antonio" creationdate="20160126T104433Z">
+        <seg>Comportamiento del campo de edición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing behavior options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T104614Z" creationid="Antonio" creationdate="20160126T104614Z">
+        <seg>Opciones de comportamiento del editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T181958Z" creationid="Antonio" creationdate="20151127T175124Z">
@@ -13963,6 +13979,14 @@ actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144327Z" creationid="Antonio" creationdate="20151130T144327Z">
         <seg>Los atajos predeterminados de OmegaT para Mac están también disponibles en Sourceforge, todos utilizan "meta" en vez de "ctrl": &lt;u0&gt;Atajos predeterminados de OmegaT para el Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T104605Z" creationid="Antonio" creationdate="20160126T104605Z">
+        <seg>El diálogo que aparece en &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Comportamiento del campo de edición...&lt;/g2&gt; &lt;/m0&gt; permite al usuario seleccionar cómo se va a inicializar y a manipular el segmento actual que aparece en el campo de edición-.</seg>
       </tuv>
     </tu>
     <tu>
