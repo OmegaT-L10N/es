@@ -7535,6 +7535,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T154145Z" creationid="Antonio" creationdate="20160126T154145Z">
+        <seg>Si esta opción está marcada, cuando se inserta   una coincidencia aproximada, bien manualmente o automáticamente, OmegaT intenta convertir los números presentes en la coincidencia aproximada según los datos del segmento origan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T151852Z" creationid="Antonio" creationdate="20160126T151852Z">
@@ -14250,6 +14258,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The numbers must be exactly the same between the source and the target matches.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T154352Z" creationid="Antonio" creationdate="20160126T154352Z">
+        <seg>Los números de los segmentos de origen deben ser exactamente los mismos que en las coincidencias de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185849Z" creationid="Antonio" creationdate="20151210T185849Z">
@@ -14386,6 +14402,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T154250Z" creationid="Antonio" creationdate="20160126T154250Z">
+        <seg>El segmento origen y las coincidencias proximadas deben contener la misma lista de números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source text</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T105702Z" creationid="Antonio" creationdate="20160126T105702Z">
@@ -14502,6 +14526,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165553Z" creationid="hcartagena" creationdate="20151120T165553Z">
         <seg>Entonces, mientras se traduce del francés canadiense, su proyecto utilizará todas las reglas definidas para toda la cadena de idiomas en el orden correcto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are a number of restrictions:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T154159Z" creationid="Antonio" creationdate="20160126T154159Z">
+        <seg>Existen diversas restricciones:</seg>
       </tuv>
     </tu>
     <tu>
