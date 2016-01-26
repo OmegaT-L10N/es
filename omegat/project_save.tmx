@@ -7631,6 +7631,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T105658Z" creationid="Antonio" creationdate="20160126T105658Z">
+        <seg>En &lt;s0&gt;Opciones → Comportamiento del campo de edición...&lt;/s0&gt; OmegaT le ofrece las siguientes alternativas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185102Z" creationid="Antonio" creationdate="20151210T185102Z">
@@ -14274,6 +14282,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T105702Z" creationid="Antonio" creationdate="20160126T105702Z">
+        <seg>El texto original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T214808Z" creationid="Víctor Parra" creationdate="20151126T194927Z">
@@ -16087,6 +16103,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T105634Z" creationid="Antonio" creationdate="20160126T105634Z">
+        <seg>Cuando se pasa de un segmento a otro, puede que prefiera rellenar el campo de edición con la traducción que aparece en el panel de coincidencias parciales, o bien con el texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T204206Z" creationid="hcartagena" creationdate="20151119T204206Z">
@@ -16492,6 +16516,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can have the source text inserted automatically into the editing field.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T105745Z" creationid="Antonio" creationdate="20160126T105745Z">
+        <seg>Puede hacer que el texto de origen quede insertado automáticamente en el campo de edición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T105625Z" creationid="Antonio" creationdate="20151130T105625Z">
@@ -16594,6 +16626,14 @@ them.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191355Z" creationid="hcartagena" creationdate="20151117T191355Z">
         <seg>Debe especificar su nueva ubicación o volver a
 crearlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You translate your files by moving from segment to segment, editing each current segment in turn.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T105440Z" creationid="Antonio" creationdate="20160126T105440Z">
+        <seg>Los archivos se traducen traduciendo un segmento y pasando al siguiente, que se edita a su vez.</seg>
       </tuv>
     </tu>
     <tu>
