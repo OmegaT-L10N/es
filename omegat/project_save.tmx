@@ -11774,6 +11774,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T165353Z" creationid="Antonio" creationdate="20160126T165353Z">
+        <seg>Quitar toda una etiqueta sigue siendo posible en ese caso, mediante Ctrl + Retroceso/Suprimir o seleccionándola por completo (Ctrl + Mayús + izquierda/derecha) y elimándola a continuación (Supr o Ctrl + X).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221821Z" creationid="hcartagena" creationdate="20151116T221821Z">
