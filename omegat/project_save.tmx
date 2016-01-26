@@ -7090,6 +7090,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T162931Z" creationid="Antonio" creationdate="20160126T162931Z">
+        <seg>'Ir a &gt; Siguiente segmento por traducir' se detiene cuando hay al menos una traducción alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222207Z" creationid="hcartagena" creationdate="20151116T222207Z">
