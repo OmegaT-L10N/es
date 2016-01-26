@@ -10238,6 +10238,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is able to recognize that you have done this.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T161206Z" creationid="Antonio" creationdate="20160126T161206Z">
+        <seg>OmegaT puede darse cuenta de que usted ha realizado esta acción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
@@ -14039,6 +14047,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T204443Z" creationid="Antonio" creationdate="20151130T163628Z">
         <seg>Las ventajas que aporta al equipo de traductores el hecho de utilizar un sistema de control de versiones se puede resumir así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The alternative is to enter a translation that is identical to the source text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T161134Z" creationid="Antonio" creationdate="20160126T161134Z">
+        <seg>La alternativa es introducir una traducción que sea idéntica al texto origen.</seg>
       </tuv>
     </tu>
     <tu>
