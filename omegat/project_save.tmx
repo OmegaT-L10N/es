@@ -4133,6 +4133,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T165952Z" creationid="Antonio" creationdate="20160126T165952Z">
+        <seg>Seleccione esta opción para grabar en el archivo de &lt;f0&gt;project_save.tmx&lt;/f0&gt; la información que un segmento ha sido autorrellenado, de manera que pueda mostrarse con un color específico en el Editor (si está marcada la opción "Marcar segmentos autorrellenado", en el menú Ver).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T170344Z" creationid="Antonio" creationdate="20151127T170326Z">
