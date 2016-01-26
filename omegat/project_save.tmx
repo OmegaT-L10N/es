@@ -13995,6 +13995,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T153056Z" creationid="Antonio" creationdate="20160126T153056Z">
+        <seg>Los cuadros de verificación que aparecen en la mitad  inferior de la ventana sirven para lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T203455Z" creationid="Antonio" creationdate="20151130T163337Z">
