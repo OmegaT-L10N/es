@@ -5389,6 +5389,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T155844Z" creationid="Antonio" creationdate="20160126T155844Z">
+        <seg>Los documentos que se van a traducir podrían contener marcas registradas, nombres u otros nombres propios que tienen que ser los mismos en los documentos ya traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T161025Z" creationid="Antonio" creationdate="20160125T161025Z">
@@ -14570,6 +14578,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two strategies for segments that contain only such invariable text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T155902Z" creationid="Antonio" creationdate="20160126T155902Z">
+        <seg>Hay dos estrategias para segmentos que únicamente contengan tal texto invariable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152646Z" creationid="Antonio" creationdate="20160125T152646Z">
@@ -16702,6 +16718,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T215312Z" creationid="hcartagena" creationdate="20151124T233649Z">
         <seg>Puede crear términos en el glosario con la función 'Crear término en el glosario' del menú 'Editar'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T155913Z" creationid="Antonio" creationdate="20160126T155913Z">
+        <seg>Puede decidir no traducir todos estos segmentos.</seg>
       </tuv>
     </tu>
     <tu>
