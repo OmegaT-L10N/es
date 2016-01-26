@@ -14117,6 +14117,30 @@ configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T162427Z" creationid="Antonio" creationdate="20160126T162427Z">
+        <seg>El contenido de los archivos se sobrescribe bien al abrir un nuevo segmento (source.txt y target.txt) o bien cuando se exporta una nueva selección (selection.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T162226Z" creationid="Antonio" creationdate="20160126T162226Z">
+        <seg>El contenido del texto original segmento (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T162235Z" creationid="Antonio" creationdate="20160126T162235Z">
+        <seg>El contenido del texto de destino del segmento (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of the checkout folder will be marked accordingly:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T091910Z" creationid="Antonio" creationdate="20160125T091910Z">
@@ -14211,6 +14235,14 @@ actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T162213Z" creationid="Antonio" creationdate="20160126T162213Z">
         <seg>Los archivos aparecen en la subcarpeta de /script de la carpeta de archivos de usuario de OmegaT e incluyen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files are unformatted plain text files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T162440Z" creationid="Antonio" creationdate="20160126T162440Z">
+        <seg>Los archivos son de texto sin formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14562,6 +14594,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T162331Z" creationid="Antonio" creationdate="20160126T162331Z">
+        <seg>El texto resaltado por el usuario, presionando &lt;k0&gt;Ctrl + Shift + C&lt;/k0&gt; o cuando se selecciona &lt;g1&gt;Editar &amp;amp;gt; Exportar selección&lt;/g1&gt; (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T174003Z" creationid="Antonio" creationdate="20151127T174003Z">
@@ -14582,6 +14622,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163153Z" creationid="Antonio" creationdate="20151127T163153Z">
         <seg>La traducción ha cambiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T162506Z" creationid="Antonio" creationdate="20160126T162506Z">
+        <seg>Todo el proceso puede ser dirigido y controlado a través de secuencias de comandos escritas en el lenguaje Tcl/Tck.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18669,6 +18717,14 @@ directorio de configuración.</seg>
         <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T150906Z" creationid="Antonio" creationdate="20160125T150906Z">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T162339Z" creationid="Antonio" creationdate="20160126T162339Z">
         <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
       </tuv>
     </tu>
