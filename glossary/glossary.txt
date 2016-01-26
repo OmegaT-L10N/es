@@ -20,3 +20,4 @@ Legal notices	Aviso legal
 OmegaT on the web	OmegaT en la web
 Editing Behavior	Comportamiento del campo de edición
 fuzzy matches	coincidencias proximadas
+Editing behaviour	Comportamiento del campo de edición
