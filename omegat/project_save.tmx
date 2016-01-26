@@ -4125,6 +4125,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T165517Z" creationid="Antonio" creationdate="20160126T165517Z">
+        <seg>Seleccione esta opción para recibir indicación de que hay diferencias entre las etiquetas de los segmentos de origen y de destino cada vez que abandona un segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T170344Z" creationid="Antonio" creationdate="20151127T170326Z">
