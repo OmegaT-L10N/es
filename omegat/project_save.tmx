@@ -1579,6 +1579,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T150456Z" creationid="Antonio" creationdate="20160126T150456Z">
+        <seg>No se permiten segmentos vacíos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185421Z" creationid="Antonio" creationdate="20151210T185421Z">
@@ -14497,6 +14505,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T110718Z" creationid="Helli" creationdate="20150526T150339Z">
         <seg>También mejoran las concordancias obtenidas en el glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160126T150512Z" creationid="Antonio" creationdate="20160126T150512Z">
+        <seg>Se muestran como &lt;EMPTY&gt; en el Editor.</seg>
       </tuv>
     </tu>
     <tu>
