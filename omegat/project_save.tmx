@@ -3500,6 +3500,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160127T182109Z" creationid="Antonio" creationdate="20160127T182109Z">
+        <seg>Automatización de las modificaciones de los nombres de archivo de documentos traducidos, mediante la sustitución de contenido traducible con su traducción correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T211708Z" creationid="Antonio" creationdate="20151127T154421Z">
@@ -6378,6 +6386,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extracting the translatable content out of the file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160127T182040Z" creationid="Antonio" creationdate="20160127T182040Z">
+        <seg>Extraer el contenido traducible del archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extraneous</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T232815Z" creationid="Antonio" creationdate="20151127T163408Z">
@@ -7611,6 +7627,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145540Z" creationid="Helli" creationdate="20150526T130710Z">
         <seg>Si no entran en conflicto con atajos del sistema, tendrían que estar disponibles en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this is not the case, open the main dialog by selecting&lt;e0&gt; Options → File Filters...&lt;/e0&gt; from the main menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160127T182312Z" creationid="Antonio" creationdate="20160127T182312Z">
+        <seg>Si no es su caso, abra el diálogo principal seleccionando &lt;s0&gt;Opciones → Filtros de archivo...&lt;/s0&gt; desde el menú principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9545,6 +9569,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T114803Z" creationid="Helli" creationdate="20150603T151504Z">
         <seg>La mayoría de los elementos que aparecen en el menú principal pueden tener asignado un atajo nuevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most users will find the default file filter options sufficient.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160127T182246Z" creationid="Antonio" creationdate="20160127T182246Z">
+        <seg>La mayoría de los usuarios tendrá suficiente con las opciones predeterminadas de los filtros de archivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15203,6 +15235,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223155Z" creationid="hcartagena" creationdate="20151201T223155Z">
         <seg>Para ver un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160127T182217Z" creationid="Antonio" creationdate="20160127T182217Z">
+        <seg>Para consultar los formatos de archivo que puede manejar OmegaT, vea el menú &lt;g0&gt;Opciones &gt; Filtros de archivo... &lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
