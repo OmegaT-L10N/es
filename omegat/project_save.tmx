@@ -6554,6 +6554,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File filters are pieces of code capable of:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160127T181822Z" creationid="Antonio" creationdate="20160127T181750Z">
+        <seg>Los filtros son bloques de código capaces de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153651Z" creationid="hcartagena" creationdate="20151117T153651Z">
@@ -6782,6 +6790,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144207Z" creationid="Antonio" creationdate="20151130T144207Z">
         <seg>Por ejemplo, en los atajos predeterminados de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, plain text files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160127T181909Z" creationid="Antonio" creationdate="20160127T181909Z">
+        <seg>Por ejemplo, archivos de texto sin formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11554,6 +11570,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T225050Z" creationid="hcartagena" creationdate="20151118T225050Z">
         <seg>Se completó la lectura del archivo TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading the document in some specific file format.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160127T181900Z" creationid="Antonio" creationdate="20160127T181900Z">
+        <seg>Leer el documento que está en un formato determinado</seg>
       </tuv>
     </tu>
     <tu>
