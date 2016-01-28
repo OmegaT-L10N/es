@@ -2427,6 +2427,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142327Z" creationid="Antonio" creationdate="20160128T142327Z">
+        <seg>&lt;p0&gt;Filtros de archivos&lt;/p0&gt; &lt;s1&gt;Opciones &lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Project specific file filters&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160127T182518Z" creationid="Antonio" creationdate="20160127T182518Z">
@@ -6706,6 +6714,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142339Z" creationid="Antonio" creationdate="20160128T142339Z">
+        <seg>Opciones del filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223704Z" creationid="hcartagena" creationdate="20151116T223704Z">
@@ -7833,8 +7849,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160128T141133Z" creationid="Antonio" creationdate="20160128T141133Z">
-        <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142139Z" creationid="Antonio" creationdate="20160128T141133Z">
+        <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas: de manera prederminada, OmegaT utiliza el nombre del archivo de origen como parte de la identificación de una traducción alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19196,8 +19212,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160128T142059Z" creationid="Antonio" creationdate="20160128T142059Z">
-        <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142318Z" creationid="Antonio" creationdate="20160128T142059Z">
+        <seg>Si la opción está seleccionada, no se utilizará el nombre del archivo de origen y se usarán traducciones alternativas en cualquier archivo siempre y cuando coincida con el resto del contexto (segmento anterior/siguiente, o algún tipo de identificación, según el formato del archivo).</seg>
       </tuv>
     </tu>
     <tu>
