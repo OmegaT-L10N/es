@@ -7895,6 +7895,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T140130Z" creationid="Antonio" creationdate="20160128T140130Z">
+        <seg>En proyectos sin segmentación, es posible dejar esta opción sin marcar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192559Z" creationid="hcartagena" creationdate="20151117T192559Z">
@@ -11898,6 +11906,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213626Z" creationid="hcartagena" creationdate="20151119T213626Z">
         <seg>Quitar espacio en blanco anterior y posterior en proyectos sin segmentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T140015Z" creationid="Antonio" creationdate="20160128T140015Z">
+        <seg>Quitar espacio en blanco anterior y posterior en proyectos sin segmentación: de manera predeterminada, OmegaT elimina los espacios en blanco anteriores y posteriores.</seg>
       </tuv>
     </tu>
     <tu>
