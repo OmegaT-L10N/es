@@ -7831,6 +7831,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T141133Z" creationid="Antonio" creationdate="20160128T141133Z">
+        <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T205314Z" creationid="hcartagena" creationdate="20151119T205314Z">
