@@ -4229,6 +4229,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T125056Z" creationid="Antonio" creationdate="20160128T125006Z">
+        <seg>Haga clic en &lt;s0&gt;Restaurar valores predeterminados&lt;/s0&gt; para restablecer los filtros de archivo a la configuración predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T215525Z" creationid="Antonio" creationdate="20160124T215525Z">
@@ -14375,6 +14383,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog allows to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T125214Z" creationid="Antonio" creationdate="20160128T125214Z">
+        <seg>El cuadro de diálogo permite activar o desactivar las siguientes opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T104605Z" creationid="Antonio" creationdate="20160126T104605Z">
@@ -15259,6 +15275,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213505Z" creationid="hcartagena" creationdate="20151119T213505Z">
         <seg>Para elegir los archivos que serán procesados por el filtro y su codificación, seleccione el filtro del listado y haga clic en Editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit which files in which encodings the filter is to process, select the filter from the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T125159Z" creationid="Antonio" creationdate="20160128T125159Z">
+        <seg>Para elegir los archivos donde se procesara la codificación del filtro, seleccione el filtro del listado y haga clic en Editar.</seg>
       </tuv>
     </tu>
     <tu>
