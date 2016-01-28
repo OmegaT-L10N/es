@@ -7679,6 +7679,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If on, when a PO segment (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T143121Z" creationid="Antonio" creationdate="20160128T143121Z">
+        <seg>Si está activada esta opción, cuando no se ha traducido un segmento PO (que puede ser todo un párrafo), la traducción aparecerá en blanco en el archivo de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T161056Z" creationid="Antonio" creationdate="20160125T161056Z">
@@ -14072,6 +14080,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162810Z" creationid="Helli" creationdate="20150526T143433Z">
         <seg>Trabajo en grupo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T143214Z" creationid="Antonio" creationdate="20160128T143214Z">
+        <seg>Técnicamente, el segmento &lt;c0&gt;msgstr&lt;/c0&gt; del archivo de destino PO, si se crea, se dejará vacío.</seg>
       </tuv>
     </tu>
     <tu>
