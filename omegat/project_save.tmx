@@ -10963,6 +10963,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142705Z" creationid="Antonio" creationdate="20160128T142705Z">
+        <seg>Segmentación según párrafos, usando los saltos de línea, líneas de vacío o nunca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T224927Z" creationid="hcartagena" creationdate="20151118T224927Z">
@@ -13042,6 +13050,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142531Z" creationid="Antonio" creationdate="20160128T142531Z">
+        <seg>Diversos filtros (archivos de texto, XHTML, HTML y XHTML, OpenDocument/archivos de OpenOffice.org y los archivos de Microsoft Open XML), tienen una o varias opciones específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T163719Z" creationid="Antonio" creationdate="20151130T163719Z">
@@ -14110,6 +14126,14 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142557Z" creationid="Antonio" creationdate="20160128T142557Z">
+        <seg>Archivos de Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text files segmentation</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165344Z" creationid="hcartagena" creationdate="20151120T165344Z">
@@ -14343,6 +14367,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163818Z" creationid="Antonio" creationdate="20151128T163731Z">
         <seg>El autor del Capítulo &lt;e1&gt;¡Empiece a utilizar Omegat en 5 minutos!&lt;/e1&gt;es Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The available options are:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142552Z" creationid="Antonio" creationdate="20160128T142552Z">
+        <seg>Las opciones disponibles son:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15387,6 +15419,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T161938Z" creationid="Antonio" creationdate="20160126T161938Z">
         <seg>Para que sea posible, vaya a &lt;s0&gt;Opciones → Comportamiento del campo de edición...&lt;/s0&gt; y marque la casilla &lt;s1&gt;Permitir traducciones idénticas al original&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142548Z" creationid="Antonio" creationdate="20160128T142548Z">
+        <seg>Para modificar las opciones, seleccione el filtro de la lista y haga clic en &lt;s0&gt;Opciones&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
