@@ -2691,6 +2691,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T124230Z" creationid="Antonio" creationdate="20160128T124230Z">
+        <seg>En este caso, se almacenará una copia de la configuración de los filtros junto con el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233854Z" creationid="hcartagena" creationdate="20151124T233854Z">
@@ -4231,8 +4239,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;File Filters&lt;/g1&gt; button and activate the check box &lt;g2&gt;Enable project specific filters&lt;/g2&gt;&lt;i3/&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160127T182732Z" creationid="Antonio" creationdate="20160127T182732Z">
-        <seg>Haga clic el botón &lt;g1&gt;Filtros de archivo&lt;/g1&gt; y active la casilla &lt;g2&gt;Activar project specific filters&lt;/g2&gt;&lt;i3/&gt;.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T124146Z" creationid="Antonio" creationdate="20160127T182732Z">
+        <seg>Haga clic el botón &lt;g1&gt;Filtros de archivo&lt;/g1&gt; y active la casilla &lt;g2&gt;Hacer que el ajuste de filtros de archivo sea específico para el proyecto&lt;/g2&gt;&lt;i3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7707,6 +7715,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T205424Z" creationid="hcartagena" creationdate="20151124T232818Z">
         <seg>Si está usando un proxy autenticado, introduzca aquí su usuario y contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T124256Z" creationid="Antonio" creationdate="20160128T124256Z">
+        <seg>Si más adelante cambia los filtros, sólo se actualizarán los filtros del proyecto, mientras que los filtros de usuario permanecerán sin cambios.</seg>
       </tuv>
     </tu>
     <tu>
