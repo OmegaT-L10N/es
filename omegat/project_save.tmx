@@ -1739,6 +1739,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142943Z" creationid="Antonio" creationdate="20160128T142943Z">
+        <seg>Permitir traducciones en blanco en archivos traducidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185919Z" creationid="Antonio" creationdate="20151210T185919Z">
@@ -10937,6 +10945,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>PO files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142919Z" creationid="Antonio" creationdate="20160128T142919Z">
+        <seg>Archivos PO</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
@@ -10965,8 +10981,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160128T142705Z" creationid="Antonio" creationdate="20160128T142705Z">
-        <seg>Segmentación según párrafos, usando los saltos de línea, líneas de vacío o nunca:</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142812Z" creationid="Antonio" creationdate="20160128T142705Z">
+        <seg>Segmentación según párrafos, usando los saltos de línea, líneas vacías o nunca:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19246,6 +19262,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T113340Z" creationid="Antonio" creationdate="20151130T113340Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will further be segmented according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T142914Z" creationid="Antonio" creationdate="20160128T142914Z">
+        <seg>si las reglas de segmentación están activas, el texto se segmentará aún más según las opciones seleccionadas aquí.</seg>
       </tuv>
     </tu>
     <tu>
