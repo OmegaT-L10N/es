@@ -10594,6 +10594,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then omit the appropriate files while loading projects, and will copy them unmodified when creating target documents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T124808Z" creationid="Antonio" creationdate="20160128T124808Z">
+        <seg>En este caso, OmegaT omitirá los archivos correspondientes mientras carga los proyectos, y los copiará sin modificarlos cuando crea los documentos finales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T155946Z" creationid="Antonio" creationdate="20160126T155946Z">
@@ -16691,6 +16699,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184036Z" creationid="Antonio" creationdate="20151210T184036Z">
         <seg>Cuando usted le indica a OmegaT los archivos que desea traducir, el programa buscará los archivos que sean de los formatos admitidos, aplicando las reglas de los filtros de archivo, donde reconocerá los elementos de texto de estos archivos, separando los grupos de texto de acuerdo con las reglas de segmentación y le mostrará los segmentos para que pueda proceder con la traducción uno por uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you wish to use the filter again, just tick the check box.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T124911Z" creationid="Antonio" creationdate="20160128T124911Z">
+        <seg>Cuando usted decida usar el filtro de nuevo, sólo deberá marcar la casilla de verificación.</seg>
       </tuv>
     </tu>
     <tu>
