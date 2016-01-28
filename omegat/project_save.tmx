@@ -11237,6 +11237,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces (for layout matters) that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160128T140430Z" creationid="Antonio" creationdate="20160128T140430Z">
+        <seg>Conservar espacios en todas las etiquetas: marque esta opción si los documentos de origen contienen una cantidad significativa de espacios (por razones de diseño gráfico) que no se pueden ignorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T233011Z" creationid="Antonio" creationdate="20151127T154625Z">
