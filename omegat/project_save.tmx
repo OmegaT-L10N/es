@@ -3420,6 +3420,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160130T165109Z" creationid="Antonio" creationdate="20160130T165109Z">
+        <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081908Z" creationid="Antonio" creationdate="20151128T081908Z">
