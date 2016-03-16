@@ -1739,6 +1739,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T182817Z" creationid="Antonio" creationdate="20160316T182817Z">
+        <seg>Agregar o reescribir declaración de codificación en archivos HTML y XHTML: con frecuencia los archivos de destino tiene una codificación de caracteres distinta del archivo origen, (sea por definición explícita o implícita).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T150720Z" creationid="Antonio" creationdate="20160316T150720Z">
@@ -16681,6 +16689,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T095711Z" creationid="Antonio" creationdate="20160125T095711Z">
         <seg>Utilización del proyecto de equipo en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T182919Z" creationid="Antonio" creationdate="20160316T182919Z">
+        <seg>Utilizando esta  opción, el traductor puede especificar si los archivos de destino van a llevar incluida la declaración de codificación.</seg>
       </tuv>
     </tu>
     <tu>
