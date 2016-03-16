@@ -1643,6 +1643,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T195024Z" creationid="Antonio" creationdate="20160316T195024Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Archivos y carpetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T183727Z" creationid="Víctor Parra" creationdate="20151126T192339Z">
@@ -1655,6 +1663,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112632Z" creationid="Antonio" creationdate="20160125T112632Z">
         <seg>&lt;a0&gt;Sitios de OmegaT&lt;/a0&gt; y el proyecto de  OmegaT en &lt;a1&gt;SourceForge&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; works with three types of files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T195032Z" creationid="Antonio" creationdate="20160316T195032Z">
+        <seg>**OmegaT trabaja con tres tipos de archivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2483,6 +2499,30 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194943Z" creationid="Antonio" creationdate="20160316T194943Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194946Z" creationid="Antonio" creationdate="20160316T194946Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194951Z" creationid="Antonio" creationdate="20160316T194951Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T193814Z" creationid="Antonio" creationdate="20160316T193814Z">
@@ -2503,6 +2543,30 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T194325Z" creationid="Antonio" creationdate="20160316T194325Z">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - codificación del archivo de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194931Z" creationid="Antonio" creationdate="20160316T194931Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194933Z" creationid="Antonio" creationdate="20160316T194933Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194935Z" creationid="Antonio" creationdate="20160316T194935Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -8067,6 +8131,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194923Z" creationid="Antonio" creationdate="20160316T194923Z">
+        <seg>Por ejemplo, si el archivo original tenía el nombre Document.xx.docx, las variables siguientes darían los resultados siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T161126Z" creationid="Antonio" creationdate="20160125T161126Z">
@@ -9547,6 +9619,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T154838Z" creationid="Antonio" creationdate="20160125T154838Z">
         <seg>Longman Dictionary of Contemporary English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T195052Z" creationid="Antonio" creationdate="20160316T195052Z">
+        <seg>**Perderlos puede afectar la integridad del proyecto y su capacidad para completar un trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12041,6 +12121,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000552Z" creationid="hcartagena" creationdate="20151125T000552Z">
         <seg>Inicio de creación del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project files are the most important files in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T195055Z" creationid="Antonio" creationdate="20160316T195055Z">
+        <seg>**Los archivos del proyecto son los archivos más importantes en OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16539,6 +16627,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172414Z" creationid="Antonio" creationdate="20151127T172414Z">
         <seg>La carpeta de memorias de traducción {0} no existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation project files: These constitute a translation project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T195037Z" creationid="Antonio" creationdate="20160316T195037Z">
+        <seg>**Los archivos del proyecto de traducción: Los que constituyen un proyecto de traducción.</seg>
       </tuv>
     </tu>
     <tu>
