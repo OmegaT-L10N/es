@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8180" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8270:8272" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3422,8 +3422,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160130T165109Z" creationid="Antonio" creationdate="20160130T165109Z">
-        <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T134830Z" creationid="Antonio" creationdate="20160130T165109Z">
+        <seg>Como es el comportamiento estándar con los archivos PO, está activada esta opción de manera predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
