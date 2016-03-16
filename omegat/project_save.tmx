@@ -1931,6 +1931,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T184740Z" creationid="Antonio" creationdate="20160316T184740Z">
+        <seg>Eliminar comentarios de HTML en el documento traducido: todas las partes con comentarios (texto entre &lt;!--- y ---&gt;) se ignorará y no aparecerá en el documento traducido. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185207Z" creationid="Antonio" creationdate="20151210T185207Z">
@@ -10962,6 +10970,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T184757Z" creationid="Antonio" creationdate="20160316T184757Z">
+        <seg>Archivos de Open Document Format (ODF) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153743Z" creationid="hcartagena" creationdate="20151117T153743Z">
@@ -17532,6 +17548,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can select which of the following items are to be translated:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T184918Z" creationid="Antonio" creationdate="20160316T184918Z">
+        <seg>Usted puede seleccionar los elementos siguientes que se deben traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T105625Z" creationid="Antonio" creationdate="20151130T105625Z">
@@ -19622,6 +19646,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144520Z" creationid="Antonio" creationdate="20151128T144516Z">
         <seg>ind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T184958Z" creationid="Antonio" creationdate="20160316T184958Z">
+        <seg>entradas de índice, marcadores de texto, referencias de marcadores, notas, comentarios, notas de presentación, enlaces (URL), nombres de hojas</seg>
       </tuv>
     </tu>
     <tu>
