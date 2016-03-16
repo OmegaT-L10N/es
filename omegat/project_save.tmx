@@ -2547,6 +2547,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Editing&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T185036Z" creationid="Antonio" creationdate="20160316T185036Z">
+        <seg>&lt;p0&gt;Filtros de archivos&lt;/p0&gt; &lt;s1&gt;Editar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T142327Z" creationid="Antonio" creationdate="20160128T142327Z">
@@ -5883,6 +5891,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153630Z" creationid="hcartagena" creationdate="20151117T153630Z">
         <seg>Editar proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit filter dialog</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T185117Z" creationid="Antonio" creationdate="20160316T185117Z">
+        <seg>**Diálogo Editar filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -15409,6 +15425,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163750Z" creationid="Antonio" creationdate="20151127T163750Z">
         <seg>Este comando se ejecutará después de crear los documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T185253Z" creationid="Antonio" creationdate="20160316T185253Z">
+        <seg>Este cuadro de diálogo le permite configurar los patrones de los archivo fuente de los archivos que el filtro debe procesar, personalizar el nombre de los archivos traducidos y seleccionar la codificación que vaya a usar para cargar y guardar el archivo traducido.</seg>
       </tuv>
     </tu>
     <tu>
