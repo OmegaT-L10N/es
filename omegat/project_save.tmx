@@ -3261,8 +3261,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160316T194402Z" creationid="Antonio" creationdate="20160316T194402Z">
-        <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194544Z" creationid="Antonio" creationdate="20160316T194402Z">
+        <seg>Están disponibles otras variables para las variables ${nameOnly} y ${Extension}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8363,6 +8363,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112337Z" creationid="Helli" creationdate="20150526T152228Z">
         <seg>En caso de que no exista ningún analizador para los idiomas actuales, OmegaT usará Hunspell en suy lugar (en este caso, asegúrese que los diccionarios Hunspell relevantes estén instalados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194744Z" creationid="Antonio" creationdate="20160316T194744Z">
+        <seg>En caso de que el nombre del archivo sea ambivalente, puede aplicar variables en la forma &lt;l0&gt;${nombre solamente&lt;/l0&gt;&lt;e1&gt;-número de extensión&lt;/e1&gt;} y &lt;l2&gt;${extensión&lt;/l2&gt;-&lt;e3&gt;número de extensión} &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
