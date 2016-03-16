@@ -7010,6 +7010,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T183546Z" creationid="Antonio" creationdate="20160316T183546Z">
+        <seg>Por ejemplo, si el filtro de archivo especifica UTF8 como esquema de codificación correspondiente a los archivos de destino,  seleccionando la opción Siempre se garantizará que esta información se incluye en los archivos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160127T181909Z" creationid="Antonio" creationdate="20160127T181909Z">
