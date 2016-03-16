@@ -8413,6 +8413,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is shown rendered red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T135541Z" creationid="Antonio" creationdate="20160316T135541Z">
+        <seg>Se resalta con rojo oscuro en el  validador de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175448Z" creationid="hcartagena" creationdate="20151120T175448Z">
@@ -14242,6 +14250,14 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165344Z" creationid="hcartagena" creationdate="20151120T165344Z">
         <seg>Segmentación de archivos de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text in source segment that matches is shown in italic.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T135608Z" creationid="Antonio" creationdate="20160316T135608Z">
+        <seg>El texto del segumento de origen que concuerda se muestra en cursivas.</seg>
       </tuv>
     </tu>
     <tu>
