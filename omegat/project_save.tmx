@@ -1763,6 +1763,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T140322Z" creationid="Antonio" creationdate="20160316T140322Z">
+        <seg>No traducir el contenido de los atributos meta-tags... : No se traducirán los siguientes meta-tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184651Z" creationid="Antonio" creationdate="20151210T184651Z">
