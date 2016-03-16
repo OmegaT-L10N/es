@@ -1771,6 +1771,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T140504Z" creationid="Antonio" creationdate="20160316T140504Z">
+        <seg>No traducir el atributo 'content' de etiquetas 'meta' cuyos pares clave-valor de los atributos sean (separar con comas): una pares de valores clave provocará que se ignore el contenido de las etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184651Z" creationid="Antonio" creationdate="20151210T184651Z">
@@ -8425,6 +8433,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T135541Z" creationid="Antonio" creationdate="20160316T135541Z">
         <seg>Se resalta con rojo oscuro en el  validador de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is sometimes useful to be able make some tags untranslatable based on the value of attributes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T140553Z" creationid="Antonio" creationdate="20160316T140553Z">
+        <seg>A veces resulta de utilidad poder convertir algunas etiquetas en  intraducibles tomando como base el valor de los atributos.</seg>
       </tuv>
     </tu>
     <tu>
