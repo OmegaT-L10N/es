@@ -1789,8 +1789,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160316T140504Z" creationid="Antonio" creationdate="20160316T140504Z">
-        <seg>No traducir el atributo 'content' de etiquetas 'meta' cuyos pares clave-valor de los atributos sean (separar con comas): una pares de valores clave provocará que se ignore el contenido de las etiquetas</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T184341Z" creationid="Antonio" creationdate="20160316T140504Z">
+        <seg>No traducir el atributo 'content' de etiquetas 'meta' cuyos pares clave-valor sean (separar con comas): una concordancia con la lista de pares de valores clave provocará que se ignore el contenido de las etiquetas</seg>
       </tuv>
     </tu>
     <tu>
