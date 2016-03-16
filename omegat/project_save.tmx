@@ -2555,6 +2555,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191356Z" creationid="Antonio" creationdate="20160316T191356Z">
+        <seg>&lt;p0&gt;Filtros de archivo&lt;/p0&gt; &lt;s1&gt;Tipo de archivo y patrón de nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T142327Z" creationid="Antonio" creationdate="20160128T142327Z">
@@ -2759,6 +2767,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T160804Z" creationid="Antonio" creationdate="20160125T160804Z">
         <seg>&lt;p0&gt;Combinaciones de teclas&lt;/p0&gt; &lt;s1&gt;Propiedades del proyecto - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191241Z" creationid="Antonio" creationdate="20160316T191241Z">
+        <seg>&lt;p0&gt;Archivos originales&lt;/p0&gt; &lt;s1&gt;Tipo de archivo y patrón de nombre</seg>
       </tuv>
     </tu>
     <tu>
@@ -9885,6 +9901,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191505Z" creationid="Antonio" creationdate="20160316T191505Z">
+        <seg>**Para ser más precisos, OmegaT intenta hacer coincidir cada patrón de nombre de archivo fuente con el nombre del archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T114803Z" creationid="Helli" creationdate="20150603T151504Z">
@@ -13714,6 +13738,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source file type, filename pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191424Z" creationid="Antonio" creationdate="20160316T191424Z">
+        <seg>Tipo de archivo de origen, patrón del nombre de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191908Z" creationid="hcartagena" creationdate="20151117T191719Z">
@@ -17083,6 +17115,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T190137Z" creationid="Antonio" creationdate="20151210T190137Z">
         <seg>Todas las incoherencias, omisiones y errores claros que pueda encontrar en la presente versión, son todos mios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191435Z" creationid="Antonio" creationdate="20160316T191435Z">
+        <seg>**Cuando OmegaT encuentra un archivo en su directorio fuente, trata de seleccionar el filtro apropiado basándose en la extensión del archivo.</seg>
       </tuv>
     </tu>
     <tu>
