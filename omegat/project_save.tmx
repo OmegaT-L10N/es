@@ -6938,6 +6938,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T140641Z" creationid="Antonio" creationdate="20160316T140641Z">
+        <seg>Por ejemplo, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; Puede definir un par de valores clave para etiquetas que se deben dejar sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144207Z" creationid="Antonio" creationdate="20151130T144207Z">
