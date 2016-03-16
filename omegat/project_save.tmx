@@ -3508,6 +3508,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T135103Z" creationid="Antonio" creationdate="20160316T135103Z">
+        <seg>Autoreemplazar 'nplurals=INTEGER; &amp;plural=EXPRESSION;' en encabezado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162517Z" creationid="Helli" creationdate="20150526T142818Z">
@@ -7719,6 +7727,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the option is off, the source text will be copied to the target segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T134909Z" creationid="Antonio" creationdate="20160316T134909Z">
+        <seg>Si la opción está desactivada, el segmento origen se copiará al  segmento destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145540Z" creationid="Helli" creationdate="20150526T130710Z">
@@ -10969,6 +10985,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>PO header will be skipped and left unchanged, if this option is checked.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T135004Z" creationid="Antonio" creationdate="20160316T135004Z">
+        <seg>El encabezado del archivo PO se omitirá y se dejará sin cambios, si está marcada esta opción.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
@@ -13294,6 +13318,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155030Z" creationid="Antonio" creationdate="20151128T155030Z">
         <seg>Cingalés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T134920Z" creationid="Antonio" creationdate="20160316T134920Z">
+        <seg>Saltar encabezado de archivo PO</seg>
       </tuv>
     </tu>
     <tu>
