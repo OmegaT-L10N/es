@@ -2587,6 +2587,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Source, target - encoding&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192252Z" creationid="Antonio" creationdate="20160316T192252Z">
+        <seg>&lt;p0&gt;Filtros de archivos&lt;/p0&gt; &lt;s1&gt;Origen, destino, codificación&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T200734Z" creationid="Antonio" creationdate="20151128T163952Z">
@@ -6842,6 +6850,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192436Z" creationid="Antonio" creationdate="20160316T192436Z">
+        <seg>**Los formatos de archivo que no especifican su codificación, utilizan la codificación que usted ha configurado para la extensión que coincide con su nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153651Z" creationid="hcartagena" creationdate="20151117T153651Z">
@@ -7078,6 +7094,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T140641Z" creationid="Antonio" creationdate="20160316T140641Z">
         <seg>Por ejemplo, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; Puede definir un par de valores clave para etiquetas que se deben dejar sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192500Z" creationid="Antonio" creationdate="20160316T192500Z">
+        <seg>Por ejemplo, de manera predeterminada los archivos &lt;c0&gt;.txt&lt;/c0&gt; se cargan aplicando la codificación predeterminada del sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11038,6 +11062,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T203721Z" creationid="Antonio" creationdate="20151130T165155Z">
         <seg>Uno de los miembros del equipo, el administrador de proyecto, debe estar familiarizado con el manejo del lado del servidor, es decir, con el trabajo de configurar el entorno, importar el proyecto de OmegaT, asignar los derechos de acceso a los miembros del equipo, resolver los conflictos, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192340Z" creationid="Antonio" creationdate="20160316T192340Z">
+        <seg>**Sólo un limitado número de formatos de archivo especifica una codificación obligatoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17792,6 +17824,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T215303Z" creationid="hcartagena" creationdate="20151116T200540Z">
         <seg>También puede copiar los archivos a la carpeta 'source' de su proyecto con su administrador de archivos favorito y volver a cargar el proyecto ejecutando Volver a cargar en el menú 'Proyecto'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192509Z" creationid="Antonio" creationdate="20160316T192509Z">
+        <seg>Usted puede cambiar la codificación fuente para cada diferente patrón de nombre de archivo fuente.</seg>
       </tuv>
     </tu>
     <tu>
