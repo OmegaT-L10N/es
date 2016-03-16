@@ -1587,6 +1587,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191849Z" creationid="Antonio" creationdate="20160316T191849Z">
+        <seg>**El caracter '*' coincide con cero o más caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185421Z" creationid="Antonio" creationdate="20151210T185421Z">
@@ -2771,6 +2779,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192131Z" creationid="Antonio" creationdate="20160316T192105Z">
+        <seg>&lt;p0&gt;Archivos de origen&lt;/p0&gt; &lt;s1&gt;Codificación&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T191241Z" creationid="Antonio" creationdate="20160316T191241Z">
@@ -2783,6 +2799,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T105511Z" creationid="Antonio" creationdate="20160125T105511Z">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192158Z" creationid="Antonio" creationdate="20160316T192158Z">
+        <seg>&lt;p0&gt;Archivos de destino&lt;/p0&gt; &lt;s1&gt;Codificación&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3207,6 +3231,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161649Z" creationid="Antonio" creationdate="20151126T161649Z">
         <seg>Todos los dominios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All other characters represent themselves.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191939Z" creationid="Antonio" creationdate="20160316T191939Z">
+        <seg>**Todos los demás caracteres se representan a sí mismos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,6 +7086,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T191708Z" creationid="Antonio" creationdate="20160316T191708Z">
         <seg>**Por ejemplo, de manera predeterminada los filtros XHTML serán utilizados para procesar archivos con extensión &lt;c2&gt;.xhtml&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192037Z" creationid="Antonio" creationdate="20160316T192037Z">
+        <seg>Por ejemplo, si desea que el filtro de texto gestione archivos readme (&lt;c6&gt;readme&lt;/c6&gt;, &lt;c7&gt;read.me&lt;/c7&gt; y &lt;c8&gt;readme.txt&lt;/c8&gt;), debe usar el patrón &lt;c9&gt;read*&lt;/c9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13746,6 +13786,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source and Target file encoding</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192055Z" creationid="Antonio" creationdate="20160316T192055Z">
+        <seg>**Codificación de archivos fuente y destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T235557Z" creationid="Antonio" creationdate="20151126T161738Z">
@@ -14541,6 +14589,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T201056Z" creationid="hcartagena" creationdate="20151117T201056Z">
         <seg>El carácter '?' coincide con cero o un carácter (el término 'ejecuta?' encontrará 'ejecuta', 'ejecutar' y 'ejecutan', por ejemplo, pero no 'ejecutando' o 'ejecutado').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The '?' character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191934Z" creationid="Antonio" creationdate="20160316T191934Z">
+        <seg>**El caracter '?' coincide exactamente con un único caracter.</seg>
       </tuv>
     </tu>
     <tu>
