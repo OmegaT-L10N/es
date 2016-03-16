@@ -2483,10 +2483,58 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193814Z" creationid="Antonio" creationdate="20160316T193814Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- la extensión del archivo original </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T193747Z" creationid="Antonio" creationdate="20160316T193747Z">
         <seg>**&lt;c0&gt;${nameOnly}&lt;/c0&gt; le permite insertar solamente el nombre del archivo de origen sin la extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194001Z" creationid="Antonio" creationdate="20160316T194001Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– únicamente el país de destino - "YY"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193932Z" creationid="Antonio" creationdate="20160316T193932Z">
+        <seg>**&lt;c0&gt;${targetLanguageCode}&lt;/c0&gt; ― únicamente el idioma destino ("XX").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193902Z" creationid="Antonio" creationdate="20160316T193902Z">
+        <seg>**&lt;c0&gt;${targetLanguage}&lt;/c0&gt; ― el idioma destino y código de país, juntos (en forma de "XX-YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193831Z" creationid="Antonio" creationdate="20160316T193831Z">
+        <seg>**&lt;c0&gt;${targetLocale}&lt;/c0&gt; ― código del país destino (en forma de "xx_YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194038Z" creationid="Antonio" creationdate="20160316T194038Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – la fecha y hora del sistema en el momento de generarlo, según diversos patrones</seg>
       </tuv>
     </tu>
     <tu>
@@ -19622,6 +19670,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151202T173924Z" creationid="Antonio" creationdate="20151202T173924Z">
         <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T194042Z" creationid="Antonio" creationdate="20160316T194042Z">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
