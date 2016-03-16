@@ -7050,10 +7050,26 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191708Z" creationid="Antonio" creationdate="20160316T191708Z">
+        <seg>**Por ejemplo, de manera predeterminada los filtros XHTML serán utilizados para procesar archivos con extensión &lt;c2&gt;.xhtml&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144207Z" creationid="Antonio" creationdate="20151130T144207Z">
         <seg>Por ejemplo, en los atajos predeterminados de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191537Z" creationid="Antonio" creationdate="20160316T191537Z">
+        <seg>Por ejemplo, el patrón &lt;c0&gt;*.xhtml&lt;/c0&gt; coincide con cualquier archivo con extensión &lt;c1&gt;.xhtml&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7891,6 +7907,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185826Z" creationid="Antonio" creationdate="20151210T185826Z">
         <seg>Si activa el corrector ortográfico, este reconoce errores ortográficos y tipográficos y usted los puede corregir durante la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191606Z" creationid="Antonio" creationdate="20160316T191606Z">
+        <seg>**Si encuentra el filtro adecuado, ese archivo se le asigna para realizar su procesamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13746,6 +13770,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191815Z" creationid="Antonio" creationdate="20160316T191815Z">
+        <seg>**Los patrones de nombres de archivo fuente utilizan caracteres comodín similares a los utilizados en las &lt;s3&gt;Búsquedas&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191908Z" creationid="hcartagena" creationdate="20151117T191719Z">
@@ -17558,6 +17590,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150527T101636Z" creationid="Helli" creationdate="20150526T153344Z">
         <seg>También puede archivar &lt;/f21&gt;&lt;a22&gt;informes de errores&lt;/a22&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;y &lt;/f24&gt;&lt;a25&gt;peticiones de mejora.&lt;/a25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T191756Z" creationid="Antonio" creationdate="20160316T191756Z">
+        <seg>Usted puede cambiar o añadir patrones de nombres de archivo para que los maneje cada filtro de archivo.</seg>
       </tuv>
     </tu>
     <tu>
