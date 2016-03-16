@@ -1957,8 +1957,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160316T135438Z" creationid="Antonio" creationdate="20160316T135438Z">
-        <seg>&lt;i0&gt;Iniciar párrafos en:&lt;/i0&gt; La etiqueta &lt;br&gt; de HTML creará un párrafo para propósitos de segmentación.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T183914Z" creationid="Antonio" creationdate="20160316T135438Z">
+        <seg>&lt;i0&gt;Iniciar un nuevo párrafo en:&lt;/i0&gt; La etiqueta &lt;br&gt; de HTML creará un párrafo para propósitos de segmentación.</seg>
       </tuv>
     </tu>
     <tu>
