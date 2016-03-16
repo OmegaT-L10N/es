@@ -6986,6 +6986,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T144242Z" creationid="Antonio" creationdate="20160316T144242Z">
+        <seg>Para el ejemplo anterior, el campo contendría: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T221255Z" creationid="Antonio" creationdate="20160124T221255Z">
@@ -9601,6 +9609,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T155140Z" creationid="Antonio" creationdate="20160125T155140Z">
         <seg>Diccionario Merriam Webster - utilización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T144247Z" creationid="Antonio" creationdate="20160316T144247Z">
+        <seg>**Archivos de Microsoft Open XML</seg>
       </tuv>
     </tu>
     <tu>
