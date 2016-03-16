@@ -1787,6 +1787,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T144449Z" creationid="Antonio" creationdate="20160316T144449Z">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comentarios, nombres de hojas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T110758Z" creationid="Antonio" creationdate="20151130T110758Z">
@@ -1983,6 +1991,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T124344Z" creationid="Antonio" creationdate="20160128T124344Z">
         <seg>&lt;e0&gt;ADVERTENCIA!&lt;/e0&gt; Si usted cambia las opciones de filtro mientras que el proyecto está abierto, deberá volver a cargar el proyecto para que los cambios surtan efecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T144434Z" creationid="Antonio" creationdate="20160316T144434Z">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; Texto de instrucciones no visibles, comentarios, notas al pie, notas finales, pies de página</seg>
       </tuv>
     </tu>
     <tu>
@@ -15253,6 +15269,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T144326Z" creationid="Antonio" creationdate="20160316T144326Z">
+        <seg>Aparecerán como segmentos independientes en la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;/f17&gt;&lt;a18&gt;FAQ&lt;/a18&gt;&lt;a19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/a19&gt;&lt;f21&gt;is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153140Z" creationid="Helli" creationdate="20150526T153100Z">
@@ -17424,6 +17448,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T105745Z" creationid="Antonio" creationdate="20160126T105745Z">
         <seg>Puede hacer que el texto de origen quede insertado automáticamente en el campo de edición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T144312Z" creationid="Antonio" creationdate="20160316T144312Z">
+        <seg>Usted puede seleccionar los elementos que deben importarse.</seg>
       </tuv>
     </tu>
     <tu>
