@@ -14775,6 +14775,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog is useful because it includes a special target filename pattern editor with which you can customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T185737Z" creationid="Antonio" creationdate="20160316T185737Z">
+        <seg>**El cuadro de diálogo es útil porque incluye un editor especial para el patrón de nombre de archivo destino, el mismo que le permite personalizar los nombres de los archivos producidos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163617Z" creationid="Antonio" creationdate="20151128T163617Z">
