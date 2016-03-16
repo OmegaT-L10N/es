@@ -1707,6 +1707,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193003Z" creationid="Antonio" creationdate="20160316T193003Z">
+        <seg>**&lt;s1&gt;&lt;auto&gt;&lt;/s1&gt; deja la elección de codificación a OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T123245Z" creationid="Antonio" creationdate="20151130T123245Z">
@@ -10766,6 +10774,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193037Z" creationid="Antonio" creationdate="20160316T193037Z">
+        <seg>**OmegaT determina la codificación de los archivos fuente utilizando su declaración de codificación, si existe (archivos HTML, archivos basados en XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T151606Z" creationid="Antonio" creationdate="20160126T151606Z">
@@ -10786,6 +10802,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T161206Z" creationid="Antonio" creationdate="20160126T161206Z">
         <seg>OmegaT puede darse cuenta de que usted ha realizado esta acción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193047Z" creationid="Antonio" creationdate="20160316T193047Z">
+        <seg>**OmegaT está configurado para utilizar una codificación obligatoria para algunos formatos de archivo (de propiedades de Java, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10870,6 +10894,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T180117Z" creationid="Antonio" creationdate="20151127T180117Z">
         <seg>OmegaT utiliza glosarios que contienen la traducción de palabras sueltas o pequeñas frases, una especie de diccionario bilingüe simplificado para un dominio específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193055Z" creationid="Antonio" creationdate="20160316T193055Z">
+        <seg>**OmegaT utiliza la codificación predeterminada del sistema operativo para los archivos de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15673,6 +15705,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112050Z" creationid="Helli" creationdate="20150526T151402Z">
         <seg>Esto resulta de especial utilidad con las lenguas que construyen formas con prefijo y sufijo a partir de la raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is how it works:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193006Z" creationid="Antonio" creationdate="20160316T193006Z">
+        <seg>**Cómo funciona:</seg>
       </tuv>
     </tu>
     <tu>
