@@ -2483,6 +2483,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193747Z" creationid="Antonio" creationdate="20160316T193747Z">
+        <seg>**&lt;c0&gt;${nameOnly}&lt;/c0&gt; le permite insertar solamente el nombre del archivo de origen sin la extensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223048Z" creationid="hcartagena" creationdate="20151201T223048Z">
@@ -5309,6 +5317,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193724Z" creationid="Antonio" creationdate="20160316T193724Z">
+        <seg>El valor predeterminado es &lt;c0&gt;${filename}&lt;/c0&gt; -- el nombre completo del archivo fuente con extensión, de modo que el nombre del archivo traducido es el mismo que el nombre del archivo original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134909Z" creationid="Helli" creationdate="20150526T130841Z">
@@ -8131,6 +8147,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T115854Z" creationid="Helli" creationdate="20150526T153824Z">
         <seg>Si desea estar informado de lo que ocurre con su informe, regístrese como usuario de SourceForge, inicie sesión y presente un informe de errores o simplemente haga clic en la opción Monitor, en la parte superior del informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to revert to default configuration of the filter, click &lt;e2&gt;Defaults.&lt;/e2&gt; You may also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193600Z" creationid="Antonio" creationdate="20160316T193600Z">
+        <seg>Si usted quiere volver de nuevo a la configuración predeterminada del filtro, haga clic en &lt;s1&gt;Predefinidos.&lt;/s1&gt; También puede modificar el nombre directamente en el campo del patrón del nombre de archivo destino del cuadro de diálogo Filtros de archivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14749,6 +14773,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T092619Z" creationid="Antonio" creationdate="20160125T092511Z">
         <seg>Se abrirá la ventana Commit que mostrará cómo progresa el comando commit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Edit Pattern Dialog offers among others the following options:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T193621Z" creationid="Antonio" creationdate="20160316T193621Z">
+        <seg>**El cuadro de diálogo Editar patrón le ofrece las siguientes opciones:</seg>
       </tuv>
     </tu>
     <tu>
