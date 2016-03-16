@@ -15042,6 +15042,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T185557Z" creationid="Antonio" creationdate="20160316T185557Z">
+        <seg>**Se utiliza el mismo cuadro de diálogo para añadir o editar un patrón particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T141355Z" creationid="Antonio" creationdate="20151127T173715Z">
@@ -15723,6 +15731,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T161938Z" creationid="Antonio" creationdate="20160126T161938Z">
         <seg>Para que sea posible, vaya a &lt;s0&gt;Opciones → Comportamiento del campo de edición...&lt;/s0&gt; y marque la casilla &lt;s1&gt;Permitir traducciones idénticas al original&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T185512Z" creationid="Antonio" creationdate="20160316T185512Z">
+        <seg>Para modificar las opciones del filtro del archivo, puede modificar directamente los campos o bien hacer clic en &lt;e0&gt;Editar.&lt;/e0&gt; Para añadir un nuevo conjunto de opciones de filtro del archivo, haga clic en &lt;e1&gt;Añadir&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
