@@ -4093,6 +4093,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192603Z" creationid="Antonio" creationdate="20160316T192603Z">
+        <seg>**De forma predeterminada, la codificación del archivo traducido, es la misma que la codificación del archivo fuente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192741Z" creationid="hcartagena" creationdate="20151117T192704Z">
@@ -13826,6 +13834,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192624Z" creationid="Antonio" creationdate="20160316T192624Z">
+        <seg>**Los campos de codificación de  origen y de destino utilizan cuadros combinados que incluyen todas las codificaciones compatibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T235557Z" creationid="Antonio" creationdate="20151126T161738Z">
@@ -14080,6 +14096,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203426Z" creationid="hcartagena" creationdate="20151119T203426Z">
         <seg>Subtítulos SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such files may also be written out in any encoding.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160316T192551Z" creationid="Antonio" creationdate="20160316T192551Z">
+        <seg>**Estos archivos también se pueden escribir en cualquier otra codificación.</seg>
       </tuv>
     </tu>
     <tu>
