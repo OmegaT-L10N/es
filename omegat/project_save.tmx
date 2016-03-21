@@ -2923,6 +2923,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T174312Z" creationid="Antonio" creationdate="20160321T174312Z">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Archivos del proyecto de traducción&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221327Z" creationid="hcartagena" creationdate="20151201T221327Z">
@@ -3535,6 +3543,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081824Z" creationid="Antonio" creationdate="20151128T081824Z">
         <seg>Amárico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and folders.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T174317Z" creationid="Antonio" creationdate="20160321T174317Z">
+        <seg>**Un proyecto de traducción OmegaT consta de una serie de directorios y archivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8143,6 +8159,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T194923Z" creationid="Antonio" creationdate="20160316T194923Z">
         <seg>Por ejemplo, si el archivo original tenía el nombre Document.xx.docx, las variables siguientes darían los resultados siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If for some reason these files are lost or corrupted, simply download and/or reinstall OmegaT to restore them all.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T174237Z" creationid="Antonio" creationdate="20160321T174237Z">
+        <seg>**Si por alguna razón se pierden estos archivos, sólo tiene que descargar y/o volver a instalar OmegaT para restaurarlos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16671,6 +16695,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation project files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T174240Z" creationid="Antonio" creationdate="20160321T174240Z">
+        <seg>**Archivos del proyecto de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation project files: These constitute a translation project.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T195037Z" creationid="Antonio" creationdate="20160316T195037Z">
@@ -17707,6 +17739,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184203Z" creationid="Antonio" creationdate="20151210T184203Z">
         <seg>Cuando esté listo para ver el producto final, puede exportar los archivos traducidos, abrir en la aplicación correspondiente y ver la traducción en el formato final...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T174413Z" creationid="Antonio" creationdate="20160321T174413Z">
+        <seg>Cuando usted crea un proyecto de traducción, OmegaT crea automáticamente una carpeta con el nombre especificado, así como una lista de carpetas:</seg>
       </tuv>
     </tu>
     <tu>
