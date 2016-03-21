@@ -3523,6 +3523,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternate locations for some of the folders can be chosen at project creation or during the translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T174533Z" creationid="Antonio" creationdate="20160321T174533Z">
+        <seg>**Se puede elegir una ubicación alternativa para algunos de los directorios durante la creación del proyecto o durante la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T212801Z" creationid="Antonio" creationdate="20160124T212801Z">
@@ -8933,6 +8941,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is therefore possible to select existing folders or create folders in locations that reflect your work flow and project management habits.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T174617Z" creationid="Antonio" creationdate="20160321T174617Z">
+        <seg>De esta forma es posible seleccionar directorios existentes o crear directorios en lugares que reflejen sus hábitos de flujo de trabajo y de gestión del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175448Z" creationid="hcartagena" creationdate="20151120T175448Z">
@@ -11134,6 +11150,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112457Z" creationid="Antonio" creationdate="20160125T112457Z">
         <seg>OmegaT en la Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T174501Z" creationid="Antonio" creationdate="20160321T174501Z">
+        <seg>**Proyecto OmegaT</seg>
       </tuv>
     </tu>
     <tu>
