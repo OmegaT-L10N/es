@@ -3711,6 +3711,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Application files: These are included in the package you download.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T173438Z" creationid="Antonio" creationdate="20160321T173438Z">
+        <seg>Los archivos de la aplicación: Incluidos en el paquete que usted descargó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T081833Z" creationid="Antonio" creationdate="20151128T081833Z">
@@ -10253,6 +10261,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of them are required in order for OmegaT to function properly.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T173445Z" creationid="Antonio" creationdate="20160321T173445Z">
+        <seg>La mayoría de ellos son necesarios para que OmegaT funcione correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most users will find the default file filter options sufficient.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160127T182246Z" creationid="Antonio" creationdate="20160127T182246Z">
@@ -15921,6 +15937,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T214532Z" creationid="hcartagena" creationdate="20151125T000314Z">
         <seg>Esta llamada DEBE estar en un subproceso 'swing'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T173422Z" creationid="Antonio" creationdate="20160321T173422Z">
+        <seg>**Esto a veces puede causar un poco de dificultad cuando se está en mitad de una traducción.</seg>
       </tuv>
     </tu>
     <tu>
