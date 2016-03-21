@@ -9631,6 +9631,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Losing them usually results in OmegaT reverting to its "factory settings".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T173149Z" creationid="Antonio" creationdate="20160321T173149Z">
+        <seg>Perderlos, por lo general se traducirá en que OmegaT tenga que trabajar con la configuración de "fábrica".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luba-Katanga</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152414Z" creationid="Antonio" creationdate="20151128T152414Z">
@@ -15853,6 +15861,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are the files you deal with on a daily basis while translating.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T173040Z" creationid="Antonio" creationdate="20160321T173040Z">
+        <seg>Hay archivos que utilizará todos los días cuando traduzca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T163751Z" creationid="Antonio" creationdate="20151130T163751Z">
@@ -17217,6 +17233,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164218Z" creationid="Antonio" creationdate="20151127T164218Z">
         <seg>Credenciales de usuario rechazadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User settings files: These are created when OmegaT's behavior is modified by user preference settings.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160321T173132Z" creationid="Antonio" creationdate="20160321T173132Z">
+        <seg>**Los archivos de configuración del usuario: Se crean cuando el comportamiento de OmegaT es modificado mediante los valores de la configuración de preferencias del usuario.</seg>
       </tuv>
     </tu>
     <tu>
