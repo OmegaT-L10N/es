@@ -2539,6 +2539,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; moves back to the previous pane.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T212317Z" creationid="Antonio" creationdate="20160329T212317Z">
+        <seg>&lt;k1&gt;Ctrl+Mayús+Tab&lt;/k1&gt; retrocede al panel anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222340Z" creationid="hcartagena" creationdate="20151201T222307Z">
@@ -9061,6 +9069,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T212259Z" creationid="Antonio" creationdate="20160329T212259Z">
+        <seg>Es posible desplazarse de un panel a otro (por ejemplo, del panel Editor al panel Coincidencias parciales) usando el &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112235Z" creationid="Helli" creationdate="20150526T152018Z">
@@ -10946,6 +10962,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T220114Z" creationid="Antonio" creationdate="20160124T220114Z">
         <seg>Observe que primero es necesario registrar a los miembros del equipo, para poder añadirlos al proyecto (Nota: en la versión gratuita de ProyectLocker, solo puede haber dos usuarios por proyecto). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T212443Z" creationid="Antonio" creationdate="20160329T212443Z">
+        <seg>Observe que puede reasignar los accesos directos según sus propias preferencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15830,6 +15854,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T121534Z" creationid="Antonio" creationdate="20151130T121534Z">
         <seg>La sintaxis de definición del atajo es la siguiente: &lt;c0&gt;&lt;código del elemento del menú&gt;=&lt;atajo&gt;&lt;/c0&gt;, donde &lt;e1&gt;&lt;código del elemento de menú&gt;&lt;/e1&gt;1 es un código de los incluidos en las tablas de abajo y &lt;e2&gt;&lt;atajo&gt;&lt;/e2&gt; es una combinación de teclas pulsadas que especifica el usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T212408Z" creationid="Antonio" creationdate="20160329T212408Z">
+        <seg>Los atajos &lt;k2&gt;Ctrl+A&lt;/k2&gt; y &lt;k3&gt;Ctrl+C&lt;/k3&gt; actúan en el interior de los paneles, permitiendo copiar toda o parte de la información al portapapeles.</seg>
       </tuv>
     </tu>
     <tu>
