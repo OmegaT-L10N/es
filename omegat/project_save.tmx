@@ -1803,6 +1803,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211731Z" creationid="Antonio" creationdate="20160329T211731Z">
+        <seg>&lt;e0&gt;Cualquier tecla de carácter,&lt;/e0&gt; si se presiona fuera del segmento editable, será ignorada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185919Z" creationid="Antonio" creationdate="20151210T185919Z">
@@ -1811,10 +1819,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211628Z" creationid="Antonio" creationdate="20160329T211628Z">
+        <seg>&lt;e0&gt;Retroceso: &lt;/e0&gt;nada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T184550Z" creationid="Antonio" creationdate="20160316T184550Z">
         <seg>Comprimir espacio en blanco en el documento traducido: varios espacios en blanco contiguos se traducirán en un solo espacio en blanco en el documento traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211635Z" creationid="Antonio" creationdate="20160329T211635Z">
+        <seg>&lt;e0&gt;Supr: &lt;/e0&gt;nada</seg>
       </tuv>
     </tu>
     <tu>
@@ -1851,6 +1875,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211619Z" creationid="Antonio" creationdate="20160329T211619Z">
+        <seg>&lt;e0&gt;Fin: &lt;/e0&gt; cursor hasta el final del segmento activo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T144449Z" creationid="Antonio" creationdate="20160316T144449Z">
@@ -1871,6 +1903,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T110758Z" creationid="Antonio" creationdate="20151130T110758Z">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt;(http://groovy.codehaus.org): Es un lenguaje dinámico para la máquina virtual Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211603Z" creationid="Antonio" creationdate="20160329T211603Z">
+        <seg>&lt;e0&gt;Inicio: &lt;/e0&gt; cursor al principio del segmento activo</seg>
       </tuv>
     </tu>
     <tu>
