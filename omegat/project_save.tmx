@@ -1253,6 +1253,14 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211433Z" creationid="Antonio" creationdate="20160329T211433Z">
+        <seg>* Estas teclas se comportan de manera diferente cuando el cursor está fuera del segmento editable:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T164155Z" creationid="hcartagena" creationdate="20151118T164155Z">
@@ -17329,6 +17337,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231106Z" creationid="hcartagena" creationdate="20151124T231106Z">
         <seg>Usar &amp;XML para etiquetas independientes (&lt;i/&gt;, por ejemplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn on Mac) to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211358Z" creationid="Antonio" creationdate="20160329T211358Z">
+        <seg>Utilice &lt;e1&gt;Ctrl+RePág/AvPág&lt;/e1&gt; (Cmd+RePág/AvPág en el Mac) para alternar sucesivamente entre las &lt;e2&gt;Entradas de glosario&lt;/e2&gt;, las &lt;e3&gt;Entradas de autotexto,&lt;/e3&gt; las &lt;e4&gt;Etiquetas ausentes&lt;/e4&gt; y las opciones de la &lt;e5&gt;Tabla de caracteres&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
