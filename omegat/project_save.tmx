@@ -8649,8 +8649,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203158Z" creationid="hcartagena" creationdate="20151116T203158Z">
-        <seg>Insertar e&amp;tiquetas originales faltantes</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210243Z" creationid="hcartagena" creationdate="20151116T203158Z">
+        <seg>Insertar e&amp;tiquetas originales ausente</seg>
       </tuv>
     </tu>
     <tu>
@@ -21598,6 +21598,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154535Z" creationid="Antonio" creationdate="20151128T154535Z">
         <seg>pa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page up through the document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210542Z" creationid="Antonio" creationdate="20160329T210542Z">
+        <seg>retroceder página en el documento</seg>
       </tuv>
     </tu>
     <tu>
