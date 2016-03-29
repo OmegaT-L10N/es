@@ -5245,10 +5245,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210917Z" creationid="Antonio" creationdate="20160329T210917Z">
+        <seg>Ctrl+Retroceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+D</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151344Z" creationid="Antonio" creationdate="20151130T151344Z">
         <seg>Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Delete</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210958Z" creationid="Antonio" creationdate="20160329T210958Z">
+        <seg>Ctrl+Supr</seg>
       </tuv>
     </tu>
     <tu>
@@ -5265,6 +5281,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T210709Z" creationid="Antonio" creationdate="20160329T210709Z">
         <seg>Ctrl+Fin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211028Z" creationid="Antonio" creationdate="20160329T211028Z">
+        <seg>Ctrl+Intro</seg>
       </tuv>
     </tu>
     <tu>
@@ -5397,6 +5421,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211111Z" creationid="Antonio" creationdate="20160329T211111Z">
+        <seg>Ctrl+Mayús+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+O toggles orientation between LTR, RTL and language dependent</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151202T162649Z" creationid="Antonio" creationdate="20151126T152519Z">
@@ -5417,6 +5449,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151306Z" creationid="Antonio" creationdate="20151130T151306Z">
         <seg>Ctrl+Mayús+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211131Z" creationid="Antonio" creationdate="20160329T211131Z">
+        <seg>Ctrl+Espacio</seg>
       </tuv>
     </tu>
     <tu>
@@ -12449,6 +12489,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202940Z" creationid="hcartagena" creationdate="20151116T202940Z">
         <seg>R&amp;eemplazar con la coincidencia o selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RTL-LTR switch</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211127Z" creationid="Antonio" creationdate="20160329T211127Z">
+        <seg>interruptor RTL-LTR </seg>
       </tuv>
     </tu>
     <tu>
@@ -21506,6 +21554,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>open a dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211211Z" creationid="Antonio" creationdate="20160329T211211Z">
+        <seg>abre la caja de diálogo con sugerencias contextuales (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211046Z" creationid="Antonio" creationdate="20160329T211046Z">
+        <seg>abrir el segmento anterior (Mac: &lt;e0&gt;Cmd+Intro&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162318Z" creationid="Antonio" creationdate="20151130T162318Z">
@@ -21955,10 +22019,34 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>remove char after cursor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210908Z" creationid="Antonio" creationdate="20160329T210908Z">
+        <seg>eliminar el carácter posterior al cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>remove char before cursor</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T210850Z" creationid="Antonio" creationdate="20160329T210850Z">
         <seg>eliminar el carácter anterior al cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211024Z" creationid="Antonio" creationdate="20160329T211024Z">
+        <seg>eliminar caracteres hasta el inicio de la palabra siguiente (Mac: &lt;e0&gt;Alt+Supr&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210952Z" creationid="Antonio" creationdate="20160329T210952Z">
+        <seg>eliminar caracteres hasta el inicio de la palabra actual (Mac: &lt;e0&gt;Alt+Retroceso&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22095,6 +22183,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212803Z" creationid="hcartagena" creationdate="20151119T212803Z">
         <seg>segment-1.4.1.jar (licencia Segment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211059Z" creationid="Antonio" creationdate="20160329T211059Z">
+        <seg>seleccionar el segmento completo (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
