@@ -4076,6 +4076,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backspace*</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210838Z" creationid="Antonio" creationdate="20160329T210838Z">
+        <seg>Retroceder*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T203839Z" creationid="hcartagena" creationdate="20151117T203839Z">
@@ -5253,10 +5261,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210709Z" creationid="Antonio" creationdate="20160329T210709Z">
+        <seg>Ctrl+Fin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+F</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T152439Z" creationid="Antonio" creationdate="20151130T152439Z">
         <seg>Ctrl+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210651Z" creationid="Antonio" creationdate="20160329T210651Z">
+        <seg>Ctrl+Inicio</seg>
       </tuv>
     </tu>
     <tu>
@@ -5313,6 +5337,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145623Z" creationid="Antonio" creationdate="20151130T145623Z">
         <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210806Z" creationid="Antonio" creationdate="20160329T210806Z">
+        <seg>Ctrl+RePág</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210731Z" creationid="Antonio" creationdate="20160329T210731Z">
+        <seg>Ctrl+RePág</seg>
       </tuv>
     </tu>
     <tu>
@@ -5529,6 +5569,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T134909Z" creationid="Helli" creationdate="20150526T130841Z">
         <seg>Atajo predeterminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete*</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210859Z" creationid="Antonio" creationdate="20160329T210859Z">
+        <seg>Supr*</seg>
       </tuv>
     </tu>
     <tu>
@@ -6316,6 +6364,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T231530Z" creationid="Antonio" creationdate="20151127T163934Z">
         <seg>Fin de reorganización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End*</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210631Z" creationid="Antonio" creationdate="20160329T210631Z">
+        <seg>Final*</seg>
       </tuv>
     </tu>
     <tu>
@@ -11743,6 +11799,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154627Z" creationid="Antonio" creationdate="20151128T154627Z">
         <seg>Persa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgDn:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210559Z" creationid="Antonio" creationdate="20160329T210559Z">
+        <seg>AvPág:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21058,6 +21122,38 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>move to the beginning of the line in the segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210627Z" creationid="Antonio" creationdate="20160329T210627Z">
+        <seg>Ir al comienzo de la línea del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210830Z" creationid="Antonio" creationdate="20160329T210830Z">
+        <seg>pasar al final del documento (Mac: &lt;e0&gt;Cmd+AvPág&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the line in the segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210644Z" creationid="Antonio" creationdate="20160329T210644Z">
+        <seg>Ir al final de la línea del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210720Z" creationid="Antonio" creationdate="20160329T210720Z">
+        <seg>pasar al final del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>move to the next translated segment).</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222237Z" creationid="hcartagena" creationdate="20151201T222237Z">
@@ -21070,6 +21166,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222225Z" creationid="hcartagena" creationdate="20151201T222225Z">
         <seg>pasar al siguiente segmento sin traducir (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; para)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the start of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210759Z" creationid="Antonio" creationdate="20160329T210759Z">
+        <seg>pasar al inicio del segmento (Mac: &lt;e0&gt;Cmd+RePág&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the start of the segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210704Z" creationid="Antonio" creationdate="20160329T210704Z">
+        <seg>pasar al inicio del segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -21602,6 +21714,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>page down through the document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210610Z" creationid="Antonio" creationdate="20160329T210610Z">
+        <seg>avanzar página en el documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>page up through the document</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T210542Z" creationid="Antonio" creationdate="20160329T210542Z">
@@ -21831,6 +21951,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154730Z" creationid="Antonio" creationdate="20151128T154730Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove char before cursor</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T210850Z" creationid="Antonio" creationdate="20160329T210850Z">
+        <seg>eliminar el carácter anterior al cursor</seg>
       </tuv>
     </tu>
     <tu>
