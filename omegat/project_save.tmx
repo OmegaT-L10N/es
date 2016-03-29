@@ -14708,6 +14708,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert match &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T212129Z" creationid="Antonio" creationdate="20160329T212129Z">
+        <seg>Los comandos válidos para todo el sistema como Seleccionar todo (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Pegar (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cortar (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Copiar (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insertar coincidencia &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) e Insertar original (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) actúan en principio y solamente sobre el texto del segmento abierto en esos momentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T172224Z" creationid="Antonio" creationdate="20151127T175001Z">
@@ -15140,6 +15148,14 @@ current folder will be used instead.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T234441Z" creationid="hcartagena" creationdate="20151124T234227Z">
         <seg>En
 su lugar, se utilizará la carpeta actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T211919Z" creationid="Antonio" creationdate="20160329T211919Z">
+        <seg>La tecla "Mayús" no muestra ningún comportamiento especial per se: cuando se pulsa la tecla "Mayús", todas las teclas desplazan el cursor de la manera usual, excepto en el caso de la combinación &lt;l0&gt;Mayús+Intro&lt;/l0&gt;, que inserta un salto de línea en el texto.</seg>
       </tuv>
     </tu>
     <tu>
