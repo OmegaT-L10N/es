@@ -13594,6 +13594,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T212532Z" creationid="Antonio" creationdate="20160329T212532Z">
+        <seg>Consulte el &lt;l0&gt;Apéndice Personalización de los atajos de teclado&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T194143Z" creationid="Antonio" creationdate="20160316T194143Z">
