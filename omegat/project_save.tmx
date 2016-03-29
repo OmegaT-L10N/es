@@ -1335,8 +1335,8 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T203031Z" creationid="hcartagena" creationdate="20151116T193149Z">
-        <seg>1) reducir el número de archivos originales y traducir en lotes;</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T205630Z" creationid="hcartagena" creationdate="20151116T193149Z">
+        <seg>1) Reducir el número de archivos originales y traducir en lotes;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,8 +1394,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T141305Z" creationid="hcartagena" creationdate="20151116T193152Z">
-        <seg>2) aumentar la cantidad de memoria disponible para OmegaT
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T205650Z" creationid="hcartagena" creationdate="20151116T193152Z">
+        <seg>2) Aumentar la cantidad de memoria disponible para OmegaT
 con la instrucción "java -Xmx&lt;tamaño-en-MB&gt;M -jar OmegaT.jar" en la
 línea de comandos o en el programa de arranque de OmegaT;
 El ajuste actual es {0}MB;</seg>
@@ -13404,8 +13404,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>See "Chapter 3.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151116T193521Z" creationid="hcartagena" creationdate="20151116T193458Z">
-        <seg>Ver el "Capítulo 3.</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160329T205657Z" creationid="hcartagena" creationdate="20151116T193458Z">
+        <seg>Consulte el "Capítulo 3.</seg>
       </tuv>
     </tu>
     <tu>
