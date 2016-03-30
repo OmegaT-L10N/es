@@ -8170,6 +8170,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groups.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161849Z" creationid="Antonio" creationdate="20160330T161849Z">
+        <seg>**Grupos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Guaraní</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144328Z" creationid="Antonio" creationdate="20151128T144328Z">
@@ -9547,6 +9555,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212546Z" creationid="hcartagena" creationdate="20151119T212458Z">
         <seg>Jmyspell 2.1.4 (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Joining is not necessary, but will provide you with access to additional services, such as files, questionnaires, and the opportunity to take part in OmegaT-related discussions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161943Z" creationid="Antonio" creationdate="20160330T161943Z">
+        <seg>No es necesario participar, pero le dará acceso a algunos recursos adicionales como algunos archivos y encuestas esporádicas, además de proporcionarle la capacidad para participar en discusiones relacionadas con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16785,6 +16801,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T215811Z" creationid="Antonio" creationdate="20160124T215811Z">
         <seg>Aquí también es donde se deben añadir al proyecto miembros del equipo y asignarles sus derechos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161735Z" creationid="Antonio" creationdate="20160330T161735Z">
+        <seg>Se trata de archivo html que, cuando se abre en su navegador de internet, le lleva al grupo de usuarios de OmegaT alojado en Yahoo!</seg>
       </tuv>
     </tu>
     <tu>
