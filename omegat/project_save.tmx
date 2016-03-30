@@ -1627,6 +1627,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;User Home&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160634Z" creationid="Antonio" creationdate="20160330T160634Z">
+        <seg>**&lt;Home del Usuario&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;User Home&gt;/Library/Preferences/&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160625Z" creationid="Antonio" creationdate="20160330T160625Z">
+        <seg>**&lt;Home del Usuario&gt;/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;f1&gt;1.&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;OmegaT&lt;/f5&gt;&lt;/a4&gt;&lt;a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/a6&gt;&lt;a8&gt;&lt;f9&gt;sites and&lt;/f9&gt;&lt;/a8&gt;&lt;a10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/a10&gt;&lt;a12&gt;&lt;f13&gt;OmegaT&lt;/f13&gt;&lt;/a12&gt;&lt;a14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/a14&gt;&lt;a16&gt;&lt;f17&gt;SourceForge project&lt;/f17&gt;&lt;/a16&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152803Z" creationid="Helli" creationdate="20150526T152618Z">
@@ -2709,8 +2725,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160330T154952Z" creationid="Antonio" creationdate="20160330T154952Z">
-        <seg>&lt;AlgunaCosa&gt;\OmegaT (&lt;AlgunaCosa&gt; corresponde a la ubicación del directorio "inicio" según determine Java.)</seg>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160434Z" creationid="Antonio" creationdate="20160330T154952Z">
+        <seg>&lt;AlgunaCosa&gt;\OmegaT (&lt;AlgunaCosa&gt; corresponde a la ubicación del directorio "home" (inicio) según determine Java.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a folder, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160613Z" creationid="Antonio" creationdate="20160330T160422Z">
+        <seg>&lt;l0&gt;&lt;Home del Usuario&gt;/.omegat&lt;/l0&gt; (.omegat es un directorio, el punto que precede al nombre indica que es invisible, a menos que usted escriba &lt;c1&gt;ls -a&lt;/c1&gt; o algún comando equivalente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11934,6 +11958,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154513Z" creationid="Antonio" creationdate="20151128T154513Z">
         <seg>Osetio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160632Z" creationid="Antonio" creationdate="20160330T160632Z">
+        <seg>Otros</seg>
       </tuv>
     </tu>
     <tu>
