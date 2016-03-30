@@ -3283,6 +3283,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A relatively detailed list of modifications between this version and the preceding versions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163130Z" creationid="Antonio" creationdate="20160330T163130Z">
+        <seg>**Una lista, relativamente detallada, de los cambios presentes en esta versión respecto de las anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A source</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222600Z" creationid="hcartagena" creationdate="20151201T222600Z">
@@ -8707,6 +8715,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T141430Z" creationid="Antonio" creationdate="20160330T141430Z">
         <seg>Si ya he recopilado diversas palabras que desea que el comprobador ortográfico ignore o acepte, solo tiene que copiar los dos archivos correspondientes en el subdirectorio &lt;f0&gt;omegat&lt;/f0&gt; de su proyecto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are interested in modifying or distributing &lt;a1&gt;OmegaT&lt;/a1&gt;, read this document carefully and ensure you understand its implications before doing anything.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163238Z" creationid="Antonio" creationdate="20160330T163238Z">
+        <seg>Si usted está interesado en modificar o distribuir OmegaT, lea con atención este documento y asegúrese de que comprende todas las consecuencias, antes de actuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15729,6 +15745,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163138Z" creationid="Antonio" creationdate="20160330T163138Z">
+        <seg>**La GNU GENERAL PUBLIC LICENSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T185711Z" creationid="hcartagena" creationdate="20151119T202919Z">
@@ -16857,6 +16881,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T105825Z" creationid="Antonio" creationdate="20160126T105825Z">
         <seg>Esto es útil para textos que contengan muchas marcas registradas u otros nombres propios que debe dejarse sin cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This license allows you to do certain things with &lt;a0&gt;OmegaT&lt;/a0&gt;, including modifying and distributing it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163151Z" creationid="Antonio" creationdate="20160330T163151Z">
+        <seg>**Esta licencia le permite hacer ciertas cosas con OmegaT, incluyendo su modificación y distribución.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19792,6 +19824,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163026Z" creationid="Antonio" creationdate="20160330T163026Z">
+        <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>che</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083620Z" creationid="Antonio" creationdate="20151128T083620Z">
@@ -21758,6 +21798,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T145549Z" creationid="Antonio" creationdate="20151128T145549Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>license.txt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163135Z" creationid="Antonio" creationdate="20160330T163135Z">
+        <seg>license.txt</seg>
       </tuv>
     </tu>
     <tu>
