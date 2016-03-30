@@ -4164,6 +4164,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T140013Z" creationid="Antonio" creationdate="20160330T140013Z">
+        <seg>A este directorio se añaden progresivamente (con la extensión bak) las copias de seguridad de este archivo, primero al principio de la sesión de traducción, a su final, y durante el proceso de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T203839Z" creationid="hcartagena" creationdate="20151117T203839Z">
@@ -14748,6 +14756,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subfolder omegat</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T135707Z" creationid="Antonio" creationdate="20160330T135707Z">
+        <seg>Subcarpeta omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such files may also be written out in any encoding.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T192551Z" creationid="Antonio" creationdate="20160316T192551Z">
@@ -15329,6 +15345,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T135754Z" creationid="Antonio" creationdate="20160330T135754Z">
+        <seg>El directorio &lt;e0&gt;omegat&lt;/e0&gt; contiene al menos un archivo, y posiblemente otros más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223339Z" creationid="hcartagena" creationdate="20151201T223339Z">
@@ -15806,6 +15830,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223357Z" creationid="hcartagena" creationdate="20151201T223357Z">
         <seg>La memoria con el nombre &lt;f5&gt;omegat&lt;/f5&gt; puede servir a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T135827Z" creationid="Antonio" creationdate="20160330T135827Z">
+        <seg>**El archivo más importante aquí es el denominado &lt;e3&gt;project_save.tmx&lt;/e3&gt;, que es la memoria de traducción con el cual trabaja el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
