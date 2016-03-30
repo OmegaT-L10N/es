@@ -8587,6 +8587,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163352Z" creationid="Antonio" creationdate="20160330T163352Z">
+        <seg>Si tiene algún problema, no dude en preguntar directamente a los miembros del proyecto o bien, mediante el envío de un correo electrónico desde la página de Source Forge o enviando un correo público al grupo de usuarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T161126Z" creationid="Antonio" creationdate="20160125T161126Z">
@@ -14042,6 +14050,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See above.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163441Z" creationid="Antonio" creationdate="20160330T163441Z">
+        <seg>**Vea más arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T164450Z" creationid="Antonio" creationdate="20151128T164450Z">
@@ -16889,6 +16905,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T163151Z" creationid="Antonio" creationdate="20160330T163151Z">
         <seg>**Esta licencia le permite hacer ciertas cosas con OmegaT, incluyendo su modificación y distribución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This license covers the documentation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163401Z" creationid="Antonio" creationdate="20160330T163401Z">
+        <seg>**Esta licencia cubre la documentación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20044,6 +20068,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084147Z" creationid="Antonio" creationdate="20151128T084147Z">
         <seg>div</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163355Z" creationid="Antonio" creationdate="20160330T163355Z">
+        <seg>doc-license.txt</seg>
       </tuv>
     </tu>
     <tu>
