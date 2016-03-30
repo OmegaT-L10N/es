@@ -13658,6 +13658,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T134422Z" creationid="Antonio" creationdate="20160330T134422Z">
+        <seg>Consulte el &lt;l0&gt;capítulo Diccionarios&lt;/l0&gt; para obtener más información acerca de este tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T194143Z" creationid="Antonio" creationdate="20160316T194143Z">
@@ -14704,6 +14712,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T134239Z" creationid="Antonio" creationdate="20160330T134239Z">
         <seg>Subcarpeta dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subfolder glossary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T134435Z" creationid="Antonio" creationdate="20160330T134435Z">
+        <seg>Subcarpeta glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -16321,6 +16337,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184220Z" creationid="Antonio" creationdate="20151210T184220Z">
         <seg>Esta documentación tiene la finalidad de servir como un tutorial y como guía de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This folder is initially empty.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T134505Z" creationid="Antonio" creationdate="20160330T134505Z">
+        <seg>Esta carpeta está vacía recién creada.</seg>
       </tuv>
     </tu>
     <tu>
