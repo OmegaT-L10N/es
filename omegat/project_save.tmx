@@ -11094,6 +11094,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that default segmentation rules and file filters can be overridden by project-specific setup (see above).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T152456Z" creationid="Antonio" creationdate="20160330T152456Z">
+        <seg>Observe que las reglas de segmentación y los filtros de archivos predeterminados se pueden ignorar según la configuración específica del proyecto (véase más arriba).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T154816Z" creationid="Antonio" creationdate="20160125T154816Z">
