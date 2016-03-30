@@ -3165,6 +3165,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164350Z" creationid="Antonio" creationdate="20160330T164350Z">
+        <seg>&lt;p0&gt;Archivos originales&lt;/p0&gt; &lt;s1&gt;Formatos de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T191241Z" creationid="Antonio" creationdate="20160316T191241Z">
@@ -7552,6 +7560,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213730Z" creationid="hcartagena" creationdate="20151119T213730Z">
         <seg>Variables de nombres de achivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files to translate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164336Z" creationid="Antonio" creationdate="20160330T164336Z">
+        <seg>**Archivos que se van a traducir</seg>
       </tuv>
     </tu>
     <tu>
