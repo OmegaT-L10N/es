@@ -18684,6 +18684,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T140933Z" creationid="Antonio" creationdate="20160330T140933Z">
+        <seg>Puede consultarlas seleccionando &lt;g0&gt;Herramientas &gt; Estadísticas&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You create first an empty client folder on your disk.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T221610Z" creationid="Antonio" creationdate="20160124T221610Z">
