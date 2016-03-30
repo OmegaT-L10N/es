@@ -8711,6 +8711,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T123251Z" creationid="Antonio" creationdate="20160330T123251Z">
+        <seg>En el ejemplo siguiente, la carpeta &lt;f0&gt;mis proyectos&lt;/f0&gt; contiene  tres proyectos de OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T085035Z" creationid="Antonio" creationdate="20160125T085035Z">
@@ -11334,6 +11342,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160321T174501Z" creationid="Antonio" creationdate="20160321T174501Z">
         <seg>**Proyecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT projects and subfolders</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T123307Z" creationid="Antonio" creationdate="20160330T123307Z">
+        <seg>Proyectos y subcarpetas de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
