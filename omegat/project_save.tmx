@@ -15,6 +15,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163812Z" creationid="Antonio" creationdate="20160330T163812Z">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142523Z" creationid="hcartagena" creationdate="20151117T142523Z">
@@ -3311,6 +3321,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112025Z" creationid="Helli" creationdate="20150526T151314Z">
         <seg>Un  algoritmo de extracción de raíces reduce las palabras "fishing", "fished", "fish", y "*fisher" a la palabra de raíz, "fish".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A text file containing two lines:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163805Z" creationid="Antonio" creationdate="20160330T163805Z">
+        <seg>**Un archivo de texto que contiene dos líneas:&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9351,6 +9369,22 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has been translated into a number of languages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163759Z" creationid="Antonio" creationdate="20160330T163759Z">
+        <seg>**Este está traducido a varios idiomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163756Z" creationid="Antonio" creationdate="20160330T163756Z">
+        <seg>**Incluye información general sobre OmegaT, donde encontrará más información sobre cómo contribuir, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T203752Z" creationid="Helli" creationdate="20150526T121256Z">
@@ -10043,6 +10077,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203825Z" creationid="hcartagena" creationdate="20151119T203825Z">
         <seg>Enlaces (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux and OS X users may find this file useful.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163837Z" creationid="Antonio" creationdate="20160330T163837Z">
+        <seg>Los usuarios de Linux y OS X pueden encontrar útil este archivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16813,6 +16855,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163726Z" creationid="Antonio" creationdate="20160330T163726Z">
+        <seg>**Este archivo es muy importante y debe asegurarse de leerlo antes de lanzar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This file records Java error messages while &lt;a0&gt;OmegaT&lt;/a0&gt; is running.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T150840Z" creationid="Antonio" creationdate="20160330T150840Z">
@@ -22991,6 +23041,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154730Z" creationid="Antonio" creationdate="20151128T154730Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163658Z" creationid="Antonio" creationdate="20160330T163658Z">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
