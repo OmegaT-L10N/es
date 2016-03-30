@@ -2979,6 +2979,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;File omegat.project&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T123536Z" creationid="Antonio" creationdate="20160330T123536Z">
+        <seg>&lt;p0&gt;Archivos de proyecto&lt;/p0&gt; &lt;s1&gt;Archivo omegat.project&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160321T174312Z" creationid="Antonio" creationdate="20160321T174312Z">
@@ -3183,6 +3191,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112025Z" creationid="Helli" creationdate="20150526T151314Z">
         <seg>Un  algoritmo de extracción de raíces reduce las palabras "fishing", "fished", "fish", y "*fisher" a la palabra de raíz, "fish".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A translation project &lt;e0&gt;Example_Project&lt;/e0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T123507Z" creationid="Antonio" creationdate="20160330T123507Z">
+        <seg> Se creará un proyecto de traducción &lt;b0&gt;Proyecto_de_ejemplo&lt;/b0&gt;, con la configuración predeterminada, como nuevo subdirectorio con la siguiente estructura:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6105,6 +6121,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075350Z" creationid="Antonio" creationdate="20151127T075350Z">
         <seg>Hecho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T123335Z" creationid="Antonio" creationdate="20160330T123335Z">
+        <seg>Hace doble clic en uno de los vínculos de informes es suficiente para abrir el informe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16683,6 +16707,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T161130Z" creationid="Helli" creationdate="20150526T124414Z">
         <seg>Menú Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Top folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T123546Z" creationid="Antonio" creationdate="20160330T123546Z">
+        <seg>**Carpeta superior...</seg>
       </tuv>
     </tu>
     <tu>
