@@ -16142,6 +16142,14 @@ actual.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The group archives are public and can be viewed without subscription to the group.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T163018Z" creationid="Antonio" creationdate="20160330T163018Z">
+        <seg>**Los archivos del grupo son públicos y la consulta no requiere suscripción al grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
