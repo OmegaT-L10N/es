@@ -3751,6 +3751,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An xml file with all the GUI accessible option settings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T152113Z" creationid="Antonio" creationdate="20160330T152113Z">
+        <seg>Un archivos xml con toda la configuración de opciones modificables de la interfaz gráfica de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T183957Z" creationid="hcartagena" creationdate="20151117T140846Z">
@@ -23511,6 +23519,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T151844Z" creationid="Antonio" creationdate="20160330T151844Z">
         <seg>los filtros de archivo predeterminados del usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user's default segmentation rules</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T151912Z" creationid="Antonio" creationdate="20160330T151912Z">
+        <seg>las reglas de segmentación predeterminadas del usuario</seg>
       </tuv>
     </tu>
     <tu>
