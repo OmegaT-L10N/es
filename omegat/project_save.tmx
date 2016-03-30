@@ -8623,6 +8623,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T123130Z" creationid="Antonio" creationdate="20160330T123130Z">
+        <seg>En los navegadores de archivos, los proyectos de traducción tienen el aspecto y el comportamiento de una carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112337Z" creationid="Helli" creationdate="20150526T152228Z">
