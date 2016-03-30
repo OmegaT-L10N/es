@@ -14274,6 +14274,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should OmegaT appear to be behaving erratically, it is important to include this file or the relevant part in any bug report</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T150920Z" creationid="Antonio" creationdate="20160330T150920Z">
+        <seg>Si parece que el comportamiento de OmegaT es errático, es importante incluir este archivo o la parte correspondiente en cualquier informe de problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T124528Z" creationid="Antonio" creationdate="20160128T124528Z">
@@ -16505,6 +16513,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184220Z" creationid="Antonio" creationdate="20151210T184220Z">
         <seg>Esta documentación tiene la finalidad de servir como un tutorial y como guía de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This file records Java error messages while &lt;a0&gt;OmegaT&lt;/a0&gt; is running.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T150840Z" creationid="Antonio" creationdate="20160330T150840Z">
+        <seg>**En este archivo se registran los mensajes de error de Java, mientras que &lt;a0&gt;OmegaT&lt;/a0&gt; se está ejecutando.</seg>
       </tuv>
     </tu>
     <tu>
