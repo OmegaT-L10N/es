@@ -24,3 +24,4 @@ Editing behaviour	Comportamiento del campo de edición
 Subfolder	Subcarpeta
 Backups	copias de seguridad
 Project files	Archivos de proyecto
+User settings files	Archivos de configuración del usuario
