@@ -11474,6 +11474,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT preferences</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T151855Z" creationid="Antonio" creationdate="20160330T151855Z">
+        <seg>Preferencias de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT project</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160321T174501Z" creationid="Antonio" creationdate="20160321T174501Z">
@@ -20159,6 +20167,14 @@ directorio de configuración.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>folder, containing script files for the script plugin, if installed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T151826Z" creationid="Antonio" creationdate="20160330T151826Z">
+        <seg>directorio que contiene los archivos de script para el complemento de script, si está instalado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>queda solo el punto debido al orden de las palabras</note>
       <tuv lang="EN">
         <seg>folder.</seg>
@@ -23487,6 +23503,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161055Z" creationid="Antonio" creationdate="20151128T161055Z">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user's default file filters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T151844Z" creationid="Antonio" creationdate="20160330T151844Z">
+        <seg>los filtros de archivo predeterminados del usuario</seg>
       </tuv>
     </tu>
     <tu>
