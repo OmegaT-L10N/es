@@ -16455,6 +16455,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T122321Z" creationid="Antonio" creationdate="20160330T122321Z">
+        <seg>Para cambiar la posición de las carpetas una vez que se ha creado un proyecto, abra &lt;g0&gt;Proyecto &gt; Propiedades...&lt;/g0&gt; en el menú, o pulsando &lt;g1&gt;Ctrl+E&lt;/g1&gt; y realice los cambios necesarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To contribute to &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T150608Z" creationid="Antonio" creationdate="20160125T150608Z">
