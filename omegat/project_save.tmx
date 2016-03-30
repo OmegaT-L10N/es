@@ -3003,6 +3003,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;ignored_words and learned_words&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T141036Z" creationid="Antonio" creationdate="20160330T141036Z">
+        <seg>&lt;p0&gt;Archivos de proyecto&lt;/p0&gt; &lt;s1&gt;ignored_words y learned_words&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;statistics file&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T140305Z" creationid="Antonio" creationdate="20160330T140305Z">
@@ -8499,6 +8507,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T151852Z" creationid="Antonio" creationdate="20160126T151852Z">
         <seg>Si añade un prefijo como etiqueta (por ejemplo, [aprox.]), puede detecta estas  traducciones posteriormente para ver que son correctas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T141430Z" creationid="Antonio" creationdate="20160330T141430Z">
+        <seg>Si ya he recopilado diversas palabras que desea que el comprobador ortográfico ignore o acepte, solo tiene que copiar los dos archivos correspondientes en el subdirectorio &lt;f0&gt;omegat&lt;/f0&gt; de su proyecto actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19016,6 +19032,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>are created and used by the spell checker.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T141106Z" creationid="Antonio" creationdate="20160330T141106Z">
+        <seg>los crea y utiliza el comprobador ortográfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222747Z" creationid="hcartagena" creationdate="20151201T222747Z">
@@ -22311,6 +22335,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151249Z" creationid="Antonio" creationdate="20151130T151249Z">
         <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T141603Z" creationid="Antonio" creationdate="20160330T141603Z">
+        <seg>ççno concuerda con ningún nombreçç project_stats_match.txt</seg>
       </tuv>
     </tu>
     <tu>
