@@ -17861,6 +17861,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User files contain the information, applicable to all the projects for a given user;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T150009Z" creationid="Antonio" creationdate="20160330T150009Z">
+        <seg>Los archivos del  usuario contienen la información, aplicable a todos los proyectos, de un usuario determinado;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User settings files</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T145907Z" creationid="Antonio" creationdate="20160330T145838Z">
