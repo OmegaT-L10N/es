@@ -3011,6 +3011,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Application files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160658Z" creationid="Antonio" creationdate="20160330T160650Z">
+        <seg>&lt;p0&gt;Archivos de proyecto&lt;/p0&gt; &lt;s1&gt;Archivo de la aplicación&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;File omegat.project&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T123536Z" creationid="Antonio" creationdate="20160330T123536Z">
@@ -3691,6 +3699,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160833Z" creationid="Antonio" creationdate="20160330T160833Z">
+        <seg>Las alternativas son un paquete .tar Linux, un instalador de Windows, con o sin entorno de ejecución Java, un instalador MacOSX y un paquete de código fuente para desarrolladores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162315Z" creationid="Helli" creationdate="20150526T141051Z">
@@ -3891,6 +3907,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T145706Z" creationid="Helli" creationdate="20150526T145706Z">
         <seg>Apéndice I. Aviso legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Application files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160654Z" creationid="Antonio" creationdate="20160330T160654Z">
+        <seg>**Archivos de la aplicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -8211,6 +8235,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here a platform-independent package in a standard Java form is considered.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160745Z" creationid="Antonio" creationdate="20160330T160745Z">
+        <seg>En este capítulo vamos a considerar el &lt;a0&gt;paquete independiente de la plataforma&lt;/a0&gt; que contiene la aplicación en forma de Java estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here is a short summary of the chapters and their contents.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184230Z" creationid="Antonio" creationdate="20151210T184230Z">
@@ -11486,6 +11518,14 @@ your home folder.</seg>
         <seg>OmegaT tiene prohibido el acceso a la propiedad del sistema que
 contiene el nombre de su sistema operativo o a la propiedad
 del sistema que contiene su carpeta particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied as a package that can be downloaded from SourceForge.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160725Z" creationid="Antonio" creationdate="20160330T160725Z">
+        <seg>**OmegaT viene como un paquete que usted puede descargar desde SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16062,6 +16102,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T135308Z" creationid="Antonio" creationdate="20160316T135308Z">
         <seg>Esta opción permite a OmegaT omitir lo especificado en el encabezado del archivo PO y usara el valor predeterminado para el idioma de destino seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The platform-independent package can be used on any platform with a working Java 1.6 runtime environment, including the platforms for which a specific package also exists.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T160922Z" creationid="Antonio" creationdate="20160330T160922Z">
+        <seg>El paquete independiente de la plataforma se puede utilizar en cualquier plataforma con un entorno de ejecución Java 1.6 ejecutándose, incluyendo las plataformas para las que exista también un paquete específico.</seg>
       </tuv>
     </tu>
     <tu>
