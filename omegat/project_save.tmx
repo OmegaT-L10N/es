@@ -1325,6 +1325,30 @@ formatos de archivo compatibles) Para añadir archivos al proyecto, haga clic en
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/docs/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161538Z" creationid="Antonio" creationdate="20160330T161538Z">
+        <seg>/docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/images/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161544Z" creationid="Antonio" creationdate="20160330T161544Z">
+        <seg>/images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/lib/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161601Z" creationid="Antonio" creationdate="20160330T161601Z">
+        <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075505Z" creationid="Antonio" creationdate="20151127T075505Z">
@@ -9983,6 +10007,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161529Z" creationid="Antonio" creationdate="20160330T161529Z">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075259Z" creationid="Antonio" creationdate="20151127T075259Z">
@@ -10147,6 +10179,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T145431Z" creationid="Antonio" creationdate="20151128T145431Z">
         <seg>Luxemburgués</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MAC OS X</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161531Z" creationid="Antonio" creationdate="20160330T161531Z">
+        <seg>MAC OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -20352,6 +20392,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>filters.xml</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161456Z" creationid="Antonio" creationdate="20160330T161456Z">
+        <seg>filters.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fin</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084927Z" creationid="Antonio" creationdate="20151128T084927Z">
@@ -21154,6 +21202,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161438Z" creationid="Antonio" creationdate="20160330T161438Z">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ii</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153606Z" creationid="Antonio" creationdate="20151128T153606Z">
@@ -21294,6 +21350,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144656Z" creationid="Antonio" creationdate="20151128T144656Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161614Z" creationid="Antonio" creationdate="20160330T161614Z">
+        <seg>join.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -21626,6 +21690,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161441Z" creationid="Antonio" creationdate="20160330T161441Z">
+        <seg>learned_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151550Z" creationid="Helli" creationdate="20150526T151550Z">
@@ -21710,6 +21782,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T200856Z" creationid="hcartagena" creationdate="20151118T192023Z">
         <seg>cargado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>logs/OmegaT.log</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161508Z" creationid="Antonio" creationdate="20160330T161508Z">
+        <seg>logs/OmegaT.log</seg>
       </tuv>
     </tu>
     <tu>
@@ -22286,6 +22366,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154450Z" creationid="Antonio" creationdate="20151128T154450Z">
         <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161520Z" creationid="Antonio" creationdate="20160330T161520Z">
+        <seg>omegat.prefs</seg>
       </tuv>
     </tu>
     <tu>
@@ -22931,6 +23019,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>script/</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161515Z" creationid="Antonio" creationdate="20160330T161515Z">
+        <seg>script/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sd</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154908Z" creationid="Antonio" creationdate="20151128T154908Z">
@@ -22959,6 +23055,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212803Z" creationid="hcartagena" creationdate="20151119T212803Z">
         <seg>segment-1.4.1.jar (licencia Segment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segmentation.conf</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161449Z" creationid="Antonio" creationdate="20160330T161449Z">
+        <seg>segmentation.conf</seg>
       </tuv>
     </tu>
     <tu>
@@ -23199,6 +23303,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155123Z" creationid="Antonio" creationdate="20151128T155121Z">
         <seg>st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161428Z" creationid="Antonio" creationdate="20160330T161428Z">
+        <seg>stats.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -23671,6 +23783,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161040Z" creationid="Antonio" creationdate="20151128T161040Z">
         <seg>ug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161525Z" creationid="Antonio" creationdate="20160330T161525Z">
+        <seg>uiLayout.xml</seg>
       </tuv>
     </tu>
     <tu>
