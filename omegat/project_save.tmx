@@ -7386,6 +7386,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T144919Z" creationid="Antonio" creationdate="20160330T144919Z">
+        <seg>Los archivos de la carpeta &lt;f7&gt;source&lt;/f7&gt;, estén traducidos o no, se generan en esta carpeta, con la misma jerarquía que aparece en la subcarpeta source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223542Z" creationid="hcartagena" creationdate="20151116T223542Z">
@@ -16689,6 +16697,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T173548Z" creationid="hcartagena" creationdate="20151116T223831Z">
         <seg>Para acceder a este enlace, puede copiar y pegar la URL en su navegador o abrir el Manual de Usuario en su navegador (archivo {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T144738Z" creationid="Antonio" creationdate="20160330T144738Z">
+        <seg>Para añadirle contenidos, seleccione &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Proyecto&lt;/g5&gt; &lt;g6&gt;Crear documentos traducidos&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
