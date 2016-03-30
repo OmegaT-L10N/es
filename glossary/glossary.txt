@@ -22,3 +22,4 @@ Editing Behavior	Comportamiento del campo de edición
 fuzzy matches	coincidencias proximadas
 Editing behaviour	Comportamiento del campo de edición
 Subfolder	Subcarpeta
+Backups	copias de seguridad
