@@ -8823,6 +8823,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T134342Z" creationid="Antonio" creationdate="20160330T134342Z">
+        <seg>En el momento de crearla está vacía, pero almacenará los diccionarios que haya añadido al proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Match</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151609Z" creationid="Helli" creationdate="20150526T131802Z">
@@ -14692,6 +14700,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subfolder dictionary</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T134239Z" creationid="Antonio" creationdate="20160330T134239Z">
+        <seg>Subcarpeta dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such files may also be written out in any encoding.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T192551Z" creationid="Antonio" creationdate="20160316T192551Z">
@@ -16201,6 +16217,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T163751Z" creationid="Antonio" creationdate="20151130T163751Z">
         <seg>Pueden compartir material común, con la memoria de traducción y el glosario del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T134220Z" creationid="Antonio" creationdate="20160330T134220Z">
+        <seg>Almacenan el mismo contenido de la memoria de traducción, pero en diferentes formas, para usarla en   futuros proyectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18099,6 +18123,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222321Z" creationid="hcartagena" creationdate="20151201T222248Z">
         <seg>Cuando desee ver su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While the translation is progressing, additional files (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx and project_name-level2.tmx&lt;/f4&gt;) are created (and updated during the process of translation) in this folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T134119Z" creationid="Antonio" creationdate="20160330T134119Z">
+        <seg>Mientras va avanzando la traducción, se crean archivos adicionales (&lt;e2&gt;&lt;f3&gt;nombre_del_proyecto&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, nombre_del_proyecto-level1.tmx y nombre_del_proyecto-level2.tmx&lt;/f4&gt;) en esta carpeta (y se actualizan durante el proceso de traducción).</seg>
       </tuv>
     </tu>
     <tu>
