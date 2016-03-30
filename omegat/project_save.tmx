@@ -3269,6 +3269,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164228Z" creationid="Antonio" creationdate="20160330T164228Z">
+        <seg>Un archivo de proceso por lotes, utilizado para lanzar OmegaT desde la línea de comandos Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T124230Z" creationid="Antonio" creationdate="20160128T124230Z">
@@ -9353,6 +9361,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It contains just the following line:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164230Z" creationid="Antonio" creationdate="20160330T164230Z">
+        <seg>**Sólo contiene la siguiente línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184359Z" creationid="Antonio" creationdate="20151210T184359Z">
@@ -10309,6 +10325,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203646Z" creationid="hcartagena" creationdate="20151119T203646Z">
         <seg>CSV de configuración regional de Magento CE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164113Z" creationid="Antonio" creationdate="20160330T164113Z">
+        <seg>Conviértalo en ejecutable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) a partir de la línea de comandos después de asegurarse de que se encuentra en la carpeta de la aplicación OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11936,6 +11960,22 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222641Z" creationid="hcartagena" creationdate="20151201T222641Z">
         <seg>Sin embargo, Omegat presentará la oración de la siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164144Z" creationid="Antonio" creationdate="20160330T164144Z">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164235Z" creationid="Antonio" creationdate="20160330T164235Z">
+        <seg>OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -16268,6 +16308,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main OmegaT application.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164237Z" creationid="Antonio" creationdate="20160330T164237Z">
+        <seg>**La aplicación principal de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223357Z" creationid="hcartagena" creationdate="20151201T223357Z">
@@ -17197,6 +17245,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152319Z" creationid="Antonio" creationdate="20160125T152319Z">
         <seg>Para instalar los archivos necesarios para el formato StarDict, proceda de la manera siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164318Z" creationid="Antonio" creationdate="20160330T164318Z">
+        <seg>Para lanzar OmegaT tiene que iniciar este archivo, desde la línea de comandos o bien lanzarlo desde el gestor de archivos (generalmente haciendo doble clic en él).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19360,6 +19416,14 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You will then be able to launch OmegaT by executing this file from the command line</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164141Z" creationid="Antonio" creationdate="20160330T164141Z">
+        <seg>También puede iniciar OmegaT ejecutando este archivo desde la línea de comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185538Z" creationid="hcartagena" creationdate="20151119T185538Z">
@@ -21504,6 +21568,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144656Z" creationid="Antonio" creationdate="20151128T144656Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T164232Z" creationid="Antonio" creationdate="20160330T164232Z">
+        <seg>java -jar OmegaT.jar %*</seg>
       </tuv>
     </tu>
     <tu>
