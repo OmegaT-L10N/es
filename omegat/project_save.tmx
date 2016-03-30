@@ -20730,6 +20730,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T144017Z" creationid="Antonio" creationdate="20160330T144017Z">
+        <seg>**si existe, contiene los filtros de archivo específicos de proyecto, si previamente se han solicitado en &lt;g0&gt;Proyecto &gt; Propiedades...&lt;/g0&gt;Consulte el &lt;l1&gt;Capítulo Propiedades del proyecto&lt;/l1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T143921Z" creationid="Antonio" creationdate="20160330T143802Z">
+        <seg>si existe, contiene las reglas de segmentación específicas de proyecto, si previamente se han solicitado en &lt;g0&gt;Proyecto &gt; Propiedades...&lt;/g0&gt;Consulte el &lt;l1&gt;Capítulo Propiedades del proyecto&lt;/l1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>if sentence segmentation rules are active, the text will further be segmented according to the option selected here.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T142914Z" creationid="Antonio" creationdate="20160128T142914Z">
