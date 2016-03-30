@@ -2987,6 +2987,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Subfolder omegat&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T135645Z" creationid="Antonio" creationdate="20160330T135645Z">
+        <seg>&lt;p0&gt;Archivo de proyecto&lt;/p0&gt; &lt;s1&gt;Subcarpeta omegat&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160321T174312Z" creationid="Antonio" creationdate="20160321T174312Z">
@@ -9191,6 +9199,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will contain glossaries you will be using in the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T135549Z" creationid="Antonio" creationdate="20160330T135549Z">
+        <seg>Contendrá los glosarios que vaya utilizando en el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T092818Z" creationid="Antonio" creationdate="20160125T092818Z">
@@ -13662,6 +13678,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T134422Z" creationid="Antonio" creationdate="20160330T134422Z">
         <seg>Consulte el &lt;l0&gt;capítulo Diccionarios&lt;/l0&gt; para obtener más información acerca de este tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;chapter Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T135612Z" creationid="Antonio" creationdate="20160330T135612Z">
+        <seg>Consulte el &lt;l0&gt;capítulo Glsosarios&lt;/l0&gt; para obtener más información acerca de este tema.</seg>
       </tuv>
     </tu>
     <tu>
