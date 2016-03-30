@@ -3619,6 +3619,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the user manual files can be found in this folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161219Z" creationid="Antonio" creationdate="20160330T161219Z">
+        <seg>**Todos los archivos del manual de usuario están en este directorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T234507Z" creationid="Antonio" creationdate="20151127T080959Z">
@@ -5111,6 +5119,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T204044Z" creationid="Antonio" creationdate="20151127T171519Z">
         <seg>Conexión disponible, el proyecto está en modo de proyecto de trabajo en grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161318Z" creationid="Antonio" creationdate="20160330T161318Z">
+        <seg>Contiene los archivos de Java, necesarios para el funcionamiento de &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161205Z" creationid="Antonio" creationdate="20160330T161205Z">
+        <seg>**Contenidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7434,6 +7458,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File/ subfolder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161200Z" creationid="Antonio" creationdate="20160330T161200Z">
+        <seg>Archivo/ directorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223213Z" creationid="hcartagena" creationdate="20151116T223213Z">
@@ -8427,6 +8459,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Icons and logo graphics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161238Z" creationid="Antonio" creationdate="20160330T161238Z">
+        <seg>**Aquí se incluyen iconos y gráficos del logo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203934Z" creationid="hcartagena" creationdate="20151119T203934Z">
@@ -9297,6 +9337,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112235Z" creationid="Helli" creationdate="20150526T152018Z">
         <seg>Es posible seleccionar otro analizador (de idoma) o una versión diferente del analizador (analizador de funcionamiento) de la ventana de Propiedades del Proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is provided as a compressed file (zip or tar archive) that you must extract to the folder of your choice for installation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161039Z" creationid="Antonio" creationdate="20160330T161039Z">
+        <seg>Se debe proporcionar como archivo comprimido (archivo zip o tar) que se debe extraer en un directorio de su elección para instalarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11790,6 +11838,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T213228Z" creationid="Antonio" creationdate="20160124T213228Z">
         <seg>Una vez que está disponible el servidor SVN, los jefes de proyecto deben instalar en los equipos locales un cliente de SVN, con el fin de administrar el contenido del proyecto en sus equipos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the archive has been extracted, a folder containing the following contents is created:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161152Z" creationid="Antonio" creationdate="20160330T161152Z">
+        <seg>Una vez que se ha extraido, se creará una carpeta con el contenido siguiente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15927,6 +15983,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file can usually be extracted by double-clicking on the downloaded package.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161117Z" creationid="Antonio" creationdate="20160330T161117Z">
+        <seg>El archivos se suele descomprimir haciendo generalmente con un doble clic sobre el paquete descargado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T162213Z" creationid="Antonio" creationdate="20160126T162213Z">
@@ -18960,6 +19024,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T105745Z" creationid="Antonio" creationdate="20160126T105745Z">
         <seg>Puede hacer que el texto de origen quede insertado automáticamente en el campo de edición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can open them in an Internet browser to obtain access to external links.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T161226Z" creationid="Antonio" creationdate="20160330T161226Z">
+        <seg>**Usted puede abrirlos en un navegador de Internet para tener acceso a los enlaces externos.</seg>
       </tuv>
     </tu>
     <tu>
