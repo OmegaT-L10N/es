@@ -2707,6 +2707,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T154952Z" creationid="Antonio" creationdate="20160330T154952Z">
+        <seg>&lt;AlgunaCosa&gt;\OmegaT (&lt;AlgunaCosa&gt; corresponde a la ubicación del directorio "inicio" según determine Java.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223048Z" creationid="hcartagena" creationdate="20151201T223048Z">
@@ -17981,6 +17989,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users\&lt;User Name&gt;\AppData\Roaming\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T154852Z" creationid="Antonio" creationdate="20160330T154852Z">
+        <seg>Usuarios\&lt;Nombre usuario&gt;\AppData\Roaming\OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the team project in OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T095711Z" creationid="Antonio" creationdate="20160125T095711Z">
@@ -18502,6 +18518,22 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201835Z" creationid="hcartagena" creationdate="20151119T201835Z">
         <seg>Recursos de Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Vista and 7</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T154808Z" creationid="Antonio" creationdate="20160330T154808Z">
+        <seg>Windows Vista y 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows other</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160330T154908Z" creationid="Antonio" creationdate="20160330T154908Z">
+        <seg>Windows (otras versiones)</seg>
       </tuv>
     </tu>
     <tu>
