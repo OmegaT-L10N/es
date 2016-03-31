@@ -17939,8 +17939,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T194920Z" creationid="hcartagena" creationdate="20160331T194920Z">
-        <seg>Para empezar a usar OmegaT, cree primero un proyecto que tendrá todos sus archivos, como el archivo de origen, las memorias de traducción, los glosarios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T195109Z" creationid="hcartagena" creationdate="20160331T194920Z">
+        <seg>Para empezar a usar OmegaT, cree primero un proyecto que tendrá todos sus archivos, como el archivo original, las memorias de traducción, los glosarios y finalmente el archivo traducido.</seg>
       </tuv>
     </tu>
     <tu>
