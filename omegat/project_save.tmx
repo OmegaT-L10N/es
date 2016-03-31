@@ -12548,6 +12548,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203359Z" creationid="hcartagena" creationdate="20160331T203359Z">
+        <seg>Cuando se haya asegurado de que no hay errores de etiquetas en su traducción, pulse &lt;k0&gt;Ctrl+D&lt;/k0&gt; para generar los archivos traducidos,que se crearán en la subcarpeta &lt;f1&gt;/target/&lt;/f1&gt; dentro de la carpeta del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T190312Z" creationid="Antonio" creationdate="20151210T190312Z">
@@ -14712,6 +14720,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T135612Z" creationid="Antonio" creationdate="20160330T135612Z">
         <seg>Consulte el &lt;l0&gt;capítulo Glsosarios&lt;/l0&gt; para obtener más información acerca de este tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203412Z" creationid="hcartagena" creationdate="20160331T203412Z">
+        <seg>Vea &lt;l1&gt;Filtros de archivo&lt;/l1&gt; para obtener un listado de los formatos de archivo que OmegaT entiende.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18041,10 +18057,26 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203515Z" creationid="hcartagena" creationdate="20160331T203515Z">
+        <seg>Para tener un recordatorio de los ajustes iniciales del proyecto, abra el diálogo de propiedades del proyecto con la combinación &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To see a</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223155Z" creationid="hcartagena" creationdate="20151201T223155Z">
         <seg>Para ver un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203621Z" creationid="hcartagena" creationdate="20160331T203621Z">
+        <seg>Para ver un listado de los archivos del proyecto, abra el diálogo &lt;g1&gt;Archivos del proyecto&lt;/g1&gt; con la combinación &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20040,6 +20072,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223103Z" creationid="hcartagena" creationdate="20151201T223103Z">
         <seg>Puede crear un proyecto nuevo para cada trabajo nuevo y puede añadir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203442Z" creationid="hcartagena" creationdate="20160331T203442Z">
+        <seg>Puede crear un proyecto nuevo para cada trabajo nuevo y puede añadir archivos originales nuevos a un proyecto en cualquier momento.</seg>
       </tuv>
     </tu>
     <tu>
