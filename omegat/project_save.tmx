@@ -3197,6 +3197,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T080402Z" creationid="Antonio" creationdate="20160331T080402Z">
+        <seg>**&lt;p0&gt;Archivo de destino&lt;/p0&gt; &lt;s1&gt;PO como archivos bilingües&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T074707Z" creationid="Antonio" creationdate="20160331T074707Z">
@@ -12380,6 +12388,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T080322Z" creationid="Antonio" creationdate="20160331T080322Z">
+        <seg>**OmegaT puede manejar otros tipos de archivos de texto sin formato, asociando su extensión de archivo a un tipo de archivo compatible (por ejemplo, los archivos .pod podrían estar asociadas a su filtro de texto ASCII) y preprocesarlos con reglas de segmentación específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Out-of-order</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T232840Z" creationid="Antonio" creationdate="20151127T163402Z">
@@ -12424,6 +12440,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T075757Z" creationid="Antonio" creationdate="20160331T075757Z">
         <seg>**Archivos PO (.po)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO files&lt;i0/&gt; can contain both the source and the target text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T080437Z" creationid="Antonio" creationdate="20160331T080437Z">
+        <seg>Los archivos PO pueden contener tanto el texto original como el texto traducido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14304,6 +14328,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163931Z" creationid="Antonio" creationdate="20151128T163931Z">
         <seg>Vea la GNU General Public License para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T080524Z" creationid="Antonio" creationdate="20160331T080524Z">
+        <seg>Visto desde este punto de vsita, son simultáneamente archivos de texto sin formato ymemorias de traducción.</seg>
       </tuv>
     </tu>
     <tu>
