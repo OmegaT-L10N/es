@@ -1399,6 +1399,16 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215451Z" creationid="hcartagena" creationdate="20160331T215451Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		Con qué llenar el TMX seudotraducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -5523,6 +5533,42 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T204044Z" creationid="Antonio" creationdate="20151127T171519Z">
         <seg>Conexión disponible, el proyecto está en modo de proyecto de trabajo en grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215525Z" creationid="hcartagena" creationdate="20160331T215525Z">
+        <seg>Modo console-align:
+	--alignDir=&lt;ruta de acceso&gt;
+		Directorio que contiene los archivos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215428Z" creationid="hcartagena" creationdate="20160331T215428Z">
+        <seg>Modo console-pseudotranslatetmx:
+	--pseudotranslatetmx=&lt;ruta de acceso&gt;
+		El archivo TMX seudotraducido que sale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215341Z" creationid="hcartagena" creationdate="20160331T215323Z">
+        <seg>Modo console-translate:
+	--source-pattern=&lt;patrón&gt;
+		Un listado de expresiones regulares de archivos originales a procesar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14918,6 +14964,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T162741Z" creationid="Antonio" creationdate="20160126T162741Z">
         <seg>Consulte la sección &lt;u0&gt;ççUtilización de la función de exportación del texto de OmegaTçç&lt;/u0&gt; donde aparecen los detalles, los ejemplos y sugerencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215554Z" creationid="hcartagena" creationdate="20160331T215554Z">
+        <seg>Ver más información en Ayuda &gt; Manual de usuario.</seg>
       </tuv>
     </tu>
     <tu>
