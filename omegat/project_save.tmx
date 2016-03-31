@@ -3245,6 +3245,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Right to left languages&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184320Z" creationid="Antonio" creationdate="20160331T184311Z">
+        <seg>**&lt;p0&gt;Archivos de origen&lt;/p0&gt; &lt;s1&gt;Idiomas de derecha a izquierda&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T105511Z" creationid="Antonio" creationdate="20160125T105511Z">
@@ -3305,6 +3313,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T074632Z" creationid="Antonio" creationdate="20160331T074632Z">
         <seg>&lt;p0&gt;Archivo de destino&lt;/p0&gt; &lt;s1&gt;Archivos de texto sin formato&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Right to left languages&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184305Z" creationid="Antonio" creationdate="20160331T184305Z">
+        <seg>&lt;p0&gt;Archivos de destino&lt;/p0&gt; &lt;s1&gt;Idiomas de derecha a izquierda&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9973,6 +9989,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223327Z" creationid="hcartagena" creationdate="20151116T223327Z">
         <seg>Saltando al último segmento editado...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Justification of source and target segments depends upon the project languages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184353Z" creationid="Antonio" creationdate="20160331T184353Z">
+        <seg>**La justificación de de segmentos originales y de destino depende de los idiomas del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
