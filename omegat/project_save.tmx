@@ -1741,6 +1741,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T074431Z" creationid="Antonio" creationdate="20160331T074431Z">
+        <seg>**Puede utilizar OmegaT para traducir archivos de diversos formatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;[2] &lt;/a0&gt;The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;a1&gt;Java 1.6 keystrokes shortcuts&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T144530Z" creationid="Helli" creationdate="20150526T144216Z">
@@ -3193,6 +3201,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T192158Z" creationid="Antonio" creationdate="20160316T192158Z">
         <seg>&lt;p0&gt;Archivos de destino&lt;/p0&gt; &lt;s1&gt;Codificación&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T074348Z" creationid="Antonio" creationdate="20160331T074348Z">
+        <seg>&lt;p0&gt;Archivo de destino&lt;/p0&gt; &lt;s1&gt;Formato de los archivo&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7488,6 +7504,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T124425Z" creationid="Antonio" creationdate="20160128T124425Z">
         <seg>Cuadro de diálogo Filtros de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File formats</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T074401Z" creationid="Antonio" creationdate="20160331T074401Z">
+        <seg>**Formato de los archivos</seg>
       </tuv>
     </tu>
     <tu>
@@ -16704,6 +16728,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T154159Z" creationid="Antonio" creationdate="20160126T154159Z">
         <seg>Existen diversas restricciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are basically two types of file formats, plain text and formatted text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T074506Z" creationid="Antonio" creationdate="20160331T074506Z">
+        <seg>**Básicamente hay dos tipos de formatos de archivo, el &lt;s0&gt;texto sin formato&lt;/s0&gt; y el &lt;s1&gt;texto con formato&lt;/s1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
