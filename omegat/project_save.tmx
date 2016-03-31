@@ -3985,6 +3985,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android resource (*.xml)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181655Z" creationid="Antonio" creationdate="20160331T181655Z">
+        <seg>Recurso de Android (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160121T094956Z" creationid="Helli" creationdate="20150603T151512Z">
@@ -8508,6 +8516,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help (*.xml) and Manual (*.hmxp) files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181728Z" creationid="Antonio" creationdate="20160331T181728Z">
+        <seg>Archivos de Ayuda (*.xml) y de manual (*.hmxp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162952Z" creationid="Helli" creationdate="20150526T124439Z">
@@ -10085,6 +10101,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194042Z" creationid="Víctor Parra" creationdate="20151126T194042Z">
         <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTex (*.tex, *.latex)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181657Z" creationid="Antonio" creationdate="20160331T181657Z">
+        <seg>LaTex (*.tex, *.latex)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13327,6 +13351,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181638Z" creationid="Antonio" creationdate="20160331T181638Z">
+        <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quechua</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154728Z" creationid="Antonio" creationdate="20151128T154728Z">
@@ -13846,6 +13878,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194129Z" creationid="Víctor Parra" creationdate="20151126T194129Z">
         <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ResX files (*.resx)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181640Z" creationid="Antonio" creationdate="20160331T181640Z">
+        <seg>ResX files (*.resx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19448,6 +19488,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194127Z" creationid="Víctor Parra" creationdate="20151126T194127Z">
         <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181635Z" creationid="Antonio" creationdate="20160331T181635Z">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - del origen=variedad del destino</seg>
       </tuv>
     </tu>
     <tu>
