@@ -25,3 +25,5 @@ Subfolder	Subcarpeta
 Backups	copias de seguridad
 Project files	Archivos de proyecto
 User settings files	Archivos de configuración del usuario
+Plain text files	Archivos de texto sin formato
+File formats	Formatos de archivo
