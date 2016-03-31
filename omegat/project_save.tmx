@@ -5919,6 +5919,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DTD files (*.DTD)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T080100Z" creationid="Antonio" creationdate="20160331T080100Z">
+        <seg>Archivos DTD (*.DTD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Danish</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084131Z" creationid="Antonio" creationdate="20151128T084131Z">
@@ -6379,6 +6387,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194145Z" creationid="Víctor Parra" creationdate="20151126T194145Z">
         <seg>DokuWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T080115Z" creationid="Antonio" creationdate="20160331T080115Z">
+        <seg>Archivos DokuWiki (*.txt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10429,6 +10445,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203646Z" creationid="hcartagena" creationdate="20151119T203646Z">
         <seg>CSV de configuración regional de Magento CE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV files (*.csv)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T080212Z" creationid="Antonio" creationdate="20160331T080212Z">
+        <seg>CSV de configuración regional de Magento CE (*.csv)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15290,6 +15314,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203426Z" creationid="hcartagena" creationdate="20151119T203426Z">
         <seg>Subtítulos SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SubRip title files (*.srt)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T080159Z" creationid="Antonio" creationdate="20160331T080159Z">
+        <seg>Archivos de subtítulos (*.srt)</seg>
       </tuv>
     </tu>
     <tu>
