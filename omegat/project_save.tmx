@@ -3769,6 +3769,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220052Z" creationid="hcartagena" creationdate="20160331T220052Z">
+        <seg>Agregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213654Z" creationid="hcartagena" creationdate="20151119T213654Z">
@@ -6491,6 +6499,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175039Z" creationid="Antonio" creationdate="20151127T175039Z">
         <seg>Diff (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Directory {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215946Z" creationid="hcartagena" creationdate="20160331T215946Z">
+        <seg>Se creó el directorio {0} automáticamente para el proyecto en modo de trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11089,6 +11105,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220227Z" creationid="hcartagena" creationdate="20160331T220227Z">
+        <seg>Asignación de carpetas locales a carpetas remotas en repositorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T222609Z" creationid="Antonio" creationdate="20151127T175436Z">
@@ -14180,6 +14204,22 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220115Z" creationid="hcartagena" creationdate="20160331T220115Z">
+        <seg>Quitar repositorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220108Z" creationid="hcartagena" creationdate="20160331T220108Z">
+        <seg>Quitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230420Z" creationid="hcartagena" creationdate="20151119T230420Z">
@@ -14402,6 +14442,22 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192443Z" creationid="hcartagena" creationdate="20151117T192443Z">
         <seg>Reemplazar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220037Z" creationid="hcartagena" creationdate="20160331T220037Z">
+        <seg>Mapeo de repositorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220045Z" creationid="hcartagena" creationdate="20160331T215959Z">
+        <seg>Mapeo de repositorios...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18901,6 +18957,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220122Z" creationid="hcartagena" creationdate="20160331T220122Z">
+        <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the name and description of the repository.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T214357Z" creationid="Antonio" creationdate="20160124T214357Z">
@@ -18951,6 +19015,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220125Z" creationid="hcartagena" creationdate="20160331T220125Z">
+        <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194832Z" creationid="Víctor Parra" creationdate="20151126T194832Z">
@@ -18979,6 +19051,22 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142025Z" creationid="hcartagena" creationdate="20151117T142025Z">
         <seg>No se pudo compilar el nuevo archivo TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220012Z" creationid="hcartagena" creationdate="20160331T220012Z">
+        <seg>No se pudo convertir el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220028Z" creationid="hcartagena" creationdate="20160331T220028Z">
+        <seg>No se pudo descargar el proyecto de trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
