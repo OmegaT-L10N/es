@@ -3741,6 +3741,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T200108Z" creationid="hcartagena" creationdate="20160331T200108Z">
+        <seg>Después de que se hayan cargado los archivos originales en el panel del &lt;g3&gt;Editor&lt;/g3&gt;, puede cerrar el diálogo &lt;g4&gt;Archivos del proyecto&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221716Z" creationid="hcartagena" creationdate="20151201T221716Z">
@@ -9121,6 +9129,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T195923Z" creationid="hcartagena" creationdate="20160331T195923Z">
+        <seg>Si le interesan los demás ajustes de este diálogo, puede volver a ello en cualquier momento pulsando &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T205917Z" creationid="Antonio" creationdate="20151130T145033Z">
@@ -12360,6 +12376,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222025Z" creationid="hcartagena" creationdate="20151201T222025Z">
         <seg>OmegaT copiará los archivos seleccionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T200028Z" creationid="hcartagena" creationdate="20160331T200028Z">
+        <seg>OmegaT copiará los archivos seleccionados a la carpeta &lt;f2&gt;/source/&lt;/f2&gt; de su proyecto recién creado.</seg>
       </tuv>
     </tu>
     <tu>
