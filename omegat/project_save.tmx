@@ -4743,6 +4743,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Camtasia for Windows (*.camproj)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182521Z" creationid="Antonio" creationdate="20160331T182521Z">
+        <seg>Camtasia para Windows (*.camproj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T204144Z" creationid="Antonio" creationdate="20151127T164544Z">
@@ -7820,6 +7828,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flash XML export (*.xml)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182508Z" creationid="Antonio" creationdate="20160331T182508Z">
+        <seg>Archivo de exportación de Flash XML export (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191958Z" creationid="hcartagena" creationdate="20151118T191958Z">
@@ -8737,6 +8753,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144624Z" creationid="Antonio" creationdate="20151128T144613Z">
         <seg>Islandés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iceni Infix (*.xml)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182403Z" creationid="Antonio" creationdate="20160331T182403Z">
+        <seg>Iceni Infix (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18235,6 +18259,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager (*.xml)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182359Z" creationid="Antonio" creationdate="20160331T182359Z">
+        <seg>Typo3 LocManager (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typo3 l10nmgr</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194135Z" creationid="Víctor Parra" creationdate="20151126T194135Z">
@@ -18999,6 +19031,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visio (*.vxd)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182522Z" creationid="Antonio" creationdate="20160331T182522Z">
+        <seg>Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Volapük</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161210Z" creationid="Antonio" creationdate="20151128T161210Z">
@@ -19289,6 +19329,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiX Localization (*.wxl)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182401Z" creationid="Antonio" creationdate="20160331T182401Z">
+        <seg>WiX Localization (*.wxl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
@@ -19392,6 +19440,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194138Z" creationid="Víctor Parra" creationdate="20151126T194138Z">
         <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML (*.txml)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182511Z" creationid="Antonio" creationdate="20160331T182511Z">
+        <seg>Wordfast TXML (*.txml)</seg>
       </tuv>
     </tu>
     <tu>
