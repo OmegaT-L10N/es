@@ -8717,6 +8717,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T081622Z" creationid="Antonio" creationdate="20160331T081622Z">
+        <seg>Si para un texto de origen determinado no existe aún una traducción en la memoria de traducción del proyecto (project_save.tmx), la traducción actual se guardará en este archivo project_save.tmx como traducción predeterminada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T194923Z" creationid="Antonio" creationdate="20160316T194923Z">
