@@ -1335,6 +1335,16 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214242Z" creationid="hcartagena" creationdate="20160331T214242Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Especificar un modo distinto al predeterminado (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T122440Z" creationid="Antonio" creationdate="20151130T122440Z">
@@ -12740,6 +12750,22 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214208Z" creationid="hcartagena" creationdate="20160331T214208Z">
+        <seg>Opciones:
+	Ninguna: lanzar GUI
+	Solo ruta de acceso al proyecto: lanzar GUI y cargar el proyecto especificado
+	-h, --help
+		Mostrar información de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oriya</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154459Z" creationid="Antonio" creationdate="20151128T154452Z">
@@ -14800,6 +14826,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T163441Z" creationid="Antonio" creationdate="20160330T163441Z">
         <seg>**Vea más arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214252Z" creationid="hcartagena" creationdate="20160331T214252Z">
+        <seg>Ver detalles abajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19025,8 +19059,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T210304Z" creationid="hcartagena" creationdate="20160331T210304Z">
-        <seg>Uso: java -jar OmegaT.jar [&lt;opciones&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214018Z" creationid="hcartagena" creationdate="20160331T210304Z">
+        <seg>Uso: java -jar OmegaT.jar [&lt;opciones&gt;] [&lt;ruta de acceso al proyecto&gt;]</seg>
       </tuv>
     </tu>
     <tu>
