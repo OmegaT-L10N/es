@@ -3429,6 +3429,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII text (.txt, etc.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T075701Z" creationid="Antonio" creationdate="20160331T075701Z">
+        <seg>**Texto ASCII (.txt, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T082234Z" creationid="Antonio" creationdate="20151128T081723Z">
@@ -5839,6 +5847,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T075647Z" creationid="Antonio" creationdate="20160331T075647Z">
+        <seg>**En estos momentos, OmegaT admite los siguientes formatos de texto sin formato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Co&amp;lours...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204146Z" creationid="hcartagena" creationdate="20151116T204146Z">
@@ -6718,6 +6734,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191057Z" creationid="hcartagena" creationdate="20151119T191057Z">
         <seg>Habilitado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoded text (*.UTF8)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T075737Z" creationid="Antonio" creationdate="20160331T075737Z">
+        <seg>**Texto codificado (*.UTF8)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8541,6 +8565,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INI (key=value) files (*.ini)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T075812Z" creationid="Antonio" creationdate="20160331T075812Z">
+        <seg>**Archivos INI (clave=valor) (.ini)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191836Z" creationid="hcartagena" creationdate="20151118T191836Z">
@@ -9653,6 +9685,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T185048Z" creationid="hcartagena" creationdate="20151119T202858Z">
         <seg>Opciones de filtro de Paquetes de recursos de Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java resource bundles (*.properties)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T075749Z" creationid="Antonio" creationdate="20160331T075749Z">
+        <seg>**Paquetes de recursos Java (*.properties)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12352,6 +12392,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T142919Z" creationid="Antonio" creationdate="20160128T142919Z">
         <seg>Archivos PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO files (*.po)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T075757Z" creationid="Antonio" creationdate="20160331T075757Z">
+        <seg>**Archivos PO (.po)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16883,6 +16931,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T150512Z" creationid="Antonio" creationdate="20160126T150512Z">
         <seg>Se muestran como &lt;EMPTY&gt; en el Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are not able to contain or retain information regarding the color, font etc of the text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T075621Z" creationid="Antonio" creationdate="20160331T075621Z">
+        <seg>Tales archivos no son capaces de almacenar ni conservar información con respecto al color, tipo de letra, etc. del texto.</seg>
       </tuv>
     </tu>
     <tu>
