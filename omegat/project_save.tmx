@@ -6737,6 +6737,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202534Z" creationid="hcartagena" creationdate="20160331T202534Z">
+        <seg>Durante la traducción, use los menús &lt;g4&gt;Editar&lt;/g4&gt; e &lt;g5&gt;Ir a&lt;/g5&gt; para ejecutar diversas funciones útiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165321Z" creationid="hcartagena" creationdate="20151120T165321Z">
