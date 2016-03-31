@@ -14940,6 +14940,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplifying the original text formatting greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181025Z" creationid="Antonio" creationdate="20160331T181025Z">
+        <seg>**La simplificación del formato del texto original, contribuye en gran medida a reducir el número de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154907Z" creationid="Antonio" creationdate="20151128T154907Z">
