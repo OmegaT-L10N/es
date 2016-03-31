@@ -17436,6 +17436,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203102Z" creationid="hcartagena" creationdate="20160331T203102Z">
+        <seg>Por lo tanto, pulse &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; antes de generar sus archivos traducidos, para validar que sus etiquetas estén correctas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
