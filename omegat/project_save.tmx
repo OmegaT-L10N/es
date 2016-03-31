@@ -7146,6 +7146,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220432Z" creationid="hcartagena" creationdate="20160331T220432Z">
+        <seg>URL de repositorio vacío en la asignación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221347Z" creationid="hcartagena" creationdate="20151116T221347Z">
@@ -7648,6 +7656,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230457Z" creationid="hcartagena" creationdate="20151124T230457Z">
         <seg>Excluir segmentos huérfanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excludes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220312Z" creationid="hcartagena" creationdate="20160331T220312Z">
+        <seg>Excluye</seg>
       </tuv>
     </tu>
     <tu>
@@ -9737,6 +9753,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Includes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220320Z" creationid="hcartagena" creationdate="20160331T220320Z">
+        <seg>Incluye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Incompatibilities</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152232Z" creationid="Helli" creationdate="20150526T152232Z">
@@ -9981,6 +10005,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T201753Z" creationid="hcartagena" creationdate="20151119T201753Z">
         <seg>Formato de archivo no válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220332Z" creationid="hcartagena" creationdate="20160331T220332Z">
+        <seg>Tipo de repositorio no válido: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10893,6 +10925,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T141114Z" creationid="hcartagena" creationdate="20151117T141114Z">
         <seg>Cargando: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220254Z" creationid="hcartagena" creationdate="20160331T220254Z">
+        <seg>Local</seg>
       </tuv>
     </tu>
     <tu>
@@ -14204,6 +14244,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220300Z" creationid="hcartagena" creationdate="20160331T220300Z">
+        <seg>Remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T220115Z" creationid="hcartagena" creationdate="20160331T220115Z">
@@ -14446,18 +14494,26 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220250Z" creationid="hcartagena" creationdate="20160331T220250Z">
+        <seg>Repositorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220037Z" creationid="hcartagena" creationdate="20160331T220037Z">
-        <seg>Mapeo de repositorios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220242Z" creationid="hcartagena" creationdate="20160331T220037Z">
+        <seg>Asignación de repositorios</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220045Z" creationid="hcartagena" creationdate="20160331T215959Z">
-        <seg>Mapeo de repositorios...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220235Z" creationid="hcartagena" creationdate="20160331T215959Z">
+        <seg>Asignación de repositorios...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14474,6 +14530,22 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T171417Z" creationid="Antonio" creationdate="20151127T171417Z">
         <seg>URL del repositorio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220357Z" creationid="hcartagena" creationdate="20160331T220357Z">
+        <seg>El repositorio {0} ya está presente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T220408Z" creationid="hcartagena" creationdate="20160331T220408Z">
+        <seg>Repositorio {0} desconocido</seg>
       </tuv>
     </tu>
     <tu>
