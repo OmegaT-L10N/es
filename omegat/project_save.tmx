@@ -3261,6 +3261,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File conversion tools&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182933Z" creationid="Antonio" creationdate="20160331T182933Z">
+        <seg>&lt;p0&gt;Archivo de destino&lt;/p0&gt; &lt;s1&gt;Herramientas de conversión de archivos&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T074348Z" creationid="Antonio" creationdate="20160331T074348Z">
@@ -7456,6 +7464,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142422Z" creationid="hcartagena" creationdate="20151117T142422Z">
         <seg>Se interrumpió el comando externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External tools can be used to convert files to supported formats.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183053Z" creationid="Antonio" creationdate="20160331T183053Z">
+        <seg>**Se pueden utilizar herramientas externas para convertir archivos a formatos compatibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17096,6 +17112,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191710Z" creationid="hcartagena" creationdate="20151117T191645Z">
         <seg>El idioma indicado para los archivos traducidos no es válido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated files will then need to be converted back to the original format.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183119Z" creationid="Antonio" creationdate="20160331T183119Z">
+        <seg>Recuerde que los archivos traducidos se tendrán que convertir nuevamente al formato original.</seg>
       </tuv>
     </tu>
     <tu>
