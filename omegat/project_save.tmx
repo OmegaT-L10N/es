@@ -3749,6 +3749,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T195506Z" creationid="hcartagena" creationdate="20160331T195506Z">
+        <seg>Tras darle un nombre a su proyecto, aparecerá el diálogo &lt;g0&gt;Crear proyecto nuevo&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222200Z" creationid="hcartagena" creationdate="20151201T222200Z">
@@ -9369,6 +9377,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T195302Z" creationid="hcartagena" creationdate="20160331T195302Z">
+        <seg>En el menú &lt;g0&gt;Proyecto&lt;/g0&gt;, seleccione &lt;m1&gt;&lt;g2&gt;Nuevo...&lt;/g2&gt;&lt;/m1&gt; y escriba un nombre para su proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T202417Z" creationid="Helli" creationdate="20150526T115204Z">
@@ -13756,6 +13772,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221622Z" creationid="hcartagena" creationdate="20151201T221604Z">
         <seg>Recuerde en qué ubicación está</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T195430Z" creationid="hcartagena" creationdate="20160331T195430Z">
+        <seg>Recuerde en qué ubicación está el proyecto, porque tendrá que regresar ahí más tarde.</seg>
       </tuv>
     </tu>
     <tu>
