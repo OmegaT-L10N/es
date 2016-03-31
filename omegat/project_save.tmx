@@ -1231,6 +1231,14 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181536Z" creationid="Antonio" creationdate="20160331T181536Z">
+        <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213930Z" creationid="hcartagena" creationdate="20151119T213930Z">
@@ -4190,6 +4198,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the time of writing, OmegaT supports the following formatted text formats:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181519Z" creationid="Antonio" creationdate="20160331T181519Z">
+        <seg>Actualmente, OmegaT es compatible con los siguientes formatos de texto con formato:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T221812Z" creationid="hcartagena" creationdate="20151201T221812Z">
@@ -6383,6 +6399,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocBook (*.xml)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181542Z" creationid="Antonio" creationdate="20160331T181542Z">
+        <seg>DocBook (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233952Z" creationid="hcartagena" creationdate="20151124T233952Z">
@@ -6645,6 +6669,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194032Z" creationid="Víctor Parra" creationdate="20151126T194032Z">
         <seg>ERROR: {0}Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each file type is handled differently in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181447Z" creationid="Antonio" creationdate="20160331T181447Z">
+        <seg>**En OmegaT &lt;a3&gt;cada tipo de archivo&lt;/a3&gt; se maneja de manera diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8392,6 +8424,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230630Z" creationid="hcartagena" creationdate="20151119T230630Z">
         <seg>Compilador de Ayuda HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181539Z" creationid="Antonio" creationdate="20160331T181539Z">
+        <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10895,6 +10935,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181534Z" creationid="Antonio" creationdate="20160331T181534Z">
+        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Office Open XML files</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T144247Z" creationid="Antonio" creationdate="20160316T144247Z">
@@ -11708,6 +11756,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213527Z" creationid="hcartagena" creationdate="20151119T213527Z">
         <seg>&amp;Opciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181528Z" creationid="Antonio" creationdate="20160331T181528Z">
+        <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15304,6 +15360,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155127Z" creationid="Antonio" creationdate="20151128T155127Z">
         <seg>Español, castellano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specific behavior can be set up in the file filters.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181459Z" creationid="Antonio" creationdate="20160331T181459Z">
+        <seg>**El comportamiento específico se puede configurar en la opción &lt;a4&gt;Filtros de archivo&lt;/a4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19141,6 +19205,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222321Z" creationid="hcartagena" creationdate="20151201T222248Z">
         <seg>Cuando desee ver su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T181443Z" creationid="Antonio" creationdate="20160331T181443Z">
+        <seg>Si es posible, se debe evaluar la posible unificación de los tipos de letra utilizados, tamaños, colores, etc., para simplificar la traducción y reducir el número de posibles &lt;a2&gt;errores de etiqueta&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
