@@ -7988,6 +7988,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183608Z" creationid="Antonio" creationdate="20160331T183608Z">
+        <seg>Por ejemplo, si tiene una versión antigua de Microsoft Word, que no admite el formato ODT, hay una manera alternativa de procesar los archivos de Word de extensión .doc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T192037Z" creationid="Antonio" creationdate="20160316T192037Z">
@@ -22036,6 +22044,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>import the file into ODF writer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183742Z" creationid="Antonio" creationdate="20160331T183622Z">
+        <seg>importar el archivo en OpenOffice/LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222557Z" creationid="hcartagena" creationdate="20151201T222557Z">
@@ -22576,6 +22592,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152220Z" creationid="Antonio" creationdate="20151128T152220Z">
         <seg>lo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>load the target file in ODF writer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183730Z" creationid="Antonio" creationdate="20160331T183730Z">
+        <seg>cargar el archivo de destino en OpenOffice/LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -23821,6 +23845,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>save the file in ODT format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183636Z" creationid="Antonio" creationdate="20160331T183636Z">
+        <seg>guardar el archivo en formato ODT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sc</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154902Z" creationid="Antonio" creationdate="20151128T154902Z">
@@ -24457,6 +24489,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155557Z" creationid="Antonio" creationdate="20151128T155557Z">
         <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translate it into the target ODT file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183659Z" creationid="Antonio" creationdate="20160331T183659Z">
+        <seg>traducir el archivo y crear el archivo de destino ODT</seg>
       </tuv>
     </tu>
     <tu>
