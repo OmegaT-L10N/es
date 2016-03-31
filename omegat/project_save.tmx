@@ -3453,6 +3453,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202845Z" creationid="hcartagena" creationdate="20160331T202845Z">
+        <seg>Una oración original podría lucir así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112000Z" creationid="Helli" creationdate="20150526T151228Z">
@@ -8789,6 +8797,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203018Z" creationid="hcartagena" creationdate="20160331T203018Z">
+        <seg>Sin embargo, si comete errores al escribir las etiquetas de formato, sus archivos traducidos podrían no abrirse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144505Z" creationid="Antonio" creationdate="20151128T144505Z">
@@ -9237,6 +9253,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222455Z" creationid="hcartagena" creationdate="20151201T222455Z">
         <seg>Si los archivos originales están en archivos con formato, como Microsoft Word,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202722Z" creationid="hcartagena" creationdate="20160331T202722Z">
+        <seg>Si los archivos originales tienen formato como los archivos de Microsoft Word, LibreOffice Writer o HTML, por ejemplo, OmegaT convertirá el formato en etiquetas que rodean al texto que está traduciendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11984,6 +12008,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202828Z" creationid="hcartagena" creationdate="20160331T202828Z">
+        <seg>A menudo, los documentos también tienen etiquetas que no cumplen funciones de formato, pero que son importantes en los archivos originales (y en los archivos traducidos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ojibwe, Ojibwa</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154312Z" creationid="Antonio" creationdate="20151128T154312Z">
@@ -12432,6 +12464,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222641Z" creationid="hcartagena" creationdate="20151201T222641Z">
         <seg>Sin embargo, Omegat presentará la oración de la siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202905Z" creationid="hcartagena" creationdate="20160331T202905Z">
+        <seg>Sin embargo, Omegat presentará la oración de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17467,6 +17507,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T075621Z" creationid="Antonio" creationdate="20160331T075621Z">
         <seg>Tales archivos no son capaces de almacenar ni conservar información con respecto al color, tipo de letra, etc. del texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202948Z" creationid="hcartagena" creationdate="20160331T202914Z">
+        <seg>Están protegidas para que no pueda modificar su contenido, pero puede eliminarlas, introducirlas manualmente o cambiarlas de lugar en la oración traducida.</seg>
       </tuv>
     </tu>
     <tu>
