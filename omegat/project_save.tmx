@@ -3221,6 +3221,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Other file formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182723Z" creationid="Antonio" creationdate="20160331T182723Z">
+        <seg>**&lt;p0&gt;Archivos originales&lt;/p0&gt; &lt;s1&gt;Otros formatos de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T080402Z" creationid="Antonio" creationdate="20160331T080402Z">
@@ -3273,6 +3281,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T175702Z" creationid="Antonio" creationdate="20160331T175554Z">
         <seg>&lt;p0&gt;Archivo de destino&lt;/p0&gt; &lt;s1&gt;Archivos de texto con formato&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Other file formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182714Z" creationid="Antonio" creationdate="20160331T182714Z">
+        <seg>**&lt;p0&gt;Archivo de destino&lt;/p0&gt; &lt;s1&gt;Otros formatos de archivo&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12556,6 +12572,22 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other file formats</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182726Z" creationid="Antonio" creationdate="20160331T182726Z">
+        <seg>**Otros formatos de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other formatted text file types may also be handled by OmegaT by associating their file extensions to a supported file type, assuming that the corresponding segmentation rules will segment them correctly.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182650Z" creationid="Antonio" creationdate="20160331T182650Z">
+        <seg>OmegaT puede manejar otros tipos de archivo de texto con formato &lt;a0&gt;asociando&lt;/a0&gt; su extensión de archivo a un tipo de archivo compatible, suponiendo que las reglas de &lt;a1&gt;segmentación&lt;/a1&gt; específicas realicen correctamente la segmentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T204034Z" creationid="Antonio" creationdate="20160124T204034Z">
@@ -12568,6 +12600,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T080322Z" creationid="Antonio" creationdate="20160331T080322Z">
         <seg>**OmegaT puede manejar otros tipos de archivos de texto sin formato, asociando su extensión de archivo a un tipo de archivo compatible (por ejemplo, los archivos .pod podrían estar asociadas a su filtro de texto ASCII) y preprocesarlos con reglas de segmentación específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T182756Z" creationid="Antonio" creationdate="20160331T182756Z">
+        <seg>**OmegaT también puede procesar otros archivos de texto sin o con formato.</seg>
       </tuv>
     </tu>
     <tu>
