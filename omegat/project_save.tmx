@@ -1335,12 +1335,36 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214431Z" creationid="hcartagena" creationdate="20160331T214340Z">
+        <seg>--config-file=&lt;ruta de acceso&gt;
+		Un archivo .properties de Java desde donde cargar los ajustes predeterminados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T214242Z" creationid="hcartagena" creationdate="20160331T214242Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Especificar un modo distinto al predeterminado (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214550Z" creationid="hcartagena" creationdate="20160331T214347Z">
+        <seg>--resource-bundle=&lt;ruta de acceso&gt;
+		Un archivo .properties de Java para usar como texto de la interfaz
+	--config-dir=&lt;ruta de acceso&gt;
+		El directorio desde donde leer y hacia donde escribir los archivos de configuración de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
