@@ -1345,12 +1345,42 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214702Z" creationid="hcartagena" creationdate="20160331T214702Z">
+        <seg>--disable-location-save
+		No recuerda el último directorio abierto en el selector de archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214634Z" creationid="hcartagena" creationdate="20160331T214634Z">
+        <seg>--disable-project-locking
+		No intenta bloquear el archivo omegat.project del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T214242Z" creationid="hcartagena" creationdate="20160331T214242Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Especificar un modo distinto al predeterminado (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T214744Z" creationid="hcartagena" creationdate="20160331T214744Z">
+        <seg>--no-team
+		Desactiva la funcionalidad de proyectos de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
