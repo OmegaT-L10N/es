@@ -4735,6 +4735,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184445Z" creationid="Antonio" creationdate="20160331T184445Z">
+        <seg>De manera predeterminada estos se justifican a la izquierda para idiomas de izquierda a derecha (LTR), y se justifican a la derecha para idiomas dce derecha a izquierda (RTL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T110327Z" creationid="Helli" creationdate="20150526T115750Z">
@@ -16331,6 +16339,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184621Z" creationid="Antonio" creationdate="20160331T184621Z">
+        <seg>**&lt;k4&gt; &lt;k5&gt;Mayús&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; alterna entre tres estados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T150429Z" creationid="Antonio" creationdate="20160125T114832Z">
@@ -18967,6 +18983,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184656Z" creationid="Antonio" creationdate="20160331T184656Z">
+        <seg>**Utilizar el modo RTL en OmegaT no tiene ninguna influencia sobre el modo de visualización de los documentos traducidos creados en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the team project in OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T095711Z" creationid="Antonio" creationdate="20160125T095711Z">
@@ -19942,6 +19966,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184551Z" creationid="Antonio" creationdate="20160331T184551Z">
+        <seg>**Usted puede alternar entre diferentes modos de visualización pulsando &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (esta es la letra O, y no el número 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T140933Z" creationid="Antonio" creationdate="20160330T140933Z">
@@ -20798,6 +20830,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144313Z" creationid="Antonio" creationdate="20151128T144313Z">
         <seg>de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>default justification, that is as defined by the language</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184638Z" creationid="Antonio" creationdate="20160331T184638Z">
+        <seg>la justificación predeterminada, que viene definida por el idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -22572,6 +22612,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>left justification</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184640Z" creationid="Antonio" creationdate="20160331T184640Z">
+        <seg>**justificación a la izquierda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T151550Z" creationid="Helli" creationdate="20150526T151550Z">
@@ -23809,6 +23857,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T210952Z" creationid="Antonio" creationdate="20160329T210952Z">
         <seg>eliminar caracteres hasta el inicio de la palabra actual (Mac: &lt;e0&gt;Alt+Retroceso&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>right justification</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184642Z" creationid="Antonio" creationdate="20160331T184642Z">
+        <seg>**justificación a la derecha</seg>
       </tuv>
     </tu>
     <tu>
