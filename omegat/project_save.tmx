@@ -3767,8 +3767,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T195506Z" creationid="hcartagena" creationdate="20160331T195506Z">
-        <seg>Tras darle un nombre a su proyecto, aparecerá el diálogo &lt;g0&gt;Crear proyecto nuevo&lt;/g0&gt;.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203825Z" creationid="hcartagena" creationdate="20160331T195506Z">
+        <seg>Tras darle un nombre al proyecto, aparecerá el diálogo &lt;g0&gt;Crear proyecto nuevo&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4274,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223234Z" creationid="hcartagena" creationdate="20151201T223234Z">
         <seg>Al finalizar su traducción, OmegaT exporta tres memorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203754Z" creationid="hcartagena" creationdate="20160331T203754Z">
+        <seg>Al finalizar su traducción, OmegaT exporta tres memorias de traducción con los nombres &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; y &lt;f2&gt;omegat&lt;/f2&gt; en la carpeta del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5193,8 +5201,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222015Z" creationid="hcartagena" creationdate="20151201T222015Z">
-        <seg>Haga clic en &lt;g1&gt;Copiar archivos a carpeta Source...&lt;/g1&gt;para seleccionar sus archivos originales.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203837Z" creationid="hcartagena" creationdate="20151201T222015Z">
+        <seg>Haga clic en &lt;g1&gt;Copiar archivos a carpeta Source...&lt;/g1&gt;para seleccionar los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8799,8 +8807,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203018Z" creationid="hcartagena" creationdate="20160331T203018Z">
-        <seg>Sin embargo, si comete errores al escribir las etiquetas de formato, sus archivos traducidos podrían no abrirse.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203914Z" creationid="hcartagena" creationdate="20160331T203018Z">
+        <seg>Sin embargo, si comete errores al escribir las etiquetas de formato, los archivos traducidos podrían no abrirse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9443,8 +9451,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T195302Z" creationid="hcartagena" creationdate="20160331T195302Z">
-        <seg>En el menú &lt;g0&gt;Proyecto&lt;/g0&gt;, seleccione &lt;m1&gt;&lt;g2&gt;Nuevo...&lt;/g2&gt;&lt;/m1&gt; y escriba un nombre para su proyecto.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203820Z" creationid="hcartagena" creationdate="20160331T195302Z">
+        <seg>En el menú &lt;g0&gt;Proyecto&lt;/g0&gt;, seleccione &lt;m1&gt;&lt;g2&gt;Nuevo...&lt;/g2&gt;&lt;/m1&gt; y escriba un nombre para el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12430,8 +12438,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202359Z" creationid="hcartagena" creationdate="20160331T200028Z">
-        <seg>OmegaT copiará los archivos seleccionados a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt; de su proyecto recién creado.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203848Z" creationid="hcartagena" creationdate="20160331T200028Z">
+        <seg>OmegaT copiará los archivos seleccionados a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt; del proyecto recién creado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12550,8 +12558,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203359Z" creationid="hcartagena" creationdate="20160331T203359Z">
-        <seg>Cuando se haya asegurado de que no hay errores de etiquetas en su traducción, pulse &lt;k0&gt;Ctrl+D&lt;/k0&gt; para generar los archivos traducidos,que se crearán en la subcarpeta &lt;f1&gt;/target/&lt;/f1&gt; dentro de la carpeta del proyecto.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203946Z" creationid="hcartagena" creationdate="20160331T203359Z">
+        <seg>Cuando se haya asegurado de que no hay errores de etiquetas en la traducción, pulse &lt;k0&gt;Ctrl+D&lt;/k0&gt; para generar los archivos traducidos,que se crearán en la subcarpeta &lt;f1&gt;/target/&lt;/f1&gt; dentro de la carpeta del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17454,8 +17462,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203102Z" creationid="hcartagena" creationdate="20160331T203102Z">
-        <seg>Por lo tanto, pulse &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; antes de generar sus archivos traducidos, para validar que sus etiquetas estén correctas.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203938Z" creationid="hcartagena" creationdate="20160331T203102Z">
+        <seg>Por lo tanto, pulse &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; antes de generar los archivos traducidos, para verificar que las etiquetas estén correctas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18099,8 +18107,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T195109Z" creationid="hcartagena" creationdate="20160331T194920Z">
-        <seg>Para empezar a usar OmegaT, cree primero un proyecto que tendrá todos sus archivos, como el archivo original, las memorias de traducción, los glosarios y finalmente el archivo traducido.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203816Z" creationid="hcartagena" creationdate="20160331T194920Z">
+        <seg>Para empezar a usar OmegaT, cree primero un proyecto que tendrá todos los archivos, como el archivo original, las memorias de traducción, los glosarios y finalmente el archivo traducido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19249,8 +19257,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151201T222438Z" creationid="hcartagena" creationdate="20151201T222438Z">
-        <seg>Validar sus etiquetas</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203901Z" creationid="hcartagena" creationdate="20151201T222438Z">
+        <seg>Validar etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -19635,8 +19643,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202319Z" creationid="hcartagena" creationdate="20160331T202319Z">
-        <seg>Cuando desee ver cómo luce su traducción en el formato final, pulse &lt;k2&gt;Ctrl+D&lt;/k2&gt; para generar los documentos traducidos, que se crearán en la subcarpeta &lt;f3&gt;/target/&lt;/f3&gt; dentro de la carpeta del proyecto.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T203856Z" creationid="hcartagena" creationdate="20160331T202319Z">
+        <seg>Cuando desee ver cómo luce la traducción en el formato final, pulse &lt;k2&gt;Ctrl+D&lt;/k2&gt; para generar los documentos traducidos, que se crearán en la subcarpeta &lt;f3&gt;/target/&lt;/f3&gt; dentro de la carpeta del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
