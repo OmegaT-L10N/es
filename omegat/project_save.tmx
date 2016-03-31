@@ -2909,6 +2909,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;formatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T175725Z" creationid="Antonio" creationdate="20160331T175725Z">
+        <seg>**&lt;p0&gt;Formatos de archivo&lt;/p0&gt; &lt;s1&gt;con formato&lt;/s1&gt; &lt;s2&gt;Archivos de origen&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T200734Z" creationid="Antonio" creationdate="20151128T163952Z">
@@ -8008,6 +8016,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T175715Z" creationid="Antonio" creationdate="20160331T175715Z">
         <seg>**Archivos de texto con formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatted text files contain information such as font type, size, color etc. as well as text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T175749Z" creationid="Antonio" creationdate="20160331T175749Z">
+        <seg>**Los archivos de texto con formato, contienen texto, así como información referente al color, tamaño, tipo de letra, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15438,6 +15454,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such file formats are designed to hold formatting information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T175832Z" creationid="Antonio" creationdate="20160331T175822Z">
+        <seg>Estos formatos de archivo están diseñados de modo que conserven la información de formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T075546Z" creationid="Antonio" creationdate="20160331T075546Z">
@@ -16497,6 +16521,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formatting information can be as simple as “this is bold”, or as complex as table data with different font sizes, colors, positions, etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T175947Z" creationid="Antonio" creationdate="20160331T175907Z">
+        <seg>**Dicha información de formato puede ser tan simple que indique tan solo &lt;s0&gt;esto es negrita&lt;/s0&gt; o tan compleja como datos de tablas con tamaño de letra, color, posición, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160121T095312Z" creationid="Antonio" creationdate="20151130T122436Z">
@@ -17027,6 +17059,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T110718Z" creationid="Helli" creationdate="20150526T150339Z">
         <seg>También mejoran las concordancias obtenidas en el glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are commonly created in word processors or HTML editors.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T175806Z" creationid="Antonio" creationdate="20160331T175806Z">
+        <seg>Comúnmente se crean en procesadores de texto o editores de HTML.</seg>
       </tuv>
     </tu>
     <tu>
