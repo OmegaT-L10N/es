@@ -3773,6 +3773,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T201822Z" creationid="hcartagena" creationdate="20160331T201822Z">
+        <seg>Después de traducir cada segmento, pulse &lt;k0&gt;Ctrl-U&lt;/k0&gt; para pasar al siguiente segmento sin traducir (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; para pasar al siguiente segmento traducido).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T223010Z" creationid="Antonio" creationdate="20151127T175528Z">
