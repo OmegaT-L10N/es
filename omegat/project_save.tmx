@@ -16665,6 +16665,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184818Z" creationid="Antonio" creationdate="20160331T184818Z">
+        <seg>**El modo de visualización de los documentos traducidos tendrá que modificarse dentro de la aplicación usada comúnmente para mostrarlos o modificarlos (consulte los manuales pertinentes para más detalles).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163617Z" creationid="Antonio" creationdate="20151128T163617Z">
@@ -18979,6 +18987,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T154852Z" creationid="Antonio" creationdate="20160330T154852Z">
         <seg>Usuarios\&lt;Nombre usuario&gt;\AppData\Roaming\OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184852Z" creationid="Antonio" creationdate="20160331T184852Z">
+        <seg>Al utilizar &lt;k4&gt; &lt;k5&gt;Mayús&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; provoca que tanto el ingreso de texto como su visualización en OmegaT cambie a RTL.</seg>
       </tuv>
     </tu>
     <tu>
