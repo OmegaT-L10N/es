@@ -4551,6 +4551,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before proceeding with such conversions, be sure to test all options.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184013Z" creationid="Antonio" creationdate="20160331T184013Z">
+        <seg>Antes de proceder con tales conversiones, asegúrese de probar todas las opciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T113027Z" creationid="Helli" creationdate="20150603T151140Z">
@@ -4995,6 +5003,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T160906Z" creationid="Antonio" creationdate="20160125T160850Z">
         <seg>Compruebe que los archivos de diccionario estén en la carpeta adecuada (o en una subcarpeta de ella).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184040Z" creationid="Antonio" creationdate="20160331T184040Z">
+        <seg>Consulte en la &lt;u0&gt;Página de inicio de OmegaT&lt;/u0&gt; un listado actualizado de las herramientas auxiliares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14034,6 +14050,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right to left languages</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T184043Z" creationid="Antonio" creationdate="20160331T184043Z">
+        <seg>**Idiomas de derecha a izquierda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T105402Z" creationid="Helli" creationdate="20150526T114829Z">
@@ -16896,6 +16920,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T231311Z" creationid="Antonio" creationdate="20151127T164203Z">
         <seg>La carpeta de proyecto {0} no existe y no se pudo crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183950Z" creationid="Antonio" creationdate="20160331T183950Z">
+        <seg>**La calidad del archivo traducido dependerá de la calidad que se haya obtenido en el proceso de conversión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21788,6 +21820,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183810Z" creationid="Antonio" creationdate="20160331T183801Z">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.omegat.org/</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112646Z" creationid="Antonio" creationdate="20160125T112646Z">
@@ -23841,6 +23881,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154856Z" creationid="Antonio" creationdate="20151128T154853Z">
         <seg>san</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save the file as a DOC file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T183757Z" creationid="Antonio" creationdate="20160331T183757Z">
+        <seg>guardar el archivo como .doc</seg>
       </tuv>
     </tu>
     <tu>
