@@ -65,6 +65,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215657Z" creationid="hcartagena" creationdate="20160331T215657Z">
+        <seg>&amp;Alinear archivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191222Z" creationid="hcartagena" creationdate="20151119T191222Z">
@@ -325,6 +333,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204154Z" creationid="hcartagena" creationdate="20151116T204154Z">
         <seg>Comportami&amp;ento del campo de edición...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215703Z" creationid="hcartagena" creationdate="20160331T215703Z">
+        <seg>&amp;Editor...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6191,6 +6207,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor lock off</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215732Z" creationid="hcartagena" creationdate="20160331T215732Z">
+        <seg>Cursor desbloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor lock on</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215722Z" creationid="hcartagena" creationdate="20160331T215722Z">
+        <seg>Cursor bloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Co&amp;lours...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204146Z" creationid="hcartagena" creationdate="20151116T204146Z">
@@ -6811,6 +6843,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152529Z" creationid="Antonio" creationdate="20160125T152529Z">
         <seg>Descargue el archivo ― debe ser un archivo tarball (extensión &lt;s0&gt;tar.bz&lt;/s0&gt; o &lt;s1&gt;tar.bz2&lt;/s1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215906Z" creationid="hcartagena" creationdate="20160331T215906Z">
+        <seg>Descargando el proyecto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9501,6 +9541,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131142Z" creationid="Helli" creationdate="20150526T130952Z">
         <seg>Importar archivos fuente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215619Z" creationid="hcartagena" creationdate="20160331T215619Z">
+        <seg>No se pudo importar la página de Wiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -12844,6 +12892,38 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202328Z" creationid="hcartagena" creationdate="20151116T202328Z">
         <seg>Abrir proyecto reciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215759Z" creationid="hcartagena" creationdate="20160331T215759Z">
+        <seg>Abrir archivo original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215816Z" creationid="hcartagena" creationdate="20160331T215816Z">
+        <seg>Abrir ubicación de archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215829Z" creationid="hcartagena" creationdate="20160331T215829Z">
+        <seg>Abrir archivo traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215853Z" creationid="hcartagena" creationdate="20160331T215853Z">
+        <seg>Abrir ubicación de archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
