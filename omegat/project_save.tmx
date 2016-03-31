@@ -16483,6 +16483,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T204040Z" creationid="hcartagena" creationdate="20160331T204040Z">
+        <seg>Las memorias &lt;f3&gt;level1&lt;/f3&gt; y &lt;f4&gt;level2&lt;/f4&gt; pueden compartirse con usuarios de otros programas de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T184621Z" creationid="Antonio" creationdate="20160331T184621Z">
@@ -17024,6 +17032,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223357Z" creationid="hcartagena" creationdate="20151201T223357Z">
         <seg>La memoria con el nombre &lt;f5&gt;omegat&lt;/f5&gt; puede servir a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T204111Z" creationid="hcartagena" creationdate="20160331T204111Z">
+        <seg>La memoria con el nombre &lt;f5&gt;omegat&lt;/f5&gt; puede servir a OmegaT para proyectos futuros que desee crear.</seg>
       </tuv>
     </tu>
     <tu>
