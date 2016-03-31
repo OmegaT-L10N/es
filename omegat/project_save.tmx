@@ -12390,8 +12390,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T200028Z" creationid="hcartagena" creationdate="20160331T200028Z">
-        <seg>OmegaT copiará los archivos seleccionados a la carpeta &lt;f2&gt;/source/&lt;/f2&gt; de su proyecto recién creado.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202359Z" creationid="hcartagena" creationdate="20160331T200028Z">
+        <seg>OmegaT copiará los archivos seleccionados a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt; de su proyecto recién creado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19533,6 +19533,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222321Z" creationid="hcartagena" creationdate="20151201T222248Z">
         <seg>Cuando desee ver su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160331T202319Z" creationid="hcartagena" creationdate="20160331T202319Z">
+        <seg>Cuando desee ver cómo luce su traducción en el formato final, pulse &lt;k2&gt;Ctrl+D&lt;/k2&gt; para generar los documentos traducidos, que se crearán en la subcarpeta &lt;f3&gt;/target/&lt;/f3&gt; dentro de la carpeta del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
