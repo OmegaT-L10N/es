@@ -2901,6 +2901,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;Unformatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T074720Z" creationid="Antonio" creationdate="20160331T074720Z">
+        <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;Unformatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T200734Z" creationid="Antonio" creationdate="20151128T163952Z">
@@ -3189,6 +3197,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T074707Z" creationid="Antonio" creationdate="20160331T074707Z">
+        <seg>**&lt;p0&gt;Archivo de destino&lt;/p0&gt; &lt;s1&gt;Archivos de texto sin formato&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T105511Z" creationid="Antonio" creationdate="20160125T105511Z">
@@ -3217,6 +3233,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T193149Z" creationid="Antonio" creationdate="20160316T193149Z">
         <seg>&lt;p0&gt;Archivos de destino&lt;/p0&gt; &lt;s1&gt;Nombres de archivo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T074632Z" creationid="Antonio" creationdate="20160331T074632Z">
+        <seg>&lt;p0&gt;Archivo de destino&lt;/p0&gt; &lt;s1&gt;Archivos de texto sin formato&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12457,6 +12481,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20160131T224150Z" creationid="Víctor Parra" creationdate="20160131T224150Z">
         <seg>RePágkeyboard-key-name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Antonio" changedate="20160331T074710Z" creationid="Antonio" creationdate="20160331T074710Z">
+        <seg>**Archivos de texto sin formato</seg>
       </tuv>
     </tu>
     <tu>
