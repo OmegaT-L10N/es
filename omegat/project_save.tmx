@@ -1271,6 +1271,17 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.4 or later to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024659Z" creationid="hcartagena" creationdate="20160401T024659Z">
+        <seg>(Podrá seguir usando OmegaT
+3.4 o una versión posterior para editar el proyecto
+en modo de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T192010Z" creationid="hcartagena" creationdate="20151118T192010Z">
@@ -17800,6 +17811,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T231311Z" creationid="Antonio" creationdate="20151127T164203Z">
         <seg>La carpeta de proyecto {0} no existe y no se pudo crear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024712Z" creationid="hcartagena" creationdate="20160401T024712Z">
+        <seg>El proyecto fue convertido correctamente.</seg>
       </tuv>
     </tu>
     <tu>
