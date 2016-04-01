@@ -5230,6 +5230,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040552Z" creationid="hcartagena" creationdate="20160401T040552Z">
+        <seg>Cambiado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075137Z" creationid="Antonio" creationdate="20151127T075137Z">
@@ -9270,6 +9278,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203003Z" creationid="hcartagena" creationdate="20151116T203003Z">
         <seg>I&amp;nsertar original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040520Z" creationid="hcartagena" creationdate="20160401T040520Z">
+        <seg>ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -13654,6 +13670,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040542Z" creationid="hcartagena" creationdate="20160401T040542Z">
+        <seg>Ruta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233935Z" creationid="hcartagena" creationdate="20151124T233935Z">
@@ -16155,8 +16179,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Show Raw Key Names</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160401T034549Z" creationid="hcartagena" creationdate="20160401T034549Z">
-        <seg>Mostrar los nombres clave sin procesar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040507Z" creationid="hcartagena" creationdate="20160401T034549Z">
+        <seg>Mostrar nombres clave originales</seg>
       </tuv>
     </tu>
     <tu>
@@ -19428,6 +19452,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040537Z" creationid="hcartagena" creationdate="20160401T040537Z">
+        <seg>Traducción aproximada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223420Z" creationid="hcartagena" creationdate="20151116T223420Z">
@@ -20310,6 +20342,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172628Z" creationid="Antonio" creationdate="20151127T172628Z">
         <seg>Validando etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040513Z" creationid="hcartagena" creationdate="20160401T040513Z">
+        <seg>Valor</seg>
       </tuv>
     </tu>
     <tu>
