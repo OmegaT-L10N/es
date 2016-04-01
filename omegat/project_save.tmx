@@ -5108,6 +5108,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bug reports (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051810Z" creationid="hcartagena" creationdate="20160401T051810Z">
+        <seg>Informes de fallos (en inglés), en el sitio web de SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bulgarian</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083543Z" creationid="Antonio" creationdate="20151128T083543Z">
@@ -5120,6 +5128,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083552Z" creationid="Antonio" creationdate="20151128T083552Z">
         <seg>Burmés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But you also changed this data to "{2}".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051615Z" creationid="hcartagena" creationdate="20160401T051615Z">
+        <seg>Sin embargo, también modificó estos datos a "{2}".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7338,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T230431Z" creationid="Antonio" creationdate="20151127T172058Z">
         <seg>Durante el error ({0}) de SVN,
 project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During remote updates or other automatic processing, data (previously known as "{0}") was changed to "{1}".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051550Z" creationid="hcartagena" creationdate="20160401T051530Z">
+        <seg>Durante las actualizaciones remotas u otro procesamiento automático, los datos (antes "{0}") se modificaron a "{1}".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14340,6 +14364,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please, press OK to remember your changes ("{2}"), or Cancel to keep remote/automatic changes ("{1}").</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051650Z" creationid="hcartagena" creationdate="20160401T051650Z">
+        <seg>Pulse OK para recordar sus cambios ("{2}") o Cancelar para mantener los cambios remotos/automaticos ("{1}").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191010Z" creationid="hcartagena" creationdate="20151119T191010Z">
@@ -15405,6 +15437,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T235512Z" creationid="Antonio" creationdate="20151127T074924Z">
         <seg>Solicitud a TaaS: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051758Z" creationid="hcartagena" creationdate="20160401T051758Z">
+        <seg>Solicitud de mejoras (en inglés), en el sitio web de SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20794,6 +20834,16 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153032Z" creationid="Helli" creationdate="20150526T153032Z">
         <seg>Soporte de usuario está proporcionado en una base de voluntario en el &lt;/f11&gt;&lt;a12&gt;OmegaT&lt;/a12&gt;&lt;a13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;/a13&gt;&lt;a15&gt;&lt;f16&gt;Yahoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support, at the Yahoo user group (multilingual), where the archives are
+searchable without subscription:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051745Z" creationid="hcartagena" creationdate="20160401T051745Z">
+        <seg>Asistencia al usuario, en el grupo (multilingüe) de usuarios de Yahoo, donde
+puede buscar en los archivos sin suscripción:</seg>
       </tuv>
     </tu>
     <tu>
