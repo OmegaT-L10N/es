@@ -4004,6 +4004,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040718Z" creationid="hcartagena" creationdate="20160401T040718Z">
+        <seg>Alinear archivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T230133Z" creationid="Antonio" creationdate="20151127T172546Z">
@@ -4216,6 +4224,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173656Z" creationid="Antonio" creationdate="20151127T173656Z">
         <seg>Se produjo un error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040746Z" creationid="hcartagena" creationdate="20160401T040746Z">
+        <seg>Se produjo un error al cargar los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5232,8 +5248,16 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Changed by</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040552Z" creationid="hcartagena" creationdate="20160401T040552Z">
-        <seg>Cambiado por</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040610Z" creationid="hcartagena" creationdate="20160401T040552Z">
+        <seg>Modificado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040606Z" creationid="hcartagena" creationdate="20160401T040606Z">
+        <seg>Modificado el</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,6 +5434,30 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165337Z" creationid="hcartagena" creationdate="20151120T165327Z">
         <seg>Chino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040751Z" creationid="hcartagena" creationdate="20160401T040751Z">
+        <seg>Elegir archivo original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040757Z" creationid="hcartagena" creationdate="20160401T040757Z">
+        <seg>Elegir archivo traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040729Z" creationid="hcartagena" creationdate="20160401T040729Z">
+        <seg>Elegir...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5980,10 +6028,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040639Z" creationid="hcartagena" creationdate="20160401T040639Z">
+        <seg>Creado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T183607Z" creationid="hcartagena" creationdate="20151119T183607Z">
         <seg>Creado por: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040645Z" creationid="hcartagena" creationdate="20160401T040645Z">
+        <seg>Creado el</seg>
       </tuv>
     </tu>
     <tu>
@@ -9081,6 +9145,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040702Z" creationid="hcartagena" creationdate="20160401T040702Z">
+        <seg>Tiene nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hausa</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144416Z" creationid="Antonio" creationdate="20151128T144416Z">
@@ -10262,10 +10334,26 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040707Z" creationid="hcartagena" creationdate="20160401T040707Z">
+        <seg>Es alternativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075123Z" creationid="Antonio" creationdate="20151127T075123Z">
         <seg>Es la traducción predeterminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040658Z" creationid="hcartagena" creationdate="20160401T040658Z">
+        <seg>Está duplicado</seg>
       </tuv>
     </tu>
     <tu>
@@ -11486,6 +11574,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040900Z" creationid="hcartagena" creationdate="20160401T040837Z">
+        <seg>Marcar como Aceptado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T222642Z" creationid="Antonio" creationdate="20151127T175507Z">
@@ -11498,6 +11594,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T160933Z" creationid="Antonio" creationdate="20151130T160933Z">
         <seg>Marcar caracteres de control del algoritmo bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040851Z" creationid="hcartagena" creationdate="20160401T040851Z">
+        <seg>Marcar Necesita revisión</seg>
       </tuv>
     </tu>
     <tu>
@@ -11610,6 +11714,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231126Z" creationid="hcartagena" creationdate="20151124T231126Z">
         <seg>Coincidir con plantilla de visualización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040713Z" creationid="hcartagena" creationdate="20160401T040713Z">
+        <seg>Tipo de coincidencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11997,10 +12109,26 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040830Z" creationid="hcartagena" creationdate="20160401T040830Z">
+        <seg>Abajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T202006Z" creationid="hcartagena" creationdate="20151120T165556Z">
         <seg>&amp;Arriba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040828Z" creationid="hcartagena" creationdate="20160401T040828Z">
+        <seg>Arriba</seg>
       </tuv>
     </tu>
     <tu>
@@ -15015,6 +15143,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040813Z" creationid="hcartagena" creationdate="20160401T040813Z">
+        <seg>Restablecer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151202T162812Z" creationid="Antonio" creationdate="20151126T152703Z">
@@ -15027,6 +15163,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T032037Z" creationid="hcartagena" creationdate="20160401T032037Z">
         <seg>Resolver conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040651Z" creationid="hcartagena" creationdate="20160401T040651Z">
+        <seg>Nombre del recurso</seg>
       </tuv>
     </tu>
     <tu>
@@ -15307,6 +15451,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T141434Z" creationid="Antonio" creationdate="20151127T173130Z">
         <seg>Guardar programa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040808Z" creationid="hcartagena" creationdate="20160401T040808Z">
+        <seg>Guardar TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16657,6 +16809,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040832Z" creationid="hcartagena" creationdate="20160401T040832Z">
+        <seg>Dividir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192825Z" creationid="hcartagena" creationdate="20151119T192825Z">
@@ -16831,6 +16991,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212821Z" creationid="hcartagena" creationdate="20151119T212821Z">
         <seg>SuperTMXMerge-for_OmegaT.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040802Z" creationid="hcartagena" creationdate="20160401T040802Z">
+        <seg>Archivos admitidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17111,6 +17279,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155231Z" creationid="Antonio" creationdate="20151128T155231Z">
         <seg>Tamil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040722Z" creationid="hcartagena" creationdate="20160401T040722Z">
+        <seg>Traducido</seg>
       </tuv>
     </tu>
     <tu>
