@@ -14967,6 +14967,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T032037Z" creationid="hcartagena" creationdate="20160401T032037Z">
+        <seg>Resolver conflictos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233959Z" creationid="hcartagena" creationdate="20151124T233959Z">
