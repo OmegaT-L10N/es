@@ -13250,6 +13250,15 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051840Z" creationid="hcartagena" creationdate="20160401T051840Z">
+        <seg>OmegaT es una herramienta de traducción asistida por ordenador (CAT por
+Computer-Assisted Translation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T022226Z" creationid="hcartagena" creationdate="20151119T212054Z">
@@ -13530,6 +13539,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185547Z" creationid="hcartagena" creationdate="20151119T185547Z">
         <seg>OmegaT intentará recrear los segmentos del archivo TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's main features are:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051848Z" creationid="hcartagena" creationdate="20160401T051848Z">
+        <seg>La principales características de OmegaT son:</seg>
       </tuv>
     </tu>
     <tu>
