@@ -9176,6 +9176,7 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>En la lista de correo de omegat-development se explica el significado de heapwise</note>
       <tuv lang="EN">
         <seg>Heapwise Comparison</seg>
       </tuv>
@@ -13821,11 +13822,12 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>En la lista de correo de omegat-development se explica el significado de parsewise</note>
       <tuv lang="EN">
         <seg>Parsewise Comparison</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160401T041018Z" creationid="hcartagena" creationdate="20160401T041018Z">
-        <seg>Comparación parsewise</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044321Z" creationid="hcartagena" creationdate="20160401T041018Z">
+        <seg>Comparación uno por uno</seg>
       </tuv>
     </tu>
     <tu>
