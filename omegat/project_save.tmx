@@ -4014,8 +4014,32 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025951Z" creationid="hcartagena" creationdate="20160401T025951Z">
-        <seg>Grupo "aceptado" de alineación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T031615Z" creationid="hcartagena" creationdate="20160401T025951Z">
+        <seg>Grupo de alineación "aceptado"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T031605Z" creationid="hcartagena" creationdate="20160401T031605Z">
+        <seg>Grupo de alineación "necesita revisión"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T031631Z" creationid="hcartagena" creationdate="20160401T031631Z">
+        <seg>Resaltado de alineación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T031642Z" creationid="hcartagena" creationdate="20160401T031642Z">
+        <seg>Resaltado de fila de tabla de alineación</seg>
       </tuv>
     </tu>
     <tu>
