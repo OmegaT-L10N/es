@@ -2724,6 +2724,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044757Z" creationid="hcartagena" creationdate="20160401T044757Z">
+        <seg>&lt;html&gt;Ponga el cursor en la ubicación donde desea dividir el texto.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T024838Z" creationid="hcartagena" creationdate="20160401T024838Z">
@@ -5866,6 +5874,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044845Z" creationid="hcartagena" creationdate="20160401T044845Z">
+        <seg>¿Continuar de todos modos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044652Z" creationid="hcartagena" creationdate="20160401T044652Z">
+        <seg>¿Continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T150549Z" creationid="Antonio" creationdate="20160125T145912Z">
@@ -7374,6 +7398,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044709Z" creationid="hcartagena" creationdate="20160401T044709Z">
+        <seg>Editar patrón de resaltado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T151435Z" creationid="Helli" creationdate="20150526T123732Z">
@@ -7394,6 +7426,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153630Z" creationid="hcartagena" creationdate="20151117T153630Z">
         <seg>Editar proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044700Z" creationid="hcartagena" creationdate="20160401T044700Z">
+        <seg>Editar texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -13010,6 +13050,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.0, Read Me file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044906Z" creationid="hcartagena" creationdate="20160401T044906Z">
+        <seg>OmegaT 4.0, archivo readme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Custom Colours</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T154534Z" creationid="Antonio" creationdate="20151126T154534Z">
@@ -15689,6 +15737,22 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044827Z" creationid="hcartagena" creationdate="20160401T044827Z">
+        <seg>¿Guardar los cambios a los ajustes de filtros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044815Z" creationid="hcartagena" creationdate="20160401T044815Z">
+        <seg>¿Guardar los cambios a las reglas de segmentación?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T205942Z" creationid="Antonio" creationdate="20151130T145056Z">
@@ -16707,6 +16771,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044838Z" creationid="hcartagena" creationdate="20160401T044838Z">
+        <seg>Algunas alineaciones todavía necesitan revisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T155021Z" creationid="Antonio" creationdate="20160125T155021Z">
@@ -17047,6 +17119,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040832Z" creationid="hcartagena" creationdate="20160401T040832Z">
         <seg>Dividir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044716Z" creationid="hcartagena" creationdate="20160401T044716Z">
+        <seg>Dividir texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -18403,6 +18483,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044917Z" creationid="hcartagena" creationdate="20160401T044917Z">
+        <seg>La información más reciente sobre OmegaT se encuentra en:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T135827Z" creationid="Antonio" creationdate="20160330T135827Z">
@@ -19286,6 +19374,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T095948Z" creationid="Antonio" creationdate="20160125T095948Z">
         <seg>Esto, realmente, realizar una operación de checkout en la carpeta local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044645Z" creationid="hcartagena" creationdate="20160401T044645Z">
+        <seg>Esto descartará todos los cambios que haya hecho hasta ahora.</seg>
       </tuv>
     </tu>
     <tu>
