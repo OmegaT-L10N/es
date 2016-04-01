@@ -4012,6 +4012,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025951Z" creationid="hcartagena" creationdate="20160401T025951Z">
+        <seg>Grupo "aceptado" de alineación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235916Z" creationid="Usuario" creationdate="20150603T235916Z">
