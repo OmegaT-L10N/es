@@ -5687,6 +5687,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T023408Z" creationid="hcartagena" creationdate="20160401T023408Z">
+        <seg>Convertir proyecto de trabajo en grupo antiguo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T171751Z" creationid="hcartagena" creationdate="20151116T202350Z">
@@ -10301,6 +10309,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175448Z" creationid="hcartagena" creationdate="20151120T175448Z">
         <seg>Se utiliza para marcar sus traducciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T023234Z" creationid="hcartagena" creationdate="20160401T023234Z">
+        <seg>Es necesario convertirlo a un proyecto de trabajo en grupo nuevo, pero no es posible hacer esto en modo de consola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17762,6 +17778,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T023302Z" creationid="hcartagena" creationdate="20160401T023302Z">
+        <seg>El proyecto se cargará como un proyecto local sin la funcionalidad de trabajo en grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T183950Z" creationid="Antonio" creationdate="20160331T183950Z">
@@ -18611,6 +18635,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T150608Z" creationid="Antonio" creationdate="20160125T150608Z">
         <seg>Para contribuir a &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T023355Z" creationid="hcartagena" creationdate="20160401T023355Z">
+        <seg>Para convertirlo en un nuevo proyecto de trabajo en grupo, ábralo en la GUI de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
