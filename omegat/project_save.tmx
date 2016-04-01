@@ -2708,6 +2708,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025520Z" creationid="hcartagena" creationdate="20160401T025520Z">
+        <seg>&lt;html&gt;Agregar patrones usando comodines (estilo Ant de Apache): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Ejemplo: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191000Z" creationid="hcartagena" creationdate="20151117T191000Z">
@@ -6332,6 +6340,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025528Z" creationid="hcartagena" creationdate="20160401T025528Z">
+        <seg>Colores personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours Selection</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T154811Z" creationid="Antonio" creationdate="20151126T154811Z">
@@ -7777,6 +7793,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025405Z" creationid="hcartagena" creationdate="20160401T025405Z">
+        <seg>Patrones de exclusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exclusion patterns</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T154905Z" creationid="Antonio" creationdate="20151126T154905Z">
@@ -8877,6 +8901,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235534Z" creationid="Usuario" creationdate="20150603T235534Z">
         <seg>Vaya a https://demo.taas-project.eu/account/keys/create?system=omegaT para crear su propia clave y luego registrarla en OmegaT con -Dtaas.user.key = xxxxx (TAAS_API_KEY_NOT_FOUND)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to https://term.tilde.com/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025352Z" creationid="hcartagena" creationdate="20160401T025352Z">
+        <seg>Vaya a https://term.tilde.com/account/keys/create?system=omegaT para crear su propia clave y luego regístrela en OmegaT con -Dtaas.user.key = xxxxx</seg>
       </tuv>
     </tu>
     <tu>
@@ -12421,6 +12453,22 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233825Z" creationid="hcartagena" creationdate="20151124T233825Z">
         <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025643Z" creationid="hcartagena" creationdate="20160401T025643Z">
+        <seg>Notificación (parpadeante)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025631Z" creationid="hcartagena" creationdate="20160401T025631Z">
+        <seg>Notificación (fijo)</seg>
       </tuv>
     </tu>
     <tu>
