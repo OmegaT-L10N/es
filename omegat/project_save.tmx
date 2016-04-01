@@ -4004,6 +4004,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044343Z" creationid="hcartagena" creationdate="20160401T044343Z">
+        <seg>Algoritmo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044337Z" creationid="hcartagena" creationdate="20160401T044337Z">
+        <seg>Alinear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040718Z" creationid="hcartagena" creationdate="20160401T040718Z">
@@ -4236,6 +4252,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044624Z" creationid="hcartagena" creationdate="20160401T044624Z">
+        <seg>Se produjo un error al guardar el TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T024928Z" creationid="hcartagena" creationdate="20160401T024928Z">
@@ -4307,6 +4331,14 @@ El archivo TMX no se cargará.</seg>
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T151021Z" creationid="Antonio" creationdate="20151126T151021Z">
+        <seg>Ya existe un elemento denominado "{0}" en esta ubicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044600Z" creationid="hcartagena" creationdate="20160401T044600Z">
         <seg>Ya existe un elemento denominado "{0}" en esta ubicación.</seg>
       </tuv>
     </tu>
@@ -4733,6 +4765,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044414Z" creationid="hcartagena" creationdate="20160401T044414Z">
+        <seg>Puntuación promedio: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avestan</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T082027Z" creationid="Antonio" creationdate="20151128T082027Z">
@@ -5114,6 +5154,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203112Z" creationid="hcartagena" creationdate="20151116T202830Z">
         <seg>Documento traducido act&amp;ual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044349Z" creationid="hcartagena" creationdate="20160401T044349Z">
+        <seg>Calculadora:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5718,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044402Z" creationid="hcartagena" creationdate="20160401T044402Z">
+        <seg>Modo de comparación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230409Z" creationid="hcartagena" creationdate="20151119T230409Z">
@@ -5798,6 +5854,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T161205Z" creationid="Antonio" creationdate="20160330T161205Z">
         <seg>**Contenidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044456Z" creationid="hcartagena" creationdate="20160401T044456Z">
+        <seg>Continuar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5936,6 +6000,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233503Z" creationid="hcartagena" creationdate="20151124T233503Z">
         <seg>Contar el texto &amp;protegido y las etiquetas personalizadas en las estadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044357Z" creationid="hcartagena" creationdate="20160401T044357Z">
+        <seg>Contador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6876,6 +6948,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044527Z" creationid="hcartagena" creationdate="20160401T044527Z">
+        <seg>Distancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163823Z" creationid="Antonio" creationdate="20151128T163732Z">
@@ -6944,6 +7024,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195110Z" creationid="Víctor Parra" creationdate="20151126T195110Z">
         <seg>¿Quiere crearla?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044612Z" creationid="hcartagena" creationdate="20160401T044612Z">
+        <seg>¿Desea sobrescribirlo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8401,6 +8489,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044446Z" creationid="hcartagena" creationdate="20160401T044446Z">
+        <seg>Filtros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T225656Z" creationid="Antonio" creationdate="20151127T172640Z">
@@ -9176,12 +9272,20 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044437Z" creationid="hcartagena" creationdate="20160401T044437Z">
+        <seg>Todo por todo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>En la lista de correo de omegat-development se explica el significado de heapwise</note>
       <tuv lang="EN">
         <seg>Heapwise Comparison</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160401T041023Z" creationid="hcartagena" creationdate="20160401T041023Z">
-        <seg>Comparación heapwise</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044330Z" creationid="hcartagena" creationdate="20160401T041023Z">
+        <seg>Comparación todo por todo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10787,6 +10891,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T192358Z" creationid="Antonio" creationdate="20151128T144841Z">
         <seg>Kazajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044532Z" creationid="hcartagena" creationdate="20160401T044532Z">
+        <seg>Conservar</seg>
       </tuv>
     </tu>
     <tu>
@@ -13822,6 +13934,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044431Z" creationid="hcartagena" creationdate="20160401T044431Z">
+        <seg>Uno por uno</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>En la lista de correo de omegat-development se explica el significado de parsewise</note>
       <tuv lang="EN">
         <seg>Parsewise Comparison</seg>
@@ -13884,6 +14004,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165300Z" creationid="hcartagena" creationdate="20151120T165300Z">
         <seg>Patrón antes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044451Z" creationid="hcartagena" creationdate="20160401T044451Z">
+        <seg>Patrón...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15329,6 +15457,22 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044524Z" creationid="hcartagena" creationdate="20160401T044524Z">
+        <seg>Fila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044443Z" creationid="hcartagena" creationdate="20160401T044443Z">
+        <seg>Reglas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T141622Z" creationid="Antonio" creationdate="20151127T173043Z">
@@ -15509,6 +15653,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131321Z" creationid="Helli" creationdate="20150526T131321Z">
         <seg>Guardar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044540Z" creationid="hcartagena" creationdate="20160401T044540Z">
+        <seg>Guardar resultados de la alineación</seg>
       </tuv>
     </tu>
     <tu>
@@ -16961,6 +17113,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231152Z" creationid="hcartagena" creationdate="20151124T231152Z">
         <seg>Lematización, sin etiquetas ni números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044509Z" creationid="hcartagena" creationdate="20160401T044509Z">
+        <seg>Paso 1: ajustar parámetros de alineación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044521Z" creationid="hcartagena" creationdate="20160401T044521Z">
+        <seg>Paso 2: hacer correcciones manuales</seg>
       </tuv>
     </tu>
     <tu>
@@ -26967,6 +27135,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075159Z" creationid="Antonio" creationdate="20151127T075159Z">
         <seg>← Anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044416Z" creationid="hcartagena" creationdate="20160401T044416Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T044419Z" creationid="hcartagena" creationdate="20160401T044419Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
