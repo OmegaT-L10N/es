@@ -1157,8 +1157,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Use Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T211100Z" creationid="hcartagena" creationdate="20151116T221220Z">
-        <seg>&amp;Usar coincidencias parciales para entradas de diccionarios</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022217Z" creationid="hcartagena" creationdate="20151116T221220Z">
+        <seg>&amp;Usar coincidencias aproximadas para entradas de diccionarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -4468,8 +4468,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175654Z" creationid="hcartagena" creationdate="20151120T175654Z">
-        <seg>Intentar convertir &amp;números al insertar una coincidencia parcial</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022309Z" creationid="hcartagena" creationdate="20151120T175654Z">
+        <seg>Intentar convertir &amp;números al insertar una coincidencia aproximada</seg>
       </tuv>
     </tu>
     <tu>
@@ -8600,8 +8600,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T233509Z" creationid="hcartagena" creationdate="20151124T233509Z">
-        <seg>Coincidencias parciales</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022346Z" creationid="hcartagena" creationdate="20151124T233509Z">
+        <seg>Coincidencias aproximadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9933,8 +9933,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151120T175554Z" creationid="hcartagena" creationdate="20151120T175554Z">
-        <seg>Insertar la coincidencia parcial &amp;más cercana</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022322Z" creationid="hcartagena" creationdate="20151120T175554Z">
+        <seg>Insertar la coincidencia aproximada &amp;más cercana</seg>
       </tuv>
     </tu>
     <tu>
@@ -12318,6 +12318,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022448Z" creationid="hcartagena" creationdate="20160401T022202Z">
+        <seg>Notificarme cuando un segmento tenga coincidencias aproximadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192620Z" creationid="hcartagena" creationdate="20151117T192620Z">
@@ -12560,8 +12568,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T212054Z" creationid="hcartagena" creationdate="20151119T212054Z">
-        <seg>OmegaT es una herramienta multiplataforma libre para la traducción asistida por computadora (TAC) que está dotada de diversas funciones: coincidencias parciales, memoria de traducción, búsqueda por palabras clave, glosarios y aprovechamiento de traducciones previas en proyectos nuevos.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022226Z" creationid="hcartagena" creationdate="20151119T212054Z">
+        <seg>OmegaT es una herramienta multiplataforma libre para la traducción asistida por computadora (TAC) que está dotada de diversas funciones: coincidencias aproximadas, memoria de traducción, búsqueda por palabras clave, glosarios y aprovechamiento de traducciones previas en proyectos nuevos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15996,8 +16004,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151124T231133Z" creationid="hcartagena" creationdate="20151124T231133Z">
-        <seg>Ordenar coincidencias parciales por:</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022332Z" creationid="hcartagena" creationdate="20151124T231133Z">
+        <seg>Ordenar coincidencias aproximadas por:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20980,16 +20988,16 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>[Fuzzy]</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T223555Z" creationid="Antonio" creationdate="20151127T174742Z">
-        <seg>[Parcial]</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022358Z" creationid="Antonio" creationdate="20151127T174742Z">
+        <seg>[Fuzzy]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T204809Z" creationid="hcartagena" creationdate="20151209T204809Z">
-        <seg>[parcial]</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022248Z" creationid="hcartagena" creationdate="20151209T204809Z">
+        <seg>[fuzzy]</seg>
       </tuv>
     </tu>
     <tu>
