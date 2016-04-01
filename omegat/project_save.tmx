@@ -5692,6 +5692,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051237Z" creationid="hcartagena" creationdate="20160401T051237Z">
+        <seg>Se han recibido aportes de código de: 
+Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich y Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191105Z" creationid="hcartagena" creationdate="20151119T191105Z">
@@ -5808,6 +5818,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T164022Z" creationid="Antonio" creationdate="20151130T164022Z">
         <seg>Los conflictos - por ejemplo, la existencia de varias traducciones para el mismo segmento o entrada del glosario - se pueden monitorizar, resolver y fusionar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflicts resolving</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051453Z" creationid="hcartagena" creationdate="20160401T051453Z">
+        <seg>Resolución de conflictos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11121,6 +11139,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T145238Z" creationid="Antonio" creationdate="20151128T145238Z">
         <seg>Coreano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>KoreanAnalyzer-3x-120223.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051245Z" creationid="hcartagena" creationdate="20160401T051245Z">
+        <seg>KoreanAnalyzer-3x-120223.jar (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27313,6 +27339,36 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T231433Z" creationid="hcartagena" creationdate="20151209T231433Z">
         <seg>Por favor, compruébela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.5.4_L10N_Minimal/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MARKER_TAB</prop>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051411Z" creationid="hcartagena" creationdate="20160401T051411Z">
+        <seg>Tabulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_3.6.0_L10N_Minimal/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MARKER_TAB</prop>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051313Z" creationid="hcartagena" creationdate="20160401T051313Z">
+        <seg>Tabulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OmegaT_4.0.0_L10N_Minimal/source/src/org/omegat/Bundle.properties</prop>
+      <prop type="id">MARKER_TAB</prop>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051347Z" creationid="hcartagena" creationdate="20160401T051347Z">
+        <seg>Tabulación</seg>
       </tuv>
     </tu>
     <tu>
