@@ -17956,8 +17956,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The specified project is an OmegaT 2.6-style team project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160401T023108Z" creationid="hcartagena" creationdate="20160401T023108Z">
-        <seg>El proyecto especificado es un proyecto de trabajo en grupo de OmegaT 2.6.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T023756Z" creationid="hcartagena" creationdate="20160401T023108Z">
+        <seg>El proyecto especificado es un proyecto de trabajo en grupo de la versión 2.6 de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
