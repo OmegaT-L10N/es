@@ -12646,6 +12646,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 2.6-style team project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T023439Z" creationid="hcartagena" creationdate="20160401T023439Z">
+        <seg>OmegaT ha detectado un proyecto de trabajo en grupo de la versión 2.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175611Z" creationid="Antonio" creationdate="20151127T175611Z">
@@ -13793,6 +13801,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T140430Z" creationid="Antonio" creationdate="20160128T140430Z">
         <seg>Conservar espacios en todas las etiquetas: marque esta opción si los documentos de origen contienen una cantidad significativa de espacios (por razones de diseño gráfico) que no se pueden ignorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.0-style team project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T023739Z" creationid="hcartagena" creationdate="20160401T023739Z">
+        <seg>Pulse 'OK' para convertir el proyecto en un proyecto de trabajo en grupo de la versión 4.0.</seg>
       </tuv>
     </tu>
     <tu>
