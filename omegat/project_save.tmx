@@ -20137,6 +20137,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022126Z" creationid="hcartagena" creationdate="20160401T022126Z">
+        <seg>Cuando un archivo individual tiene más segmentos que esto, se cargarán segmentos adicionales a medida que se desplaza por el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When accessing the service without a private key, the following message will be put in the log: TaaS API key not found.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235528Z" creationid="Usuario" creationdate="20150603T235528Z">
