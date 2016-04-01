@@ -1375,11 +1375,25 @@ en modo de trabajo en grupo</seg>
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215001Z" creationid="hcartagena" creationdate="20160331T215001Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051114Z" creationid="hcartagena" creationdate="20160331T215001Z">
         <seg>--ITokenizer=&lt;nombre de clase&gt;
 	--ITokenizerTarget=&lt;nombre de clase&gt;
-		Analizador del idioma de origen o destino a usar (invalida los
+		Analizador del idioma de origen o destino a usar (anula los
 		ajustes del proyecto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--ITokenizerBehavior=&lt;version&gt;
+	--ITokenizerBehaviorTarget=&lt;version&gt;
+		Source- or target-language tokenizer behavior to use (overrides
+		project settings).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051108Z" creationid="hcartagena" creationdate="20160401T051108Z">
+        <seg>--ITokenizerBehavior=&lt;versión&gt;
+	--ITokenizerBehaviorTarget=&lt;versión&gt;
+		Analizador del idioma de origen o destino a usar (anula
+		los ajustes del proyecto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16063,6 +16077,16 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T215554Z" creationid="hcartagena" creationdate="20160331T215554Z">
         <seg>Ver más información en Ayuda &gt; Manual de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Lucene Version docs for valid values:
+		https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.html</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T051149Z" creationid="hcartagena" creationdate="20160401T051149Z">
+        <seg>Ver los valores válidos en la documentación de Lucene Version:
+		https://lucene.apache.org/core/3_6_0/api/core/org/apache/lucene/util/Version.html</seg>
       </tuv>
     </tu>
     <tu>
