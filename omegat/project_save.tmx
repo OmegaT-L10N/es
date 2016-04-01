@@ -5486,6 +5486,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040913Z" creationid="hcartagena" creationdate="20160401T040913Z">
+        <seg>Borrar marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T125056Z" creationid="Antonio" creationdate="20160128T125006Z">
@@ -9169,6 +9177,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Heapwise Comparison</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T041023Z" creationid="hcartagena" creationdate="20160401T041023Z">
+        <seg>Comparación heapwise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hebrew (modern)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144422Z" creationid="Antonio" creationdate="20151128T144422Z">
@@ -9262,6 +9278,22 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T225456Z" creationid="hcartagena" creationdate="20151124T225456Z">
         <seg>Ocultar &amp;opciones avanzadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040944Z" creationid="hcartagena" creationdate="20160401T040944Z">
+        <seg>Resaltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040948Z" creationid="hcartagena" creationdate="20160401T040948Z">
+        <seg>Resaltar patrón...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10758,10 +10790,26 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040924Z" creationid="hcartagena" creationdate="20160401T040916Z">
+        <seg>Conservar todo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep Mine</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T032639Z" creationid="hcartagena" creationdate="20160401T032639Z">
         <seg>Conservar la mía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040929Z" creationid="hcartagena" creationdate="20160401T040929Z">
+        <seg>Conservar ninguno</seg>
       </tuv>
     </tu>
     <tu>
@@ -11600,8 +11648,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Needs Review</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040851Z" creationid="hcartagena" creationdate="20160401T040851Z">
-        <seg>Marcar Necesita revisión</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040909Z" creationid="hcartagena" creationdate="20160401T040851Z">
+        <seg>Marcar como Necesita revisión</seg>
       </tuv>
     </tu>
     <tu>
@@ -13774,6 +13822,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise Comparison</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T041018Z" creationid="hcartagena" creationdate="20160401T041018Z">
+        <seg>Comparación parsewise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154707Z" creationid="Antonio" creationdate="20151128T154707Z">
@@ -14853,6 +14909,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040958Z" creationid="hcartagena" creationdate="20160401T040958Z">
+        <seg>Eliminar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112441Z" creationid="Helli" creationdate="20150526T152329Z">
@@ -15841,6 +15905,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T041000Z" creationid="hcartagena" creationdate="20160401T041000Z">
+        <seg>Segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment Properties</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T032656Z" creationid="hcartagena" creationdate="20160401T032656Z">
@@ -15901,6 +15973,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222228Z" creationid="hcartagena" creationdate="20151116T222228Z">
         <seg>Segmento {0,number,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T041008Z" creationid="hcartagena" creationdate="20160401T041008Z">
+        <seg>Reglas de segmentación...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19314,6 +19394,22 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040940Z" creationid="hcartagena" creationdate="20160401T040940Z">
+        <seg>Alternar selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenize</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040953Z" creationid="hcartagena" creationdate="20160401T040953Z">
+        <seg>Analizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T111901Z" creationid="Antonio" creationdate="20160125T105503Z">
@@ -20590,6 +20686,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161205Z" creationid="Antonio" creationdate="20151128T161205Z">
         <seg>Vietnamita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T040941Z" creationid="hcartagena" creationdate="20160401T040941Z">
+        <seg>Ver</seg>
       </tuv>
     </tu>
     <tu>
