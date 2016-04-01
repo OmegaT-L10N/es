@@ -3745,6 +3745,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022712Z" creationid="hcartagena" creationdate="20160401T022712Z">
+        <seg>Acciones y ajustes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T154512Z" creationid="Antonio" creationdate="20151126T154512Z">
@@ -3781,6 +3789,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T220052Z" creationid="hcartagena" creationdate="20160331T220052Z">
         <seg>Agregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022502Z" creationid="hcartagena" creationdate="20160401T022502Z">
+        <seg>Agregar entrada de glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -7798,6 +7814,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMX Options...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022734Z" creationid="hcartagena" creationdate="20160401T022734Z">
+        <seg>Opciones de TMX externos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TMXs...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162823Z" creationid="Helli" creationdate="20150526T143500Z">
@@ -9903,6 +9927,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T210339Z" creationid="Helli" creationdate="20150526T132155Z">
         <seg>Insertar la siguiente etiqueta ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022511Z" creationid="hcartagena" creationdate="20160401T022511Z">
+        <seg>Insertar selección</seg>
       </tuv>
     </tu>
     <tu>
@@ -12318,10 +12350,42 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022700Z" creationid="hcartagena" creationdate="20160401T022700Z">
+        <seg>Notificarme cuando un segmento tenga comentarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022603Z" creationid="hcartagena" creationdate="20160401T022603Z">
+        <seg>Notificarme cuando un segmento tenga entradas de diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T022448Z" creationid="hcartagena" creationdate="20160401T022202Z">
         <seg>Notificarme cuando un segmento tenga coincidencias aproximadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022533Z" creationid="hcartagena" creationdate="20160401T022533Z">
+        <seg>Notificarme cuando un segmento tenga coincidencias del glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022635Z" creationid="hcartagena" creationdate="20160401T022635Z">
+        <seg>Notificarme cuando un segmento tenga notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -13062,6 +13126,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T215853Z" creationid="hcartagena" creationdate="20160331T215853Z">
         <seg>Abrir ubicación de archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022548Z" creationid="hcartagena" creationdate="20160401T022548Z">
+        <seg>Abrir archivo de glosario editable</seg>
       </tuv>
     </tu>
     <tu>
@@ -20834,6 +20906,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T221610Z" creationid="Antonio" creationdate="20160124T221610Z">
         <seg>En primer lugar, usted creará una carpeta de cliente vacía en su disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for requests</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T022756Z" creationid="hcartagena" creationdate="20160401T022756Z">
+        <seg>Alcanzó el límite diario de solicitudes</seg>
       </tuv>
     </tu>
     <tu>
