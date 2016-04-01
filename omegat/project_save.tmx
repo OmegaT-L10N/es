@@ -13805,6 +13805,16 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024322Z" creationid="hcartagena" creationdate="20160401T024322Z">
+        <seg>Pulse 'Cancelar' para dejar el proyecto sin modificar y cargarlo como proyecto
+local sin la funcionalidad de trabajo en grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press 'OK' to convert the project into a 4.0-style team project.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T023739Z" creationid="hcartagena" creationdate="20160401T023739Z">
@@ -18281,6 +18291,18 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T153140Z" creationid="Helli" creationdate="20150526T153100Z">
         <seg>El &lt;/f17&gt;&lt;a18&gt;FAQ&lt;/a18&gt;&lt;a19&gt;&lt;f20&gt; &lt;/f20&gt;&lt;/a19&gt;&lt;f21&gt;es un punto de partida bueno para encontrar respuestas a cuestiones que puede tener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024159Z" creationid="hcartagena" creationdate="20160401T024159Z">
+        <seg>Esto
+eliminará los datos locales y volverá a descargar el contenido del proyecto del
+servidor.</seg>
       </tuv>
     </tu>
     <tu>
