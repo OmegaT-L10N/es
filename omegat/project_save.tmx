@@ -2716,6 +2716,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024838Z" creationid="hcartagena" creationdate="20160401T024838Z">
+        <seg>&lt;html&gt;URL del repositorio o del&lt;br&gt;archivo del proyecto (omegat.project):&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T235754Z" creationid="Antonio" creationdate="20151126T154855Z">
@@ -4168,6 +4176,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T173656Z" creationid="Antonio" creationdate="20151127T173656Z">
         <seg>Se produjo un error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024928Z" creationid="hcartagena" creationdate="20160401T024928Z">
+        <seg>Se produjo un error al intentar detectar el archivo del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11086,6 +11102,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024848Z" creationid="hcartagena" creationdate="20160401T024848Z">
+        <seg>Carpeta local del proyecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T165054Z" creationid="Antonio" creationdate="20151127T165054Z">
@@ -13622,6 +13646,16 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024744Z" creationid="hcartagena" creationdate="20160401T024744Z">
+        <seg>Contacte al administrador de su proyecto para averiguar
+si es necesaria alguna acción adicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222156Z" creationid="hcartagena" creationdate="20151116T222156Z">
@@ -13632,8 +13666,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="EN">
         <seg>Please double-check it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T164010Z" creationid="Antonio" creationdate="20151127T164010Z">
-        <seg>Por favor, compruébelo dos veces.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025000Z" creationid="Antonio" creationdate="20151127T164010Z">
+        <seg>Compruébelo dos veces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13788,6 +13822,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175031Z" creationid="Antonio" creationdate="20151127T175031Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025019Z" creationid="hcartagena" creationdate="20160401T025019Z">
+        <seg>No se pasaron las credenciales predefinidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14038,6 +14080,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000552Z" creationid="hcartagena" creationdate="20151125T000552Z">
         <seg>Inicio de creación del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024911Z" creationid="hcartagena" creationdate="20160401T024911Z">
+        <seg>El archivo del proyecto debe estar en protocolo http.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18442,6 +18492,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164035Z" creationid="Antonio" creationdate="20151127T164035Z">
         <seg>Este es un repositorio de Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T024941Z" creationid="hcartagena" creationdate="20160401T024941Z">
+        <seg>Este es un archivo de proyecto válido.</seg>
       </tuv>
     </tu>
     <tu>
