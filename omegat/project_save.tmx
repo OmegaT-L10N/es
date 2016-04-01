@@ -7006,8 +7006,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Duplicate</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151127T163442Z" creationid="Antonio" creationdate="20151127T163437Z">
-        <seg>Duplicar</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025128Z" creationid="Antonio" creationdate="20151127T163437Z">
+        <seg>Duplicado</seg>
       </tuv>
     </tu>
     <tu>
@@ -7508,6 +7508,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T184438Z" creationid="hcartagena" creationdate="20151119T185621Z">
         <seg>Error durante la lectura del archivo TMX de nivel 2 en la línea {0}, columna {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025052Z" creationid="hcartagena" creationdate="20160401T025052Z">
+        <seg>Error al recuperar {0} como archivo de proyecto remoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -14783,6 +14791,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025058Z" creationid="hcartagena" creationdate="20160401T025058Z">
+        <seg>Credenciales del repositorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T220242Z" creationid="hcartagena" creationdate="20160331T220037Z">
@@ -16161,6 +16177,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025301Z" creationid="hcartagena" creationdate="20160401T025301Z">
+        <seg>Algo no funcionó. Para más detalles, visite Tilde Terminology.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T193214Z" creationid="Antonio" creationdate="20160316T193214Z">
@@ -16751,6 +16775,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161748Z" creationid="Antonio" creationdate="20151126T161748Z">
         <seg>Colecciones de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025109Z" creationid="hcartagena" creationdate="20160401T025109Z">
+        <seg>Pestaña</seg>
       </tuv>
     </tu>
     <tu>
@@ -19554,6 +19586,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161615Z" creationid="Antonio" creationdate="20151126T161604Z">
         <seg>Solicitud no autorizada al servicio TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025155Z" creationid="hcartagena" creationdate="20160401T025155Z">
+        <seg>Solicitud no autorizada al servicio TaaS.</seg>
       </tuv>
     </tu>
     <tu>
