@@ -73,6 +73,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${translationNotice}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="briac" changedate="20171102T120849Z" creationid="briac" creationdate="20171102T120849Z">
+        <seg>${translationNotice}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221638Z" creationid="hcartagena" creationdate="20151116T221638Z">
