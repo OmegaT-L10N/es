@@ -13291,6 +13291,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232338Z" creationid="hcartagena" creationdate="20180604T232338Z">
+        <seg>Incrustación de izquierda a derecha (LRM U+200E) (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232314Z" creationid="hcartagena" creationdate="20180604T232314Z">
+        <seg>Marca de izquierda a derecha (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151125T011457Z" creationid="Víctor Parra" creationdate="20151125T004317Z">
@@ -16949,6 +16965,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232834Z" creationid="hcartagena" creationdate="20180604T232834Z">
+        <seg>Fin de formato direccional (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154720Z" creationid="Antonio" creationdate="20151128T154710Z">
@@ -18342,6 +18366,22 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T105402Z" creationid="Helli" creationdate="20150526T114829Z">
         <seg>Pulse la tecla derecha del ratón en un botón, de "&lt;1&gt;" a "&lt;12&gt;", del tablero inferior y seleccione "Añadir".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232349Z" creationid="hcartagena" creationdate="20180604T232349Z">
+        <seg>Incrustación de derecha a izquierda (RLM U+200F) (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232322Z" creationid="hcartagena" creationdate="20180604T232322Z">
+        <seg>Marca de derecha a izquierda (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
