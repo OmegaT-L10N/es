@@ -257,6 +257,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233440Z" creationid="hcartagena" creationdate="20180604T233440Z">
+        <seg>&amp;Comprobar actualizaciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Choose...</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194753Z" creationid="Víctor Parra" creationdate="20151126T194753Z">
@@ -409,6 +417,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233400Z" creationid="hcartagena" creationdate="20180604T233400Z">
+        <seg>&amp;Habilitar completar con historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T205356Z" creationid="hcartagena" creationdate="20151119T205356Z">
@@ -555,8 +571,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233244Z" creationid="hcartagena" creationdate="20180604T233244Z">
-        <seg>Ignorar coincidencias con diferencias de caja muy visibles (FOO en vez de foo, por ejemplo)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233252Z" creationid="hcartagena" creationdate="20180604T233244Z">
+        <seg>Ig&amp;norar coincidencias con diferencias de caja muy visibles (FOO en vez de foo, por ejemplo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -781,6 +797,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204008Z" creationid="hcartagena" creationdate="20151116T204008Z">
         <seg>&amp;Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233430Z" creationid="hcartagena" creationdate="20180604T233430Z">
+        <seg>&amp;Preferencias...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1053,6 +1077,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221412Z" creationid="hcartagena" creationdate="20151116T221412Z">
+        <seg>Mo&amp;strar sugerencias pertinentes automáticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233317Z" creationid="hcartagena" creationdate="20180604T233317Z">
         <seg>Mo&amp;strar sugerencias pertinentes automáticamente</seg>
       </tuv>
     </tu>
@@ -4168,6 +4200,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233424Z" creationid="hcartagena" creationdate="20180604T233424Z">
+        <seg>Acceder a carpeta de confi&amp;guración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configuration Fol&amp;der</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221609Z" creationid="hcartagena" creationdate="20151116T221609Z">
@@ -5245,6 +5285,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T135103Z" creationid="Antonio" creationdate="20160316T135103Z">
         <seg>Autoreemplazar 'nplurals=INTEGER; &amp;plural=EXPRESSION;' en encabezado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233340Z" creationid="hcartagena" creationdate="20180604T233340Z">
+        <seg>Autocompletar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6458,16 +6506,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231617Z" creationid="hcartagena" creationdate="20180604T231617Z">
-        <seg>Enviar archivos de origen</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233608Z" creationid="hcartagena" creationdate="20180604T231617Z">
+        <seg>Enviar archivos originales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231630Z" creationid="hcartagena" creationdate="20180604T231630Z">
-        <seg>Enviar archivos de destino</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233641Z" creationid="hcartagena" creationdate="20180604T231630Z">
+        <seg>Enviar archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8649,6 +8697,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233410Z" creationid="hcartagena" creationdate="20180604T233410Z">
+        <seg>Habilitar historial y &amp;predicción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T175232Z" creationid="hcartagena" creationdate="20151117T191123Z">
@@ -9423,6 +9479,22 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230530Z" creationid="hcartagena" creationdate="20151124T230530Z">
         <seg>No se pudo respaldar el archivo de preferencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233533Z" creationid="hcartagena" creationdate="20180604T233455Z">
+        <seg>No se pudieron enviar los archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233530Z" creationid="hcartagena" creationdate="20180604T233501Z">
+        <seg>No se pudieron enviar los archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -10849,6 +10921,30 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144500Z" creationid="Antonio" creationdate="20151128T144500Z">
         <seg>Hiri Motu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233412Z" creationid="hcartagena" creationdate="20180604T233412Z">
+        <seg>Historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233346Z" creationid="hcartagena" creationdate="20180604T233346Z">
+        <seg>Completar con historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233350Z" creationid="hcartagena" creationdate="20180604T233350Z">
+        <seg>Predicción de historial</seg>
       </tuv>
     </tu>
     <tu>
@@ -16713,8 +16809,8 @@ del sistema que contiene su carpeta particular.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231521Z" creationid="hcartagena" creationdate="20180604T231521Z">
-        <seg>Poner los archivos de origen en ./source y el material
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233605Z" creationid="hcartagena" creationdate="20180604T231521Z">
+        <seg>Poner los archivos originales en ./source y el material
 complementario en ./tm, ./glossary y ./dictionary según corresponda y luego
 actualizar el servidor.</seg>
       </tuv>
@@ -20556,6 +20652,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T153513Z" creationid="Helli" creationdate="20150526T133416Z">
         <seg>Cambiar a/mayúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233336Z" creationid="hcartagena" creationdate="20180604T233336Z">
+        <seg>Cambiar vistas con {0} y {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24479,6 +24583,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233300Z" creationid="hcartagena" creationdate="20180604T233300Z">
+        <seg>&amp;Usar coincidencias aproximadas para entradas de diccionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151210T001140Z" creationid="hcartagena" creationdate="20151116T204012Z">
@@ -24491,6 +24603,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231106Z" creationid="hcartagena" creationdate="20151124T231106Z">
         <seg>Usar &amp;XML para etiquetas independientes (&lt;i/&gt;, por ejemplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233309Z" creationid="hcartagena" creationdate="20180604T233309Z">
+        <seg>&amp;Usar coincidencias aproximadas para entradas de diccionarios</seg>
       </tuv>
     </tu>
     <tu>
