@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10138M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1618,6 +1618,18 @@ en modo de trabajo en grupo</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T224148Z" creationid="hcartagena" creationdate="20180604T224148Z">
+        <seg>--remote-project
+		Descarga un archivo omegat.project desde la URL dada como &lt;ruta de acceso
+		al proyecto&gt; y carga el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -1648,6 +1660,16 @@ en modo de trabajo en grupo</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T215139Z" creationid="hcartagena" creationdate="20160331T215139Z">
         <seg>--tag-validation=[abort|warn]
 		Validar etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T223841Z" creationid="hcartagena" creationdate="20180604T223841Z">
+        <seg>-h, --help
+		Muestra información de ayuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12183,6 +12205,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T223830Z" creationid="hcartagena" creationdate="20180604T223830Z">
+        <seg>Invocar `team -h` para ver detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Irish</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144539Z" creationid="Antonio" creationdate="20151128T144539Z">
@@ -16163,6 +16193,22 @@ del sistema que contiene su carpeta particular.</seg>
 	Solo ruta de acceso al proyecto: lanzar GUI y cargar el proyecto especificado
 	-h, --help
 		Mostrar información de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T223813Z" creationid="hcartagena" creationdate="20180604T223813Z">
+        <seg>Opciones:
+	Ninguna: lanzar GUI
+	Solo ruta de acceso al proyecto: lanzar GUI y cargar el proyecto especificado
+	team
+		Herramienta de proyecto de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
