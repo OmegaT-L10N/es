@@ -265,6 +265,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231606Z" creationid="hcartagena" creationdate="20180604T231606Z">
+        <seg>L&amp;impiar menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191942Z" creationid="hcartagena" creationdate="20151116T191942Z">
@@ -6424,6 +6432,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231617Z" creationid="hcartagena" creationdate="20180604T231617Z">
+        <seg>Enviar archivos de origen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231630Z" creationid="hcartagena" creationdate="20180604T231630Z">
+        <seg>Enviar archivos de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172200Z" creationid="Antonio" creationdate="20151127T172200Z">
@@ -11955,6 +11979,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231417Z" creationid="hcartagena" creationdate="20180604T231417Z">
+        <seg>Inicializó {0}-{1} como proyecto de trabajo en grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172716Z" creationid="Antonio" creationdate="20151127T172716Z">
@@ -16601,6 +16633,18 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170820T141822Z" creationid="Cristina" creationdate="20170820T141822Z">
         <seg>Filosofía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231521Z" creationid="hcartagena" creationdate="20180604T231521Z">
+        <seg>Poner los archivos de origen en ./source y el material
+complementario en ./tm, ./glossary y ./dictionary según corresponda y luego
+actualizar el servidor.</seg>
       </tuv>
     </tu>
     <tu>
