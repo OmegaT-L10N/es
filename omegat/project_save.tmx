@@ -6380,6 +6380,18 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T224413Z" creationid="hcartagena" creationdate="20180604T224413Z">
+        <seg>Comandos:
+	-h, --help
+		Muestra información de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211452Z" creationid="hcartagena" creationdate="20151119T211452Z">
@@ -11141,6 +11153,16 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170912T183115Z" creationid="Cristina" creationdate="20170820T145806Z">
         <seg>Si no está seguro, seleccione esta versión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231330Z" creationid="hcartagena" creationdate="20180604T231330Z">
+        <seg>Si se invoca en un árbol de trabajo en git o checkout de svn, los
+		resultados se subirán al servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24293,6 +24315,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T224356Z" creationid="hcartagena" creationdate="20180604T224223Z">
+        <seg>Uso: java -jar OmegaT.jar team &lt;comando&gt; [&lt;opciones&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
@@ -28224,6 +28254,16 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T184958Z" creationid="Antonio" creationdate="20160316T184958Z">
         <seg>entradas de índice, marcadores de texto, referencias de marcadores, notas, comentarios, notas de presentación, enlaces (URL), nombres de hojas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T224523Z" creationid="hcartagena" creationdate="20180604T224523Z">
+        <seg>init &lt;idioma de origen&gt; &lt;idioma de destino&gt;
+		Inicializa un proyecto de trabajo en grupo mínimo con los idiomas especificados.</seg>
       </tuv>
     </tu>
     <tu>
