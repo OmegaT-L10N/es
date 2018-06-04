@@ -553,6 +553,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233244Z" creationid="hcartagena" creationdate="20180604T233244Z">
+        <seg>Ignorar coincidencias con diferencias de caja muy visibles (FOO en vez de foo, por ejemplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T205252Z" creationid="hcartagena" creationdate="20151119T205252Z">
@@ -6058,6 +6066,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232922Z" creationid="hcartagena" creationdate="20180604T232922Z">
+        <seg>Com&amp;probar problemas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233212Z" creationid="hcartagena" creationdate="20151124T233212Z">
@@ -6070,6 +6086,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233109Z" creationid="hcartagena" creationdate="20151124T233109Z">
         <seg>Comprobar variables printf- &amp;simples (%s, %d, por ejemplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232958Z" creationid="hcartagena" creationdate="20180604T232958Z">
+        <seg>Comprobar probl&amp;emas en el documento actual</seg>
       </tuv>
     </tu>
     <tu>
@@ -7866,6 +7890,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231322Z" creationid="hcartagena" creationdate="20151124T231322Z">
         <seg>Mostrar todos los &amp;segmentos originales en negritas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233014Z" creationid="hcartagena" creationdate="20180604T233014Z">
+        <seg>Mostrar &amp;descripción contextual en glosarios TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -13293,8 +13325,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232338Z" creationid="hcartagena" creationdate="20180604T232338Z">
-        <seg>Incrustación de izquierda a derecha (LRM U+200E) (LRE U+202A)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232845Z" creationid="hcartagena" creationdate="20180604T232338Z">
+        <seg>Inclusión de izquierda a derecha (LRM U+200E) (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18056,6 +18088,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233127Z" creationid="hcartagena" creationdate="20180604T233127Z">
+        <seg>&amp;Usar aciertos del glosario al insertar el texto original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
 6.</seg>
       </tuv>
@@ -18372,8 +18412,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232349Z" creationid="hcartagena" creationdate="20180604T232349Z">
-        <seg>Incrustación de derecha a izquierda (RLM U+200F) (RLE U+202B)</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232838Z" creationid="hcartagena" creationdate="20180604T232349Z">
+        <seg>Inclusión de derecha a izquierda (RLM U+200F) (RLE U+202B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24455,6 +24495,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233119Z" creationid="hcartagena" creationdate="20180604T233119Z">
+        <seg>Usar lematización en términos de &amp;glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn on Mac) to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T211358Z" creationid="Antonio" creationdate="20160329T211358Z">
@@ -24515,6 +24563,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232519Z" creationid="hcartagena" creationdate="20151124T232519Z">
         <seg>Usar plantillas personalizadas para la información sobre modificaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233111Z" creationid="hcartagena" creationdate="20180604T233111Z">
+        <seg>&amp;Incluir términos que aparecen separados en el texto original</seg>
       </tuv>
     </tu>
     <tu>
