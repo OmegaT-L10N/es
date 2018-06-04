@@ -6942,6 +6942,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231658Z" creationid="hcartagena" creationdate="20180604T231658Z">
+        <seg>Crear proyecto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T153746Z" creationid="hcartagena" creationdate="20151117T153741Z">
@@ -12075,6 +12083,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T232259Z" creationid="hcartagena" creationdate="20180604T232259Z">
+        <seg>Insertar carácter de control Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T022322Z" creationid="hcartagena" creationdate="20151120T175554Z">
@@ -16095,6 +16111,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T184757Z" creationid="Antonio" creationdate="20160316T184757Z">
         <seg>Archivos de Open Document Format (ODF) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T231652Z" creationid="hcartagena" creationdate="20180604T231652Z">
+        <seg>Abrir proyecto MED...</seg>
       </tuv>
     </tu>
     <tu>
