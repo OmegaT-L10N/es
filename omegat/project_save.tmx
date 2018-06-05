@@ -3267,6 +3267,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180720Z" creationid="hcartagena" creationdate="20180605T180720Z">
+        <seg>&lt;html&gt;Término: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosarios:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;You can add patterns using wildcards (ant style): '*', '?' and '**', like '**/.svn/**'&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T235754Z" creationid="Antonio" creationdate="20151126T154855Z">
@@ -7065,6 +7073,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180925Z" creationid="hcartagena" creationdate="20180605T180925Z">
+        <seg>Confirmar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075346Z" creationid="Antonio" creationdate="20151127T075346Z">
@@ -8399,6 +8415,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180619Z" creationid="hcartagena" creationdate="20180605T180619Z">
+        <seg>Desactivar regla “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T170854Z" creationid="hcartagena" creationdate="20180605T170854Z">
@@ -8779,6 +8803,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T180448Z" creationid="hcartagena" creationdate="20180605T180448Z">
         <seg>No preguntar antes qué comprobar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180809Z" creationid="hcartagena" creationdate="20180605T180809Z">
+        <seg>No preguntar antes de comprobar problemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9414,6 +9446,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222204Z" creationid="hcartagena" creationdate="20151116T222204Z">
         <seg>Introduzca el número de segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180903Z" creationid="hcartagena" creationdate="20180605T180903Z">
+        <seg>Introduzca su contraseña maestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11790,6 +11830,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181059Z" creationid="hcartagena" creationdate="20180605T181059Z">
+        <seg>Comprendo, hacerlo de todas maneras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203003Z" creationid="hcartagena" creationdate="20151116T203003Z">
@@ -12052,6 +12100,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20180604T231330Z" creationid="hcartagena" creationdate="20180604T231330Z">
         <seg>Si se invoca en un árbol de trabajo en git o checkout de svn, los
 		resultados se subirán al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180801Z" creationid="hcartagena" creationdate="20180605T180801Z">
+        <seg>Si la comprobación de problemas es lenta, intente desactivar algunas de las comprobaciones opcionales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14100,6 +14156,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180609Z" creationid="hcartagena" creationdate="20180605T180609Z">
+        <seg>Problemas de LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T034153Z" creationid="hcartagena" creationdate="20180605T034153Z">
@@ -15128,6 +15192,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T154900Z" creationid="Antonio" creationdate="20151126T154900Z">
         <seg>Máscara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180815Z" creationid="hcartagena" creationdate="20180605T180815Z">
+        <seg>Contraseña maestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -16603,6 +16675,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233005Z" creationid="hcartagena" creationdate="20151124T233005Z">
         <seg>OmegaT también puede comprobar variables de programación (variables printf-function) tales como '%s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181045Z" creationid="hcartagena" creationdate="20180605T181045Z">
+        <seg>OmegaT puede generar y almacenar una contraseña maestra para que no tenga que introducirla cada vez, pero esto es mucho menos seguro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18110,6 +18190,14 @@ si es necesaria alguna acción adicional.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180945Z" creationid="hcartagena" creationdate="20180605T180945Z">
+        <seg>Introduzca su contraseña nuevamente para confirmar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please keep translations of files in their original format, and do not change the file names.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T151655Z" creationid="Cristina" creationdate="20170924T151655Z">
@@ -18300,6 +18388,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T025019Z" creationid="hcartagena" creationdate="20160401T025019Z">
         <seg>No se pasaron las credenciales predefinidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181102Z" creationid="hcartagena" creationdate="20180605T181102Z">
+        <seg>Preferencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -20777,6 +20873,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180732Z" creationid="hcartagena" creationdate="20180605T180732Z">
+        <seg>Seleccionar tipos de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203246Z" creationid="hcartagena" creationdate="20151116T203246Z">
@@ -20869,6 +20973,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T165954Z" creationid="hcartagena" creationdate="20180605T165710Z">
         <seg>Seleccionar un archivo de programas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180742Z" creationid="hcartagena" creationdate="20180605T180742Z">
+        <seg>Seleccione los tipos de problemas a comprobar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20969,10 +21081,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181051Z" creationid="hcartagena" creationdate="20180605T181051Z">
+        <seg>Establecer mi propia contraseña</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set Scripts Folder...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T170022Z" creationid="hcartagena" creationdate="20180605T165752Z">
         <seg>Establecer la carpeta de programas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180834Z" creationid="hcartagena" creationdate="20180605T180834Z">
+        <seg>Establezca una contraseña maestra para proteger sus datos privados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21325,6 +21453,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180604T233719Z" creationid="hcartagena" creationdate="20180604T233719Z">
         <seg>Tamaño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181022Z" creationid="hcartagena" creationdate="20180605T181022Z">
+        <seg>Saltar</seg>
       </tuv>
     </tu>
     <tu>
@@ -22699,6 +22835,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180625Z" creationid="hcartagena" creationdate="20180605T180625Z">
+        <seg>Problemas de terminología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T233712Z" creationid="Antonio" creationdate="20151127T082504Z">
@@ -23757,6 +23901,30 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T135308Z" creationid="Antonio" creationdate="20160316T135308Z">
         <seg>Esta opción permite a OmegaT omitir lo especificado en el encabezado del archivo PO y usara el valor predeterminado para el idioma de destino seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180933Z" creationid="hcartagena" creationdate="20180605T180933Z">
+        <seg>La contraseña no puede estar vacía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180920Z" creationid="hcartagena" creationdate="20180605T180920Z">
+        <seg>La contraseña ingresada es incorrecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180954Z" creationid="hcartagena" creationdate="20180605T180954Z">
+        <seg>Las contraseñas no coinciden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28133,6 +28301,14 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180853Z" creationid="hcartagena" creationdate="20180605T180853Z">
+        <seg>Se le pedirá introducir esta contraseña cada vez que inicie OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You will then be able to launch OmegaT by executing this file from the command line</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T164141Z" creationid="Antonio" creationdate="20160330T164141Z">
@@ -28227,6 +28403,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T022248Z" creationid="hcartagena" creationdate="20151209T204809Z">
         <seg>[fuzzy]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180704Z" creationid="hcartagena" creationdate="20180605T180704Z">
+        <seg>[{0}] “{1}” en origen; se esperaba uno de {2} en destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180647Z" creationid="hcartagena" creationdate="20180605T180647Z">
+        <seg>[{0}] “{1}” en origen; se esperaba “{2}” en destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -33622,6 +33814,16 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T170746Z" creationid="hcartagena" creationdate="20180605T170746Z">
         <seg>Tabulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">PASSWORD_ERROR_NO_MATCH</prop>
+      <tuv lang="EN">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181019Z" creationid="hcartagena" creationdate="20180605T181019Z">
+        <seg>Por favor, compruébela.</seg>
       </tuv>
     </tu>
     <tu>
