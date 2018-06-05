@@ -577,6 +577,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032514Z" creationid="hcartagena" creationdate="20180605T032514Z">
+        <seg>&amp;Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180604T233252Z" creationid="hcartagena" creationdate="20180604T233244Z">
@@ -1295,6 +1303,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203638Z" creationid="hcartagena" creationdate="20151116T203638Z">
         <seg>&amp;Validar etiquetas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032632Z" creationid="hcartagena" creationdate="20180605T032632Z">
+        <seg>&amp;Validar etiquetas al salir de un segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -4656,6 +4672,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032626Z" creationid="hcartagena" creationdate="20180605T032626Z">
+        <seg>Permiti&amp;r editar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T234507Z" creationid="Antonio" creationdate="20151127T080959Z">
@@ -7992,6 +8016,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032733Z" creationid="hcartagena" creationdate="20180605T032733Z">
+        <seg>Mostrar todos el &amp;segmento original activo en negritas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032650Z" creationid="hcartagena" creationdate="20180605T032650Z">
+        <seg>&amp;Mostrar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223432Z" creationid="hcartagena" creationdate="20151116T223432Z">
@@ -8602,6 +8642,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032619Z" creationid="hcartagena" creationdate="20180605T032619Z">
+        <seg>E&amp;xportar el segmento a un archivo de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T225013Z" creationid="Antonio" creationdate="20151127T173639Z">
@@ -8742,6 +8790,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T181958Z" creationid="Antonio" creationdate="20151127T175124Z">
         <seg>Edición - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032541Z" creationid="hcartagena" creationdate="20180605T032532Z">
+        <seg>Opciones del Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -12205,6 +12261,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032742Z" creationid="hcartagena" creationdate="20180605T032742Z">
+        <seg>Incluir el primer segmento &amp;no único al marcar segmentos no únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the first non-&amp;unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231357Z" creationid="hcartagena" creationdate="20151124T231357Z">
@@ -12385,6 +12449,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T022322Z" creationid="hcartagena" creationdate="20151120T175554Z">
         <seg>Insertar la coincidencia aproximada &amp;más cercana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032610Z" creationid="hcartagena" creationdate="20180605T032610Z">
+        <seg>Insertar el texto &amp;original</seg>
       </tuv>
     </tu>
     <tu>
@@ -17409,6 +17481,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032507Z" creationid="hcartagena" creationdate="20180605T032507Z">
+        <seg>Conservar espacios en &amp;todas las etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces for all tags</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213633Z" creationid="hcartagena" creationdate="20151119T213633Z">
@@ -17907,6 +17987,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033611Z" creationid="hcartagena" creationdate="20180605T033611Z">
+        <seg>Credenciales de proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162934Z" creationid="Helli" creationdate="20150526T143657Z">
@@ -18284,6 +18372,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032448Z" creationid="hcartagena" creationdate="20180605T032448Z">
+        <seg>Quitar etiquetas &amp;anteriores y posteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230420Z" creationid="hcartagena" creationdate="20151119T230420Z">
@@ -18336,6 +18432,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112441Z" creationid="Helli" creationdate="20150526T152329Z">
         <seg>Es necesario retirar todos los analizadores de esta carpeta /plugin carpeta antes de iniciar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032458Z" creationid="hcartagena" creationdate="20180605T032458Z">
+        <seg>Quitar espacio en blanco anterior y posterior en proyectos sin segmentación</seg>
       </tuv>
     </tu>
     <tu>
@@ -19082,6 +19186,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040808Z" creationid="hcartagena" creationdate="20160401T040808Z">
         <seg>Guardar TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032641Z" creationid="hcartagena" creationdate="20180605T032641Z">
+        <seg>Guardar estado como aut&amp;orellenado</seg>
       </tuv>
     </tu>
     <tu>
@@ -20146,6 +20258,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032823Z" creationid="hcartagena" creationdate="20180605T032823Z">
+        <seg>Simplificar &amp;información sobre herramientas sobre partes protegidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplify tooltips on protected parts</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T205346Z" creationid="hcartagena" creationdate="20151124T232437Z">
@@ -21028,6 +21148,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032659Z" creationid="hcartagena" creationdate="20180605T032659Z">
+        <seg>Coincidencias de memorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184337Z" creationid="hcartagena" creationdate="20151119T184337Z">
@@ -21320,6 +21448,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204611Z" creationid="hcartagena" creationdate="20151116T204223Z">
         <seg>Trabajo en &amp;grupo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032524Z" creationid="hcartagena" creationdate="20180605T032524Z">
+        <seg>Trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -25023,6 +25159,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T155348Z" creationid="Helli" creationdate="20150526T134516Z">
         <seg>Usar como traducción predeterminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032838Z" creationid="hcartagena" creationdate="20180605T032838Z">
+        <seg>Usar plantillas personalizadas para la información &amp;sobre modificaciones</seg>
       </tuv>
     </tu>
     <tu>
