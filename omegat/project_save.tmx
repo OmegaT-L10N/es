@@ -225,6 +225,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181330Z" creationid="hcartagena" creationdate="20180605T181330Z">
+        <seg>Obtener traducciones &amp;automáticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192147Z" creationid="hcartagena" creationdate="20151116T192147Z">
@@ -253,6 +261,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191130Z" creationid="hcartagena" creationdate="20151117T191130Z">
         <seg>&amp;Explorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181249Z" creationid="hcartagena" creationdate="20180605T181249Z">
+        <seg>&amp;Navegador en línea</seg>
       </tuv>
     </tu>
     <tu>
@@ -1089,6 +1105,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181444Z" creationid="hcartagena" creationdate="20180605T181444Z">
+        <seg>&amp;Restablecer la contraseña maestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T031721Z" creationid="hcartagena" creationdate="20180605T031721Z">
@@ -1391,6 +1415,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T184716Z" creationid="hcartagena" creationdate="20151117T184716Z">
         <seg>Idioma de los archivos &amp;traducidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181135Z" creationid="hcartagena" creationdate="20180605T181135Z">
+        <seg>&amp;Deshacer cambios</seg>
       </tuv>
     </tu>
     <tu>
@@ -4251,6 +4283,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181208Z" creationid="hcartagena" creationdate="20180605T181208Z">
+        <seg>Se requiere reiniciar para poder aplicar estos cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A source</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222600Z" creationid="hcartagena" creationdate="20151201T222600Z">
@@ -4883,6 +4923,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181546Z" creationid="hcartagena" creationdate="20180605T181546Z">
+        <seg>Se restablecerán todas las preferencias protegidas por la contraseña maestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T113141Z" creationid="Helli" creationdate="20150526T121341Z">
@@ -5339,6 +5387,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181400Z" creationid="hcartagena" creationdate="20180605T181400Z">
+        <seg>Apariencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appendix C. OmegaT Team Projects</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T152406Z" creationid="Helli" creationdate="20150526T152406Z">
@@ -5471,6 +5527,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151210T001036Z" creationid="Antonio" creationdate="20151126T152630Z">
         <seg>¿Realmente desea restablecer todos los colores personalizados?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181531Z" creationid="hcartagena" creationdate="20180605T181531Z">
+        <seg>¿Realmente desea restablecer la contraseña maestra?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7037,6 +7101,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T230409Z" creationid="hcartagena" creationdate="20151119T230409Z">
         <seg>Comprimir espacio en blanco en el documento traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181312Z" creationid="hcartagena" creationdate="20180605T181312Z">
+        <seg>Con&amp;figurar</seg>
       </tuv>
     </tu>
     <tu>
@@ -9324,8 +9396,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151119T191057Z" creationid="hcartagena" creationdate="20151119T191057Z">
-        <seg>Habilitado</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181353Z" creationid="hcartagena" creationdate="20151119T191057Z">
+        <seg>Activado</seg>
       </tuv>
     </tu>
     <tu>
@@ -15204,6 +15276,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181432Z" creationid="hcartagena" creationdate="20180605T181432Z">
+        <seg>Contraseña maestra:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T162158Z" creationid="Helli" creationdate="20150526T140723Z">
@@ -16183,6 +16263,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181507Z" creationid="hcartagena" creationdate="20180605T181507Z">
+        <seg>No establecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T191747Z" creationid="hcartagena" creationdate="20151118T191747Z">
@@ -16715,6 +16803,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T031523Z" creationid="hcartagena" creationdate="20180605T031523Z">
         <seg>OmegaT no tiene permisos de lectura y escritura en esta carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181428Z" creationid="hcartagena" creationdate="20180605T181428Z">
+        <seg>OmegaT cifra las contraseñas sensibles y las claves de API con una contraseña maestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18336,6 +18432,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181239Z" creationid="hcartagena" creationdate="20180605T181239Z">
+        <seg>Complementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165323Z" creationid="hcartagena" creationdate="20151120T165323Z">
@@ -18396,6 +18500,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T181102Z" creationid="hcartagena" creationdate="20180605T181102Z">
         <seg>Preferencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181111Z" creationid="hcartagena" creationdate="20180605T181111Z">
+        <seg>Preferencias - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18478,6 +18590,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T233005Z" creationid="Antonio" creationdate="20151127T163054Z">
         <seg>Pulse &lt;u&gt;{0}&lt;/u&gt; para volver a sugerencias de &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181625Z" creationid="hcartagena" creationdate="20180605T181625Z">
+        <seg>Pulse las teclas de acceso directo que desea asignar y luego haga clic en Aceptar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18910,6 +19030,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131515Z" creationid="Helli" creationdate="20150526T131515Z">
         <seg>Propiedades...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181342Z" creationid="hcartagena" creationdate="20180605T181342Z">
+        <seg>Proveedor</seg>
       </tuv>
     </tu>
     <tu>
@@ -19757,6 +19885,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181518Z" creationid="hcartagena" creationdate="20180605T181518Z">
+        <seg>Restablecer la contraseña maestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T032037Z" creationid="hcartagena" creationdate="20160401T032037Z">
@@ -19785,6 +19921,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233959Z" creationid="hcartagena" creationdate="20151124T233959Z">
         <seg>Restaurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181154Z" creationid="hcartagena" creationdate="20180605T181154Z">
+        <seg>Restaurar &amp;valores predeterminado</seg>
       </tuv>
     </tu>
     <tu>
@@ -20407,6 +20551,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181122Z" creationid="hcartagena" creationdate="20180605T181122Z">
+        <seg>Buscar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T152437Z" creationid="Helli" creationdate="20150526T132239Z">
@@ -20507,6 +20659,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163822Z" creationid="Antonio" creationdate="20151127T163822Z">
         <seg>Segundos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181408Z" creationid="hcartagena" creationdate="20180605T181408Z">
+        <seg>Tienda segura</seg>
       </tuv>
     </tu>
     <tu>
@@ -20969,6 +21129,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181126Z" creationid="hcartagena" creationdate="20180605T181126Z">
+        <seg>Seleccionar una categoría</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Script File</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T165954Z" creationid="hcartagena" creationdate="20180605T165710Z">
@@ -21077,6 +21245,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T164431Z" creationid="hcartagena" creationdate="20180605T164431Z">
         <seg>Tipo de servicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181503Z" creationid="hcartagena" creationdate="20180605T181503Z">
+        <seg>Establecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181458Z" creationid="hcartagena" creationdate="20180605T181458Z">
+        <seg>Establecida y almacenada</seg>
       </tuv>
     </tu>
     <tu>
@@ -21261,6 +21445,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T234425Z" creationid="Antonio" creationdate="20151127T081410Z">
         <seg>Atajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181553Z" creationid="hcartagena" creationdate="20180605T181553Z">
+        <seg>Acceso directo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23510,6 +23702,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181236Z" creationid="hcartagena" creationdate="20180605T181236Z">
+        <seg>Se debe volver a cargar el proyecto actual para poder aplicar estos cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T162155Z" creationid="Antonio" creationdate="20160126T162155Z">
@@ -24389,6 +24589,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T074506Z" creationid="Antonio" creationdate="20160331T074506Z">
         <seg>**Básicamente hay dos tipos de formatos de archivo, el &lt;s0&gt;texto sin formato&lt;/s0&gt; y el &lt;s1&gt;texto con formato&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181306Z" creationid="hcartagena" creationdate="20180605T181306Z">
+        <seg>Hay muchos complementos disponibles en línea para OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26374,6 +26582,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T235902Z" creationid="Antonio" creationdate="20151126T153951Z">
         <seg>Segmentos sin traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181340Z" creationid="hcartagena" creationdate="20180605T181340Z">
+        <seg>Solo segmentos sin &amp;traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -33804,6 +34020,16 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T174552Z" creationid="hcartagena" creationdate="20180605T174552Z">
         <seg>Palabra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">KEYSTROKE_EDITOR_NOT_SET</prop>
+      <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T181604Z" creationid="hcartagena" creationdate="20180605T181604Z">
+        <seg>No establecido</seg>
       </tuv>
     </tu>
     <tu>
