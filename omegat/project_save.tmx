@@ -4200,6 +4200,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164816Z" creationid="hcartagena" creationdate="20180605T164816Z">
+        <seg>Clave de API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T075701Z" creationid="Antonio" creationdate="20160331T075701Z">
@@ -4568,6 +4576,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164709Z" creationid="hcartagena" creationdate="20180605T164709Z">
+        <seg>Sustitución &amp;forzosa de fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T223010Z" creationid="Antonio" creationdate="20151127T175528Z">
@@ -4788,6 +4804,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160321T174533Z" creationid="Antonio" creationdate="20160321T174533Z">
         <seg>**Se puede elegir una ubicación alternativa para algunos de los directorios durante la creación del proyecto o durante la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164751Z" creationid="hcartagena" creationdate="20180605T164751Z">
+        <seg>Idioma alternativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7780,6 +7804,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164830Z" creationid="hcartagena" creationdate="20180605T164830Z">
+        <seg>La clave de la Api de DeepL no está disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165341Z" creationid="hcartagena" creationdate="20151120T165341Z">
@@ -9284,6 +9316,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161521Z" creationid="Antonio" creationdate="20151126T161521Z">
         <seg>Error al actualizar el archivo de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164806Z" creationid="hcartagena" creationdate="20180605T164806Z">
+        <seg>Error al leer los resultados de traducción automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -14057,6 +14097,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164617Z" creationid="hcartagena" creationdate="20180605T164617Z">
+        <seg>Cargue un proyecto para configurar reglas para los idiomas de ese proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T165618Z" creationid="Helli" creationdate="20150526T114604Z">
@@ -14489,6 +14537,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164650Z" creationid="hcartagena" creationdate="20180605T164650Z">
+        <seg>Marcar segmentos &amp;autorrellenados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175455Z" creationid="Antonio" creationdate="20151127T175455Z">
@@ -14531,8 +14587,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T222642Z" creationid="Antonio" creationdate="20151127T175507Z">
-        <seg>Marcar segmentos autorellenados</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164657Z" creationid="Antonio" creationdate="20151127T175507Z">
+        <seg>Marcar segmentos autorrellenados</seg>
       </tuv>
     </tu>
     <tu>
@@ -14541,6 +14597,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T160933Z" creationid="Antonio" creationdate="20151130T160933Z">
         <seg>Marcar caracteres de control del algoritmo bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164716Z" creationid="hcartagena" creationdate="20180605T164716Z">
+        <seg>Marcar coincidencias del glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -14557,6 +14621,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T222346Z" creationid="Víctor Parra" creationdate="20151127T011240Z">
         <seg>Marcar s&amp;egmentos no únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164630Z" creationid="hcartagena" creationdate="20180605T164630Z">
+        <seg>Marcar segmentos &amp;no únicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17261,6 +17333,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164842Z" creationid="hcartagena" creationdate="20180605T164842Z">
+        <seg>Contraseña:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T031829Z" creationid="hcartagena" creationdate="20180605T031829Z">
@@ -17721,6 +17801,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T213441Z" creationid="hcartagena" creationdate="20151118T213441Z">
         <seg>La operación de guardado de preferencias del sistema falló</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164822Z" creationid="hcartagena" creationdate="20180605T164822Z">
+        <seg>Edición Premium</seg>
       </tuv>
     </tu>
     <tu>
@@ -21456,6 +21544,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164724Z" creationid="hcartagena" creationdate="20180605T164724Z">
+        <seg>Opciones de coincidencias de memorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184337Z" creationid="hcartagena" creationdate="20151119T184337Z">
@@ -23378,6 +23474,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152646Z" creationid="Antonio" creationdate="20160125T152646Z">
         <seg>Debe haber tres ficheros, con extensiones &lt;s0&gt;dz, idx&lt;/s0&gt; e &lt;s1&gt;ifo.&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164546Z" creationid="hcartagena" creationdate="20180605T164546Z">
+        <seg>Hubo un error al inicializar LanguageTool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25661,6 +25765,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232833Z" creationid="hcartagena" creationdate="20151124T232833Z">
         <seg>Usuario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164839Z" creationid="hcartagena" creationdate="20180605T164839Z">
+        <seg>Nombre de usuario:</seg>
       </tuv>
     </tu>
     <tu>
