@@ -665,6 +665,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165540Z" creationid="hcartagena" creationdate="20180605T165540Z">
+        <seg>&amp;Corrector gramatical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221655Z" creationid="hcartagena" creationdate="20151116T221655Z">
@@ -781,6 +789,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202327Z" creationid="hcartagena" creationdate="20151119T202327Z">
         <seg>&amp;Nunca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170015Z" creationid="hcartagena" creationdate="20180605T165733Z">
+        <seg>&amp;Nuevo programa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1759,9 +1775,9 @@ en modo de trabajo en grupo</seg>
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160331T215126Z" creationid="hcartagena" creationdate="20160331T215126Z">
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165857Z" creationid="hcartagena" creationdate="20160331T215126Z">
         <seg>--script=&lt;ruta de acceso&gt;
-		Un archivo de script que se ejecuta ante eventos del proyecto.</seg>
+		Un archivo de programa que se ejecuta ante eventos del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4904,6 +4920,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165936Z" creationid="hcartagena" creationdate="20180605T165656Z">
+        <seg>Se produjo un error al cargar el programa: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when loading the source files.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040746Z" creationid="hcartagena" creationdate="20160401T040746Z">
@@ -6074,6 +6098,22 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T182521Z" creationid="Antonio" creationdate="20160331T182521Z">
         <seg>Camtasia para Windows (*.camproj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165543Z" creationid="hcartagena" creationdate="20180605T165543Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165923Z" creationid="hcartagena" creationdate="20180605T165610Z">
+        <seg>Cancelar solo funciona con programas que comprueban cancelación de manera explícita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12747,8 +12787,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Introduction to tokenizers and scripts</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151210T190020Z" creationid="Antonio" creationdate="20151210T190007Z">
-        <seg>Introducción a los tokenizers y scripts</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170034Z" creationid="Antonio" creationdate="20151210T190007Z">
+        <seg>Introducción a los tokenizers y programas</seg>
       </tuv>
     </tu>
     <tu>
@@ -18600,6 +18640,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170010Z" creationid="hcartagena" creationdate="20180605T165727Z">
+        <seg>Actualizando la carpeta de programas "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203224Z" creationid="Helli" creationdate="20150526T134533Z">
@@ -20342,10 +20390,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165945Z" creationid="hcartagena" creationdate="20180605T165704Z">
+        <seg>Seleccionar carpeta de programas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161640Z" creationid="Antonio" creationdate="20151126T161640Z">
         <seg>Seleccionar el dominio de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165954Z" creationid="hcartagena" creationdate="20180605T165710Z">
+        <seg>Seleccionar un archivo de programas</seg>
       </tuv>
     </tu>
     <tu>
@@ -20442,6 +20506,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T164431Z" creationid="hcartagena" creationdate="20180605T164431Z">
         <seg>Tipo de servicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170022Z" creationid="hcartagena" creationdate="20180605T165752Z">
+        <seg>Establecer la carpeta de programas...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27972,6 +28044,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165638Z" creationid="hcartagena" creationdate="20180605T165638Z">
+        <seg>cancelado ({0} ms transcurridos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cat</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083611Z" creationid="Antonio" creationdate="20151128T083611Z">
@@ -28264,6 +28344,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T170632Z" creationid="Cristina" creationdate="20170917T170632Z">
         <seg>Compatibilidad con docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165629Z" creationid="hcartagena" creationdate="20180605T165629Z">
+        <seg>hecho ({0} ms transcurridos)</seg>
       </tuv>
     </tu>
     <tu>
