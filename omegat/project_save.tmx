@@ -945,6 +945,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031721Z" creationid="hcartagena" creationdate="20180605T031721Z">
+        <seg>&amp;Restablecer opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151202T162854Z" creationid="Antonio" creationdate="20151126T152723Z">
@@ -8946,6 +8954,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031652Z" creationid="hcartagena" creationdate="20180605T031652Z">
+        <seg>Error en reemplazo con expresiones regulares:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T224521Z" creationid="Antonio" creationdate="20151127T174426Z">
@@ -9263,6 +9279,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T143337Z" creationid="hcartagena" creationdate="20151117T140533Z">
         <seg>La página de ayuda &lt;p&gt;hilos de telaraña la ocultan de ti&lt;p&gt; 404 no se encontró</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031453Z" creationid="hcartagena" creationdate="20180605T031453Z">
+        <seg>Patrón de exclusión</seg>
       </tuv>
     </tu>
     <tu>
@@ -10691,6 +10715,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031704Z" creationid="hcartagena" creationdate="20180605T031704Z">
+        <seg>El grupo {0} no existe en la expresión de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Groups.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T161849Z" creationid="Antonio" creationdate="20160330T161849Z">
@@ -12111,6 +12143,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170916T144823Z" creationid="Cristina" creationdate="20170905T183258Z">
         <seg>En ese caso, no seleccione la versión predeterminada; seleccione una versión diferente (p. ej., la estándar o la última) y seleccione después una versión que no incluya Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031500Z" creationid="hcartagena" creationdate="20180605T031500Z">
+        <seg>Patrón de inclusión</seg>
       </tuv>
     </tu>
     <tu>
@@ -13727,6 +13767,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T220254Z" creationid="hcartagena" creationdate="20160331T220254Z">
         <seg>Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031435Z" creationid="hcartagena" creationdate="20180605T031435Z">
+        <seg>Archivo/carpeta local</seg>
       </tuv>
     </tu>
     <tu>
@@ -15654,6 +15702,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031523Z" creationid="hcartagena" creationdate="20180605T031523Z">
+        <seg>OmegaT no tiene permisos de lectura y escritura en esta carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT features highly customizable filters, enabling you to configure numerous aspects.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160127T171004Z" creationid="Antonio" creationdate="20160127T171004Z">
@@ -16809,6 +16865,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154707Z" creationid="Antonio" creationdate="20151128T154707Z">
         <seg>Pastún</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031829Z" creationid="hcartagena" creationdate="20180605T031829Z">
+        <seg>No se admiten archivos PDF protegidos por contraseña: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18116,6 +18180,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T220300Z" creationid="hcartagena" creationdate="20160331T220300Z">
         <seg>Remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031446Z" creationid="hcartagena" creationdate="20180605T031446Z">
+        <seg>Archivo/carpeta remota</seg>
       </tuv>
     </tu>
     <tu>
@@ -22067,6 +22139,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032032Z" creationid="hcartagena" creationdate="20180605T032032Z">
+        <seg>Las siguientes opciones no se aplican si está marcada la opción "Compatibilidad con OmegaT 2.6"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T203517Z" creationid="Helli" creationdate="20150526T120102Z">
@@ -24595,6 +24675,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031747Z" creationid="hcartagena" creationdate="20180605T031747Z">
+        <seg>Complemento de tipo desconocido de tipo '{0}' en '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unknown plugin type in '{0}'</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T190215Z" creationid="hcartagena" creationdate="20151119T190215Z">
@@ -24731,6 +24819,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T112913Z" creationid="Helli" creationdate="20150526T112913Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031632Z" creationid="hcartagena" creationdate="20180605T031632Z">
+        <seg>Use $n para hacer referencia al grupo en la posición n.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25451,6 +25547,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031844Z" creationid="hcartagena" creationdate="20180605T031844Z">
+        <seg>Subtítulos de WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T154825Z" creationid="Antonio" creationdate="20160125T154825Z">
@@ -25591,6 +25695,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T230447Z" creationid="hcartagena" creationdate="20151124T230447Z">
         <seg>Al usar expresiones regulares, la cadena de reemplazo no admite referencias a grupos definidos en la cadena de búsqueda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031556Z" creationid="hcartagena" creationdate="20180605T031556Z">
+        <seg>Al usar expresiones regulares, la cadena de reemplazo admite referencias a grupos definidos en la cadena de búsqueda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26542,6 +26654,14 @@ crearlas.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T164141Z" creationid="Antonio" creationdate="20160330T164141Z">
         <seg>También puede iniciar OmegaT ejecutando este archivo desde la línea de comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031839Z" creationid="hcartagena" creationdate="20180605T031839Z">
+        <seg>Subtítulos de YouTube</seg>
       </tuv>
     </tu>
     <tu>
