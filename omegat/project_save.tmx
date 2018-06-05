@@ -241,6 +241,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034032Z" creationid="hcartagena" creationdate="20180605T034032Z">
+        <seg>&amp;Navegar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191938Z" creationid="hcartagena" creationdate="20151116T191938Z">
@@ -4896,6 +4904,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034010Z" creationid="hcartagena" creationdate="20180605T034010Z">
+        <seg>Error al procesar un evento de cambio de fuente:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033946Z" creationid="hcartagena" creationdate="20180605T033946Z">
+        <seg>Error al procesar un evento de nuevo archivo:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
@@ -4921,6 +4949,16 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T033806Z" creationid="hcartagena" creationdate="20180605T033806Z">
         <seg>Error al procesar un evento de inicio de la aplicación:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033959Z" creationid="hcartagena" creationdate="20180605T033959Z">
+        <seg>Error al procesar un evento de entrada activada:
 {0}</seg>
       </tuv>
     </tu>
@@ -9300,8 +9338,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T213440Z" creationid="hcartagena" creationdate="20151125T000202Z">
-        <seg>Evento: arranque de la aplicación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033928Z" creationid="hcartagena" creationdate="20151125T000202Z">
+        <seg>Evento: inicio de la aplicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -13555,6 +13593,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034137Z" creationid="hcartagena" creationdate="20180605T034137Z">
+        <seg>Discrepanciade versión de la API LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034153Z" creationid="hcartagena" creationdate="20180605T034153Z">
+        <seg>LanguageTool está mal configurado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170916T160351Z" creationid="Cristina" creationdate="20170916T160351Z">
@@ -13567,6 +13621,22 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T195243Z" creationid="Antonio" creationdate="20151128T161637Z">
         <seg>Complemento LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034045Z" creationid="hcartagena" creationdate="20180605T034045Z">
+        <seg>Servidor LanguageTool iniciado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034118Z" creationid="hcartagena" creationdate="20180605T034118Z">
+        <seg>Servidor LanguageTool finalizado</seg>
       </tuv>
     </tu>
     <tu>
@@ -13591,6 +13661,22 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212748Z" creationid="hcartagena" creationdate="20151119T212748Z">
         <seg>LanguageTool.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034213Z" creationid="hcartagena" creationdate="20180605T034213Z">
+        <seg>LanguageTool: mala ruta local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034227Z" creationid="hcartagena" creationdate="20180605T034227Z">
+        <seg>LanguageTool: el puerto local no está disponible</seg>
       </tuv>
     </tu>
     <tu>
@@ -20808,6 +20894,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034022Z" creationid="hcartagena" creationdate="20180605T034022Z">
+        <seg>Corrector ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151125T000624Z" creationid="hcartagena" creationdate="20151125T000624Z">
@@ -21142,6 +21236,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180604T233336Z" creationid="hcartagena" creationdate="20180604T233336Z">
         <seg>Cambiar vistas con {0} y {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034202Z" creationid="hcartagena" creationdate="20180605T034202Z">
+        <seg>Cambio a la versión incorporada.</seg>
       </tuv>
     </tu>
     <tu>
