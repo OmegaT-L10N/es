@@ -305,6 +305,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032357Z" creationid="hcartagena" creationdate="20180605T032357Z">
+        <seg>&amp;Copiar información de soporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203053Z" creationid="hcartagena" creationdate="20151116T202754Z">
@@ -4136,6 +4144,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032247Z" creationid="hcartagena" creationdate="20180605T032247Z">
+        <seg>ANTLR (licencia ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212632Z" creationid="hcartagena" creationdate="20151119T212632Z">
@@ -6438,6 +6454,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032136Z" creationid="hcartagena" creationdate="20180605T032136Z">
+        <seg>Partes del código han sido aportadas por:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Code has been contributed by: 
 Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov</seg>
       </tuv>
@@ -6938,6 +6964,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T020349Z" creationid="hcartagena" creationdate="20160401T020349Z">
         <seg>Copyright © 2000-2016 Keith Godfrey, Maxym Mykhalchuk y otros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032116Z" creationid="hcartagena" creationdate="20180605T032116Z">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk y otros</seg>
       </tuv>
     </tu>
     <tu>
@@ -8174,6 +8208,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032047Z" creationid="hcartagena" creationdate="20180605T032047Z">
+        <seg>Propiedades del doc&amp;umento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194142Z" creationid="Víctor Parra" creationdate="20151126T194142Z">
@@ -9383,6 +9425,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T162055Z" creationid="hcartagena" creationdate="20151120T175616Z">
         <seg>Exportar el segmento a un archivo de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032100Z" creationid="hcartagena" creationdate="20180605T032100Z">
+        <seg>Enlaces e&amp;xternos</seg>
       </tuv>
     </tu>
     <tu>
@@ -13011,6 +13061,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032232Z" creationid="hcartagena" creationdate="20180605T032232Z">
+        <seg>Jmyspell (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jmyspell 2.1.4 (LGPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212546Z" creationid="hcartagena" creationdate="20151119T212458Z">
@@ -13367,6 +13425,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T184041Z" creationid="hcartagena" creationdate="20151119T184041Z">
         <seg>No se especificó el idioma para la variante de la unidad de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032320Z" creationid="hcartagena" creationdate="20180605T032320Z">
+        <seg>LanguageTool (licencia LGPL y otras)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16039,6 +16105,16 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212352Z" creationid="hcartagena" creationdate="20151119T212352Z">
         <seg>OmegaT utiliza las siguientes bibliotecas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032148Z" creationid="hcartagena" creationdate="20180605T032148Z">
+        <seg>OmegaT utiliza las siguientes bibliotecas:
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18826,6 +18902,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032253Z" creationid="hcartagena" creationdate="20180605T032253Z">
+        <seg>SQLJet (licencia GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQLJet 1.1.10 (GPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212640Z" creationid="hcartagena" creationdate="20151119T212640Z">
@@ -18878,6 +18962,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T142047Z" creationid="Antonio" creationdate="20160128T142047Z">
         <seg>SVN - Clear authentication data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032239Z" creationid="hcartagena" creationdate="20180605T032239Z">
+        <seg>SVNKit (licencia TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19320,6 +19412,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T205657Z" creationid="hcartagena" creationdate="20151116T193458Z">
         <seg>Consulte el "Capítulo 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032204Z" creationid="hcartagena" creationdate="20180605T032204Z">
+        <seg>Ver /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -25201,6 +25301,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032225Z" creationid="hcartagena" creationdate="20180605T032225Z">
+        <seg>VLDocking Framework (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212534Z" creationid="hcartagena" creationdate="20151119T212431Z">
@@ -30769,6 +30877,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032334Z" creationid="hcartagena" creationdate="20180605T032334Z">
+        <seg>slf4j (licencia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slf4j-*.jar (MIT License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212829Z" creationid="hcartagena" creationdate="20151119T212829Z">
@@ -31365,6 +31481,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222426Z" creationid="hcartagena" creationdate="20151201T222426Z">
         <seg>la traducción, use los menús &lt;g4&gt;Editar&lt;/g4&gt; e &lt;g5&gt;Ir a&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T032302Z" creationid="hcartagena" creationdate="20180605T032302Z">
+        <seg>trilead-ssh2 (licencia Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
