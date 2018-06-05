@@ -129,6 +129,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171127Z" creationid="hcartagena" creationdate="20180605T171127Z">
+        <seg>P&amp;ermitir solo caracteres únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175613Z" creationid="hcartagena" creationdate="20151120T175613Z">
@@ -453,6 +461,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T171017Z" creationid="hcartagena" creationdate="20180605T171017Z">
         <seg>Activar a&amp;utotexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171115Z" creationid="hcartagena" creationdate="20180605T171115Z">
+        <seg>Acti&amp;var el cuadro de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,6 +5624,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171055Z" creationid="hcartagena" creationdate="20180605T171055Z">
+        <seg>Autotexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T211708Z" creationid="Antonio" creationdate="20151127T154421Z">
@@ -6129,6 +6153,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171138Z" creationid="hcartagena" creationdate="20180605T171138Z">
+        <seg>Bo&amp;rrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142831Z" creationid="hcartagena" creationdate="20151117T142831Z">
@@ -6341,6 +6373,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155734Z" creationid="Helli" creationdate="20150526T155734Z">
         <seg>Capítulo 17. Expresiones regulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171144Z" creationid="hcartagena" creationdate="20180605T171144Z">
+        <seg>Cuadro de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -7859,6 +7899,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T233239Z" creationid="Antonio" creationdate="20151127T081016Z">
         <seg>Cuadro personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171121Z" creationid="hcartagena" creationdate="20180605T171121Z">
+        <seg>Personali&amp;zar el cuadro de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -10456,6 +10504,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T234655Z" creationid="Antonio" creationdate="20151127T080226Z">
         <seg>Para obtener mejores resultados, instale los diccionarios apropiados desde Opciones &gt; Corrección ortográfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171154Z" creationid="hcartagena" creationdate="20180605T171154Z">
+        <seg>Para obtener mejores resultados, instale los diccionarios apropiados desde Preferencias &gt; Corrección ortográfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20561,6 +20617,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171208Z" creationid="hcartagena" creationdate="20180605T171208Z">
+        <seg>&amp;Seleccionar el dominio de búsqueda de terminología en TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161640Z" creationid="Antonio" creationdate="20151126T161640Z">
@@ -21983,6 +22047,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161508Z" creationid="Antonio" creationdate="20151126T161508Z">
         <seg>No se encuentra la clave de la API de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T173807Z" creationid="hcartagena" creationdate="20180605T173807Z">
+        <seg>No se estableció la clave de la API de TaaS.</seg>
       </tuv>
     </tu>
     <tu>
