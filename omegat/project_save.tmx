@@ -3203,6 +3203,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180404Z" creationid="hcartagena" creationdate="20180605T180404Z">
+        <seg>&lt;html&gt;&lt;center&gt;Cargando...&lt;br&gt;&lt;br&gt;Consejo: Activar/desactivar comprobaciones en cualquier momento desde el menú Opciones.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Options&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151210T001156Z" creationid="Antonio" creationdate="20151126T152603Z">
@@ -4547,6 +4555,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180513Z" creationid="hcartagena" creationdate="20180605T180513Z">
+        <seg>Agregar al diccionario: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T233229Z" creationid="Antonio" creationdate="20151127T081050Z">
@@ -4823,6 +4839,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T031642Z" creationid="hcartagena" creationdate="20160401T031642Z">
         <seg>Resaltado de fila de tabla de alineación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180420Z" creationid="hcartagena" creationdate="20180605T180420Z">
+        <seg>Todos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5383,6 +5407,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160321T173438Z" creationid="Antonio" creationdate="20160321T173438Z">
         <seg>Los archivos de la aplicación: Incluidos en el paquete que usted descargó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180603Z" creationid="hcartagena" creationdate="20180605T180603Z">
+        <seg>Aplicar &amp;corrección</seg>
       </tuv>
     </tu>
     <tu>
@@ -6597,6 +6629,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T165952Z" creationid="Antonio" creationdate="20160126T165952Z">
         <seg>Seleccione esta opción para grabar en el archivo de &lt;f0&gt;project_save.tmx&lt;/f0&gt; la información que un segmento ha sido autorrellenado, de manera que pueda mostrarse con un color específico en el Editor (si está marcada la opción "Marcar segmentos autorrellenado", en el menú Ver).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180441Z" creationid="hcartagena" creationdate="20180605T180441Z">
+        <seg>Comprobar {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8731,6 +8771,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T161702Z" creationid="Antonio" creationdate="20151126T161702Z">
         <seg>Dominios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180448Z" creationid="hcartagena" creationdate="20180605T180448Z">
+        <seg>No preguntar antes qué comprobar</seg>
       </tuv>
     </tu>
     <tu>
@@ -12492,6 +12540,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180519Z" creationid="hcartagena" creationdate="20180605T180519Z">
+        <seg>Ignorar: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import From MediaWiki...</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T131152Z" creationid="Helli" creationdate="20150526T131152Z">
@@ -13168,6 +13224,38 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T180238Z" creationid="hcartagena" creationdate="20180605T180238Z">
         <seg>Problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180316Z" creationid="hcartagena" creationdate="20180605T180316Z">
+        <seg>Problemas ({0} de {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180244Z" creationid="hcartagena" creationdate="20180605T180244Z">
+        <seg>Problemas ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180324Z" creationid="hcartagena" creationdate="20180605T180324Z">
+        <seg>Problemas en {0} ({1} de {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180306Z" creationid="hcartagena" creationdate="20180605T180306Z">
+        <seg>Problemas en {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -15823,6 +15911,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20171003T172825Z" creationid="Cristina" creationdate="20170828T181947Z">
         <seg>Nightly builds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180409Z" creationid="hcartagena" creationdate="20180605T180409Z">
+        <seg>No se encontraron problemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -21737,6 +21833,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180502Z" creationid="hcartagena" creationdate="20180605T180502Z">
+        <seg>Ortografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180459Z" creationid="hcartagena" creationdate="20180605T180459Z">
+        <seg>Problemas de ortografía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling dictionaries</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T154841Z" creationid="Cristina" creationdate="20170917T154841Z">
@@ -22303,6 +22415,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T163448Z" creationid="Antonio" creationdate="20151127T163448Z">
         <seg>Etiqueta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180524Z" creationid="hcartagena" creationdate="20180605T180524Z">
+        <seg>Problemas de etiquetas</seg>
       </tuv>
     </tu>
     <tu>
