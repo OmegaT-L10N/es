@@ -457,6 +457,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T173902Z" creationid="hcartagena" creationdate="20180605T173902Z">
+        <seg>Activar consulta de te&amp;rminología en TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T171017Z" creationid="hcartagena" creationdate="20180605T171017Z">
@@ -3167,6 +3175,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151210T001156Z" creationid="Antonio" creationdate="20151126T152603Z">
         <seg>&lt;html&gt;&lt;i&gt;Opciones&lt;/i&gt; &amp;gt; &lt;i&gt;Usar tabulador para avanzar&lt;/i&gt; está marcada&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174025Z" creationid="hcartagena" creationdate="20180605T174025Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferencias&lt;/i&gt; &amp;gt; &lt;i&gt;General &lt;/i&gt; &amp;gt; &lt;i&gt;Usar tabulador para avanzar&lt;/i&gt; está marcada&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6781,6 +6797,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T173925Z" creationid="hcartagena" creationdate="20180605T173925Z">
+        <seg>Colores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191105Z" creationid="hcartagena" creationdate="20151119T191105Z">
@@ -7435,6 +7459,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T230129Z" creationid="Antonio" creationdate="20151127T172618Z">
         <seg>Crear un archivo TMX de seudotraducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T173823Z" creationid="hcartagena" creationdate="20180605T173823Z">
+        <seg>Cree su propia clave y luego introdúzcala abajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10932,6 +10964,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T173831Z" creationid="hcartagena" creationdate="20180605T173831Z">
+        <seg>Obtener clave de API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Get Started with OmegaT</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170812T151934Z" creationid="Cristina" creationdate="20170812T151934Z">
@@ -11008,6 +11048,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T174532Z" creationid="hcartagena" creationdate="20151117T184539Z">
         <seg>Carpeta de glosarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T173906Z" creationid="hcartagena" creationdate="20180605T173906Z">
+        <seg>Coincidencias del glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -22067,6 +22115,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T173840Z" creationid="hcartagena" creationdate="20180605T173840Z">
+        <seg>Terminología en TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T025109Z" creationid="hcartagena" creationdate="20160401T025109Z">
@@ -22415,6 +22471,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231112Z" creationid="hcartagena" creationdate="20151124T231112Z">
         <seg>Variables de plantillas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T173910Z" creationid="hcartagena" creationdate="20180605T173910Z">
+        <seg>Terminología</seg>
       </tuv>
     </tu>
     <tu>
@@ -33193,6 +33257,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075530Z" creationid="Antonio" creationdate="20151127T075530Z">
         <seg>{0} segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174117Z" creationid="hcartagena" creationdate="20180605T174117Z">
+        <seg>{0} alterna la orientación entre LTR (izda. a dcha.), RTL (dcha. a izda.) y según el idioma</seg>
       </tuv>
     </tu>
     <tu>
