@@ -1210,6 +1210,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165529Z" creationid="hcartagena" creationdate="20180605T165529Z">
+        <seg>&amp;Almacenar solo para esta sesión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T235540Z" creationid="Antonio" creationdate="20151126T161828Z">
@@ -11435,6 +11443,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165307Z" creationid="hcartagena" creationdate="20180605T165307Z">
+        <seg>IBM Watson no disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ID</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040520Z" creationid="hcartagena" creationdate="20160401T040520Z">
@@ -14919,6 +14935,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165345Z" creationid="hcartagena" creationdate="20180605T165345Z">
+        <seg>No se dispone de la clave de suscripción de Microsoft Translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T224724Z" creationid="Antonio" creationdate="20151127T174255Z">
@@ -15091,6 +15115,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T191505Z" creationid="Antonio" creationdate="20160316T191505Z">
         <seg>**Para ser más precisos, OmegaT intenta hacer coincidir cada patrón de nombre de archivo fuente con el nombre del archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165425Z" creationid="hcartagena" creationdate="20180605T165425Z">
+        <seg>URL de servidor Moses:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15316,6 +15348,22 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153254Z" creationid="Antonio" creationdate="20151128T153254Z">
         <seg>Nepalí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165415Z" creationid="hcartagena" creationdate="20180605T165415Z">
+        <seg>Traducción automática neural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165410Z" creationid="hcartagena" creationdate="20180605T165410Z">
+        <seg>Traducción automática neural</seg>
       </tuv>
     </tu>
     <tu>
@@ -20382,6 +20430,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165517Z" creationid="hcartagena" creationdate="20180605T165517Z">
+        <seg>El servidor no comprende el método "translate"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T164431Z" creationid="hcartagena" creationdate="20180605T164431Z">
@@ -21344,6 +21400,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165316Z" creationid="hcartagena" creationdate="20180605T165316Z">
+        <seg>Clave de suscripción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170820T121239Z" creationid="Cristina" creationdate="20170820T121239Z">
@@ -21960,6 +22024,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165439Z" creationid="hcartagena" creationdate="20180605T165439Z">
+        <seg>Prueba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Test your translation (optional).</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T152019Z" creationid="Cristina" creationdate="20170924T152019Z">
@@ -21972,6 +22044,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170820T114706Z" creationid="Cristina" creationdate="20170820T114706Z">
         <seg>Pruebas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165442Z" creationid="hcartagena" creationdate="20180605T165442Z">
+        <seg>Probando...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22313,6 +22393,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20171006T173931Z" creationid="Cristina" creationdate="20170828T180022Z">
         <seg>La última versión suele ser relativamente estable y usable, pero puede tener algunos errores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T165436Z" creationid="hcartagena" creationdate="20180605T165436Z">
+        <seg>No se ha establecido la URL del servidor Moses</seg>
       </tuv>
     </tu>
     <tu>
