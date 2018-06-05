@@ -249,6 +249,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164404Z" creationid="hcartagena" creationdate="20180605T164404Z">
+        <seg>&amp;Incluido (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T191938Z" creationid="hcartagena" creationdate="20151116T191938Z">
@@ -661,6 +669,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221655Z" creationid="hcartagena" creationdate="20151116T221655Z">
         <seg>&amp;Cambios recientes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164423Z" creationid="hcartagena" creationdate="20180605T164423Z">
+        <seg>I&amp;niciar servidor local</seg>
       </tuv>
     </tu>
     <tu>
@@ -9015,6 +9031,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164140Z" creationid="hcartagena" creationdate="20180605T164140Z">
+        <seg>Cerciórese de haber especificado la versión correcta de la API (la URL debe incluir "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232719Z" creationid="hcartagena" creationdate="20151124T232719Z">
@@ -13089,6 +13113,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164328Z" creationid="hcartagena" creationdate="20180605T164328Z">
+        <seg>Archivos JAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212649Z" creationid="hcartagena" creationdate="20151119T212649Z">
@@ -13609,6 +13641,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164518Z" creationid="hcartagena" creationdate="20180605T164518Z">
+        <seg>LanguageTool no está disponible para su idioma de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170916T160351Z" creationid="Cristina" creationdate="20170916T160351Z">
@@ -13641,6 +13681,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164317Z" creationid="hcartagena" creationdate="20180605T164317Z">
+        <seg>Ajustes de LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164310Z" creationid="hcartagena" creationdate="20180605T164310Z">
+        <seg>LanguageTool será deshabilitada hasta que se cierre el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T162037Z" creationid="Antonio" creationdate="20151128T162037Z">
@@ -13665,10 +13721,34 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164255Z" creationid="hcartagena" creationdate="20180605T164255Z">
+        <seg>LanguageTool: Se produjo un error durante la comprobación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164150Z" creationid="hcartagena" creationdate="20180605T164150Z">
+        <seg>LanguageTool: URL no válida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164228Z" creationid="hcartagena" creationdate="20180605T164228Z">
+        <seg>LanguageTool: tiempo de inicio del servidor expirado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034213Z" creationid="hcartagena" creationdate="20180605T034213Z">
-        <seg>LanguageTool: mala ruta local</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164157Z" creationid="hcartagena" creationdate="20180605T034213Z">
+        <seg>LanguageTool: ruta local no válida</seg>
       </tuv>
     </tu>
     <tu>
@@ -13677,6 +13757,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T034227Z" creationid="hcartagena" creationdate="20180605T034227Z">
         <seg>LanguageTool: el puerto local no está disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164100Z" creationid="hcartagena" creationdate="20180605T164100Z">
+        <seg>LanguageTool: el servidor devolvió XML cuando se esperaba JSON.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14057,6 +14145,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164439Z" creationid="hcartagena" creationdate="20180605T164439Z">
+        <seg>Ruta local de instalación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T165054Z" creationid="Antonio" creationdate="20151127T165054Z">
@@ -14333,6 +14429,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170820T141046Z" creationid="Cristina" creationdate="20170820T141046Z">
         <seg>Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164336Z" creationid="hcartagena" creationdate="20180605T164336Z">
+        <seg>Reglas definidas manualmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -15164,6 +15268,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175428Z" creationid="hcartagena" creationdate="20151120T175428Z">
         <seg>Nuevo idioma y país</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164353Z" creationid="hcartagena" creationdate="20180605T164353Z">
+        <seg>Nueva regla de LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -18480,6 +18592,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164428Z" creationid="hcartagena" creationdate="20180605T164428Z">
+        <seg>Servidor &amp;remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T031446Z" creationid="hcartagena" creationdate="20180605T031446Z">
@@ -19070,6 +19190,22 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T044524Z" creationid="hcartagena" creationdate="20160401T044524Z">
         <seg>Fila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164457Z" creationid="hcartagena" creationdate="20180605T164457Z">
+        <seg>El ID de regla solo puede contener letras latinas, subrayado y puntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164441Z" creationid="hcartagena" creationdate="20180605T164441Z">
+        <seg>Reglas</seg>
       </tuv>
     </tu>
     <tu>
@@ -20078,6 +20214,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164325Z" creationid="hcartagena" creationdate="20180605T164325Z">
+        <seg>Seleccionar languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170912T183159Z" creationid="Cristina" creationdate="20170820T160155Z">
@@ -20146,6 +20290,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T075610Z" creationid="Antonio" creationdate="20151127T075610Z">
         <seg>Servidor (actualizado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164431Z" creationid="hcartagena" creationdate="20180605T164431Z">
+        <seg>Tipo de servicio</seg>
       </tuv>
     </tu>
     <tu>
@@ -23421,6 +23573,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164504Z" creationid="hcartagena" creationdate="20180605T164504Z">
+        <seg>Este ID ya está siendo usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T231355Z" creationid="Antonio" creationdate="20151127T164023Z">
@@ -24725,6 +24885,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T220122Z" creationid="hcartagena" creationdate="20160331T220122Z">
         <seg>Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T164347Z" creationid="hcartagena" creationdate="20180605T164347Z">
+        <seg>Introducir nuevo ID de regla</seg>
       </tuv>
     </tu>
     <tu>
