@@ -497,6 +497,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170115Z" creationid="hcartagena" creationdate="20180605T170115Z">
+        <seg>&amp;Encontrar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192757Z" creationid="hcartagena" creationdate="20151116T192757Z">
@@ -997,6 +1005,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T192747Z" creationid="hcartagena" creationdate="20151116T192747Z">
         <seg>&amp;Reemplazar siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170121Z" creationid="hcartagena" creationdate="20180605T170121Z">
+        <seg>&amp;Reemplazar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1534,17 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
         <seg>(Podrá seguir usando OmegaT
 3.4 o una versión posterior para editar el proyecto
 en modo de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170355Z" creationid="hcartagena" creationdate="20180605T170355Z">
+        <seg>(Podrá seguir usando OmegaT
+3.6 para editar el proyecto
+en modo de trabajo en grupo.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3128,6 +3155,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170409Z" creationid="hcartagena" creationdate="20180605T170409Z">
+        <seg>&lt;html&gt;URL del repositorio:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T024838Z" creationid="hcartagena" creationdate="20160401T024838Z">
@@ -4308,6 +4343,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T221609Z" creationid="hcartagena" creationdate="20151116T221609Z">
         <seg>Acceso a carpeta &amp;de configuración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170108Z" creationid="hcartagena" creationdate="20180605T170108Z">
+        <seg>Acceder a carpeta de programas</seg>
       </tuv>
     </tu>
     <tu>
@@ -10817,6 +10860,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170302Z" creationid="hcartagena" creationdate="20180605T170302Z">
+        <seg>Git '{0}' no hizo nada porque no había cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T213656Z" creationid="Antonio" creationdate="20151127T171705Z">
@@ -10997,6 +11048,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T174542Z" creationid="Antonio" creationdate="20151127T174542Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170126Z" creationid="hcartagena" creationdate="20180605T170126Z">
+        <seg>Ir a &amp;línea</seg>
       </tuv>
     </tu>
     <tu>
@@ -15440,6 +15499,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170417Z" creationid="hcartagena" creationdate="20180605T170417Z">
+        <seg>Nueva carpeta local del proyecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150603T154130Z" creationid="Helli" creationdate="20150603T150906Z">
@@ -16190,8 +16257,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151210T200845Z" creationid="Helli" creationdate="20150526T113420Z">
-        <seg>OmegaT permite ejecutar scripts escritos en diferentes lenguajes de scripting.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170100Z" creationid="Helli" creationdate="20150526T113420Z">
+        <seg>OmegaT permite ejecutar programas escritos en diferentes lenguajes de scripting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16296,6 +16363,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T023439Z" creationid="hcartagena" creationdate="20160401T023439Z">
         <seg>OmegaT ha detectado un proyecto de trabajo en grupo de la versión 2.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170322Z" creationid="hcartagena" creationdate="20180605T170322Z">
+        <seg>OmegaT ha detectado un proyecto de trabajo en grupo de la versión 3.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17083,6 +17158,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170524Z" creationid="hcartagena" creationdate="20180605T170524Z">
+        <seg>Abriendo proyecto de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Operating System</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170820T145003Z" creationid="Cristina" creationdate="20170820T145003Z">
@@ -17669,8 +17752,16 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="EN">
         <seg>Please double-check it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20160401T025000Z" creationid="Antonio" creationdate="20151127T164010Z">
-        <seg>Compruébelo dos veces.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170510Z" creationid="Antonio" creationdate="20151127T164010Z">
+        <seg>Por favor, compruébelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170244Z" creationid="hcartagena" creationdate="20180605T170244Z">
+        <seg>Ingrese el nombre de este conjunto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17939,6 +18030,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T023739Z" creationid="hcartagena" creationdate="20160401T023739Z">
         <seg>Pulse 'OK' para convertir el proyecto en un proyecto de trabajo en grupo de la versión 4.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170331Z" creationid="hcartagena" creationdate="20180605T170331Z">
+        <seg>Pulse 'OK' para convertir el proyecto en un proyecto de trabajo en grupo de la versión 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19626,6 +19725,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170232Z" creationid="hcartagena" creationdate="20180605T170232Z">
+        <seg>Guardar conjunto actual...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T141434Z" creationid="Antonio" creationdate="20151127T173130Z">
@@ -19686,6 +19793,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T130452Z" creationid="Helli" creationdate="20150526T130452Z">
         <seg>Guarda el archivo y relanza OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170632Z" creationid="hcartagena" creationdate="20180605T170632Z">
+        <seg>Guardado y salida</seg>
       </tuv>
     </tu>
     <tu>
@@ -19830,8 +19945,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Scripts</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151128T165313Z" creationid="Antonio" creationdate="20151128T164455Z">
-        <seg>Scripts</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170044Z" creationid="Antonio" creationdate="20151128T164455Z">
+        <seg>Programas</seg>
       </tuv>
     </tu>
     <tu>
@@ -20534,6 +20649,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170227Z" creationid="hcartagena" creationdate="20180605T170227Z">
+        <seg>Conjuntos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T174628Z" creationid="hcartagena" creationdate="20151120T174628Z">
@@ -20702,10 +20825,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170137Z" creationid="hcartagena" creationdate="20180605T170137Z">
+        <seg>Mostrar barra de búsqueda de Encontrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Raw Key Names</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040507Z" creationid="hcartagena" creationdate="20160401T034549Z">
         <seg>Mostrar nombres clave originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170145Z" creationid="hcartagena" creationdate="20180605T170145Z">
+        <seg>Mostrar barra de búsqueda de Reemplazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -21620,6 +21759,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T034202Z" creationid="hcartagena" creationdate="20180605T034202Z">
         <seg>Cambio a la versión incorporada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170517Z" creationid="hcartagena" creationdate="20180605T170517Z">
+        <seg>Sincronización de repositorios</seg>
       </tuv>
     </tu>
     <tu>
@@ -23386,6 +23533,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T023756Z" creationid="hcartagena" creationdate="20160401T023108Z">
         <seg>El proyecto especificado es un proyecto de trabajo en grupo de la versión 2.6 de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170317Z" creationid="hcartagena" creationdate="20180605T170317Z">
+        <seg>El proyecto especificado es un proyecto de trabajo en grupo de la versión 3.6 de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
