@@ -6250,6 +6250,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T234107Z" creationid="hcartagena" creationdate="20180604T234107Z">
+        <seg>Elegir proyecto MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose Source File</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040751Z" creationid="hcartagena" creationdate="20160401T040751Z">
@@ -6524,6 +6532,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T172200Z" creationid="Antonio" creationdate="20151127T172200Z">
         <seg>No es posible realizar la confirmación debido a que alguien ha cambiado la traducción remota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233652Z" creationid="hcartagena" creationdate="20180604T233652Z">
+        <seg>Enviando archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233700Z" creationid="hcartagena" creationdate="20180604T233700Z">
+        <seg>Enviando archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6922,6 +6946,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083736Z" creationid="Antonio" creationdate="20151128T083736Z">
         <seg>Corso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233955Z" creationid="hcartagena" creationdate="20180604T233955Z">
+        <seg>No se pudo crear la carpeta de proyecto en {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8713,6 +8745,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T234034Z" creationid="hcartagena" creationdate="20180604T234034Z">
+        <seg>Habilitarlos en &lt;b&gt;Preferencias &gt; Guardado y salida...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T191057Z" creationid="hcartagena" creationdate="20151119T191057Z">
@@ -9347,6 +9387,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T234041Z" creationid="hcartagena" creationdate="20180604T234041Z">
+        <seg>Búsqueda externa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TM&amp;Xs...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204306Z" creationid="hcartagena" creationdate="20151116T204306Z">
@@ -9527,6 +9575,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142055Z" creationid="hcartagena" creationdate="20151116T222028Z">
         <seg>No se pudo cargar la memoria de traducción {0} del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233715Z" creationid="hcartagena" creationdate="20180604T233715Z">
+        <seg>No se pudieron actualizar las propiedades del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9907,10 +9963,26 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233920Z" creationid="hcartagena" creationdate="20180604T233920Z">
+        <seg>Se creó la carpeta {0} automáticamente para el proyecto en modo de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T233803Z" creationid="Antonio" creationdate="20151127T082032Z">
         <seg>Continuar el uso de mayúsculas del texto escrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233717Z" creationid="hcartagena" creationdate="20180604T233717Z">
+        <seg>Fuente</seg>
       </tuv>
     </tu>
     <tu>
@@ -12287,6 +12359,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20171003T152349Z" creationid="Cristina" creationdate="20170918T192203Z">
         <seg>En lugar de esto, las personas implicadas en el proyecto de OmegaT esperan que las traducciones las proporcionen en primer lugar y sobre todo los traductores que han probado OmegaT y están convencidos de su valor para la comunidad de la traducción como conjunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T234003Z" creationid="hcartagena" creationdate="20180604T234003Z">
+        <seg>No tiene permisos en la carpeta de proyecto {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16347,6 +16427,38 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233742Z" creationid="hcartagena" creationdate="20180604T233742Z">
+        <seg>Abrir {0} archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233803Z" creationid="hcartagena" creationdate="20180604T233803Z">
+        <seg>Abrir {0} ubicación de archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233809Z" creationid="hcartagena" creationdate="20180604T233809Z">
+        <seg>Abrir {0} archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files' Locations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233848Z" creationid="hcartagena" creationdate="20180604T233848Z">
+        <seg>Abrir {0} ubicación de archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194147Z" creationid="Víctor Parra" creationdate="20151126T194147Z">
@@ -17029,6 +17141,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T234059Z" creationid="hcartagena" creationdate="20180604T234059Z">
+        <seg>Seleccione el idioma de sus archivos originales y el idioma de destino al que desea traducirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T175534Z" creationid="hcartagena" creationdate="20151120T175534Z">
@@ -17395,6 +17515,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202622Z" creationid="hcartagena" creationdate="20151116T202622Z">
         <seg>Archivos de&amp;l proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233732Z" creationid="hcartagena" creationdate="20180604T233732Z">
+        <seg>Archivos de proyecto ({0} de {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -19894,6 +20022,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233719Z" creationid="hcartagena" creationdate="20180604T233719Z">
+        <seg>Tamaño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T134920Z" creationid="Antonio" creationdate="20160316T134920Z">
@@ -20178,6 +20314,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T191815Z" creationid="Antonio" creationdate="20160316T191815Z">
         <seg>**Los patrones de nombres de archivo fuente utilizan caracteres comodín similares a los utilizados en las &lt;s3&gt;Búsquedas&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233656Z" creationid="hcartagena" creationdate="20180604T233656Z">
+        <seg>Archivos originales enviados</seg>
       </tuv>
     </tu>
     <tu>
@@ -20956,6 +21100,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T193155Z" creationid="Antonio" creationdate="20160316T193155Z">
         <seg>**Nombre de archivos finales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T233705Z" creationid="hcartagena" creationdate="20180604T233705Z">
+        <seg>Archivos traducidos enviados</seg>
       </tuv>
     </tu>
     <tu>
@@ -26362,6 +26514,14 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180604T234052Z" creationid="hcartagena" creationdate="20180604T234052Z">
+        <seg>Debe especificar su nueva ubicación o volver a crearlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You translate your files by moving from segment to segment, editing each current segment in turn.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T105440Z" creationid="Antonio" creationdate="20160126T105440Z">
@@ -26424,6 +26584,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T193819Z" creationid="hcartagena" creationdate="20151116T193819Z">
         <seg>Su proyecto no contiene archivos en formato compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T031407Z" creationid="hcartagena" creationdate="20180605T031407Z">
+        <seg>Archivos ZIP</seg>
       </tuv>
     </tu>
     <tu>
