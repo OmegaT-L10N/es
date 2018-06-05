@@ -137,6 +137,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170719Z" creationid="hcartagena" creationdate="20180605T170719Z">
+        <seg>Permitir &amp;también comandos externos por proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213940Z" creationid="hcartagena" creationdate="20151119T213940Z">
@@ -437,6 +445,22 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202325Z" creationid="hcartagena" creationdate="20151119T202325Z">
         <seg>Lín&amp;eas vacías</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171017Z" creationid="hcartagena" creationdate="20180605T171017Z">
+        <seg>Activar a&amp;utotexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171005Z" creationid="hcartagena" creationdate="20180605T171005Z">
+        <seg>Activar sugerenc&amp;ias del glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -8199,6 +8223,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170854Z" creationid="hcartagena" creationdate="20180605T170854Z">
+        <seg>Mo&amp;strar términos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T081856Z" creationid="Antonio" creationdate="20151127T081856Z">
@@ -11398,10 +11430,26 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170832Z" creationid="hcartagena" creationdate="20180605T170832Z">
+        <seg>Completaciones del historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180604T233350Z" creationid="hcartagena" creationdate="20180604T233350Z">
         <seg>Predicción de historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170836Z" creationid="hcartagena" creationdate="20180605T170836Z">
+        <seg>Predicciones del historial</seg>
       </tuv>
     </tu>
     <tu>
@@ -19815,8 +19863,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="EN">
         <seg>Saving and Output...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151130T162843Z" creationid="Helli" creationdate="20150526T143603Z">
-        <seg>Guardar y emitir...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170700Z" creationid="Helli" creationdate="20150526T143603Z">
+        <seg>Guardado y salida...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20817,6 +20865,30 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170904Z" creationid="hcartagena" creationdate="20180605T170904Z">
+        <seg>Mostrar &amp;los términos traducidos más largos al principio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170950Z" creationid="hcartagena" creationdate="20180605T170950Z">
+        <seg>Mostrar el términ&amp;o original al principio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170940Z" creationid="hcartagena" creationdate="20180605T170940Z">
+        <seg>Mostrar &amp;el término traducido al principio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T225459Z" creationid="hcartagena" creationdate="20151124T225445Z">
@@ -21081,10 +21153,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171033Z" creationid="hcartagena" creationdate="20180605T171033Z">
+        <seg>Ordenar alfabéti&amp;camente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort alphabetically</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T081956Z" creationid="Antonio" creationdate="20151127T081956Z">
         <seg>Ordenar alfabéticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171049Z" creationid="hcartagena" creationdate="20180605T171049Z">
+        <seg>Ordenar por texto c&amp;ompleto, no por atajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -21097,10 +21185,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T171024Z" creationid="hcartagena" creationdate="20180605T171024Z">
+        <seg>Ordenar por lon&amp;gitud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by length</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T082005Z" creationid="Antonio" creationdate="20151127T082005Z">
         <seg>Ordenar por longitud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170915Z" creationid="hcartagena" creationdate="20180605T170915Z">
+        <seg>Ordenar al&amp;fabéticamente por término original</seg>
       </tuv>
     </tu>
     <tu>
@@ -21117,6 +21221,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T022332Z" creationid="hcartagena" creationdate="20151124T231133Z">
         <seg>Ordenar coincidencias aproximadas por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170932Z" creationid="hcartagena" creationdate="20180605T170932Z">
+        <seg>Ordenar alfa&amp;béticamente por término traducido</seg>
       </tuv>
     </tu>
     <tu>
@@ -33116,6 +33228,16 @@ directorio de configuración.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">MARKER_TAB</prop>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T170746Z" creationid="hcartagena" creationdate="20180605T170746Z">
+        <seg>Tabulación</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">OmegaT_3.5.3_L10N_Full/src/org/omegat/Bundle.properties</prop>
       <prop type="id">MARKER_TAB</prop>
