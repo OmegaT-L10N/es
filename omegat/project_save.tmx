@@ -4896,6 +4896,36 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033747Z" creationid="hcartagena" creationdate="20180605T033747Z">
+        <seg>Error al procesar un evento de cambio en el proyecto:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033828Z" creationid="hcartagena" creationdate="20180605T033828Z">
+        <seg>Error al procesar un evento de cierre de la aplicación:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033806Z" creationid="hcartagena" creationdate="20180605T033806Z">
+        <seg>Error al procesar un evento de inicio de la aplicación:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192434Z" creationid="hcartagena" creationdate="20151117T192434Z">
@@ -8152,6 +8182,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033648Z" creationid="hcartagena" creationdate="20180605T033648Z">
+        <seg>Muestra la traducción del segmento original hecha por los servicios de traducción automática que haya seleccionado en Preferencias &gt; Traducción automática, si esos servicios están disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T044527Z" creationid="hcartagena" creationdate="20160401T044527Z">
@@ -9254,8 +9292,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20151209T214220Z" creationid="hcartagena" creationdate="20151125T000234Z">
-        <seg>Evento: parada de la aplicación</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033923Z" creationid="hcartagena" creationdate="20151125T000234Z">
+        <seg>Evento: cierre de la aplicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -14129,6 +14167,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233745Z" creationid="hcartagena" creationdate="20151124T233745Z">
         <seg>Traducción automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033659Z" creationid="hcartagena" creationdate="20180605T033659Z">
+        <seg>Opciones de traducción automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -21296,6 +21342,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T204213Z" creationid="hcartagena" creationdate="20151116T204213Z">
         <seg>Procesam&amp;iento de etiquetas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T033628Z" creationid="hcartagena" creationdate="20180605T033628Z">
+        <seg>Procesamiento de etiquetas</seg>
       </tuv>
     </tu>
     <tu>
