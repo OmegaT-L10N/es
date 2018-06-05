@@ -721,6 +721,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174616Z" creationid="hcartagena" creationdate="20180605T174616Z">
+        <seg>&amp;Ir al segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192536Z" creationid="hcartagena" creationdate="20151117T192536Z">
@@ -1001,6 +1009,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174632Z" creationid="hcartagena" creationdate="20180605T174632Z">
+        <seg>Actualiza&amp;r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T192558Z" creationid="hcartagena" creationdate="20151117T192558Z">
@@ -1206,6 +1222,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203851Z" creationid="hcartagena" creationdate="20151119T203843Z">
         <seg>Nombres de &amp;hojas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174622Z" creationid="hcartagena" creationdate="20180605T174622Z">
+        <seg>&amp;Mostrar todo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6413,6 +6437,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T155734Z" creationid="Helli" creationdate="20150526T155734Z">
         <seg>Capítulo 17. Expresiones regulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174604Z" creationid="hcartagena" creationdate="20180605T174604Z">
+        <seg>Carácter</seg>
       </tuv>
     </tu>
     <tu>
@@ -13128,6 +13160,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040658Z" creationid="hcartagena" creationdate="20160401T040658Z">
         <seg>Está duplicado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T180238Z" creationid="hcartagena" creationdate="20180605T180238Z">
+        <seg>Problemas</seg>
       </tuv>
     </tu>
     <tu>
