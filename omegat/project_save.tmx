@@ -185,6 +185,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174125Z" creationid="hcartagena" creationdate="20180605T174125Z">
+        <seg>&amp;Aplicar a todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T190854Z" creationid="hcartagena" creationdate="20151117T190854Z">
@@ -251,16 +259,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20151126T161906Z" creationid="Antonio" creationdate="20151126T161906Z">
-        <seg>&amp;Examinar colecciones de TaaS...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174215Z" creationid="Antonio" creationdate="20151126T161906Z">
+        <seg>&amp;Explorar colecciones de TaaS...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Browse...</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180605T034032Z" creationid="hcartagena" creationdate="20180605T034032Z">
-        <seg>&amp;Navegar...</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174205Z" creationid="hcartagena" creationdate="20180605T034032Z">
+        <seg>&amp;Explorar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6033,6 +6041,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174145Z" creationid="hcartagena" creationdate="20180605T174145Z">
+        <seg>Explorar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T115019Z" creationid="Helli" creationdate="20150526T152855Z">
@@ -6221,6 +6237,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T165543Z" creationid="hcartagena" creationdate="20180605T165543Z">
         <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174458Z" creationid="hcartagena" creationdate="20180605T174458Z">
+        <seg>Cancelar alineación puntual</seg>
       </tuv>
     </tu>
     <tu>
@@ -9230,6 +9254,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T202841Z" creationid="hcartagena" creationdate="20151119T202841Z">
         <seg>Se encontró una secuencia \u ilegal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174452Z" creationid="hcartagena" creationdate="20180605T174452Z">
+        <seg>Finalizar alineación puntual</seg>
       </tuv>
     </tu>
     <tu>
@@ -17776,6 +17808,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174520Z" creationid="hcartagena" creationdate="20180605T174520Z">
+        <seg>Alineación puntual: seleccionar celda correspondiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -18839,6 +18879,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160127T181900Z" creationid="Antonio" creationdate="20160127T181900Z">
         <seg>Leer el documento que está en un formato determinado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174403Z" creationid="hcartagena" creationdate="20180605T174403Z">
+        <seg>Pendiente de realinear</seg>
       </tuv>
     </tu>
     <tu>
@@ -21707,6 +21755,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174444Z" creationid="hcartagena" creationdate="20180605T174444Z">
+        <seg>Iniciar alineación puntual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T211916Z" creationid="hcartagena" creationdate="20151119T211916Z">
@@ -23254,6 +23310,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174350Z" creationid="hcartagena" creationdate="20180605T174234Z">
+        <seg>El archivo "{0}" no es compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file can usually be extracted by double-clicking on the downloaded package.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T161117Z" creationid="Antonio" creationdate="20160330T161117Z">
@@ -23773,6 +23837,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T195102Z" creationid="Víctor Parra" creationdate="20151126T195102Z">
         <seg>La carpeta de diccionarios especificada no existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174339Z" creationid="hcartagena" creationdate="20180605T174339Z">
+        <seg>Los archivos especificados no son compatibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33372,6 +33444,16 @@ directorio de configuración.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COUNTER_TYPE_WORD</prop>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180605T174552Z" creationid="hcartagena" creationdate="20180605T174552Z">
+        <seg>Palabra</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">MARKER_TAB</prop>
