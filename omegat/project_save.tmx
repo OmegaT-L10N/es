@@ -4411,6 +4411,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180607T231554Z" creationid="hcartagena" creationdate="20180607T231554Z">
+        <seg>Solo ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T075701Z" creationid="Antonio" creationdate="20160331T075701Z">
@@ -6117,6 +6125,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083527Z" creationid="Antonio" creationdate="20151128T083521Z">
         <seg>Bosnio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180607T231601Z" creationid="hcartagena" creationdate="20180607T231601Z">
+        <seg>Ambos</seg>
       </tuv>
     </tu>
     <tu>
@@ -16159,6 +16175,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231157Z" creationid="hcartagena" creationdate="20151124T231157Z">
         <seg>Sin etiquetas ni números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180607T231559Z" creationid="hcartagena" creationdate="20180607T231559Z">
+        <seg>Solo no ASCII</seg>
       </tuv>
     </tu>
     <tu>
