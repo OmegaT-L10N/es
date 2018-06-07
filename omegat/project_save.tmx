@@ -16215,6 +16215,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180607T231551Z" creationid="hcartagena" creationdate="20180607T231551Z">
+        <seg>Ninguno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>None of this need concern you unless you are particularly interested in copyright issues.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T165029Z" creationid="Cristina" creationdate="20170924T164251Z">
