@@ -22475,6 +22475,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181107T191801Z" creationid="eumeu" creationdate="20181107T191801Z">
+        <seg>SuperTMXMerge (Licencia Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SuperTMXMerge-for_OmegaT.jar (LGPL License)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212821Z" creationid="hcartagena" creationdate="20151119T212821Z">
