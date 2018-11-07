@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5375,6 +5375,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T124737Z" creationid="Helli" creationdate="20150526T124737Z">
         <seg>Cualquier cosa después del "//" será ignorado.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181107T191705Z" creationid="eumeu" creationdate="20181107T191705Z">
+        <seg>Apache Commons (Licencia Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20459,6 +20467,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155005Z" creationid="Antonio" creationdate="20151128T155005Z">
         <seg>Gaélico escocés, gaélico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181107T191648Z" creationid="eumeu" creationdate="20181107T191648Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
