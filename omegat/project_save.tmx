@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1761,6 +1761,14 @@ en modo de trabajo en grupo.)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144353Z" creationid="Antonio" creationdate="20151130T144335Z">
         <seg>, se puede ver:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181109T123212Z" creationid="eumeu" creationdate="20181109T123212Z">
+        <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15012,6 +15020,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main Menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181109T123057Z" creationid="eumeu" creationdate="20181109T123057Z">
+        <seg>Main Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T164113Z" creationid="Antonio" creationdate="20160330T164113Z">
@@ -15470,6 +15486,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145559Z" creationid="Helli" creationdate="20150526T130853Z">
         <seg>Código de elemento del menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu and Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181109T122850Z" creationid="eumeu" creationdate="20181109T122850Z">
+        <seg>Menu and Keyboard shortcuts</seg>
       </tuv>
     </tu>
     <tu>
@@ -16875,6 +16899,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170908T210909Z" creationid="Cristina" creationdate="20170908T210909Z">
         <seg>OmegaT para Mac OS X está disponible en versión firmada y sin firmar; cuentan con las mismas funciones, pero es preferible usar la versión firmada porque el sistema reconoce que la ha publicado un desarrollador conocido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181109T123127Z" creationid="eumeu" creationdate="20181109T123127Z">
+        <seg>OmegaT has an inline spelling checker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21673,6 +21705,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181109T123638Z" creationid="eumeu" creationdate="20181109T123638Z">
+        <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154907Z" creationid="Antonio" creationdate="20151128T154907Z">
@@ -22245,6 +22285,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T044716Z" creationid="hcartagena" creationdate="20160401T044716Z">
         <seg>Dividir texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181109T123101Z" creationid="eumeu" creationdate="20181109T123101Z">
+        <seg>Sponsorship</seg>
       </tuv>
     </tu>
     <tu>
@@ -24517,6 +24565,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T174003Z" creationid="Antonio" creationdate="20151127T174003Z">
         <seg>El tamaño del texto supera el máximo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181109T123435Z" creationid="eumeu" creationdate="20181109T123435Z">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
       </tuv>
     </tu>
     <tu>
