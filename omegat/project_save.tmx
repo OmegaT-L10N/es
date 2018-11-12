@@ -11388,6 +11388,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T133740Z" creationid="eumeu" creationdate="20181112T133740Z">
+        <seg>Panel de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T162931Z" creationid="Antonio" creationdate="20160126T162931Z">
@@ -29547,6 +29555,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144314Z" creationid="Antonio" creationdate="20151128T144314Z">
         <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>displays terminology found for items in the current segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T133853Z" creationid="eumeu" creationdate="20181112T133853Z">
+        <seg>Muestra la terminología encontrada por elementos en el segmento actual</seg>
       </tuv>
     </tu>
     <tu>
