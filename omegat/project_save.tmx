@@ -29551,6 +29551,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>displays the most similar segments from translation memories</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T133726Z" creationid="eumeu" creationdate="20181112T133726Z">
+        <seg>Muestra los segmentos más similares de las memorias de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>div</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084147Z" creationid="Antonio" creationdate="20151128T084147Z">
