@@ -24609,6 +24609,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user interface</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T131327Z" creationid="eumeu" creationdate="20181112T131327Z">
+        <seg>Interfaz de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user interface and documentation were originally written in English.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170918T191429Z" creationid="Cristina" creationdate="20170918T191135Z">
