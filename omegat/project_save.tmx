@@ -8495,6 +8495,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictonary pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T134303Z" creationid="eumeu" creationdate="20181112T134303Z">
+        <seg>Diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212154Z" creationid="hcartagena" creationdate="20151119T212154Z">
@@ -29555,6 +29563,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144314Z" creationid="Antonio" creationdate="20151128T144314Z">
         <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>displays dictionary hits found for items in the current segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T134420Z" creationid="eumeu" creationdate="20181112T134420Z">
+        <seg>Muestra los resultados encontrados por el diccionario por término en el segmento actual</seg>
       </tuv>
     </tu>
     <tu>
