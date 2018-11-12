@@ -15028,6 +15028,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main OmegaT window, other windows and dialogs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T131442Z" creationid="eumeu" creationdate="20181112T131442Z">
+        <seg>Ventana principal, otras ventanas y cuadros de diálogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T164113Z" creationid="Antonio" creationdate="20160330T164113Z">
@@ -17120,6 +17128,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212838Z" creationid="hcartagena" creationdate="20151119T212838Z">
         <seg>Licencia OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT main window contains the main menu, status bar and several panes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T131535Z" creationid="eumeu" creationdate="20181112T131535Z">
+        <seg>La ventana principal se compone de varios paneles, el menú principal y una barra de estado</seg>
       </tuv>
     </tu>
     <tu>
