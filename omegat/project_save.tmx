@@ -15044,6 +15044,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translations pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T134445Z" creationid="eumeu" creationdate="20181112T134445Z">
+        <seg>Traducción automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T203646Z" creationid="hcartagena" creationdate="20151119T203646Z">
@@ -29587,6 +29595,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181112T133726Z" creationid="eumeu" creationdate="20181112T133726Z">
         <seg>Muestra los segmentos más similares de las memorias de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>displays the translation, provided by MT services</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T134634Z" creationid="eumeu" creationdate="20181112T134634Z">
+        <seg>Muestra ka traducción proporcionada por los servicios de Traducción Automática</seg>
       </tuv>
     </tu>
     <tu>
