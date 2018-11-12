@@ -15396,6 +15396,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T133612Z" creationid="eumeu" creationdate="20181112T133612Z">
+        <seg>Panel de coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match propagation</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170812T152829Z" creationid="Cristina" creationdate="20170812T152829Z">
