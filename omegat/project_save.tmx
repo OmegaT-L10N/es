@@ -24127,6 +24127,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The information below summarizes their use and how they are invoked:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181112T132841Z" creationid="eumeu" creationdate="20181112T132841Z">
+        <seg>La información que se encuentra a continuación explica como se utilizan y aplican </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235516Z" creationid="Usuario" creationdate="20150603T235516Z">
