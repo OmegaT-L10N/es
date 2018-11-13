@@ -5680,6 +5680,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T220031Z" creationid="taty" creationdate="20181113T220031Z">
+        <seg>Como el contenido existente no se tocará, el daño a un archivo existente será limitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the program is intended for translators throughout the world and not just in English-speaking countries, it is appropriate that the documentation (and, if possible, the program itself) be available in other languages.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170918T191523Z" creationid="Cristina" creationdate="20170918T191523Z">
