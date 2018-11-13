@@ -24598,6 +24598,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T180609Z" creationid="taty" creationdate="20181113T180609Z">
+        <seg>La estensión debe ser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; (si no, este será agregado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T174350Z" creationid="hcartagena" creationdate="20180605T174234Z">
