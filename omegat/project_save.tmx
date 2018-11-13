@@ -12708,6 +12708,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T215757Z" creationid="taty" creationdate="20181113T215757Z">
+        <seg>Si el archivo ya existe, no se hace ningún intento de verificar el formato o el conjunto de caracteres del archivo: las nuevas entradas siempre estarán en formato separado por tabulaciones y UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T144424Z" creationid="Antonio" creationdate="20160330T144424Z">
