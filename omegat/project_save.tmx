@@ -11756,6 +11756,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Help browser</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T105812Z" creationid="eumeu" creationdate="20181113T105812Z">
+        <seg>Navegador de ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="EN">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
