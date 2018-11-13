@@ -24624,8 +24624,8 @@ actual.</seg>
       <tuv lang="EN">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181113T180609Z" creationid="taty" creationdate="20181113T180609Z">
-        <seg>La estensión debe ser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; (si no, este será agregado).</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181113T214354Z" creationid="taty" creationdate="20181113T180609Z">
+        <seg>La estensión debe ser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; (si no, se agregará).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24642,6 +24642,14 @@ actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T161117Z" creationid="Antonio" creationdate="20160330T161117Z">
         <seg>El archivos se suele descomprimir haciendo generalmente con un doble clic sobre el paquete descargado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T215212Z" creationid="taty" creationdate="20181113T215212Z">
+        <seg>No es necesario que el archivo exista al configurarlo, se creará (si es necesario) al agregar una entrada de glosario. </seg>
       </tuv>
     </tu>
     <tu>
