@@ -1549,6 +1549,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T142735Z" creationid="taty" creationdate="20181109T142735Z">
+        <seg>(No confunda esta carpeta con la carpeta "diccionario" en los proyectos de OmegaT.) Luego, seleccione la URL (dirección del sitio web) de un repositorio en línea desde donde descargar el diccionario o los diccionarios, y pegue esta URL en el campo "URL de los diccionarios en línea) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T160555Z" creationid="Cristina" creationdate="20170924T160112Z">
@@ -1587,6 +1595,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="ES" changeid="Antonio" changedate="20160331T140412Z" creationid="hcartagena" creationdate="20151116T195030Z">
         <seg>(Consultar 'Archivos a traducir' &gt; 'Formatos de archivo' en el manual de usuario para ver un listado de
 formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic en el botón 'Agregar archivos...' en la ventana 'Archivos del proyecto' o ejecute esta acción desde el menú 'Proyecto' y seleccione los archivos que desea copiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(It will, of course, check for Bolivian rather than Mexican Spanish!)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T164804Z" creationid="taty" creationdate="20181109T164804Z">
+        <seg>(Por supuesto, verificará el español Boliviano en lugar del Español Mexicano!)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4299,6 +4315,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of repository URLs is provided below.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143025Z" creationid="taty" creationdate="20181109T143025Z">
+        <seg>A continuación se proporciona una lista de las URL del repositorio </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233854Z" creationid="hcartagena" creationdate="20151124T233854Z">
@@ -6008,6 +6032,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Balabit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140253Z" creationid="taty" creationdate="20181109T140253Z">
+        <seg>Balabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T082249Z" creationid="Antonio" creationdate="20151128T082249Z">
@@ -6109,6 +6141,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083451Z" creationid="Antonio" creationdate="20151128T083451Z">
         <seg>Bengalí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Besides being available from the repositories above, spelling dictionaries are available as part of LibreOffice and OpenOffice.org installations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T153806Z" creationid="taty" creationdate="20181109T153806Z">
+        <seg>Además de estar disponibles en los repositorios anteriores, los diccionarios de ortografía estan disponibles como parte de las instalaciones de LibreOffice y OpenOffice.org.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6217,6 +6257,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133926Z" creationid="taty" creationdate="20181109T133921Z">
+        <seg>Breve introducción de OmegaT, 2009 (en Vietnamés). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191152Z" creationid="hcartagena" creationdate="20151117T191152Z">
@@ -6245,6 +6293,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T174145Z" creationid="hcartagena" creationdate="20180605T174145Z">
         <seg>Explorar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T130944Z" creationid="taty" creationdate="20181109T130944Z">
+        <seg>Navegador plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -6305,6 +6361,38 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133556Z" creationid="taty" creationdate="20181109T131946Z">
+        <seg>Por Arno Peters y Mariëtte van Drunen (en holandés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133727Z" creationid="taty" creationdate="20181109T133237Z">
+        <seg>Por Asier Sarasua Garmendia (en Basque). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Corinne McKay (in English).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133443Z" creationid="taty" creationdate="20181109T133443Z">
+        <seg>Por Corinne McKay (en Inglés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133541Z" creationid="taty" creationdate="20181109T133541Z">
+        <seg>Por Leo Viëtor (en Holandés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170918T185418Z" creationid="Cristina" creationdate="20170918T185418Z">
@@ -6337,10 +6425,34 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133356Z" creationid="taty" creationdate="20181109T133356Z">
+        <seg>Por Takashi Miyamoto (en Japonés).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Vladimir Zhdanov (in Russian).</seg>
       </tuv>
       <tuv lang="ES" changeid="briac" changedate="20171102T112658Z" creationid="briac" creationdate="20171102T112637Z">
         <seg>De Vladimir Zhdanov (en ruso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133640Z" creationid="taty" creationdate="20181109T132123Z">
+        <seg>Por Václav Hejda (en Checo) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T132638Z" creationid="taty" creationdate="20181109T132638Z">
+        <seg>Por Yutaka Kachi (en Japonés). </seg>
       </tuv>
     </tu>
     <tu>
@@ -6405,6 +6517,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T203112Z" creationid="hcartagena" creationdate="20151116T202830Z">
         <seg>Documento traducido act&amp;ual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CJ Translations</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140326Z" creationid="taty" creationdate="20181109T140326Z">
+        <seg>CJ Traducciónes</seg>
       </tuv>
     </tu>
     <tu>
@@ -6533,6 +6653,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151120T165305Z" creationid="hcartagena" creationdate="20151120T165305Z">
         <seg>Catalán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T135920Z" creationid="taty" creationdate="20181109T135920Z">
+        <seg>Sin embargo, algunas funciones del programa han sido encargadas por promotores comerciales quiénes después han donado de vuelta las características a la comunidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6725,6 +6853,30 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T162644Z" creationid="Cristina" creationdate="20170917T162644Z">
         <seg>Comprobar la ortografía (varios procedimientos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that spelling checking is enabled in the spelling checking dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T165236Z" creationid="taty" creationdate="20181109T165236Z">
+        <seg>Compruebe que la revisión de ortografía está disponible en el cuadro de revisión de ortografía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that the .dic and .aff files for your language are present in the spelling dictionary folder, and that their names correspond to the target language code.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T170016Z" creationid="taty" creationdate="20181109T170016Z">
+        <seg>Compruebe que los archivos .dic y .aff de su idioma estén presentes en la carpeta de diccionario de ortografía y que sus nombres correspondan al código del idioma de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that you have write permissions for the spelling dictionary folder you have selected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T165820Z" creationid="taty" creationdate="20181109T165820Z">
+        <seg>Compruebe que tiene una autorización de escritura para la carpeta de diccionario de ortografía que ha seleccionado. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7153,6 +7305,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commodity12</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140337Z" creationid="taty" creationdate="20181109T140337Z">
+        <seg>Commodity12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T044402Z" creationid="hcartagena" creationdate="20160401T044402Z">
@@ -7365,6 +7525,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains a comprehensive description of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T134402Z" creationid="taty" creationdate="20181109T134402Z">
+        <seg>Contiene una descripción completa de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T161205Z" creationid="Antonio" creationdate="20160330T161205Z">
@@ -7515,6 +7683,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T163540Z" creationid="Antonio" creationdate="20151128T163540Z">
         <seg>Derechos de autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T170056Z" creationid="taty" creationdate="20181109T170056Z">
+        <seg>copyright Marc Prior 2009-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -8303,6 +8479,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T134317Z" creationid="taty" creationdate="20181109T134317Z">
+        <seg>Tesis de grado de Sébastien Guillardeau, 2010 (en Alemán).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete*</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T210859Z" creationid="Antonio" creationdate="20160329T210859Z">
@@ -8391,6 +8575,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description of OmegaT (2008).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133721Z" creationid="taty" creationdate="20181109T133010Z">
+        <seg>Descripción de OmegaT (2008).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T162008Z" creationid="Cristina" creationdate="20170917T162008Z">
@@ -8467,6 +8659,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194734Z" creationid="Víctor Parra" creationdate="20151126T194734Z">
         <seg>Diccionarios ya instalados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries are available for a large number of languages.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T141141Z" creationid="taty" creationdate="20181109T141141Z">
+        <seg>Los diccionarios están disponibles para una gran cantidad de idiomas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8567,10 +8767,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diego Merino Traducciones</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140406Z" creationid="taty" creationdate="20181109T140406Z">
+        <seg>Diego Merino Traducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T175039Z" creationid="Antonio" creationdate="20151127T175039Z">
         <seg>Diff (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diptik</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140415Z" creationid="taty" creationdate="20181109T140415Z">
+        <seg>Diptik</seg>
       </tuv>
     </tu>
     <tu>
@@ -9011,6 +9227,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T123335Z" creationid="Antonio" creationdate="20160330T123335Z">
         <seg>Hace doble clic en uno de los vínculos de informes es suficiente para abrir el informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doublet KK</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140436Z" creationid="taty" creationdate="20181109T140436Z">
+        <seg>Doublet KK</seg>
       </tuv>
     </tu>
     <tu>
@@ -10396,6 +10620,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T131037Z" creationid="taty" creationdate="20181109T131037Z">
+        <seg>Acceso rápido a sitios web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T141006Z" creationid="hcartagena" creationdate="20151117T141006Z">
@@ -10908,6 +11140,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T164229Z" creationid="taty" creationdate="20181109T164229Z">
+        <seg>Por ejemplo, si ha selecciónado ES-MX (Español Mexicano) como idioma de destino, los archivos del diccionario deben ser nombrados es_MX.dic y es_MX.aff. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T192037Z" creationid="Antonio" creationdate="20160316T192037Z">
@@ -11276,6 +11516,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Genua</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140448Z" creationid="taty" creationdate="20181109T140448Z">
+        <seg>Genua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Georgian</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144306Z" creationid="Antonio" creationdate="20151128T144306Z">
@@ -11552,6 +11800,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T161849Z" creationid="Antonio" creationdate="20160330T161849Z">
         <seg>**Grupos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grup de Recerca Tradumàtica</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140545Z" creationid="taty" creationdate="20181109T140545Z">
+        <seg>Grupo de Búsqueda Tradumática</seg>
       </tuv>
     </tu>
     <tu>
@@ -12380,6 +12636,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the automatic installation process does not work: check that your Internet connection is working; if so, try a different repository URL.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T165451Z" creationid="taty" creationdate="20181109T165451Z">
+        <seg>Si el proceso de instalación automática no funciona: verifique que su conexión a Internet esté funcionando; si es así, pruebe con una URL de repositorio diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T150908Z" creationid="Cristina" creationdate="20170924T150908Z">
@@ -12644,6 +12908,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you only have a Bolivian Spanish dictionary available, with the file names es_BO.dic and es_BO.aff, you can rename these files es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T164657Z" creationid="taty" creationdate="20181109T164657Z">
+        <seg>Si solo tiene disponible un diccionario de Españon Boliviano, con los nombres de archivo es_BO.dic y es_BO.aff, puede renombrar estos archivos es_MX.dic y es_MX.aff, y el diccionario de ortografía funcionará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you place such</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223416Z" creationid="hcartagena" creationdate="20151201T223410Z">
@@ -12852,6 +13124,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In PCW.GR (in Greek).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133816Z" creationid="taty" creationdate="20181109T133816Z">
+        <seg>En PCW.GR (en Griego).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T123130Z" creationid="Antonio" creationdate="20160330T123130Z">
@@ -12988,6 +13268,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Options &gt; Spell Checking dialog, select or create a dictionary file folder on your hard drive.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T144208Z" creationid="taty" creationdate="20181109T144208Z">
+        <seg>En el cuadro Opciones&gt; Revisión ortográfica, seleccione o cree una carpeta de archivo de diccionario en su disco rígido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T202417Z" creationid="Helli" creationdate="20150526T115204Z">
@@ -13024,6 +13312,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170916T144823Z" creationid="Cristina" creationdate="20170905T183258Z">
         <seg>En ese caso, no seleccione la versión predeterminada; seleccione una versión diferente (p. ej., la estándar o la última) y seleccione después una versión que no incluya Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this dialog, select or create a dictionary file folder on your hard drive.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T141855Z" creationid="taty" creationdate="20181109T141855Z">
+        <seg>En este cuadro, seleccione o cree una carpeta de archivo de diccionario en su disco rígido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13284,6 +13580,22 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing new spelling dictionaries manually</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143748Z" creationid="taty" creationdate="20181109T143748Z">
+        <seg>Instalar nuevos diccionarios de ortografía manualmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing new spelling from within OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T141329Z" creationid="taty" creationdate="20181109T141329Z">
+        <seg>Instalando ortografía nueva desde dentro de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T234003Z" creationid="hcartagena" creationdate="20151124T234003Z">
@@ -13296,6 +13608,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20171003T152349Z" creationid="Cristina" creationdate="20170918T192203Z">
         <seg>En lugar de esto, las personas implicadas en el proyecto de OmegaT esperan que las traducciones las proporcionen en primer lugar y sobre todo los traductores que han probado OmegaT y están convencidos de su valor para la comunidad de la traducción como conjunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140603Z" creationid="taty" creationdate="20181109T140603Z">
+        <seg>Instituto Laue-Langevin</seg>
       </tuv>
     </tu>
     <tu>
@@ -13364,6 +13684,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction to OmegaT (2.5.0).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T132523Z" creationid="taty" creationdate="20181109T131553Z">
+        <seg>Introducción a OmegaT 2.5.0). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction to tokenizers and scripts</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T170034Z" creationid="Antonio" creationdate="20151210T190007Z">
@@ -13416,6 +13744,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T220332Z" creationid="hcartagena" creationdate="20160331T220332Z">
         <seg>Tipo de repositorio no válido: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invantive</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140633Z" creationid="taty" creationdate="20181109T140633Z">
+        <seg>Invantive</seg>
       </tuv>
     </tu>
     <tu>
@@ -13988,6 +14324,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Julian Rippon</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140642Z" creationid="taty" creationdate="20181109T140642Z">
+        <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223327Z" creationid="hcartagena" creationdate="20151116T223327Z">
@@ -14168,6 +14512,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144904Z" creationid="Antonio" creationdate="20151128T144904Z">
         <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kilgray</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140648Z" creationid="taty" creationdate="20181109T140648Z">
+        <seg>Kilgray</seg>
       </tuv>
     </tu>
     <tu>
@@ -14672,6 +15024,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222515Z" creationid="hcartagena" creationdate="20151201T222515Z">
         <seg>LibreOffice Writer o HTML, por ejemplo, OmegaT convertirá el formato en etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T154307Z" creationid="taty" creationdate="20181109T154307Z">
+        <seg>LIbreOffice y las versiones mas recientes de OpenOffice.org ahora usan el formato "extensiones" para estos diccionarios, en los que los archivos son suministrados en un archivo zip con la extensión .oxt. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15244,6 +15604,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140707Z" creationid="taty" creationdate="20181109T140707Z">
+        <seg>Marc Prior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T190209Z" creationid="Antonio" creationdate="20151210T190209Z">
@@ -15698,6 +16066,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mini-review of OmegaT, 2012.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T134452Z" creationid="taty" creationdate="20181109T134452Z">
+        <seg>Mini-reseña de OmegaT, 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233954Z" creationid="hcartagena" creationdate="20151124T233954Z">
@@ -16135,6 +16511,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T170417Z" creationid="hcartagena" creationdate="20180605T170417Z">
         <seg>Nueva carpeta local del proyecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T141634Z" creationid="taty" creationdate="20181109T141634Z">
+        <seg>Nuevos diccionarios de ortografía pueden ser instalados desde OmegaT en el cuadro Opciones&gt; Revisión ortográfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16767,6 +17151,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Obtain the .dic and .aff files of the dictionary you wish to use, and place these files in this folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T144335Z" creationid="taty" creationdate="20181109T144335Z">
+        <seg>Obtenga los archivos .dic y .aff del diccionario que desea usar y coloque estos archivos en esta carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Occitan</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153626Z" creationid="Antonio" creationdate="20151128T153620Z">
@@ -17033,8 +17425,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>OmegaT has an inline spelling checker.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181109T123127Z" creationid="eumeu" creationdate="20181109T123127Z">
-        <seg>OmegaT has an inline spelling checker.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140955Z" creationid="eumeu" creationdate="20181109T123127Z">
+        <seg>OmegaT tiene un corrector ortográfico en línea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,6 +17648,22 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181112T131535Z" creationid="eumeu" creationdate="20181112T131535Z">
         <seg>La ventana principal se compone de varios paneles, el menú principal y una barra de estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Wikipedia</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T134516Z" creationid="taty" creationdate="20181109T134516Z">
+        <seg>OmegaT en Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T134808Z" creationid="taty" creationdate="20181109T134808Z">
+        <seg>OmegaT en Wikipedia &lt;s0&gt;25 idiomas&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18672,6 +19080,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Portavita</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140659Z" creationid="taty" creationdate="20181109T140659Z">
+        <seg>Portavita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154720Z" creationid="Antonio" creationdate="20151128T154710Z">
@@ -19326,6 +19742,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154621Z" creationid="Antonio" creationdate="20151128T154536Z">
         <seg>Pali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Qabiria</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140714Z" creationid="taty" creationdate="20181109T140714Z">
+        <seg>Qabiria</seg>
       </tuv>
     </tu>
     <tu>
@@ -20189,10 +20613,66 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Review of OmegaT 1.6 RC5.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T132504Z" creationid="taty" creationdate="20181109T132142Z">
+        <seg>Revisión de OmegaT 1.6 RC5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 1.6.1_1.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133313Z" creationid="taty" creationdate="20181109T133313Z">
+        <seg>Revisión de OmegaT 1.6.1_1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T132017Z" creationid="taty" creationdate="20181109T132017Z">
+        <seg>Revisión de OmegaT 2.3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 11 April 2008.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133424Z" creationid="taty" creationdate="20181109T133424Z">
+        <seg>Revisión de OmegaT, 11 de Abril 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2009.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133713Z" creationid="taty" creationdate="20181109T133713Z">
+        <seg>Revisión de OmegaT, 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T133500Z" creationid="taty" creationdate="20181109T133500Z">
+        <seg>Revisión de OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reviews</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170916T155024Z" creationid="Cristina" creationdate="20170820T141129Z">
         <seg>Reseñas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T131519Z" creationid="taty" creationdate="20181109T131519Z">
+        <seg>Revisión de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -24230,6 +24710,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T135050Z" creationid="taty" creationdate="20181109T135050Z">
+        <seg>La gran mayoría del trabajo en el proyecto OmegaT se ha completado de forma voluntaria. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The group archives are public and can be viewed without subscription to the group.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T163018Z" creationid="Antonio" creationdate="20160330T163018Z">
@@ -24333,6 +24821,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T135827Z" creationid="Antonio" creationdate="20160330T135827Z">
         <seg>**El archivo más importante aquí es el denominado &lt;e3&gt;project_save.tmx&lt;/e3&gt;, que es la memoria de traducción con el cual trabaja el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (Project &gt; Properties).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T163802Z" creationid="taty" creationdate="20181109T163802Z">
+        <seg>Los nombres de los archivos deben corresponder al código del lenguaje de su idioma de destino, como se define en el cuadro de propiedades del proyecto (Proyecto&gt;propiedades). </seg>
       </tuv>
     </tu>
     <tu>
@@ -25224,6 +25720,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This feature makes use of the spelling dictionaries used in LibreOffice and OpenOffice.org.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T141104Z" creationid="taty" creationdate="20181109T141104Z">
+        <seg>Esta función hace uso de los diccionarios de ortografía utilizados en LibreOffice y Open Office.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T163726Z" creationid="Antonio" creationdate="20160330T163726Z">
@@ -25316,6 +25820,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T155953Z" creationid="Antonio" creationdate="20160126T155953Z">
         <seg>Este es el valor predeterminado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the folder in which the spelling dictionary files will be placed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T142100Z" creationid="taty" creationdate="20181109T142100Z">
+        <seg>Esta es la carpeta en la que se colocarán los archivos del diccionario de ortografía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25618,6 +26130,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To date, these sponsors are:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140243Z" creationid="taty" creationdate="20181109T140243Z">
+        <seg>hasta ahora, los promotores son: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T213505Z" creationid="hcartagena" creationdate="20151119T213505Z">
@@ -25822,6 +26342,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T095532Z" creationid="Antonio" creationdate="20160125T095532Z">
         <seg>Para actualizar los archivos locales, haga clic con el botón derecho en la carpeta de checkout y seleccione &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use spelling dictionaries in this format, rename the file extension from .oxt to .zip and using a zip archive application (such as WinZip) to extract the .dic and .aff files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T155300Z" creationid="taty" creationdate="20181109T155300Z">
+        <seg>Para utilizar diccionarios de ortografía en este formato, renombrar la extensión de archivo de .oxt a .zip y use una aplicación de archivo zip (como WinZip) para extraer los archivos .dic y .aff. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26380,6 +26908,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Troubleshooting checklist</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T165100Z" creationid="taty" creationdate="20181109T165100Z">
+        <seg>Lista de solución de problemas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trunk</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170828T181941Z" creationid="Cristina" creationdate="20170828T181941Z">
@@ -26514,6 +27050,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151126T194832Z" creationid="Víctor Parra" creationdate="20151126T194832Z">
         <seg>URL de diccionarios en línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs of repositories of spelling dictionaries:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143120Z" creationid="taty" creationdate="20181109T143048Z">
+        <seg>URLs de repositorios de diccionarios de ortografía: </seg>
       </tuv>
     </tu>
     <tu>
@@ -27452,6 +27996,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Velior</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140720Z" creationid="taty" creationdate="20181109T140720Z">
+        <seg>Velior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Velior's corporate blog &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170918T190002Z" creationid="Cristina" creationdate="20170918T190002Z">
@@ -27706,6 +28258,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T031844Z" creationid="hcartagena" creationdate="20180605T031844Z">
         <seg>Subtítulos de WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T131402Z" creationid="taty" creationdate="20181109T131402Z">
+        <seg>Soporte de sitio web puede ser escrito en Groovy&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29367,6 +29927,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cApStAn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140301Z" creationid="taty" creationdate="20181109T140301Z">
+        <seg>cApStAn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ca</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083610Z" creationid="Antonio" creationdate="20151128T083610Z">
@@ -29739,6 +30307,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T084201Z" creationid="Antonio" creationdate="20151128T084201Z">
         <seg>dzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e-lexica</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140442Z" creationid="taty" creationdate="20181109T140442Z">
+        <seg>e-lexica</seg>
       </tuv>
     </tu>
     <tu>
@@ -30601,6 +31177,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143328Z" creationid="taty" creationdate="20181109T143328Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143349Z" creationid="taty" creationdate="20181109T143349Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://code.google.com/p/tortoisegit/</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151202T173924Z" creationid="Antonio" creationdate="20151202T173924Z">
@@ -30633,10 +31225,90 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143147Z" creationid="taty" creationdate="20181109T143147Z">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143507Z" creationid="taty" creationdate="20181109T143507Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143555Z" creationid="taty" creationdate="20181109T143555Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143420Z" creationid="taty" creationdate="20181109T143420Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143441Z" creationid="taty" creationdate="20181109T143441Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143241Z" creationid="taty" creationdate="20181109T143241Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143253Z" creationid="taty" creationdate="20181109T143253Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143225Z" creationid="taty" creationdate="20181109T143225Z">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143200Z" creationid="taty" creationdate="20181109T143200Z">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T163247Z" creationid="Antonio" creationdate="20151130T163247Z">
         <seg>http://git-scm.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143310Z" creationid="taty" creationdate="20181109T143310Z">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30661,6 +31333,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T144212Z" creationid="Antonio" creationdate="20151130T144212Z">
         <seg>http://omegat.svn.sourceforge.net/viewvc/omegat/branches/release-2-6/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T143623Z" creationid="taty" creationdate="20181109T143623Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33968,6 +34648,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T161229Z" creationid="Antonio" creationdate="20151128T161229Z">
         <seg>wa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>weLocalize</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181109T140726Z" creationid="taty" creationdate="20181109T140726Z">
+        <seg>weLocalize</seg>
       </tuv>
     </tu>
     <tu>
