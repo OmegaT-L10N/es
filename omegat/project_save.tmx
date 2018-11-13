@@ -3875,6 +3875,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Glossary subfolder&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T220324Z" creationid="taty" creationdate="20181113T220324Z">
+        <seg>&lt;p0&gt;Archivos de proyecto&lt;/p0&gt; &lt;s1&gt;subcarpeta de Glosario&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Source subfolder&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T144044Z" creationid="Antonio" creationdate="20160330T144044Z">
