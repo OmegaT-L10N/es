@@ -2491,6 +2491,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T222145Z" creationid="taty" creationdate="20181113T222145Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; detecta automáticamente los archivos de glosario en esta carpeta cuando se abre un proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Víctor Parra" changedate="20151124T192545Z" creationid="Víctor Parra" creationdate="20151124T192545Z">
