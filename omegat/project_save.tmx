@@ -26466,6 +26466,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T220948Z" creationid="taty" creationdate="20181113T220948Z">
+        <seg>Para usar un glosario existente, simplemente colóquelo en la carpeta&lt;i0/&gt; &lt;f1&gt;/glosario&lt;/f1&gt; después de crear el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use spelling dictionaries in this format, rename the file extension from .oxt to .zip and using a zip archive application (such as WinZip) to extract the .dic and .aff files.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181109T155300Z" creationid="taty" creationdate="20181109T155300Z">
