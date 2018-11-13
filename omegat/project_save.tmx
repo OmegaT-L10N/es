@@ -29331,6 +29331,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You define its location and name in the project properties dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T214304Z" creationid="taty" creationdate="20181113T214304Z">
+        <seg>Tu defines su ubicación y el nombre en el cuadro de diálogo de propiedades del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T175751Z" creationid="Cristina" creationdate="20170921T190141Z">
