@@ -3771,6 +3771,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T181937Z" creationid="eumeu" creationdate="20181113T181937Z">
+        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;statistics&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T174338Z" creationid="eumeu" creationdate="20181113T174338Z">
+        <seg>&lt;p0&gt;Menú de herramientas&lt;/p0&gt;&lt;s1&gt;Estadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T104409Z" creationid="Antonio" creationdate="20160126T103501Z">
@@ -3949,8 +3965,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Help - F1&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181113T105345Z" creationid="eumeu" creationdate="20181113T105345Z">
-        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt;&lt;s1&gt;Ayuda - F1&lt;</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T174901Z" creationid="eumeu" creationdate="20181113T105345Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt;&lt;s1&gt;Ayuda - F1&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3965,8 +3981,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+Shift+V&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181113T105010Z" creationid="eumeu" creationdate="20181113T105010Z">
-        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt;&lt;s1&gt;Validación de etiquetas - Ctrl+Shift+V&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T174743Z" creationid="eumeu" creationdate="20181113T105010Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt;&lt;s1&gt;Validación de etiquetas - Ctrl+Shift+V&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23043,6 +23059,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Statistics window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T174042Z" creationid="eumeu" creationdate="20181113T174042Z">
+        <seg>Ventana de estadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231152Z" creationid="hcartagena" creationdate="20151124T231152Z">
@@ -27682,10 +27706,26 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T174006Z" creationid="eumeu" creationdate="20181113T133622Z">
+        <seg>Se utiliza para mostrar el manual de usuario (abrir con &lt;k0&gt;F1&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to open the window with the statistics of the project, display it, using &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Statistics.&lt;/g3&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T182246Z" creationid="eumeu" creationdate="20181113T175700Z">
+        <seg>Se utiliza para abrir la ventana de las estadísticas del proyecto. Para mostrarlo haz clic en &lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181113T105310Z" creationid="eumeu" creationdate="20181113T105310Z">
-        <seg>Shortcuts utilizados para validar etiquetas&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;&lt;</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T174951Z" creationid="eumeu" creationdate="20181113T105310Z">
+        <seg>Se utiliza para validar etiquetas&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34742,8 +34782,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>where you type and edit the translation</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T133109Z" creationid="eumeu" creationdate="20181112T133109Z">
-        <seg>En el cual escribe y edita la traducción</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181113T174344Z" creationid="eumeu" creationdate="20181112T133109Z">
+        <seg>En el cuál escribe y edita la traducción</seg>
       </tuv>
     </tu>
     <tu>
