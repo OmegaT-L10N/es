@@ -27578,6 +27578,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T220144Z" creationid="taty" creationdate="20181113T220144Z">
+        <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T214018Z" creationid="hcartagena" creationdate="20160331T210304Z">
