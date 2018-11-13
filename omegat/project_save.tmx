@@ -11788,6 +11788,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T172506Z" creationid="taty" creationdate="20181113T172506Z">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T031704Z" creationid="hcartagena" creationdate="20180605T031704Z">
@@ -11904,6 +11912,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212531Z" creationid="hcartagena" creationdate="20151119T212359Z">
         <seg>HTMLParser 1.6 por Somik Raha, Derrick Oswald y otros (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T172320Z" creationid="taty" creationdate="20181113T172320Z">
+        <seg>HTTPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -19798,6 +19814,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T202940Z" creationid="hcartagena" creationdate="20151116T202940Z">
         <seg>R&amp;eemplazar con la coincidencia o selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T172447Z" creationid="taty" creationdate="20181113T172447Z">
+        <seg>RELAX NG</seg>
       </tuv>
     </tu>
     <tu>
@@ -31847,6 +31871,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T020452Z" creationid="hcartagena" creationdate="20160401T020452Z">
         <seg>jsch-agent-proxy (licencia jsch-agent-proxy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T172633Z" creationid="taty" creationdate="20181113T172633Z">
+        <seg>juniversalchardet (GPL)</seg>
       </tuv>
     </tu>
     <tu>
