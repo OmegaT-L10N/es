@@ -11604,6 +11604,22 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T174822Z" creationid="taty" creationdate="20181113T174822Z">
+        <seg>Glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181113T175114Z" creationid="taty" creationdate="20181113T175114Z">
+        <seg>Los glosarios son archivos creados y actualizados manualmente para ser utilizados en&lt;a0&gt;OmegaT&lt;/a0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T164136Z" creationid="hcartagena" creationdate="20151118T164136Z">
