@@ -24838,6 +24838,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181115T233657Z" creationid="taty" creationdate="20181115T233657Z">
+        <seg>La función del glosario solo encuentra coincidencias exactas con la entrada del glosario ( por ejemplo, no encuentra formas inflexas etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181109T135050Z" creationid="taty" creationdate="20181109T135050Z">
