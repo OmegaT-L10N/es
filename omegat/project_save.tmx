@@ -25433,6 +25433,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181115T233248Z" creationid="taty" creationdate="20181115T233248Z">
+        <seg>La entrada de vocabulario puede tener un comentario añadido. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The web pages are not licensed for re-use.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T164132Z" creationid="Cristina" creationdate="20170924T164132Z">
