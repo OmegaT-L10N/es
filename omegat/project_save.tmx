@@ -11660,6 +11660,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossaries, Glossary pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181115T232447Z" creationid="taty" creationdate="20181115T232447Z">
+        <seg>Glosarios, casilla Glosario </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151118T164136Z" creationid="hcartagena" creationdate="20151118T164136Z">
@@ -25437,6 +25445,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T162506Z" creationid="Antonio" creationdate="20160126T162506Z">
         <seg>Todo el proceso puede ser dirigido y controlado a través de secuencias de comandos escritas en el lenguaje Tcl/Tck.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181115T232818Z" creationid="taty" creationdate="20181115T232818Z">
+        <seg>La palabra antes del signo = es el término de origen, y su traducción es (o son) las palabras después del signo =.</seg>
       </tuv>
     </tu>
     <tu>
