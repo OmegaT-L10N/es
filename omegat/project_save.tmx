@@ -26929,6 +26929,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T183250Z" creationid="taty" creationdate="20181116T183250Z">
+        <seg>No hay términos en el segmento actual que coincidan con ningúno de los términos en el glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are several methods to specify the file's encoding so that its contents are not garbled when opened in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T075457Z" creationid="Antonio" creationdate="20160331T075457Z">
