@@ -26945,6 +26945,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T182955Z" creationid="taty" creationdate="20181116T182955Z">
+        <seg>No hay una coincidencia EXACTA entre la entrada del glosario y el texto de origen en su documento: por ejemplo, los plurales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T152334Z" creationid="eumeu" creationdate="20181116T152300Z">
