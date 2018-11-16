@@ -20378,6 +20378,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Problem: No glossary terms are displayed - possible causes:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T181858Z" creationid="taty" creationdate="20181116T181858Z">
+        <seg>Problema: No se visualizan los términos del glosario - causas posibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Problems with dictionaries</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T155217Z" creationid="Antonio" creationdate="20160125T155217Z">
