@@ -19078,6 +19078,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T183653Z" creationid="taty" creationdate="20181116T183653Z">
+        <seg>Uno o más problemas anteriores pueden haber sido solucionados, pero el proyecto no ha sido recargado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T154905Z" creationid="Cristina" creationdate="20170917T154905Z">
