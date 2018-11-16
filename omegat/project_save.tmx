@@ -3835,6 +3835,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Location of the writable glossary file&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T172945Z" creationid="taty" creationdate="20181116T172945Z">
+        <seg>&lt;p0&gt;Glosarios&lt;/p0&gt; &lt;s1&gt;Ubicación del archivo de glosario </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Microsoft Terminology collection&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T161857Z" creationid="taty" creationdate="20181116T161857Z">
