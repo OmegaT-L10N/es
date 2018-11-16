@@ -33587,6 +33587,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>multiple words entries in glossaries - example</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T115930Z" creationid="taty" creationdate="20181116T115930Z">
+        <seg>Entradas de palabras múltiples en glosarios - ejemplo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>my</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T083553Z" creationid="Antonio" creationdate="20151128T083553Z">
