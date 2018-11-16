@@ -26017,6 +26017,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T173336Z" creationid="taty" creationdate="20181116T173336Z">
+        <seg>La ubicación del archivo de glosario escribible puede ser configurado en el cuadro de diálogo &lt;g0&gt;Proyecto &gt; Propiedades... &lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of user files depends upon the platform you use:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T153943Z" creationid="Antonio" creationdate="20160330T153943Z">
