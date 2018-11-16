@@ -26038,6 +26038,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T182812Z" creationid="taty" creationdate="20181116T182812Z">
+        <seg>El archivo de glosario no tiene la extensión correcta (.tab, .utf8 o .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary file is empty.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T182613Z" creationid="taty" creationdate="20181116T182613Z">
