@@ -17807,6 +17807,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T164455Z" creationid="taty" creationdate="20181116T164455Z">
+        <seg>Nota: la salida &lt;f0&gt;.tbx&lt;/f0&gt; de MultiTerm no parece ser confiable (Noviembre 2013), más bien es mejor usar la salida &lt;f1&gt;.tab&lt;/f1&gt; de MultiTerm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181115T234739Z" creationid="eumeu" creationdate="20181115T234739Z">
