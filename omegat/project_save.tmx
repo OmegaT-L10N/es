@@ -17879,6 +17879,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T174813Z" creationid="taty" creationdate="20181116T174813Z">
+        <seg>Nada habla contra el uso de Notepad++ en Windows, GEdit en Linux, por ejemplo, o algún programa de hoja de cálculo para este fin: se puede utilizar cualquier aplicación que pueda manejar UTF-8 (o UTF-16 LE) y pueda mostrar el espacio en blanco (para que no se pierdan los carácteres &lt;k1&gt;TAB&lt;/k1&gt; requeridos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T025643Z" creationid="hcartagena" creationdate="20160401T025643Z">
