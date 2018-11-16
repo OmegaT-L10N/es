@@ -6128,6 +6128,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T175623Z" creationid="taty" creationdate="20181116T175623Z">
+        <seg>Como las entradas pueden mezclar palabras de glosario prioritario y no prioritario, las palabras del glosario prioritario están visualizadas en negrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170826T111605Z" creationid="Cristina" creationdate="20170826T111605Z">
