@@ -12774,6 +12774,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to create glossaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T164751Z" creationid="taty" creationdate="20181116T164751Z">
+        <seg>Cómo crear glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to download and install dictionaries</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152106Z" creationid="Antonio" creationdate="20160125T152106Z">
