@@ -25152,6 +25152,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T155256Z" creationid="eumeu" creationdate="20181116T155256Z">
+        <seg>El panel del glosario le permite acceder a su colección privada de expresiones y términos especializados, que se han creado en su archivo de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T165154Z" creationid="Cristina" creationdate="20170917T165154Z">
