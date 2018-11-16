@@ -17375,6 +17375,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T122347Z" creationid="taty" creationdate="20181116T122347Z">
+        <seg>Tenga en cuenta que en el caso anterior,esto es solo mitad (o incluso menos) de la historia, ya que el idioma de destino (Esloveno) utiliza la declinación </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T214022Z" creationid="Antonio" creationdate="20160124T214022Z">
