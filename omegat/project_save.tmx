@@ -17767,6 +17767,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T144753Z" creationid="taty" creationdate="20181116T144753Z">
+        <seg>Por supuesto, la codificación debe ser compatible con los dos idiomas incluidos, por lo que se recomienda Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222535Z" creationid="hcartagena" creationdate="20151201T222535Z">
