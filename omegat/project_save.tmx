@@ -23665,6 +23665,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T151615Z" creationid="eumeu" creationdate="20181116T151615Z">
+        <seg>Configuración del corrector ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecking</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T171813Z" creationid="Cristina" creationdate="20170917T171813Z">
@@ -29048,6 +29056,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T175002Z" creationid="Cristina" creationdate="20170917T175002Z">
         <seg>Uso de OmegaT en Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T151722Z" creationid="eumeu" creationdate="20181116T151722Z">
+        <seg>Utilizar diccionarios ortográficos</seg>
       </tuv>
     </tu>
     <tu>
