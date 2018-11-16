@@ -24331,6 +24331,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T162235Z" creationid="taty" creationdate="20181116T162235Z">
+        <seg>TBX - Term Base eXchange - es el estándar abierto basado en XML para intercambio de datos terminológicos estructurados, el TBX ha sido aprobado como un estándar internacional por LISA e ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TKount</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170916T174517Z" creationid="Cristina" creationdate="20170916T174517Z">
