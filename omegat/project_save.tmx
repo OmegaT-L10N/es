@@ -5387,6 +5387,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also supported is the CSV format.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T145746Z" creationid="taty" creationdate="20181116T145746Z">
+        <seg>Es soportado también el formato CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternate locations for some of the folders can be chosen at project creation or during the translation.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160321T174533Z" creationid="Antonio" creationdate="20160321T174533Z">
