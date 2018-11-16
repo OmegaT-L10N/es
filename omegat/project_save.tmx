@@ -2085,6 +2085,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>103/114</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231413Z" creationid="eumeu" creationdate="20181115T231413Z">
+        <seg>103/114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -2139,6 +2147,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>27/27</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231156Z" creationid="eumeu" creationdate="20181115T231156Z">
+        <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T120311Z" creationid="Antonio" creationdate="20151120T120311Z">
@@ -2167,6 +2183,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T120016Z" creationid="Helli" creationdate="20150526T120016Z">
         <seg>3. Lenguajes de guión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>31175</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231341Z" creationid="eumeu" creationdate="20181115T231341Z">
+        <seg>31175</seg>
       </tuv>
     </tu>
     <tu>
@@ -2279,6 +2303,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T161234Z" creationid="Cristina" creationdate="20170924T161234Z">
         <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9319/16338</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231235Z" creationid="eumeu" creationdate="20181115T231235Z">
+        <seg>9319/16338</seg>
       </tuv>
     </tu>
     <tu>
@@ -2407,6 +2439,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T183727Z" creationid="Víctor Parra" creationdate="20151126T192339Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; es una herramienta multiplataforma gratuita de Traducción Asistida por Ordenador con los siguientes puntos destacados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T214729Z" creationid="eumeu" creationdate="20181115T214729Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Ventana principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3723,6 +3763,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;Help browser&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000314Z" creationid="eumeu" creationdate="20181116T000314Z">
+        <seg>&lt;p0&gt;Ayuda&lt;/p0&gt; &lt;s1&gt;Navegador de ayuda&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;User Manual...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000054Z" creationid="eumeu" creationdate="20181116T000054Z">
+        <seg>&lt;p0&gt;Manual de ayuda&lt;/p0&gt; &lt;s1&gt;Manual de usuario...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Converting numbers&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T153138Z" creationid="Antonio" creationdate="20160126T153138Z">
@@ -3779,10 +3835,18 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T212208Z" creationid="eumeu" creationdate="20181115T212208Z">
+        <seg>&lt;p0&gt;Menú proyecto&lt;/p0&gt; &lt;s1&gt;Propiedades&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181113T181937Z" creationid="eumeu" creationdate="20181113T181937Z">
-        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T211455Z" creationid="eumeu" creationdate="20181113T181937Z">
+        <seg>&lt;p0&gt;Menú de herramientas&lt;/p0&gt; &lt;s1&gt;Estadística de coincidencias&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3847,6 +3911,22 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112523Z" creationid="Antonio" creationdate="20160125T112523Z">
         <seg>&lt;p0&gt;OmegaT en la web&lt;/p0&gt; &lt;s1&gt;Proyecto en SourceForge&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Restoring to factory setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T222428Z" creationid="eumeu" creationdate="20181115T222428Z">
+        <seg>&lt;p0&gt;Ventanas de OmegaT&lt;/p0&gt; &lt;s1&gt;Restauración de la configuración de fábrica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Windows and panes in OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T221754Z" creationid="eumeu" creationdate="20181115T221754Z">
+        <seg>&lt;p0&gt;Ventanas de OmegaT&lt;/p0&gt; &lt;s1&gt;Ventanas y paneles en OmegaT&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3987,10 +4067,50 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Insert text - Ctrl+I&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T001819Z" creationid="eumeu" creationdate="20181116T001819Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Insertar texto - Ctrl+I&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Paste text - Ctrl+V&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000209Z" creationid="eumeu" creationdate="20181116T000209Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Pegar texto - Ctrl+V&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Antonio" changedate="20160125T160804Z" creationid="Antonio" creationdate="20160125T160804Z">
-        <seg>&lt;p0&gt;Combinaciones de teclas&lt;/p0&gt; &lt;s1&gt;Propiedades del proyecto - Ctrl+E&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T212240Z" creationid="Antonio" creationdate="20160125T160804Z">
+        <seg>&lt;p0&gt;Atajo de teclado&lt;/p0&gt; &lt;s1&gt;Propiedades del proyecto - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Replace text - Ctrl+R&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T001751Z" creationid="eumeu" creationdate="20181116T001751Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Reemplazar texto - Ctrl+R&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Select All - Ctrl+A&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000140Z" creationid="eumeu" creationdate="20181116T000114Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Seleccionar todo - Ctrl+A&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Selecting the match - Ctrl+N&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T001706Z" creationid="eumeu" creationdate="20181116T001706Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Se la coincidencia - Ctrl+N&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3999,6 +4119,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181113T174743Z" creationid="eumeu" creationdate="20181113T105010Z">
         <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt;&lt;s1&gt;Validación de etiquetas - Ctrl+Shift+V&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000221Z" creationid="eumeu" creationdate="20181116T000128Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;copiar texto - Ctrl+C&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4167,6 +4295,54 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181113T104751Z" creationid="eumeu" creationdate="20181113T104751Z">
         <seg>&lt;p0&gt;Interfaz de usuario&lt;/p0&gt;&lt;s1&gt;Otras ventanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Settings dialogs&lt;/s1&gt; &lt;s2&gt;Project Settings&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213204Z" creationid="eumeu" creationdate="20181115T212003Z">
+        <seg>&lt;p0&gt;Interfaz de usuario&lt;/p0&gt; &lt;s1&gt;Diálogo de configuración&lt;/s1&gt; &lt;s2&gt;Configuración del proyecto&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Counters&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231139Z" creationid="eumeu" creationdate="20181115T231139Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Contadores&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Dictionary pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T001312Z" creationid="eumeu" creationdate="20181116T001312Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Diccionario&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Editor pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231957Z" creationid="eumeu" creationdate="20181115T231957Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel de edición&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Main window&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T214558Z" creationid="eumeu" creationdate="20181115T214558Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Ventana principal&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Pane widgets&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T220956Z" creationid="eumeu" creationdate="20181115T220956Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel de widgets&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8551,6 +8727,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T215327Z" creationid="eumeu" creationdate="20181115T215327Z">
+        <seg>Depediendo del estado del panel pueden aparecer distintos símbolos en la esquina superior derecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T235127Z" creationid="eumeu" creationdate="20181115T235127Z">
+        <seg>En función del comportamiento del campo de edición, el campo de edición para el segmento sin traducir puede estar vacío, contener el texto fuente o la traducción de la cadena más parecida a la que se va a traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T170753Z" creationid="Cristina" creationdate="20170917T170753Z">
@@ -8771,6 +8963,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T180327Z" creationid="hcartagena" creationdate="20151117T191955Z">
         <seg>No existe la carpeta indicada para los archivos de diccionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000958Z" creationid="eumeu" creationdate="20181116T000958Z">
+        <seg>Diccionario</seg>
       </tuv>
     </tu>
     <tu>
@@ -9649,6 +9849,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing Behavior</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213836Z" creationid="eumeu" creationdate="20181115T213836Z">
+        <seg>Comportamiento del campo de edición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing Behavior...</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T214448Z" creationid="Helli" creationdate="20150526T143128Z">
@@ -9701,6 +9909,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181112T133036Z" creationid="eumeu" creationdate="20181112T133036Z">
         <seg>Panel de edición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T224320Z" creationid="eumeu" creationdate="20181115T223932Z">
+        <seg>Panel de editor: Si un archivo de proyecto de OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) se suelta en este panel, el proyecto se abrirá, y cerrará primero cualquier proyecto abierto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10772,6 +10988,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File filters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T212919Z" creationid="eumeu" creationdate="20181115T212919Z">
+        <seg>Filtro de archivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File filters are pieces of code capable of:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160127T181822Z" creationid="Antonio" creationdate="20160127T181750Z">
@@ -11436,6 +11660,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231755Z" creationid="eumeu" creationdate="20181115T231755Z">
+        <seg>Desde un punto de vista práctico, el segundo par de números es el importante: dice la cantidad de palabras traducidas, en relación al total o al segundo número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From auto memory</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151126T153005Z" creationid="Antonio" creationdate="20151126T153005Z">
@@ -11512,6 +11744,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T022346Z" creationid="hcartagena" creationdate="20151124T233509Z">
         <seg>Coincidencias aproximadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T224830Z" creationid="eumeu" creationdate="20181115T224830Z">
+        <seg>Paneles de coincidencia aproximadas: Los archivos &lt;f0&gt;.tmx&lt;/f0&gt; soltados se copiarán en la carpeta &lt;f1&gt;tm&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -11752,6 +11992,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181112T133740Z" creationid="eumeu" creationdate="20181112T133740Z">
         <seg>Panel de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T230849Z" creationid="eumeu" creationdate="20181115T230849Z">
+        <seg>Panel de Glosario: Los archivos soltados con las extensiones (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) se copiarán &lt;f2&gt;en la carpeta&lt;/f2&gt; del glosario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12932,6 +13180,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T220813Z" creationid="eumeu" creationdate="20181115T215505Z">
+        <seg>Si no puede ver todos los paneles (abiertos o minimizados), ir a &lt;g0&gt; Opciones &gt; Restaurar ventana principal &lt;/g0&gt;Esta acción restaurará la ventana a la forma definida en la instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20171003T171519Z" creationid="Cristina" creationdate="20170820T121114Z">
@@ -13040,6 +13296,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20171012T120434Z" creationid="Cristina" creationdate="20170924T162315Z">
         <seg>Si ha usado OmegaT u otra herramienta TAO para realizar la traducción, suba también su memoria de traducción (archivo TMX) al  &lt;a0&gt;repositorio de memorias de traducción del grupo de usuarios en línea&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T235517Z" creationid="eumeu" creationdate="20181115T235517Z">
+        <seg>Si quiere que el segmento se quede sin traducir, simplemente deje el campo de edición vacío mediante la eliminación de todo el texto (seleccione todo con &lt;k0&gt;Ctrl+A&lt;/k0&gt; y elimine con &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13332,6 +13596,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T234848Z" creationid="eumeu" creationdate="20181115T234848Z">
+        <seg>En ese caso, yy es el número de otras repeticiones del segmento en el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150604T000034Z" creationid="Usuario" creationdate="20150604T000034Z">
@@ -13368,6 +13640,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181109T144208Z" creationid="taty" creationdate="20181109T144208Z">
         <seg>En el cuadro Opciones&gt; Revisión ortográfica, seleccione o cree una carpeta de archivo de diccionario en su disco rígido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T232425Z" creationid="eumeu" creationdate="20181115T232425Z">
+        <seg>En el caso anterior, el párrafo original, ya se ha editado y traducido con OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14090,6 +14370,22 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T223003Z" creationid="eumeu" creationdate="20181115T223003Z">
+        <seg>Se puede seleccionar un color para identificar cada uno de los tipos de modificación registrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T001940Z" creationid="eumeu" creationdate="20181115T235940Z">
+        <seg>Es posible arrastrar un texto a la ventana principal y soltarlo dentro del segmento </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T212259Z" creationid="Antonio" creationdate="20160329T212259Z">
@@ -14142,6 +14438,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170822T191646Z" creationid="Cristina" creationdate="20170822T191646Z">
         <seg>Es la versión recomendada para los usuarios nuevos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T232539Z" creationid="eumeu" creationdate="20181115T232539Z">
+        <seg>Es el segmento que se muestra en dos partes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15596,6 +15900,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main Window - counters</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231152Z" creationid="eumeu" creationdate="20181115T231152Z">
+        <seg>Ventana principal - contadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Main menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000800Z" creationid="eumeu" creationdate="20181116T000800Z">
+        <seg>Menú principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T164113Z" creationid="Antonio" creationdate="20160330T164113Z">
@@ -15948,6 +16268,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match statistics</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000346Z" creationid="eumeu" creationdate="20181116T000346Z">
+        <seg>Estadística de Coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match statistics window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T211315Z" creationid="eumeu" creationdate="20181115T211315Z">
+        <seg>Ventana de estadísticas de coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T040713Z" creationid="hcartagena" creationdate="20160401T040713Z">
@@ -16014,6 +16350,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233551Z" creationid="hcartagena" creationdate="20151124T233551Z">
         <seg>Pueden encontrarse coincidencias en su traducción actual o en los archivos TMX que haya puesto en la carpeta /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T001638Z" creationid="eumeu" creationdate="20181116T001638Z">
+        <seg>Panel de coincidencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -16471,6 +16815,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T224926Z" creationid="Antonio" creationdate="20151127T173914Z">
         <seg>Traducciones múltiples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple Translations pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000941Z" creationid="eumeu" creationdate="20181116T000941Z">
+        <seg>Panel de traducciones múltiples</seg>
       </tuv>
     </tu>
     <tu>
@@ -17071,6 +17423,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T234739Z" creationid="eumeu" creationdate="20181115T234739Z">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233825Z" creationid="hcartagena" creationdate="20151124T233825Z">
@@ -17632,6 +17992,14 @@ Computer-Assisted Translation).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T235603Z" creationid="eumeu" creationdate="20181115T235603Z">
+        <seg>O4 puede almacenar las traducciones cuando son idénticas al original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170816T184427Z" creationid="Cristina" creationdate="20170816T184427Z">
@@ -17736,6 +18104,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T212838Z" creationid="hcartagena" creationdate="20151119T212838Z">
         <seg>Licencia OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT main window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T214738Z" creationid="eumeu" creationdate="20181115T214738Z">
+        <seg>Ventana principal de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -18158,6 +18534,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the above segments is the current segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T232514Z" creationid="eumeu" creationdate="20181115T232514Z">
+        <seg>Uno de los segmentos anteriores es la segmento actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170912T182404Z" creationid="Cristina" creationdate="20170820T114735Z">
@@ -18306,6 +18690,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T205323Z" creationid="hcartagena" creationdate="20151119T205323Z">
         <seg>Opciones del filtro Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000544Z" creationid="eumeu" creationdate="20181116T000544Z">
+        <seg>Abrir la ventana con &lt;g0&gt;Ctrl+T.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18526,6 +18918,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T224502Z" creationid="eumeu" creationdate="20181115T224502Z">
+        <seg>Otros archivos soltados se copiarán en &lt;f1&gt;la carpeta&lt;/f1&gt; de los originales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other file formats</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T182726Z" creationid="Antonio" creationdate="20160331T182726Z">
@@ -18659,6 +19059,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T161657Z" creationid="hcartagena" creationdate="20151117T140539Z">
         <seg>Escurridiza&lt;p&gt;El pulso se acelera&lt;p&gt;Se desvanece</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pane widgets</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T221029Z" creationid="eumeu" creationdate="20181115T221029Z">
+        <seg>Panel de widgets</seg>
       </tuv>
     </tu>
     <tu>
@@ -19642,6 +20050,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project files</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000637Z" creationid="eumeu" creationdate="20181116T000637Z">
+        <seg>Archivos de proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project files are the most important files in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T195055Z" creationid="Antonio" creationdate="20160316T195055Z">
@@ -19694,6 +20110,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T204754Z" creationid="Antonio" creationdate="20160124T204754Z">
         <seg>Los miembros del proyecto se conectan a travéfs de su clientes VCS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T212302Z" creationid="eumeu" creationdate="20181115T212302Z">
+        <seg>Propiedades del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -21503,6 +21927,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T235741Z" creationid="eumeu" creationdate="20181115T235741Z">
+        <seg>Ver &lt;e2&gt;Editando traducción&lt;/e2&gt; para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T212532Z" creationid="Antonio" creationdate="20160329T212532Z">
@@ -21601,6 +22033,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See chapter &lt;l2&gt;Menu and Keyboard shortcuts&lt;/l2&gt; for details.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000748Z" creationid="eumeu" creationdate="20181116T000748Z">
+        <seg>Ver capítulo &lt;l2&gt;Menú y atajos de teclado&lt;/l2&gt; para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170912T182350Z" creationid="Cristina" creationdate="20170816T191259Z">
@@ -21657,6 +22097,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment marker</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T232447Z" creationid="eumeu" creationdate="20181115T232447Z">
+        <seg>Marcador de segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment marker background</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T235843Z" creationid="Antonio" creationdate="20151126T154133Z">
@@ -21701,6 +22149,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T222228Z" creationid="hcartagena" creationdate="20151116T222228Z">
         <seg>Segmento {0,number,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213558Z" creationid="eumeu" creationdate="20181115T213558Z">
+        <seg>Segmentación</seg>
       </tuv>
     </tu>
     <tu>
@@ -22137,6 +22593,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Settings dialogs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213212Z" creationid="eumeu" creationdate="20181115T212133Z">
+        <seg>Diálogo de configuració</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T142531Z" creationid="Antonio" creationdate="20160128T142531Z">
@@ -22277,6 +22741,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T150920Z" creationid="Antonio" creationdate="20160330T150920Z">
         <seg>Si parece que el comportamiento de OmegaT es errático, es importante incluir este archivo o la parte correspondiente en cualquier informe de problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T222929Z" creationid="eumeu" creationdate="20181115T222929Z">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23107,6 +23579,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000647Z" creationid="eumeu" creationdate="20181116T000647Z">
+        <seg>Barra de estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T231152Z" creationid="hcartagena" creationdate="20151124T231152Z">
@@ -23643,10 +24123,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag validation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000415Z" creationid="eumeu" creationdate="20181116T000415Z">
+        <seg>Validación de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T225536Z" creationid="Antonio" creationdate="20151127T172707Z">
         <seg>Falló la validación de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag validation window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000611Z" creationid="eumeu" creationdate="20181116T000611Z">
+        <seg>Ventana de validación de etiqueta</seg>
       </tuv>
     </tu>
     <tu>
@@ -24200,6 +24696,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T232237Z" creationid="eumeu" creationdate="20181115T232237Z">
+        <seg>El panel de edición,muestra el texto del documento parcialmente traducido: el texto ya traducido aparece traducido, y el texto no traducido se muestra en el idioma original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T163138Z" creationid="Antonio" creationdate="20160330T163138Z">
@@ -24540,6 +25044,14 @@ configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231106Z" creationid="eumeu" creationdate="20181115T231106Z">
+        <seg>Los contadores en la esquina inferior derecha llevan un seguimiento del proceso de traducción (los números en la columna izquierda hacen referencia a la figura anterior):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -24610,6 +25122,14 @@ actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T184818Z" creationid="Antonio" creationdate="20160331T184818Z">
         <seg>**El modo de visualización de los documentos traducidos tendrá que modificarse dentro de la aplicación usada comúnmente para mostrarlos o modificarlos (consulte los manuales pertinentes para más detalles).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T232346Z" creationid="eumeu" creationdate="20181115T232346Z">
+        <seg>El texto mostrado se divide en segmentos, y usted puede desplazarse por el documento y hacer doble clic en cualquier se para editarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24929,6 +25449,22 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main menu provides access to all &lt;a0&gt;OmegaT&lt;/a0&gt; functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000918Z" creationid="eumeu" creationdate="20181116T000918Z">
+        <seg>A través del menú principal puede acceder&lt;a0&gt;a todas las funciones&lt;/a0&gt; de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T214829Z" creationid="eumeu" creationdate="20181115T214829Z">
+        <seg>La ventana principal se compone de varios paneles, el menú principal y la barra de estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223357Z" creationid="hcartagena" creationdate="20151201T223357Z">
@@ -25097,6 +25633,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231903Z" creationid="eumeu" creationdate="20181115T231903Z">
+        <seg>El proyecto en el ejemplo está terminado. Todos los segmentos están traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project was converted successfully.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T024712Z" creationid="hcartagena" creationdate="20160401T024712Z">
@@ -25173,6 +25717,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184639Z" creationid="Antonio" creationdate="20151210T184639Z">
         <seg>El segundo de estos capítulos describe las distintas subcarpetas y archivos en un proyecto de traducción y su papel, así como otros archivos de usuario y la aplicación asociadas con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The separators between the panes can be dragged to resize panes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T222834Z" creationid="eumeu" creationdate="20181115T222834Z">
+        <seg>Los separadores entre paneles se pueden arrastrar para reajustar el tamaño de los mismos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25313,6 +25865,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tag validation window detects and lists any tag errors and inconsistencies in the translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T000526Z" creationid="eumeu" creationdate="20181116T000526Z">
+        <seg>La ventana de validación de etiquetas detecta y enumera los errores de etiqueta y las inconsistencias en la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T222717Z" creationid="hcartagena" creationdate="20151201T222717Z">
@@ -25405,6 +25965,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T141758Z" creationid="Cristina" creationdate="20170918T192531Z">
         <seg>La labor de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: &lt;i0/&gt;the marker is &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T233200Z" creationid="eumeu" creationdate="20181115T233200Z">
+        <seg>La parte superior está en el idioma original, en negrita con fondo de color verde, la parte inferior es el campo de edición delimitado por dos marcadores: &lt;i0/&gt;el marcador &lt;l1&gt;&lt;segment nnn&gt;&lt;/l1&gt; donde nnnn es su número de segmento en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25800,6 +26368,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T224615Z" creationid="eumeu" creationdate="20181115T224615Z">
+        <seg>Esto aplica también a &lt;l2&gt;la ventana de&lt;/l2&gt; archivos de proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T214535Z" creationid="hcartagena" creationdate="20151125T000325Z">
@@ -26000,10 +26576,26 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T235706Z" creationid="eumeu" creationdate="20181115T235706Z">
+        <seg>Es útil para documentos que contienen marcas comerciales, nombres u otros nombres propios, o partes en un tercer dioma que no requieren traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T105825Z" creationid="Antonio" creationdate="20160126T105825Z">
         <seg>Esto es útil para textos que contengan muchas marcas registradas u otros nombres propios que debe dejarse sin cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is where you type and edit your translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T232030Z" creationid="eumeu" creationdate="20181115T232030Z">
+        <seg>Aquí es donde escribe y edita su traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27794,6 +28386,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T233247Z" creationid="eumeu" creationdate="20181115T233247Z">
+        <seg>Utilice la parte de arriba como referencia y reemplace o modifique los contenidos del campo de edición con la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T152604Z" creationid="Antonio" creationdate="20160125T152604Z">
@@ -27802,26 +28402,74 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213510Z" creationid="eumeu" creationdate="20181115T212952Z">
+        <seg>Para ajustar el manejo del formato de los archivos admitidos (ir a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Filtro de archivos...&lt;/g2&gt; &lt;/m0&gt;, para salir apretar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to change how &lt;a0&gt;OmegaT&lt;/a0&gt; behaves when you iterate between the segments (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Behavior...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T214500Z" creationid="eumeu" creationdate="20181115T214500Z">
+        <seg>Para cambiar la forma en que se comporta &lt;a0&gt;OmegaT&lt;/a0&gt; cuando hay repeticiones entre los segmentos (ir a &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Comportamiento...&lt;/g3&gt; &lt;/m1&gt;, para cerrar apretar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to change the way your text is segmented into sentences (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213801Z" creationid="eumeu" creationdate="20181115T213801Z">
+        <seg>Para cambiar la forma en que se segmenta su texto (ir a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Segmentación&lt;/g2&gt; &lt;/m0&gt;, para cerrar apretar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt; to open it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213135Z" creationid="eumeu" creationdate="20181115T211804Z">
+        <seg>Proyectosara mostrar la estadística de coincidencias del proyecto, seleccionar&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas&lt;/g1&gt;&lt;g3&gt;Estadística de coincidencias&lt;/g3&gt;&lt;/m0&gt;para abrirla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181113T174006Z" creationid="eumeu" creationdate="20181113T133622Z">
-        <seg>Se utiliza para mostrar el manual de usuario (abrir con &lt;k0&gt;F1&lt;/k0&gt;)</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213042Z" creationid="eumeu" creationdate="20181113T133622Z">
+        <seg>Para mostrar el manual de usuario (abrir con &lt;k0&gt;F1&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to modify the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; to display source, translation, matches and glossary terms, (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213529Z" creationid="eumeu" creationdate="20181115T212843Z">
+        <seg>Para modificar la fuente que utiliza &lt;a0&gt;OmegaT&lt;/a0&gt; mostrar la fuente, traducción, coincidencias and términos del glosario, (acceder en &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Fuente...&lt;/g3&gt; &lt;/m1&gt;, para salir apretar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to modify the project folders and languages (access via &lt;g0&gt;Ctrl+E &lt;/g0&gt;shortcut or &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;properties...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213545Z" creationid="eumeu" creationdate="20181115T212554Z">
+        <seg>Para modificar las carpetas e idiomas del proyecto (acceder a través del atajo &lt;g0&gt;Ctrl+E &lt;/g0&gt;o &lt;m1&gt; &lt;g2&gt;Proyecto&lt;/g2&gt; &lt;g3&gt;propiedades...&lt;/g3&gt; &lt;/m1&gt;, para salir apretar &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to open the window with the statistics of the project, display it, using &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Statistics.&lt;/g3&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181113T182246Z" creationid="eumeu" creationdate="20181113T175700Z">
-        <seg>Se utiliza para abrir la ventana de las estadísticas del proyecto. Para mostrarlo haz clic en &lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas </seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213123Z" creationid="eumeu" creationdate="20181113T175700Z">
+        <seg>Abrir la ventana de las estadísticas del proyecto. Para mostrarlo haz clic en &lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181113T174951Z" creationid="eumeu" creationdate="20181113T105310Z">
-        <seg>Se utiliza para validar etiquetas&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;&lt;</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T213026Z" creationid="eumeu" creationdate="20181113T105310Z">
+        <seg>Para validar etiquetas apretar&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28582,6 +29230,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T222730Z" creationid="eumeu" creationdate="20181115T222730Z">
+        <seg>En este caso los paneles mostrarán una pestaña en la parte superior. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T204206Z" creationid="hcartagena" creationdate="20151119T204206Z">
@@ -28642,6 +29298,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T184036Z" creationid="Antonio" creationdate="20151210T184036Z">
         <seg>Cuando usted le indica a OmegaT los archivos que desea traducir, el programa buscará los archivos que sean de los formatos admitidos, aplicando las reglas de los filtros de archivo, donde reconocerá los elementos de texto de estos archivos, separando los grupos de texto de acuerdo con las reglas de segmentación y le mostrará los segmentos para que pueda proceder con la traducción uno por uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move to another segment, the translation is validated and stored.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T235201Z" creationid="eumeu" creationdate="20181115T235201Z">
+        <seg>Cuando usted se mueve a otro segmento, la traducción será validada y almacenada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29265,6 +29929,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T215223Z" creationid="eumeu" creationdate="20181115T215223Z">
+        <seg>Puede cambiar la posición de cualquier panel o incluso poner en una ventana separada al hacer clic y arrastrar el panel por su nombre. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223103Z" creationid="hcartagena" creationdate="20151201T223103Z">
@@ -29343,6 +30015,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T161226Z" creationid="Antonio" creationdate="20160330T161226Z">
         <seg>**Usted puede abrirlos en un navegador de Internet para tener acceso a los enlaces externos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T222534Z" creationid="eumeu" creationdate="20181115T222534Z">
+        <seg>Puede superponer paneles si lo desea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32627,6 +33307,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>maximizes the pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T221425Z" creationid="eumeu" creationdate="20181115T221425Z">
+        <seg>Maximizar el panel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151201T223259Z" creationid="hcartagena" creationdate="20151201T223259Z">
@@ -32671,6 +33359,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152733Z" creationid="Antonio" creationdate="20151128T152733Z">
         <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T221409Z" creationid="eumeu" creationdate="20181115T221409Z">
+        <seg>Reduce el panel para mostrar sólo su nombre en la parte inferior, cerca de la barra de estado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33031,6 +33727,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T153616Z" creationid="Antonio" creationdate="20151128T153616Z">
         <seg>nr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of segments - translated vs total for the current file</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231233Z" creationid="eumeu" creationdate="20181115T231233Z">
+        <seg>número de segmentos - traducidos vs el total del archivo actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of source and target characters in the current segment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231545Z" creationid="eumeu" creationdate="20181115T231545Z">
+        <seg>número de caractéres del segmento actual de la lengua de origen y llegada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of unique segments - translated vs total in the project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231338Z" creationid="eumeu" creationdate="20181115T231338Z">
+        <seg>númerod de segmentos únicos - traducidos vs segmentos totales en el proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -34432,6 +35152,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T161234Z" creationid="Antonio" creationdate="20151130T161234Z">
         <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>total number of segments (including repeats) in the project</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181115T231411Z" creationid="eumeu" creationdate="20181115T231411Z">
+        <seg>número total de segmentos en el proyecto (repeticiones incluidas)</seg>
       </tuv>
     </tu>
     <tu>
