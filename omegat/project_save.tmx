@@ -18015,6 +18015,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nr, Date created etc).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T181526Z" creationid="taty" creationdate="20181116T181526Z">
+        <seg>Número, Fecha de creación, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of matching segments:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T193745Z" creationid="hcartagena" creationdate="20151117T193745Z">
