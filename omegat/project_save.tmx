@@ -8967,6 +8967,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data exported from Trados MultiTerm can be used as &lt;a0&gt;OmegaT&lt;/a0&gt; glossaries without further modification, provided they are given the file extension &lt;f1&gt;.tab&lt;/f1&gt; and the source and target term fields are the first two fields respectively.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T180840Z" creationid="taty" creationdate="20181116T180840Z">
+        <seg>Los datos exportados desde Trados MultiTerm pueden ser usados como glosarios de &lt;a0&gt;OmegaT&lt;/a0&gt; sin ninguna modificación adicional, siempre que tengan la extensión del archivo &lt;f1&gt;.tab&lt;/f1&gt; y los campos de término de origen y destino sean los primeros dos campos respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T164830Z" creationid="hcartagena" creationdate="20180605T164830Z">
