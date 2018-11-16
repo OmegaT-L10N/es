@@ -81,6 +81,38 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T154904Z" creationid="eumeu" creationdate="20181116T154904Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T154825Z" creationid="eumeu" creationdate="20181116T154825Z">
+        <seg>${diff}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T155003Z" creationid="eumeu" creationdate="20181116T155003Z">
+        <seg>${Nombre del archivo}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${filePath}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T155047Z" creationid="eumeu" creationdate="20181116T155047Z">
+        <seg>${filePath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${id}</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T154614Z" creationid="eumeu" creationdate="20181116T154614Z">
@@ -93,6 +125,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T154644Z" creationid="eumeu" creationdate="20181116T154644Z">
         <seg>${sourceText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${targetText}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T154815Z" creationid="eumeu" creationdate="20181116T154815Z">
+        <seg>${targetText}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14714,6 +14754,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It shows translation of terms found in the current segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T155113Z" creationid="eumeu" creationdate="20181116T155113Z">
+        <seg>Muestra los resultados encontrados en el segmento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -17123,6 +17171,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name of the TMX</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T155011Z" creationid="eumeu" creationdate="20181116T155011Z">
+        <seg>Nombre de la TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name the image NewImage.png</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T180203Z" creationid="Cristina" creationdate="20170924T161227Z">
@@ -19508,6 +19564,22 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T044451Z" creationid="hcartagena" creationdate="20160401T044451Z">
         <seg>Patrón...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage adjusted</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T154937Z" creationid="eumeu" creationdate="20181116T154937Z">
+        <seg>Porcentaje ajustado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage without numbers and tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T154901Z" creationid="eumeu" creationdate="20181116T154901Z">
+        <seg>Porcentaje sin números y etiquetas</seg>
       </tuv>
     </tu>
     <tu>
