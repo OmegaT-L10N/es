@@ -3811,6 +3811,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Creating a glossary&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T164716Z" creationid="taty" creationdate="20181116T164716Z">
+        <seg>&lt;p0&gt;Glosarios&lt;/p0&gt; &lt;s1&gt;Creando un glosario&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;File format&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T132939Z" creationid="taty" creationdate="20181116T132939Z">
