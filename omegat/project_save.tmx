@@ -4683,6 +4683,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T163703Z" creationid="taty" creationdate="20181116T163703Z">
+        <seg>&lt;u0&gt;La colección de Terminología de Microsoft&lt;/u0&gt; &lt;i1/&gt; se puede descargar en aproximadamente 100 idiomas y puede servir como un glosario base de IT.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>==============================================================================</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T111459Z" creationid="Antonio" creationdate="20151120T111459Z">
