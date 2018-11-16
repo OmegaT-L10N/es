@@ -26465,6 +26465,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T152300Z" creationid="eumeu" creationdate="20181116T152300Z">
+        <seg>No es necesario indicarle a OmegaT que use un diccionario ortográfico en particular; OmegaT utilizará el diccionario que corresponda basado los códigos de lenguaje de su proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be a delay in publishing signed versions.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170908T211004Z" creationid="Cristina" creationdate="20170908T211004Z">
