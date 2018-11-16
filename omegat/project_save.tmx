@@ -25588,6 +25588,14 @@ configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of the glossary pane will be updated accordingly.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T172330Z" creationid="taty" creationdate="20181116T172330Z">
+        <seg>El contenido del panel del glosario por lo tanto se actualizará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160330T145703Z" creationid="Antonio" creationdate="20160330T145703Z">
