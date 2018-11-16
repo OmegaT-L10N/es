@@ -7529,6 +7529,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment fields are separated by a comma ','.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T151031Z" creationid="taty" creationdate="20181116T151031Z">
+        <seg>Los campos de comentarios están separados por una coma ",". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T232733Z" creationid="hcartagena" creationdate="20151124T232733Z">
