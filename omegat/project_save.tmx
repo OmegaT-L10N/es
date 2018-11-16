@@ -24387,6 +24387,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T111524Z" creationid="taty" creationdate="20181116T111524Z">
+        <seg>Lo términos en el segmento actual que &lt;a3&gt;OmegaT&lt;/a3&gt; encuentra en los archivos del glosario se muestran en el panel Glosario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T233712Z" creationid="Antonio" creationdate="20151127T082504Z">
