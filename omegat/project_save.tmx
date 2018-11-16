@@ -26201,6 +26201,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T165250Z" creationid="taty" creationdate="20181116T165250Z">
+        <seg>La configuración del proyecto permite a uno ingresar un nombre para un archivo de glosario que se pueda escribir (vea el comienzo de este capítulo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project was converted successfully.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160401T024712Z" creationid="hcartagena" creationdate="20160401T024712Z">
