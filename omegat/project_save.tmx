@@ -28906,6 +28906,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T171512Z" creationid="taty" creationdate="20181116T171512Z">
+        <seg>Por lo tanto, actualizar un archivo de glosario es bastante simple: presione &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; y ingrese el nuevo término, su traducción y cualquier comentarios que pueda tener ( </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T185454Z" creationid="hcartagena" creationdate="20151119T185454Z">
