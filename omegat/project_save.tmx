@@ -26784,6 +26784,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T150028Z" creationid="taty" creationdate="20181116T150028Z">
+        <seg>Este formato es el mismo que el de la pestaña separada: término de origen, término de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151127T164044Z" creationid="Antonio" creationdate="20151127T164044Z">
