@@ -16979,6 +16979,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T111902Z" creationid="taty" creationdate="20181116T111902Z">
+        <seg>Los nuevo términos pueden ser agregados manualmente a los archivos de glosario durante la traducción, por ejemplo en el editor de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150603T154130Z" creationid="Helli" creationdate="20150603T150906Z">
