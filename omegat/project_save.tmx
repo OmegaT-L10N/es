@@ -26095,6 +26095,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The items are not separated with a TAB character.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T182711Z" creationid="taty" creationdate="20181116T182711Z">
+        <seg>Los elementos no están separados con un carácter TAB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
       </tuv>
       <tuv lang="ES" changeid="Usuario" changedate="20150603T235516Z" creationid="Usuario" creationdate="20150603T235516Z">
