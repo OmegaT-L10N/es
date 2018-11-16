@@ -20394,6 +20394,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T183802Z" creationid="taty" creationdate="20181116T183802Z">
+        <seg>Problema: En el panel de glosario, algunos carácteres no se visualizan correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T181858Z" creationid="taty" creationdate="20181116T181858Z">
