@@ -17555,6 +17555,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No glossary file found in the "glossary" folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T182019Z" creationid="taty" creationdate="20181116T182019Z">
+        <seg>No se ha encontrado ningún archivo de glosario en la carpeta "glosario".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142908Z" creationid="hcartagena" creationdate="20151117T142908Z">
