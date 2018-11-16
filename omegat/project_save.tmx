@@ -26289,6 +26289,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T173442Z" creationid="taty" creationdate="20181116T173403Z">
+        <seg>Las extensiónes reconocidas son &lt;f1&gt;TXT&lt;/f1&gt; y &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T221522Z" creationid="Antonio" creationdate="20160124T221514Z">
