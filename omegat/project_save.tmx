@@ -13756,6 +13756,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T153854Z" creationid="taty" creationdate="20181116T153854Z">
+        <seg>Además del formato de texto simple, el formato TBX &lt;i0/&gt; también es soportado como formato de glosario de sola lectura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T112337Z" creationid="Helli" creationdate="20150526T152228Z">
@@ -25893,6 +25901,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T180255Z" creationid="hcartagena" creationdate="20151117T191627Z">
         <seg>Se debe ingresar el código de idioma con el formato xx-YY, xxx-YY, xx_YY o xxx_YY, donde 
 xx o xxx es el código de idioma e YY es el código de región o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T155028Z" creationid="taty" creationdate="20181116T155028Z">
+        <seg>La ubicación del archivo &lt;f1&gt;.tbx&lt;/f1&gt; debe estar dentro de la carpeta &lt;f2&gt;/glosario&lt;/f2&gt;, pero puede estar en una carpeta más profunda (por ejemplo, &lt;f3&gt;glosario/sub/MiGlosario.tbx&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
