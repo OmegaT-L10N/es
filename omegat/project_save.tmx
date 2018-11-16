@@ -16987,6 +16987,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T112934Z" creationid="taty" creationdate="20181116T112934Z">
+        <seg>Los términos recién agregados no serán reconocidos hasta que los cambios en el archivo de texto han sido guardados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150603T154130Z" creationid="Helli" creationdate="20150603T150906Z">
