@@ -23049,6 +23049,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T124110Z" creationid="taty" creationdate="20181116T124110Z">
+        <seg>Así que el "pojavni meni" agregado en la forma nominativa debe ser cambiado a "pojavnem meniju", es decir, al locativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T155111Z" creationid="Antonio" creationdate="20151128T155111Z">
