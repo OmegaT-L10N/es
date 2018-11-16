@@ -26019,8 +26019,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T121252Z" creationid="taty" creationdate="20181116T121252Z">
-        <seg>El elemento burayado "menú emergente" se puede encontrar en el panel de glosario como "menú pojavni".</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181116T121427Z" creationid="taty" creationdate="20181116T121252Z">
+        <seg>El elemento burayado "menú emergente" se puede encontrar en el panel glosario como "menú pojavni".</seg>
       </tuv>
     </tu>
     <tu>
