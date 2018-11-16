@@ -25835,8 +25835,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T113052Z" creationid="taty" creationdate="20181116T113052Z">
-        <seg>Los términos de origen no tienen que ser </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181116T114618Z" creationid="taty" creationdate="20181116T113052Z">
+        <seg>El término de origen no tienen que ser un elemento de una sola palabra, como muestra el siguiente ejemplo:</seg>
       </tuv>
     </tu>
     <tu>
