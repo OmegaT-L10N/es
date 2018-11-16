@@ -4747,6 +4747,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T165703Z" creationid="taty" creationdate="20181116T165703Z">
+        <seg>Se abre una ventana que permite ingresar el t </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of repository URLs is provided below.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181109T143025Z" creationid="taty" creationdate="20181109T143025Z">
