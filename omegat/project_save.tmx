@@ -3875,6 +3875,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Trados MultiTerm&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T175649Z" creationid="taty" creationdate="20181116T175649Z">
+        <seg>&lt;p0&gt;Glosarios&lt;/p0&gt; &lt;s1&gt;Trados MultiTerm&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T200734Z" creationid="Antonio" creationdate="20151128T163952Z">
@@ -29472,6 +29480,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170917T175002Z" creationid="Cristina" creationdate="20170917T175002Z">
         <seg>Uso de OmegaT en Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Trados MultiTerm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T175713Z" creationid="taty" creationdate="20181116T175713Z">
+        <seg>Usando Trados MultiTerm</seg>
       </tuv>
     </tu>
     <tu>
