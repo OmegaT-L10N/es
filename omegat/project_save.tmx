@@ -13476,6 +13476,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T163034Z" creationid="taty" creationdate="20181116T163034Z">
+        <seg>Si tiene un sistema de tratamiento de terminología existente, es muy probable que ofrezca la exportación de datos de terminología a través del formato TBX. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T150729Z" creationid="Cristina" creationdate="20170924T150729Z">
