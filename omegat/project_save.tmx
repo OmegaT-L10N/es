@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T152634Z" creationid="taty" creationdate="20181116T152634Z">
+        <seg>"Este es un término fuente que contiene una coma","c'est un terme, qui contient une virgule" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"We" refers below to the OmegaT project team.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20171003T152334Z" creationid="Cristina" creationdate="20170918T191012Z">
@@ -23847,6 +23855,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150605T113238Z" creationid="Helli" creationdate="20150603T153029Z">
         <seg>Pasos que ha seguido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T152354Z" creationid="taty" creationdate="20181116T152206Z">
+        <seg>Las cadenas pueden ser encerradas entre comillas ", lo que permite tener una coma dentro de una cadena:</seg>
       </tuv>
     </tu>
     <tu>
