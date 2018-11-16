@@ -26337,6 +26337,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T175239Z" creationid="taty" creationdate="20181116T175239Z">
+        <seg>Los resultados del glosario de prioridad (por defecto, glosario/glosario.txt) aparecen en los primeros lugares en el panel Glosario y en Trans Tips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T185118Z" creationid="Antonio" creationdate="20151210T185118Z">
