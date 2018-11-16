@@ -3739,6 +3739,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;File format&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T132939Z" creationid="taty" creationdate="20181116T132939Z">
+        <seg>&lt;p0&gt;Glosarios&lt;/p0&gt; &lt;s1&gt;Formato de archivo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt; &lt;t2&gt;multiple-words entries&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T120119Z" creationid="taty" creationdate="20181116T115632Z">
@@ -4007,6 +4015,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160321T174312Z" creationid="Antonio" creationdate="20160321T174312Z">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Archivos del proyecto de traducción&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;User files&lt;/s1&gt; &lt;s2&gt;Glossaries&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T133044Z" creationid="taty" creationdate="20181116T133044Z">
+        <seg>&lt;p0&gt;Archivos de proyecto&lt;/p0&gt; &lt;s1&gt;Archivoss de usuario&lt;/s1&gt; &lt;s2&gt;Glosarios&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
