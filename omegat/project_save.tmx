@@ -21661,6 +21661,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T165509Z" creationid="taty" creationdate="20181116T165509Z">
+        <seg>Haga clic con el botón derecho en el panel del glosario o presione &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; para agregar una nueva entrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T105402Z" creationid="Helli" creationdate="20150526T114829Z">
@@ -26203,8 +26211,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T165250Z" creationid="taty" creationdate="20181116T165250Z">
-        <seg>La configuración del proyecto permite a uno ingresar un nombre para un archivo de glosario que se pueda escribir (vea el comienzo de este capítulo).</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181116T165308Z" creationid="taty" creationdate="20181116T165250Z">
+        <seg>La configuración del proyecto permite ingresar un nombre para un archivo de glosario que se pueda escribir (vea el comienzo de este capítulo).</seg>
       </tuv>
     </tu>
     <tu>
