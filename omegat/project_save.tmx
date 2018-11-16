@@ -4749,8 +4749,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T165836Z" creationid="taty" creationdate="20181116T165703Z">
-        <seg>Se abre una ventana que permite ingresar el término de origen, el término de destino y cualquier comentario que se pueda tener: </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181116T165856Z" creationid="taty" creationdate="20181116T165703Z">
+        <seg>Se abre una ventana que permite ingresar el término de origen, el término de destino y cualquier comentario que se pueda hacer: </seg>
       </tuv>
     </tu>
     <tu>
@@ -25568,6 +25568,14 @@ configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T162235Z" creationid="Antonio" creationdate="20160126T162235Z">
         <seg>El contenido del texto de destino del segmento (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T170847Z" creationid="taty" creationdate="20181116T170847Z">
+        <seg>Los contenidos de los archivos de glosario están guardados en la memoria y se cargan cuando el proyecto está abierto o se vuelve a cargar.</seg>
       </tuv>
     </tu>
     <tu>
