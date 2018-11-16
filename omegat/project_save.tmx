@@ -26017,6 +26017,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T121252Z" creationid="taty" creationdate="20181116T121252Z">
+        <seg>El elemento burayado "menú emergente" se puede encontrar en el panel de glosario como "menú pojavni".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: &lt;i0/&gt;the marker is &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; where nnnn is a number of the segment in the project.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181115T233200Z" creationid="eumeu" creationdate="20181115T233200Z">
