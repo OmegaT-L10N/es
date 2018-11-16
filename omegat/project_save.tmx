@@ -3851,6 +3851,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Spell checking&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T150913Z" creationid="eumeu" creationdate="20181116T150913Z">
+        <seg>&lt;p0&gt;Opción de menú&lt;/p0&gt; &lt;s1&gt;Revisión ortográfica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20160331T194634Z" creationid="hcartagena" creationdate="20151201T221445Z">
@@ -4231,6 +4239,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T184320Z" creationid="Antonio" creationdate="20160331T184311Z">
         <seg>**&lt;p0&gt;Archivos de origen&lt;/p0&gt; &lt;s1&gt;Idiomas de derecha a izquierda&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Spell checker setup&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T151604Z" creationid="eumeu" creationdate="20181116T151604Z">
+        <seg>&lt;p0&gt;Corrector ortógrafico&lt;/p0&gt; &lt;s1&gt;Configuración del corrector ortográfico&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17503,6 +17519,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T151428Z" creationid="eumeu" creationdate="20181116T151428Z">
+        <seg>Para la instalación se necesita una conexión a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160124T214022Z" creationid="Antonio" creationdate="20160124T214022Z">
@@ -25969,6 +25993,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T151454Z" creationid="eumeu" creationdate="20181116T151454Z">
+        <seg>A continuación, los idiomas seleccionados se instalarán y, finalmente, aparecerán en la ventana de configuración del corrector ortográfico (esto puede tardar un poco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The separators between the panes can be dragged to resize panes.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181115T222834Z" creationid="eumeu" creationdate="20181115T222834Z">
@@ -26381,6 +26413,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T074506Z" creationid="Antonio" creationdate="20160331T074506Z">
         <seg>**Básicamente hay dos tipos de formatos de archivo, el &lt;s0&gt;texto sin formato&lt;/s0&gt; y el &lt;s1&gt;texto con formato&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T151332Z" creationid="eumeu" creationdate="20181116T151332Z">
+        <seg>Hay dos formas de hacerlo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27246,6 +27286,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150526T154329Z" creationid="Helli" creationdate="20150526T154329Z">
         <seg>Para conseguir ser implicado en el OmegaT development effort  puede unirse al grupo de desarrollador, vía la web o enviando un email a &lt;/f5&gt;&lt;a6&gt;omegat-desarrollo-request@lists.sourceforge.net&lt;/a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;con "suscribir" en el asunto.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181116T150819Z" creationid="eumeu" creationdate="20181116T150819Z">
+        <seg>Para instalar diccionarios de ortografía, seguir las siguientes instrucciones:</seg>
       </tuv>
     </tu>
     <tu>
