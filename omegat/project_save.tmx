@@ -23049,6 +23049,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T132841Z" creationid="taty" creationdate="20181116T132841Z">
+        <seg>Por lo tanto, es seguramente más rápido escribir el término correcto directamente sin preocuparse del glosario y de sus accesos directos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T124110Z" creationid="taty" creationdate="20181116T124110Z">
