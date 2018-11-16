@@ -11044,6 +11044,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T133102Z" creationid="taty" creationdate="20181116T133102Z">
+        <seg>Formato de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File formats</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T074401Z" creationid="Antonio" creationdate="20160331T074401Z">
@@ -12000,6 +12008,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES">
         <seg>Archivos de glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181116T134548Z" creationid="taty" creationdate="20181116T134548Z">
+        <seg>Los archivos de glosario son archivos de texto simple que contienen listas de tres columnas delimitadas por tabulaciones, con los términos de origen y destino en la primera y segunda columna, respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
