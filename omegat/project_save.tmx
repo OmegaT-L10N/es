@@ -4749,8 +4749,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T165856Z" creationid="taty" creationdate="20181116T165703Z">
-        <seg>Se abre una ventana que permite ingresar el término de origen, el término de destino y cualquier comentario que se pueda hacer: </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181116T171532Z" creationid="taty" creationdate="20181116T165703Z">
+        <seg>Se abre una ventana que permite ingresar el término de origen, el término de destino y cualquier comentario que se pueda hacer:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28908,8 +28908,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T171512Z" creationid="taty" creationdate="20181116T171512Z">
-        <seg>Por lo tanto, actualizar un archivo de glosario es bastante simple: presione &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; y ingrese el nuevo término, su traducción y cualquier comentarios que pueda tener ( </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181116T172050Z" creationid="taty" creationdate="20181116T171512Z">
+        <seg>Por lo tanto, actualizar un archivo de glosario es bastante simple: presione &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; y ingrese el nuevo término, su traducción y cualquier comentario que pueda tener (asegurandose de presionar el tabulador entre los campos) y guarde el archivo.</seg>
       </tuv>
     </tu>
     <tu>
