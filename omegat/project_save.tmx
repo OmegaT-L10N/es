@@ -4309,8 +4309,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Selecting the match - Ctrl+N&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T001706Z" creationid="eumeu" creationdate="20181116T001706Z">
-        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Se la coincidencia - Ctrl+N&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T133605Z" creationid="eumeu" creationdate="20181116T001706Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Seleccionar la coincidencia - Ctrl+N&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19472,8 +19472,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T224502Z" creationid="eumeu" creationdate="20181115T224502Z">
-        <seg>Otros archivos soltados se copiarán en &lt;f1&gt;la carpeta&lt;/f1&gt; de los originales.</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T133353Z" creationid="eumeu" creationdate="20181115T224502Z">
+        <seg>Otros archivos que se hayan soltado se copiarán en &lt;f1&gt;la carpeta&lt;/f1&gt; de los originales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23211,8 +23211,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T213212Z" creationid="eumeu" creationdate="20181115T212133Z">
-        <seg>Diálogo de configuració</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T130156Z" creationid="eumeu" creationdate="20181115T212133Z">
+        <seg>Diálogo de configuración</seg>
       </tuv>
     </tu>
     <tu>
@@ -23363,8 +23363,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T222929Z" creationid="eumeu" creationdate="20181115T222929Z">
-        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T132840Z" creationid="eumeu" creationdate="20181115T222929Z">
+        <seg>Si olvida como hizo los cambios en la interfaz de usuario, puede ir a &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Opciones → Restaurar la ventana principal&lt;/g0&gt; en cauqluier momento para regresar a la disposición original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29372,8 +29372,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt; to open it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T213135Z" creationid="eumeu" creationdate="20181115T211804Z">
-        <seg>Proyectosara mostrar la estadística de coincidencias del proyecto, seleccionar&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas&lt;/g1&gt;&lt;g3&gt;Estadística de coincidencias&lt;/g3&gt;&lt;/m0&gt;para abrirla.</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T130145Z" creationid="eumeu" creationdate="20181115T211804Z">
+        <seg>Proyectos: para mostrar la estadística de coincidencias del proyecto, seleccionar&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas&lt;/g1&gt;&lt;g3&gt;Estadística de coincidencias&lt;/g3&gt;&lt;/m0&gt;para abrirla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29404,8 +29404,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to open the window with the statistics of the project, display it, using &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Statistics.&lt;/g3&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T213123Z" creationid="eumeu" creationdate="20181113T175700Z">
-        <seg>Abrir la ventana de las estadísticas del proyecto. Para mostrarlo haz clic en &lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas </seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T130112Z" creationid="eumeu" creationdate="20181113T175700Z">
+        <seg>Abrir la ventana de las estadísticas del proyecto. Para mostrarlo haz clic en &lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas&lt;/g1&gt;&lt;g3&gt;Estadísticas.&lt;/g3&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -32081,32 +32081,32 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>displays dictionary hits found for items in the current segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T134420Z" creationid="eumeu" creationdate="20181112T134420Z">
-        <seg>Muestra los resultados encontrados por el diccionario por término en el segmento actual</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T125834Z" creationid="eumeu" creationdate="20181112T134420Z">
+        <seg>muestra los resultados encontrados por el diccionario por término en el segmento actual</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>displays terminology found for items in the current segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T133853Z" creationid="eumeu" creationdate="20181112T133853Z">
-        <seg>Muestra la terminología encontrada por elementos en el segmento actual</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T125818Z" creationid="eumeu" creationdate="20181112T133853Z">
+        <seg>muestra la terminología encontrada por elementos en el segmento actual</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>displays the most similar segments from translation memories</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T133726Z" creationid="eumeu" creationdate="20181112T133726Z">
-        <seg>Muestra los segmentos más similares de las memorias de traducción</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T125809Z" creationid="eumeu" creationdate="20181112T133726Z">
+        <seg>muestra los segmentos más similares de las memorias de traducción</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>displays the translation, provided by MT services</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T134634Z" creationid="eumeu" creationdate="20181112T134634Z">
-        <seg>Muestra ka traducción proporcionada por los servicios de Traducción Automática</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T125849Z" creationid="eumeu" creationdate="20181112T134634Z">
+        <seg>muestra la traducción proporcionada por los servicios de Traducción Automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -34293,8 +34293,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>maximizes the pane</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T221425Z" creationid="eumeu" creationdate="20181115T221425Z">
-        <seg>Maximizar el panel</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T130829Z" creationid="eumeu" creationdate="20181115T221425Z">
+        <seg>maximiza el panel</seg>
       </tuv>
     </tu>
     <tu>
@@ -34349,8 +34349,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T221409Z" creationid="eumeu" creationdate="20181115T221409Z">
-        <seg>Reduce el panel para mostrar sólo su nombre en la parte inferior, cerca de la barra de estado.</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T130803Z" creationid="eumeu" creationdate="20181115T221409Z">
+        <seg>reduce el panel para mostrar sólo su nombre en la parte inferior, cerca de la barra de estado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34709,8 +34709,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>notes pertaining to the current segment, e.g. alternative translations or the current key in case of key=value file formats</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T134727Z" creationid="eumeu" creationdate="20181112T134727Z">
-        <seg>Notas que pertenecen al segmento actual. Ej: Traducciones alternativas </seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T125858Z" creationid="eumeu" creationdate="20181112T134727Z">
+        <seg>notas que pertenecen al segmento actual. Ej: Traducciones alternativas </seg>
       </tuv>
     </tu>
     <tu>
@@ -35316,6 +35316,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T132118Z" creationid="eumeu" creationdate="20181126T132118Z">
+        <seg>reestablecer el panel dentro de la ventana principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>qu</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154729Z" creationid="Antonio" creationdate="20151128T154729Z">
@@ -35368,6 +35376,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160329T210952Z" creationid="Antonio" creationdate="20160329T210952Z">
         <seg>eliminar caracteres hasta el inicio de la palabra actual (Mac: &lt;e0&gt;Alt+Retroceso&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>restores the layout before the maximizing step</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T131942Z" creationid="eumeu" creationdate="20181126T131942Z">
+        <seg>restaura la disposición antes de maximizar la ventana</seg>
       </tuv>
     </tu>
     <tu>
@@ -36380,6 +36396,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>undocks the pane from the main window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T132054Z" creationid="eumeu" creationdate="20181126T132054Z">
+        <seg>desbloquea el panel desde la ventana principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>unknown</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223429Z" creationid="hcartagena" creationdate="20151116T223429Z">
@@ -36622,8 +36646,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>where you type and edit the translation</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181113T174344Z" creationid="eumeu" creationdate="20181112T133109Z">
-        <seg>En el cuál escribe y edita la traducción</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181126T125752Z" creationid="eumeu" creationdate="20181112T133109Z">
+        <seg>en el cuál escribe y edita la traducción</seg>
       </tuv>
     </tu>
     <tu>
