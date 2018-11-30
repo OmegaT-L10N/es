@@ -13732,6 +13732,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T181330Z" creationid="eumeu" creationdate="20181130T181330Z">
+        <seg>Pulsando el botón derecho en el Panel de edición, se abrirá una ventana con las siguientes opciones:&lt;e0&gt; Cortar, Copiar, Pegar&lt;/e0&gt; (ej. las mismas funciones que &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; y &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Ir al segmento&lt;/e10&gt; y &lt;e11&gt;Agregar una entrada de glosario&lt;/e11&gt; functions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20171012T120434Z" creationid="Cristina" creationdate="20170924T162315Z">
@@ -18594,8 +18602,8 @@ Computer-Assisted Translation).</seg>
       <tuv lang="EN">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T235603Z" creationid="eumeu" creationdate="20181115T235603Z">
-        <seg>O4 puede almacenar las traducciones cuando son idénticas al original.</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T180034Z" creationid="eumeu" creationdate="20181115T235603Z">
+        <seg>OmegaT puede almacenar las traducciones cuando son idénticas al original.</seg>
       </tuv>
     </tu>
     <tu>
