@@ -29404,24 +29404,24 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T213510Z" creationid="eumeu" creationdate="20181115T212952Z">
-        <seg>Para ajustar el manejo del formato de los archivos admitidos (ir a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Filtro de archivos...&lt;/g2&gt; &lt;/m0&gt;, para salir apretar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T175856Z" creationid="eumeu" creationdate="20181115T212952Z">
+        <seg>Para ajustar el manejo del formato de los archivos admitidos (ir a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Filtro de archivos...&lt;/g2&gt; &lt;/m0&gt;, para salir pulsar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to change how &lt;a0&gt;OmegaT&lt;/a0&gt; behaves when you iterate between the segments (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Behavior...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T214500Z" creationid="eumeu" creationdate="20181115T214500Z">
-        <seg>Para cambiar la forma en que se comporta &lt;a0&gt;OmegaT&lt;/a0&gt; cuando hay repeticiones entre los segmentos (ir a &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Comportamiento...&lt;/g3&gt; &lt;/m1&gt;, para cerrar apretar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T175920Z" creationid="eumeu" creationdate="20181115T214500Z">
+        <seg>Para cambiar la forma en que se comporta &lt;a0&gt;OmegaT&lt;/a0&gt; cuando hay repeticiones entre los segmentos (ir a &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Comportamiento...&lt;/g3&gt; &lt;/m1&gt;, para cerrar pulsar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to change the way your text is segmented into sentences (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T213801Z" creationid="eumeu" creationdate="20181115T213801Z">
-        <seg>Para cambiar la forma en que se segmenta su texto (ir a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Segmentación&lt;/g2&gt; &lt;/m0&gt;, para cerrar apretar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T175906Z" creationid="eumeu" creationdate="20181115T213801Z">
+        <seg>Para cambiar la forma en que se segmenta su texto (ir a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Segmentación&lt;/g2&gt; &lt;/m0&gt;, para cerrar pulsar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29444,16 +29444,16 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to modify the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; to display source, translation, matches and glossary terms, (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T213529Z" creationid="eumeu" creationdate="20181115T212843Z">
-        <seg>Para modificar la fuente que utiliza &lt;a0&gt;OmegaT&lt;/a0&gt; mostrar la fuente, traducción, coincidencias and términos del glosario, (acceder en &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Fuente...&lt;/g3&gt; &lt;/m1&gt;, para salir apretar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T175845Z" creationid="eumeu" creationdate="20181115T212843Z">
+        <seg>Para modificar la fuente que utiliza &lt;a0&gt;OmegaT&lt;/a0&gt; mostrar la fuente, traducción, coincidencias and términos del glosario, (acceder en &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Fuente...&lt;/g3&gt; &lt;/m1&gt;, para salir pulsar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to modify the project folders and languages (access via &lt;g0&gt;Ctrl+E &lt;/g0&gt;shortcut or &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;properties...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T213545Z" creationid="eumeu" creationdate="20181115T212554Z">
-        <seg>Para modificar las carpetas e idiomas del proyecto (acceder a través del atajo &lt;g0&gt;Ctrl+E &lt;/g0&gt;o &lt;m1&gt; &lt;g2&gt;Proyecto&lt;/g2&gt; &lt;g3&gt;propiedades...&lt;/g3&gt; &lt;/m1&gt;, para salir apretar &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T175835Z" creationid="eumeu" creationdate="20181115T212554Z">
+        <seg>Para modificar las carpetas e idiomas del proyecto (acceder a través del atajo &lt;g0&gt;Ctrl+E &lt;/g0&gt;o &lt;m1&gt; &lt;g2&gt;Proyecto&lt;/g2&gt; &lt;g3&gt;propiedades...&lt;/g3&gt; &lt;/m1&gt;, para salir pulsar &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34797,8 +34797,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>number of unique segments - translated vs total in the project</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T231338Z" creationid="eumeu" creationdate="20181115T231338Z">
-        <seg>númerod de segmentos únicos - traducidos vs segmentos totales en el proyecto</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T175956Z" creationid="eumeu" creationdate="20181115T231338Z">
+        <seg>número de segmentos únicos - traducidos vs segmentos totales en el proyecto</seg>
       </tuv>
     </tu>
     <tu>
