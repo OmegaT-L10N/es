@@ -12784,8 +12784,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181130T115421Z" creationid="taty" creationdate="20181116T184557Z">
-        <seg>Subrayandolo en el panel de Glosario y después clicando con el derecho en la posición del cursor en el segmento de destino.</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T142121Z" creationid="taty" creationdate="20181116T184557Z">
+        <seg>Subrayándolo en el panel de Glosario y después clicando con el derecho en la posición del cursor en el segmento de destino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26096,8 +26096,8 @@ actual.</seg>
       <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T113524Z" creationid="taty" creationdate="20181115T233657Z">
-        <seg>La función del glosario encuentra coincidencias exactas solo con la entrada del glosario ( por ejemplo, no encuentra formas inflexas etc.).</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T141916Z" creationid="taty" creationdate="20181115T233657Z">
+        <seg>La función del glosario encuentra coincidencias exactas solo con la entrada del glosario ( por ejemplo, no encuentra formas conjugadas etc.).</seg>
       </tuv>
     </tu>
     <tu>
