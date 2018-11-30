@@ -89,6 +89,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${changedDate}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T174019Z" creationid="eumeu" creationdate="20181130T174019Z">
+        <seg>${changedDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${changedID}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T173949Z" creationid="eumeu" creationdate="20181130T173949Z">
+        <seg>${changedID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${diff}</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T154825Z" creationid="eumeu" creationdate="20181116T154825Z">
@@ -113,10 +129,42 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T173953Z" creationid="eumeu" creationdate="20181130T173953Z">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T175814Z" creationid="eumeu" creationdate="20181130T175814Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${id}</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T154614Z" creationid="eumeu" creationdate="20181116T154614Z">
         <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T174016Z" creationid="eumeu" creationdate="20181130T174016Z">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${initialCreationID}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T174005Z" creationid="eumeu" creationdate="20181130T174005Z">
+        <seg>${initialCreationID}</seg>
       </tuv>
     </tu>
     <tu>
