@@ -2047,8 +2047,8 @@ en modo de trabajo en grupo.)</seg>
       <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T183946Z" creationid="taty" creationdate="20181116T183946Z">
-        <seg>...pero los mismo carácteres se visualizan correctamente en el panel Edición: la extensión y la codificación del archivo no coinciden.</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T144506Z" creationid="taty" creationdate="20181116T183946Z">
+        <seg>...pero los mismos carácteres se visualizan correctamente en el panel Edición: la extensión y la codificación del archivo no coinciden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14344,6 +14344,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151120T120327Z">
         <seg>Cómo instalar OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181130T144649Z" creationid="eumeu" creationdate="20181130T144649Z">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
