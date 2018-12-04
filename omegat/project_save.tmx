@@ -29436,8 +29436,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to change the way your text is segmented into sentences (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T175906Z" creationid="eumeu" creationdate="20181115T213801Z">
-        <seg>Para cambiar la forma en que se segmenta su texto (ir a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Segmentación&lt;/g2&gt; &lt;/m0&gt;, para cerrar pulsar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T170516Z" creationid="eumeu" creationdate="20181115T213801Z">
+        <seg>Para cambiar la forma en que se segmenta el texto en frases (acceder a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Segmentación&lt;/g2&gt; &lt;/m0&gt;, para cerrar pulsar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
