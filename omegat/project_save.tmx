@@ -29444,8 +29444,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt; to open it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T153255Z" creationid="eumeu" creationdate="20181115T211804Z">
-        <seg>Proyectos: para mostrar la estadística de coincidencias del proyecto seleccionar&lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas&lt;/g1&gt;&lt;g3&gt;Estadística de coincidencias&lt;/g3&gt;&lt;/m0&gt;para abrirla.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T162650Z" creationid="eumeu" creationdate="20181115T211804Z">
+        <seg>Para mostrar y abrir las estadísticas de coincidencias del proyecto, seleccionar &lt;m0&gt; &lt;g1&gt; &lt;i2/&gt;Herramientas&lt;/g1&gt; &lt;g3&gt;Estadística de coincidencias&lt;/g3&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
