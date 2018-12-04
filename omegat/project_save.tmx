@@ -29460,8 +29460,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to modify the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; to display source, translation, matches and glossary terms, (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T175845Z" creationid="eumeu" creationdate="20181115T212843Z">
-        <seg>Para modificar la fuente que utiliza &lt;a0&gt;OmegaT&lt;/a0&gt; mostrar la fuente, traducción, coincidencias and términos del glosario, (acceder en &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Fuente...&lt;/g3&gt; &lt;/m1&gt;, para salir pulsar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T165816Z" creationid="eumeu" creationdate="20181115T212843Z">
+        <seg>Para modificar la fuente utilizada por &lt;a0&gt;OmegaT&lt;/a0&gt;. para mostrar el segmento de origen, la traducción, las coincidencias y los términos del glosario, (acceder en &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Fuente...&lt;/g3&gt; &lt;/m1&gt;, para salir pulsar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
     </tu>
     <tu>
