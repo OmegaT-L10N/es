@@ -29420,8 +29420,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T175856Z" creationid="eumeu" creationdate="20181115T212952Z">
-        <seg>Para ajustar el manejo del formato de los archivos admitidos (ir a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Filtro de archivos...&lt;/g2&gt; &lt;/m0&gt;, para salir pulsar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T170253Z" creationid="eumeu" creationdate="20181115T212952Z">
+        <seg>Para ajustar el manejo del formato de los archivos admitidos (acceder a &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Filtros de archivo...&lt;/g2&gt; &lt;/m0&gt;, para salir pulsar &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
