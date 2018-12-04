@@ -29484,8 +29484,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T145522Z" creationid="eumeu" creationdate="20181113T105310Z">
-        <seg>Para validar etiquetas pulsar&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;,para cerrar pulsar&lt;k4&gt;Esc&lt;/k4&gt;&lt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T161220Z" creationid="eumeu" creationdate="20181113T105310Z">
+        <seg>Para validar las etiquetas (abre con &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, para cerrar pulsar &lt;k4&gt;Esc&lt;/k4&gt;)&lt;</seg>
       </tuv>
     </tu>
     <tu>
