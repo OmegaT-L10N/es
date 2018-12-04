@@ -19544,8 +19544,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181126T133353Z" creationid="eumeu" creationdate="20181115T224502Z">
-        <seg>Otros archivos que se hayan soltado se copiarán en &lt;f1&gt;la carpeta&lt;/f1&gt; de los originales.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T175332Z" creationid="eumeu" creationdate="20181115T224502Z">
+        <seg>Otros archivos soltados se copiarán en la carpeta &lt;f1&gt;original&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
