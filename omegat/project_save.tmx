@@ -23435,8 +23435,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181126T132840Z" creationid="eumeu" creationdate="20181115T222929Z">
-        <seg>Si olvida como hizo los cambios en la interfaz de usuario, puede ir a &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Opciones → Restaurar la ventana principal&lt;/g0&gt; en cauqluier momento para regresar a la disposición original.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T174110Z" creationid="eumeu" creationdate="20181115T222929Z">
+        <seg>Si olvida qué cambios hizo en la interfaz de usuario, puede ir a &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Opciones → Restaurar la ventana principal&lt;/g0&gt; en cualquier momento para regresar a la disposición original.</seg>
       </tuv>
     </tu>
     <tu>
