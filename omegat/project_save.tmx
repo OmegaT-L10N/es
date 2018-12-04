@@ -30971,8 +30971,8 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       <tuv lang="EN">
         <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T215223Z" creationid="eumeu" creationdate="20181115T215223Z">
-        <seg>Puede cambiar la posición de cualquier panel o incluso poner en una ventana separada al hacer clic y arrastrar el panel por su nombre. </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T171443Z" creationid="eumeu" creationdate="20181115T215223Z">
+        <seg>Puede cambiar la posición de cualquier panel o incluso ponerlo en una ventana separada haciendo clic y arrastrando el panel por la parte donde figura el nombre.</seg>
       </tuv>
     </tu>
     <tu>
