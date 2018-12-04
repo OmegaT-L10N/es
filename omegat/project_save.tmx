@@ -35390,8 +35390,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>puts the pane back within the main window</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181126T132118Z" creationid="eumeu" creationdate="20181126T132118Z">
-        <seg>reestablecer el panel dentro de la ventana principal</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T172918Z" creationid="eumeu" creationdate="20181126T132118Z">
+        <seg>restablece el panel dentro de la ventana principal</seg>
       </tuv>
     </tu>
     <tu>
