@@ -29468,8 +29468,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to modify the project folders and languages (access via &lt;g0&gt;Ctrl+E &lt;/g0&gt;shortcut or &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;properties...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T175835Z" creationid="eumeu" creationdate="20181115T212554Z">
-        <seg>Para modificar las carpetas e idiomas del proyecto (acceder a través del atajo &lt;g0&gt;Ctrl+E &lt;/g0&gt;o &lt;m1&gt; &lt;g2&gt;Proyecto&lt;/g2&gt; &lt;g3&gt;propiedades...&lt;/g3&gt; &lt;/m1&gt;, para salir pulsar &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T164034Z" creationid="eumeu" creationdate="20181115T212554Z">
+        <seg>Para modificar las carpetas y los idiomas del proyecto (acceder a través del atajo &lt;g0&gt;Ctrl+E &lt;/g0&gt;o &lt;m1&gt; &lt;g2&gt;Proyecto&lt;/g2&gt; &lt;g3&gt;propiedades...&lt;/g3&gt; &lt;/m1&gt;, para salir pulsar &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
       </tuv>
     </tu>
     <tu>
