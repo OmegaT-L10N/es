@@ -34781,8 +34781,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>notes pertaining to the current segment, e.g. alternative translations or the current key in case of key=value file formats</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181126T125858Z" creationid="eumeu" creationdate="20181112T134727Z">
-        <seg>notas que pertenecen al segmento actual. Ej: Traducciones alternativas </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T155059Z" creationid="eumeu" creationdate="20181112T134727Z">
+        <seg>notas que pertenecen al segmento actual, por ejemplo las traducciones alternativas o la clave corriente en caso de clave=valor de formatos de archivo</seg>
       </tuv>
     </tu>
     <tu>
