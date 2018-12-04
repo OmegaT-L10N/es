@@ -26603,8 +26603,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The separators between the panes can be dragged to resize panes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T222834Z" creationid="eumeu" creationdate="20181115T222834Z">
-        <seg>Los separadores entre paneles se pueden arrastrar para reajustar el tamaño de los mismos.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T173555Z" creationid="eumeu" creationdate="20181115T222834Z">
+        <seg>Los separadores entre los paneles se pueden arrastrar para redimensionar el tamaño de los mismos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30272,8 +30272,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="EN">
         <seg>When this is done the panes display a tab at the top.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T222730Z" creationid="eumeu" creationdate="20181115T222730Z">
-        <seg>En este caso los paneles mostrarán una pestaña en la parte superior. </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T173327Z" creationid="eumeu" creationdate="20181115T222730Z">
+        <seg>Cuando esto se hace los paneles muestran una pestaña en la parte superior.</seg>
       </tuv>
     </tu>
     <tu>
