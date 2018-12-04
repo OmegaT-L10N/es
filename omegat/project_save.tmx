@@ -12142,8 +12142,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T224830Z" creationid="eumeu" creationdate="20181115T224830Z">
-        <seg>Paneles de coincidencia aproximadas: Los archivos &lt;f0&gt;.tmx&lt;/f0&gt; soltados se copiarán en la carpeta &lt;f1&gt;tm&lt;/f1&gt; .</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T175630Z" creationid="eumeu" creationdate="20181115T224830Z">
+        <seg>Panel Fuzzy Matches: los archivos &lt;f0&gt;.tmx&lt;/f0&gt; soltados se copiarán en la carpeta &lt;f1&gt;tm&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
