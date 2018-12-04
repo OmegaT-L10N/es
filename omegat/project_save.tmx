@@ -5285,8 +5285,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>Additional windows are available, as well as dialogs, used to change OmegaT project settings.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T132154Z" creationid="eumeu" creationdate="20181112T132154Z">
-        <seg>Hay ventanas adicionales disponibles, así como también cuadros de diálogo, que se utilizan para cambiar la configuración del proyecto de OmegaT.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T154007Z" creationid="eumeu" creationdate="20181112T132154Z">
+        <seg>Son disponibles ventanas adicionales, así como también cuadros de diálogo que se utilizan para cambiar la configuración del proyecto de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
