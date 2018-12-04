@@ -34805,8 +34805,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>number of source and target characters in the current segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T231545Z" creationid="eumeu" creationdate="20181115T231545Z">
-        <seg>número de caractéres del segmento actual de la lengua de origen y llegada</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T183142Z" creationid="eumeu" creationdate="20181115T231545Z">
+        <seg>número de caractéres de origen y destino en el segmento actual</seg>
       </tuv>
     </tu>
     <tu>
