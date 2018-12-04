@@ -12142,8 +12142,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181204T175630Z" creationid="eumeu" creationdate="20181115T224830Z">
-        <seg>Panel Fuzzy Matches: los archivos &lt;f0&gt;.tmx&lt;/f0&gt; soltados se copiarán en la carpeta &lt;f1&gt;tm&lt;/f1&gt; .</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T175719Z" creationid="eumeu" creationdate="20181115T224830Z">
+        <seg>Panel Fuzzy Matches: los archivos soltados &lt;f0&gt;.tmx&lt;/f0&gt; se copiarán en la carpeta &lt;f1&gt;tm&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12398,8 +12398,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T230849Z" creationid="eumeu" creationdate="20181115T230849Z">
-        <seg>Panel de Glosario: Los archivos soltados con las extensiones (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) se copiarán &lt;f2&gt;en la carpeta&lt;/f2&gt; del glosario.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T180141Z" creationid="eumeu" creationdate="20181115T230849Z">
+        <seg>Panel Glosario: Los archivos soltados con extensiones de glosario conocidas (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) se copiarán en la carpeta&lt;f2&gt;glosario&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
