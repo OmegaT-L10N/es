@@ -4597,8 +4597,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Editor pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T231957Z" creationid="eumeu" creationdate="20181115T231957Z">
-        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel de edición&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T183845Z" creationid="eumeu" creationdate="20181115T231957Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel Editor&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9121,8 +9121,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T235127Z" creationid="eumeu" creationdate="20181115T235127Z">
-        <seg>En función del comportamiento del campo de edición, el campo de edición para el segmento sin traducir puede estar vacío, contener el texto fuente o la traducción de la cadena más parecida a la que se va a traducir.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T190246Z" creationid="eumeu" creationdate="20181115T235127Z">
+        <seg>Dependiendo del comportamiento de edición preferente, el campo de edición para el segmento no traducido puede estar vacío, contener el texto de origen o contener la traducción de la cadena más similar a la que se va a traducir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12054,8 +12054,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T231755Z" creationid="eumeu" creationdate="20181115T231755Z">
-        <seg>Desde un punto de vista práctico, el segundo par de números es el importante: dice la cantidad de palabras traducidas, en relación al total o al segundo número.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T183701Z" creationid="eumeu" creationdate="20181115T231755Z">
+        <seg>Desde un punto de vista práctico, el par de números más importante es el segundo par: dice cuánto has hecho hasta ahora, en relación con el total o el segundo número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13734,8 +13734,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T181330Z" creationid="eumeu" creationdate="20181130T181330Z">
-        <seg>Pulsando el botón derecho en el Panel de edición, se abrirá una ventana con las siguientes opciones:&lt;e0&gt; Cortar, Copiar, Pegar&lt;/e0&gt; (ej. las mismas funciones que &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; y &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Ir al segmento&lt;/e10&gt; y &lt;e11&gt;Agregar una entrada de glosario&lt;/e11&gt; functions.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T193410Z" creationid="eumeu" creationdate="20181130T181330Z">
+        <seg>Pulsando el botón derecho en el panel Editor, se abre un menú emergente que ofrece las funciones:&lt;e0&gt; Cortar, Copiar, Pegar&lt;/e0&gt; (es decir, las mismas funciones que &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; y &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Ir al segmento&lt;/e10&gt; y &lt;e11&gt;Agregar entrada de glosario&lt;/e11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13750,8 +13750,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T235517Z" creationid="eumeu" creationdate="20181115T235517Z">
-        <seg>Si quiere que el segmento se quede sin traducir, simplemente deje el campo de edición vacío mediante la eliminación de todo el texto (seleccione todo con &lt;k0&gt;Ctrl+A&lt;/k0&gt; y elimine con &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T191012Z" creationid="eumeu" creationdate="20181115T235517Z">
+        <seg>Si se desea que la traducción sea la misma que de la de origen, simplemente deje el campo de edición vacío eliminando todo el texto (seleccione todo con &lt;k0&gt;Ctrl+A&lt;/k0&gt; y elimine con &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13958,8 +13958,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T181442Z" creationid="eumeu" creationdate="20181130T181442Z">
-        <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T193949Z" creationid="eumeu" creationdate="20181130T181442Z">
+        <seg>Además, cuando el clic derecho se produce en un segmento abierto, se proponen otras opciones relativas a &lt;e12&gt;Traducciónes alternativas&lt;/e12&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -14062,8 +14062,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T234848Z" creationid="eumeu" creationdate="20181115T234848Z">
-        <seg>En ese caso, yy es el número de otras repeticiones del segmento en el proyecto.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T185802Z" creationid="eumeu" creationdate="20181115T234848Z">
+        <seg>En ese caso, yy es el número de otras repeticiones del segmento en el proyecto.&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14110,8 +14110,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>In the above case, the segments already translated are shown in yellow.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T232425Z" creationid="eumeu" creationdate="20181115T232425Z">
-        <seg>En el caso anterior, el párrafo original, ya se ha editado y traducido con OmegaT</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T184639Z" creationid="eumeu" creationdate="20181115T232425Z">
+        <seg>En el caso anterior, los segmentos ya traducidos se muestran en amarillo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14932,8 +14932,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T232539Z" creationid="eumeu" creationdate="20181115T232539Z">
-        <seg>Es el segmento que se muestra en dos partes.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T184723Z" creationid="eumeu" creationdate="20181115T232539Z">
+        <seg>Es el segmento que se visualiza en dos partes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18009,8 +18009,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T234739Z" creationid="eumeu" creationdate="20181115T234739Z">
-        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T185653Z" creationid="eumeu" creationdate="20181115T234739Z">
+        <seg>Nota: el marcador de segmento muestra &lt;l0&gt;&lt;segment nnnn +yy more&gt; cuando el segmento no es único.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18610,8 +18610,8 @@ Computer-Assisted Translation).</seg>
       <tuv lang="EN">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T180034Z" creationid="eumeu" creationdate="20181115T235603Z">
-        <seg>OmegaT puede almacenar las traducciones cuando son idénticas al original.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T191439Z" creationid="eumeu" creationdate="20181115T235603Z">
+        <seg>OmegaT puede almacenar las traducciones que son idénticas al original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19152,8 +19152,8 @@ del sistema que contiene su carpeta particular.</seg>
       <tuv lang="EN">
         <seg>One of the above segments is the current segment.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T232514Z" creationid="eumeu" creationdate="20181115T232514Z">
-        <seg>Uno de los segmentos anteriores es la segmento actual.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T184701Z" creationid="eumeu" creationdate="20181115T232514Z">
+        <seg>Uno de los segmentos anteriores es el segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22609,8 +22609,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T235741Z" creationid="eumeu" creationdate="20181115T235741Z">
-        <seg>Ver &lt;e2&gt;Editando traducción&lt;/e2&gt; para más detalles.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T192517Z" creationid="eumeu" creationdate="20181115T235741Z">
+        <seg>Ver &lt;e2&gt;Edición de traducciones&lt;/e2&gt; para más detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25434,8 +25434,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T232237Z" creationid="eumeu" creationdate="20181115T232237Z">
-        <seg>El panel de edición,muestra el texto del documento parcialmente traducido: el texto ya traducido aparece traducido, y el texto no traducido se muestra en el idioma original.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T184214Z" creationid="eumeu" creationdate="20181115T232237Z">
+        <seg>El panel Editor visualiza el texto del documento parcialmente traducido: el texto ya traducido se visualiza en la traducción mientras que el texto no traducido se visualiza en el idioma original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25904,8 +25904,8 @@ actual.</seg>
       <tuv lang="EN">
         <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T232346Z" creationid="eumeu" creationdate="20181115T232346Z">
-        <seg>El texto mostrado se divide en segmentos, y usted puede desplazarse por el documento y hacer doble clic en cualquier se para editarlo.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T184503Z" creationid="eumeu" creationdate="20181115T232346Z">
+        <seg>El texto visualizado se divide en segmentos, y se puede desplazar por el documento y hacer doble clic en cualquier segmento para abrirlo y editarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26483,8 +26483,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T231903Z" creationid="eumeu" creationdate="20181115T231903Z">
-        <seg>El proyecto en el ejemplo está terminado. Todos los segmentos están traducidos.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T183830Z" creationid="eumeu" creationdate="20181115T231903Z">
+        <seg>El proyecto en el ejemplo está evidentemente terminado, ya que se han traducido todos los segmentos únicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26891,8 +26891,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: &lt;i0/&gt;the marker is &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; where nnnn is a number of the segment in the project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T233200Z" creationid="eumeu" creationdate="20181115T233200Z">
-        <seg>La parte superior está en el idioma original, en negrita con fondo de color verde, la parte inferior es el campo de edición delimitado por dos marcadores: &lt;i0/&gt;el marcador &lt;l1&gt;&lt;segment nnn&gt;&lt;/l1&gt; donde nnnn es su número de segmento en el proyecto.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T185113Z" creationid="eumeu" creationdate="20181115T233200Z">
+        <seg>La parte superior está en el idioma de origen, en negrita con un color de fondo verde, la parte inferior es el campo de edición delimitado por un marcador: &lt;i0/&gt;el marcador es el &lt;l1&gt;&lt;segment nnn&gt;&lt;/l1&gt; donde nnnn es un número de segmento en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27554,8 +27554,8 @@ servidor.</seg>
       <tuv lang="EN">
         <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T235706Z" creationid="eumeu" creationdate="20181115T235706Z">
-        <seg>Es útil para documentos que contienen marcas comerciales, nombres u otros nombres propios, o partes en un tercer dioma que no requieren traducción.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T191908Z" creationid="eumeu" creationdate="20181115T235706Z">
+        <seg>Esto es útil para documentos que contienen marcas comerciales, nombres u otros nombres propios, o partes en un tercer dioma que no requieren traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27570,8 +27570,8 @@ servidor.</seg>
       <tuv lang="EN">
         <seg>This is where you type and edit your translation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T232030Z" creationid="eumeu" creationdate="20181115T232030Z">
-        <seg>Aquí es donde escribe y edita su traducción.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T183909Z" creationid="eumeu" creationdate="20181115T232030Z">
+        <seg>Aquí es donde se escribe y se edita la traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29404,8 +29404,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T233247Z" creationid="eumeu" creationdate="20181115T233247Z">
-        <seg>Utilice la parte de arriba como referencia y reemplace o modifique los contenidos del campo de edición con la traducción.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T185333Z" creationid="eumeu" creationdate="20181115T233247Z">
+        <seg>Se puede utilizar la parte de arriba como referencia y reemplazar o modificar los contenidos del campo de edición con la traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30344,8 +30344,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="EN">
         <seg>When you move to another segment, the translation is validated and stored.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T235201Z" creationid="eumeu" creationdate="20181115T235201Z">
-        <seg>Cuando usted se mueve a otro segmento, la traducción será validada y almacenada.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T190347Z" creationid="eumeu" creationdate="20181115T235201Z">
+        <seg>Al pasar a otro segmento, la traducción es validada y almacenada.</seg>
       </tuv>
     </tu>
     <tu>
