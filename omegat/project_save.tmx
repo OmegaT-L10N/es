@@ -34421,8 +34421,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181126T130803Z" creationid="eumeu" creationdate="20181115T221409Z">
-        <seg>reduce el panel para mostrar sólo su nombre en la parte inferior, cerca de la barra de estado.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T172427Z" creationid="eumeu" creationdate="20181115T221409Z">
+        <seg>reduce el panel de modo que solo se muestre su nombre en la parte inferior de la ventana</seg>
       </tuv>
     </tu>
     <tu>
