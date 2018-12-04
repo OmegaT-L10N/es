@@ -10299,8 +10299,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181115T224320Z" creationid="eumeu" creationdate="20181115T223932Z">
-        <seg>Panel de editor: Si un archivo de proyecto de OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) se suelta en este panel, el proyecto se abrirá, y cerrará primero cualquier proyecto abierto.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T175151Z" creationid="eumeu" creationdate="20181115T223932Z">
+        <seg>Panel Editor: Si un archivo de proyecto de OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) se suelta en este panel, el proyecto correspondiente se abrirá, cerrando primero cualquier otro proyecto abierto.</seg>
       </tuv>
     </tu>
     <tu>
