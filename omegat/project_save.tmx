@@ -29476,8 +29476,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to open the window with the statistics of the project, display it, using &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Statistics.&lt;/g3&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181204T161935Z" creationid="eumeu" creationdate="20181113T175700Z">
-        <seg>Para abrir la ventana con las estadísticas del proyecto y visualizarlo haz clic en &lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas&lt;/g1&gt;&lt;g3&gt;Estadísticas.&lt;/g3&gt;&lt;/m0&gt; </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T162030Z" creationid="eumeu" creationdate="20181113T175700Z">
+        <seg>abrir la ventana con las estadísticas del proyecto y visualizarlo haz clic en &lt;m0&gt;&lt;g1&gt;&lt;i2/&gt;Herramientas&lt;/g1&gt;&lt;g3&gt;Estadísticas.&lt;/g3&gt;&lt;/m0&gt; </seg>
       </tuv>
     </tu>
     <tu>
