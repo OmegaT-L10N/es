@@ -29428,8 +29428,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Used to change how &lt;a0&gt;OmegaT&lt;/a0&gt; behaves when you iterate between the segments (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Behavior...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T175920Z" creationid="eumeu" creationdate="20181115T214500Z">
-        <seg>Para cambiar la forma en que se comporta &lt;a0&gt;OmegaT&lt;/a0&gt; cuando hay repeticiones entre los segmentos (ir a &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Comportamiento...&lt;/g3&gt; &lt;/m1&gt;, para cerrar pulsar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T170810Z" creationid="eumeu" creationdate="20181115T214500Z">
+        <seg>Para cambiar la forma en que se comporta &lt;a0&gt;OmegaT&lt;/a0&gt; cuando hay repeticiones entre los segmentos (acceder a &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Comportamiento...&lt;/g3&gt; &lt;/m1&gt;, para cerrar pulsar &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
     </tu>
     <tu>
