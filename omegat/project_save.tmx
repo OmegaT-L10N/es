@@ -16358,8 +16358,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Machine Translations pane</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T134445Z" creationid="eumeu" creationdate="20181112T134445Z">
-        <seg>Traducción automática</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T154230Z" creationid="eumeu" creationdate="20181112T134445Z">
+        <seg>Panel de traducción automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -32177,8 +32177,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>displays the translation, provided by MT services</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181126T125849Z" creationid="eumeu" creationdate="20181112T134634Z">
-        <seg>muestra la traducción proporcionada por los servicios de Traducción Automática</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181204T154328Z" creationid="eumeu" creationdate="20181112T134634Z">
+        <seg>muestra la traducción, ofrecida por los servicios de Traducción Automática</seg>
       </tuv>
     </tu>
     <tu>
