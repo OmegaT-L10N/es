@@ -105,6 +105,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T164922Z" creationid="taty" creationdate="20181205T164922Z">
+        <seg>${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${diff}</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T154825Z" creationid="eumeu" creationdate="20181116T154825Z">
@@ -115,8 +123,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>${fileNameOnly}</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T155003Z" creationid="eumeu" creationdate="20181116T155003Z">
-        <seg>${Nombre del archivo}</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165255Z" creationid="eumeu" creationdate="20181116T155003Z">
+        <seg>${fileNameOnly}</seg>
       </tuv>
     </tu>
     <tu>
@@ -165,6 +173,22 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181130T174005Z" creationid="eumeu" creationdate="20181130T174005Z">
         <seg>${initialCreationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165148Z" creationid="taty" creationdate="20181205T165148Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165125Z" creationid="taty" creationdate="20181205T165125Z">
+        <seg>${score}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3979,6 +4003,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T152142Z" creationid="taty" creationdate="20181205T151757Z">
+        <seg>&lt;p0&gt;Coincidencias&lt;/p0&gt; &lt;s1&gt;Panel de coincidencias - figuras&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T153908Z" creationid="eumeu" creationdate="20181116T153908Z">
@@ -4547,6 +4579,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Matches&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T154926Z" creationid="taty" creationdate="20181205T154926Z">
+        <seg>&lt;p0&gt;Memorias de traducción&lt;/p0&gt; &lt;s1&gt;Coincidencias&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Orphan segments&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T155017Z" creationid="taty" creationdate="20181205T155017Z">
+        <seg>&lt;p0&gt;Memorias de traducción&lt;/p0&gt; &lt;s1&gt;Segmentos huérfanos&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;User Interface&lt;/p0&gt; &lt;s1&gt;Main OmegaT window&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181204T151054Z" creationid="eumeu" creationdate="20181112T133004Z">
@@ -4557,7 +4605,7 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;User Interface&lt;/p0&gt; &lt;s1&gt;Match pane setup&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T154550Z" creationid="eumeu" creationdate="20181116T154550Z">
+      <tuv lang="ES" changeid="taty" changedate="20181205T164159Z" creationid="eumeu" creationdate="20181116T154550Z">
         <seg>&lt;p0&gt;Interfaz de usuario&lt;/p0&gt; &lt;s1&gt;Configuración del panel de coincidencias&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -4603,10 +4651,21 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T151612Z" creationid="taty" creationdate="20181205T151445Z">
+        <seg>
+&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel de Fuzzy matches&lt;/s1&gt;
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Fuzzy matches pane&lt;/s1&gt; &lt;t2&gt;Customizing&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T153358Z" creationid="eumeu" creationdate="20181116T153358Z">
-        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel de coincidencias parciales&lt;/s1&gt; &lt;t2&gt;Personalizar&lt;/t2&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T163540Z" creationid="eumeu" creationdate="20181116T153358Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel de coincidencias fuzzy&lt;/s1&gt; &lt;t2&gt;Personalizar&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4635,10 +4694,18 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T152303Z" creationid="taty" creationdate="20181205T152303Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel de coincidencias - figuras&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T153949Z" creationid="eumeu" creationdate="20181116T153949Z">
-        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Configuración del panel de coincidencias - figure&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T163908Z" creationid="eumeu" creationdate="20181116T153949Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Configuración del panel de coincidencias - figura&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,6 +6411,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author of the match when the match was created</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165602Z" creationid="taty" creationdate="20181205T165602Z">
+        <seg>Autor de la coincidencia cuando se ha creado la coincidencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192806Z" creationid="hcartagena" creationdate="20151119T192806Z">
@@ -7013,6 +7088,14 @@ correcto.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181109T132638Z" creationid="taty" creationdate="20181109T132638Z">
         <seg>Por Yutaka Kachi (en Japonés). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T145154Z" creationid="taty" creationdate="20181205T145154Z">
+        <seg>Por defecto, no es posible seleccionar palabras en el segmento de origen utilizando el teclado en lugar del ratón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8985,8 +9068,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Customizing the Fuzzy matches pane</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T153645Z" creationid="eumeu" creationdate="20181116T153645Z">
-        <seg>Personalizar el panel de coincidencias parciales</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T163629Z" creationid="eumeu" creationdate="20181116T153645Z">
+        <seg>Personalizar el panel de coincidencias fuzzy</seg>
       </tuv>
     </tu>
     <tu>
@@ -9043,6 +9126,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T180840Z" creationid="taty" creationdate="20181116T180840Z">
         <seg>Los datos exportados desde Trados MultiTerm pueden ser usados como glosarios de &lt;a0&gt;OmegaT&lt;/a0&gt; sin ninguna modificación adicional, siempre que tengan la extensión del archivo &lt;f1&gt;.tab&lt;/f1&gt; y los campos de término de origen y destino sean los primeros dos campos respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was created</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165630Z" creationid="taty" creationdate="20181205T165630Z">
+        <seg>Fecha de la coincidencia cuando se ha creado la coincidencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -12100,6 +12191,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full path of the TMX</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165329Z" creationid="taty" creationdate="20181205T165329Z">
+        <seg>Trayectoria completa de la TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full table</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T233233Z" creationid="Antonio" creationdate="20151127T081020Z">
@@ -12144,6 +12243,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181204T175719Z" creationid="eumeu" creationdate="20181115T224830Z">
         <seg>Panel Fuzzy Matches: los archivos soltados &lt;f0&gt;.tmx&lt;/f0&gt; se copiarán en la carpeta &lt;f1&gt;tm&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy matches pane</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T151820Z" creationid="taty" creationdate="20181205T151634Z">
+        <seg>Panel de coincidencias Fuzzy</seg>
       </tuv>
     </tu>
     <tu>
@@ -13444,6 +13551,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T162203Z" creationid="taty" creationdate="20181205T162203Z">
+        <seg>Si no se visualiza el nombre del archivo, la fuente es la memoria de traducción interna del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T145540Z" creationid="Helli" creationdate="20150526T130710Z">
@@ -13916,6 +14031,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T163830Z" creationid="taty" creationdate="20181205T163830Z">
+        <seg>En &lt;g0&gt;Opciones &gt; TMXs externo&lt;/g0&gt;, una serie de variables permiten configurar la visualización del panel de coincidencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T105658Z" creationid="Antonio" creationdate="20160126T105658Z">
@@ -13958,8 +14081,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181204T193949Z" creationid="eumeu" creationdate="20181130T181442Z">
-        <seg>Además, cuando el clic derecho se produce en un segmento abierto, se proponen otras opciones relativas a &lt;e12&gt;Traducciónes alternativas&lt;/e12&gt; </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T144525Z" creationid="eumeu" creationdate="20181130T181442Z">
+        <seg>Además, cuando el clic derecho se produce en un segmento abierto, se proponen otras opciones relativas a &lt;e12&gt;Traducciónes alternativas&lt;/e12&gt;, por ejemplo saltar a otra instancia de segmentos no únicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14116,6 +14239,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T160026Z" creationid="taty" creationdate="20181205T160026Z">
+        <seg>En el ejemplo de arriba, el segmento de origen es &lt;e0&gt;Comando de menú contextual&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T202417Z" creationid="Helli" creationdate="20150526T115204Z">
@@ -14160,6 +14291,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181109T141855Z" creationid="taty" creationdate="20181109T141855Z">
         <seg>En este cuadro, seleccione o cree una carpeta de archivo de diccionario en su disco rígido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T151316Z" creationid="taty" creationdate="20181205T150815Z">
+        <seg>De esta forma, "&lt;g1&gt;Cursor desactivado&lt;/g1&gt;" se visualiza en la parte inferior del panel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14868,8 +15007,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T001940Z" creationid="eumeu" creationdate="20181115T235940Z">
-        <seg>Es posible arrastrar un texto a la ventana principal y soltarlo dentro del segmento </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T144715Z" creationid="eumeu" creationdate="20181115T235940Z">
+        <seg>Es posible arrastrar un texto desde cualquier lugar de la ventana principal y soltarlo dentro del segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18740,6 +18879,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT match, including numbers, tags</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T163458Z" creationid="taty" creationdate="20181205T163458Z">
+        <seg>Coincidencia OmegaT, incluyendo números, etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181109T134516Z" creationid="taty" creationdate="20181109T134516Z">
@@ -19486,6 +19633,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T162436Z" creationid="taty" creationdate="20181205T162436Z">
+        <seg>Los segmentos huérfanos &lt;i2/&gt; (la coincidencia #2) describen los segmentos en la memoria de traducción predeterminada del proyecto que no tienen un segmento de origen correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphaned</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T232851Z" creationid="Antonio" creationdate="20151127T163338Z">
@@ -19792,6 +19947,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path of the TMX starting from the root of /tm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165453Z" creationid="taty" creationdate="20181205T165453Z">
+        <seg>Ruta de la TMX a partir de la raíz de /tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T233935Z" creationid="hcartagena" creationdate="20151124T233935Z">
@@ -19828,6 +19991,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T154937Z" creationid="eumeu" creationdate="20181116T154937Z">
         <seg>Porcentaje ajustado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage with tokenizer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165142Z" creationid="taty" creationdate="20181205T165142Z">
+        <seg>Porcentaje con tokenizador</seg>
       </tuv>
     </tu>
     <tu>
@@ -20382,6 +20553,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180605T181625Z" creationid="hcartagena" creationdate="20180605T181625Z">
         <seg>Pulse las teclas de acceso directo que desea asignar y luego haga clic en Aceptar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T145829Z" creationid="taty" creationdate="20181205T145829Z">
+        <seg>Pulsando la tecla &lt;k0&gt;F2&lt;/k0&gt; se puede mover el cursor en el segmento de origen (o en cualquier parte del editor) con las flechas del teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22125,6 +22304,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T165118Z" creationid="taty" creationdate="20181205T165118Z">
+        <seg>Igual que ${diff}, pero con las diferencias invertidas (qué hay que insertar y qué hay que borrar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T154945Z" creationid="Antonio" creationdate="20151128T154945Z">
@@ -23697,6 +23884,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T160457Z" creationid="taty" creationdate="20181205T160457Z">
+        <seg>Así las dos coincidencias siguientes. Y la coincidencia #4 es similar pero diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181130T115544Z" creationid="taty" creationdate="20181116T132841Z">
@@ -24049,6 +24244,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source text of the match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T164410Z" creationid="taty" creationdate="20181205T164410Z">
+        <seg>Texto fuente de la coincidencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151116T223143Z" creationid="hcartagena" creationdate="20151116T223143Z">
@@ -24327,6 +24530,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="ES" changeid="Helli" changedate="20150605T113238Z" creationid="Helli" creationdate="20150603T153029Z">
         <seg>Pasos que ha seguido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T164900Z" creationid="taty" creationdate="20181205T164900Z">
+        <seg>La cadena de texto que muestra las diferencias entre la fuente y la coincidencia.&lt;e0&gt; Sugerencia:&lt;/e0&gt; utilice esta opción si el texto que se está traduciendo ha sido actualizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24971,6 +25182,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target text of the match</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T164454Z" creationid="taty" creationdate="20181205T164454Z">
+        <seg>Texto de destino de la coincidencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tatar</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T160856Z" creationid="Antonio" creationdate="20151128T160856Z">
@@ -25225,6 +25444,14 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151209T232700Z" creationid="Antonio" creationdate="20151127T163445Z">
         <seg>Texto a quitar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T144936Z" creationid="taty" creationdate="20181205T144936Z">
+        <seg>El text arrastrado desde fuera del segmento de destino se copia mientras que el texto arrastrado desde dentro del segmento se mueve.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25788,6 +26015,14 @@ configuración.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents can be customized using following variables:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T164121Z" creationid="taty" creationdate="20181205T164121Z">
+        <seg>Los contenidos se pueden personalizar mediante las siguientes variables:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T170847Z" creationid="taty" creationdate="20181116T170847Z">
@@ -25970,6 +26205,14 @@ actual.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181204T144949Z" creationid="taty" creationdate="20181113T180609Z">
         <seg>La extensión debe ser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; (si no, esta se agregará automáticamente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The figure above shows the default match display template.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T164045Z" creationid="taty" creationdate="20181205T164045Z">
+        <seg>La figura de arriba muestra la plantilla de visualización de coincidencias predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26241,6 +26484,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T161456Z" creationid="taty" creationdate="20181205T161456Z">
+        <seg>La línea con el porcentaje de coincidencia también incluye el nombre de la memoria de traducción &lt;i1/&gt; que contiene la coincidencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181116T155028Z" creationid="taty" creationdate="20181116T155028Z">
@@ -26301,6 +26552,22 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181115T214829Z" creationid="eumeu" creationdate="20181115T214829Z">
         <seg>La ventana principal se compone de varios paneles, el menú principal y la barra de estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T153301Z" creationid="taty" creationdate="20181205T153301Z">
+        <seg>El visor de coincidencias muestra los segmentos más similares de las memorias de traducción, tanto de la memoria de traducción interna del proyecto creada en tiempo real a medida que se traduce el proyecto y de las memorias de traducción auxiliares que se han importado de trabajos anteriores, o que se han recibido del cliente o de la agencia de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T155553Z" creationid="taty" creationdate="20181205T155553Z">
+        <seg>El porcentaje de coincidencia es aproximadamente equivalente a tomar el número de palabras comunes en el segmento coincidente y el segmento correspondiente y dividirlo por el número de palabras en el más largo de los dos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26593,6 +26860,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T155854Z" creationid="taty" creationdate="20181205T155854Z">
+        <seg>La coincidencia fuzzy seleccionada estas subrayada en negrita, las palabras que faltan en el segmento que se están traduciendo son de color azul y las palabras adyacentes a las partes faltantes son de color verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="ES" changeid="eumeu" changedate="20181116T151454Z" creationid="eumeu" creationdate="20181116T151454Z">
@@ -26849,6 +27124,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The top match is 100%, because all words match.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T160112Z" creationid="taty" creationdate="20181205T160112Z">
+        <seg>La coincidencia mayor es del 100%, porque todas las palabras coinciden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T191710Z" creationid="hcartagena" creationdate="20151117T191645Z">
@@ -27005,6 +27288,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160126T154159Z" creationid="Antonio" creationdate="20160126T154159Z">
         <seg>Existen diversas restricciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are actually three match estimates available (66/66/30 in the case of the match #4 above).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T162827Z" creationid="taty" creationdate="20181205T162827Z">
+        <seg>Realmente hay tres estimaciones de coincidencias disponibles (66/66/30 en el caso de la coincidencia #4 anterior).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27200,6 +27491,14 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160331T175806Z" creationid="Antonio" creationdate="20160331T175806Z">
         <seg>Comúnmente se crean en procesadores de texto o editores de HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are defined as follows:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T162855Z" creationid="taty" creationdate="20181205T162855Z">
+        <seg>Se definen de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27834,6 +28133,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T151457Z" creationid="taty" creationdate="20181205T150839Z">
+        <seg>Para volver al modo estándar "&lt;g2&gt;Cursor activado&lt;/g2&gt;", pulse de nuevo &lt;k3&gt;F2&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To contribute to &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160125T150608Z" creationid="Antonio" creationdate="20160125T150608Z">
@@ -28110,6 +28417,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="ES" changeid="taty" changedate="20181109T155300Z" creationid="taty" creationdate="20181109T155300Z">
         <seg>Para utilizar diccionarios de ortografía en este formato, renombrar la extensión de archivo de .oxt a .zip y use una aplicación de archivo zip (como WinZip) para extraer los archivos .dic y .aff. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T154845Z" creationid="taty" creationdate="20181205T154845Z">
+        <seg>Para utilizar la coincidencia seleccionada en la traducción, utilize &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; para reemplazar el campo de destino por la coincidencia o utilize &lt;g7&gt;Ctrl+l &lt;i8/&gt;&lt;/g7&gt; para insertarlo en la posición del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30350,6 +30665,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T153747Z" creationid="taty" creationdate="20181205T153747Z">
+        <seg>Al pasar al siguiente segmento, se selecciona automáticamente la primera coincidencia fuzzy (la que tiene el mejor porcentaje de coincidencia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160128T124911Z" creationid="Antonio" creationdate="20160128T124911Z">
@@ -31215,6 +31538,14 @@ La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20160316T192509Z" creationid="Antonio" creationdate="20160316T192509Z">
         <seg>Usted puede cambiar la codificación fuente para cada diferente patrón de nombre de archivo fuente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T154255Z" creationid="taty" creationdate="20181205T154145Z">
+        <seg>Puede seleccionar una coincidencia diferente pulsando &lt;g0&gt;Ctrl+2,3,4 o 5&lt;/g0&gt;.&lt;i1/&gt; Por supuesto pulsando &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; no se habrá ningun efecto, si no hay coincidencia #5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32131,6 +32462,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T144313Z" creationid="Antonio" creationdate="20151128T144313Z">
         <seg>de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>default OmegaT match - number of matched words - with numerals and tags ignored - divided by the total word count</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T163436Z" creationid="taty" creationdate="20181205T163436Z">
+        <seg>coincidencia de OmegaT predeterminada - número de palabras coincidentes - con números y etiquetas ignoradas - dividido por el número total de palabras</seg>
       </tuv>
     </tu>
     <tu>
@@ -34359,6 +34698,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151128T152801Z" creationid="Antonio" creationdate="20151128T152758Z">
         <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>match percentage (taking into account tokenizers)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T163047Z" creationid="taty" creationdate="20181205T163047Z">
+        <seg>porcentaje de coincidencia (teniendo en cuenta los tokenizadores)</seg>
       </tuv>
     </tu>
     <tu>
