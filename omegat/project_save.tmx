@@ -20551,8 +20551,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="EN">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T131030Z" creationid="eumeu" creationdate="20181116T131030Z">
-        <seg>Pulsando &lt;k0&gt;Ctrl+M&lt;/k0&gt;reemplazará el contenido destino del segmento actual .</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T194602Z" creationid="eumeu" creationdate="20181116T131030Z">
+        <seg>Pulsando &lt;k0&gt;Ctrl+M&lt;/k0&gt; reemplazará el contenido del segmento actual por la traducción sugerida.</seg>
       </tuv>
     </tu>
     <tu>
