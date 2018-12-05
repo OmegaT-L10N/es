@@ -14359,6 +14359,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T185925Z" creationid="taty" creationdate="20181205T185925Z">
+        <seg>Indica que esta coincidencia es fuzzy (actualmente sólo para traducciónes de archivos PO con la marca #fuzzy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151117T142555Z" creationid="hcartagena" creationdate="20151117T142555Z">
