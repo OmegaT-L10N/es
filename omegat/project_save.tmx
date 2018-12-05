@@ -91,7 +91,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>${changedDate}</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T174019Z" creationid="eumeu" creationdate="20181130T174019Z">
+      <tuv lang="ES" changeid="taty" changedate="20181205T185535Z" creationid="eumeu" creationdate="20181130T174019Z">
         <seg>${changedDate}</seg>
       </tuv>
     </tu>
@@ -6421,8 +6421,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Author of the match when the match was last updated</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181205T185456Z" creationid="taty" creationdate="20181205T185054Z">
-        <seg>Autor de la coincidencia desde cuando se actualizó por última vez</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T185531Z" creationid="taty" creationdate="20181205T185054Z">
+        <seg>Autor de la coincidencia desde cuando se ha actualizado por última vez</seg>
       </tuv>
     </tu>
     <tu>
@@ -9148,8 +9148,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Date of the match when the match was last updated</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181205T185157Z" creationid="taty" creationdate="20181205T185157Z">
-        <seg>Fecha de la coincidencia cuando ha sido actualizada </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T185602Z" creationid="taty" creationdate="20181205T185157Z">
+        <seg>Fecha de la coincidencia desde cuando se ha actualizado por última vez</seg>
       </tuv>
     </tu>
     <tu>
