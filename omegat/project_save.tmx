@@ -4672,8 +4672,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181204T144541Z" creationid="taty" creationdate="20181116T110942Z">
-        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;panel de Glosario&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T190001Z" creationid="taty" creationdate="20181116T110942Z">
+        <seg>&lt;p0&gt;Ventanas y paneles en OmegaT&lt;/p0&gt; &lt;s1&gt;Panel Glosario&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12513,8 +12513,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181112T133740Z" creationid="eumeu" creationdate="20181112T133740Z">
-        <seg>Panel de glosario</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T190016Z" creationid="eumeu" creationdate="20181112T133740Z">
+        <seg>Panel Glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -25701,8 +25701,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T155256Z" creationid="eumeu" creationdate="20181116T155256Z">
-        <seg>El panel del glosario le permite acceder a su colección privada de expresiones y términos especializados, que se han creado en su archivo de glosario</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T190249Z" creationid="eumeu" creationdate="20181116T155256Z">
+        <seg>El panel Glosario permite acceder a su propia colección de expresiones y terminología especializada, que se han creado en sus archivos de glosario.</seg>
       </tuv>
     </tu>
     <tu>
