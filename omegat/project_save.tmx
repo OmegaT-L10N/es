@@ -6419,6 +6419,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author of the match when the match was last updated</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181205T185054Z" creationid="taty" creationdate="20181205T185054Z">
+        <seg>Autor de la coincidencia cuando ha sido actualizado por última vez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20151119T192806Z" creationid="hcartagena" creationdate="20151119T192806Z">
