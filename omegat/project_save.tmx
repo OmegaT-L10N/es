@@ -15135,8 +15135,8 @@ the user license.</seg>
       <tuv lang="EN">
         <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T155113Z" creationid="eumeu" creationdate="20181116T155113Z">
-        <seg>Muestra los resultados encontrados en el segmento actual</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181205T190625Z" creationid="eumeu" creationdate="20181116T155113Z">
+        <seg>Esto muestra la traducción de términos encontrados en el segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
