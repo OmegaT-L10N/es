@@ -29663,8 +29663,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="EN">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T131842Z" creationid="eumeu" creationdate="20181116T131842Z">
-        <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; para abrirlo y &lt;k2&gt;Esc&lt;/k2&gt; para cerrarlo.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T163706Z" creationid="eumeu" creationdate="20181116T131842Z">
+        <seg>Pulse &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; para abrirlo y &lt;k2&gt;Esc&lt;/k2&gt; para cerrarlo.</seg>
       </tuv>
     </tu>
     <tu>
