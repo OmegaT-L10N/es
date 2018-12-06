@@ -22942,8 +22942,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>See the &lt;e1&gt;Main Menu&lt;/e1&gt; appendix for a full description of all menus and menu items.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T131450Z" creationid="eumeu" creationdate="20181116T131441Z">
-        <seg>Vea el apéndice &lt;e1&gt;Menú principal&lt;/e1&gt; para una descripción completa de todos los menús y sus elementos</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T160349Z" creationid="eumeu" creationdate="20181116T131441Z">
+        <seg>Consulte el apéndice &lt;e1&gt;Menú principal&lt;/e1&gt; para una descripción completa de todos los menús y sus elementos.</seg>
       </tuv>
     </tu>
     <tu>
