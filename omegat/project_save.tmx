@@ -32540,8 +32540,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>displays the most similar segments from translation memories</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181126T125809Z" creationid="eumeu" creationdate="20181112T133726Z">
-        <seg>muestra los segmentos más similares de las memorias de traducción</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T170134Z" creationid="eumeu" creationdate="20181112T133726Z">
+        <seg>visualiza los segmentos más similares de las memorias de traducción</seg>
       </tuv>
     </tu>
     <tu>
