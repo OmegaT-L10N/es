@@ -4323,6 +4323,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="taty" changedate="20181206T165531Z" creationid="taty" creationdate="20181206T165531Z">
+        <seg>&lt;p0&gt;Atajo de teclado&lt;/p0&gt; &lt;s1&gt;Copiar texto - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151130T114729Z" creationid="Antonio" creationdate="20151130T114729Z">
