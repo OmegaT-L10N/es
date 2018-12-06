@@ -27925,8 +27925,8 @@ servidor.</seg>
       <tuv lang="EN">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T133209Z" creationid="eumeu" creationdate="20181116T133209Z">
-        <seg>Este número se mostrará entre paréntesis, al lado del título de "Archivo de proyecto".</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T164109Z" creationid="eumeu" creationdate="20181116T133209Z">
+        <seg>Este número es visualizado entre paréntesis, junto al título "Archivo de proyecto".</seg>
       </tuv>
     </tu>
     <tu>
