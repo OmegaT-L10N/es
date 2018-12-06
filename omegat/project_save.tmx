@@ -32524,8 +32524,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>displays dictionary hits found for items in the current segment</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181204T153047Z" creationid="eumeu" creationdate="20181112T134420Z">
-        <seg>muestra los resultados del diccionario encontrados para los elementos en el segmento actual</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T170154Z" creationid="eumeu" creationdate="20181112T134420Z">
+        <seg>visualiza los resultados del diccionario encontrados para los elementos en el segmento actual</seg>
       </tuv>
     </tu>
     <tu>
