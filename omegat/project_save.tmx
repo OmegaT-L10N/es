@@ -27456,8 +27456,8 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       <tuv lang="EN">
         <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T132138Z" creationid="eumeu" creationdate="20181116T132138Z">
-        <seg>Estos son los archivos presentes en el subdirectorio fuente, en el formato que OmegaT reconoce.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T163906Z" creationid="eumeu" creationdate="20181116T132138Z">
+        <seg>Estos son los archivos presentes en la carpeta /origen en un formato que OmegaT reconoce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36489,8 +36489,8 @@ directorio de configuración.</seg>
       <tuv lang="EN">
         <seg>the total number of translatable files in the project.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T131948Z" creationid="eumeu" creationdate="20181116T131948Z">
-        <seg>el número total de los archivos traducibles en el proyecto.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T163753Z" creationid="eumeu" creationdate="20181116T131948Z">
+        <seg>el número total de archivos traducibles en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
