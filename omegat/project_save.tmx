@@ -4005,8 +4005,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181205T152142Z" creationid="taty" creationdate="20181205T151757Z">
-        <seg>&lt;p0&gt;Coincidencias&lt;/p0&gt; &lt;s1&gt;Panel de coincidencias - figuras&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T170249Z" creationid="taty" creationdate="20181205T151757Z">
+        <seg>&lt;p0&gt;Coincidencias&lt;/p0&gt; &lt;s1&gt;Panel de coincidencias - figura&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14369,8 +14369,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181205T185925Z" creationid="taty" creationdate="20181205T185925Z">
-        <seg>Indica que esta coincidencia es fuzzy (actualmente sólo para traducciónes de archivos PO con la marca #fuzzy)</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T170325Z" creationid="taty" creationdate="20181205T185925Z">
+        <seg>Indica que esta coincidencia es fuzzy (actualmente solo para traducciónes de archivos PO con la marca #fuzzy)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26942,8 +26942,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181206T165009Z" creationid="eumeu" creationdate="20181116T134151Z">
-        <seg>El conjunto de segmentos &lt;s0&gt;Unicos &lt;/s0&gt;es calculado tomando todos los segmentos y eliminando todos los duplicados.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T170403Z" creationid="eumeu" creationdate="20181116T134151Z">
+        <seg>El conjunto de segmentos &lt;e0&gt;Unicos &lt;/e0&gt;es calculado tomando todos los segmentos y eliminando todos los duplicados.</seg>
       </tuv>
     </tu>
     <tu>
