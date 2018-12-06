@@ -22748,8 +22748,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Search window</seg>
       </tuv>
-      <tuv lang="ES" changeid="Helli" changedate="20150526T154856Z" creationid="Helli" creationdate="20150526T154856Z">
-        <seg>Busacar ventana</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T165158Z" creationid="Helli" creationdate="20150526T154856Z">
+        <seg>Ventana Búsqueda</seg>
       </tuv>
     </tu>
     <tu>
