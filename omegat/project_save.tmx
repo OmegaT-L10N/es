@@ -26566,8 +26566,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The main menu provides access to all &lt;a0&gt;OmegaT&lt;/a0&gt; functions.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T000918Z" creationid="eumeu" creationdate="20181116T000918Z">
-        <seg>A través del menú principal puede acceder&lt;a0&gt;a todas las funciones&lt;/a0&gt; de OmegaT.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T160238Z" creationid="eumeu" creationdate="20181116T000918Z">
+        <seg>A través del menú principal se puede acceder a todas las funcione de &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
