@@ -3997,8 +3997,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Match Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T153209Z" creationid="eumeu" creationdate="20181116T153209Z">
-        <seg>&lt;p0&gt;Estadísticas de Coincidencias&lt;/p0&gt; &lt;s1&gt;Menú de herramientas&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T165659Z" creationid="eumeu" creationdate="20181116T153209Z">
+        <seg>&lt;p0&gt;Estadísticas de coincidencias&lt;/p0&gt; &lt;s1&gt;Menú herramientas&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4021,8 +4021,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;Help browser&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T000314Z" creationid="eumeu" creationdate="20181116T000314Z">
-        <seg>&lt;p0&gt;Ayuda&lt;/p0&gt; &lt;s1&gt;Navegador de ayuda&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T165820Z" creationid="eumeu" creationdate="20181116T000314Z">
+        <seg>&lt;p0&gt;Menú Ayuda&lt;/p0&gt; &lt;s1&gt;Navegador de ayuda&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4325,8 +4325,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Copy text - Ctrl+C&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181206T165531Z" creationid="taty" creationdate="20181206T165531Z">
-        <seg>&lt;p0&gt;Atajo de teclado&lt;/p0&gt; &lt;s1&gt;Copiar texto - Ctrl+C&lt;/s1&gt;</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T165541Z" creationid="taty" creationdate="20181206T165531Z">
+        <seg>&lt;p0&gt;Atajos de teclado&lt;/p0&gt; &lt;s1&gt;Copiar texto - Ctrl+C&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16953,8 +16953,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="EN">
         <seg>Match statistics</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T000346Z" creationid="eumeu" creationdate="20181116T000346Z">
-        <seg>Estadística de Coincidencias</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T165709Z" creationid="eumeu" creationdate="20181116T000346Z">
+        <seg>Estadísticas de coincidencias</seg>
       </tuv>
     </tu>
     <tu>
