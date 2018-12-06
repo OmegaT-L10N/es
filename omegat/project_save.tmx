@@ -25837,8 +25837,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="EN">
         <seg>The Project Files window lists the project files and displays other project information.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T131711Z" creationid="eumeu" creationdate="20181116T131711Z">
-        <seg>La ventana Archivos del proyecto, lista los archivos del proyecto y muestra información del proyecto.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T162005Z" creationid="eumeu" creationdate="20181116T131711Z">
+        <seg>La ventana Archivos del proyecto enumera los archivos del proyecto y visualiza otra información del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
