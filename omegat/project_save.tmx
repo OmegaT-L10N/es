@@ -26630,8 +26630,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T131550Z" creationid="eumeu" creationdate="20181116T131550Z">
-        <seg>Las funciones utilizadas más frecuentemente son accesibles con atajos de teclado, así que una vez se acostumbre a ellos, ya no va a haber ninguna necesidad de navegar por los menús mientras traduce.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T160759Z" creationid="eumeu" creationdate="20181116T131550Z">
+        <seg>Las funciones más utilizadas son accesibles con atajos de teclado, así que una vez se acostumbre a utilizarlos, no tendrá ninguna necesidad de navegar por el menú mientras traduce.</seg>
       </tuv>
     </tu>
     <tu>
