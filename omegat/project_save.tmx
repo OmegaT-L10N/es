@@ -25104,8 +25104,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="EN">
         <seg>Tag validation window</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T000611Z" creationid="eumeu" creationdate="20181116T000611Z">
-        <seg>Ventana de validación de etiqueta</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T165420Z" creationid="eumeu" creationdate="20181116T000611Z">
+        <seg>Ventana Validación de etiqueta</seg>
       </tuv>
     </tu>
     <tu>
