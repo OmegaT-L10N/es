@@ -6413,8 +6413,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Author of the match when the match was created</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181205T165602Z" creationid="taty" creationdate="20181205T165602Z">
-        <seg>Autor de la coincidencia cuando se ha creado la coincidencia</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T155306Z" creationid="taty" creationdate="20181205T165602Z">
+        <seg>Autor de la coincidencia desde cuando se ha creado la coincidencia</seg>
       </tuv>
     </tu>
     <tu>
