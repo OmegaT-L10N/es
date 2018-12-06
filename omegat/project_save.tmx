@@ -14865,8 +14865,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="EN">
         <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T131631Z" creationid="eumeu" creationdate="20181116T131631Z">
-        <seg>También muestra el número de coincidencias parciales y del glosario para el segmento actual.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T161808Z" creationid="eumeu" creationdate="20181116T131631Z">
+        <seg>También muestra el número de coincidencias fuzzy y de glosario para el segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
