@@ -7742,8 +7742,8 @@ correcto.</seg>
       <tuv lang="EN">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181116T133455Z" creationid="eumeu" creationdate="20181116T133455Z">
-        <seg>Al hacer clic en algún archivo este se abrirá para su traducción.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T164716Z" creationid="eumeu" creationdate="20181116T133455Z">
+        <seg>Al hacer clic en cualquier archivo, este se abrirá para la traducción.</seg>
       </tuv>
     </tu>
     <tu>
