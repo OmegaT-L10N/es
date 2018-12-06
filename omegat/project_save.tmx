@@ -9140,8 +9140,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="EN">
         <seg>Date of the match when the match was created</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181205T165630Z" creationid="taty" creationdate="20181205T165630Z">
-        <seg>Fecha de la coincidencia cuando se ha creado la coincidencia</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181206T155343Z" creationid="taty" creationdate="20181205T165630Z">
+        <seg>Fecha de la coincidencia desde cuando se ha creado la coincidencia</seg>
       </tuv>
     </tu>
     <tu>
