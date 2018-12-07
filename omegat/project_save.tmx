@@ -3917,8 +3917,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt; &lt;t2&gt;multiple-words entries&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181116T120119Z" creationid="taty" creationdate="20181116T115632Z">
-        <seg>&lt;p0&gt;Glosarios&lt;/p0&gt; &lt;s1&gt;panel de Glosario&lt;/s1&gt; &lt;t2&gt;entradas de varias palabras&lt;/t2&gt; </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181207T120744Z" creationid="taty" creationdate="20181116T115632Z">
+        <seg>&lt;p0&gt;Glosarios&lt;/p0&gt; &lt;s1&gt;panel Glosario&lt;/s1&gt; &lt;t2&gt;entradas de varias palabras&lt;/t2&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -12425,8 +12425,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181130T114953Z" creationid="taty" creationdate="20181115T232447Z">
-        <seg>Glosarios, panel de Glosario </seg>
+      <tuv lang="ES" changeid="taty" changedate="20181207T120656Z" creationid="taty" creationdate="20181115T232447Z">
+        <seg>Glosarios, panel Glosario </seg>
       </tuv>
     </tu>
     <tu>
