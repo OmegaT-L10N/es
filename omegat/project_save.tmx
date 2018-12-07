@@ -12963,8 +12963,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T142121Z" creationid="taty" creationdate="20181116T184557Z">
-        <seg>Subrayándolo en el panel de Glosario y después clicando con el derecho en la posición del cursor en el segmento de destino.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181207T120813Z" creationid="taty" creationdate="20181116T184557Z">
+        <seg>Subrayándolo en el panel Glosario y después clicando con el derecho en la posición del cursor en el segmento de destino.</seg>
       </tuv>
     </tu>
     <tu>
