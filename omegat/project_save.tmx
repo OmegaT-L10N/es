@@ -13347,8 +13347,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="ES" changeid="eumeu" changedate="20181130T140027Z" creationid="taty" creationdate="20181113T180013Z">
-        <seg>Si un proyecto de &lt;a0&gt;OmegaT&lt;/a0&gt; contiene uno o más glosarios, los términos en el Glosario que también se encuentran en el segmento actual se mostrarán automáticamente en el visor de Glosario.</seg>
+      <tuv lang="ES" changeid="taty" changedate="20181207T120523Z" creationid="taty" creationdate="20181113T180013Z">
+        <seg>Si un proyecto de &lt;a0&gt;OmegaT&lt;/a0&gt; contiene uno o más glosarios, los términos en el glosario que también se encuentran en el segmento actual se mostrarán automáticamente en el visor de Glosario.</seg>
       </tuv>
     </tu>
     <tu>
