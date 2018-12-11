@@ -1767,6 +1767,14 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181211T100724Z" creationid="eumeu" creationdate="20181211T100724Z">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(This is not the case for the website localization files.)</seg>
       </tuv>
       <tuv lang="ES" changeid="Cristina" changedate="20170924T150027Z" creationid="Cristina" creationdate="20170924T150027Z">
