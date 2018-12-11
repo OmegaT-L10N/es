@@ -14887,6 +14887,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181211T100726Z" creationid="eumeu" creationdate="20181211T100726Z">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="ES" changeid="Antonio" changedate="20151210T203546Z" creationid="Helli" creationdate="20150603T151136Z">
