@@ -26942,8 +26942,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="EN">
         <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
       </tuv>
-      <tuv lang="ES" changeid="taty" changedate="20181206T170403Z" creationid="eumeu" creationdate="20181116T134151Z">
-        <seg>El conjunto de segmentos &lt;e0&gt;Unicos &lt;/e0&gt;es calculado tomando todos los segmentos y eliminando todos los duplicados.</seg>
+      <tuv lang="ES" changeid="eumeu" changedate="20181211T095152Z" creationid="eumeu" creationdate="20181116T134151Z">
+        <seg>El conjunto de segmentos &lt;e0&gt;únicos &lt;/e0&gt;se calcula tomando todos los segmentos y eliminando todos los duplicados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29109,6 +29109,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="ES" changeid="hcartagena" changedate="20151124T225903Z" creationid="hcartagena" creationdate="20151124T225903Z">
         <seg>Tipos:
 La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="eumeu" changedate="20181211T095137Z" creationid="eumeu" creationdate="20181211T095137Z">
+        <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
       </tuv>
     </tu>
     <tu>
