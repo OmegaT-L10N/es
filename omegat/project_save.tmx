@@ -27755,6 +27755,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command does not work once the modified segment has been validated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T221626Z" creationid="nenyavie" creationdate="20191209T221626Z">
+        <seg>Este comando no funciona después de validar el segmento que se ha modificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T163750Z" creationid="Antonio" creationdate="20151127T163750Z">
