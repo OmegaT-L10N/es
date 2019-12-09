@@ -22024,6 +22024,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores the status before the last editing action was taken.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T221310Z" creationid="nenyavie" creationdate="20191209T221310Z">
+        <seg>Restaura al estado anterior a la última acción llevada a cabo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Result:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T173718Z" creationid="Antonio" creationdate="20151127T173718Z">
