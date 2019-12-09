@@ -27963,6 +27963,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T221058Z" creationid="nenyavie" creationdate="20191209T221058Z">
+        <seg>Este menú solo muestra entradas cuando hay un proyecto abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T164109Z" creationid="eumeu" creationdate="20181116T133209Z">
