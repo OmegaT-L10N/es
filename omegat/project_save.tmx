@@ -21816,6 +21816,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T222729Z" creationid="nenyavie" creationdate="20191209T222729Z">
+        <seg>Sustituye el segmento traducido íntegro por la coincidencia aproximada seleccionada (de manera predeterminada se selecciona la primera).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T220250Z" creationid="hcartagena" creationdate="20160331T220250Z">
