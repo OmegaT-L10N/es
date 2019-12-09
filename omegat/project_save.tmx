@@ -14487,6 +14487,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T223159Z" creationid="nenyavie" creationdate="20191209T223159Z">
+        <seg>Insertar la coincidencia o selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T174813Z" creationid="Antonio" creationdate="20151127T174813Z">
@@ -14571,6 +14579,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T150831Z" creationid="Antonio" creationdate="20160126T150831Z">
         <seg>Insertar la coincidencia parcial más parecida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T223347Z" creationid="nenyavie" creationdate="20191209T223347Z">
+        <seg>Inserta la coincidencia aproximada seleccionada en la posición del cursor.</seg>
       </tuv>
     </tu>
     <tu>
