@@ -21856,6 +21856,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T224137Z" creationid="nenyavie" creationdate="20191209T224137Z">
+        <seg>Sustituye el segmento traducido con la traducción del servicio de traducción automática seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191209T222729Z" creationid="nenyavie" creationdate="20191209T222729Z">
