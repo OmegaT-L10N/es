@@ -13527,6 +13527,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T223133Z" creationid="nenyavie" creationdate="20191209T223133Z">
+        <seg>Cuando se seleccione un fragmento de la coincidencia aproximada será únicamente este texto el que sustituya el segmento traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185826Z" creationid="Antonio" creationdate="20151210T185826Z">
