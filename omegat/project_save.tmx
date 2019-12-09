@@ -21776,6 +21776,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T222202Z" creationid="nenyavie" creationdate="20191209T222202Z">
+        <seg>Reemplazar por la coincidencia o selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace With Source</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T151649Z" creationid="Helli" creationdate="20150526T131817Z">
@@ -22020,6 +22028,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T162944Z" creationid="Helli" creationdate="20150526T143711Z">
         <seg>Restaurar ventana principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the status before the last editing action was cancelled.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T221914Z" creationid="nenyavie" creationdate="20191209T221914Z">
+        <seg>Restaura al estado anterior a la cancelación de la última acción llevada a cabo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29379,8 +29395,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T151506Z" creationid="Helli" creationdate="20150526T131647Z">
-        <seg>Deshacer la última Acción</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20191209T221808Z" creationid="Helli" creationdate="20150526T131647Z">
+        <seg>Deshacer la última acción</seg>
       </tuv>
     </tu>
     <tu>
