@@ -17870,6 +17870,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T091844Z" creationid="nenyavie" creationdate="20191210T091844Z">
+        <seg>No hay acción si no se activa ningún servicio de traducción áautomtica (en &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;traducción automática&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T230817Z" creationid="Antonio" creationdate="20151127T171527Z">
