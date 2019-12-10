@@ -13503,6 +13503,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text has been selected, the current source segment is written to this file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T093143Z" creationid="nenyavie" creationdate="20191210T093143Z">
+        <seg>Si no se selecciona ningún texto, se escribirá todo el segmento original en dicho archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170912T183218Z" creationid="Cristina" creationdate="20170822T183640Z">
@@ -30813,6 +30821,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T105634Z" creationid="Antonio" creationdate="20160126T105634Z">
         <seg>Cuando se pasa de un segmento a otro, puede que prefiera rellenar el campo de edición con la traducción que aparece en el panel de coincidencias parciales, o bien con el texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T093700Z" creationid="nenyavie" creationdate="20191210T093700Z">
+        <seg>Al salir de &lt;a0&gt;OmegaT&lt;/a0&gt;, este archivo no se vacía para mantener la consistencia del comportamiento del portapapeles.</seg>
       </tuv>
     </tu>
     <tu>
