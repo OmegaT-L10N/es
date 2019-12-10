@@ -5710,6 +5710,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the user create an entry in the default glossary file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T094613Z" creationid="nenyavie" creationdate="20191210T094613Z">
+        <seg>Permite al usuario crear un término en el archivo predeterminado del glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233837Z" creationid="hcartagena" creationdate="20151124T233837Z">
