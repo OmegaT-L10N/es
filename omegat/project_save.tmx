@@ -14527,6 +14527,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T092357Z" creationid="nenyavie" creationdate="20191210T092357Z">
+        <seg>Insertar las etiquetas originales que faltan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T210339Z" creationid="Helli" creationdate="20150526T132155Z">
@@ -14599,6 +14607,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T092621Z" creationid="nenyavie" creationdate="20191210T092621Z">
+        <seg>Inserta solo una etiqueta (entre las que faltan) en la posición del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191209T223347Z" creationid="nenyavie" creationdate="20191209T223347Z">
@@ -14611,6 +14627,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191210T092243Z" creationid="nenyavie" creationdate="20191210T092243Z">
         <seg>Inserta el original en la posición del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T092455Z" creationid="nenyavie" creationdate="20191210T092455Z">
+        <seg>Inserta las etiquetas originales (si falta alguna) en la posición del cursor.</seg>
       </tuv>
     </tu>
     <tu>
