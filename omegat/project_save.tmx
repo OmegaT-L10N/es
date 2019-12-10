@@ -17872,8 +17872,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20191210T091844Z" creationid="nenyavie" creationdate="20191210T091844Z">
-        <seg>No hay acción si no se activa ningún servicio de traducción áautomtica (en &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;traducción automática&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T092043Z" creationid="nenyavie" creationdate="20191210T091844Z">
+        <seg>No hay acción si no se activa ningún servicio de traducción automática (en &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;traducción automática&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21852,6 +21852,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T151624Z" creationid="Helli" creationdate="20150526T131809Z">
         <seg>Reemplazar con la traducción automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T091901Z" creationid="nenyavie" creationdate="20191210T091901Z">
+        <seg>Reemplazar con el original</seg>
       </tuv>
     </tu>
     <tu>
