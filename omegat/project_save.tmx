@@ -14607,6 +14607,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inserts the source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T092243Z" creationid="nenyavie" creationdate="20191210T092243Z">
+        <seg>Inserta el original en la posición del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T195205Z" creationid="Víctor Parra" creationdate="20151126T195205Z">
@@ -21884,6 +21892,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191209T222729Z" creationid="nenyavie" creationdate="20191209T222729Z">
         <seg>Sustituye el segmento traducido íntegro por la coincidencia aproximada seleccionada (de manera predeterminada se selecciona la primera).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the whole target segment with the source.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T092149Z" creationid="nenyavie" creationdate="20191210T092149Z">
+        <seg>Sustituye el segmento traducido íntegro con el original.</seg>
       </tuv>
     </tu>
     <tu>
