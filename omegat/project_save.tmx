@@ -11143,6 +11143,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exports the current selection to a text file for processing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T092855Z" creationid="nenyavie" creationdate="20191210T092855Z">
+        <seg>Exporta el fragmento seleccionado a un archivo de texto para procesarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T032100Z" creationid="hcartagena" creationdate="20180605T032100Z">
@@ -14537,8 +14545,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151210T210339Z" creationid="Helli" creationdate="20150526T132155Z">
-        <seg>Insertar la siguiente etiqueta ausente</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T092648Z" creationid="Helli" creationdate="20150526T132155Z">
+        <seg>Insertar la siguiente etiqueta que falte</seg>
       </tuv>
     </tu>
     <tu>
