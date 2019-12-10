@@ -26417,6 +26417,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20191210T094310Z" creationid="nenyavie" creationdate="20191210T094310Z">
+        <seg>El contenido exportado se copia en el archivo &lt;f1&gt;selection.txt&lt;/f1&gt; de la carpeta de preferencias del usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T144949Z" creationid="taty" creationdate="20181113T180609Z">
