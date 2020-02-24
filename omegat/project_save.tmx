@@ -9058,6 +9058,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201806Z" creationid="nenyavie" creationdate="20200224T201806Z">
+        <seg>Cursor bloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201818Z" creationid="nenyavie" creationdate="20200224T201818Z">
+        <seg>Cursor desbloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom Co&amp;lours...</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T204146Z" creationid="hcartagena" creationdate="20151116T204146Z">
@@ -14567,6 +14583,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201833Z" creationid="nenyavie" creationdate="20200224T201833Z">
+        <seg>Modo Insertar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191210T092648Z" creationid="Helli" creationdate="20150526T132155Z">
@@ -15795,6 +15819,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T221805Z" creationid="hcartagena" creationdate="20151116T221805Z">
         <seg>Registr&amp;o de eventos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T202053Z" creationid="nenyavie" creationdate="20200224T202053Z">
+        <seg>BLOQ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18538,6 +18570,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201922Z" creationid="nenyavie" creationdate="20200224T201922Z">
+        <seg>SOB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Obtain the .dic and .aff files of the dictionary you wish to use, and place these files in this folder.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T144335Z" creationid="taty" creationdate="20181109T144335Z">
@@ -19949,6 +19989,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T232840Z" creationid="Antonio" creationdate="20151127T163402Z">
         <seg>Desordenada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201826Z" creationid="nenyavie" creationdate="20200224T201826Z">
+        <seg>Modo de sobrescritura</seg>
       </tuv>
     </tu>
     <tu>
@@ -29397,6 +29445,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T193423Z" creationid="hcartagena" creationdate="20151117T193423Z">
         <seg>&amp;Sin traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201923Z" creationid="nenyavie" creationdate="20200224T201923Z">
+        <seg>UNL</seg>
       </tuv>
     </tu>
     <tu>
