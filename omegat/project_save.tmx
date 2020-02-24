@@ -6722,6 +6722,18 @@ correcto.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T203722Z" creationid="nenyavie" creationdate="20200224T203722Z">
+        <seg>El del bar voceó:
+tu página no se encontró,
+pide otro trago, monada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="en">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
