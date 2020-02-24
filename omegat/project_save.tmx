@@ -369,6 +369,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201640Z" creationid="nenyavie" creationdate="20200224T201640Z">
+        <seg>Buscar &amp;automáticamente el texto del segmento en el diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T192147Z" creationid="hcartagena" creationdate="20151116T192147Z">
@@ -22886,6 +22894,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T181122Z" creationid="hcartagena" creationdate="20180605T181122Z">
         <seg>Buscar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201738Z" creationid="nenyavie" creationdate="20200224T201738Z">
+        <seg>Buscar en diccionarios</seg>
       </tuv>
     </tu>
     <tu>
