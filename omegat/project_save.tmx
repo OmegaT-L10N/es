@@ -10700,6 +10700,18 @@ su página de ayuda no encontrada</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T205509Z" creationid="nenyavie" creationdate="20200224T205509Z">
+        <seg>Página efímera,
+soy la pantalla azul de la muerte,
+¡nadie le oirá gritar!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="en">
         <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
