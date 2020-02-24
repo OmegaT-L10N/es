@@ -10471,6 +10471,18 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T205310Z" creationid="nenyavie" creationdate="20200224T205310Z">
+        <seg>Con el alma desolada
+duele fuerte la negrura
+su página de ayuda no encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="en">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
@@ -20101,10 +20113,10 @@ del sistema que contiene su carpeta particular.</seg>
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200224T204239Z" creationid="nenyavie" creationdate="20200224T204239Z">
-        <seg>La página se escurre entre los dedos
-El pulso martillea alocado
-Cual bruma se disipa</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T204913Z" creationid="nenyavie" creationdate="20200224T204239Z">
+        <seg>La página se escurre entre los dedos,
+el pulso martillea alocado,
+cual bruma se disipa</seg>
       </tuv>
     </tu>
     <tu>
@@ -26793,10 +26805,10 @@ actual.</seg>
 Lies beyond our perception
 But others await</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200224T204809Z" creationid="nenyavie" creationdate="20200224T204809Z">
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T205049Z" creationid="nenyavie" creationdate="20200224T204809Z">
         <seg>La página de ayuda que buscas
 se esconde más allá de los sentidos
-</seg>
+mas otras te dan la bienvenida</seg>
       </tuv>
     </tu>
     <tu>
@@ -27810,10 +27822,10 @@ la ubicación del directorio de configuración de OmegaT.</seg>
 Death, taxes, and page not found
 You, victim of one</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200224T204512Z" creationid="nenyavie" creationdate="20200224T204512Z">
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T204945Z" creationid="nenyavie" creationdate="20200224T204512Z">
         <seg>Tres cosas son seguras:
-La muerte, los impuestos y las páginas no encontradas
-una de ellas te pilló</seg>
+la muerte, los impuestos y las páginas no encontradas;
+una de ellas te alcanzó</seg>
       </tuv>
     </tu>
     <tu>
