@@ -13265,6 +13265,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T202639Z" creationid="nenyavie" creationdate="20200224T202639Z">
+        <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151118T191836Z" creationid="hcartagena" creationdate="20151118T191836Z">
