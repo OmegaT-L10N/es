@@ -27793,6 +27793,18 @@ la ubicación del directorio de configuración de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T204512Z" creationid="nenyavie" creationdate="20200224T204512Z">
+        <seg>Tres cosas son seguras:
+La muerte, los impuestos y las páginas no encontradas
+una de ellas te pilló</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="en">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
