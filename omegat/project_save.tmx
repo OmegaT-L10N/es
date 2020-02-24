@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_3137b086" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16855,6 +16855,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T201141Z" creationid="nenyavie" creationdate="20200224T201141Z">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T204014Z" creationid="hcartagena" creationdate="20151116T204014Z">
@@ -17233,6 +17241,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181109T122850Z" creationid="eumeu" creationdate="20181109T122850Z">
         <seg>Menu and Keyboard shortcuts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T200958Z" creationid="nenyavie" creationdate="20200224T200958Z">
+        <seg>Menús</seg>
       </tuv>
     </tu>
     <tu>
