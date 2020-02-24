@@ -20096,6 +20096,18 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200224T204239Z" creationid="nenyavie" creationdate="20200224T204239Z">
+        <seg>La página se escurre entre los dedos
+El pulso martillea alocado
+Cual bruma se disipa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="en">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
