@@ -8012,6 +8012,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112603Z" creationid="nenyavie" creationdate="20200225T112603Z">
+        <seg>Comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T110304Z" creationid="nenyavie" creationdate="20200225T110304Z">
@@ -9430,6 +9438,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112633Z" creationid="nenyavie" creationdate="20200225T112633Z">
+        <seg>Delimitador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT (user interface and documentation) or upload it to the website (website pages).</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T162107Z" creationid="Cristina" creationdate="20170924T161239Z">
@@ -10490,8 +10506,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T112404Z" creationid="nenyavie" creationdate="20200225T112404Z">
-        <seg>Ed&amp;it</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112433Z" creationid="nenyavie" creationdate="20200225T112404Z">
+        <seg>Edit&amp;ar</seg>
       </tuv>
     </tu>
     <tu>
@@ -10504,10 +10520,26 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112555Z" creationid="nenyavie" creationdate="20200225T112555Z">
+        <seg>Editar comando de búsqueda externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T110623Z" creationid="nenyavie" creationdate="20200225T110623Z">
         <seg>Edita el elemento de búsqueda externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112517Z" creationid="nenyavie" creationdate="20200225T112517Z">
+        <seg>Editar URL de búsqueda externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10785,6 +10817,14 @@ su página de ayuda no encontrada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T223545Z" creationid="hcartagena" creationdate="20151116T223545Z">
         <seg>Codificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112612Z" creationid="nenyavie" creationdate="20200225T112612Z">
+        <seg>Codificación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22264,8 +22304,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remo&amp;ve</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T112357Z" creationid="nenyavie" creationdate="20200225T112357Z">
-        <seg>Elimin&amp;ar</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112525Z" creationid="nenyavie" creationdate="20200225T112357Z">
+        <seg>Quit&amp;ar</seg>
       </tuv>
     </tu>
     <tu>
@@ -26166,6 +26206,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112608Z" creationid="nenyavie" creationdate="20200225T112608Z">
+        <seg>Destino:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tatar</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T160856Z" creationid="Antonio" creationdate="20151128T160856Z">
@@ -26849,6 +26897,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20150603T235428Z" creationid="Usuario" creationdate="20150603T235428Z">
         <seg>El servicio de TAA en https://demo.taas-project.eu/info ofrece servicios de terminología de las lenguas europeas (además de ruso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112819Z" creationid="nenyavie" creationdate="20200225T112819Z">
+        <seg>La URL debe incluir "{destino}", que se reemplazará por el texto buscado.</seg>
       </tuv>
     </tu>
     <tu>
