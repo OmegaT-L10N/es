@@ -12455,6 +12455,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134336Z" creationid="nenyavie" creationdate="20200225T134336Z">
+        <seg>Por ejemplo, este es el caracter de barra invertida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T152847Z" creationid="Cristina" creationdate="20170820T152847Z">
@@ -19046,6 +19054,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T174813Z" creationid="taty" creationdate="20181116T174813Z">
         <seg>Nada habla contra el uso de Notepad++ en Windows, GEdit en Linux, por ejemplo, o algún programa de hoja de cálculo para este fin: se puede utilizar cualquier aplicación que pueda manejar UTF-8 (o UTF-16 LE) y pueda mostrar el espacio en blanco (para que no se pierdan los carácteres &lt;k1&gt;TAB&lt;/k1&gt; requeridos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134425Z" creationid="nenyavie" creationdate="20200225T134425Z">
+        <seg>Nada, pero cita todos los caracteres hasta \E</seg>
       </tuv>
     </tu>
     <tu>
@@ -29267,6 +29283,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134313Z" creationid="nenyavie" creationdate="20200225T134242Z">
+        <seg>Se requiere si desea escribir los caracteres meta !$()*+.&lt;&gt;?[\]^{|} para que coincidan con ellos mismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the default.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T155953Z" creationid="Antonio" creationdate="20160126T155953Z">
@@ -33362,6 +33386,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T133725Z" creationid="nenyavie" creationdate="20200225T133725Z">
         <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\Q</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134340Z" creationid="nenyavie" creationdate="20200225T134340Z">
+        <seg>\Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134255Z" creationid="nenyavie" creationdate="20200225T134255Z">
+        <seg>\\</seg>
       </tuv>
     </tu>
     <tu>
