@@ -4950,6 +4950,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T121141Z" creationid="nenyavie" creationdate="20200225T121141Z">
+        <seg>&lt;u0&gt;La colección de Terminología de Microsoft&lt;/u0&gt; se puede descargar en aproximadamente 100 idiomas y puede servir como un glosario base de IT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>==============================================================================</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151120T111459Z" creationid="Antonio" creationdate="20151120T111459Z">
@@ -27668,6 +27676,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T161456Z" creationid="taty" creationdate="20181205T161456Z">
         <seg>La línea con el porcentaje de coincidencia también incluye el nombre de la memoria de traducción &lt;i1/&gt; que contiene la coincidencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T120525Z" creationid="nenyavie" creationdate="20200225T120525Z">
+        <seg>La ubicación del archivo &lt;f0&gt;.tbx&lt;/f0&gt; debe estar dentro de la carpeta &lt;f1&gt;/glosario&lt;/f1&gt;, pero puede estar en una carpeta más profunda (por ejemplo, &lt;f2&gt;glosario/sub/MiGlosario.tbx&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
