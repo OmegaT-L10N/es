@@ -12527,6 +12527,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141306Z" creationid="nenyavie" creationdate="20200225T141306Z">
+        <seg>Por ejemplo, &lt;e0&gt;a+?&lt;/e0&gt; coincidirá con la primera &lt;e1&gt;a&lt;/e1&gt; en &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T140641Z" creationid="Antonio" creationdate="20160316T140641Z">
@@ -22522,6 +22530,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T140555Z" creationid="nenyavie" creationdate="20200225T140555Z">
         <seg>Regex - Cuantificadores expansivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Logical operators</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141324Z" creationid="nenyavie" creationdate="20200225T141324Z">
+        <seg>Regex - Operadores lógicos</seg>
       </tuv>
     </tu>
     <tu>
@@ -32864,6 +32880,14 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X followed by Y</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141343Z" creationid="nenyavie" creationdate="20200225T141343Z">
+        <seg>X seguida de Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X*?</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T141057Z" creationid="nenyavie" creationdate="20200225T141057Z">
@@ -33000,10 +33024,26 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141329Z" creationid="nenyavie" creationdate="20200225T141329Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Xhosa</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T161313Z" creationid="Antonio" creationdate="20151128T161313Z">
         <seg>Xosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141349Z" creationid="nenyavie" creationdate="20200225T141349Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
