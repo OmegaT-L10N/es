@@ -6214,6 +6214,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character except a, b, or c (negation)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135133Z" creationid="nenyavie" creationdate="20200225T135133Z">
+        <seg>Cualquier caracter excepto a, b o c (negación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134932Z" creationid="nenyavie" creationdate="20200225T134932Z">
@@ -22390,6 +22398,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Character classes</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135023Z" creationid="nenyavie" creationdate="20200225T135023Z">
+        <seg>Regex - Clases de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134710Z" creationid="nenyavie" creationdate="20200225T134614Z">
@@ -22402,6 +22418,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T122655Z" creationid="nenyavie" creationdate="20200225T122655Z">
         <seg>Regex - Marcas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Predefined character classes</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135309Z" creationid="nenyavie" creationdate="20200225T135309Z">
+        <seg>Regex - Clases de caracteres predefinidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -33398,6 +33422,30 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[^abc]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135135Z" creationid="nenyavie" creationdate="20200225T135104Z">
+        <seg>[^abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135145Z" creationid="nenyavie" creationdate="20200225T135145Z">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[abc]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135028Z" creationid="nenyavie" creationdate="20200225T135028Z">
+        <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T022248Z" creationid="hcartagena" creationdate="20151209T204809Z">
@@ -33578,6 +33626,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T133851Z" creationid="nenyavie" creationdate="20200225T133851Z">
         <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135246Z" creationid="nenyavie" creationdate="20200225T135246Z">
+        <seg>De a hasta z o de A hasta Z, inclusive (rango)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>a, b, or c (simple class)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135058Z" creationid="nenyavie" creationdate="20200225T135058Z">
+        <seg>a, b o c (clase simple)</seg>
       </tuv>
     </tu>
     <tu>
