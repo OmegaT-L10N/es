@@ -22542,6 +22542,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141049Z" creationid="nenyavie" creationdate="20200225T141049Z">
+        <seg>Regex - Cuantificadores diferidos (no expansivos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T203224Z" creationid="Helli" creationdate="20150526T134533Z">
@@ -32856,6 +32864,22 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141057Z" creationid="nenyavie" creationdate="20200225T141057Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141102Z" creationid="nenyavie" creationdate="20200225T141102Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T140657Z" creationid="nenyavie" creationdate="20200225T140621Z">
@@ -32900,6 +32924,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T140600Z" creationid="nenyavie" creationdate="20200225T140600Z">
         <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141051Z" creationid="nenyavie" creationdate="20200225T141051Z">
+        <seg>X??</seg>
       </tuv>
     </tu>
     <tu>
@@ -37286,6 +37318,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T153149Z" creationid="Antonio" creationdate="20151128T153149Z">
         <seg>nob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T141201Z" creationid="nenyavie" creationdate="20200225T141201Z">
+        <seg>Los cuantificadores no expansivos coincidirán lo mínimo posible.</seg>
       </tuv>
     </tu>
     <tu>
