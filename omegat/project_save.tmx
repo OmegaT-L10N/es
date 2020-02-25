@@ -5006,6 +5006,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134807Z" creationid="nenyavie" creationdate="20200225T134807Z">
+        <seg>Un caracter en el bloque griego (&lt;u0&gt;bloque&lt;/u0&gt; simple)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T155350Z" creationid="Cristina" creationdate="20170917T155016Z">
@@ -5018,6 +5026,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T124230Z" creationid="Antonio" creationdate="20160128T124230Z">
         <seg>En este caso, se almacenará una copia de la configuración de los filtros junto con el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A currency symbol</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134857Z" creationid="nenyavie" creationdate="20200225T134857Z">
+        <seg>Un símbolo de moneda</seg>
       </tuv>
     </tu>
     <tu>
@@ -6150,6 +6166,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134839Z" creationid="nenyavie" creationdate="20200225T134839Z">
+        <seg>Una letra mayúscula (&lt;u0&gt;categoría&lt;/u0&gt; simple)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An xml file with all the GUI accessible option settings</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T152113Z" creationid="Antonio" creationdate="20160330T152113Z">
@@ -6186,6 +6210,22 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T181655Z" creationid="Antonio" creationdate="20160331T181655Z">
         <seg>Recurso de Android (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134932Z" creationid="nenyavie" creationdate="20200225T134932Z">
+        <seg>Cualquier caracter excepto uno en el bloque griego (negación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135006Z" creationid="nenyavie" creationdate="20200225T135006Z">
+        <seg>Cualquier letra excepto una letra en mayúscula (sustracción)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33350,6 +33390,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134946Z" creationid="nenyavie" creationdate="20200225T134946Z">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T022248Z" creationid="hcartagena" creationdate="20151209T204809Z">
@@ -33414,6 +33462,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134904Z" creationid="nenyavie" creationdate="20200225T134904Z">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\Q</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134340Z" creationid="nenyavie" creationdate="20200225T134340Z">
@@ -33474,6 +33530,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134636Z" creationid="nenyavie" creationdate="20200225T134636Z">
         <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{Lu}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134816Z" creationid="nenyavie" creationdate="20200225T134816Z">
+        <seg>\p{Lu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{Sc}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134850Z" creationid="nenyavie" creationdate="20200225T134850Z">
+        <seg>\p{Sc}</seg>
       </tuv>
     </tu>
     <tu>
