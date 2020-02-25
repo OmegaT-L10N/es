@@ -1410,6 +1410,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112256Z" creationid="nenyavie" creationdate="20200225T112256Z">
+        <seg>&amp;Mostrar en el menú contextual del editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T233317Z" creationid="hcartagena" creationdate="20180604T233317Z">
@@ -10476,6 +10484,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T181447Z" creationid="Antonio" creationdate="20160331T181447Z">
         <seg>**En OmegaT &lt;a3&gt;cada tipo de archivo&lt;/a3&gt; se maneja de manera diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112404Z" creationid="nenyavie" creationdate="20200225T112404Z">
+        <seg>Ed&amp;it</seg>
       </tuv>
     </tu>
     <tu>
@@ -22246,6 +22262,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112357Z" creationid="nenyavie" creationdate="20200225T112357Z">
+        <seg>Elimin&amp;ar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T220300Z" creationid="hcartagena" creationdate="20160331T220300Z">
@@ -23510,6 +23534,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T162115Z" creationid="Cristina" creationdate="20170917T162115Z">
         <seg>Los scripts y procedimientos están disponibles para permitirle hacer lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112311Z" creationid="nenyavie" creationdate="20200225T112311Z">
+        <seg>Se&amp;t</seg>
       </tuv>
     </tu>
     <tu>
