@@ -7634,8 +7634,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T115506Z" creationid="nenyavie" creationdate="20200225T115228Z">
-        <seg>Comprobar en &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Propiedades&lt;/g6&gt; &lt;g5&gt;del proyecto&lt;/g5&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T115619Z" creationid="nenyavie" creationdate="20200225T115228Z">
+        <seg>Comprobar en &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Propiedades&lt;/g5&gt; &lt;g6&gt;del proyecto&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29593,6 +29593,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T095532Z" creationid="Antonio" creationdate="20160125T095532Z">
         <seg>Para actualizar los archivos locales, haga clic con el botón derecho en la carpeta de checkout y seleccione &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T115814Z" creationid="nenyavie" creationdate="20200225T115814Z">
+        <seg>Para utilizar un glosario existente, basta con colocarlo en la carpeta &lt;s0&gt;/glossary&lt;/s0&gt; después de crear la carpeta de proyecto.</seg>
       </tuv>
     </tu>
     <tu>
