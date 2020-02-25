@@ -23714,6 +23714,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T115209Z" creationid="nenyavie" creationdate="20200225T115209Z">
+        <seg>Buscar la combinación de idiomas requerida ― por ejemplo, en los &lt;u0&gt;enlaces de diccionarios proporcionados en la wiki de OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T192437Z" creationid="hcartagena" creationdate="20151117T192437Z">
@@ -35084,6 +35092,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T114344Z" creationid="Antonio" creationdate="20160125T114344Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113702Z" creationid="nenyavie" creationdate="20200225T113702Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
