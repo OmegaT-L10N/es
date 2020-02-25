@@ -27181,6 +27181,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The character with hexadecimal value 0xhhhh</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133034Z" creationid="nenyavie" creationdate="20200225T133034Z">
+        <seg>El caracter con el valor hexadecimal 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character x, except the following...</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T132945Z" creationid="nenyavie" creationdate="20200225T132945Z">
@@ -27912,6 +27920,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The newline (line feed) character ('\u000A')</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133345Z" creationid="nenyavie" creationdate="20200225T133345Z">
+        <seg>El caracter de nueva línea (salto de línea) ('\u000A')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T154352Z" creationid="Antonio" creationdate="20160126T154352Z">
@@ -28332,6 +28348,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T163918Z" creationid="Antonio" creationdate="20151130T163918Z">
         <seg>El sistema conserva y gestiona la información de versiones de los datos compartidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab character ('\u0009')</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133122Z" creationid="nenyavie" creationdate="20200225T133059Z">
+        <seg>El caracter de tabulación ('\u0009')</seg>
       </tuv>
     </tu>
     <tu>
@@ -33210,6 +33234,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180647Z" creationid="hcartagena" creationdate="20180605T180647Z">
         <seg>[{0}] “{1}” en origen; se esperaba “{2}” en destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133114Z" creationid="nenyavie" creationdate="20200225T133114Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133037Z" creationid="nenyavie" creationdate="20200225T133037Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T132956Z" creationid="nenyavie" creationdate="20200225T132956Z">
+        <seg>\uhhhh</seg>
       </tuv>
     </tu>
     <tu>
