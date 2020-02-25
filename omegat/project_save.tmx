@@ -7948,6 +7948,54 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110237Z" creationid="nenyavie" creationdate="20200225T110237Z">
+        <seg>El delimitador del comando está vacío</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110134Z" creationid="nenyavie" creationdate="20200225T110134Z">
+        <seg>El comando no contiene "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110117Z" creationid="nenyavie" creationdate="20200225T110117Z">
+        <seg>Comando sin cadena de comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110221Z" creationid="nenyavie" creationdate="20200225T110221Z">
+        <seg>Comando sin delimitador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110206Z" creationid="nenyavie" creationdate="20200225T110206Z">
+        <seg>Comando sin codificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110149Z" creationid="nenyavie" creationdate="20200225T110149Z">
+        <seg>Comando sin destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -29993,10 +30041,34 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110006Z" creationid="nenyavie" creationdate="20200225T110006Z">
+        <seg>La URL no contiene "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL is missing URL string</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T105948Z" creationid="nenyavie" creationdate="20200225T105948Z">
         <seg>URL sin cadena URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110042Z" creationid="nenyavie" creationdate="20200225T110042Z">
+        <seg>URL sin codificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110026Z" creationid="nenyavie" creationdate="20200225T110026Z">
+        <seg>URL sin destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -30013,6 +30085,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T092218Z" creationid="nenyavie" creationdate="20200225T092218Z">
         <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110254Z" creationid="nenyavie" creationdate="20200225T110254Z">
+        <seg>Direcciones URL</seg>
       </tuv>
     </tu>
     <tu>
