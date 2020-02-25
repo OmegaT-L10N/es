@@ -23972,6 +23972,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See additional references and examples below.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T122234Z" creationid="nenyavie" creationdate="20200225T122234Z">
+        <seg>Consulte referencias suplementarias y los siguientes ejemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T214252Z" creationid="hcartagena" creationdate="20160331T214252Z">
@@ -24712,6 +24720,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T174110Z" creationid="eumeu" creationdate="20181115T222929Z">
         <seg>Si olvida qué cambios hizo en la interfaz de usuario, puede ir a &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Opciones → Restaurar la ventana principal&lt;/g0&gt; en cualquier momento para regresar a la disposición original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T121510Z" creationid="nenyavie" creationdate="20200225T121510Z">
+        <seg>Si necesita información más específica, consulte la &lt;u0&gt;documentación de Regex de Java&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
