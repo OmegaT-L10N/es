@@ -19058,6 +19058,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134537Z" creationid="nenyavie" creationdate="20200225T134537Z">
+        <seg>Nada, pero termina las citas iniciadas por \Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nothing, but quotes all characters until \E</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134425Z" creationid="nenyavie" creationdate="20200225T134425Z">
@@ -19068,8 +19076,8 @@ por un paraíso gozoso</seg>
       <tuv lang="en">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T134126Z" creationid="nenyavie" creationdate="20200225T134126Z">
-        <seg>Nada, pero cita caracter que le sigue.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134546Z" creationid="nenyavie" creationdate="20200225T134126Z">
+        <seg>Nada, pero cita el caracter que le sigue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22338,6 +22346,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T123030Z" creationid="nenyavie" creationdate="20200225T123030Z">
         <seg>Regex - Carácter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134710Z" creationid="nenyavie" creationdate="20200225T134614Z">
+        <seg>Regex - Clases para bloques unicode y categorías</seg>
       </tuv>
     </tu>
     <tu>
@@ -33390,6 +33406,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\E</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134429Z" creationid="nenyavie" creationdate="20200225T134429Z">
+        <seg>\E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\Q</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134340Z" creationid="nenyavie" creationdate="20200225T134340Z">
@@ -33442,6 +33466,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T133114Z" creationid="nenyavie" creationdate="20200225T133114Z">
         <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134636Z" creationid="nenyavie" creationdate="20200225T134636Z">
+        <seg>\p{InGreek}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35228,6 +35260,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T121221Z" creationid="nenyavie" creationdate="20200225T121221Z">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134648Z" creationid="nenyavie" creationdate="20200225T134648Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
     </tu>
     <tu>
