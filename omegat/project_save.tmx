@@ -10920,6 +10920,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either X or Y</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T150549Z" creationid="nenyavie" creationdate="20200225T150549Z">
+        <seg>X o Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Email:</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T092255Z" creationid="nenyavie" creationdate="20200225T092255Z">
