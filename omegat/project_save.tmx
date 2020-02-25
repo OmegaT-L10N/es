@@ -7996,6 +7996,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110304Z" creationid="nenyavie" creationdate="20200225T110304Z">
+        <seg>Comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -8352,6 +8360,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161205Z" creationid="Antonio" creationdate="20160330T161205Z">
         <seg>**Contenidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110535Z" creationid="nenyavie" creationdate="20200225T110535Z">
+        <seg>Prioridad del menú contextual:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10456,6 +10472,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110623Z" creationid="nenyavie" creationdate="20200225T110623Z">
+        <seg>Edita el elemento de búsqueda externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Filter</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T212957Z" creationid="hcartagena" creationdate="20151119T212957Z">
@@ -10665,6 +10689,14 @@ su página de ayuda no encontrada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T233410Z" creationid="hcartagena" creationdate="20180604T233410Z">
         <seg>Habilitar historial y &amp;predicción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110500Z" creationid="nenyavie" creationdate="20200225T110500Z">
+        <seg>Habilitar comandos específicos del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -11451,6 +11483,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T190921Z" creationid="hcartagena" creationdate="20151117T190921Z">
         <seg>Comando externo de posprocesamiento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110314Z" creationid="nenyavie" creationdate="20200225T110314Z">
+        <seg>Búsqueda externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -14459,6 +14499,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110440Z" creationid="nenyavie" creationdate="20200225T110440Z">
+        <seg>En el editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185102Z" creationid="Antonio" creationdate="20151210T185102Z">
@@ -15703,6 +15751,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T152730Z" creationid="Antonio" creationdate="20151126T152730Z">
         <seg>Elemento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110358Z" creationid="nenyavie" creationdate="20200225T110358Z">
+        <seg>Elementos</seg>
       </tuv>
     </tu>
     <tu>
@@ -21513,6 +21569,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110351Z" creationid="nenyavie" creationdate="20200225T110351Z">
+        <seg>Búsqueda externa específica del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Specific File Filters</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T213211Z" creationid="hcartagena" creationdate="20151119T213211Z">
@@ -25482,6 +25546,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T192551Z" creationid="Antonio" creationdate="20160316T192551Z">
         <seg>**Estos archivos también se pueden escribir en cualquier otra codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110408Z" creationid="nenyavie" creationdate="20200225T110408Z">
+        <seg>Resumen</seg>
       </tuv>
     </tu>
     <tu>
