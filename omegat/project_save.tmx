@@ -2189,6 +2189,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134040Z" creationid="nenyavie" creationdate="20200225T134040Z">
+        <seg>...coincide con lo siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161538Z" creationid="Antonio" creationdate="20160330T161538Z">
@@ -19042,6 +19050,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134126Z" creationid="nenyavie" creationdate="20200225T134126Z">
+        <seg>Nada, pero cita caracter que le sigue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T025643Z" creationid="hcartagena" creationdate="20160401T025643Z">
@@ -22314,6 +22330,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T122655Z" creationid="nenyavie" creationdate="20200225T122655Z">
         <seg>Regex - Marcas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134022Z" creationid="nenyavie" creationdate="20200225T134022Z">
+        <seg>Regex - Acotación</seg>
       </tuv>
     </tu>
     <tu>
@@ -27197,10 +27221,26 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The character with hexadecimal value 0xhh</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133912Z" creationid="nenyavie" creationdate="20200225T133912Z">
+        <seg>El caracter con el valor hexadecimal 0xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T133034Z" creationid="nenyavie" creationdate="20200225T133034Z">
         <seg>El caracter con el valor hexadecimal 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133846Z" creationid="nenyavie" creationdate="20200225T133846Z">
+        <seg>El caracter con valor octal 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33294,6 +33334,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T134046Z" creationid="nenyavie" creationdate="20200225T134046Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133757Z" creationid="nenyavie" creationdate="20200225T133757Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\0n</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T133633Z" creationid="nenyavie" creationdate="20200225T133633Z">
@@ -33370,6 +33426,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T132956Z" creationid="nenyavie" creationdate="20200225T132956Z">
         <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T133851Z" creationid="nenyavie" creationdate="20200225T133851Z">
+        <seg>\xhh</seg>
       </tuv>
     </tu>
     <tu>
