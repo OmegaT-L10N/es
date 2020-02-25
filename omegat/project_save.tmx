@@ -801,6 +801,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113220Z" creationid="nenyavie" creationdate="20200225T113220Z">
+        <seg>&amp;Ir a descargas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T205154Z" creationid="hcartagena" creationdate="20151120T175634Z">
@@ -7560,6 +7568,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113140Z" creationid="nenyavie" creationdate="20200225T113140Z">
+        <seg>Comprobar &amp;automáticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233109Z" creationid="hcartagena" creationdate="20151124T233109Z">
@@ -11739,6 +11755,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142044Z" creationid="hcartagena" creationdate="20151117T142044Z">
         <seg>No se pudo crear el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113329Z" creationid="nenyavie" creationdate="20200225T113329Z">
+        <seg>No se ha podido obtener información sobre la versión información: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32702,6 +32726,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T221610Z" creationid="Antonio" creationdate="20160124T221610Z">
         <seg>En primer lugar, usted creará una carpeta de cliente vacía en su disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113107Z" creationid="nenyavie" creationdate="20200225T113107Z">
+        <seg>Actualmente tiene {1}.</seg>
       </tuv>
     </tu>
     <tu>
