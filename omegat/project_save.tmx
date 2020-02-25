@@ -12519,6 +12519,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T140926Z" creationid="nenyavie" creationdate="20200225T140926Z">
+        <seg>Por ejemplo, &lt;e0&gt;a+&lt;/e0&gt; conicidirá con aaa en &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T140641Z" creationid="Antonio" creationdate="20160316T140641Z">
@@ -32848,6 +32856,54 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X, once or not at all</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T140657Z" creationid="nenyavie" creationdate="20200225T140621Z">
+        <seg>X, una vez o ninguna en absoluto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T140717Z" creationid="nenyavie" creationdate="20200225T140717Z">
+        <seg>X, una o más veces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T140650Z" creationid="nenyavie" creationdate="20200225T140650Z">
+        <seg>X, cero o más veces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T140624Z" creationid="nenyavie" creationdate="20200225T140624Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T140700Z" creationid="nenyavie" creationdate="20200225T140700Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T140600Z" creationid="nenyavie" creationdate="20200225T140600Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XHTML</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T175109Z" creationid="Antonio" creationdate="20151127T175109Z">
@@ -35323,6 +35379,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T155748Z" creationid="Antonio" creationdate="20151130T155748Z">
         <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T140806Z" creationid="nenyavie" creationdate="20200225T140806Z">
+        <seg>Los cuantificadores expansivos coinciden con tanto como sea posible.</seg>
       </tuv>
     </tu>
     <tu>
