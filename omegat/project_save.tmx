@@ -22310,6 +22310,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T121159Z" creationid="nenyavie" creationdate="20200225T121159Z">
+        <seg>Expresiones regulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185438Z" creationid="Antonio" creationdate="20151210T185438Z">
@@ -27996,6 +28004,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T173442Z" creationid="taty" creationdate="20181116T173403Z">
         <seg>Las extensiónes reconocidas son &lt;f1&gt;TXT&lt;/f1&gt; y &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T121310Z" creationid="nenyavie" creationdate="20200225T121310Z">
+        <seg>Las expresiones regulares (o regex para abreviar) utilizadas en las búsquedas y reglas de segmentación son compatibles con Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34860,6 +34876,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T121538Z" creationid="Antonio" creationdate="20151130T121538Z">
         <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T121221Z" creationid="nenyavie" creationdate="20200225T121221Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
