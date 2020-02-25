@@ -1847,6 +1847,14 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T150612Z" creationid="nenyavie" creationdate="20200225T150612Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.4 or later to edit this project as a team project.)</seg>
       </tuv>
@@ -5114,6 +5122,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233854Z" creationid="hcartagena" creationdate="20151124T233854Z">
         <seg>Una nota es un simple comentario relacionado con este conjunto de texto original y traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T153922Z" creationid="nenyavie" creationdate="20200225T153922Z">
+        <seg>Una serie de herramientas interactivas para desarrollar y probar expresiones regulares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22574,6 +22590,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T150710Z" creationid="nenyavie" creationdate="20200225T150710Z">
+        <seg>Herramientas Regex y ejemplos de uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T203224Z" creationid="Helli" creationdate="20150526T134533Z">
@@ -33036,6 +33060,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T141329Z" creationid="nenyavie" creationdate="20200225T141329Z">
         <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XY as a single group</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T150641Z" creationid="nenyavie" creationdate="20200225T150641Z">
+        <seg>XY como un solo grupo</seg>
       </tuv>
     </tu>
     <tu>
