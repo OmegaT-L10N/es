@@ -7948,6 +7948,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110749Z" creationid="nenyavie" creationdate="20200225T110749Z">
+        <seg>Comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command delimiter is empty</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T110237Z" creationid="nenyavie" creationdate="20200225T110237Z">
@@ -9402,6 +9410,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T075324Z" creationid="Antonio" creationdate="20151127T075324Z">
         <seg>Borrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110803Z" creationid="nenyavie" creationdate="20200225T110803Z">
+        <seg>Delimitador</seg>
       </tuv>
     </tu>
     <tu>
@@ -18190,6 +18206,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T110813Z" creationid="nenyavie" creationdate="20200225T110813Z">
+        <seg>Nombre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name: {0}</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T100228Z" creationid="nenyavie" creationdate="20200225T100228Z">
@@ -25184,6 +25208,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T181459Z" creationid="Antonio" creationdate="20160331T181459Z">
         <seg>**El comportamiento específico se puede configurar en la opción &lt;a4&gt;Filtros de archivo&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T112145Z" creationid="nenyavie" creationdate="20200225T112145Z">
+        <seg>Especifica un método mnemotécnico con "&amp;": "F&amp;oobar" para usar O</seg>
       </tuv>
     </tu>
     <tu>
