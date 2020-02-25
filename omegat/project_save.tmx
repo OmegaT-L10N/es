@@ -29993,6 +29993,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T105948Z" creationid="nenyavie" creationdate="20200225T105948Z">
+        <seg>URL sin cadena URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194832Z" creationid="Víctor Parra" creationdate="20151126T194832Z">
