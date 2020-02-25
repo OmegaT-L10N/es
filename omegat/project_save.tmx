@@ -3547,6 +3547,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113355Z" creationid="nenyavie" creationdate="20200225T113355Z">
+        <seg>&lt;html&gt;Versión actual: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T191000Z" creationid="hcartagena" creationdate="20151117T191000Z">
@@ -3583,6 +3591,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180720Z" creationid="hcartagena" creationdate="20180605T180720Z">
         <seg>&lt;html&gt;Término: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosarios:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113432Z" creationid="nenyavie" creationdate="20200225T113432Z">
+        <seg>&lt;html&gt;Actualizar canal: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6587,6 +6603,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113524Z" creationid="nenyavie" creationdate="20200225T113524Z">
+        <seg>Comprobar actualizaciones automáticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160127T182109Z" creationid="Antonio" creationdate="20160127T182109Z">
@@ -7588,6 +7612,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T232958Z" creationid="hcartagena" creationdate="20180604T232958Z">
         <seg>Comprobar probl&amp;emas en el documento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113628Z" creationid="nenyavie" creationdate="20200225T113628Z">
+        <seg>Comprobar ahora</seg>
       </tuv>
     </tu>
     <tu>
@@ -30729,6 +30761,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T161700Z" creationid="Antonio" creationdate="20151126T161700Z">
         <seg>Actualizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T113336Z" creationid="nenyavie" creationdate="20200225T113336Z">
+        <seg>Actualizaciones</seg>
       </tuv>
     </tu>
     <tu>
