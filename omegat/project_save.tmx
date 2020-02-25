@@ -1751,6 +1751,14 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092825Z" creationid="nenyavie" creationdate="20200225T092825Z">
+        <seg>(Deje la contraseña en blanco si va a utilizar una clave de API.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T164214Z" creationid="Cristina" creationdate="20170916T161416Z">
@@ -1913,6 +1921,14 @@ en modo de trabajo en grupo.)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151118T164155Z" creationid="hcartagena" creationdate="20151118T164155Z">
         <seg>+{0} más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095615Z" creationid="nenyavie" creationdate="20200225T095615Z">
+        <seg>,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2711,6 +2727,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T193003Z" creationid="Antonio" creationdate="20160316T193003Z">
         <seg>**&lt;s1&gt;&lt;auto&gt;&lt;/s1&gt; deja la elección de codificación a OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095817Z" creationid="nenyavie" creationdate="20200225T095706Z">
+        <seg>&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5094,6 +5118,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092415Z" creationid="nenyavie" creationdate="20200225T092415Z">
+        <seg>Clave de API (opcional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164816Z" creationid="hcartagena" creationdate="20180605T164816Z">
@@ -5114,6 +5146,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T075701Z" creationid="Antonio" creationdate="20160331T075701Z">
         <seg>**Texto ASCII (.txt, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091822Z" creationid="nenyavie" creationdate="20200225T091822Z">
+        <seg>Aaron Madlon-Kay es el administrador del proyecto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8168,6 +8208,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092338Z" creationid="nenyavie" creationdate="20200225T092338Z">
+        <seg>Conectarse a un servidor personalizado en lugar de a apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T204044Z" creationid="Antonio" creationdate="20151127T171519Z">
@@ -8450,6 +8498,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T032116Z" creationid="hcartagena" creationdate="20180605T032116Z">
         <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk y otros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091739Z" creationid="nenyavie" creationdate="20200225T091739Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk y otros</seg>
       </tuv>
     </tu>
     <tu>
@@ -9110,6 +9166,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092355Z" creationid="nenyavie" creationdate="20200225T092355Z">
+        <seg>URL del servidor personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T233239Z" creationid="Antonio" creationdate="20151127T081016Z">
@@ -9210,6 +9274,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T185602Z" creationid="taty" creationdate="20181205T185157Z">
         <seg>Fecha de la coincidencia desde cuando se ha actualizado por última vez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092229Z" creationid="nenyavie" creationdate="20200225T092229Z">
+        <seg>DeepL</seg>
       </tuv>
     </tu>
     <tu>
@@ -9730,6 +9802,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T212434Z" creationid="hcartagena" creationdate="20151124T233740Z">
         <seg>Muestra las entradas de diccionarios en la carpeta /dictionary/ que haya en el segmento original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T093640Z" creationid="nenyavie" creationdate="20200225T093640Z">
+        <seg>Muestra las entradas como "&lt;origen&gt; → &lt;destino&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10440,6 +10520,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091841Z" creationid="nenyavie" creationdate="20200225T091841Z">
+        <seg>Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T181958Z" creationid="Antonio" creationdate="20151127T175124Z">
@@ -10468,6 +10556,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181211T093834Z" creationid="eumeu" creationdate="20181115T223932Z">
         <seg>Panel editor: Si un archivo de proyecto de OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) se suelta en este panel, el proyecto correspondiente se abrirá, cerrando primero cualquier otro proyecto abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092255Z" creationid="nenyavie" creationdate="20200225T092255Z">
+        <seg>Correo electrónico:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10625,6 +10721,22 @@ su página de ayuda no encontrada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T165311Z" creationid="hcartagena" creationdate="20151120T165311Z">
         <seg>Inglés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092608Z" creationid="nenyavie" creationdate="20200225T092608Z">
+        <seg>Asegúrese de que la URL es correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092515Z" creationid="nenyavie" creationdate="20200225T092515Z">
+        <seg>Asegúrese de que la URL del servidor es correcta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10906,6 +11018,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T093417Z" creationid="nenyavie" creationdate="20200225T093417Z">
+        <seg>Error al actualizar el repositorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164806Z" creationid="hcartagena" creationdate="20180605T164806Z">
@@ -10934,6 +11054,22 @@ soy la pantalla azul de la muerte,
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T174412Z" creationid="Antonio" creationdate="20151127T174412Z">
         <seg>Error {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T093447Z" creationid="nenyavie" creationdate="20200225T093447Z">
+        <seg>Error: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095709Z" creationid="nenyavie" creationdate="20200225T095709Z">
+        <seg>Escape</seg>
       </tuv>
     </tu>
     <tu>
@@ -11163,6 +11299,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142231Z" creationid="hcartagena" creationdate="20151117T142231Z">
         <seg>Ejecutando comando externo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092943Z" creationid="nenyavie" creationdate="20200225T092943Z">
+        <seg>Ejecuntado el script {0} (evento {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -12223,6 +12367,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095441Z" creationid="nenyavie" creationdate="20200225T095441Z">
+        <seg>Adelante-Atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T174732Z" creationid="Antonio" creationdate="20151127T174732Z">
@@ -12275,6 +12427,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T153005Z" creationid="Antonio" creationdate="20151126T153005Z">
         <seg>De la memoria automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095010Z" creationid="nenyavie" creationdate="20200225T095010Z">
+        <seg>De la memoria forzada</seg>
       </tuv>
     </tu>
     <tu>
@@ -12395,6 +12555,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144300Z" creationid="Antonio" creationdate="20151128T144247Z">
         <seg>Gallego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095709Z" creationid="nenyavie" creationdate="20200225T095709Z">
+        <seg>General</seg>
       </tuv>
     </tu>
     <tu>
@@ -12659,6 +12827,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T223048Z" creationid="Antonio" creationdate="20151127T173823Z">
         <seg>Ir al origen del segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095812Z" creationid="nenyavie" creationdate="20200225T095812Z">
+        <seg>Ir a Preferencias &gt; habilitar búsqueda externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -12983,6 +13159,18 @@ La tela de araña te retiene
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T090801Z" creationid="nenyavie" creationdate="20200225T090801Z">
+        <seg>La ayuda que está buscando
+de su ruta se ha fugado,
+es que su invierno ha llegado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7)</note>
       <tuv lang="en">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
@@ -13277,6 +13465,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170816T183051Z" creationid="Cristina" creationdate="20170816T183051Z">
         <seg>Llevo usando OmegaT como traductor profesional más de 10 años y desde el principio me he beneficiado de su facilidad de uso y de su foro extremadamente útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092233Z" creationid="nenyavie" creationdate="20200225T092233Z">
+        <seg>IBM Watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -14479,6 +14675,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092214Z" creationid="nenyavie" creationdate="20200225T092101Z">
+        <seg>Incluye coincidencias de &amp;otros idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T032742Z" creationid="hcartagena" creationdate="20180605T032742Z">
@@ -15423,6 +15627,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T100103Z" creationid="nenyavie" creationdate="20200225T100103Z">
+        <seg>El elemento no tiene ni URL ni comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095916Z" creationid="nenyavie" creationdate="20200225T095916Z">
+        <seg>El nombre del elemento está vacío o falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T152730Z" creationid="Antonio" creationdate="20151126T152730Z">
@@ -15955,6 +16175,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T184041Z" creationid="hcartagena" creationdate="20151119T184041Z">
         <seg>No se especificó el idioma para la variante de la unidad de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092225Z" creationid="nenyavie" creationdate="20200225T092225Z">
+        <seg>LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -17477,6 +17705,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092719Z" creationid="nenyavie" creationdate="20200225T092719Z">
+        <seg>Id del modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification Info/Display All</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T161059Z" creationid="Antonio" creationdate="20151130T161059Z">
@@ -17557,6 +17793,22 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091544Z" creationid="nenyavie" creationdate="20200225T091544Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091609Z" creationid="nenyavie" creationdate="20200225T091609Z">
+        <seg>Opciones del filtro Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T222231Z" creationid="hcartagena" creationdate="20151116T222231Z">
@@ -17593,6 +17845,14 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T191505Z" creationid="Antonio" creationdate="20160316T191505Z">
         <seg>**Para ser más precisos, OmegaT intenta hacer coincidir cada patrón de nombre de archivo fuente con el nombre del archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092228Z" creationid="nenyavie" creationdate="20200225T092228Z">
+        <seg>Moses</seg>
       </tuv>
     </tu>
     <tu>
@@ -17814,6 +18074,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T180203Z" creationid="Cristina" creationdate="20170924T161227Z">
         <seg>Ponga a la imagen el nombre NewImage.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T100228Z" creationid="nenyavie" creationdate="20200225T100228Z">
+        <seg>Nombre: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18222,6 +18490,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095448Z" creationid="nenyavie" creationdate="20200225T095444Z">
+        <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T153246Z" creationid="Antonio" creationdate="20151128T153246Z">
@@ -18614,6 +18890,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092841Z" creationid="nenyavie" creationdate="20200225T092841Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T174707Z" creationid="Cristina" creationdate="20170916T174707Z">
@@ -18778,6 +19062,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171012T113850Z" creationid="Cristina" creationdate="20170820T144923Z">
         <seg>Selector de descarga de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092855Z" creationid="nenyavie" creationdate="20200225T092855Z">
+        <seg>OmegaT Javadoc...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20170,6 +20462,22 @@ cual bruma se disipa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095037Z" creationid="nenyavie" creationdate="20200225T095037Z">
+        <seg>Delimitador de párrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091935Z" creationid="nenyavie" creationdate="20200225T091935Z">
+        <seg>Delimitación del formato de párrafo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185112Z" creationid="Antonio" creationdate="20151210T185112Z">
@@ -20295,6 +20603,14 @@ cual bruma se disipa</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T044451Z" creationid="hcartagena" creationdate="20160401T044451Z">
         <seg>Patrón...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092207Z" creationid="nenyavie" creationdate="20200225T092207Z">
+        <seg>Penalización de las coincidencias de otros idiomas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20687,6 +21003,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T181239Z" creationid="hcartagena" creationdate="20180605T181239Z">
         <seg>Complementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095536Z" creationid="nenyavie" creationdate="20200225T095446Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -21169,6 +21493,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151125T000415Z" creationid="hcartagena" creationdate="20151125T000415Z">
         <seg>Proyecto cerrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095712Z" creationid="nenyavie" creationdate="20200225T095712Z">
+        <seg>Proyecto commands are deshabilitado for seguridad reasons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21798,6 +22130,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T220115Z" creationid="hcartagena" creationdate="20160331T220115Z">
         <seg>Quitar repositorios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T093351Z" creationid="nenyavie" creationdate="20200225T093351Z">
+        <seg>Error de comunicación con la red de repositorios remotos: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23046,10 +23386,26 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095155Z" creationid="nenyavie" creationdate="20200225T095155Z">
+        <seg>Marca de búsqueda encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Project...</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T152437Z" creationid="Helli" creationdate="20150526T132239Z">
         <seg>Buscar en el proyecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095220Z" creationid="nenyavie" creationdate="20200225T095220Z">
+        <seg>Marca de búsqueda reemplazada</seg>
       </tuv>
     </tu>
     <tu>
@@ -24240,6 +24596,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091352Z" creationid="nenyavie" creationdate="20200225T091121Z">
+        <seg>Omitiendo el complemento de la clase '{0}' cargado con anterioridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T093441Z" creationid="nenyavie" creationdate="20200225T093441Z">
+        <seg>Omitiendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T211536Z" creationid="hcartagena" creationdate="20151119T211536Z">
@@ -25018,6 +25390,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T090840Z" creationid="nenyavie" creationdate="20200225T090831Z">
+        <seg>Subversión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T121239Z" creationid="Cristina" creationdate="20170820T121239Z">
@@ -25278,6 +25658,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T172034Z" creationid="Cristina" creationdate="20170916T172034Z">
         <seg>TMXMerger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T093648Z" creationid="nenyavie" creationdate="20200225T093648Z">
+        <seg>TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -26135,6 +26523,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091711Z" creationid="nenyavie" creationdate="20200225T091711Z">
+        <seg>El filtro Moodle PHP generó una excepción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T165436Z" creationid="hcartagena" creationdate="20180605T165436Z">
@@ -26145,8 +26541,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T202926Z" creationid="hcartagena" creationdate="20151119T201921Z">
-        <seg>El filtro Mozilla DTD arrojó una excepción:</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T091719Z" creationid="hcartagena" creationdate="20151119T201921Z">
+        <seg>El filtro Mozilla DTD generó una excepción:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27304,6 +27700,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T204523Z" creationid="Antonio" creationdate="20151130T164634Z">
         <seg>El servidor puede existir en la red local, pero en la mayoría de los casos estará disponible en Internet, es decir, mediante una dirección URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092548Z" creationid="nenyavie" creationdate="20200225T092548Z">
+        <seg>El servidor no es un servidor de Apertium válido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29589,6 +29993,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092218Z" creationid="nenyavie" creationdate="20200225T092218Z">
+        <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URLs of repositories of spelling dictionaries:</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T143120Z" creationid="taty" creationdate="20181109T143048Z">
@@ -29617,6 +30029,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142025Z" creationid="hcartagena" creationdate="20151117T142025Z">
         <seg>No se pudo compilar el nuevo archivo TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092439Z" creationid="nenyavie" creationdate="20200225T092439Z">
+        <seg>No se puede conectar al servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30411,6 +30831,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T092633Z" creationid="nenyavie" creationdate="20200225T092633Z">
+        <seg>Nombre de usuario o clave de API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Username:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164839Z" creationid="hcartagena" creationdate="20180605T164839Z">
@@ -30807,6 +31235,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T182522Z" creationid="Antonio" creationdate="20160331T182522Z">
         <seg>Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095301Z" creationid="nenyavie" creationdate="20200225T095301Z">
+        <seg>Viterbi</seg>
       </tuv>
     </tu>
     <tu>
@@ -37768,6 +38204,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095609Z" creationid="nenyavie" creationdate="20200225T095609Z">
+        <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} +{1} more</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151118T164216Z" creationid="hcartagena" creationdate="20151118T164216Z">
@@ -37808,6 +38252,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095621Z" creationid="nenyavie" creationdate="20200225T095621Z">
+        <seg>{0} x{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} {1}</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T193932Z" creationid="Víctor Parra" creationdate="20151126T193932Z">
@@ -37828,6 +38280,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T193914Z" creationid="Víctor Parra" creationdate="20151126T193914Z">
         <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095656Z" creationid="nenyavie" creationdate="20200225T095656Z">
+        <seg>{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37864,6 +38324,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095703Z" creationid="nenyavie" creationdate="20200225T095703Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>}</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T113347Z" creationid="Antonio" creationdate="20151130T113347Z">
@@ -37892,6 +38360,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="briac" changedate="20171102T112620Z" creationid="briac" creationdate="20171102T112620Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095643Z" creationid="nenyavie" creationdate="20200225T095643Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T095651Z" creationid="nenyavie" creationdate="20200225T095651Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
