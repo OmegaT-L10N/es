@@ -15635,6 +15635,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T105858Z" creationid="nenyavie" creationdate="20200225T105858Z">
+        <seg>Elemento sin ámbito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Item name is empty or missing</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T095916Z" creationid="nenyavie" creationdate="20200225T095916Z">
