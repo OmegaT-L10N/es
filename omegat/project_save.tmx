@@ -2715,6 +2715,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T115900Z" creationid="nenyavie" creationdate="20200225T115900Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; detecta automáticamente los archivos de glosario en esta carpeta cuando se abre un proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T154909Z" creationid="Cristina" creationdate="20170917T154909Z">
@@ -14675,6 +14683,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T120342Z" creationid="nenyavie" creationdate="20200225T120342Z">
+        <seg>Además del formato de texto simple, se soporta también el formato TBX como formato de glosario de sola lectura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T144525Z" creationid="eumeu" creationdate="20181130T181442Z">
@@ -26438,6 +26454,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T120021Z" creationid="nenyavie" creationdate="20200225T120021Z">
+        <seg>Los términos en el segmento actual que &lt;a2&gt;OmegaT&lt;/a2&gt; encuentra en los archivos del glosario se muestran en el panel Glosario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T144659Z" creationid="taty" creationdate="20181116T111524Z">
@@ -29599,8 +29623,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T115814Z" creationid="nenyavie" creationdate="20200225T115814Z">
-        <seg>Para utilizar un glosario existente, basta con colocarlo en la carpeta &lt;s0&gt;/glossary&lt;/s0&gt; después de crear la carpeta de proyecto.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T115936Z" creationid="nenyavie" creationdate="20200225T115814Z">
+        <seg>Para utilizar un glosario existente, basta con colocarlo en la carpeta &lt;f0&gt;/glossary&lt;/f0&gt; después de crear la carpeta de proyecto.</seg>
       </tuv>
     </tu>
     <tu>
