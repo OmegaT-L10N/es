@@ -5054,10 +5054,42 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A digit: [0-9]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135346Z" creationid="nenyavie" creationdate="20200225T135346Z">
+        <seg>Un dígito: [0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of repository URLs is provided below.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T143025Z" creationid="taty" creationdate="20181109T143025Z">
         <seg>A continuación se proporciona una lista de las URL del repositorio </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A non-digit: [^0-9]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135406Z" creationid="nenyavie" creationdate="20200225T135406Z">
+        <seg>Un caracter que no sea dígito: [^0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A non-whitespace character: [^\s]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135458Z" creationid="nenyavie" creationdate="20200225T135458Z">
+        <seg>Un caracter que no sea un espacio en blanco: [^\s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A non-word character: [^\w]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135604Z" creationid="nenyavie" creationdate="20200225T135604Z">
+        <seg>Un caracter que no sea una palabra: [^\w]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5162,6 +5194,22 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170816T183452Z" creationid="Cristina" creationdate="20170816T183053Z">
         <seg>Un amplio rango de funciones, una interfaz despejada y, lo que es más importante, ¡un desarrollo de código abierto regular y constante!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135430Z" creationid="nenyavie" creationdate="20200225T135430Z">
+        <seg>Un caracter de espacio en blanco: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A word character: [a-zA-Z_0-9]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135532Z" creationid="nenyavie" creationdate="20200225T135532Z">
+        <seg>Un caracter que sea una palabra: [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6210,6 +6258,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T181655Z" creationid="Antonio" creationdate="20160331T181655Z">
         <seg>Recurso de Android (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135328Z" creationid="nenyavie" creationdate="20200225T135328Z">
+        <seg>Cualquier caracter (excepto los terminadores de línea)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22390,6 +22446,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Boundary matchers</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135621Z" creationid="nenyavie" creationdate="20200225T135621Z">
+        <seg>Regex - Límite de coincidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Character</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T123030Z" creationid="nenyavie" creationdate="20200225T123030Z">
@@ -33502,6 +33566,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\D</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135349Z" creationid="nenyavie" creationdate="20200225T135349Z">
+        <seg>\D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\E</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134429Z" creationid="nenyavie" creationdate="20200225T134429Z">
@@ -33526,6 +33598,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\S</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135433Z" creationid="nenyavie" creationdate="20200225T135433Z">
+        <seg>\S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\W</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135536Z" creationid="nenyavie" creationdate="20200225T135536Z">
+        <seg>\W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\\</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134255Z" creationid="nenyavie" creationdate="20200225T134255Z">
@@ -33546,6 +33634,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T133609Z" creationid="nenyavie" creationdate="20200225T133609Z">
         <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\d</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135330Z" creationid="nenyavie" creationdate="20200225T135330Z">
+        <seg>\d</seg>
       </tuv>
     </tu>
     <tu>
@@ -33606,6 +33702,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\s</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135408Z" creationid="nenyavie" creationdate="20200225T135408Z">
+        <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\t</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T133037Z" creationid="nenyavie" creationdate="20200225T133037Z">
@@ -33618,6 +33722,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T132956Z" creationid="nenyavie" creationdate="20200225T132956Z">
         <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\w</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200225T135501Z" creationid="nenyavie" creationdate="20200225T135501Z">
+        <seg>\w</seg>
       </tuv>
     </tu>
     <tu>
