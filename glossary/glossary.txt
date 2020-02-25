@@ -29,3 +29,4 @@ Plain text files	Archivos de texto sin formato
 File formats	Formatos de archivo
 PO as bilingual files	PO como archivos bilingües
 greedy quantifier	cuantificador expansivo	Greedy quantifier
+reluctant quantifier	cuantificador diferido
