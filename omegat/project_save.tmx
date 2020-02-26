@@ -14469,6 +14469,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T143852Z" creationid="nenyavie" creationdate="20200226T143852Z">
+        <seg>Si se seleccionan tanto esta opción como la opción &lt;l0&gt;&lt;g1&gt;Insertar el texto original&lt;/g1&gt;&lt;/l0&gt;, todas las palabras con la correspondiente entrada en el glosario se traducirán automáticamente cuando se inserte el texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T110903Z" creationid="Antonio" creationdate="20151127T110854Z">
@@ -23590,6 +23598,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T151649Z" creationid="Helli" creationdate="20150526T131817Z">
         <seg>Reemplazar con el original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T143745Z" creationid="nenyavie" creationdate="20200226T143745Z">
+        <seg>Reemplazar los aciertos del glosario al insertar el texto original</seg>
       </tuv>
     </tu>
     <tu>
