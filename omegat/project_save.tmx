@@ -23881,6 +23881,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T121839Z" creationid="nenyavie" creationdate="20200226T121839Z">
+        <seg>Al hacer clic con el botón derecho del ratón sobre una palabra subrayada (Artund en la imagen de arriba) se abre un menú desplegable con sugerencias para la corrección (Art und).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T232838Z" creationid="hcartagena" creationdate="20180604T232349Z">
