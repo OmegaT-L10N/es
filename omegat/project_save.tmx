@@ -16290,6 +16290,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T120251Z" creationid="nenyavie" creationdate="20200226T120251Z">
+        <seg>Sine embargo, es más sencillo buscar los diccionarios en línea mediante el campo &lt;e0&gt;URL de diccionarios en línea&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is sometimes useful to be able make some tags untranslatable based on the value of attributes.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T140553Z" creationid="Antonio" creationdate="20160316T140553Z">
