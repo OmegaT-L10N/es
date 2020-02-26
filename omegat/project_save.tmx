@@ -8176,6 +8176,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T120608Z" creationid="nenyavie" creationdate="20200226T120608Z">
+        <seg>Al pulsar en el botón de &lt;g0&gt;Instalar nuevo diccionario&lt;/g0&gt; se abrirá la ventana de instalación de diccionarios, en la que podrá seleccionar los diccionarios que quiera instalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T164716Z" creationid="eumeu" creationdate="20181116T133455Z">
