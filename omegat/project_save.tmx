@@ -29034,6 +29034,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T133105Z" creationid="nenyavie" creationdate="20200226T133105Z">
+        <seg>El programa buscará confirmación antes de cerrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T230207Z" creationid="Antonio" creationdate="20151127T172517Z">
@@ -30329,6 +30337,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T110149Z" creationid="Antonio" creationdate="20160126T110149Z">
         <seg>Esta opción le permite introducir la traducción sin la necesidad de eliminar el texto fuente, lo cual le ahorra un par de pulsaciones de teclado (&lt;c0&gt;Ctrl+A&lt;/c0&gt; y &lt;c1&gt;Supr&lt;/c1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T124345Z" creationid="nenyavie" creationdate="20200226T124345Z">
+        <seg>Esta opción es útil para algunos de los sistemas de entrada de caracteres chinos, japoneses o coreanos.</seg>
       </tuv>
     </tu>
     <tu>
