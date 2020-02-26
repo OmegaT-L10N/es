@@ -32265,8 +32265,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104835Z" creationid="nenyavie" creationdate="20200226T104835Z">
-        <seg>Incluir términos que aparecen a parte en el texto original</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T142807Z" creationid="nenyavie" creationdate="20200226T104835Z">
+        <seg>Incluir términos que aparecen separados en el texto original</seg>
       </tuv>
     </tu>
     <tu>
@@ -32329,8 +32329,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use terms appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T142714Z" creationid="nenyavie" creationdate="20200226T142714Z">
-        <seg>Incluir términos que aparecen a parte en el texto original</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T142807Z" creationid="nenyavie" creationdate="20200226T142714Z">
+        <seg>Incluir términos que aparecen separados en el texto original</seg>
       </tuv>
     </tu>
     <tu>
@@ -33231,6 +33231,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T173327Z" creationid="eumeu" creationdate="20181115T222730Z">
         <seg>Cuando esto se hace los paneles muestran una pestaña en la parte superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T142955Z" creationid="nenyavie" creationdate="20200226T142955Z">
+        <seg>Cuando esta opción está marcada, el glosario mostrará pares o grupos de palabras (expresiones) incluso si dichas palabras aparecen separadas en el texto original.</seg>
       </tuv>
     </tu>
     <tu>
