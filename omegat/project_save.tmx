@@ -15116,6 +15116,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T123722Z" creationid="nenyavie" creationdate="20200226T123722Z">
+        <seg>Si, por algún motivo, es necesario hacer esto de vez en cuando, tendría sentido copiar los archivos en cuestión en una carpeta distinta que únicamente use OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Igbo</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144552Z" creationid="Antonio" creationdate="20151128T144552Z">
