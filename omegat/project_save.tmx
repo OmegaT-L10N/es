@@ -25454,6 +25454,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T124253Z" creationid="nenyavie" creationdate="20200226T124253Z">
+        <seg>Vincula la validación de segmento al tabulador en lugar de a Enter, que es la tecla predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting up a preview function for use with OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T173255Z" creationid="Cristina" creationdate="20170917T173255Z">
@@ -32155,6 +32163,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T162251Z" creationid="Helli" creationdate="20150526T141040Z">
         <seg>Usar TAB para avanzar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T124124Z" creationid="nenyavie" creationdate="20200226T124124Z">
+        <seg>Usar tabulador para avanzar</seg>
       </tuv>
     </tu>
     <tu>
