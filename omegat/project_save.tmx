@@ -8200,6 +8200,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T144346Z" creationid="nenyavie" creationdate="20200226T144346Z">
+        <seg>Haga clic en este botón para acceder al sitio del proyecto &lt;u0&gt;TaaS&lt;/u0&gt; y crear una cuenta de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T165432Z" creationid="Antonio" creationdate="20151128T165432Z">
@@ -26672,6 +26680,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T144459Z" creationid="nenyavie" creationdate="20200226T144459Z">
+        <seg>Almacenar solo para esta sesión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T164900Z" creationid="taty" creationdate="20181205T164900Z">
@@ -34292,6 +34308,14 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T144447Z" creationid="nenyavie" creationdate="20200226T144447Z">
+        <seg>Entonces podrá crear una clave de acceso en la página &lt;u0&gt;https://term.tilde.com/cuenta/keys/crear?sistema=OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T195339Z" creationid="Antonio" creationdate="20151128T161905Z">
@@ -37126,6 +37150,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T212807Z" creationid="Antonio" creationdate="20160124T212807Z">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T144351Z" creationid="nenyavie" creationdate="20200226T144351Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T144256Z" creationid="nenyavie" creationdate="20200226T144256Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
