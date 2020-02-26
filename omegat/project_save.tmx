@@ -1877,6 +1877,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T095005Z" creationid="nenyavie" creationdate="20200226T095005Z">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151118T192010Z" creationid="hcartagena" creationdate="20151118T192010Z">
@@ -5086,6 +5094,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094707Z" creationid="nenyavie" creationdate="20200226T094707Z">
+        <seg>Se puede encontrar una buena colección de expresiones regulares muy útiles en el propio &lt;a0&gt;OmegaT&lt;/a0&gt; (consulte Opciones &gt; Segmentación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T135406Z" creationid="nenyavie" creationdate="20200225T135406Z">
@@ -5128,8 +5144,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T153922Z" creationid="nenyavie" creationdate="20200225T153922Z">
-        <seg>Una serie de herramientas interactivas para desarrollar y probar expresiones regulares.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T093807Z" creationid="nenyavie" creationdate="20200225T153922Z">
+        <seg>Hay disponible una serie de herramientas interactivas para desarrollar y probar expresiones regulares.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5402,6 +5418,78 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T221609Z" creationid="hcartagena" creationdate="20151116T221609Z">
         <seg>Acceso a carpeta &amp;de configuración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105913Z" creationid="nenyavie" creationdate="20200226T105913Z">
+        <seg>Acceder a carpeta de configuración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103850Z" creationid="nenyavie" creationdate="20200226T103850Z">
+        <seg>Acceso a carpetas del proyecto/Documento original actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103929Z" creationid="nenyavie" creationdate="20200226T103929Z">
+        <seg>Acceso a carpetas del proyecto/Documento traducido actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103619Z" creationid="nenyavie" creationdate="20200226T103619Z">
+        <seg>Acceso a carpetas del proyecto/Diccionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103633Z" creationid="nenyavie" creationdate="20200226T103633Z">
+        <seg>Acceso a carpetas del proyecto/Glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103555Z" creationid="nenyavie" creationdate="20200226T103555Z">
+        <seg>Acceso a carpetas del proyecto/Raíz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103902Z" creationid="nenyavie" creationdate="20200226T103717Z">
+        <seg>Acceso a carpetas del proyecto/Archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103744Z" creationid="nenyavie" creationdate="20200226T103744Z">
+        <seg>Acceso a carpetas del proyecto/Archivos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104011Z" creationid="nenyavie" creationdate="20200226T104011Z">
+        <seg>Acceso a carpetas del proyecto/Glosarios principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -5712,8 +5800,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T201822Z" creationid="hcartagena" creationdate="20160331T201822Z">
-        <seg>Después de traducir cada segmento, pulse &lt;k0&gt;Ctrl-U&lt;/k0&gt; para pasar al siguiente segmento sin traducir (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; para pasar al siguiente segmento traducido).</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="hcartagena" creationdate="20160331T201822Z">
+        <seg>Después de traducir cada segmento, pulse &lt;k0&gt;Ctrl-U&lt;/k0&gt; para pasar al siguiente segmento sin traducir (o &lt;k1&gt;Ctrl+Mayús+U&lt;/k1&gt; para pasar al siguiente segmento traducido).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6741,24 +6829,32 @@ correcto.</seg>
       <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162517Z" creationid="Helli" creationdate="20150526T142818Z">
-        <seg>Autorrellenado/Autotexto...</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105650Z" creationid="Helli" creationdate="20150526T142818Z">
+        <seg>Autocompletar/Autotexto...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto-completion/Character Table...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162534Z" creationid="Helli" creationdate="20150603T152518Z">
-        <seg>Autorrellenado/Tabla de caracteres...</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105650Z" creationid="Helli" creationdate="20150603T152518Z">
+        <seg>Autocompletar/Tabla de caracteres...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto-completion/Glossary...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162459Z" creationid="Helli" creationdate="20150526T142758Z">
-        <seg>Autorrellenado/Glosario...</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105650Z" creationid="Helli" creationdate="20150526T142758Z">
+        <seg>Autocompletar/Glosario...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105650Z" creationid="nenyavie" creationdate="20200226T105119Z">
+        <seg>Autocompletar/Mostrar sugerencias pertinentes automáticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7044,6 +7140,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T184013Z" creationid="Antonio" creationdate="20160331T184013Z">
         <seg>Antes de proceder con tales conversiones, asegúrese de probar todas las opciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T110614Z" creationid="nenyavie" creationdate="20200226T110614Z">
+        <seg>Antes de que se pueda utilizar la función de corrección ortográfica se debe instalar uno o varios diccionarios adecuados (es decir, para su idioma de destino).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9326,6 +9430,54 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Ctrl+Mayús+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T103415Z">
+        <seg>Ctrl+Mayús+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Ctrl+Mayús+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Ctrl+Mayús+G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104023Z">
+        <seg>Ctrl+Mayús+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Ctrl+Mayús+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T155841Z" creationid="Antonio" creationdate="20151130T155841Z">
@@ -9354,6 +9506,54 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T155900Z" creationid="Antonio" creationdate="20151130T155900Z">
         <seg>Ctrl+Mayús+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Ctrl+Mayús+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104017Z">
+        <seg>Ctrl+Mayús+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Ctrl+Mayús+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104118Z" creationid="nenyavie" creationdate="20200226T104028Z">
+        <seg>Ctrl+Mayús+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Ctrl+Mayús+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Ctrl+Mayús+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -9490,6 +9690,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T154811Z" creationid="Antonio" creationdate="20151126T154811Z">
         <seg>Selección de colores personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105729Z" creationid="nenyavie" creationdate="20200226T105729Z">
+        <seg>Colores personalizados...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10486,6 +10694,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103408Z" creationid="nenyavie" creationdate="20200226T103408Z">
+        <seg>Descargar página de MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download Overview</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171003T152000Z" creationid="Cristina" creationdate="20170812T161804Z">
@@ -10756,6 +10972,30 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T020111Z" creationid="hcartagena" creationdate="20160401T020111Z">
         <seg>Editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11129,6 +11369,22 @@ su página de ayuda no encontrada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T165311Z" creationid="hcartagena" creationdate="20151120T165311Z">
         <seg>Inglés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102426Z" creationid="nenyavie" creationdate="20200226T102426Z">
+        <seg>Inglés: la misma comprobación que la anterior, pero para las consonantes ("a", no "an")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102338Z" creationid="nenyavie" creationdate="20200226T102338Z">
+        <seg>Inglés: las palabras que comienzan con vocales deben estar precedidas por "an" y no "a"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12343,6 +12599,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finds the following:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T095000Z" creationid="nenyavie" creationdate="20200226T095000Z">
+        <seg>Busca lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finished</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T225656Z" creationid="Antonio" creationdate="20151127T172640Z">
@@ -13255,6 +13519,22 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104740Z" creationid="nenyavie" creationdate="20200226T104740Z">
+        <seg>Glosario/Mostrar la descripción contextual en glosarios TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104908Z" creationid="nenyavie" creationdate="20200226T104908Z">
+        <seg>Glosario/Usar lematización en términos de glosarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T162931Z" creationid="Antonio" creationdate="20160126T162931Z">
@@ -13313,8 +13593,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>GoTo Menu</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T155426Z" creationid="Helli" creationdate="20150526T123856Z">
-        <seg>Menú Dirigirse a</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105501Z" creationid="Helli" creationdate="20150526T123856Z">
+        <seg>Menú Ir a</seg>
       </tuv>
     </tu>
     <tu>
@@ -14667,6 +14947,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171012T120434Z" creationid="Cristina" creationdate="20170924T162315Z">
@@ -14871,6 +15159,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185102Z" creationid="Antonio" creationdate="20151210T185102Z">
         <seg>En OmegaT, los segmentos pueden estar basados en párrafos o en reglas de segmentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T114401Z" creationid="nenyavie" creationdate="20200226T114401Z">
+        <seg>En OmegaT, seleccione &lt;g0&gt;Opciones &gt; Spell Checking&lt;/g0&gt;, then hacer clic &lt;g1&gt;Elegir &lt;/g1&gt; beside the Diccionario archivo carpeta campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15127,6 +15423,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T151316Z" creationid="taty" creationdate="20181205T150815Z">
         <seg>De esta forma, "&lt;g1&gt;Cursor desactivado&lt;/g1&gt;" se visualiza en la parte inferior del panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T110849Z" creationid="nenyavie" creationdate="20200226T110849Z">
+        <seg>Cree una carpeta nueva en una localización adecuada de su archivo de administración para guardar los diccionarios ortográficos (en el siguiente ejemplo D:\Translations\spellcheckers)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15479,6 +15783,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T141329Z" creationid="taty" creationdate="20181109T141329Z">
         <seg>Instalando ortografía nueva desde dentro de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T110403Z" creationid="nenyavie" creationdate="20200226T110403Z">
+        <seg>Instalación de diccionarios ortográficos</seg>
       </tuv>
     </tu>
     <tu>
@@ -15863,6 +16175,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T144737Z" creationid="Cristina" creationdate="20170924T144737Z">
         <seg>También merece la pena preguntar en la &lt;a1&gt;lista de localizadores&lt;/a1&gt; (OmT-l10n) si alguien tiene material de referencia que pudiera facilitar su traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T110342Z" creationid="nenyavie" creationdate="20200226T110342Z">
+        <seg>Por tanto, se puede utilizar la amplia variedad de diccionarios ortográficos libres disponibles para estas aplicaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17403,6 +17723,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T220910Z" creationid="hcartagena" creationdate="20151116T220910Z">
@@ -18758,6 +19086,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104627Z" creationid="nenyavie" creationdate="20200226T104627Z">
+        <seg>Siguiente segmento único</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T155514Z" creationid="Helli" creationdate="20150526T134949Z">
@@ -19726,6 +20062,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170908T210909Z" creationid="Cristina" creationdate="20170908T210909Z">
         <seg>OmegaT para Mac OS X está disponible en versión firmada y sin firmar; cuentan con las mismas funciones, pero es preferible usar la versión firmada porque el sistema reconoce que la ha publicado un desarrollador conocido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T110131Z" creationid="nenyavie" creationdate="20200226T110131Z">
+        <seg>OmegaT tiene un corrector ortográfico integrado basado en el que se usa en Apache OpenOffice, LibreOffice, Firefox y Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21167,6 +21511,14 @@ cual bruma se disipa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102652Z" creationid="nenyavie" creationdate="20200226T102652Z">
+        <seg>Punto seguido de una mayúscula - ¿puede que falte un espacio entre el punto y el comienzo de una oración nueva?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Periodic builds are available on CloudBees.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T154541Z" creationid="Cristina" creationdate="20170916T154541Z">
@@ -21709,6 +22061,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T181625Z" creationid="hcartagena" creationdate="20180605T181625Z">
         <seg>Pulse las teclas de acceso directo que desea asignar y luego haga clic en Aceptar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22542,6 +22902,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Examples of regular expressions in translations</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094925Z" creationid="nenyavie" creationdate="20200226T094925Z">
+        <seg>Regex - ejemplos de expresiones regulares en traducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Flags</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T122655Z" creationid="nenyavie" creationdate="20200225T122655Z">
@@ -22590,6 +22958,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094233Z" creationid="nenyavie" creationdate="20200226T094233Z">
+        <seg>Evaluador de regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex tools and examples of use</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T150710Z" creationid="nenyavie" creationdate="20200225T150710Z">
@@ -22602,6 +22978,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T203224Z" creationid="Helli" creationdate="20150526T134533Z">
         <seg>Registrar traducción idéntica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expression</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094947Z" creationid="nenyavie" creationdate="20200226T094947Z">
+        <seg>[fuzzy]Expresión regular</seg>
       </tuv>
     </tu>
     <tu>
@@ -23418,8 +23802,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T165509Z" creationid="taty" creationdate="20181116T165509Z">
-        <seg>Haga clic con el botón derecho en el panel del glosario o presione &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; para agregar una nueva entrada.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="taty" creationdate="20181116T165509Z">
+        <seg>Haga clic con el botón derecho en el panel del glosario o presione &lt;k0&gt;Ctrl+Mayús+G&lt;/k0&gt; para agregar una nueva entrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24242,6 +24626,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094433Z" creationid="nenyavie" creationdate="20200226T094433Z">
+        <seg>Consulte &lt;u0&gt;The Regex Coach&lt;/u0&gt; para las versiones de Windows, Linux y FreeBSD de una herramienta independiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T162741Z" creationid="Antonio" creationdate="20160126T162741Z">
@@ -24640,6 +25032,46 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T203332Z" creationid="hcartagena" creationdate="20151116T203332Z">
         <seg>Seleccionar coincidencia #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105354Z" creationid="nenyavie" creationdate="20200226T104458Z">
+        <seg>Seleccionar coincidencia #1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #2</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105359Z" creationid="nenyavie" creationdate="20200226T104513Z">
+        <seg>Seleccionar coincidencia #2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #3</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105405Z" creationid="nenyavie" creationdate="20200226T104528Z">
+        <seg>Seleccionar coincidencia #3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105410Z" creationid="nenyavie" creationdate="20200226T104536Z">
+        <seg>Seleccionar coincidencia #4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105445Z" creationid="nenyavie" creationdate="20200226T104545Z">
+        <seg>Seleccionar coincidencia #5</seg>
       </tuv>
     </tu>
     <tu>
@@ -25652,6 +26084,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104650Z" creationid="nenyavie" creationdate="20200226T104650Z">
+        <seg>Origen de la coincidencia seleccionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T192717Z" creationid="hcartagena" creationdate="20151119T184103Z">
@@ -25760,6 +26200,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T221621Z" creationid="hcartagena" creationdate="20151116T221621Z">
         <seg>Revisión orto&amp;gráfica...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105943Z" creationid="nenyavie" creationdate="20200226T105943Z">
+        <seg>Corrector ortográfico</seg>
       </tuv>
     </tu>
     <tu>
@@ -26198,26 +26646,42 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch Case To/Cycle</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105338Z" creationid="nenyavie" creationdate="20200226T104424Z">
+        <seg>Cambio de caja a/Alternar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T153500Z" creationid="Helli" creationdate="20150526T133313Z">
-        <seg>Cambiar a/minúsculas</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105215Z" creationid="Helli" creationdate="20150526T133313Z">
+        <seg>Cambio de caja a/minúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Sentence Case</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105309Z" creationid="nenyavie" creationdate="20200226T104345Z">
+        <seg>Cambio de caja a/Tipo oración</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T153536Z" creationid="Helli" creationdate="20150526T133508Z">
-        <seg>Cambiar a título estilo inglés</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105300Z" creationid="Helli" creationdate="20150526T133508Z">
+        <seg>Cambio de caja a/Tipo título</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Upper Case</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T153513Z" creationid="Helli" creationdate="20150526T133416Z">
-        <seg>Cambiar a/mayúscula</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105216Z" creationid="Helli" creationdate="20150526T133416Z">
+        <seg>Cambio de caja a/mayúscula</seg>
       </tuv>
     </tu>
     <tu>
@@ -26506,6 +26970,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T232844Z" creationid="hcartagena" creationdate="20151124T232844Z">
         <seg>Opciones de procesamiento de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105851Z" creationid="nenyavie" creationdate="20200226T105851Z">
+        <seg>Procesamiento de etiquetas...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27929,6 +28401,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094852Z" creationid="nenyavie" creationdate="20200226T094725Z">
+        <seg>La siguiente lista incluye expresiones que le pueden resultar útiles al buscar por la memoria de traducción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following options apply to the 3.x filter only</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T204220Z" creationid="hcartagena" creationdate="20151119T204220Z">
@@ -28778,8 +29258,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T162331Z" creationid="Antonio" creationdate="20160126T162331Z">
-        <seg>El texto resaltado por el usuario, presionando &lt;k0&gt;Ctrl + Shift + C&lt;/k0&gt; o cuando se selecciona &lt;g1&gt;Editar &amp;amp;gt; Exportar selección&lt;/g1&gt; (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="Antonio" creationdate="20160126T162331Z">
+        <seg>El texto resaltado por el usuario, presionando &lt;k0&gt;Ctrl + Mayús + C&lt;/k0&gt; o cuando se selecciona &lt;g1&gt;Editar &amp;amp;gt; Exportar selección&lt;/g1&gt; (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29098,8 +29578,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T203938Z" creationid="hcartagena" creationdate="20160331T203102Z">
-        <seg>Por lo tanto, pulse &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; antes de generar los archivos traducidos, para verificar que las etiquetas estén correctas.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="hcartagena" creationdate="20160331T203102Z">
+        <seg>Por lo tanto, pulse &lt;k0&gt;Ctrl+Mayús+V&lt;/k0&gt; antes de generar los archivos traducidos, para verificar que las etiquetas estén correctas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29255,6 +29735,14 @@ una de ellas te alcanzó</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094303Z" creationid="nenyavie" creationdate="20200226T094210Z">
+        <seg>Por lo general, siguen el mismo patrón (más abajo puede verse un ejemplo del evaluador de expresiones regulares): la expresión regular (entrada superior) analiza el texto de la búsqueda (cuadro de texto del medio), y genera los aciertos que se muestran en el cuadro de texto del resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T144326Z" creationid="Antonio" creationdate="20160316T144326Z">
@@ -29351,6 +29839,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T214532Z" creationid="hcartagena" creationdate="20151125T000314Z">
         <seg>Esta llamada DEBE estar en un subproceso 'swing'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Mayús&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29535,6 +30031,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T193006Z" creationid="Antonio" creationdate="20160316T193006Z">
         <seg>**Cómo funciona:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is much the same as the above example.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094504Z" creationid="nenyavie" creationdate="20200226T094438Z">
+        <seg>Es muy parecido al ejemplo anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31335,8 +31839,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T145336Z" creationid="taty" creationdate="20181116T171512Z">
-        <seg>Por tanto actualizar un archivo de glosario es bastante simple: presione &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; e ingrese el nuevo término, su traducción y cualquier comentario que pueda tener (asegurandose de presionar el tabulador entre los campos) y guarde el archivo.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="taty" creationdate="20181116T171512Z">
+        <seg>Por tanto actualizar un archivo de glosario es bastante simple: presione &lt;k0&gt;Ctrl+Mayús+G&lt;/k0&gt; e ingrese el nuevo término, su traducción y cualquier comentario que pueda tener (asegurandose de presionar el tabulador entre los campos) y guarde el archivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31461,6 +31965,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Stemming for &amp;Glossary Entries</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T211054Z" creationid="hcartagena" creationdate="20151116T221147Z">
@@ -31473,6 +31985,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T162251Z" creationid="Helli" creationdate="20150526T141040Z">
         <seg>Usar TAB para avanzar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104835Z" creationid="nenyavie" creationdate="20200226T104835Z">
+        <seg>Incluir términos que aparecen a parte en el texto original</seg>
       </tuv>
     </tu>
     <tu>
@@ -33178,8 +33698,8 @@ No se encontró la página</seg>
       <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T204716Z" creationid="hcartagena" creationdate="20160331T204716Z">
-        <seg>Puede añadir un término nuevo al glosario con la combinación &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; o copiar glosarios a la carpeta &lt;f1&gt;/glossary/&lt;/f1&gt; dentro de la carpeta de su proyecto y OmegaT buscará palabras en ellos automáticamente.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="hcartagena" creationdate="20160331T204716Z">
+        <seg>Puede añadir un término nuevo al glosario con la combinación &lt;k0&gt;Ctrl+Mayús+G&lt;/k0&gt; o copiar glosarios a la carpeta &lt;f1&gt;/glossary/&lt;/f1&gt; dentro de la carpeta de su proyecto y OmegaT buscará palabras en ellos automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33236,6 +33756,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T191756Z" creationid="Antonio" creationdate="20160316T191756Z">
         <seg>Usted puede cambiar o añadir patrones de nombres de archivo para que los maneje cada filtro de archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103128Z" creationid="nenyavie" creationdate="20200226T103128Z">
+        <seg>Puede cambiar los atajos ya asignados y añadir nuevos colocando un archivo con la definición de los atajos en la carpeta de preferencias de &lt;a0&gt;OmegaT&lt;/a0&gt; (a la que se accede desde el menú mediante &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Acesso a la carpeta de configuración&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33694,6 +34222,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T095016Z" creationid="nenyavie" creationdate="20200226T095016Z">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134946Z" creationid="nenyavie" creationdate="20200225T134946Z">
@@ -33754,6 +34290,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134046Z" creationid="nenyavie" creationdate="20200225T134046Z">
         <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T095054Z" creationid="nenyavie" creationdate="20200226T095054Z">
+        <seg>\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102445Z" creationid="nenyavie" creationdate="20200226T102445Z">
+        <seg>\.[A-Z]</seg>
       </tuv>
     </tu>
     <tu>
@@ -33862,6 +34414,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102702Z" creationid="nenyavie" creationdate="20200226T102702Z">
+        <seg>\bis\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\cx</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T133609Z" creationid="nenyavie" creationdate="20200225T133609Z">
@@ -33938,6 +34498,38 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T135408Z" creationid="nenyavie" creationdate="20200225T135408Z">
         <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+$</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T095057Z" creationid="nenyavie" creationdate="20200226T095057Z">
+        <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102223Z" creationid="nenyavie" creationdate="20200226T102223Z">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102345Z" creationid="nenyavie" creationdate="20200226T102345Z">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102429Z" creationid="nenyavie" creationdate="20200226T102429Z">
+        <seg>\s{2,}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34558,6 +35150,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>comma or a period, followed by spaces and yet another comma or period</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T095051Z" creationid="nenyavie" creationdate="20200226T095051Z">
+        <seg>punto o coma seguido de espacios y después otro punto o coma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>commons-*.jar (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T175047Z" creationid="Antonio" creationdate="20151127T175047Z">
@@ -34806,6 +35406,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>double words</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T095013Z" creationid="nenyavie" creationdate="20200226T095013Z">
+        <seg>palabras dobles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dv</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T084146Z" creationid="Antonio" creationdate="20151128T084146Z">
@@ -34934,10 +35542,26 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104600Z" creationid="nenyavie" creationdate="20200226T104600Z">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editRegisterIdenticalMenuItem</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T155411Z" creationid="Antonio" creationdate="20151130T155411Z">
         <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104556Z" creationid="nenyavie" creationdate="20200226T104556Z">
+        <seg>editRegisterUntranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -35150,6 +35774,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>extra spaces after the period at the end of the line</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102218Z" creationid="nenyavie" creationdate="20200226T102218Z">
+        <seg>espacios de más después del punto final de la línea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fa</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154630Z" creationid="Antonio" creationdate="20151128T154630Z">
@@ -35242,6 +35874,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T084927Z" creationid="Antonio" creationdate="20151128T084927Z">
         <seg>fin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104217Z" creationid="nenyavie" creationdate="20200226T104217Z">
+        <seg>findInProjectReuseLastWindow</seg>
       </tuv>
     </tu>
     <tu>
@@ -35439,6 +36079,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104655Z" creationid="nenyavie" creationdate="20200226T104655Z">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gotoNextNoteMenuItem</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T155802Z" creationid="Antonio" creationdate="20151130T155802Z">
@@ -35459,6 +36107,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T155546Z" creationid="Antonio" creationdate="20151130T155546Z">
         <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104631Z" creationid="nenyavie" creationdate="20200226T104631Z">
+        <seg>gotoNextUniqueMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -35944,6 +36600,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T094305Z" creationid="nenyavie" creationdate="20200226T094305Z">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T115054Z" creationid="Antonio" creationdate="20160125T115054Z">
@@ -36052,6 +36716,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T114344Z" creationid="Antonio" creationdate="20160125T114344Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103325Z" creationid="nenyavie" creationdate="20200226T103325Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103314Z" creationid="nenyavie" creationdate="20200226T103314Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -37114,6 +37794,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102440Z" creationid="nenyavie" creationdate="20200226T102440Z">
+        <seg>más de un espacio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>morfologik-*.jar (Morfologik license)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T212755Z" creationid="hcartagena" creationdate="20151119T212755Z">
@@ -37586,6 +38274,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105915Z" creationid="nenyavie" creationdate="20200226T105915Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T162318Z" creationid="Antonio" creationdate="20151130T162318Z">
@@ -37618,6 +38314,22 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105640Z" creationid="nenyavie" creationdate="20200226T105640Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T105733Z" creationid="nenyavie" creationdate="20200226T105733Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T162824Z" creationid="Antonio" creationdate="20151130T162824Z">
@@ -37630,6 +38342,30 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T162551Z" creationid="Antonio" creationdate="20151130T162551Z">
         <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104842Z" creationid="nenyavie" creationdate="20200226T104842Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104910Z" creationid="nenyavie" creationdate="20200226T104910Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104744Z" creationid="nenyavie" creationdate="20200226T104744Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -37891,6 +38627,70 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103904Z" creationid="nenyavie" creationdate="20200226T103904Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103935Z" creationid="nenyavie" creationdate="20200226T103935Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103621Z" creationid="nenyavie" creationdate="20200226T103621Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103635Z" creationid="nenyavie" creationdate="20200226T103635Z">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103558Z" creationid="nenyavie" creationdate="20200226T103558Z">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103718Z" creationid="nenyavie" creationdate="20200226T103718Z">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103745Z" creationid="nenyavie" creationdate="20200226T103745Z">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104014Z" creationid="nenyavie" creationdate="20200226T104014Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectCloseMenuItem</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T151307Z" creationid="Antonio" creationdate="20151130T151307Z">
@@ -37951,6 +38751,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T144355Z" creationid="Antonio" creationdate="20151130T144355Z">
         <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T103338Z" creationid="nenyavie" creationdate="20200226T103338Z">
+        <seg>projectOpenRecentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -38251,6 +39059,14 @@ directorio de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>search for “is”, not “this” or “isn't” etc.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T102831Z" creationid="nenyavie" creationdate="20200226T102831Z">
+        <seg>busca "es", no "esto" o "no es", etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>segment 0000</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T223343Z" creationid="hcartagena" creationdate="20151116T223333Z">
@@ -38287,6 +39103,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222622Z" creationid="hcartagena" creationdate="20151201T222603Z">
         <seg>original podría lucir así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104346Z" creationid="nenyavie" creationdate="20200226T104346Z">
+        <seg>sentenceCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -39255,6 +40079,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T151424Z" creationid="Antonio" creationdate="20151130T151424Z">
         <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T104658Z" creationid="nenyavie" creationdate="20200226T104658Z">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
