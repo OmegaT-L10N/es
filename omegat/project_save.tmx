@@ -8878,6 +8878,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T120110Z" creationid="nenyavie" creationdate="20200226T120110Z">
+        <seg>Copiar los archivos manualmente tiene sentido si ya tiene archivos de diccionario adecuados en su sistema, por ejemplo, como parte de su instalación de Apache OpenOffice, LibreOffice, Firefox o Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T163540Z" creationid="Antonio" creationdate="20151128T163540Z">
