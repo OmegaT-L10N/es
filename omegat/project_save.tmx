@@ -21588,6 +21588,14 @@ actualizar el servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T115555Z" creationid="nenyavie" creationdate="20200226T115555Z">
+        <seg>Coloque los archivos de diccionario que quiera utilizar en esa carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plain text</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170812T154024Z" creationid="Cristina" creationdate="20170812T154024Z">
@@ -33829,6 +33837,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T155913Z" creationid="Antonio" creationdate="20160126T155913Z">
         <seg>Puede decidir no traducir todos estos segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T115740Z" creationid="nenyavie" creationdate="20200226T115740Z">
+        <seg>Puede copiar los archivos manualmente, es decir, desde cualquier lugar de su sistema, usando su administrador de archivos; o puede usar la función &lt;e0&gt;"Instalar nuevo diccionario"&lt;/e0&gt; de OmegaT que proporciona una lista de los diccionarios disponibles para elegir.</seg>
       </tuv>
     </tu>
     <tu>
