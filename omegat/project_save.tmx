@@ -14764,6 +14764,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T144251Z" creationid="nenyavie" creationdate="20200226T144012Z">
+        <seg>Si se marca esta opción, el glosario solo mostrará una entrada, aunque la misma palabra exista de varias formas (por ejemplo, con y sin mayúsculas) en el glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T154145Z" creationid="Antonio" creationdate="20160126T154145Z">
@@ -15200,6 +15208,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T142139Z" creationid="Antonio" creationdate="20160128T141133Z">
         <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas: de manera prederminada, OmegaT utiliza el nombre del archivo de origen como parte de la identificación de una traducción alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T143938Z" creationid="nenyavie" creationdate="20200226T143938Z">
+        <seg>Ignorar coincidencias con diferencias de caja muy visibles (FOO en vez de foo, por ejemplo)</seg>
       </tuv>
     </tu>
     <tu>
