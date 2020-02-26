@@ -15046,8 +15046,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T133525Z" creationid="nenyavie" creationdate="20200226T133525Z">
-        <seg>Al desmarcar esta opción, solo se traducirá automáticamente cuando, en el segmento actual, se presione &lt;k0&gt; &lt;k1&gt;CTRL&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; en OS X).</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T133656Z" creationid="nenyavie" creationdate="20200226T133525Z">
+        <seg>Al desmarcar esta opción, solo se traducirá automáticamente cuando, en el segmento actual, se pulse &lt;k0&gt; &lt;k1&gt;CTRL&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; en OS X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32023,6 +32023,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T133714Z" creationid="nenyavie" creationdate="20200226T133714Z">
+        <seg>Solo segmentos sin traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T235908Z" creationid="Antonio" creationdate="20151126T153943Z">
@@ -34312,6 +34320,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T222236Z" creationid="hcartagena" creationdate="20151116T222236Z">
         <seg>Debe introducir un número entre 1 y {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T133639Z" creationid="nenyavie" creationdate="20200226T133639Z">
+        <seg>Después se deberá pulsar nuevamente &lt;k6&gt; &lt;k7&gt;CTRL&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; para insertar la sugestión.</seg>
       </tuv>
     </tu>
     <tu>
