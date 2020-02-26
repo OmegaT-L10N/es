@@ -29074,6 +29074,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T134623Z" creationid="nenyavie" creationdate="20200226T134623Z">
+        <seg>Los procedimientos para configurar el acceso a los servicios de Microsoft Translator y Google Translate se describen &lt;u0&gt;aquí&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The program will seek confirmation before closing down.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T133105Z" creationid="nenyavie" creationdate="20200226T133105Z">
@@ -37006,6 +37014,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T103314Z" creationid="nenyavie" creationdate="20200226T103314Z">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T134541Z" creationid="nenyavie" creationdate="20200226T134541Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
       </tuv>
     </tu>
     <tu>
