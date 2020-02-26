@@ -19507,6 +19507,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T121343Z" creationid="nenyavie" creationdate="20200226T121343Z">
+        <seg>Tenga en cuenta que, obviamente, realizará la comprobación en el estándar (castellano) en lugar de en español mexicano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T212443Z" creationid="Antonio" creationdate="20160329T212443Z">
