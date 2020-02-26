@@ -6907,6 +6907,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T144906Z" creationid="nenyavie" creationdate="20200226T144906Z">
+        <seg>Buscar automáticamente el texto del segmento en el diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160127T182109Z" creationid="Antonio" creationdate="20160127T182109Z">
@@ -8164,6 +8172,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T040913Z" creationid="hcartagena" creationdate="20160401T040913Z">
         <seg>Borrar marca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T145000Z" creationid="nenyavie" creationdate="20200226T145000Z">
+        <seg>Quite esta opción para desactivar la búsqueda automática, por ejemplo, si los diccionarios son demasiado largos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25414,6 +25430,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T145059Z" creationid="nenyavie" creationdate="20200226T145059Z">
+        <seg>Seleccione esta opción si quiere que los diccionarios muestren palabras con la misma raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select this option if you want the glossary to display words that have the same root.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T143705Z" creationid="nenyavie" creationdate="20200226T143705Z">
@@ -32427,6 +32451,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T232519Z" creationid="hcartagena" creationdate="20151124T232519Z">
         <seg>Usar plantillas personalizadas para la información sobre modificaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T145019Z" creationid="nenyavie" creationdate="20200226T145019Z">
+        <seg>Usar coincidencias aproximadas para entradas de diccionarios</seg>
       </tuv>
     </tu>
     <tu>
