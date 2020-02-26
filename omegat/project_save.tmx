@@ -14700,6 +14700,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T123410Z" creationid="nenyavie" creationdate="20200226T123410Z">
+        <seg>Si se están utilizando con cualquier otra aplicación de su sistema, desaparecerán también de dichas aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T145540Z" creationid="Helli" creationdate="20150526T130710Z">
@@ -19484,6 +19492,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T123244Z" creationid="nenyavie" creationdate="20200226T123244Z">
+        <seg>Tenga en cuenta que &lt;f0&gt;Quitar&lt;/f0&gt; elimina físicamente los vocabularios seleccionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T115732Z" creationid="Helli" creationdate="20150526T153716Z">
@@ -19880,6 +19896,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T153626Z" creationid="Antonio" creationdate="20151128T153620Z">
         <seg>Occitano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T123152Z" creationid="nenyavie" creationdate="20200226T123152Z">
+        <seg>Por supuesto, es mucho más sensato, tomarse un breve descanso y descargar las versiones correctas del corrector ortográfico.</seg>
       </tuv>
     </tu>
     <tu>
