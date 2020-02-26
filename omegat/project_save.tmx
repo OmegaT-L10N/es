@@ -10350,6 +10350,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T134652Z" creationid="nenyavie" creationdate="20200226T134652Z">
+        <seg>Mostrar la descripción contextual en glosarios TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T222522Z" creationid="Antonio" creationdate="20151127T175356Z">
