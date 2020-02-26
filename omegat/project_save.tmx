@@ -6054,6 +6054,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T122742Z" creationid="nenyavie" creationdate="20200226T122742Z">
+        <seg>Compruebe también que el código del idioma destino de su proyecto concuerda con los vocabularios disponibles en la ventana de configuración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T145746Z" creationid="taty" creationdate="20181116T145746Z">
@@ -15215,8 +15223,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T115257Z" creationid="nenyavie" creationdate="20200226T114401Z">
-        <seg>En OmegaT, seleccione &lt;g0&gt;Opciones &gt; Preferencias &gt; Spellchecker&lt;/g0&gt;, pulse en &lt;g1&gt;Seleccionar&lt;/g1&gt; junto al campo de Carpeta de archivos de diccionarios.</seg>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T122651Z" creationid="nenyavie" creationdate="20200226T114401Z">
+        <seg>En OmegaT, seleccione &lt;g0&gt;Opciones &gt; Preferencias &gt; Corrector ortográfico&lt;/g0&gt;, pulse en &lt;g1&gt;Seleccionar&lt;/g1&gt; junto al campo de Carpeta de archivos de diccionarios.</seg>
       </tuv>
     </tu>
     <tu>
