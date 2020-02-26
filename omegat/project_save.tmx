@@ -6899,6 +6899,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T133137Z" creationid="nenyavie" creationdate="20200226T133137Z">
+        <seg>Obtener traducciones automáticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160127T182109Z" creationid="Antonio" creationdate="20160127T182109Z">
@@ -12839,6 +12847,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T133243Z" creationid="nenyavie" creationdate="20200226T133243Z">
+        <seg>Por razones de confidencialidad, se podría no querer enviar todos los segmentos al motor de traducción automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T140926Z" creationid="nenyavie" creationdate="20200225T140926Z">
@@ -15024,6 +15040,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T133525Z" creationid="nenyavie" creationdate="20200226T133525Z">
+        <seg>Al desmarcar esta opción, solo se traducirá automáticamente cuando, en el segmento actual, se presione &lt;k0&gt; &lt;k1&gt;CTRL&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; en OS X).</seg>
       </tuv>
     </tu>
     <tu>
