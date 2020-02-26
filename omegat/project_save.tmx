@@ -23946,6 +23946,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores the components of the main OmegaT window to their default state.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T145202Z" creationid="nenyavie" creationdate="20200226T145202Z">
+        <seg>Restaura los componentes de la ventana principal de OmegaT a su estado predeterminado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restores the status before the last editing action was cancelled.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191209T221914Z" creationid="nenyavie" creationdate="20191209T221914Z">
@@ -32491,6 +32499,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T185333Z" creationid="eumeu" creationdate="20181115T233247Z">
         <seg>Se puede utilizar la parte de arriba como referencia y reemplazar o modificar los contenidos del campo de edición con la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T174151Z" creationid="nenyavie" creationdate="20200226T174151Z">
+        <seg>Utilice esta función cuando haya desacoplado, movido u ocultado uno o más componentes y no pueda restaurar la disposición deseada.</seg>
       </tuv>
     </tu>
     <tu>
