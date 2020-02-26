@@ -7912,6 +7912,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T121551Z" creationid="nenyavie" creationdate="20200226T121551Z">
+        <seg>De todas maneras, asegúrese de que los códigos de idioma son exactamente iguales: un diccionario FR-FR no funcionará con una configuración de destino FR, por ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T160944Z" creationid="Antonio" creationdate="20160125T160901Z">
