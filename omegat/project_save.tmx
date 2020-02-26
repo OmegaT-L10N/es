@@ -8024,6 +8024,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T133839Z" creationid="nenyavie" creationdate="20200226T133839Z">
+        <seg>Marque la casilla para enviar únicamente los segmentos sin traducir a los servicios de traducción automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T165517Z" creationid="Antonio" creationdate="20160126T165517Z">
@@ -25298,6 +25306,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T165954Z" creationid="hcartagena" creationdate="20180605T165710Z">
         <seg>Seleccionar un archivo de programas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="es" changeid="nenyavie" changedate="20200226T134532Z" creationid="nenyavie" creationdate="20200226T134532Z">
+        <seg>Seleccione un proveedor de la lista y, si es necesario, pulse &lt;g0&gt;Configurar&lt;/g0&gt; para introducir los datos de identificación proporcionados por el proveedor.</seg>
       </tuv>
     </tu>
     <tu>
