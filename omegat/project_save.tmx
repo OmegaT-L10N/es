@@ -4960,8 +4960,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T183130Z" creationid="Cristina" creationdate="20170820T151510Z">
-        <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las actualizaciones futuras de la versión Web Start se instalarán automáticamente en su ordenador.&lt;br2/&gt;</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231200Z" creationid="Cristina" creationdate="20170820T151510Z">
+        <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las actualizaciones futuras de la versión Web Start se instalarán automáticamente en su equipo.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14910,8 +14910,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20171012T113753Z" creationid="Cristina" creationdate="20170905T182621Z">
-        <seg>Si está seguro de que ya tiene una versión adecuada de JRE instalada en su ordenador, puede descargar una versión de OmegaT sin JRE.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231228Z" creationid="Cristina" creationdate="20170905T182621Z">
+        <seg>Si está seguro de que ya tiene una versión adecuada de JRE instalada en su equipo, puede descargar una versión de OmegaT sin JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14974,8 +14974,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T183615Z" creationid="Cristina" creationdate="20170822T190853Z">
-        <seg>Si está seguro de que ya hay una versión de JRE instalada en su ordenador a nivel de sistema, puede seleccionar la versión sin JRE incluido.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231209Z" creationid="Cristina" creationdate="20170822T190853Z">
+        <seg>Si está seguro de que ya hay una versión de JRE instalada en su equipo a nivel de sistema, puede seleccionar la versión sin JRE incluido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15078,8 +15078,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T144835Z" creationid="Cristina" creationdate="20170905T184006Z">
-        <seg>Si instala la versión de OmegaT con JRE aunque ya tenga JRE instalado en su ordenador, el JRE de OmegaT se instalará por separado y no entrará en conflicto.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231257Z" creationid="Cristina" creationdate="20170905T184006Z">
+        <seg>Si instala la versión de OmegaT con JRE aunque ya tenga JRE instalado en su equipo, el JRE de OmegaT se instalará por separado y no entrará en conflicto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15519,8 +15519,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T184218Z" creationid="Cristina" creationdate="20170905T182545Z">
-        <seg>Es necesario que tenga Java Runtime Environment (JRE) instalado en su ordenador para que OmegaT funcione.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231214Z" creationid="Cristina" creationdate="20170905T182545Z">
+        <seg>Es necesario que tenga Java Runtime Environment (JRE) instalado en su equipo para que OmegaT funcione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28266,8 +28266,8 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       <tuv lang="en">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T150854Z" creationid="Cristina" creationdate="20170916T150854Z">
-        <seg>La versión Web Start le ofrece una forma alternativa de instalar OmegaT en su ordenador.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231302Z" creationid="Cristina" creationdate="20170916T150854Z">
+        <seg>La versión Web Start le ofrece una forma alternativa de instalar OmegaT en su equipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29253,8 +29253,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170924T173902Z" creationid="Cristina" creationdate="20170916T151650Z">
-        <seg>Los permisos que le dé a esta versión (que se pueden describir como «acceso no restringido al ordenador») son idénticos a los permisos que asigne a la versión local, es decir, permiten el acceso al disco duro de su ordenador. </seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231407Z" creationid="Cristina" creationdate="20170916T151650Z">
+        <seg>Los permisos que le dé a esta versión (que se pueden describir como "acceso no restringido al equipo") son idénticos a los permisos que asigne a la versión local, es decir, permiten el acceso al disco duro de su equipo.</seg>
       </tuv>
     </tu>
     <tu>
