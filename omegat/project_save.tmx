@@ -14511,8 +14511,8 @@ es que su invierno ha llegado</seg>
       <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T183206Z" creationid="Cristina" creationdate="20170822T183518Z">
-        <seg>Si ya tiene un JRE adecuado instalado en su sistema Windows, seleccione «Sin JRE».</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231950Z" creationid="Cristina" creationdate="20170822T183518Z">
+        <seg>Si ya tiene un JRE adecuado instalado en su sistema Windows, seleccione "sin JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -16350,11 +16350,12 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Preferir comillas inglesas "" (más usadas) a las comillas curvas «»</note>
       <tuv lang="en">
         <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T165037Z" creationid="Cristina" creationdate="20170917T165037Z">
-        <seg>Se encuentra en la carpeta «docs» de la carpeta de programa de OmegaT.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231821Z" creationid="Cristina" creationdate="20170917T165037Z">
+        <seg>Se encuentra en la carpeta "docs" de la carpeta de programa de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28256,11 +28257,12 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Preferir comillas inglesas "" (más usadas) a las comillas curvas «»</note>
       <tuv lang="en">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170820T151031Z" creationid="Cristina" creationdate="20170820T151031Z">
-        <seg>La versión Web Start es la versión para «instalar y olvidarse».&lt;br0/&gt;</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231912Z" creationid="Cristina" creationdate="20170820T151031Z">
+        <seg>La versión Web Start es la versión para "instalar y olvidarse".&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
