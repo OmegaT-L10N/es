@@ -1833,8 +1833,8 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
       <tuv lang="en">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T181401Z" creationid="Cristina" creationdate="20170812T152704Z">
-        <seg>(El software que hace eso se llama «traducción automática» y tendrá que buscarlo en otra parte).</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232149Z" creationid="Cristina" creationdate="20170812T152704Z">
+        <seg>(El software que hace eso se llama "traducción automática" y tendrá que buscarlo en otra parte).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5656,8 +5656,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T162454Z" creationid="Cristina" creationdate="20170917T162454Z">
-        <seg>Añadir números a todos los segmentos, de forma que todos sean «únicos»</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232231Z" creationid="Cristina" creationdate="20170917T162454Z">
+        <seg>Añadir números a todos los segmentos, de forma que todos sean "únicos"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6136,8 +6136,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170816T185812Z" creationid="Cristina" creationdate="20170816T185812Z">
-        <seg>Aunque muchos usuarios son conscientes de esto, su reacción suele ser «¡Pero yo no sé programar!».</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232204Z" creationid="Cristina" creationdate="20170816T185812Z">
+        <seg>Aunque muchos usuarios son conscientes de esto, su reacción suele ser "¡Pero yo no sé programar!".</seg>
       </tuv>
     </tu>
     <tu>
@@ -6685,8 +6685,8 @@ correcto.</seg>
       <tuv lang="en">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170826T111605Z" creationid="Cristina" creationdate="20170826T111605Z">
-        <seg>Como su nombre indica, la «última versión» de OmegaT está más actualizada.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232056Z" creationid="Cristina" creationdate="20170826T111605Z">
+        <seg>Como su nombre indica, la "última versión" de OmegaT está más actualizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7458,8 +7458,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T182707Z" creationid="Cristina" creationdate="20170820T121445Z">
-        <seg>«¡Pero yo no sé programar!», dirá.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232216Z" creationid="Cristina" creationdate="20170820T121445Z">
+        <seg>"¡Pero yo no sé programar!", dirá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14685,8 +14685,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T183218Z" creationid="Cristina" creationdate="20170822T183640Z">
-        <seg>Si no lo tiene o no está seguro, seleccione «con JRE».</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232003Z" creationid="Cristina" creationdate="20170822T183640Z">
+        <seg>Si no lo tiene o no está seguro, seleccione "con JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -27889,16 +27889,16 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170822T191539Z" creationid="Cristina" creationdate="20170822T191539Z">
-        <seg>La versión «estándar» de OmegaT incluye un manual de usuario completo (al menos en inglés) y suele probarse durante un tiempo para eliminar los errores.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232043Z" creationid="Cristina" creationdate="20170822T191539Z">
+        <seg>La versión "estándar" de OmegaT incluye un manual de usuario completo (al menos en inglés) y suele probarse durante un tiempo para eliminar los errores.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170822T190233Z" creationid="Cristina" creationdate="20170822T190233Z">
-        <seg>La versión «con pilas incluidas» de OmegaT, con su propio Java Runtime Environment.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232026Z" creationid="Cristina" creationdate="20170822T190233Z">
+        <seg>La versión "con pilas incluidas" de OmegaT, con su propio Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30989,8 +30989,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20171006T171141Z" creationid="Cristina" creationdate="20170826T114914Z">
-        <seg>Para obtener OpenOffice.org o LibreOffice, haga clic en el enlace del botón «Software de terceros» a la izquierda.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232128Z" creationid="Cristina" creationdate="20170826T114914Z">
+        <seg>Para obtener OpenOffice.org o LibreOffice, haga clic en el enlace del botón "Software de terceros" a la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
