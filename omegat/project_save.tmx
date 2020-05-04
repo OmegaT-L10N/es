@@ -13329,8 +13329,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181211T093853Z" creationid="eumeu" creationdate="20181115T224830Z">
-        <seg>Panel de coincidencias parciales: los archivos soltados &lt;f0&gt;.tmx&lt;/f0&gt; se copiarán en la carpeta &lt;f1&gt;tm&lt;/f1&gt;.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222319Z" creationid="eumeu" creationdate="20181115T224830Z">
+        <seg>Panel de coincidencias aproximadas: los archivos soltados &lt;f0&gt;.tmx&lt;/f0&gt; se copiarán en la carpeta &lt;f1&gt;tm&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13345,8 +13345,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Fuzzy matching</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170812T152811Z" creationid="Cristina" creationdate="20170812T152811Z">
-        <seg>Coincidencias parciales</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222433Z" creationid="Cristina" creationdate="20170812T152811Z">
+        <seg>Coincidencias aproximadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -15879,8 +15879,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>Insert the best fuzzy match</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T150831Z" creationid="Antonio" creationdate="20160126T150831Z">
-        <seg>Insertar la coincidencia parcial más parecida</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222303Z" creationid="Antonio" creationdate="20160126T150831Z">
+        <seg>Insertar la coincidencia aproximada más parecida</seg>
       </tuv>
     </tu>
     <tu>
@@ -33509,8 +33509,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181211T094303Z" creationid="taty" creationdate="20181205T153747Z">
-        <seg>Al pasar al siguiente segmento, se selecciona automáticamente la primera coincidencia parcial (la que tiene el mejor porcentaje de coincidencia).</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222329Z" creationid="taty" creationdate="20181205T153747Z">
+        <seg>Al pasar al siguiente segmento, se selecciona automáticamente la primera coincidencia aproximada (la que tiene el mejor porcentaje de coincidencia).</seg>
       </tuv>
     </tu>
     <tu>
