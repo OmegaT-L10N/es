@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232358Z" creationid="hectorcartagena" creationdate="20200504T232358Z">
+        <seg>"Esta aplicación requiere que tenga Java %d JDK o superior instalado en su equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T152634Z" creationid="taty" creationdate="20181116T152634Z">
@@ -22022,6 +22030,22 @@ si es necesaria alguna acción adicional.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T170510Z" creationid="Antonio" creationdate="20151127T164010Z">
         <seg>Por favor, compruébelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232534Z" creationid="hectorcartagena" creationdate="20200504T232534Z">
+        <seg>Descargue e instale el Java JDK más reciente desde Oracle.com y vuelva a intentarlo.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232327Z" creationid="hectorcartagena" creationdate="20200504T232327Z">
+        <seg>Descargue e instale la versión más reciente de Java desde www.java.com y vuelva a intentarlo.";</seg>
       </tuv>
     </tu>
     <tu>
