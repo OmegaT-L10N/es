@@ -15940,6 +15940,15 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Confirmar preferencia entre plugin/complemento/extensión y agregarla al glosario.</note>
+      <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222901Z" creationid="hectorcartagena" creationdate="20200504T222901Z">
+        <seg>Plugins instalados:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Installing OmegaT</seg>
       </tuv>
@@ -19028,6 +19037,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T201851Z" creationid="hcartagena" creationdate="20151119T201851Z">
         <seg>Opciones del filtro Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222527Z" creationid="hectorcartagena" creationdate="20200504T222527Z">
+        <seg>Mozilla FTL</seg>
       </tuv>
     </tu>
     <tu>
