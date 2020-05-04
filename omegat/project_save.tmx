@@ -14902,8 +14902,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T182728Z" creationid="Cristina" creationdate="20170820T121458Z">
-        <seg>Si está moderadamente familiarizado con los ordenadores en general y elige un lenguaje de scripting sencillo como JavaScript o Tcl/Tk, podría aprender usted mismo a escribir scripts simples pero útiles en tan solo un par de semanas.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231444Z" creationid="Cristina" creationdate="20170820T121458Z">
+        <seg>Si está moderadamente familiarizado con los equipos en general y elige un lenguaje de scripting sencillo como JavaScript o Tcl/Tk, podría aprender usted mismo a escribir scripts simples pero útiles en tan solo un par de semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15131,11 +15131,12 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Preferir comillas inglesas "" (más usadas) a las comillas curvas «»</note>
       <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T204322Z" creationid="hcartagena" creationdate="20160331T204322Z">
-        <seg>Si pone esos archivos de memoria de traducción en la subcarpeta &lt;f6&gt;/tm/&lt;/f6&gt; de un proyecto, OmegaT buscará automáticamente segmentos similares en ellos, lo que se conoce como «coincidencias aproximadas».</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231808Z" creationid="hcartagena" creationdate="20160331T204322Z">
+        <seg>Si pone esos archivos de memoria de traducción en la subcarpeta &lt;f6&gt;/tm/&lt;/f6&gt; de un proyecto, OmegaT buscará automáticamente segmentos similares en ellos, lo que se conoce como "coincidencias aproximadas".</seg>
       </tuv>
     </tu>
     <tu>
@@ -15511,8 +15512,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T151739Z" creationid="Cristina" creationdate="20170916T151739Z">
-        <seg>Para instalar la versión Web Start, es necesario que tenga la versión de Java 1.3 o posterior instalada en su ordenador.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231413Z" creationid="Cristina" creationdate="20170916T151739Z">
+        <seg>Para instalar la versión Web Start, es necesario que tenga la versión de Java 1.3 o posterior instalada en su equipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34729,8 +34730,8 @@ crearlas.</seg>
       <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T152558Z" creationid="Cristina" creationdate="20170916T152558Z">
-        <seg>Sus documentos y memorias de traducción permanecen en su ordenador y el proyecto de OmegaT no tendrá acceso a su trabajo ni a su información.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231433Z" creationid="Cristina" creationdate="20170916T152558Z">
+        <seg>Sus documentos y memorias de traducción permanecen en su equipo y el proyecto de OmegaT no tendrá acceso a su trabajo ni a su información.</seg>
       </tuv>
     </tu>
     <tu>
