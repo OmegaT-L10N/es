@@ -48,16 +48,16 @@
       <tuv lang="en">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T230613Z" creationid="hectorcartagena" creationdate="20200504T230339Z">
-        <seg>"No se puede cargar entorno de ejecución Java.";</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T230733Z" creationid="hectorcartagena" creationdate="20200504T230339Z">
+        <seg>"No se puede cargar Java Runtime Environment.";</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T230549Z" creationid="hectorcartagena" creationdate="20200504T230549Z">
-        <seg>"No se puede cargar un entorno de ejecución Java %d.";</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T230721Z" creationid="hectorcartagena" creationdate="20200504T230549Z">
+        <seg>"No se puede cargar Java %d Runtime Environment.";</seg>
       </tuv>
     </tu>
     <tu>
