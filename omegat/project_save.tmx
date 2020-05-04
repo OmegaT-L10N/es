@@ -21574,6 +21574,14 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233254Z" creationid="hectorcartagena" creationdate="20200504T233254Z">
+        <seg>De lo contrario, OmegaT usará el idioma del sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Out-of-order</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T232840Z" creationid="Antonio" creationdate="20151127T163402Z">
@@ -32640,6 +32648,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T142807Z" creationid="nenyavie" creationdate="20200226T142714Z">
         <seg>Incluir términos que aparecen separados en el texto original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the installation language in OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233306Z" creationid="hectorcartagena" creationdate="20200504T233306Z">
+        <seg>Usar el idioma de instalación en OmegaT</seg>
       </tuv>
     </tu>
     <tu>
