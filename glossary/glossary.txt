@@ -30,3 +30,4 @@ File formats	Formatos de archivo
 PO as bilingual files	PO como archivos bilingües
 greedy quantifier	cuantificador expansivo	Greedy quantifier
 reluctant quantifier	cuantificador diferido
+computer	equipo	forma neutra en reemplazo de las formas locales "ordenador" "computadora" "máquina" o "computador"
