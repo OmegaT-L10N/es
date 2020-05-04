@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232919Z" creationid="hectorcartagena" creationdate="20200504T232919Z">
+        <seg>"No se puede lanzar desde la carpeta que tiene \"/\" en el nombre.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T170226Z" creationid="Cristina" creationdate="20170917T170226Z">
         <seg>Guías en este sitio con información sobre determinados procedimientos y funciones de OmegaT para usuarios avanzados que no se incluyen en el manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232725Z" creationid="hectorcartagena" creationdate="20200504T232725Z">
+        <seg>"Se requiere el nombre de la clase principal.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +66,14 @@
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T152634Z" creationid="taty" creationdate="20181116T152634Z">
         <seg>"Este es un término fuente que contiene una coma","c'est un terme, qui contient une virgule" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232742Z" creationid="hectorcartagena" creationdate="20200504T232742Z">
+        <seg>"No se puede enumerar el contenido del directorio de Java.";</seg>
       </tuv>
     </tu>
     <tu>
