@@ -15229,6 +15229,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233243Z" creationid="hectorcartagena" creationdate="20200504T233243Z">
+        <seg>Si desea usar en OmegaT el mismo idioma usado durante la instalación, marque la casilla de abajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T115854Z" creationid="Helli" creationdate="20150526T153824Z">
@@ -20299,6 +20307,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T163216Z" creationid="Antonio" creationdate="20151130T163216Z">
         <seg>OmegaT - Proyecto en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT User Interface Language</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233122Z" creationid="hectorcartagena" creationdate="20200504T233103Z">
+        <seg>Idioma de interfaz de usuario de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -30045,11 +30061,12 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
     </tu>
     <tu>
+      <note>Preferir "archivo" (más usado) a "fichero".</note>
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160125T152646Z" creationid="Antonio" creationdate="20160125T152646Z">
-        <seg>Debe haber tres ficheros, con extensiones &lt;s0&gt;dz, idx&lt;/s0&gt; e &lt;s1&gt;ifo.&lt;/s1&gt;</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233007Z" creationid="Antonio" creationdate="20160125T152646Z">
+        <seg>Debe haber tres archivos, con extensiones &lt;s0&gt;dz, idx&lt;/s0&gt; e &lt;s1&gt;ifo.&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32767,6 +32784,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170812T153622Z" creationid="Cristina" creationdate="20170812T153622Z">
         <seg>Glosarios de usuario con reconocimiento de flexiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User interface language for OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233137Z" creationid="hectorcartagena" creationdate="20200504T233117Z">
+        <seg>Idioma de la interfaz de usuario para OmegaT</seg>
       </tuv>
     </tu>
     <tu>
