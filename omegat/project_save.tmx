@@ -6795,6 +6795,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222917Z" creationid="hectorcartagena" creationdate="20200504T222917Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author of the match when the match was created</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T155306Z" creationid="taty" creationdate="20181205T165602Z">
@@ -8156,6 +8164,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083645Z" creationid="Antonio" creationdate="20151128T083645Z">
         <seg>Chuvasio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222907Z" creationid="hectorcartagena" creationdate="20200504T222907Z">
+        <seg>Clase</seg>
       </tuv>
     </tu>
     <tu>
@@ -22670,8 +22686,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T095712Z" creationid="nenyavie" creationdate="20200225T095712Z">
-        <seg>Proyecto commands are deshabilitado for seguridad reasons.</seg>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T223130Z" creationid="nenyavie" creationdate="20200225T095712Z">
+        <seg>Los comandos de proyecto están deshabilitados por razones de seguridad.</seg>
       </tuv>
     </tu>
     <tu>
