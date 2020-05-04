@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_3137b086" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18683,6 +18683,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222218Z" creationid="hectorcartagena" creationdate="20200504T222218Z">
+        <seg>mostrar una coincidencia aproximada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233954Z" creationid="hcartagena" creationdate="20151124T233954Z">
@@ -19020,6 +19028,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T201851Z" creationid="hcartagena" creationdate="20151119T201851Z">
         <seg>Opciones del filtro Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T221949Z" creationid="hectorcartagena" creationdate="20200504T221949Z">
+        <seg>Opciones del filtro Mozilla FTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -28041,6 +28057,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T091719Z" creationid="hcartagena" creationdate="20151119T201921Z">
         <seg>El filtro Mozilla DTD generó una excepción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T221931Z" creationid="hectorcartagena" creationdate="20200504T221931Z">
+        <seg>El filtro Mozilla FTL generó una excepción:</seg>
       </tuv>
     </tu>
     <tu>
