@@ -16039,6 +16039,26 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014358Z" creationid="hectorcartagena" creationdate="20200508T014358Z">
+        <seg>Instalar OmegaT (Mac)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014330Z" creationid="hectorcartagena" creationdate="20200508T014330Z">
+        <seg>Instalar OmegaT (Windows)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181130T144649Z" creationid="eumeu" creationdate="20181130T144649Z">
@@ -17560,6 +17580,14 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014346Z" creationid="hectorcartagena" creationdate="20200508T014346Z">
+        <seg>Iniciar el programa de instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T220855Z" creationid="hcartagena" creationdate="20151201T220855Z">
@@ -17644,6 +17672,16 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T154307Z" creationid="taty" creationdate="20181109T154307Z">
         <seg>LIbreOffice y las versiones mas recientes de OpenOffice.org ahora usan el formato "extensiones" para estos diccionarios, en los que los archivos son suministrados en un archivo zip con la extensión .oxt. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T013113Z" creationid="hectorcartagena" creationdate="20200508T013113Z">
+        <seg>Información de la licencia
+=====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -20520,6 +20558,19 @@ Computer-Assisted Translation).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014139Z" creationid="hectorcartagena" creationdate="20200508T013041Z">
+        <seg>OmegaT es una herramienta multiplataforma libre para la traducción asistida por 
+computadora (TAC) que está dotada de diversas funciones: coincidencias aproximadas, 
+memoria de traducción, búsqueda por palabras clave, glosarios y aprovechamiento de 
+traducciones previas en proyectos nuevos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T022226Z" creationid="hcartagena" creationdate="20151119T212054Z">
@@ -20556,6 +20607,18 @@ Computer-Assisted Translation).</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T191439Z" creationid="eumeu" creationdate="20181115T235603Z">
         <seg>OmegaT puede almacenar las traducciones que son idénticas al original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014204Z" creationid="hectorcartagena" creationdate="20200508T013234Z">
+        <seg>OmegaT está disponible bajo los términos de la GNU General Public License 
+publicada por la Free Software Foundation, bien la versión 3 de la Licencia, 
+o (a su elección) cualquier versión posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20748,6 +20811,16 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014223Z" creationid="hectorcartagena" creationdate="20200508T014103Z">
+        <seg>OmegaT requiere que tenga instalado en su sistema Java Runtime Environment (JRE) 
+versión 1.8 o superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184143Z" creationid="Antonio" creationdate="20151210T184143Z">
@@ -20784,6 +20857,14 @@ del sistema que contiene su carpeta particular.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T175632Z" creationid="Cristina" creationdate="20170916T175632Z">
         <seg>Curso de formación en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T013401Z" creationid="hectorcartagena" creationdate="20200508T013401Z">
+        <seg>OmegaT usa una variedad de bibliotecas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22376,6 +22457,16 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164822Z" creationid="hcartagena" creationdate="20180605T164822Z">
         <seg>Edición Premium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T013935Z" creationid="hectorcartagena" creationdate="20200508T013935Z">
+        <seg>Prerrequisitos para instalar OmegaT
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -29094,6 +29185,16 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T013424Z" creationid="hectorcartagena" creationdate="20200508T013424Z">
+        <seg>La licencia de cada biblioteca se menciona en
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T161456Z" creationid="taty" creationdate="20181205T161456Z">
@@ -33416,6 +33517,16 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014317Z" creationid="hectorcartagena" creationdate="20200508T014317Z">
+        <seg>Recomendamos usar paquetes de OmegaT que incluyan JRE para evitarle la molestia 
+de seleccionarlo, obtenerlo e instalarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Web Start</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T150805Z" creationid="Cristina" creationdate="20170820T150805Z">
@@ -34485,6 +34596,16 @@ No se encontró la página</seg>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T223611Z" creationid="hcartagena" creationdate="20151116T223611Z">
         <seg>Puede encontrar información estadística detallada en el archivo:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T013259Z" creationid="hectorcartagena" creationdate="20200508T013259Z">
+        <seg>Puede encontrar el texto de la licencia en
+/docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
