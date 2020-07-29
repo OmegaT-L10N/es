@@ -14843,6 +14843,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210558Z" creationid="hcartagena" creationdate="20200729T210558Z">
+        <seg>Si la opción está seleccionada, no se utilizará el nombre del archivo de origen y se usarán traducciones alternativas en cualquier archivo siempre y cuando coincida con el resto del contexto (segmento anterior/siguiente, o algún tipo de identificador de segmento, según el formato del archivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the option is off, the source text will be copied to the target segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T134909Z" creationid="Antonio" creationdate="20160316T134909Z">
@@ -15360,6 +15368,14 @@ volverán al estado predeterminado.</seg>
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T142139Z" creationid="Antonio" creationdate="20160128T141133Z">
+        <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas: de manera prederminada, OmegaT utiliza el nombre del archivo de origen como parte de la identificación de una traducción alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210536Z" creationid="hcartagena" creationdate="20200729T210536Z">
         <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas: de manera prederminada, OmegaT utiliza el nombre del archivo de origen como parte de la identificación de una traducción alternativa.</seg>
       </tuv>
     </tu>
@@ -25980,6 +25996,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210607Z" creationid="hcartagena" creationdate="20200729T210607Z">
+        <seg>Diversos filtros (archivos de texto, XHTML, HTML y XHTML, OpenDocument/archivos de OpenOffice.org y los archivos de Microsoft Open XML), tienen una o varias opciones específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T163719Z" creationid="Antonio" creationdate="20151130T163719Z">
@@ -31301,6 +31325,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T142548Z" creationid="Antonio" creationdate="20160128T142548Z">
         <seg>Para modificar las opciones, seleccione el filtro de la lista y haga clic en &lt;s0&gt;Opciones&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210630Z" creationid="hcartagena" creationdate="20200729T210630Z">
+        <seg>Para modificar las opciones, seleccione el filtro del listado y haga clic en &lt;e0&gt;Opciones&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
