@@ -29959,6 +29959,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233141Z" creationid="hcartagena" creationdate="20200729T233141Z">
+        <seg>La información más reciente sobre OmegaT se encuentra en:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T160759Z" creationid="eumeu" creationdate="20181116T131550Z">
