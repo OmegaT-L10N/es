@@ -5929,6 +5929,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235014Z" creationid="hcartagena" creationdate="20200729T235014Z">
+        <seg>Administración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Administrative and technical procedure for localizating OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T174953Z" creationid="Cristina" creationdate="20170917T174953Z">
@@ -10973,6 +10981,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234949Z" creationid="hcartagena" creationdate="20200729T234949Z">
+        <seg>Sistema de seguimiento de documentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170828T180124Z" creationid="Cristina" creationdate="20170828T180124Z">
@@ -12654,6 +12670,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235006Z" creationid="hcartagena" creationdate="20200729T235006Z">
+        <seg>Grupo de Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T230530Z" creationid="hcartagena" creationdate="20151124T230530Z">
@@ -12762,6 +12786,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T171758Z" creationid="Cristina" creationdate="20170917T171758Z">
         <seg>Guías de funciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234944Z" creationid="hcartagena" creationdate="20200729T234944Z">
+        <seg>Sistema de seguimiento de solicitudes de funcionalidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -13436,6 +13468,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T105313Z" creationid="Antonio" creationdate="20160125T105313Z">
         <seg>A partir de este momento, para trabajar con esos archivos basta con abrir el proyecto como cualquier otro de &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235051Z" creationid="hcartagena" creationdate="20200729T235051Z">
+        <seg>Para solicitudes de soporte, usar el &lt;a1&gt;canal de soporte recomendado&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16784,6 +16824,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180306Z" creationid="hcartagena" creationdate="20180605T180306Z">
         <seg>Problemas en {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234935Z" creationid="hcartagena" creationdate="20200729T234935Z">
+        <seg>Sistema de seguimiento de problemas/errores</seg>
       </tuv>
     </tu>
     <tu>
@@ -21107,6 +21155,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235002Z" creationid="hcartagena" creationdate="20200729T235002Z">
+        <seg>OmegaT tiene presencia en distintas redes sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233843Z" creationid="hcartagena" creationdate="20200729T233843Z">
@@ -21650,6 +21706,14 @@ versión 1.8 o superior.</seg>
         <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170826T113815Z" creationid="Cristina" creationdate="20170826T113815Z">
+        <seg>OmegaT funcionará en cualquier sistema en el que esté instalado o pueda instalarse JRE (Java Runtime Environment).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235141Z" creationid="hcartagena" creationdate="20200729T235141Z">
         <seg>OmegaT funcionará en cualquier sistema en el que esté instalado o pueda instalarse JRE (Java Runtime Environment).</seg>
       </tuv>
     </tu>
@@ -22801,6 +22865,22 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235035Z" creationid="hcartagena" creationdate="20200729T235035Z">
+        <seg>Contactar al &lt;a0&gt;administrador del proyecto OmegaT&lt;/a0&gt; sobre cualquier tema no descrito aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235116Z" creationid="hcartagena" creationdate="20200729T235116Z">
+        <seg>Contactar al &lt;a3&gt;administrador web&lt;/a3&gt; sobre cualquier tema relacionado específicamente con el sitio web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -22823,6 +22903,14 @@ si es necesaria alguna acción adicional.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T162834Z" creationid="Cristina" creationdate="20170924T162834Z">
         <seg>Le rogamos que NO envíe el archivo de proyecto de OmegaT entero al coordinador de localización (no es necesario que reciba varias copias del proyecto entero).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234924Z" creationid="hcartagena" creationdate="20200729T234924Z">
+        <seg>No se recomienda usar estos sistemas antes de haber hecho la pregunta en el grupo de usuarios o en las listas de distribución de correo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27078,6 +27166,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234952Z" creationid="hcartagena" creationdate="20200729T234952Z">
+        <seg>Redes sociales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155111Z" creationid="Antonio" creationdate="20151128T155111Z">
@@ -28548,6 +28644,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T143214Z" creationid="Antonio" creationdate="20160128T143214Z">
         <seg>Técnicamente, el segmento &lt;c0&gt;msgstr&lt;/c0&gt; del archivo de destino PO, si se crea, se dejará vacío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235010Z" creationid="hcartagena" creationdate="20200729T235010Z">
+        <seg>Telegram</seg>
       </tuv>
     </tu>
     <tu>
@@ -32895,6 +32999,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T160936Z" creationid="Antonio" creationdate="20151128T160936Z">
         <seg>Twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235008Z" creationid="hcartagena" creationdate="20200729T235008Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
