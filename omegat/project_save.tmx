@@ -4019,6 +4019,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T224906Z" creationid="hcartagena" creationdate="20200729T224906Z">
+        <seg>&lt;nombre y ruta del archivo Java ejecutable&gt; -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T172832Z" creationid="Antonio" creationdate="20151127T172832Z">
@@ -17923,6 +17931,16 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T220003Z" creationid="hcartagena" creationdate="20200729T220003Z">
+        <seg>Iniciar OmegaT desde la línea de comandos (todos los sistemas)
+====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T220855Z" creationid="hcartagena" creationdate="20151201T220855Z">
@@ -29073,6 +29091,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T220012Z" creationid="hcartagena" creationdate="20200729T220012Z">
+        <seg>El comando para iniciar OmegaT es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -35043,6 +35069,16 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215940Z" creationid="hcartagena" creationdate="20200729T215940Z">
+        <seg>Entonces
+podrá iniciar el programa de inicio en Kaptain con:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T150733Z" creationid="Antonio" creationdate="20160126T150733Z">
@@ -36561,6 +36597,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083611Z" creationid="Antonio" creationdate="20151128T083611Z">
         <seg>cat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T220024Z" creationid="hcartagena" creationdate="20200729T220024Z">
+        <seg>cd &lt;directorio donde está el archivo OmegaT.jar&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39757,6 +39801,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T215754Z" creationid="hcartagena" creationdate="20200729T215754Z">
         <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215944Z" creationid="hcartagena" creationdate="20200729T215944Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
