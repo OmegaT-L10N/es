@@ -19513,6 +19513,14 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203258Z" creationid="hcartagena" creationdate="20200729T203258Z">
+        <seg>OAuth token no especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151125T000601Z" creationid="hcartagena" creationdate="20151125T000601Z">
@@ -19533,6 +19541,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T230817Z" creationid="Antonio" creationdate="20151127T171527Z">
         <seg>No hay conexión disponible, el proyecto está en modo sin conexión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203309Z" creationid="hcartagena" creationdate="20200729T203309Z">
+        <seg>ID de carpeta no especificado</seg>
       </tuv>
     </tu>
     <tu>
@@ -20113,6 +20129,14 @@ por un paraíso gozoso</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T213527Z" creationid="hcartagena" creationdate="20151119T213527Z">
         <seg>&amp;Opciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203218Z" creationid="hcartagena" creationdate="20200729T203218Z">
+        <seg>OAuth token</seg>
       </tuv>
     </tu>
     <tu>
@@ -32149,10 +32173,34 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203326Z" creationid="hcartagena" creationdate="20200729T203326Z">
+        <seg>No se pudo analizar respuesta del servicio IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T191033Z" creationid="hcartagena" creationdate="20151119T191033Z">
         <seg>No se pudo analizar el archivo de configuración de filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203359Z" creationid="hcartagena" creationdate="20200729T203359Z">
+        <seg>No se pudo analizar reporte de error del servicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203339Z" creationid="hcartagena" creationdate="20200729T203339Z">
+        <seg>No se pudo analizar respuesta del servicio de traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -32733,6 +32781,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T145019Z" creationid="nenyavie" creationdate="20200226T145019Z">
         <seg>Usar coincidencias aproximadas para entradas de diccionarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203230Z" creationid="hcartagena" creationdate="20200729T203230Z">
+        <seg>Usar términos del glosario</seg>
       </tuv>
     </tu>
     <tu>
