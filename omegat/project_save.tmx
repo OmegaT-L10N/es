@@ -29050,6 +29050,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212918Z" creationid="hcartagena" creationdate="20200729T212918Z">
+        <seg>El cuadro de diálogo incluye un editor especial para el patrón de nombre del archivo de destino con el que puede personalizar los nombres de los archivos de salida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog is useful because it includes a special target filename pattern editor with which you can customize the names of output files.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T185737Z" creationid="Antonio" creationdate="20160316T185737Z">
@@ -31279,6 +31287,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212759Z" creationid="hcartagena" creationdate="20200729T212759Z">
+        <seg>Para añadir un nuevo patrón de filtro de archivos, haga clic en &lt;e1&gt;Añadir&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T144738Z" creationid="Antonio" creationdate="20160330T144738Z">
@@ -31477,6 +31493,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T185512Z" creationid="Antonio" creationdate="20160316T185512Z">
         <seg>Para modificar las opciones del filtro del archivo, puede modificar directamente los campos o bien hacer clic en &lt;e0&gt;Editar.&lt;/e0&gt; Para añadir un nuevo conjunto de opciones de filtro del archivo, haga clic en &lt;e1&gt;Añadir&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212744Z" creationid="hcartagena" creationdate="20200729T212744Z">
+        <seg>Para modificar un patrón de filtro de archivo, puede modificar directamente los campos o hacer clic en &lt;e0&gt;Editar&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
