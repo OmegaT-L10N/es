@@ -18698,6 +18698,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234440Z" creationid="hcartagena" creationdate="20200729T234440Z">
+        <seg>Listas de distribución de correo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181109T123057Z" creationid="eumeu" creationdate="20181109T123057Z">
@@ -20967,6 +20975,14 @@ la carpeta Aplicaciones.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T180616Z" creationid="Antonio" creationdate="20160331T180616Z">
         <seg>**OmegaT le permite hacer esto mediante el marcado de caracteres/palabras que tienen un formato especial con &lt;a1&gt;etiquetas&lt;/a1&gt; de fácil manipulación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234653Z" creationid="hcartagena" creationdate="20200729T234653Z">
+        <seg>OmegaT también tiene las siguientes listas de distribución de correo y sistemas de seguimiento alojados en Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
