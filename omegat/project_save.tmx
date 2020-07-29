@@ -5134,10 +5134,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T214710Z" creationid="hcartagena" creationdate="20200729T214710Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>==============================================================================</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151120T111459Z" creationid="Antonio" creationdate="20151120T111459Z">
         <seg>==============================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T214707Z" creationid="hcartagena" creationdate="20200729T214707Z">
+        <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
     </tu>
     <tu>
@@ -16191,6 +16207,16 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T214918Z" creationid="hcartagena" creationdate="20200729T214918Z">
+        <seg>Instalar OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
@@ -19321,6 +19347,16 @@ por un paraíso gozoso</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T214901Z" creationid="hcartagena" creationdate="20200729T214901Z">
+        <seg>Mueva la carpeta a una ubicación adecuada como
+la carpeta Aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194054Z" creationid="Víctor Parra" creationdate="20151126T194054Z">
@@ -20891,6 +20927,16 @@ del sistema que contiene su carpeta particular.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T214941Z" creationid="hcartagena" creationdate="20200729T214941Z">
+        <seg>OmegaT ya está listo
+para iniciarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T115605Z" creationid="Cristina" creationdate="20170820T115605Z">
@@ -22237,6 +22283,14 @@ everything.</seg>
         <seg>Poner los archivos originales en ./source y el material
 complementario en ./tm, ./glossary y ./dictionary según corresponda y luego
 actualizar el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T214930Z" creationid="hcartagena" creationdate="20200729T214930Z">
+        <seg>Ponga el archivo en una carpeta y descomprímala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32781,6 +32835,16 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T214837Z" creationid="hcartagena" creationdate="20200729T214820Z">
+        <seg>Descomprima el archivo .zip de OmegaT para obtener una carpeta que contiene
+un archivo de documentación y la aplicación de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -35054,6 +35118,16 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T105745Z" creationid="Antonio" creationdate="20160126T105745Z">
         <seg>Puede hacer que el texto de origen quede insertado automáticamente en el campo de edición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215021Z" creationid="hcartagena" creationdate="20200729T215021Z">
+        <seg>Sin embargo, puede obtener una instalación más limpia y fácil de usar
+mediante el programa de instalación (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
