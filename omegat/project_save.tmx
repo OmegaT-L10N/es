@@ -15189,6 +15189,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T204558Z" creationid="hcartagena" creationdate="20200729T204558Z">
+        <seg>Si desea no usar OmegaT para traducir archivos de un cierto tipo, puede desactivar el filtro correspondiente desactivando la casilla de verificación situada al lado de su nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171012T114738Z" creationid="Cristina" creationdate="20170921T190615Z">
@@ -21075,6 +21083,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T124808Z" creationid="Antonio" creationdate="20160128T124808Z">
         <seg>En este caso, OmegaT omitirá los archivos correspondientes mientras carga los proyectos, y los copiará sin modificarlos cuando crea los documentos finales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T204723Z" creationid="hcartagena" creationdate="20200729T204723Z">
+        <seg>En este caso, OmegaT omitirá los archivos correspondientes al cargar los proyectos y los copiará sin modificaciones en la carpeta de destino cuando crea los documentos finales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29010,6 +29026,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T204530Z" creationid="hcartagena" creationdate="20200729T204530Z">
+        <seg>Los filtros usados por el proyecto actual aparecen en negrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T144451Z" creationid="Antonio" creationdate="20151130T144451Z">
@@ -30619,6 +30643,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T124502Z" creationid="Antonio" creationdate="20160128T124502Z">
         <seg>El cuadro de diálogo muestra una lista con los filtros de archivo disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T204505Z" creationid="hcartagena" creationdate="20200729T204505Z">
+        <seg>Este cuadro de diálogo muestra los filtros de archivo disponibles.</seg>
       </tuv>
     </tu>
     <tu>
