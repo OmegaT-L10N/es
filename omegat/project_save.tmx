@@ -2915,6 +2915,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212211Z" creationid="hcartagena" creationdate="20200729T212211Z">
+        <seg>&lt;e0&gt;Agregar o reescribir declaración de codificación en archivos HTML y XHTML&lt;/e0&gt;: los archivos de destino a veces necesitan tener una codificación de caracteres distinta del archivo de origen, sea por definición explícita o implícita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T211934Z" creationid="hcartagena" creationdate="20200729T211934Z">
@@ -13179,6 +13187,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T183546Z" creationid="Antonio" creationdate="20160316T183546Z">
         <seg>Por ejemplo, si el filtro de archivo especifica UTF8 como esquema de codificación correspondiente a los archivos de destino,  seleccionando la opción Siempre se garantizará que esta información se incluye en los archivos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212310Z" creationid="hcartagena" creationdate="20200729T212310Z">
+        <seg>Por ejemplo, si el filtro de archivo especifica UTF-8 como esquema de codificación para los archivos de destino, seleccionando la opción "Siempre" se garantizará que esta información se incluya en los archivos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33463,6 +33479,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T182919Z" creationid="Antonio" creationdate="20160316T182919Z">
         <seg>Utilizando esta  opción, el traductor puede especificar si los archivos de destino van a llevar incluida la declaración de codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212235Z" creationid="hcartagena" creationdate="20200729T212235Z">
+        <seg>Con esta opción, el traductor puede especificar si los archivos de destino deben llevar incluida la declaración de codificación.</seg>
       </tuv>
     </tu>
     <tu>
