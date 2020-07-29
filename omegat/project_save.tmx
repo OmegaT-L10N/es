@@ -5569,6 +5569,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233615Z" creationid="hcartagena" creationdate="20200729T233615Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T091822Z" creationid="nenyavie" creationdate="20200225T091822Z">
@@ -6061,6 +6069,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T081751Z" creationid="Antonio" creationdate="20151128T081751Z">
         <seg>Albanés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233622Z" creationid="hcartagena" creationdate="20200729T233622Z">
+        <seg>Alex Buloichik</seg>
       </tuv>
     </tu>
     <tu>
@@ -10413,6 +10429,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233717Z" creationid="hcartagena" creationdate="20200729T233717Z">
+        <seg>Desarrolladores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DictZip from JDict (GPL)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T230900Z" creationid="hcartagena" creationdate="20151124T230900Z">
@@ -10929,6 +10953,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170816T190153Z" creationid="Cristina" creationdate="20170816T190153Z">
         <seg>Creación de documentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233652Z" creationid="hcartagena" creationdate="20200729T233652Z">
+        <seg>Administrador de documentación</seg>
       </tuv>
     </tu>
     <tu>
@@ -16540,6 +16572,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233632Z" creationid="hcartagena" creationdate="20200729T233632Z">
+        <seg>Administrador de integración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Intended in particular for users who are new to Linux.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T175140Z" creationid="Cristina" creationdate="20170917T175022Z">
@@ -17487,6 +17527,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233604Z" creationid="hcartagena" creationdate="20200729T233604Z">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key behavior in the editor</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151125T011414Z" creationid="Víctor Parra" creationdate="20151125T011402Z">
@@ -17627,6 +17675,14 @@ en la primera ejecución.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T051245Z" creationid="hcartagena" creationdate="20160401T051245Z">
         <seg>KoreanAnalyzer-3x-120223.jar (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233713Z" creationid="hcartagena" creationdate="20200729T233713Z">
+        <seg>Kos Ivantsov</seg>
       </tuv>
     </tu>
     <tu>
@@ -18072,6 +18128,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233621Z" creationid="hcartagena" creationdate="20200729T233621Z">
+        <seg>Desarrollador jefe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T220855Z" creationid="hcartagena" creationdate="20151201T220855Z">
@@ -18398,6 +18462,14 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T153722Z" creationid="Cristina" creationdate="20170917T153722Z">
         <seg>Repositorio de TMX de la localización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233709Z" creationid="hcartagena" creationdate="20200729T233709Z">
+        <seg>Administrador de localización, administrador del grupo de usuarios</seg>
       </tuv>
     </tu>
     <tu>
@@ -20995,6 +21067,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233843Z" creationid="hcartagena" creationdate="20200729T233843Z">
+        <seg>OmegaT tiene un grupo de usuarios muy activo, colaborativo y multilinguüe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has an inline spelling checker.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140955Z" creationid="eumeu" creationdate="20181109T123127Z">
@@ -23551,6 +23631,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T172333Z" creationid="Antonio" creationdate="20151127T172328Z">
         <seg>Proyecto bloqueado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233613Z" creationid="hcartagena" creationdate="20200729T233613Z">
+        <seg>Administrador de proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -26794,6 +26882,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170812T153404Z" creationid="Cristina" creationdate="20170812T153404Z">
         <seg>Uso simultáneo de varias memorias de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233812Z" creationid="hcartagena" creationdate="20200729T233812Z">
+        <seg>Desde su origen, el proyecto ha recibido el apoyo de docenas de otros colaboradores, demasiados para mencionarlos aquí, pero cuya ayuda agradecemos encarecidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30127,6 +30223,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233730Z" creationid="hcartagena" creationdate="20200729T233730Z">
+        <seg>La filosofía del proyecto está descrita &lt;a0&gt;aquí&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The platform-independent package can be used on any platform with a working Java 1.6 runtime environment, including the platforms for which a specific package also exists.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T160922Z" creationid="Antonio" creationdate="20160330T160922Z">
@@ -31399,6 +31503,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134313Z" creationid="nenyavie" creationdate="20200225T134242Z">
         <seg>Se requiere si desea escribir los caracteres meta !$()*+.&lt;&gt;?[\]^{|} para que coincidan con ellos mismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234416Z" creationid="hcartagena" creationdate="20200729T234416Z">
+        <seg>Este es el &lt;a0&gt;canal de soporte recomendado&lt;/a0&gt; al que invitamos a los usuarios a suscribirse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33741,6 +33853,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233821Z" creationid="hcartagena" creationdate="20200729T233821Z">
+        <seg>Grupo de usuarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User interface language for OmegaT</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233137Z" creationid="hectorcartagena" creationdate="20200504T233117Z">
@@ -34273,6 +34393,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233654Z" creationid="hcartagena" creationdate="20200729T233654Z">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Visio</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194139Z" creationid="Víctor Parra" creationdate="20151126T194139Z">
@@ -34441,6 +34569,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233432Z" creationid="hcartagena" creationdate="20200729T233432Z">
         <seg>Diseño del sitio web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233644Z" creationid="hcartagena" creationdate="20200729T233644Z">
+        <seg>Administrador web</seg>
       </tuv>
     </tu>
     <tu>
