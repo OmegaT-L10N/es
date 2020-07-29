@@ -2971,6 +2971,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212347Z" creationid="hcartagena" creationdate="20200729T212347Z">
+        <seg>&lt;e0&gt;Comprimir espacio en blanco en el documento traducido&lt;/e0&gt;: varios caracteres de espacio en blanco contiguos se convertirán en un solo espacio en blanco en el documento traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T184550Z" creationid="Antonio" creationdate="20160316T184550Z">
@@ -3191,6 +3199,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T184740Z" creationid="Antonio" creationdate="20160316T184740Z">
         <seg>Eliminar comentarios de HTML en el documento traducido: todas las partes con comentarios (texto entre &lt;!--- y ---&gt;) se ignorará y no aparecerá en el documento traducido. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212515Z" creationid="hcartagena" creationdate="20200729T212515Z">
+        <seg>&lt;e0&gt;Eliminar comentarios de HTML en el documento traducido&lt;/e0&gt;: las partes con comentarios (texto entre &lt;!--- y ---&gt;) se ignorará y no aparecerá en el documento traducido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30803,6 +30819,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T185253Z" creationid="Antonio" creationdate="20160316T185253Z">
         <seg>Este cuadro de diálogo le permite configurar los patrones de los archivo fuente de los archivos que el filtro debe procesar, personalizar el nombre de los archivos traducidos y seleccionar la codificación que vaya a usar para cargar y guardar el archivo traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212717Z" creationid="hcartagena" creationdate="20200729T212717Z">
+        <seg>Este cuadro de diálogo le permite especificar los patrones de nombre de los archivos de origen que el filtro debe procesar, personalizar los nombres de los archivos traducidos y seleccionar la codificación que se usará para cargar los archivos de origen y guardar los archivos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
