@@ -9101,6 +9101,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T230002Z" creationid="hcartagena" creationdate="20200729T230002Z">
+        <seg>Colaboradores
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T023408Z" creationid="hcartagena" creationdate="20160401T023408Z">
@@ -14700,6 +14710,18 @@ es que su invierno ha llegado</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144610Z" creationid="Antonio" creationdate="20151128T144610Z">
         <seg>Ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T225118Z" creationid="hcartagena" creationdate="20200729T225118Z">
+        <seg>Si
+Java está instalado a nivel de sistema y está en la ruta de comandos, no tiene
+que introducir la ruta completa.)</seg>
       </tuv>
     </tu>
     <tu>
