@@ -1797,6 +1797,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T230500Z" creationid="hcartagena" creationdate="20200729T230500Z">
+        <seg>(Si cree que ha contribuido de manera significativa al
+proyecto OmegaT pero no ve su nombre en las listas, no dude en contactarnos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170918T190527Z" creationid="Cristina" creationdate="20170918T190445Z">
@@ -2058,6 +2068,34 @@ en modo de trabajo en grupo.)</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T144353Z" creationid="Antonio" creationdate="20151130T144335Z">
         <seg>, se puede ver:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T230431Z" creationid="hcartagena" creationdate="20200729T230431Z">
+        <seg>- Anthony Baldwin (administrador de localización)
+- Didier Briel (administrador de proyecto)
+- Alex Buloichik (desarrollador jefe)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (administrador del grupo de soporte, administrador de localización)
+- Maxym Mykhalchuk (desarrollador jefe)
+- Samuel Murray
+- Henry Pijffers (administrador de versiones)
+- Marc Prior (coordinador de proyecto, administrador web)
+- Vito Smolej (administrador de documentación)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23115,6 +23153,16 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous contributors include:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T230318Z" creationid="hcartagena" creationdate="20200729T230318Z">
+        <seg>Colaboradores anteriores:
+(orden alfabético)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priority glossary</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T174915Z" creationid="taty" creationdate="20181116T174915Z">
@@ -33571,6 +33619,16 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T231721Z" creationid="hcartagena" creationdate="20200729T231721Z">
+        <seg>Enlaces útiles
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User Group&lt;/f16&gt;&lt;/a15&gt;&lt;f17&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T153035Z" creationid="Helli" creationdate="20150526T153035Z">
@@ -36314,6 +36372,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221532Z" creationid="hcartagena" creationdate="20151201T221532Z">
         <seg>y después el archivo traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and many, many more very helpful people</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T230445Z" creationid="hcartagena" creationdate="20200729T230445Z">
+        <seg>y muchas, muchas personas más que han sido de gran ayuda</seg>
       </tuv>
     </tu>
     <tu>
