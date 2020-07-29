@@ -3003,6 +3003,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211745Z" creationid="hcartagena" creationdate="20200729T211745Z">
+        <seg>&lt;e0&gt;No traducir el atributo 'content' de etiquetas 'meta' cuyos pares clave-valor sean (separar con comas):&lt;/e0&gt; si una etiqueta coincide con la lista de pares valor-clave, su contenido será ignorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184651Z" creationid="Antonio" creationdate="20151210T184651Z">
