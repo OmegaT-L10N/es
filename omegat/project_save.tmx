@@ -7587,6 +7587,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233434Z" creationid="hcartagena" creationdate="20200729T233434Z">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T133926Z" creationid="taty" creationdate="20181109T133921Z">
@@ -11752,6 +11760,14 @@ su página de ayuda no encontrada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T165311Z" creationid="hcartagena" creationdate="20151120T165311Z">
         <seg>Inglés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233443Z" creationid="hcartagena" creationdate="20200729T233443Z">
+        <seg>Traducciones de la versión en inglés</seg>
       </tuv>
     </tu>
     <tu>
@@ -17191,6 +17207,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233542Z" creationid="hcartagena" creationdate="20200729T233542Z">
+        <seg>Su objetivo es desarrollar, distribuir y dar soporte al uso de OmegaT, un programa de memorias de traducción de código abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JAR files</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164328Z" creationid="hcartagena" creationdate="20180605T164328Z">
@@ -22011,6 +22035,14 @@ versión 1.8 o superior.</seg>
 	Solo ruta de acceso al proyecto: lanzar GUI y cargar el proyecto especificado
 	team
 		Herramienta de proyecto de trabajo en grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233602Z" creationid="hcartagena" creationdate="20200729T233602Z">
+        <seg>Autor original de la aplicación OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -28885,10 +28917,26 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233448Z" creationid="hcartagena" creationdate="20200729T233448Z">
+        <seg>El proyecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT project and you</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171004T170140Z" creationid="Cristina" creationdate="20170816T183829Z">
         <seg>El proyecto OmegaT y usted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233506Z" creationid="hcartagena" creationdate="20200729T233506Z">
+        <seg>El proyecto OmegaT es mantenido por un grupo informal e internacional de voluntarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30099,6 +30147,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T151736Z" creationid="Antonio" creationdate="20160126T151736Z">
         <seg>El prefijo (vacío, de manera predeterminada) puede usarse para etiquetar las traducciones, que se han realizado con coincidencias aproximadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233552Z" creationid="hcartagena" creationdate="20200729T233552Z">
+        <seg>Ls miembros principales del proyecto son:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34339,6 +34395,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233332Z" creationid="hcartagena" creationdate="20200729T233332Z">
+        <seg>No pudimos encontrar la página que busca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
 of selecting, obtaining and installing it.</seg>
       </tuv>
@@ -34361,6 +34425,22 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T031844Z" creationid="hcartagena" creationdate="20180605T031844Z">
         <seg>Subtítulos de WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233428Z" creationid="hcartagena" creationdate="20200729T233428Z">
+        <seg>Autores del contenido del sitio web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233432Z" creationid="hcartagena" creationdate="20200729T233432Z">
+        <seg>Diseño del sitio web</seg>
       </tuv>
     </tu>
     <tu>
@@ -35476,6 +35556,14 @@ para enlazarlo desde allí.</seg>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200508T013259Z" creationid="hectorcartagena" creationdate="20200508T013259Z">
         <seg>Puede encontrar el texto de la licencia en
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233414Z" creationid="hcartagena" creationdate="20200729T233414Z">
+        <seg>Puede ir a la &lt;a0&gt;página principal&lt;/a0&gt; y debería encontrar la información que necesita desde ahí.</seg>
       </tuv>
     </tu>
     <tu>
