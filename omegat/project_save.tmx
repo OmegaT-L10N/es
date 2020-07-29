@@ -10918,6 +10918,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215606Z" creationid="hcartagena" creationdate="20200729T215606Z">
+        <seg>Haga doble clic en la aplicación OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140436Z" creationid="taty" creationdate="20181109T140436Z">
@@ -15212,6 +15220,17 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215546Z" creationid="hcartagena" creationdate="20200729T215546Z">
+        <seg>Si puede ver el archivo OmegaT pero no OmegaT.exe en el
+Administrador de archivos (Windows Explorer), cambie la
+configuración para que muestre la extensión de los archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you discontinue before completing the translation, please do create the tmx files for the you have done and upload them to the translation memory repository.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171012T120501Z" creationid="Cristina" creationdate="20170924T163606Z">
@@ -15475,6 +15494,16 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T202722Z" creationid="hcartagena" creationdate="20160331T202722Z">
         <seg>Si los archivos originales tienen formato como los archivos de Microsoft Word, LibreOffice Writer o HTML, por ejemplo, OmegaT convertirá el formato en etiquetas que rodean al texto que está traduciendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215324Z" creationid="hcartagena" creationdate="20200729T215324Z">
+        <seg>Si durante la instalación creó un acceso directo en el
+escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17833,6 +17862,16 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014346Z" creationid="hectorcartagena" creationdate="20200508T014346Z">
         <seg>Iniciar el programa de instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215554Z" creationid="hcartagena" creationdate="20200729T215554Z">
+        <seg>Iniciar OmegaT (Mac)
+======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -29566,6 +29605,16 @@ mas otras te dan la bienvenida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215401Z" creationid="hcartagena" creationdate="20200729T215401Z">
+        <seg>El instalador puede crear accesos directos para usted en el menú
+de inicio, en el escritorio y en el área de inicio rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T182711Z" creationid="taty" creationdate="20181116T182711Z">
@@ -35065,6 +35114,17 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T122044Z" creationid="nenyavie" creationdate="20200226T122044Z">
         <seg>También puede hacer que el corrector ortográfico ignore todas las ocurrencias de la palabra mal escrita, o que la añada al diccionario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215445Z" creationid="hcartagena" creationdate="20200729T215445Z">
+        <seg>También puede arrastrar manualmente el archivo
+OmegaT.exe al menú Inicio, al escritorio o al área de inicio rápido
+para enlazarlo desde allí.</seg>
       </tuv>
     </tu>
     <tu>
