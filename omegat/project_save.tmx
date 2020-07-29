@@ -7683,6 +7683,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234845Z" creationid="hcartagena" creationdate="20200729T234845Z">
+        <seg>Los errores, las solicitudes de funcionalidad y la documentación se manejan en los sistemas de seguimiento de Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bulgarian</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083543Z" creationid="Antonio" creationdate="20151128T083543Z">
@@ -20843,6 +20851,22 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234741Z" creationid="hcartagena" creationdate="20200729T234741Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234655Z" creationid="hcartagena" creationdate="20200729T234655Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T170926Z" creationid="hcartagena" creationdate="20151209T170926Z">
@@ -29029,6 +29053,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234706Z" creationid="hcartagena" creationdate="20200729T234706Z">
+        <seg>La lista de los desarrolladores de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT project</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233448Z" creationid="hcartagena" creationdate="20200729T233448Z">
@@ -31595,6 +31627,22 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234739Z" creationid="hcartagena" creationdate="20200729T234739Z">
+        <seg>Esta lista es para discutir aspectos técnicos de las funciones y el desarrollo y está pensada para los desarrolladores de OmegaT y otros interesados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234759Z" creationid="hcartagena" creationdate="20200729T234759Z">
+        <seg>Esta lista de distribución de correo es para los localizadores de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T190147Z" creationid="Antonio" creationdate="20151210T190147Z">
@@ -32405,6 +32453,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T172738Z" creationid="Víctor Parra" creationdate="20151126T193955Z">
         <seg>Tra&amp;nsTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T234803Z" creationid="hcartagena" creationdate="20200729T234803Z">
+        <seg>Sistema de seguimiento</seg>
       </tuv>
     </tu>
     <tu>
