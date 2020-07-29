@@ -23814,6 +23814,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210000Z" creationid="hcartagena" creationdate="20200729T210000Z">
+        <seg>Quitar etiquetas de principio y fin: desmarque esta opción para mostrar todas las etiquetas, inclusive las del inicio y el final del segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T213626Z" creationid="hcartagena" creationdate="20151119T213626Z">
@@ -28850,6 +28858,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T204848Z" creationid="hcartagena" creationdate="20200729T204848Z">
+        <seg>El cuadro de diálogo permite activar o desactivar las siguientes opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T104605Z" creationid="Antonio" creationdate="20160126T104605Z">
@@ -31165,6 +31181,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140243Z" creationid="taty" creationdate="20181109T140243Z">
         <seg>hasta ahora, los promotores son: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T204838Z" creationid="hcartagena" creationdate="20200729T204838Z">
+        <seg>Para elegir los archivos y codificaciones para los que se usará un filtro, seleccione el filtro del listado y haga clic en &lt;e1&gt;Editar&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
