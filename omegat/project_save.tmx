@@ -2987,6 +2987,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211621Z" creationid="hcartagena" creationdate="20200729T211621Z">
+        <seg>&lt;e0&gt;No traducir el atributo 'content' de las etiquetas meta... : &lt;/e0&gt;no se traducirán las etiquetas meta en el cuadro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T184341Z" creationid="Antonio" creationdate="20160316T140504Z">
@@ -3179,10 +3187,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211214Z" creationid="hcartagena" creationdate="20200729T211214Z">
+        <seg>&lt;e0&gt;Saltar texto coincidente con expresiones regulares&lt;/e0&gt;: saltará el texto coincidente con la expresión regular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T184036Z" creationid="Antonio" creationdate="20160316T135449Z">
         <seg>**&lt;e0&gt;Omitir el texto que coincida con la expresión regular:&lt;/e0&gt; se ignorará el texto coincidente con la expresión regular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211139Z" creationid="hcartagena" creationdate="20200729T211139Z">
+        <seg>&lt;e0&gt;Iniciar un nuevo párrafo en:&lt;/e0&gt; La etiqueta &lt;br&gt; de HTML creará un salto de párrafo para propósitos de segmentación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16650,6 +16674,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211240Z" creationid="hcartagena" creationdate="20200729T211240Z">
+        <seg>Se muestra en rojo oscuro en el validador de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is shown rendered red in the tag validator.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T135541Z" creationid="Antonio" creationdate="20160316T135541Z">
@@ -28104,6 +28136,14 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211304Z" creationid="hcartagena" creationdate="20200729T211304Z">
+        <seg>El texto de los segmentos de origen que concuerdan se muestran en cursiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T232700Z" creationid="Antonio" creationdate="20151127T163445Z">
@@ -28479,6 +28519,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T201747Z" creationid="hcartagena" creationdate="20151119T201747Z">
         <seg>El filtro PO generó una excepción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211100Z" creationid="hcartagena" creationdate="20200729T211100Z">
+        <seg>El encabezado del archivo PO se omitirá y se dejará sin cambios, si está marcada esta opción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30947,6 +30995,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T163238Z" creationid="Antonio" creationdate="20151127T163238Z">
         <seg>Esta operación afectará {0} segmentos y no se puede deshacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211110Z" creationid="hcartagena" creationdate="20200729T211110Z">
+        <seg>Esta opción permite a OmegaT omitir lo especificado en el encabezado del archivo PO y usara el valor predeterminado para el idioma de destino seleccionado.</seg>
       </tuv>
     </tu>
     <tu>
