@@ -7435,6 +7435,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235147Z" creationid="hcartagena" creationdate="20200729T235147Z">
+        <seg>Antes de proceder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T184013Z" creationid="Antonio" creationdate="20160331T184013Z">
@@ -12233,6 +12241,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235241Z" creationid="hcartagena" creationdate="20200729T235241Z">
+        <seg>Aunque OmegaT es gratuito, si usted lo encuentra útil y desea manifestar su gratitud, puede hacer un donativo a nuestra cuenta de Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T033923Z" creationid="hcartagena" creationdate="20151125T000234Z">
@@ -14340,6 +14356,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144416Z" creationid="Antonio" creationdate="20151128T144416Z">
         <seg>Hausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235156Z" creationid="hcartagena" creationdate="20200729T235156Z">
+        <seg>¿H considerado donar a OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27718,6 +27742,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235402Z" creationid="hcartagena" creationdate="20200729T235402Z">
+        <seg>Versión estándar - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -29257,6 +29289,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170828T174225Z" creationid="Cristina" creationdate="20170828T174225Z">
         <seg>Normalmente, la versión estándar ha estado en uso durante algún tiempo y, por lo tanto, se ha probado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235435Z" creationid="hcartagena" creationdate="20200729T235435Z">
+        <seg>La versión estándar requiere Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33161,6 +33201,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T143120Z" creationid="taty" creationdate="20181109T143048Z">
         <seg>URLs de repositorios de diccionarios de ortografía: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235355Z" creationid="hcartagena" creationdate="20200729T235355Z">
+        <seg>USD &lt;a0&gt;Donar&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
