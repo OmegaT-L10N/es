@@ -33757,6 +33757,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233221Z" creationid="hcartagena" creationdate="20200729T233221Z">
+        <seg>Recursos de soporte al usuario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -38382,6 +38390,22 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T213011Z" creationid="Antonio" creationdate="20160124T213011Z">
         <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233145Z" creationid="hcartagena" creationdate="20200729T233145Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T233224Z" creationid="hcartagena" creationdate="20200729T233224Z">
+        <seg>https://omegat.org/support</seg>
       </tuv>
     </tu>
     <tu>
