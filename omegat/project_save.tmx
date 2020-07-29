@@ -1824,8 +1824,8 @@ java -jar OmegaT.jar $*</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160331T140412Z" creationid="hcartagena" creationdate="20151116T195030Z">
-        <seg>(Consultar 'Archivos a traducir' &gt; 'Formatos de archivo' en el manual de usuario para ver un listado de
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210842Z" creationid="hcartagena" creationdate="20151116T195030Z">
+        <seg>(Consultar 'Archivos a traducir' &gt; 'Formatos de archivo' en el manual de usuario para ver una lista de
 formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic en el botón 'Agregar archivos...' en la ventana 'Archivos del proyecto' o ejecute esta acción desde el menú 'Proyecto' y seleccione los archivos que desea copiar.</seg>
       </tuv>
     </tu>
@@ -6755,6 +6755,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211055Z" creationid="hcartagena" creationdate="20200729T211055Z">
+        <seg>Como es el comportamiento estándar con los archivos PO, está seleccionada de manera predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T081908Z" creationid="Antonio" creationdate="20151128T081908Z">
@@ -8836,10 +8844,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T215341Z" creationid="hcartagena" creationdate="20160331T215323Z">
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210824Z" creationid="hcartagena" creationdate="20160331T215323Z">
         <seg>Modo console-translate:
 	--source-pattern=&lt;patrón&gt;
-		Un listado de expresiones regulares de archivos originales a procesar.</seg>
+		Una lista de expresiones regulares de archivos originales a procesar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14767,6 +14775,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191209T223549Z" creationid="nenyavie" creationdate="20191209T223549Z">
         <seg>Cuando se selecciona una parte del segmento traducido, esta función sobrescribe dicho fragmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211032Z" creationid="hcartagena" creationdate="20200729T211032Z">
+        <seg>Si está seleccionada, cuando no se ha traducido un segmento en un archivo PO (que puede ser todo un párrafo), la traducción aparecerá en blanco en el archivo de destino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31227,8 +31243,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T213505Z" creationid="hcartagena" creationdate="20151119T213505Z">
-        <seg>Para elegir los archivos que serán procesados por el filtro y su codificación, seleccione el filtro del listado y haga clic en Editar.</seg>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210910Z" creationid="hcartagena" creationdate="20151119T213505Z">
+        <seg>Para elegir los archivos que serán procesados por el filtro y su codificación, seleccione el filtro de la lista y haga clic en Editar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37900,6 +37916,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T143921Z" creationid="Antonio" creationdate="20160330T143802Z">
         <seg>si existe, contiene las reglas de segmentación específicas de proyecto, si previamente se han solicitado en &lt;g0&gt;Proyecto &gt; Propiedades...&lt;/g0&gt;Consulte el &lt;l1&gt;Capítulo Propiedades del proyecto&lt;/l1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210932Z" creationid="hcartagena" creationdate="20200729T210932Z">
+        <seg>si las reglas de segmentación están activas, el texto se segmentará aún más según las opciones seleccionadas aquí.</seg>
       </tuv>
     </tu>
     <tu>
