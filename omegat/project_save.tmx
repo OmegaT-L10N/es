@@ -2070,6 +2070,26 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T230230Z" creationid="hcartagena" creationdate="20200729T230230Z">
+        <seg>- Vincent Bidaux (administrador de documentación)
+- Marco Cevoli (administrador de comunidad Telegram)
+- Jean-Christophe Helary (administrador de comunidad Twitter)
+- Kos Ivantsov (administrador de localización)
+- Concepción Martin (administradora de comunidad Facebook)
+- Briac Pilpré (administrador web)
+- Lucie Vecerova (adminisradora de comunidad Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T151701Z" creationid="Helli" creationdate="20150526T151701Z">
@@ -9101,6 +9121,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T230259Z" creationid="hcartagena" creationdate="20200729T230259Z">
+        <seg>Los colaboradores del código aparecen documentados en /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributors
 ============</seg>
       </tuv>
@@ -9917,6 +9945,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T193746Z" creationid="hcartagena" creationdate="20151116T193746Z">
         <seg>Uso de memoria actual de la MV: {0}MB, de los cuales hay libres {1}MB de un máximo disponible de {2}MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T230016Z" creationid="hcartagena" creationdate="20200729T230016Z">
+        <seg>Equipo actual:
+(orden alfabético)</seg>
       </tuv>
     </tu>
     <tu>
