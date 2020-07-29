@@ -5113,6 +5113,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235748Z" creationid="hcartagena" creationdate="20200729T235748Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es una aplicación de memorias de traducción libre que funciona en Windows, macOS, Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171004T155604Z" creationid="Cristina" creationdate="20170812T152014Z">
@@ -16908,6 +16916,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235657Z" creationid="hcartagena" creationdate="20200729T235657Z">
+        <seg>También se puede conseguir usando el siguiente comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be obtained using the subversion command:</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T153731Z" creationid="Cristina" creationdate="20170916T153731Z">
@@ -16981,10 +16997,26 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235455Z" creationid="hcartagena" creationdate="20200729T235455Z">
+        <seg>Ha estado en uso durante algún tiempo y, por lo tanto, se ha probado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T163756Z" creationid="Antonio" creationdate="20160330T163756Z">
         <seg>**Incluye información general sobre OmegaT, donde encontrará más información sobre cómo contribuir, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235529Z" creationid="hcartagena" creationdate="20200729T235529Z">
+        <seg>Es una versión más reciente que la estándar y cuenta con nuevas funciones que no están presentes en esta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18136,6 +18168,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235505Z" creationid="hcartagena" creationdate="20200729T235505Z">
+        <seg>Última versión - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T145412Z" creationid="Antonio" creationdate="20151128T145412Z">
@@ -19118,6 +19158,14 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T154900Z" creationid="Antonio" creationdate="20151126T154900Z">
         <seg>Máscara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235634Z" creationid="hcartagena" creationdate="20200729T235634Z">
+        <seg>Master</seg>
       </tuv>
     </tu>
     <tu>
@@ -22729,6 +22777,14 @@ cual bruma se disipa</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T154541Z" creationid="Cristina" creationdate="20170916T154541Z">
         <seg>Las compilaciones periódicas están disponibles en CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235712Z" creationid="hcartagena" creationdate="20200729T235712Z">
+        <seg>Las compilaciones periódicas están disponibles en Sourceforge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28956,6 +29012,22 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235646Z" creationid="hcartagena" creationdate="20200729T235646Z">
+        <seg>La versión "master" (alfa) refleja el último estado de desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235629Z" creationid="hcartagena" creationdate="20200729T235629Z">
+        <seg>La versión "master" es una versión "alfa" de avanzada, todavía en desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &amp;source text</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T175540Z" creationid="hcartagena" creationdate="20151120T175540Z">
@@ -29137,6 +29209,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170828T175743Z" creationid="Cristina" creationdate="20170828T175743Z">
         <seg>La última versión es una versión más reciente que la estándar y cuenta con nuevas funciones que no están presentes en esta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235519Z" creationid="hcartagena" creationdate="20200729T235519Z">
+        <seg>La última versión requiere Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38165,6 +38245,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155009Z" creationid="Antonio" creationdate="20151128T155009Z">
         <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235701Z" creationid="hcartagena" creationdate="20200729T235701Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
