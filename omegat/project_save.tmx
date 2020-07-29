@@ -6222,6 +6222,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215748Z" creationid="hcartagena" creationdate="20200729T215748Z">
+        <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternate locations for some of the folders can be chosen at project creation or during the translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160321T174533Z" creationid="Antonio" creationdate="20160321T174533Z">
@@ -13047,6 +13055,16 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215854Z" creationid="hcartagena" creationdate="20200729T215854Z">
+        <seg>Una manera más fácil de iniciar OmegaT es con
+el programa Kaptain que está incluido (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184410Z" creationid="Antonio" creationdate="20151210T184410Z">
@@ -15406,6 +15424,15 @@ es usar Java Web Start.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171012T120434Z" creationid="Cristina" creationdate="20170924T162315Z">
         <seg>Si ha usado OmegaT u otra herramienta TAO para realizar la traducción, suba también su memoria de traducción (archivo TMX) al  &lt;a0&gt;repositorio de memorias de traducción del grupo de usuarios en línea&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215745Z" creationid="hcartagena" creationdate="20200729T215745Z">
+        <seg>Si usó el programa linux-install.sh, debería poder
+iniciar OmegaT con:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17862,6 +17889,16 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014346Z" creationid="hectorcartagena" creationdate="20200508T014346Z">
         <seg>Iniciar el programa de instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215718Z" creationid="hcartagena" creationdate="20200729T215718Z">
+        <seg>Iniciar OmegaT (Linux)
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -31833,6 +31870,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215913Z" creationid="hcartagena" creationdate="20200729T215913Z">
+        <seg>Para usar este programa, primero debe instalar Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a terminal
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
@@ -35118,6 +35163,17 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215713Z" creationid="hcartagena" creationdate="20200729T215713Z">
+        <seg>También puede iniciarla
+desde el campo de búsqueda
+de Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag the file OmegaT.exe to the
 start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
@@ -35459,6 +35515,16 @@ mediante el programa de instalación (linux-install.sh).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T192509Z" creationid="Antonio" creationdate="20160316T192509Z">
         <seg>Usted puede cambiar la codificación fuente para cada diferente patrón de nombre de archivo fuente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215651Z" creationid="hcartagena" creationdate="20200729T215651Z">
+        <seg>Puede arrastrar la aplicación OmegaT al dock o a la barra de herramientas
+de una ventana de Finder para poder iniciarla desde cualquier ubicación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36151,6 +36217,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221826Z" creationid="hcartagena" creationdate="20151201T221826Z">
         <seg>y el idioma que tendrá el archivo traducido y haga clic en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215751Z" creationid="hcartagena" creationdate="20200729T215751Z">
+        <seg>y luego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39675,6 +39749,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154450Z" creationid="Antonio" creationdate="20151128T154450Z">
         <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215754Z" creationid="hcartagena" creationdate="20200729T215754Z">
+        <seg>omegat</seg>
       </tuv>
     </tu>
     <tu>
