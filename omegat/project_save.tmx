@@ -1871,6 +1871,15 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T225032Z" creationid="hcartagena" creationdate="20200729T225032Z">
+        <seg>(El archivo ejecutable de Java es el archivo java en Linux y
+java.exe en Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181211T100724Z" creationid="eumeu" creationdate="20181211T100724Z">
