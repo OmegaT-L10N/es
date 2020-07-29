@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12835,6 +12835,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151118T191958Z" creationid="hcartagena" creationdate="20151118T191958Z">
         <seg>Carácter '?' flotante no ligado con '&gt;'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203100Z" creationid="hcartagena" creationdate="20200729T203100Z">
+        <seg>ID de carpeta</seg>
       </tuv>
     </tu>
     <tu>
@@ -34362,6 +34370,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T174149Z" creationid="Antonio" creationdate="20151127T174149Z">
         <seg>Yandex Translate - no se especifió una clave de API </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203000Z" creationid="hcartagena" creationdate="20200729T203000Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
