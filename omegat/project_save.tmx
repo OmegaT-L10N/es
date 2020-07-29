@@ -22567,6 +22567,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210519Z" creationid="hcartagena" creationdate="20200729T210519Z">
+        <seg>Conservar espacios en todas las etiquetas: marque esta opción si los documentos de origen contienen una cantidad significativa de espacios usados para controlar el diseño que no se pueden ignorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -33665,6 +33673,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T210352Z" creationid="hcartagena" creationdate="20151124T233428Z">
         <seg>Advertencia: cambiar el orden de las etiquetas puede invalidar el documento traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T210354Z" creationid="hcartagena" creationdate="20200729T210258Z">
+        <seg>Advertencia: en los formatos de Microsoft Open XML (docx, xlsx, etc.), si se muestran todas las etiquetas, NO ponga texto antes de la primera etiqueta, ya que es una etiqueta técnica que debe ir siempre al comienzo del segmento.</seg>
       </tuv>
     </tu>
     <tu>
