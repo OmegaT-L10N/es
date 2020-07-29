@@ -2915,6 +2915,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211934Z" creationid="hcartagena" creationdate="20200729T211934Z">
+        <seg>&lt;e0&gt;Aglutinar etiquetas&lt;/e0&gt;: si está marcado, las etiquetas sin texto traducible se agregarán para formar una sola etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T150720Z" creationid="Antonio" creationdate="20160316T150720Z">
@@ -3143,6 +3151,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T145308Z" creationid="Antonio" creationdate="20160316T145308Z">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: comentarios de diapositivas, páginas maestras, diseño de las diapositivas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T212053Z" creationid="hcartagena" creationdate="20200729T212053Z">
+        <seg>&lt;e0&gt;Conservar espacios en todas las etiquetas&lt;/e0&gt;: si está marcada, el "espacio en blanco" (espacios y saltos de línea) se conservará, aunque esta opción no esté definida en el documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13055,6 +13071,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211831Z" creationid="hcartagena" creationdate="20200729T211831Z">
+        <seg>Por ejemplo, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T192500Z" creationid="Antonio" creationdate="20160316T192500Z">
@@ -13219,6 +13243,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T144242Z" creationid="Antonio" creationdate="20160316T144242Z">
         <seg>Para el ejemplo anterior, el campo contendría: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211909Z" creationid="hcartagena" creationdate="20200729T211909Z">
+        <seg>Para el ejemplo anterior, el campo contendría: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16702,6 +16734,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T120251Z" creationid="nenyavie" creationdate="20200226T120251Z">
         <seg>Sine embargo, es más sencillo buscar los diccionarios en línea mediante el campo &lt;e0&gt;URL de diccionarios en línea&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211811Z" creationid="hcartagena" creationdate="20200729T211811Z">
+        <seg>A veces resulta de utilidad poder convertir algunas etiquetas en  intraducibles tomando como base el valor de sus atributos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34882,6 +34922,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T155913Z" creationid="Antonio" creationdate="20160126T155913Z">
         <seg>Puede decidir no traducir todos estos segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T211856Z" creationid="hcartagena" creationdate="20200729T211856Z">
+        <seg>Puede definir pares valor-clave para etiquetas que se deben dejar sin traducir.</seg>
       </tuv>
     </tu>
     <tu>
