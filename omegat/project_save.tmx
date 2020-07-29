@@ -13335,6 +13335,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215220Z" creationid="hcartagena" creationdate="20200729T215220Z">
+        <seg>Para ello descargue y ejecute el siguiente archivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T180209Z" creationid="Antonio" creationdate="20151127T180209Z">
@@ -15228,6 +15236,16 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215207Z" creationid="hcartagena" creationdate="20200729T215207Z">
+        <seg>Si ya tiene Java instalado en su sistema, una manera de instalar OmegaT
+es usar Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T123109Z" creationid="nenyavie" creationdate="20200226T123109Z">
@@ -16227,6 +16245,16 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215123Z" creationid="hcartagena" creationdate="20200729T215123Z">
+        <seg>Instalar OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -16914,6 +16942,16 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170828T174743Z" creationid="Cristina" creationdate="20170828T174743Z">
         <seg>Sin embargo, carecerá de algunas funciones de la última versión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215236Z" creationid="hcartagena" creationdate="20200729T215236Z">
+        <seg>Este instalará el entorno correcto para su equipo y la aplicación en sí misma
+en la primera ejecución.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17742,6 +17780,15 @@ de la carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215247Z" creationid="hcartagena" creationdate="20200729T215247Z">
+        <seg>En posteriores llamadas no es necesario estar
+conectado a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Latest</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171006T164708Z" creationid="Cristina" creationdate="20170826T111536Z">
@@ -17786,6 +17833,16 @@ de la carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014346Z" creationid="hectorcartagena" creationdate="20200508T014346Z">
         <seg>Iniciar el programa de instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215259Z" creationid="hcartagena" creationdate="20200729T215259Z">
+        <seg>Iniciar OmegaT (Windows)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -31727,6 +31784,18 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215117Z" creationid="hcartagena" creationdate="20200729T215117Z">
+        <seg>Para usar este programa, abra una
+ventana de terminal (consola), cambie la carpeta a aquella que contiene
+OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T040940Z" creationid="hcartagena" creationdate="20160401T040940Z">
@@ -33519,6 +33588,16 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T184852Z" creationid="Antonio" creationdate="20160331T184852Z">
         <seg>Al utilizar &lt;k4&gt; &lt;k5&gt;Mayús&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; provoca que tanto el ingreso de texto como su visualización en OmegaT cambie a RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215140Z" creationid="hcartagena" creationdate="20200729T215140Z">
+        <seg>Usar Java Web Start para instalar OmegaT (todas las plataformas)
+===========================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -37982,6 +38061,14 @@ directorio de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T213011Z" creationid="Antonio" creationdate="20160124T213011Z">
         <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T215225Z" creationid="hcartagena" creationdate="20200729T215225Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
