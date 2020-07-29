@@ -16411,6 +16411,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203507Z" creationid="hcartagena" creationdate="20200729T203507Z">
+        <seg>También puede usarse cuando los paneles no aparecen como se esperaba tras una actualización de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also detect some grammar mistakes.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T161932Z" creationid="Antonio" creationdate="20151128T161932Z">
@@ -25252,6 +25260,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203849Z" creationid="hcartagena" creationdate="20200729T203849Z">
+        <seg>Ver configuración de tipos de letra en Varios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170912T182350Z" creationid="Cristina" creationdate="20170816T191259Z">
@@ -26152,6 +26168,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T233631Z" creationid="Antonio" creationdate="20151127T110813Z">
         <seg>Mostrar el término traducido al principio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shows the dialog to modify the text display font.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203601Z" creationid="hcartagena" creationdate="20200729T203601Z">
+        <seg>Muestra el cuadro de diálogo para modificar el tipo de letra para la visualización de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33095,6 +33119,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T150757Z" creationid="Cristina" creationdate="20170916T150757Z">
         <seg>Los usuarios que tengan prisa pueden usar en su lugar la versión sin firmar; si tiene dificultades para ejecutar la aplicación, consulte cómo &lt;a0&gt;Abrir una app de un desarrollador no identificado&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T203610Z" creationid="hcartagena" creationdate="20200729T203610Z">
+        <seg>Los usuarios de computadoras antiguas cuando sientan que cambiar el tamaño de la ventana es muy lento, pueden tratar de cambiar el tipo de letra.</seg>
       </tuv>
     </tu>
     <tu>
