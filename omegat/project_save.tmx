@@ -14830,10 +14830,26 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002654Z" creationid="hcartagena" creationdate="20200730T002654Z">
+        <seg>Guía práctica - Compilar OmegaT desde el código fuente (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002741Z" creationid="hcartagena" creationdate="20200730T002741Z">
+        <seg>Guía práctica - Exportar desde OmegaT a formato 'Trados uncleaned RTF' (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200730T002639Z" creationid="hcartagena" creationdate="20200730T002639Z">
-        <seg>Guía práctica - Compatibilidad de OmegaT con Déjà Vu</seg>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002658Z" creationid="hcartagena" creationdate="20200730T002639Z">
+        <seg>Guía práctica - Compatibilidad de OmegaT con Déjà Vu (en inglés)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14842,6 +14858,30 @@ es que su invierno ha llegado</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170918T190858Z" creationid="Cristina" creationdate="20170918T190858Z">
         <seg>Guía - Traducir OmegaT a su idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002815Z" creationid="hcartagena" creationdate="20200730T002815Z">
+        <seg>Guía práctica - Traducir archivos PDF con Iceni Infix y OmegaT (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002713Z" creationid="hcartagena" creationdate="20200730T002713Z">
+        <seg>Guía práctica - Traducir archivos de Word 2007 en OmegaT (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002756Z" creationid="hcartagena" creationdate="20200730T002756Z">
+        <seg>Guía práctica - Usar Google Translate en OmegaT (en inglés)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21711,6 +21751,14 @@ para iniciarse.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T163458Z" creationid="taty" creationdate="20181205T163458Z">
         <seg>Coincidencia OmegaT, incluyendo números, etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002828Z" creationid="hcartagena" creationdate="20200730T002828Z">
+        <seg>Guía práctica de OmegaT en Linux (en inglés)</seg>
       </tuv>
     </tu>
     <tu>
