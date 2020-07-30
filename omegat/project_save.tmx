@@ -9249,6 +9249,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001645Z" creationid="hcartagena" creationdate="20200730T001645Z">
+        <seg>Puede haber también funciones o soluciones alternativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T023408Z" creationid="hcartagena" creationdate="20160401T023408Z">
@@ -10449,6 +10457,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170828T174809Z" creationid="Cristina" creationdate="20170828T174809Z">
         <seg>Instrucciones detalladas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001757Z" creationid="hcartagena" creationdate="20200730T001757Z">
+        <seg>La discusión técnica detallada sobre los cambios es mejor llevarla directamente a los desarrolladores de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13628,6 +13644,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T215220Z" creationid="hcartagena" creationdate="20200729T215220Z">
         <seg>Para ello descargue y ejecute el siguiente archivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001821Z" creationid="hcartagena" creationdate="20200730T001821Z">
+        <seg>Para esto, hay una &lt;a0&gt;lista de distribución de correo para desarrolladores&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21987,6 +22011,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T123105Z" creationid="Antonio" creationdate="20151130T122757Z">
         <seg>En el Mac, es necesario usar modificador &lt;e0&gt;meta&lt;/e0&gt; para especificar la tecla de &lt;e1&gt;comando&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001855Z" creationid="hcartagena" creationdate="20200730T001855Z">
+        <seg>Cuando un usuario ha formulado un cambio o mejora a OmegaT, hay un procedimiento definido para enviarlo para consideración del equipo de desarrollo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31815,6 +31847,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T163456Z" creationid="Cristina" creationdate="20170924T163456Z">
         <seg>Esto permite que otro traductor pueda traducir el documento en cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001911Z" creationid="hcartagena" creationdate="20200730T001911Z">
+        <seg>Así se pueden administrar muchas sugerencias con más facilidad.</seg>
       </tuv>
     </tu>
     <tu>
