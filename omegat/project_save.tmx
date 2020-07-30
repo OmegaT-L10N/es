@@ -14830,10 +14830,26 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002938Z" creationid="hcartagena" creationdate="20200730T002938Z">
+        <seg>Guía práctica - Añadir una función de previsualización en OmegaT (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T002654Z" creationid="hcartagena" creationdate="20200730T002654Z">
         <seg>Guía práctica - Compilar OmegaT desde el código fuente (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002920Z" creationid="hcartagena" creationdate="20200730T002920Z">
+        <seg>Guía práctica - Crear un nuevo filtro de archivo (en inglés)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14854,10 +14870,26 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T003035Z" creationid="hcartagena" creationdate="20200730T003035Z">
+        <seg>Guía práctica - Corrección ortográfica (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002959Z" creationid="hcartagena" creationdate="20200730T002959Z">
+        <seg>Guía práctica - La utilidad de previsualización "Priorview" (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170918T190858Z" creationid="Cristina" creationdate="20170918T190858Z">
-        <seg>Guía - Traducir OmegaT a su idioma</seg>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002859Z" creationid="Cristina" creationdate="20170918T190858Z">
+        <seg>Guía práctica - Traducir OmegaT a su idioma (en inglés)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14882,6 +14914,30 @@ es que su invierno ha llegado</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T002756Z" creationid="hcartagena" creationdate="20200730T002756Z">
         <seg>Guía práctica - Usar Google Translate en OmegaT (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002848Z" creationid="hcartagena" creationdate="20200730T002848Z">
+        <seg>Guía práctica - Usar Microsoft Translator en OmegaT (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T003059Z" creationid="hcartagena" creationdate="20200730T003059Z">
+        <seg>Guía práctica - Usar la función de exportar a texto en OmegaT (interfaz de programación) (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T003122Z" creationid="hcartagena" creationdate="20200730T003122Z">
+        <seg>Guía práctica - Usar el tokenizador de OmegaT (en inglés)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21083,6 +21139,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OS X Notarized</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T003135Z" creationid="hcartagena" creationdate="20200730T003135Z">
+        <seg>OS X notarizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OS X Signed</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170828T174939Z" creationid="Cristina" creationdate="20170828T174939Z">
@@ -24207,6 +24271,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T172225Z" creationid="Cristina" creationdate="20170917T172225Z">
         <seg>Propagación y coincidencias de un segmento con varios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T003022Z" creationid="hcartagena" creationdate="20200730T003022Z">
+        <seg>Guía práctica de propagación y coincidencias de uno a muchos (en inglés)</seg>
       </tuv>
     </tu>
     <tu>
