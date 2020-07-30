@@ -20467,6 +20467,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000043Z" creationid="hcartagena" creationdate="20200730T000043Z">
+        <seg>No solo pueden usar el programa sin costo, sino también tienen la libertad de hacer copias y distribuirlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not present</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T235205Z" creationid="Antonio" creationdate="20151127T075303Z">
@@ -21373,6 +21381,14 @@ traducciones previas en proyectos nuevos.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T191439Z" creationid="eumeu" creationdate="20181115T235603Z">
         <seg>OmegaT puede almacenar las traducciones que son idénticas al original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235944Z" creationid="hcartagena" creationdate="20200729T235944Z">
+        <seg>OmegaT es una aplicación y un proyecto de código abierto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22941,6 +22957,14 @@ to determine the source of the error and try again.</seg>
         <seg>Consulte el registro
 ({1})
 para determinar el origen del error y vuelva a intentarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235825Z" creationid="hcartagena" creationdate="20200729T235825Z">
+        <seg>Contacte al &lt;a0&gt;coordinador de localización de OmegaT&lt;/a0&gt; para conocer detalles sobre lo que implica localizar/traducir OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26974,6 +26998,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235854Z" creationid="hcartagena" creationdate="20200729T235837Z">
+        <seg>Show English Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Find Search Bar</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T170137Z" creationid="hcartagena" creationdate="20180605T170137Z">
@@ -30447,6 +30479,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235930Z" creationid="hcartagena" creationdate="20200729T235930Z">
+        <seg>La filosofía de código abierto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T135308Z" creationid="Antonio" creationdate="20160316T135308Z">
@@ -31875,6 +31915,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000024Z" creationid="hcartagena" creationdate="20200730T000024Z">
+        <seg>Esto significa que el código fuente del programa OmegaT está disponible de manera gratuita y que la licencia de OmegaT da amplia libertad a sus usuarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This menu displays entries only when a project is open.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191209T221058Z" creationid="nenyavie" creationdate="20191209T221058Z">
@@ -31967,6 +32015,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151125T011151Z" creationid="Víctor Parra" creationdate="20151125T011151Z">
         <seg>Este breve texto describe el comportamiento de las teclas en el panel del editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200729T235848Z" creationid="hcartagena" creationdate="20200729T235848Z">
+        <seg>This site is also available in English!</seg>
       </tuv>
     </tu>
     <tu>
