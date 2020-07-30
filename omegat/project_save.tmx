@@ -13424,6 +13424,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000435Z" creationid="hcartagena" creationdate="20200730T000435Z">
+        <seg>Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T134336Z" creationid="nenyavie" creationdate="20200225T134336Z">
@@ -31779,6 +31787,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000959Z" creationid="hcartagena" creationdate="20200730T000959Z">
+        <seg>El actual coordinador del proyecto OmegaT describe este método relajado como "anarquía delegada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T164044Z" creationid="Antonio" creationdate="20151127T164044Z">
@@ -35273,6 +35289,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T181443Z" creationid="Antonio" creationdate="20160331T181443Z">
         <seg>Si es posible, se debe evaluar la posible unificación de los tipos de letra utilizados, tamaños, colores, etc., para simplificar la traducción y reducir el número de posibles &lt;a2&gt;errores de etiqueta&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000511Z" creationid="hcartagena" creationdate="20200730T000511Z">
+        <seg>En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</seg>
       </tuv>
     </tu>
     <tu>
