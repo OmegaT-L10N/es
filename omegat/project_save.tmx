@@ -13368,6 +13368,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001050Z" creationid="hcartagena" creationdate="20200730T001050Z">
+        <seg>Por ejemplo, cualquiera es libre de hacer cambios al código de OmegaT y a enviar esos cambios al equipo de desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T192500Z" creationid="Antonio" creationdate="20160316T192500Z">
@@ -16087,6 +16095,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T193446Z" creationid="hcartagena" creationdate="20151117T193446Z">
         <seg>En orig&amp;inal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001017Z" creationid="hcartagena" creationdate="20200730T001017Z">
+        <seg>En algunos temas, hay un grado mayor de coordinación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22083,6 +22099,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T214623Z" creationid="hcartagena" creationdate="20151119T214623Z">
         <seg>Solo si &amp;el archivo (X)HTML tiene una declaración de codificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001150Z" creationid="hcartagena" creationdate="20200730T001150Z">
+        <seg>Sin embargo, solo si se considera que benefician a los usuarios de OmegaT, el equipo de desarrollo los incluirá en el programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31743,6 +31767,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T163456Z" creationid="Cristina" creationdate="20170924T163456Z">
         <seg>Esto permite que otro traductor pueda traducir el documento en cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001300Z" creationid="hcartagena" creationdate="20200730T001300Z">
+        <seg>Así se garantiza la protección de los intereses de los usuarios y también ha significado que OmegaT recibiera la &lt;a0&gt;garantía "100% FREE" de Softpedia&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
