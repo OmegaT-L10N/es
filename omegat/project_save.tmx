@@ -6926,6 +6926,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001353Z" creationid="hcartagena" creationdate="20200730T001353Z">
+        <seg>Como ocurre con lo demás en el proyecto OmegaT, el trabajo de programar OmegaT es hecho por voluntarios y, respetando la filosofía del proyecto, los desarrollos y mejoras que hacen a OmegaT quedan finalmente a su criterio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T175623Z" creationid="taty" creationdate="20181116T175623Z">
@@ -10473,6 +10481,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233717Z" creationid="hcartagena" creationdate="20200729T233717Z">
         <seg>Desarrolladores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001304Z" creationid="hcartagena" creationdate="20200730T001304Z">
+        <seg>Desarrollo de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -20135,6 +20151,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001600Z" creationid="hcartagena" creationdate="20200730T001600Z">
+        <seg>Se invita a los usuarios nuevos de OmegaT a hacer ahí sus sugerencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T114126Z" creationid="taty" creationdate="20181116T112934Z">
@@ -22067,6 +22091,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T183653Z" creationid="taty" creationdate="20181116T183653Z">
         <seg>Uno o más problemas anteriores pueden haber sido solucionados, pero el proyecto no ha sido recargado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001632Z" creationid="hcartagena" creationdate="20200730T001632Z">
+        <seg>Un motivo es que la funcionalidad deseada puede haber sido ya implementada o que haya razones por las que no se puede implementar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30092,6 +30124,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001520Z" creationid="hcartagena" creationdate="20200730T001455Z">
+        <seg>En primer lugar está el &lt;a0&gt;grupo de usuarios de OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T113315Z" creationid="Helli" creationdate="20150526T121400Z">
@@ -31327,6 +31367,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001505Z" creationid="hcartagena" creationdate="20200730T001446Z">
+        <seg>No obstante, hay un gran espacio dentro del proyecto para que los usuarios sugieran mejoras e influyan en el curso del desarrollo futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T182955Z" creationid="taty" creationdate="20181116T182955Z">
@@ -31935,6 +31983,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T142100Z" creationid="taty" creationdate="20181109T142100Z">
         <seg>Esta es la carpeta en la que se colocarán los archivos del diccionario de ortografía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001533Z" creationid="hcartagena" creationdate="20200730T001533Z">
+        <seg>Este es el foco principal de la comunidad de usuarios de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
