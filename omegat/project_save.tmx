@@ -6990,6 +6990,14 @@ correcto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002431Z" creationid="hcartagena" creationdate="20200730T002431Z">
+        <seg>Sin embargo, como ocurre con los desarrollos libres, el principio de que cualquier cambio a OmegaT debe beneficiar a la aplicación y a sus usuarios sigue teniendo validez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T081908Z" creationid="Antonio" creationdate="20151128T081908Z">
@@ -8915,6 +8923,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002515Z" creationid="hcartagena" creationdate="20200730T002515Z">
+        <seg>Compatibilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T170243Z" creationid="Cristina" creationdate="20170917T170243Z">
@@ -9099,6 +9115,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
         <seg>Modo console-translate:
 	--source-pattern=&lt;patrón&gt;
 		Una lista de expresiones regulares de archivos originales a procesar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002503Z" creationid="hcartagena" creationdate="20200730T002503Z">
+        <seg>Contacto</seg>
       </tuv>
     </tu>
     <tu>
@@ -14806,6 +14830,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002639Z" creationid="hcartagena" creationdate="20200730T002639Z">
+        <seg>Guía práctica - Compatibilidad de OmegaT con Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170918T190858Z" creationid="Cristina" creationdate="20170918T190858Z">
@@ -15958,6 +15990,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T165717Z" creationid="Cristina" creationdate="20170916T165717Z">
         <seg>Importante: Para usar los complementos, es posible que tenga que instalar una versión más reciente de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002500Z" creationid="hcartagena" creationdate="20200730T002500Z">
+        <seg>Importante: los complementos mencionados funcionan con la versión 4 de OmegaT y superiores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17319,6 +17359,14 @@ the user license.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T175448Z" creationid="hcartagena" creationdate="20151120T175448Z">
         <seg>Se utiliza para marcar sus traducciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002342Z" creationid="hcartagena" creationdate="20200730T002342Z">
+        <seg>También es posible hacer encargos a desarrolladores externos para su implementación en OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22711,6 +22759,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002510Z" creationid="hcartagena" creationdate="20200730T002510Z">
+        <seg>Página no encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
@@ -23353,6 +23409,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T051650Z" creationid="hcartagena" creationdate="20160401T051650Z">
         <seg>Pulse OK para recordar sus cambios ("{2}") o Cancelar para mantener los cambios remotos/automaticos ("{1}").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002436Z" creationid="hcartagena" creationdate="20200730T002436Z">
+        <seg>Complementos</seg>
       </tuv>
     </tu>
     <tu>
@@ -28268,6 +28332,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T212821Z" creationid="hcartagena" creationdate="20151119T212821Z">
         <seg>SuperTMXMerge-for_OmegaT.jar (licencia LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002505Z" creationid="hcartagena" creationdate="20200730T002505Z">
+        <seg>Soporte</seg>
       </tuv>
     </tu>
     <tu>
