@@ -6585,6 +6585,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000101Z" creationid="hcartagena" creationdate="20200730T000101Z">
+        <seg>Un aspecto importante de esta libertad es que los usuarios también pueden modificar el código del programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T161314Z" creationid="Cristina" creationdate="20170917T161314Z">
@@ -14638,6 +14646,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How they do so is very much up to them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000350Z" creationid="hcartagena" creationdate="20200730T000350Z">
+        <seg>La manera de hacerlo depende enteramente de ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T164751Z" creationid="taty" creationdate="20181116T164751Z">
@@ -16183,6 +16199,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T151316Z" creationid="taty" creationdate="20181205T150815Z">
         <seg>De esta forma, "&lt;g1&gt;Cursor desactivado&lt;/g1&gt;" se visualiza en la parte inferior del panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000337Z" creationid="hcartagena" creationdate="20200730T000337Z">
+        <seg>A su vez, tienen la libertad y, de hecho, se les incentiva (aunque esto no implica obligación) a colaborar en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29333,6 +29357,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000227Z" creationid="hcartagena" creationdate="20200730T000227Z">
+        <seg>La filosofía del proyecto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170918T191113Z" creationid="Cristina" creationdate="20170918T191113Z">
@@ -30719,6 +30751,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000244Z" creationid="hcartagena" creationdate="20200730T000244Z">
+        <seg>Este es el mismo espíritu que se encuentra en el proyecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T141355Z" creationid="Antonio" creationdate="20151127T173715Z">
@@ -31787,6 +31827,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000219Z" creationid="hcartagena" creationdate="20200730T000219Z">
+        <seg>Esto se conoce como "libre" más que simplemente "gratis".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T112050Z" creationid="Helli" creationdate="20150526T151402Z">
@@ -32473,6 +32521,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T152028Z" creationid="Cristina" creationdate="20170924T152028Z">
         <seg>Para probar la interfaz de usuario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000136Z" creationid="hcartagena" creationdate="20200730T000136Z">
+        <seg>Para el movimiento de código abierto, la libertad que los usuarios tienen para cambiar un programa y acomodarlo a sus propias necesidades es más importante que el hecho de que no tengan que pagar por ello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34355,6 +34411,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164839Z" creationid="hcartagena" creationdate="20180605T164839Z">
         <seg>Nombre de usuario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T000255Z" creationid="hcartagena" creationdate="20200730T000255Z">
+        <seg>Los usuarios tienen la libertad de descargar y usar el programa.</seg>
       </tuv>
     </tu>
     <tu>
