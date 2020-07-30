@@ -2846,6 +2846,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002302Z" creationid="hcartagena" creationdate="20200730T002302Z">
+        <seg>&lt;a0&gt;El patrocinio del desarrollo ya ha significado la incorporación de algunas funcionalidades.&lt;/a0&gt; Si usted desea financiar el trabajo de implementación de su funcionalidad deseada, contacte al equipo de desarrollo en privado para solicitar una cotización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T074431Z" creationid="Antonio" creationdate="20160331T074431Z">
@@ -14782,6 +14790,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002028Z" creationid="hcartagena" creationdate="20200730T002028Z">
+        <seg>Sin embargo, enviar una RFE no significa que la funcionalidad o mejora deseada será implementada automáticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170826T112243Z" creationid="Cristina" creationdate="20170826T112243Z">
@@ -18538,6 +18554,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002008Z" creationid="hcartagena" creationdate="20200730T002008Z">
+        <seg>Se han hecho cientos de RFE y muchas ya están implementadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lithuanian</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T152326Z" creationid="Antonio" creationdate="20151128T152326Z">
@@ -21963,6 +21987,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T113030Z" creationid="nenyavie" creationdate="20200225T113030Z">
         <seg>OmegaT {0} ya está disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002152Z" creationid="hcartagena" creationdate="20200730T002152Z">
+        <seg>Los desarrolladores de OmegaT, al ser voluntarios, estarán más dispuestos a implementar una RFE cuyo desarrollo sea financiado por el solicitante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30711,6 +30743,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T001952Z" creationid="hcartagena" creationdate="20200730T001952Z">
+        <seg>El procedimiento se conoce como &lt;a0&gt;RFE (del inglés, "Request for Feature Enhancement") y se administra aquí&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T213937Z" creationid="Antonio" creationdate="20160124T213937Z">
@@ -35425,6 +35465,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T000511Z" creationid="hcartagena" creationdate="20200730T000511Z">
         <seg>En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="hcartagena" changedate="20200730T002121Z" creationid="hcartagena" creationdate="20200730T002121Z">
+        <seg>Su adopción depende, en primer lugar, de si el equipo de desarrollo la considera beneficiosa para OmegaT y, en segundo lugar, de que haya algún desarrollador dispuesto a implementarla.</seg>
       </tuv>
     </tu>
     <tu>
