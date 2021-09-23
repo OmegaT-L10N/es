@@ -2191,9 +2191,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T214431Z" creationid="hcartagena" creationdate="20160331T214340Z">
+      <tuv lang="es" changeid="Mari" changedate="20210923T134831Z" creationid="hcartagena" creationdate="20160331T214340Z">
         <seg>--config-file=&lt;ruta de acceso&gt;
-		Un archivo .properties de Java desde donde cargar los ajustes predeterminados.</seg>
+		Un archivo .properties de Java desde donde cargar la configuración predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
