@@ -2221,9 +2221,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T214242Z" creationid="hcartagena" creationdate="20160331T214242Z">
+      <tuv lang="es" changeid="Mari" changedate="20210923T134440Z" creationid="hcartagena" creationdate="20160331T214242Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		Especificar un modo distinto al predeterminado (GUI).</seg>
+		Especifica un modo distinto al predeterminado (GUI).</seg>
       </tuv>
     </tu>
     <tu>
