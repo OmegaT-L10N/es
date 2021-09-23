@@ -22613,11 +22613,12 @@ versión 1.8 o superior.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210923T092423Z" creationid="hcartagena" creationdate="20180604T223813Z">
+      <tuv lang="es" changeid="Mari" changedate="20210923T092916Z" creationid="hcartagena" creationdate="20180604T223813Z">
         <seg>Opciones:
 	Ninguna: iniciar GUI
-	Solo ruta de acceso al proyecto: iniciar GUI y cargar el equipo de proyecto
-	especificadoHerramienta de proyecto de trabajo en grupo.	Team project tool.</seg>
+	Solo ruta de acceso al proyecto: iniciar GUI y cargar el equipo del proyecto
+	especificado
+		Herramienta para proyecto de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
