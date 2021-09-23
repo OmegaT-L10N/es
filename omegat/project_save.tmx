@@ -2297,9 +2297,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T223841Z" creationid="hcartagena" creationdate="20180604T223841Z">
+      <tuv lang="es" changeid="Mari" changedate="20210923T133905Z" creationid="hcartagena" creationdate="20180604T223841Z">
         <seg>-h, --help
-		Muestra información de ayuda.</seg>
+		Muestra información sobre la utilización.</seg>
       </tuv>
     </tu>
     <tu>
