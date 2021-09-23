@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22613,11 +22613,11 @@ versión 1.8 o superior.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T223813Z" creationid="hcartagena" creationdate="20180604T223813Z">
+      <tuv lang="es" changeid="Mari" changedate="20210923T090434Z" creationid="hcartagena" creationdate="20180604T223813Z">
         <seg>Opciones:
-	Ninguna: lanzar GUI
-	Solo ruta de acceso al proyecto: lanzar GUI y cargar el proyecto especificado
-	team
+	Ninguna: iniciar GUI
+	Solo ruta de acceso al proyecto: iniciar GUI y cargar el proyecto especificado
+	equipo
 		Herramienta de proyecto de trabajo en grupo.</seg>
       </tuv>
     </tu>
