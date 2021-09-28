@@ -21435,6 +21435,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20210928T195946Z" creationid="Mari" creationdate="20210928T195946Z">
+        <seg>[fuzzy]Tema clásicoComment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T170255Z" creationid="Cristina" creationdate="20170917T170255Z">
@@ -24413,8 +24421,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>R&amp;emove</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210928T195609Z" creationid="hcartagena" creationdate="20151116T192350Z">
-        <seg>Elimina&amp;r</seg>
+      <tuv lang="es" changeid="Mari" changedate="20210928T195831Z" creationid="hcartagena" creationdate="20151116T192350Z">
+        <seg>Eliminar&amp;</seg>
       </tuv>
     </tu>
     <tu>
