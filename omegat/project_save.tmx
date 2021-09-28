@@ -2165,11 +2165,11 @@ en modo de trabajo en grupo.)</seg>
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T051114Z" creationid="hcartagena" creationdate="20160331T215001Z">
+      <tuv lang="es" changeid="Mari" changedate="20210928T191103Z" creationid="hcartagena" creationdate="20160331T215001Z">
         <seg>--ITokenizer=&lt;nombre de clase&gt;
 	--ITokenizerTarget=&lt;nombre de clase&gt;
-		Analizador del idioma de origen o destino a usar (anula los
-		ajustes del proyecto).</seg>
+		Analizador del idioma de origen o destino a usar (anula la
+		configuración del proyecto).</seg>
       </tuv>
     </tu>
     <tu>
