@@ -2277,9 +2277,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T165857Z" creationid="hcartagena" creationdate="20160331T215126Z">
+      <tuv lang="es" changeid="Mari" changedate="20210928T191317Z" creationid="hcartagena" creationdate="20160331T215126Z">
         <seg>--script=&lt;ruta de acceso&gt;
-		Un archivo de programa que se ejecuta ante eventos del proyecto.</seg>
+		Un archivo de script que se ejecuta ante eventos del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
