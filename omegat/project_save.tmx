@@ -16541,8 +16541,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T231417Z" creationid="hcartagena" creationdate="20180604T231417Z">
-        <seg>Inicializó {0}-{1} como proyecto de trabajo en grupo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20210928T194254Z" creationid="hcartagena" creationdate="20180604T231417Z">
+        <seg>Proyecto de trabajo en grupo {0}-{1} iniciado.</seg>
       </tuv>
     </tu>
     <tu>
