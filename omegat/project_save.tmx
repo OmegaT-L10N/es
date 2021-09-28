@@ -2297,9 +2297,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210923T133905Z" creationid="hcartagena" creationdate="20180604T223841Z">
+      <tuv lang="es" changeid="Mari" changedate="20210928T193309Z" creationid="hcartagena" creationdate="20180604T223841Z">
         <seg>-h, --help
-		Muestra información sobre la utilización.</seg>
+		Muestra información sobre el uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,10 +8795,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T224413Z" creationid="hcartagena" creationdate="20180604T224413Z">
+      <tuv lang="es" changeid="Mari" changedate="20210928T193342Z" creationid="hcartagena" creationdate="20180604T224413Z">
         <seg>Comandos:
 	-h, --help
-		Muestra información de uso.</seg>
+		Muestra información sobre el uso.</seg>
       </tuv>
     </tu>
     <tu>
