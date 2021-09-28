@@ -9111,10 +9111,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T210824Z" creationid="hcartagena" creationdate="20160331T215323Z">
+      <tuv lang="es" changeid="Mari" changedate="20210928T192610Z" creationid="hcartagena" creationdate="20160331T215323Z">
         <seg>Modo console-translate:
-	--source-pattern=&lt;patrón&gt;
-		Una lista de expresiones regulares de archivos originales a procesar.</seg>
+	--source-pattern=&lt;modelo&gt;
+		Una lista de expresiones regulares de archivos de origen a procesar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35261,8 +35261,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210925T183823Z" creationid="hcartagena" creationdate="20160331T215212Z">
-        <seg>Warn: informar de las etiquetas no válidas a stdout.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20210928T192355Z" creationid="hcartagena" creationdate="20160331T215212Z">
+        <seg>Advertencia: informar de las etiquetas no válidas a stdout.</seg>
       </tuv>
     </tu>
     <tu>
