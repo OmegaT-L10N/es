@@ -23169,10 +23169,10 @@ cual bruma se disipa</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233605Z" creationid="hcartagena" creationdate="20180604T231521Z">
-        <seg>Poner los archivos originales en ./source y el material
+      <tuv lang="es" changeid="Mari" changedate="20210928T194822Z" creationid="hcartagena" creationdate="20180604T231521Z">
+        <seg>Pon los archivos de origen en ./source y el material
 complementario en ./tm, ./glossary y ./dictionary según corresponda y luego
-actualizar el servidor.</seg>
+confirma todo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39789,9 +39789,9 @@ directorio de configuración.</seg>
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T224523Z" creationid="hcartagena" creationdate="20180604T224523Z">
+      <tuv lang="es" changeid="Mari" changedate="20210928T194427Z" creationid="hcartagena" creationdate="20180604T224523Z">
         <seg>init &lt;idioma de origen&gt; &lt;idioma de destino&gt;
-		Inicializa un proyecto de trabajo en grupo mínimo con los idiomas especificados.</seg>
+		Inicia un proyecto de trabajo en grupo mínimo con los idiomas especificados.</seg>
       </tuv>
     </tu>
     <tu>
