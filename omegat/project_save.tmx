@@ -9099,10 +9099,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T215428Z" creationid="hcartagena" creationdate="20160331T215428Z">
+      <tuv lang="es" changeid="Mari" changedate="20210928T192725Z" creationid="hcartagena" creationdate="20160331T215428Z">
         <seg>Modo console-pseudotranslatetmx:
 	--pseudotranslatetmx=&lt;ruta de acceso&gt;
-		El archivo TMX seudotraducido que sale.</seg>
+		El archivo TMX seudotraducido de salida.</seg>
       </tuv>
     </tu>
     <tu>
