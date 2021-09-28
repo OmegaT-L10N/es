@@ -34277,8 +34277,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210923T133923Z" creationid="hcartagena" creationdate="20160331T210304Z">
-        <seg>Utilización: java -jar OmegaT.jar [&lt;opciones&gt;] [&lt;ruta de acceso al proyecto&gt;]</seg>
+      <tuv lang="es" changeid="Mari" changedate="20210928T193216Z" creationid="hcartagena" creationdate="20160331T210304Z">
+        <seg>Uso: java -jar OmegaT.jar [&lt;opciones&gt;] [&lt;ruta de acceso al proyecto&gt;]</seg>
       </tuv>
     </tu>
     <tu>
