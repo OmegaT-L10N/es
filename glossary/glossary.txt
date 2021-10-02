@@ -35,3 +35,4 @@ abort	cancelar	1. definition: to stop an activity because it would be difficult 
 initialize	iniciar	if a computer initializes or is initialized, certain important programs are prepared so that it can start running
 clear	borrar
 reload	volver a cargar
+quit	salir
