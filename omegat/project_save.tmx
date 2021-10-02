@@ -32611,6 +32611,22 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211002T182741Z" creationid="Mari" creationdate="20211002T182741Z">
+        <seg>Puede añadir archivos al proyecto de varias formas:
+- Arrastre y coloque los archivos en el panel del Editor.
+- Use el comando Proyecto &gt; Copiar archivos en la carpeta de origen...
+- Haga clic en Copiar archivos en la carpeta de origen... en la ventana Archivos del proyecto
+- Copie los archivos en la carpeta «source» del proyecto con el gestor de archivos y recargue el proyecto en Proyecto &gt; Recargar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid any problems, one person only should have these rights at least initially.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T212142Z" creationid="Antonio" creationdate="20160124T212142Z">
