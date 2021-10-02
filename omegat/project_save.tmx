@@ -9333,8 +9333,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T171615Z" creationid="hcartagena" creationdate="20151116T202403Z">
-        <seg>Agregar archivos...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211002T184228Z" creationid="hcartagena" creationdate="20151116T202403Z">
+        <seg>Copiar archivos en la carpeta de origen...</seg>
       </tuv>
     </tu>
     <tu>
