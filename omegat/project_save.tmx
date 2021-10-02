@@ -1345,6 +1345,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211002T190109Z" creationid="Mari" creationdate="20211002T190109Z">
+        <seg>&amp;Reiniciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T221542Z" creationid="hcartagena" creationdate="20151116T221542Z">
