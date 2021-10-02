@@ -34,3 +34,4 @@ computer	equipo	forma neutra en reemplazo de las formas locales "ordenador" "com
 abort	cancelar	1. definition: to stop an activity because it would be difficult or dangerous to continue it
 initialize	iniciar	if a computer initializes or is initialized, certain important programs are prepared so that it can start running
 clear	borrar
+reload	volver a cargar
