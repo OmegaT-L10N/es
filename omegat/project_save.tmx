@@ -899,8 +899,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233252Z" creationid="hcartagena" creationdate="20180604T233244Z">
-        <seg>Ig&amp;norar coincidencias con diferencias de caja muy visibles (FOO en vez de foo, por ejemplo)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211006T115344Z" creationid="hcartagena" creationdate="20180604T233244Z">
+        <seg>Ig&amp;norar coincidencias con diferencias de mayúsculas y minúsculas muy visibles (FOO en vez de foo, por ejemplo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25114,8 +25114,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233127Z" creationid="hcartagena" creationdate="20180604T233127Z">
-        <seg>&amp;Usar aciertos del glosario al insertar el texto original</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211006T115116Z" creationid="hcartagena" creationdate="20180604T233127Z">
+        <seg>&amp;Usar coincidencias del glosario al insertar el texto original</seg>
       </tuv>
     </tu>
     <tu>
