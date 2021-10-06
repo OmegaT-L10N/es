@@ -34525,8 +34525,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233111Z" creationid="hcartagena" creationdate="20180604T233111Z">
-        <seg>&amp;Incluir términos que aparecen separados en el texto original</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211006T114803Z" creationid="hcartagena" creationdate="20180604T233111Z">
+        <seg>&amp;Usar términos que aparecen separados en el texto original</seg>
       </tuv>
     </tu>
     <tu>
