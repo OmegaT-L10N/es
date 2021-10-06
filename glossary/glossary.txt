@@ -36,3 +36,4 @@ initialize	iniciar	if a computer initializes or is initialized, certain importan
 clear	borrar
 reload	volver a cargar
 quit	salir
+match	coincidencia
