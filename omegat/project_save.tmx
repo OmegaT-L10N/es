@@ -34389,8 +34389,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233119Z" creationid="hcartagena" creationdate="20180604T233119Z">
-        <seg>Usar lematización en términos de &amp;glosarios</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211006T114943Z" creationid="hcartagena" creationdate="20180604T233119Z">
+        <seg>Usar lematización en términos de &amp;glosario</seg>
       </tuv>
     </tu>
     <tu>
