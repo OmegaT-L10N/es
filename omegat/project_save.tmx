@@ -14088,6 +14088,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211007T100524Z" creationid="Mari" creationdate="20211007T100524Z">
+        <seg>Diseño del glosario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T180147Z" creationid="hcartagena" creationdate="20151117T191231Z">
@@ -19684,6 +19692,14 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T235103Z" creationid="Antonio" creationdate="20151127T075606Z">
         <seg>Combinar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211007T100748Z" creationid="Mari" creationdate="20211007T100748Z">
+        <seg>Unir definiciones alternativas para el mismo término</seg>
       </tuv>
     </tu>
     <tu>
