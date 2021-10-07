@@ -39861,9 +39861,9 @@ directorio de configuración.</seg>
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210928T194427Z" creationid="hcartagena" creationdate="20180604T224523Z">
+      <tuv lang="es" changeid="Mari" changedate="20211007T140739Z" creationid="hcartagena" creationdate="20180604T224523Z">
         <seg>init &lt;idioma de origen&gt; &lt;idioma de destino&gt;
-		Inicia un proyecto de trabajo en grupo mínimo con los idiomas especificados.</seg>
+		Inicie un proyecto de trabajo en grupo mínimo con los idiomas especificados.</seg>
       </tuv>
     </tu>
     <tu>
