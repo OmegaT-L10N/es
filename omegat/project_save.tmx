@@ -34373,8 +34373,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233300Z" creationid="hcartagena" creationdate="20180604T233300Z">
-        <seg>&amp;Usar coincidencias aproximadas para entradas de diccionarios</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211007T101052Z" creationid="hcartagena" creationdate="20180604T233300Z">
+        <seg>&amp;Usar coincidencias aproximadas para entradas de diccionario</seg>
       </tuv>
     </tu>
     <tu>
