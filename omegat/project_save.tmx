@@ -12808,8 +12808,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211007T103803Z" creationid="hcartagena" creationdate="20151116T222047Z">
-        <seg>No se pudo compilar los archivos del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211007T104018Z" creationid="hcartagena" creationdate="20151116T222047Z">
+        <seg>No se pudieron compilar los archivos del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
