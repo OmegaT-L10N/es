@@ -2209,9 +2209,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210928T192345Z" creationid="hcartagena" creationdate="20160331T214702Z">
+      <tuv lang="es" changeid="Mari" changedate="20211007T140212Z" creationid="hcartagena" creationdate="20160331T214702Z">
         <seg>--disable-location-save
-		No recordar el último directorio abierto en el selector de archivos.</seg>
+		No recuerde el último directorio abierto en el selector de archivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2219,9 +2219,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210928T192257Z" creationid="hcartagena" creationdate="20160331T214634Z">
+      <tuv lang="es" changeid="Mari" changedate="20211007T140155Z" creationid="hcartagena" creationdate="20160331T214634Z">
         <seg>--disable-project-locking
-		No intentar bloquear el archivo omegat.project del proyecto.</seg>
+		No intente bloquear el archivo omegat.project del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
