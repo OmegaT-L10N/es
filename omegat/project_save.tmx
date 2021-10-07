@@ -31591,6 +31591,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211007T102736Z" creationid="Mari" creationdate="20211007T102736Z">
+        <seg>Tema:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then launch OmegaT normally.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T155407Z" creationid="Cristina" creationdate="20170924T155407Z">
