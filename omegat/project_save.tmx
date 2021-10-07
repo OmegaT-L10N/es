@@ -2229,9 +2229,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210923T134440Z" creationid="hcartagena" creationdate="20160331T214242Z">
+      <tuv lang="es" changeid="Mari" changedate="20211007T140111Z" creationid="hcartagena" creationdate="20160331T214242Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		Especifica un modo distinto al predeterminado (GUI).</seg>
+		Especifique un modo distinto al predeterminado (GUI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2260,10 +2260,10 @@ en modo de trabajo en grupo.)</seg>
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T224148Z" creationid="hcartagena" creationdate="20180604T224148Z">
+      <tuv lang="es" changeid="Mari" changedate="20211007T135934Z" creationid="hcartagena" creationdate="20180604T224148Z">
         <seg>--remote-project
-		Descarga un archivo omegat.project desde la URL dada como &lt;ruta de acceso
-		al proyecto&gt; y carga el proyecto.</seg>
+		Descargue un archivo omegat.project desde la URL dada como &lt;ruta de acceso
+		al proyecto&gt; y cargue el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
