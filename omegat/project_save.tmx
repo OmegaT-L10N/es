@@ -20627,10 +20627,10 @@ la carpeta Aplicaciones.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T215057Z" creationid="hcartagena" creationdate="20160331T215057Z">
+      <tuv lang="es" changeid="Mari" changedate="20211007T140323Z" creationid="hcartagena" creationdate="20160331T215057Z">
         <seg>Opciones en modo no-GUI:
 	--quiet
-		Reduce la salida al stdout de la línea de comandos.</seg>
+		Reduzca la salida al stdout de la línea de comandos.</seg>
       </tuv>
     </tu>
     <tu>
