@@ -12792,16 +12792,16 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233533Z" creationid="hcartagena" creationdate="20180604T233455Z">
-        <seg>No se pudieron enviar los archivos originales</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211007T104107Z" creationid="hcartagena" creationdate="20180604T233455Z">
+        <seg>No se pudieron enviar los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233530Z" creationid="hcartagena" creationdate="20180604T233501Z">
-        <seg>No se pudieron enviar los archivos traducidos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211007T104112Z" creationid="hcartagena" creationdate="20180604T233501Z">
+        <seg>No se pudieron enviar los archivos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
