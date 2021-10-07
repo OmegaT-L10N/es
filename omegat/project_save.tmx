@@ -2249,8 +2249,8 @@ en modo de trabajo en grupo.)</seg>
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210928T192852Z" creationid="hcartagena" creationdate="20160331T215451Z">
-        <seg>--pseudotranslatetype=[igual|vacío]
+      <tuv lang="es" changeid="Mari" changedate="20211007T140651Z" creationid="hcartagena" creationdate="20160331T215451Z">
+        <seg>--pseudotranslatetype=[equal|empty]
 		Con qué llenar el TMX seudotraducido.</seg>
       </tuv>
     </tu>
