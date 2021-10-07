@@ -2305,9 +2305,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210928T193309Z" creationid="hcartagena" creationdate="20180604T223841Z">
+      <tuv lang="es" changeid="Mari" changedate="20211007T135858Z" creationid="hcartagena" creationdate="20180604T223841Z">
         <seg>-h, --help
-		Muestra información sobre el uso.</seg>
+		Muestre información sobre el uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17030,8 +17030,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T223830Z" creationid="hcartagena" creationdate="20180604T223830Z">
-        <seg>Invocar `team -h` para ver detalles.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211007T135834Z" creationid="hcartagena" creationdate="20180604T223830Z">
+        <seg>Invoque `team -h` para ver detalles.</seg>
       </tuv>
     </tu>
     <tu>
