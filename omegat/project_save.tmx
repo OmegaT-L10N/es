@@ -33871,8 +33871,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T142025Z" creationid="hcartagena" creationdate="20151117T142025Z">
-        <seg>No se pudo compilar el nuevo archivo TMX</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211010T145702Z" creationid="hcartagena" creationdate="20151117T142025Z">
+        <seg>No se pudo crear el nuevo archivo TMX.</seg>
       </tuv>
     </tu>
     <tu>
