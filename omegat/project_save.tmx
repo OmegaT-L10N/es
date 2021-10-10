@@ -9437,8 +9437,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211010T145818Z" creationid="hcartagena" creationdate="20180604T233955Z">
-        <seg>No se pudo crear la carpeta de proyecto en {0}.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211010T150518Z" creationid="hcartagena" creationdate="20180604T233955Z">
+        <seg>No se pudo crear el directorio del proyecto en {0}.</seg>
       </tuv>
     </tu>
     <tu>
