@@ -2239,9 +2239,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T214744Z" creationid="hcartagena" creationdate="20160331T214744Z">
+      <tuv lang="es" changeid="Mari" changedate="20211010T142040Z" creationid="hcartagena" creationdate="20160331T214744Z">
         <seg>--no-team
-		Desactiva la funcionalidad de proyectos de trabajo en grupo.</seg>
+		Desactive la funcionalidad de proyectos de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8803,10 +8803,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210928T193342Z" creationid="hcartagena" creationdate="20180604T224413Z">
+      <tuv lang="es" changeid="Mari" changedate="20211010T142128Z" creationid="hcartagena" creationdate="20180604T224413Z">
         <seg>Comandos:
 	-h, --help
-		Muestra información sobre el uso.</seg>
+		Muestre información sobre el uso.</seg>
       </tuv>
     </tu>
     <tu>
