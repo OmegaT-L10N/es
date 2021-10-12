@@ -33169,6 +33169,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T140405Z" creationid="Mari" creationdate="20211012T140405Z">
+        <seg>Total de caracteres (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142711Z" creationid="hcartagena" creationdate="20151117T142711Z">
