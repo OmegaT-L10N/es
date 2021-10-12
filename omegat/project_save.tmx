@@ -24832,6 +24832,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T140430Z" creationid="Mari" creationdate="20211012T140430Z">
+        <seg>Caracteres pendientes (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142717Z" creationid="hcartagena" creationdate="20151117T142717Z">
@@ -34117,6 +34125,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T140447Z" creationid="Mari" creationdate="20211012T140447Z">
+        <seg>Caracteres únicos (sin espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142723Z" creationid="hcartagena" creationdate="20151117T142723Z">
@@ -34129,6 +34145,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142806Z" creationid="hcartagena" creationdate="20151117T142806Z">
         <seg>Caracteres únicos pendientes (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T140506Z" creationid="Mari" creationdate="20211012T140506Z">
+        <seg>Caracteres únicos pendientes (sin espacios)</seg>
       </tuv>
     </tu>
     <tu>
