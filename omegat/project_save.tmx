@@ -27976,8 +27976,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T191908Z" creationid="hcartagena" creationdate="20151117T191719Z">
-        <seg>No existe la carpeta indicada para los archivos originales</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T145522Z" creationid="hcartagena" creationdate="20151117T191719Z">
+        <seg>No existe la carpeta indicada para los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31497,8 +31497,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T191710Z" creationid="hcartagena" creationdate="20151117T191645Z">
-        <seg>El idioma indicado para los archivos traducidos no es válido</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T145508Z" creationid="hcartagena" creationdate="20151117T191645Z">
+        <seg>El idioma indicado para los archivos traducidos no es válido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33469,8 +33469,8 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T191916Z" creationid="hcartagena" creationdate="20151117T191735Z">
-        <seg>No existe la carpeta indicada para los archivos traducidos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T145531Z" creationid="hcartagena" creationdate="20151117T191735Z">
+        <seg>No existe la carpeta indicada para los archivos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
