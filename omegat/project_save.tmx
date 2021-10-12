@@ -24832,6 +24832,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T140541Z" creationid="Mari" creationdate="20211012T140541Z">
+        <seg>Caracteres pendientes (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211012T140430Z" creationid="Mari" creationdate="20211012T140430Z">
@@ -33177,6 +33185,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T140526Z" creationid="Mari" creationdate="20211012T140526Z">
+        <seg>Total de caracteres (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211012T140405Z" creationid="Mari" creationdate="20211012T140405Z">
@@ -34125,6 +34141,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T140552Z" creationid="Mari" creationdate="20211012T140552Z">
+        <seg>Caracteres únicos (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211012T140447Z" creationid="Mari" creationdate="20211012T140447Z">
@@ -34144,6 +34168,14 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
         <seg>Unique Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142806Z" creationid="hcartagena" creationdate="20151117T142806Z">
+        <seg>Caracteres únicos pendientes (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T140605Z" creationid="Mari" creationdate="20211012T140605Z">
         <seg>Caracteres únicos pendientes (con espacios)</seg>
       </tuv>
     </tu>
