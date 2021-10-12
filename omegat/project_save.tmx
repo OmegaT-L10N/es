@@ -8227,6 +8227,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T135831Z" creationid="Mari" creationdate="20211012T135831Z">
+        <seg>Caracteres (con espacios)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211012T135807Z" creationid="Mari" creationdate="20211012T135807Z">
