@@ -29120,6 +29120,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211012T144230Z" creationid="Mari" creationdate="20211012T144230Z">
+        <seg>Asignación de repositorios en modo de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T175432Z" creationid="hcartagena" creationdate="20151120T175432Z">
@@ -33935,16 +33943,16 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to convert project!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T220012Z" creationid="hcartagena" creationdate="20160331T220012Z">
-        <seg>No se pudo convertir el proyecto</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T144016Z" creationid="hcartagena" creationdate="20160331T220012Z">
+        <seg>No se pudo convertir el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T220028Z" creationid="hcartagena" creationdate="20160331T220028Z">
-        <seg>No se pudo descargar el proyecto de trabajo en grupo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T144028Z" creationid="hcartagena" creationdate="20160331T220028Z">
+        <seg>No se pudo descargar el proyecto de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33999,8 +34007,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T191523Z" creationid="hcartagena" creationdate="20151117T191518Z">
-        <seg>No se pudo leer el archivo del proyecto</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T144010Z" creationid="hcartagena" creationdate="20151117T191518Z">
+        <seg>No se pudo leer el archivo del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
