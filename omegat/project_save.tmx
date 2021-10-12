@@ -23527,8 +23527,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T234059Z" creationid="hcartagena" creationdate="20180604T234059Z">
-        <seg>Seleccione el idioma de sus archivos originales y el idioma de destino al que desea traducirlos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T143707Z" creationid="hcartagena" creationdate="20180604T234059Z">
+        <seg>Seleccione el idioma de los archivos originales y el idioma de destino al que desea traducirlos.</seg>
       </tuv>
     </tu>
     <tu>
