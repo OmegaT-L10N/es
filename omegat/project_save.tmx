@@ -24938,8 +24938,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remote Repositories</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T220115Z" creationid="hcartagena" creationdate="20160331T220115Z">
-        <seg>Quitar repositorios</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T144455Z" creationid="hcartagena" creationdate="20160331T220115Z">
+        <seg>Repositorios remotos</seg>
       </tuv>
     </tu>
     <tu>
