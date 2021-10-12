@@ -14178,8 +14178,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T180308Z" creationid="hcartagena" creationdate="20151117T191753Z">
-        <seg>No existe la carpeta indicada para los archivos de glosarios</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T145549Z" creationid="hcartagena" creationdate="20151117T191753Z">
+        <seg>No existe la carpeta indicada para los archivos de glosarios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33597,8 +33597,8 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       <tuv lang="en">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T180325Z" creationid="hcartagena" creationdate="20151117T191840Z">
-        <seg>No existe la carpeta indicada para los archivos de memorias de traducción</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T145631Z" creationid="hcartagena" creationdate="20151117T191840Z">
+        <seg>No existe la carpeta indicada para los archivos de memorias de traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36142,8 +36142,8 @@ No se encontró la página</seg>
       <tuv lang="en">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T174648Z" creationid="hcartagena" creationdate="20151117T191803Z">
-        <seg>No existe la carpeta indicada para el archivo del glosario principal</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211012T145600Z" creationid="hcartagena" creationdate="20151117T191803Z">
+        <seg>No existe la carpeta indicada para el archivo del glosario principal.</seg>
       </tuv>
     </tu>
     <tu>
