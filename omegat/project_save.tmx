@@ -10999,8 +10999,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Do you really want to quit?</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T222420Z" creationid="hcartagena" creationdate="20151116T222420Z">
-        <seg>¿Realmente quiere salir?</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211013T193505Z" creationid="hcartagena" creationdate="20151116T222420Z">
+        <seg>¿Desea salir?</seg>
       </tuv>
     </tu>
     <tu>
