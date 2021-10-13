@@ -17977,8 +17977,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T181742Z" creationid="hcartagena" creationdate="20151124T225930Z">
-        <seg>La búsqueda por palabras clave encuentra todas las palabras separadas por espacios, con independencia de su orden.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211013T194205Z" creationid="hcartagena" creationdate="20151124T225930Z">
+        <seg>La búsqueda por palabras clave encuentra todas las palabras clave separadas por espacios, con independencia de su orden.</seg>
       </tuv>
     </tu>
     <tu>
