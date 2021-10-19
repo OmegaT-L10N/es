@@ -39,3 +39,4 @@ quit	salir
 match	coincidencia
 remove	eliminar
 parse error	error de análisis
+fatal error	error irrecuperable
