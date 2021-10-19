@@ -11902,8 +11902,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T183958Z" creationid="hcartagena" creationdate="20151118T200921Z">
-        <seg>Se alcanzó el final de la secuencia sin haberse hallado el bloque de cierre</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T141439Z" creationid="hcartagena" creationdate="20151118T200921Z">
+        <seg>Se alcanzó el final de la secuencia sin haberse hallado el bloque de cierre.</seg>
       </tuv>
     </tu>
     <tu>
