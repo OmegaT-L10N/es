@@ -23703,8 +23703,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151118T213441Z" creationid="hcartagena" creationdate="20151118T213441Z">
-        <seg>La operación de guardado de preferencias del sistema falló</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T142302Z" creationid="hcartagena" creationdate="20151118T213441Z">
+        <seg>La operación de guardado de preferencias falló.</seg>
       </tuv>
     </tu>
     <tu>
