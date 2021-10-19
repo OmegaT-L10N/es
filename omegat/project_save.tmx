@@ -5203,8 +5203,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T174926Z" creationid="Antonio" creationdate="20151127T174926Z">
-        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T184944Z" creationid="Antonio" creationdate="20151127T174926Z">
+        <seg>I&amp;D &lt;unidad-trad&gt;</seg>
       </tuv>
     </tu>
     <tu>
