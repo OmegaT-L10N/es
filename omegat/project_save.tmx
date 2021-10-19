@@ -323,8 +323,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T191222Z" creationid="hcartagena" creationdate="20151119T191222Z">
-        <seg>Permitir tr&amp;aducciones en blanco en archivos traducidos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T182021Z" creationid="hcartagena" creationdate="20151119T191222Z">
+        <seg>Permitir tr&amp;aducciones en blanco en los archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1283,8 +1283,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T201911Z" creationid="hcartagena" creationdate="20151119T201911Z">
-        <seg>Elimina&amp;r cadenas no traducidas en archivos traducidos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T182121Z" creationid="hcartagena" creationdate="20151119T201911Z">
+        <seg>Elimina&amp;r cadenas no traducidas en los archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
