@@ -37032,8 +37032,8 @@ crearlas.</seg>
       <tuv lang="en">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T185538Z" creationid="hcartagena" creationdate="20151119T185538Z">
-        <seg>Su proyecto utiliza la segmentación por frases, pero el archivo TMX fue creado con segmentación por párrafos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T143640Z" creationid="hcartagena" creationdate="20151119T185538Z">
+        <seg>El proyecto actual utiliza la segmentación por frases, pero el archivo TMX fue creado con segmentación por párrafos.</seg>
       </tuv>
     </tu>
     <tu>
