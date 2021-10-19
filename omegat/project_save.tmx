@@ -5195,8 +5195,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T190500Z" creationid="hcartagena" creationdate="20151119T204119Z">
-        <seg>atributo &amp;resname de &lt;trans-unit&gt; si está disponible</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T185133Z" creationid="hcartagena" creationdate="20151119T204119Z">
+        <seg>Atributo &amp;resname de &lt;unidad-trad&gt; si está disponible</seg>
       </tuv>
     </tu>
     <tu>
