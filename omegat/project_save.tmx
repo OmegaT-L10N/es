@@ -12800,8 +12800,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T230530Z" creationid="hcartagena" creationdate="20151124T230530Z">
-        <seg>No se pudo respaldar el archivo de preferencias.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T142729Z" creationid="hcartagena" creationdate="20151124T230530Z">
+        <seg>No se pudo hacer una copia de seguridad del archivo de preferencias.</seg>
       </tuv>
     </tu>
     <tu>
