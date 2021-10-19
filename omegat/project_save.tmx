@@ -20765,8 +20765,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Not a valid XML file!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151118T191747Z" creationid="hcartagena" creationdate="20151118T191747Z">
-        <seg>El archivo XML no es válido</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T140305Z" creationid="hcartagena" creationdate="20151118T191747Z">
+        <seg>El archivo XML no es válido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34317,8 +34317,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151118T191735Z" creationid="hcartagena" creationdate="20151118T191735Z">
-        <seg>La versión de XML {0} es incompatible</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T140258Z" creationid="hcartagena" creationdate="20151118T191735Z">
+        <seg>La versión de XML {0} es incompatible.</seg>
       </tuv>
     </tu>
     <tu>
