@@ -12896,8 +12896,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T183911Z" creationid="hcartagena" creationdate="20151119T183911Z">
-        <seg>Error fatal en la línea {0}, columna {1} durante el análisis:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T143054Z" creationid="hcartagena" creationdate="20151119T183911Z">
+        <seg>Error irrecuperable en la línea {0}, columna {1} durante el análisis:</seg>
       </tuv>
     </tu>
     <tu>
