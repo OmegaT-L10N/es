@@ -22185,8 +22185,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T185547Z" creationid="hcartagena" creationdate="20151119T185547Z">
-        <seg>OmegaT intentará recrear los segmentos del archivo TMX...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T143822Z" creationid="hcartagena" creationdate="20151119T185547Z">
+        <seg>OmegaT intentará volver a segmentar el archivo TMX...</seg>
       </tuv>
     </tu>
     <tu>
