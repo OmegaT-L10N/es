@@ -38,3 +38,4 @@ reload	volver a cargar
 quit	salir
 match	coincidencia
 remove	eliminar
+parse error	error de análisis
