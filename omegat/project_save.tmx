@@ -18788,8 +18788,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T185634Z" creationid="hcartagena" creationdate="20151119T185634Z">
-        <seg>Cargando glosario(s) {0}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T144247Z" creationid="hcartagena" creationdate="20151119T185634Z">
+        <seg>Cargando glosario {0}</seg>
       </tuv>
     </tu>
     <tu>
