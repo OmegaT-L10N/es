@@ -34333,8 +34333,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151118T225018Z" creationid="hcartagena" creationdate="20151118T225018Z">
-        <seg>La versión del archivo de proyecto ({0}) no es compatible</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T142803Z" creationid="hcartagena" creationdate="20151118T225018Z">
+        <seg>La versión del archivo de proyecto ({0}) es incompatible.</seg>
       </tuv>
     </tu>
     <tu>
