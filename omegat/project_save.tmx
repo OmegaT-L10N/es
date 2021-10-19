@@ -12187,8 +12187,8 @@ soy la pantalla azul de la muerte,
       <tuv lang="en">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T184438Z" creationid="hcartagena" creationdate="20151119T185621Z">
-        <seg>Error durante la lectura del archivo TMX de nivel 2 en la línea {0}, columna {1}.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T144058Z" creationid="hcartagena" creationdate="20151119T185621Z">
+        <seg>Error durante la lectura del nivel 2 del archivo TMX en la línea {0}, columna {1}.</seg>
       </tuv>
     </tu>
     <tu>
