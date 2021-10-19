@@ -34263,8 +34263,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T031747Z" creationid="hcartagena" creationdate="20180605T031747Z">
-        <seg>Complemento de tipo desconocido de tipo '{0}' en '{1}'</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T144919Z" creationid="hcartagena" creationdate="20180605T031747Z">
+        <seg>Tipo de complemento '{0}' desconocido en '{1}'</seg>
       </tuv>
     </tu>
     <tu>
