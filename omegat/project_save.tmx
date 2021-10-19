@@ -23006,8 +23006,8 @@ cual bruma se disipa</seg>
       <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151118T224927Z" creationid="hcartagena" creationdate="20151118T224927Z">
-        <seg>Se encontró un error de análisis al leer el archivo de preferencias</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T142501Z" creationid="hcartagena" creationdate="20151118T224927Z">
+        <seg>Se encontró un error de análisis al leer el archivo de preferencias.</seg>
       </tuv>
     </tu>
     <tu>
