@@ -40,3 +40,4 @@ remove	eliminar
 parse error	error de análisis
 fatal error	error irrecuperable
 TMX level2	nivel 2 de TMX
+add	añadir
