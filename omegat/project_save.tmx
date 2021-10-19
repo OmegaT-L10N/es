@@ -9135,9 +9135,9 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211007T140536Z" creationid="hcartagena" creationdate="20160331T215323Z">
+      <tuv lang="es" changeid="Mari" changedate="20211019T145719Z" creationid="hcartagena" creationdate="20160331T215323Z">
         <seg>Modo console-translate:
-	--source-pattern=&lt;modelo&gt;
+	--source-pattern=&lt;patrón&gt;
 		Una lista de expresiones regulares de archivos originales a procesar.</seg>
       </tuv>
     </tu>
@@ -12496,8 +12496,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Exclude Pattern</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211012T144929Z" creationid="hcartagena" creationdate="20180605T031453Z">
-        <seg>Excluir modelo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T145740Z" creationid="hcartagena" creationdate="20180605T031453Z">
+        <seg>Excluir patrón</seg>
       </tuv>
     </tu>
     <tu>
@@ -16469,8 +16469,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Include Pattern</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211012T145031Z" creationid="hcartagena" creationdate="20180605T031500Z">
-        <seg>Incluir modelo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T145747Z" creationid="hcartagena" creationdate="20180605T031500Z">
+        <seg>Incluir patrón</seg>
       </tuv>
     </tu>
     <tu>
