@@ -15072,8 +15072,8 @@ es que su invierno ha llegado</seg>
       <tuv lang="en">
         <seg>IOException encountered:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151118T191836Z" creationid="hcartagena" creationdate="20151118T191836Z">
-        <seg>Se encontró excepción de E/S:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211019T140851Z" creationid="hcartagena" creationdate="20151118T191836Z">
+        <seg>Se encontró excepción IO:</seg>
       </tuv>
     </tu>
     <tu>
