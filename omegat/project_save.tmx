@@ -28110,6 +28110,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211021T182405Z" creationid="Mari" creationdate="20211021T182405Z">
+        <seg>Especificar comportamiento de manejo del atributo state</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T203911Z" creationid="hcartagena" creationdate="20151119T203911Z">
