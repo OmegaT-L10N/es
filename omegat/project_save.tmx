@@ -1468,8 +1468,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T203851Z" creationid="hcartagena" creationdate="20151119T203843Z">
-        <seg>Nombres de &amp;hojas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211021T183230Z" creationid="hcartagena" creationdate="20151119T203843Z">
+        <seg>Nombres de &amp;hoja</seg>
       </tuv>
     </tu>
     <tu>
