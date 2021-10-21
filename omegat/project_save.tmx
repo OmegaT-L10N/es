@@ -8123,6 +8123,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211021T182638Z" creationid="Mari" creationdate="20211021T182638Z">
+        <seg>Cambiar a "Necesita revisión/traducción" en vez de "traducido"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T192655Z" creationid="hcartagena" creationdate="20151117T192633Z">
