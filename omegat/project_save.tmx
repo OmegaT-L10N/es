@@ -5899,8 +5899,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T194327Z" creationid="hcartagena" creationdate="20151119T213938Z">
-        <seg>Agregar o reescribir la declaración de codificación en archivos HTML y XHTML:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T153931Z" creationid="hcartagena" creationdate="20151119T213938Z">
+        <seg>Añadir o reescribir la declaración de codificación en archivos HTML y XHTML:</seg>
       </tuv>
     </tu>
     <tu>
