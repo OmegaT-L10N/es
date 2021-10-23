@@ -25034,8 +25034,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T032458Z" creationid="hcartagena" creationdate="20180605T032458Z">
-        <seg>Quitar espacio en blanco anterior y posterior en proyectos sin segmentación</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T153456Z" creationid="hcartagena" creationdate="20180605T032458Z">
+        <seg>Eliminar espacio en blanco inicial y final en proyectos sin segmentación</seg>
       </tuv>
     </tu>
     <tu>
