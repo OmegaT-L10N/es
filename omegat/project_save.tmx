@@ -14640,8 +14640,8 @@ es que su invierno ha llegado</seg>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T213146Z" creationid="hcartagena" creationdate="20151119T213146Z">
-        <seg>Aquí puede configurar los patrones de nombre de archivo de los archivos originales que procesará el filtro, personalizar el nombre de los archivos traducidos y seleccionar las codificaciones que usará para cargar el archivo y guardar su homólogo traducido.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T152726Z" creationid="hcartagena" creationdate="20151119T213146Z">
+        <seg>Aquí puede configurar los patrones de nombre de los archivos originales que procesará el filtro, personalizar el nombre de los archivos traducidos y seleccionar las codificaciones que usará para cargar el archivo y guardar su homólogo traducido.</seg>
       </tuv>
     </tu>
     <tu>
