@@ -6739,8 +6739,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181107T191705Z" creationid="eumeu" creationdate="20181107T191705Z">
-        <seg>Apache Commons (Licencia Apache 2.0)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T151630Z" creationid="eumeu" creationdate="20181107T191705Z">
+        <seg>Apache Commons (licencia Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14338,8 +14338,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181113T172506Z" creationid="taty" creationdate="20181113T172506Z">
-        <seg>Groovy (Apache Licence 2.0)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T151718Z" creationid="taty" creationdate="20181113T172506Z">
+        <seg>Groovy (licencia Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22881,8 +22881,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T020520Z" creationid="hcartagena" creationdate="20160401T020520Z">
-        <seg>PDFBox (Apache License 2.0)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T151652Z" creationid="hcartagena" creationdate="20160401T020520Z">
+        <seg>PDFBox (licencia Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28538,8 +28538,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181107T191801Z" creationid="eumeu" creationdate="20181107T191801Z">
-        <seg>SuperTMXMerge (Licencia Apache 2.0)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T151704Z" creationid="eumeu" creationdate="20181107T191801Z">
+        <seg>SuperTMXMerge (licencia Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
