@@ -21683,8 +21683,8 @@ traducciones previas en proyectos nuevos.</seg>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T022226Z" creationid="hcartagena" creationdate="20151119T212054Z">
-        <seg>OmegaT es una herramienta multiplataforma libre para la traducción asistida por computadora (TAC) que está dotada de diversas funciones: coincidencias aproximadas, memoria de traducción, búsqueda por palabras clave, glosarios y aprovechamiento de traducciones previas en proyectos nuevos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T150848Z" creationid="hcartagena" creationdate="20151119T212054Z">
+        <seg>OmegaT es una herramienta multiplataforma de código abierto para la traducción asistida por ordenador (TAO) que está dotada de diversas funciones: coincidencias aproximadas, memoria de traducción, búsqueda por palabras clave, glosarios y aprovechamiento de traducciones previas en proyectos nuevos.</seg>
       </tuv>
     </tu>
     <tu>
