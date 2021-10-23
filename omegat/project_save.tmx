@@ -13112,8 +13112,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Filename Variables:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T213730Z" creationid="hcartagena" creationdate="20151119T213730Z">
-        <seg>Variables de nombres de achivo:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T153644Z" creationid="hcartagena" creationdate="20151119T213730Z">
+        <seg>Variables de nombre de achivo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33435,8 +33435,8 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       <tuv lang="en">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T191142Z" creationid="hcartagena" creationdate="20151119T191142Z">
-        <seg>Patrón de nombre de archivos traducidos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211023T153738Z" creationid="hcartagena" creationdate="20151119T191142Z">
+        <seg>Patrón de nombre del archivo traducido</seg>
       </tuv>
     </tu>
     <tu>
