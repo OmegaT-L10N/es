@@ -23543,8 +23543,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="en">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151120T175534Z" creationid="hcartagena" creationdate="20151120T175534Z">
-        <seg>Seleccione el texto que desea insertar en los segmentos que no se han traducido al ingresar a uno de ellos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211024T180358Z" creationid="hcartagena" creationdate="20151120T175534Z">
+        <seg>Seleccione el texto que desea insertar en el segmento que no se ha traducido al ingresar en él.</seg>
       </tuv>
     </tu>
     <tu>
