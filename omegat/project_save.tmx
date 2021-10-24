@@ -12680,8 +12680,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>External TMX Options</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T231007Z" creationid="hcartagena" creationdate="20151124T231007Z">
-        <seg>Opciones de TMX externos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211024T181824Z" creationid="hcartagena" creationdate="20151124T231007Z">
+        <seg>Opciones de TMX externas</seg>
       </tuv>
     </tu>
     <tu>
@@ -23501,8 +23501,8 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="en">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T231039Z" creationid="hcartagena" creationdate="20151124T231039Z">
-        <seg>Seleccionar cómo se mostrarán etiquetas de TMX no creados en OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211024T181942Z" creationid="hcartagena" creationdate="20151124T231039Z">
+        <seg>Seleccione cómo se mostrarán las etiquetas de TMX no creadas en OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
