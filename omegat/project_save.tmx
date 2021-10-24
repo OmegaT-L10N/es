@@ -10983,8 +10983,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T214525Z" creationid="hcartagena" creationdate="20151119T214525Z">
-        <seg>No traducir el atributo 'content' de etiquetas 'meta' cuyos pares clave-valor de los atributos sean (separar con comas):</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211024T181244Z" creationid="hcartagena" creationdate="20151119T214525Z">
+        <seg>No traducir el atributo "content" de etiquetas "meta" cuyos pares clave-valor de los atributos sean (separar con comas):</seg>
       </tuv>
     </tu>
     <tu>
