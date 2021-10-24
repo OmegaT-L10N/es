@@ -1741,8 +1741,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T201150Z" creationid="hcartagena" creationdate="20151119T215505Z">
-        <seg>&amp;value (valor de entradas de formulario del tipo 'button', 'submit' y 'reset')</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211024T173846Z" creationid="hcartagena" creationdate="20151119T215505Z">
+        <seg>&amp;value (valor de entradas de formulario, incluidos botones, enviar y restablecer)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43007,8 +43007,8 @@ directorio de configuración.</seg>
       <tuv lang="en">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T201158Z" creationid="hcartagena" creationdate="20151119T215535Z">
-        <seg>value (valor de entradas del tipo 'button', '&amp;submit' y 'reset')</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211024T174107Z" creationid="hcartagena" creationdate="20151119T215535Z">
+        <seg>value (valor de entradas de botones, &amp;enviar y restablecer)</seg>
       </tuv>
     </tu>
     <tu>
