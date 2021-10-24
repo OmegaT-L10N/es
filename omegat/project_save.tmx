@@ -15188,8 +15188,8 @@ que introducir la ruta completa.)</seg>
       <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T230813Z" creationid="hcartagena" creationdate="20151119T213923Z">
-        <seg>Si el archivo HTML tiene una declaración de codificación, se utilizará esta, con independencia del valor que especifique en este cuadro de diálogo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211024T174617Z" creationid="hcartagena" creationdate="20151119T213923Z">
+        <seg>Si el archivo HTML contiene una declaración de codificación, se utilizará esta, con independencia del valor que especifique en este cuadro de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22417,8 +22417,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T214623Z" creationid="hcartagena" creationdate="20151119T214623Z">
-        <seg>Solo si &amp;el archivo (X)HTML tiene una declaración de codificación</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211024T174640Z" creationid="hcartagena" creationdate="20151119T214623Z">
+        <seg>Solo si &amp;el archivo (X)HTML contiene una declaración de codificación</seg>
       </tuv>
     </tu>
     <tu>
