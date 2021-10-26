@@ -14346,8 +14346,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Got unexpected MIME TYPE {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211026T152039Z" creationid="Mari" creationdate="20211026T152039Z">
-        <seg>Obtuvo un tipo MIME {0} inesperado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T152352Z" creationid="Mari" creationdate="20211026T152039Z">
+        <seg>Se obtuvo un tipo MIME {0} inesperado</seg>
       </tuv>
     </tu>
     <tu>
