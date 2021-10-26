@@ -31843,9 +31843,9 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T234214Z" creationid="hcartagena" creationdate="20151124T234214Z">
-        <seg>Por lo tanto, no se puede determinar de manera confiable
-la ubicación del directorio de configuración de OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T150504Z" creationid="hcartagena" creationdate="20151124T234214Z">
+        <seg>Por lo tanto, no se puede determinar de manera fiable
+la ubicación de la carpeta de configuración de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
