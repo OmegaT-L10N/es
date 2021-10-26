@@ -12403,8 +12403,8 @@ soy la pantalla azul de la muerte,
       <tuv lang="en">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151125T000242Z" creationid="hcartagena" creationdate="20151125T000242Z">
-        <seg>Evento: nuevo archivo ({0}) activado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T152939Z" creationid="hcartagena" creationdate="20151125T000242Z">
+        <seg>Evento: nuevo archivo activado ({0})</seg>
       </tuv>
     </tu>
     <tu>
