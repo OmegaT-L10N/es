@@ -27512,8 +27512,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T032823Z" creationid="hcartagena" creationdate="20180605T032823Z">
-        <seg>Simplificar &amp;información sobre herramientas sobre partes protegidas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T141746Z" creationid="hcartagena" creationdate="20180605T032823Z">
+        <seg>Simplificar &amp;información sobre herramientas en partes protegidas</seg>
       </tuv>
     </tu>
     <tu>
