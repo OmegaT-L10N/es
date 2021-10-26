@@ -33821,8 +33821,8 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       <tuv lang="en">
         <seg>Type in new rule ID</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T164347Z" creationid="hcartagena" creationdate="20180605T164347Z">
-        <seg>Introducir nuevo ID de regla</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T154823Z" creationid="hcartagena" creationdate="20180605T164347Z">
+        <seg>Escriba nuevo ID de regla</seg>
       </tuv>
     </tu>
     <tu>
