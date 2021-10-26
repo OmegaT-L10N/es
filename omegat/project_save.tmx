@@ -20247,6 +20247,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211026T143617Z" creationid="Mari" creationdate="20211026T143617Z">
+        <seg>NB: el filtro Paquetes de recursos de Java™ ya los detecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T161745Z" creationid="Antonio" creationdate="20151126T161745Z">
