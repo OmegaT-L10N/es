@@ -10903,8 +10903,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T212434Z" creationid="hcartagena" creationdate="20151124T233740Z">
-        <seg>Muestra las entradas de diccionarios en la carpeta /dictionary/ que haya en el segmento original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T144938Z" creationid="hcartagena" creationdate="20151124T233740Z">
+        <seg>Muestra las entradas de diccionario de los archivos en la carpeta /dictionary/ que haya en el segmento original.</seg>
       </tuv>
     </tu>
     <tu>
