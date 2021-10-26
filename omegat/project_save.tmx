@@ -13864,6 +13864,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211026T142655Z" creationid="Mari" creationdate="20211026T142655Z">
+        <seg>La comprobación completa puede generar falsos positivos en textos normales y el filtro PO ya los detecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T205807Z" creationid="hcartagena" creationdate="20151124T233032Z">
