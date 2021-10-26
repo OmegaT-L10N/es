@@ -18361,8 +18361,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T164255Z" creationid="hcartagena" creationdate="20180605T164255Z">
-        <seg>LanguageTool: Se produjo un error durante la comprobación.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T154630Z" creationid="hcartagena" creationdate="20180605T164255Z">
+        <seg>LanguageTool: se produjo un error durante la comprobación.</seg>
       </tuv>
     </tu>
     <tu>
