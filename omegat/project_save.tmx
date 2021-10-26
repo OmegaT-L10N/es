@@ -32109,8 +32109,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T214535Z" creationid="hcartagena" creationdate="20151125T000325Z">
-        <seg>Esta llamada NO DEBE estar en un subproceso 'swing'</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T153626Z" creationid="hcartagena" creationdate="20151125T000325Z">
+        <seg>Esta llamada NO DEBE estar en un subproceso swing</seg>
       </tuv>
     </tu>
     <tu>
