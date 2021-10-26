@@ -17542,8 +17542,8 @@ the user license.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141336Z" creationid="hcartagena" creationdate="20151124T234941Z">
-        <seg>No fue posible crear la carpeta de programas dentro
+      <tuv lang="es" changeid="Mari" changedate="20211026T151505Z" creationid="hcartagena" creationdate="20151124T234941Z">
+        <seg>No fue posible crear la carpeta de scripts dentro
 de la carpeta de configuración.</seg>
       </tuv>
     </tu>
