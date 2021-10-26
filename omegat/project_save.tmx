@@ -9477,8 +9477,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Could not create the specified folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T214826Z" creationid="Víctor Parra" creationdate="20151126T195131Z">
-        <seg>No se ha podido crear la carpeta especificada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T154101Z" creationid="Víctor Parra" creationdate="20151126T195131Z">
+        <seg>No se pudo crear la carpeta especificada.</seg>
       </tuv>
     </tu>
     <tu>
