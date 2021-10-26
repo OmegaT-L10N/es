@@ -31842,8 +31842,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T164546Z" creationid="hcartagena" creationdate="20180605T164546Z">
-        <seg>Hubo un error al inicializar LanguageTool.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T155031Z" creationid="hcartagena" creationdate="20180605T164546Z">
+        <seg>Hubo un error al iniciar LanguageTool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32077,8 +32077,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This ID is already being used.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T164504Z" creationid="hcartagena" creationdate="20180605T164504Z">
-        <seg>Este ID ya está siendo usado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T154956Z" creationid="hcartagena" creationdate="20180605T164504Z">
+        <seg>Este ID ya se está usando.</seg>
       </tuv>
     </tu>
     <tu>
