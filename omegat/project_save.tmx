@@ -10791,8 +10791,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T032733Z" creationid="hcartagena" creationdate="20180605T032733Z">
-        <seg>Mostrar todos el &amp;segmento original activo en negritas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T141630Z" creationid="hcartagena" creationdate="20180605T032733Z">
+        <seg>Mostrar el &amp;segmento original activo en negrita</seg>
       </tuv>
     </tu>
     <tu>
@@ -10823,8 +10823,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T231322Z" creationid="hcartagena" creationdate="20151124T231322Z">
-        <seg>Mostrar todos los &amp;segmentos originales en negritas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T141600Z" creationid="hcartagena" creationdate="20151124T231322Z">
+        <seg>Mostrar todos los &amp;segmentos originales en negrita</seg>
       </tuv>
     </tu>
     <tu>
