@@ -6307,8 +6307,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T233837Z" creationid="hcartagena" creationdate="20151124T233837Z">
-        <seg>Permite ver, agregar, quitar o editar una nota en el segmento activo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T145123Z" creationid="hcartagena" creationdate="20151124T233837Z">
+        <seg>Permite ver, añadir, eliminar o editar una nota en el segmento activo.</seg>
       </tuv>
     </tu>
     <tu>
