@@ -14336,6 +14336,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211026T152345Z" creationid="Mari" creationdate="20211026T152345Z">
+        <seg>Se obtuvo una respuesta HTTP {0} inesperada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Got unexpected MIME TYPE {0}</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T152039Z" creationid="Mari" creationdate="20211026T152039Z">
