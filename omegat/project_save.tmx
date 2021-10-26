@@ -23557,8 +23557,8 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="en">
         <seg>Please select the dictionaries you want to install and press the Install button.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T215227Z" creationid="Víctor Parra" creationdate="20151126T195156Z">
-        <seg>Por favor, seleccione los diccionarios que desee instalar y pulse el botón 'Instalar'.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211026T155109Z" creationid="Víctor Parra" creationdate="20151126T195156Z">
+        <seg>Seleccione los diccionarios que desee instalar y pulse el botón "Instalar".</seg>
       </tuv>
     </tu>
     <tu>
