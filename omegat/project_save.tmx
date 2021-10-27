@@ -5851,8 +5851,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Add Script</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141636Z" creationid="Antonio" creationdate="20151127T172948Z">
-        <seg>Añadir programa</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104355Z" creationid="Antonio" creationdate="20151127T172948Z">
+        <seg>Añadir script</seg>
       </tuv>
     </tu>
     <tu>
@@ -20665,8 +20665,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141633Z" creationid="Antonio" creationdate="20151127T173006Z">
-        <seg>Ningún programa vinculado a la ranura #{0}.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104344Z" creationid="Antonio" creationdate="20151127T173006Z">
+        <seg>Ningún script vinculado a la ranura #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20681,8 +20681,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>No script set.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T144245Z" creationid="Antonio" creationdate="20151127T173026Z">
-        <seg>Sin programa especificado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104324Z" creationid="Antonio" creationdate="20151127T173026Z">
+        <seg>Sin script especificado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25058,8 +25058,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T225457Z" creationid="Antonio" creationdate="20151127T172940Z">
-        <seg>Quitar programa</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104408Z" creationid="Antonio" creationdate="20151127T172940Z">
+        <seg>Eliminar script</seg>
       </tuv>
     </tu>
     <tu>
@@ -26174,8 +26174,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141645Z" creationid="Antonio" creationdate="20151127T172915Z">
-        <seg>Programa "{0}" vinculado a la ranura #{1}.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104418Z" creationid="Antonio" creationdate="20151127T172915Z">
+        <seg>Script "{0}" vinculado a la ranura #{1}.</seg>
       </tuv>
     </tu>
     <tu>
