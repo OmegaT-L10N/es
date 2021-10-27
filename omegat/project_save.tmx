@@ -8917,8 +8917,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T172200Z" creationid="Antonio" creationdate="20151127T172200Z">
-        <seg>No es posible realizar la confirmación debido a que alguien ha cambiado la traducción remota.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T110511Z" creationid="Antonio" creationdate="20151127T172200Z">
+        <seg>No es posible confirmar debido a que alguien ha cambiado la traducción remota.</seg>
       </tuv>
     </tu>
     <tu>
