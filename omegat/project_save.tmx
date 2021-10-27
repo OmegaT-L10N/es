@@ -1139,8 +1139,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Open Script...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141347Z" creationid="Antonio" creationdate="20151127T173740Z">
-        <seg>&amp;Abrir programa...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T103716Z" creationid="Antonio" creationdate="20151127T173740Z">
+        <seg>&amp;Abrir script...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8013,8 +8013,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T165923Z" creationid="hcartagena" creationdate="20180605T165610Z">
-        <seg>Cancelar solo funciona con programas que comprueban cancelación de manera explícita.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T103801Z" creationid="hcartagena" creationdate="20180605T165610Z">
+        <seg>Cancelar solo funciona con scripts que comprueban la cancelación de manera explícita.</seg>
       </tuv>
     </tu>
     <tu>
