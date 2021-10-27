@@ -25796,8 +25796,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141622Z" creationid="Antonio" creationdate="20151127T173043Z">
-        <seg>Ejecutar programa en la ranura #{0}.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104308Z" creationid="Antonio" creationdate="20151127T173043Z">
+        <seg>Ejecutar script en la ranura #{0}.</seg>
       </tuv>
     </tu>
     <tu>
