@@ -16629,8 +16629,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Initializing</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T172716Z" creationid="Antonio" creationdate="20151127T172716Z">
-        <seg>Inicializando</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T105100Z" creationid="Antonio" creationdate="20151127T172716Z">
+        <seg>Iniciando</seg>
       </tuv>
     </tu>
     <tu>
@@ -29042,8 +29042,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T225536Z" creationid="Antonio" creationdate="20151127T172707Z">
-        <seg>Falló la validación de etiquetas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T105157Z" creationid="Antonio" creationdate="20151127T172707Z">
+        <seg>No se pudieron validar las etiquetas</seg>
       </tuv>
     </tu>
     <tu>
