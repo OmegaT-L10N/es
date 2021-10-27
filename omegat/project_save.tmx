@@ -28056,8 +28056,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T230226Z" creationid="Antonio" creationdate="20151127T172457Z">
-        <seg>La carpeta de origen {0} no existe.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T105907Z" creationid="Antonio" creationdate="20151127T172457Z">
+        <seg>La carpeta de archivos originales {0} no existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29138,8 +29138,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Target folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T230235Z" creationid="Antonio" creationdate="20151127T172444Z">
-        <seg>La carpeta de destino {0} no existe.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T105941Z" creationid="Antonio" creationdate="20151127T172444Z">
+        <seg>La carpeta de archivos traducidos {0} no existe.</seg>
       </tuv>
     </tu>
     <tu>
