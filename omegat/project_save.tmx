@@ -34047,8 +34047,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to parse IAM service response</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T203326Z" creationid="hcartagena" creationdate="20200729T203326Z">
-        <seg>No se pudo analizar respuesta del servicio IAM</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T102829Z" creationid="hcartagena" creationdate="20200729T203326Z">
+        <seg>No se pudo analizar la respuesta del servicio IAM</seg>
       </tuv>
     </tu>
     <tu>
@@ -34071,8 +34071,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to parse translate service response</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T203339Z" creationid="hcartagena" creationdate="20200729T203339Z">
-        <seg>No se pudo analizar respuesta del servicio de traducción</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T102843Z" creationid="hcartagena" creationdate="20200729T203339Z">
+        <seg>No se pudo analizar la respuesta del servicio de traducción</seg>
       </tuv>
     </tu>
     <tu>
