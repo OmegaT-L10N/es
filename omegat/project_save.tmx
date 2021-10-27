@@ -32769,11 +32769,11 @@ servidor.</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211002T185103Z" creationid="Mari" creationdate="20211002T182741Z">
+      <tuv lang="es" changeid="Mari" changedate="20211027T105744Z" creationid="Mari" creationdate="20211002T182741Z">
         <seg>Puede añadir archivos al proyecto de varias formas:
 - Arrastre y coloque los archivos en el panel del Editor.
-- Use el comando Proyecto &gt; Copiar archivos en la carpeta de origen...
-- Haga clic en Copiar archivos en la carpeta de origen... en la ventana Archivos del proyecto.
+- Use el comando Proyecto &gt; Copiar archivos en la carpeta de archivos originales...
+- Haga clic en Copiar archivos en la carpeta de archivos originales... en la ventana Archivos del proyecto.
 - Copie los archivos en la carpeta «source» del proyecto con el gestor de archivos y vuelva a cargar el proyecto en Proyecto &gt; Volver a cargar.</seg>
       </tuv>
     </tu>
