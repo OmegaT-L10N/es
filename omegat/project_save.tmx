@@ -19482,6 +19482,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211027T101826Z" creationid="Mari" creationdate="20211027T101826Z">
+        <seg>Marcar palabras desconocidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T152814Z" creationid="Antonio" creationdate="20151128T152759Z">
