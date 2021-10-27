@@ -25236,8 +25236,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T174754Z" creationid="Antonio" creationdate="20151127T174754Z">
-        <seg>Reemplazar con la coincidencia o selección</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T100635Z" creationid="Antonio" creationdate="20151127T174754Z">
+        <seg>Reemplazar la traducción con la coincidencia o selección</seg>
       </tuv>
     </tu>
     <tu>
