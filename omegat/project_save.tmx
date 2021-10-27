@@ -34063,8 +34063,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to parse service error report</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T203359Z" creationid="hcartagena" creationdate="20200729T203359Z">
-        <seg>No se pudo analizar reporte de error del servicio</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T103032Z" creationid="hcartagena" creationdate="20200729T203359Z">
+        <seg>No se pudo analizar el informe de errores del servicio</seg>
       </tuv>
     </tu>
     <tu>
