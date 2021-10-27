@@ -25900,8 +25900,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>SVN '{0}' execution start</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T213543Z" creationid="Antonio" creationdate="20151127T172301Z">
-        <seg>Inicio de la ejecución de '{0}' en SVN</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T110215Z" creationid="Antonio" creationdate="20151127T172301Z">
+        <seg>Inicio de la ejecución de SVN '{0}'</seg>
       </tuv>
     </tu>
     <tu>
