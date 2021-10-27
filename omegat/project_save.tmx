@@ -14074,8 +14074,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T213656Z" creationid="Antonio" creationdate="20151127T171705Z">
-        <seg>Error '{0}' en Git: {1}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T120255Z" creationid="Antonio" creationdate="20151127T171705Z">
+        <seg>Error {1} de '{0}' en Git</seg>
       </tuv>
     </tu>
     <tu>
