@@ -17959,6 +17959,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211027T102618Z" creationid="Mari" creationdate="20211027T102618Z">
+        <seg>Mantener las etiquetas en el texto traducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T190926Z" creationid="Antonio" creationdate="20151210T190926Z">
