@@ -12299,8 +12299,8 @@ soy la pantalla azul de la muerte,
       <tuv lang="en">
         <seg>Error while trying to save script.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141443Z" creationid="Antonio" creationdate="20151127T173109Z">
-        <seg>Error al intentar guardar el programa.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104142Z" creationid="Antonio" creationdate="20151127T173109Z">
+        <seg>Error al intentar guardar el script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26044,8 +26044,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Save Script</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141434Z" creationid="Antonio" creationdate="20151127T173130Z">
-        <seg>Guardar programa</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104133Z" creationid="Antonio" creationdate="20151127T173130Z">
+        <seg>Guardar script</seg>
       </tuv>
     </tu>
     <tu>
@@ -26182,8 +26182,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Script "{0}" saved.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141617Z" creationid="Antonio" creationdate="20151127T173058Z">
-        <seg>Se ha guardado el programa "{0}".</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104223Z" creationid="Antonio" creationdate="20151127T173058Z">
+        <seg>Se guardó el script "{0}".</seg>
       </tuv>
     </tu>
     <tu>
