@@ -779,8 +779,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170115Z" creationid="hcartagena" creationdate="20180605T170115Z">
-        <seg>&amp;Encontrar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104642Z" creationid="hcartagena" creationdate="20180605T170115Z">
+        <seg>&amp;Buscar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1099,8 +1099,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;New Script</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170015Z" creationid="hcartagena" creationdate="20180605T165733Z">
-        <seg>&amp;Nuevo programa</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104448Z" creationid="hcartagena" creationdate="20180605T165733Z">
+        <seg>&amp;Nuevo script</seg>
       </tuv>
     </tu>
     <tu>
@@ -5755,8 +5755,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Access Scripts Folder</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170108Z" creationid="hcartagena" creationdate="20180605T170108Z">
-        <seg>Acceder a carpeta de programas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104504Z" creationid="hcartagena" creationdate="20180605T170108Z">
+        <seg>Acceder a carpeta de scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -26190,8 +26190,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141654Z" creationid="Antonio" creationdate="20151127T172859Z">
-        <seg>Programa "{0}" desvinculado de la ranura #{1}.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104433Z" creationid="Antonio" creationdate="20151127T172859Z">
+        <seg>Script "{0}" desvinculado de la ranura #{1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27208,8 +27208,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Set Scripts Folder...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170022Z" creationid="hcartagena" creationdate="20180605T165752Z">
-        <seg>Establecer la carpeta de programas...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104456Z" creationid="hcartagena" creationdate="20180605T165752Z">
+        <seg>Establecer la carpeta de scripts...</seg>
       </tuv>
     </tu>
     <tu>
