@@ -12203,8 +12203,8 @@ soy la pantalla azul de la muerte,
       <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T213458Z" creationid="Antonio" creationdate="20151127T174704Z">
-        <seg>Error al arrancar la aplicación</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T101019Z" creationid="Antonio" creationdate="20151127T174704Z">
+        <seg>Error al iniciar la aplicación</seg>
       </tuv>
     </tu>
     <tu>
