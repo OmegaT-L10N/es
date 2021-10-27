@@ -25892,8 +25892,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>SVN '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T213550Z" creationid="Antonio" creationdate="20151127T172246Z">
-        <seg>La ejecución de '{0}' en SVN ha terminado con éxito</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T110257Z" creationid="Antonio" creationdate="20151127T172246Z">
+        <seg>La ejecución de SVN '{0}' ha terminado con éxito</seg>
       </tuv>
     </tu>
     <tu>
