@@ -1775,8 +1775,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>(+{0} more)</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T174718Z" creationid="Antonio" creationdate="20151127T174718Z">
-        <seg>(+{0} más)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T100722Z" creationid="Antonio" creationdate="20151127T174718Z">
+        <seg>(+{0} más)</seg>
       </tuv>
     </tu>
     <tu>
