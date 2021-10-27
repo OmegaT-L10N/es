@@ -25884,8 +25884,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T213555Z" creationid="Antonio" creationdate="20151127T172219Z">
-        <seg>Error '{0}' en SVN: {1}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T110421Z" creationid="Antonio" creationdate="20151127T172219Z">
+        <seg>Error {1} de SVN '{0}'</seg>
       </tuv>
     </tu>
     <tu>
