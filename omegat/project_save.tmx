@@ -8077,8 +8077,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Cannot read selected script file.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141422Z" creationid="Antonio" creationdate="20151127T173503Z">
-        <seg>No se puede leer el archivo de programa seleccionado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104045Z" creationid="Antonio" creationdate="20151127T173503Z">
+        <seg>No se puede leer el archivo de script seleccionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20673,8 +20673,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>No script selected.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141411Z" creationid="Antonio" creationdate="20151127T173552Z">
-        <seg>No se seleccionó ningún programa.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104033Z" creationid="Antonio" creationdate="20151127T173552Z">
+        <seg>No se seleccionó ningún script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24714,8 +24714,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Refreshing script folder "{0}"</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170010Z" creationid="hcartagena" creationdate="20180605T165727Z">
-        <seg>Actualizando la carpeta de programas "{0}"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104127Z" creationid="hcartagena" creationdate="20180605T165727Z">
+        <seg>Actualizando la carpeta de scripts "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -26206,8 +26206,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Script Result</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141425Z" creationid="Antonio" creationdate="20151127T173157Z">
-        <seg>Resultado del programa</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104057Z" creationid="Antonio" creationdate="20151127T173157Z">
+        <seg>Resultado del script</seg>
       </tuv>
     </tu>
     <tu>
@@ -27008,8 +27008,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select Scripts Folder</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T165945Z" creationid="hcartagena" creationdate="20180605T165704Z">
-        <seg>Seleccionar carpeta de programas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104012Z" creationid="hcartagena" creationdate="20180605T165704Z">
+        <seg>Seleccionar carpeta de scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -27048,8 +27048,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select a Script File</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T165954Z" creationid="hcartagena" creationdate="20180605T165710Z">
-        <seg>Seleccionar un archivo de programas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T104023Z" creationid="hcartagena" creationdate="20180605T165710Z">
+        <seg>Seleccionar un archivo de script</seg>
       </tuv>
     </tu>
     <tu>
