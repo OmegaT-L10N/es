@@ -12568,8 +12568,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T092943Z" creationid="nenyavie" creationdate="20200225T092943Z">
-        <seg>Ejecuntado el script {0} (evento {1})</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T115609Z" creationid="nenyavie" creationdate="20200225T092943Z">
+        <seg>Ejecutando el script {0} (evento {1})</seg>
       </tuv>
     </tu>
     <tu>
