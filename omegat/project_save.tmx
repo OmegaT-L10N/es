@@ -31265,8 +31265,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141355Z" creationid="Antonio" creationdate="20151127T173715Z">
-        <seg>Se está ejecutando el programa "{0}"...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211027T103826Z" creationid="Antonio" creationdate="20151127T173715Z">
+        <seg>Se está ejecutando el script "{0}"...</seg>
       </tuv>
     </tu>
     <tu>
