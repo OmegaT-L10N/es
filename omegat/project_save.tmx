@@ -23759,8 +23759,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="en">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T025019Z" creationid="hcartagena" creationdate="20160401T025019Z">
-        <seg>No se pasaron las credenciales predefinidas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T115024Z" creationid="hcartagena" creationdate="20160401T025019Z">
+        <seg>No se aprobaron las credenciales predefinidas.</seg>
       </tuv>
     </tu>
     <tu>
