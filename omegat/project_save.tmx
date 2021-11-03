@@ -7104,8 +7104,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T230837Z" creationid="Antonio" creationdate="20151127T171509Z">
-        <seg>Autentificación</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T113344Z" creationid="Antonio" creationdate="20151127T171509Z">
+        <seg>Autenticación</seg>
       </tuv>
     </tu>
     <tu>
@@ -23503,6 +23503,14 @@ si es necesaria alguna acción adicional.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T230841Z" creationid="Antonio" creationdate="20151127T171506Z">
         <seg>Introduzca el nombre de usuario y la contraseña</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211103T113453Z" creationid="Mari" creationdate="20211103T113453Z">
+        <seg>Introduzca el nombre de usuario y la contraseña {0}</seg>
       </tuv>
     </tu>
     <tu>
