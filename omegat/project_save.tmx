@@ -36284,6 +36284,14 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211103T113633Z" creationid="Mari" creationdate="20211103T113633Z">
+        <seg>Nombre de usuario o contraseña incorrectos para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X followed by Y</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T141343Z" creationid="nenyavie" creationdate="20200225T141343Z">
