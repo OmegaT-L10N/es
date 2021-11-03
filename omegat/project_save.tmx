@@ -25026,8 +25026,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T093351Z" creationid="nenyavie" creationdate="20200225T093351Z">
-        <seg>Error de comunicación con la red de repositorios remotos: {0}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T115222Z" creationid="nenyavie" creationdate="20200225T093351Z">
+        <seg>Error de comunicación de red del repositorio remoto: {0}</seg>
       </tuv>
     </tu>
     <tu>
