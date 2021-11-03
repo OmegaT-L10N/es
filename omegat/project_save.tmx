@@ -23589,8 +23589,8 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="en">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T232450Z" creationid="Antonio" creationdate="20151127T163849Z">
-        <seg>Por favor, seleccione la frecuencia con que se guardará automáticamente el proyecto, en minutos y segundos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T115319Z" creationid="Antonio" creationdate="20151127T163849Z">
+        <seg>Seleccione la frecuencia con la que se guardará automáticamente el proyecto, en minutos y segundos.</seg>
       </tuv>
     </tu>
     <tu>
