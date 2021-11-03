@@ -11303,8 +11303,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T145644Z" creationid="Helli" creationdate="20150526T130945Z">
-        <seg>Descargar proyecto en grupo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T113750Z" creationid="Helli" creationdate="20150526T130945Z">
+        <seg>Descargar proyecto de trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
@@ -12107,8 +12107,8 @@ soy la pantalla azul de la muerte,
       <tuv lang="en">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T170349Z" creationid="Antonio" creationdate="20151127T165206Z">
-        <seg>Error al descargar el proyecto del repositorio remoto:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T113919Z" creationid="Antonio" creationdate="20151127T165206Z">
+        <seg>Error al extraer el proyecto del repositorio remoto:</seg>
       </tuv>
     </tu>
     <tu>
