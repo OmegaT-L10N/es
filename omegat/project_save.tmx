@@ -34879,8 +34879,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T164218Z" creationid="Antonio" creationdate="20151127T164218Z">
-        <seg>Credenciales de usuario rechazadas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T114315Z" creationid="Antonio" creationdate="20151127T164218Z">
+        <seg>El usuario ha rechazado las credenciales</seg>
       </tuv>
     </tu>
     <tu>
