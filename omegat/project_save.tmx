@@ -23509,16 +23509,16 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="en">
         <seg>Please enter username/password for {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211103T113453Z" creationid="Mari" creationdate="20211103T113453Z">
-        <seg>Introduzca el nombre de usuario y la contraseña {0}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T113538Z" creationid="Mari" creationdate="20211103T113453Z">
+        <seg>Introduzca el nombre de usuario y la contraseña para {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211024T180022Z" creationid="hcartagena" creationdate="20151120T175441Z">
-        <seg>Escriba su nombre/ID.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T113504Z" creationid="hcartagena" creationdate="20151120T175441Z">
+        <seg>Introduzca su nombre/ID.</seg>
       </tuv>
     </tu>
     <tu>
