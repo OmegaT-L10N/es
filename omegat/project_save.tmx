@@ -29460,8 +29460,8 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
       <tuv lang="en">
         <seg>Text to be removed</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T232700Z" creationid="Antonio" creationdate="20151127T163445Z">
-        <seg>Texto a quitar</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T115522Z" creationid="Antonio" creationdate="20151127T163445Z">
+        <seg>Texto a eliminar</seg>
       </tuv>
     </tu>
     <tu>
