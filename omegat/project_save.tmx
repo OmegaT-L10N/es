@@ -32333,16 +32333,16 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T164044Z" creationid="Antonio" creationdate="20151127T164044Z">
-        <seg>Este es un repositorio de Git</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T114426Z" creationid="Antonio" creationdate="20151127T164044Z">
+        <seg>Este es un repositorio de Git.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T164035Z" creationid="Antonio" creationdate="20151127T164035Z">
-        <seg>Este es un repositorio de Subversion</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T114433Z" creationid="Antonio" creationdate="20151127T164035Z">
+        <seg>Este es un repositorio de Subversion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34879,8 +34879,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211103T114315Z" creationid="Antonio" creationdate="20151127T164218Z">
-        <seg>El usuario ha rechazado las credenciales</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T114358Z" creationid="Antonio" creationdate="20151127T164218Z">
+        <seg>El usuario rechazó las credenciales</seg>
       </tuv>
     </tu>
     <tu>
