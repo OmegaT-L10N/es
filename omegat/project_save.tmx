@@ -12155,8 +12155,8 @@ soy la pantalla azul de la muerte,
       <tuv lang="en">
         <seg>Error fixing tags</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T232932Z" creationid="Antonio" creationdate="20151127T163203Z">
-        <seg>Error al reparar las etiquetas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T115817Z" creationid="Antonio" creationdate="20151127T163203Z">
+        <seg>Error al corregir las etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -12784,8 +12784,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Extraneous</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T232815Z" creationid="Antonio" creationdate="20151127T163408Z">
-        <seg>Extraña</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T115709Z" creationid="Antonio" creationdate="20151127T163408Z">
+        <seg>Extrañas</seg>
       </tuv>
     </tu>
     <tu>
@@ -19898,8 +19898,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Missing</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211103T115634Z" creationid="Antonio" creationdate="20151127T163416Z">
-        <seg>Ausente</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T115714Z" creationid="Antonio" creationdate="20151127T163416Z">
+        <seg>Ausentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -22921,8 +22921,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Out-of-order</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T232840Z" creationid="Antonio" creationdate="20151127T163402Z">
-        <seg>Desordenada</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211103T115707Z" creationid="Antonio" creationdate="20151127T163402Z">
+        <seg>Desordenadas</seg>
       </tuv>
     </tu>
     <tu>
