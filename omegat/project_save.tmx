@@ -6467,8 +6467,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T044624Z" creationid="hcartagena" creationdate="20160401T044624Z">
-        <seg>Se produjo un error al guardar el TMX.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T194103Z" creationid="hcartagena" creationdate="20160401T044624Z">
+        <seg>Se produjo un error al guardar la TMX.</seg>
       </tuv>
     </tu>
     <tu>
