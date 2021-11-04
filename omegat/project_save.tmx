@@ -25162,8 +25162,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remove text target</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151210T000748Z" creationid="Antonio" creationdate="20151126T153251Z">
-        <seg>Texto a eliminar de la traducción</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T185055Z" creationid="Antonio" creationdate="20151126T153251Z">
+        <seg>Eliminar texto traducido</seg>
       </tuv>
     </tu>
     <tu>
