@@ -34573,8 +34573,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T231106Z" creationid="hcartagena" creationdate="20151124T231106Z">
-        <seg>Usar &amp;XML para etiquetas independientes (&lt;i/&gt;, por ejemplo)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T120247Z" creationid="hcartagena" creationdate="20151124T231106Z">
+        <seg>Utilizar &amp;XML para etiquetas independientes (&lt;i/&gt;, por ejemplo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34685,8 +34685,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use custom templates for modification &amp;info</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T032838Z" creationid="hcartagena" creationdate="20180605T032838Z">
-        <seg>Usar plantillas personalizadas para la información &amp;sobre modificaciones</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T120259Z" creationid="hcartagena" creationdate="20180605T032838Z">
+        <seg>Utilizar plantillas personalizadas para la información &amp;sobre modificaciones</seg>
       </tuv>
     </tu>
     <tu>
