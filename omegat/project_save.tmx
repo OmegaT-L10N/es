@@ -43753,6 +43753,16 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">CONFLICT_DIALOG_LABEL_MINE</prop>
+      <tuv lang="en">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211104T192025Z" creationid="Mari" creationdate="20211104T192025Z">
+        <seg>Propia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">KEYSTROKE_EDITOR_NOT_SET</prop>
       <tuv lang="en">
         <seg>Not Set</seg>
