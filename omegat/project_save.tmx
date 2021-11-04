@@ -19630,8 +19630,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Matches Deleted Active</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151210T000950Z" creationid="Antonio" creationdate="20151126T152826Z">
-        <seg>Texto borrado en coincidencias activas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T185914Z" creationid="Antonio" creationdate="20151126T152826Z">
+        <seg>Coincidencias eliminadas activas</seg>
       </tuv>
     </tu>
     <tu>
@@ -19657,8 +19657,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151210T000941Z" creationid="Antonio" creationdate="20151126T152837Z">
-        <seg>Texto insertado en coincidencias inactivas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T185855Z" creationid="Antonio" creationdate="20151126T152837Z">
+        <seg>Coincidencias insertadas inactivas</seg>
       </tuv>
     </tu>
     <tu>
