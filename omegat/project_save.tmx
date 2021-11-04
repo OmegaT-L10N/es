@@ -5875,8 +5875,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T233229Z" creationid="Antonio" creationdate="20151127T081050Z">
-        <seg>Añada caracteres al cuadro personalizado haciendo doble clic o bien resaltando el carácter y pulsando la tecla 'Insertar'.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T114628Z" creationid="Antonio" creationdate="20151127T081050Z">
+        <seg>Para añadir caracteres a la tabla personalizada, haga doble clic o bien resalte el carácter y pulse la tecla "Insertar".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8221,8 +8221,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T233130Z" creationid="Antonio" creationdate="20151127T081359Z">
-        <seg>Opciones de autocompletar del cuadro de caracteres</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T114122Z" creationid="Antonio" creationdate="20151127T081359Z">
+        <seg>Opciones de autocompletar de la tabla de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -10247,8 +10247,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Customize character &amp;table</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T171121Z" creationid="hcartagena" creationdate="20180605T171121Z">
-        <seg>Personali&amp;zar el cuadro de caracteres</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T114147Z" creationid="hcartagena" creationdate="20180605T171121Z">
+        <seg>Personali&amp;zar la tabla de caracteres</seg>
       </tuv>
     </tu>
     <tu>
