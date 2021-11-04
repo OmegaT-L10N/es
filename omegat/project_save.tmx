@@ -14240,6 +14240,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211104T190110Z" creationid="Mari" creationdate="20211104T190110Z">
+        <seg>Original del glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary/Display Context Description for TBX Glossaries</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104740Z" creationid="nenyavie" creationdate="20200226T104740Z">
@@ -19639,8 +19647,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Matches Deleted Inactive</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151210T001004Z" creationid="Antonio" creationdate="20151126T152813Z">
-        <seg>Texto borrado en coincidencias inactivas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T185946Z" creationid="Antonio" creationdate="20151126T152813Z">
+        <seg>Coincidencias eliminadas inactivas</seg>
       </tuv>
     </tu>
     <tu>
