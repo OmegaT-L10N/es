@@ -10927,8 +10927,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T233658Z" creationid="Antonio" creationdate="20151127T110750Z">
-        <seg>Muestra las entradas en la forma "&lt;traducido&gt;→ &lt;original&gt;"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T113049Z" creationid="Antonio" creationdate="20151127T110750Z">
+        <seg>Muestra los términos en la forma "&lt;destino&gt;→ &lt;origen&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -27480,8 +27480,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170940Z" creationid="hcartagena" creationdate="20180605T170940Z">
-        <seg>Mostrar &amp;el término traducido al principio</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T113017Z" creationid="hcartagena" creationdate="20180605T170940Z">
+        <seg>Mostrar &amp;el término de destino al principio</seg>
       </tuv>
     </tu>
     <tu>
