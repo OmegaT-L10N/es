@@ -6147,16 +6147,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T190629Z" creationid="hcartagena" creationdate="20160401T025951Z">
-        <seg>Grupo Aligner "aceptado"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T190802Z" creationid="hcartagena" creationdate="20160401T025951Z">
+        <seg>Grupo de alineación "aceptado"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T190642Z" creationid="hcartagena" creationdate="20160401T031605Z">
-        <seg>Grupo Aligner "necesita revisión"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T190812Z" creationid="hcartagena" creationdate="20160401T031605Z">
+        <seg>Grupo de alineación "necesita revisión"</seg>
       </tuv>
     </tu>
     <tu>
