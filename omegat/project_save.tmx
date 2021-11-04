@@ -8005,8 +8005,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Cancel Pinpoint Align</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T174458Z" creationid="hcartagena" creationdate="20180605T174458Z">
-        <seg>Cancelar alineación puntual</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T193806Z" creationid="hcartagena" creationdate="20180605T174458Z">
+        <seg>Cancelar alineación precisa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11918,8 +11918,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>End Pinpoint Align</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T174452Z" creationid="hcartagena" creationdate="20180605T174452Z">
-        <seg>Finalizar alineación puntual</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T193800Z" creationid="hcartagena" creationdate="20180605T174452Z">
+        <seg>Finalizar alineación precisa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11934,8 +11934,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>End rebase</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211103T114745Z" creationid="Antonio" creationdate="20151127T163934Z">
-        <seg>Terminar reorganización</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T193747Z" creationid="Antonio" creationdate="20151127T163934Z">
+        <seg>Finalizar reorganización</seg>
       </tuv>
     </tu>
     <tu>
