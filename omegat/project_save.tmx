@@ -2173,10 +2173,10 @@ en modo de trabajo en grupo.)</seg>
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210928T191103Z" creationid="hcartagena" creationdate="20160331T215001Z">
+      <tuv lang="es" changeid="Mari" changedate="20211104T115844Z" creationid="hcartagena" creationdate="20160331T215001Z">
         <seg>--ITokenizer=&lt;nombre de clase&gt;
 	--ITokenizerTarget=&lt;nombre de clase&gt;
-		Analizador del idioma de origen o destino a usar (anula la
+		Analizador del idioma de origen o destino a utilizar (anula la
 		configuración del proyecto).</seg>
       </tuv>
     </tu>
@@ -2273,9 +2273,9 @@ en modo de trabajo en grupo.)</seg>
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T214550Z" creationid="hcartagena" creationdate="20160331T214347Z">
+      <tuv lang="es" changeid="Mari" changedate="20211104T115833Z" creationid="hcartagena" creationdate="20160331T214347Z">
         <seg>--resource-bundle=&lt;ruta de acceso&gt;
-		Un archivo .properties de Java para usar como texto de la interfaz
+		Un archivo .properties de Java para utilizar como texto de la interfaz
 	--config-dir=&lt;ruta de acceso&gt;
 		El directorio desde donde leer y hacia donde escribir los archivos de configuración de OmegaT.</seg>
       </tuv>
@@ -32777,10 +32777,10 @@ servidor.</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T105744Z" creationid="Mari" creationdate="20211002T182741Z">
+      <tuv lang="es" changeid="Mari" changedate="20211104T115900Z" creationid="Mari" creationdate="20211002T182741Z">
         <seg>Puede añadir archivos al proyecto de varias formas:
 - Arrastre y coloque los archivos en el panel del Editor.
-- Use el comando Proyecto &gt; Copiar archivos en la carpeta de archivos originales...
+- Utilice el comando Proyecto &gt; Copiar archivos en la carpeta de archivos originales...
 - Haga clic en Copiar archivos en la carpeta de archivos originales... en la ventana Archivos del proyecto.
 - Copie los archivos en la carpeta «source» del proyecto con el gestor de archivos y vuelva a cargar el proyecto en Proyecto &gt; Volver a cargar.</seg>
       </tuv>
