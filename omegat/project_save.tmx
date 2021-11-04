@@ -14224,6 +14224,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211104T190133Z" creationid="Mari" creationdate="20211104T190133Z">
+        <seg>Nota del glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T190016Z" creationid="eumeu" creationdate="20181112T133740Z">
@@ -14244,6 +14252,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T190110Z" creationid="Mari" creationdate="20211104T190110Z">
         <seg>Original del glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211104T190125Z" creationid="Mari" creationdate="20211104T190125Z">
+        <seg>Traducción del glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -15048,8 +15064,8 @@ es que su invierno ha llegado</seg>
       <tuv lang="en">
         <seg>Hyperlinks</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151202T190419Z" creationid="Antonio" creationdate="20151126T152736Z">
-        <seg>Hiperenlaces</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T190145Z" creationid="Antonio" creationdate="20151126T152736Z">
+        <seg>Hipervínculos</seg>
       </tuv>
     </tu>
     <tu>
