@@ -3800,8 +3800,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T174025Z" creationid="hcartagena" creationdate="20180605T174025Z">
-        <seg>&lt;html&gt;&lt;i&gt;Preferencias&lt;/i&gt; &amp;gt; &lt;i&gt;General &lt;/i&gt; &amp;gt; &lt;i&gt;Usar tabulador para avanzar&lt;/i&gt; está marcada&lt;/html&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T191055Z" creationid="hcartagena" creationdate="20180605T174025Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferencias&lt;/i&gt; &amp;gt; &lt;i&gt;General &lt;/i&gt; &amp;gt; &lt;i&gt;Utilizar tabulador para avanzar&lt;/i&gt; está marcada&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
