@@ -19850,8 +19850,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T075615Z" creationid="Antonio" creationdate="20151127T075615Z">
-        <seg>Mio</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T115154Z" creationid="Antonio" creationdate="20151127T075615Z">
+        <seg>Propio</seg>
       </tuv>
     </tu>
     <tu>
@@ -23549,8 +23549,8 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="en">
         <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T235120Z" creationid="Antonio" creationdate="20151127T075554Z">
-        <seg>Resuelva los conflictos seleccionando una traducción para cada segmento que sigue a continuación.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T115326Z" creationid="Antonio" creationdate="20151127T075554Z">
+        <seg>Para solucionar los conflictos, seleccione una traducción para cada segmento que sigue a continuación.</seg>
       </tuv>
     </tu>
     <tu>
