@@ -34549,8 +34549,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T031632Z" creationid="hcartagena" creationdate="20180605T031632Z">
-        <seg>Use $n para hacer referencia al grupo en la posición n.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T120107Z" creationid="hcartagena" creationdate="20180605T031632Z">
+        <seg>Utilice $n para hacer referencia al grupo en la posición n.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35815,8 +35815,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T031556Z" creationid="hcartagena" creationdate="20180605T031556Z">
-        <seg>Al usar expresiones regulares, la cadena de reemplazo admite referencias a grupos definidos en la cadena de búsqueda.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T120115Z" creationid="hcartagena" creationdate="20180605T031556Z">
+        <seg>Al utilizar expresiones regulares, la cadena de reemplazo admite referencias a grupos definidos en la cadena de búsqueda.</seg>
       </tuv>
     </tu>
     <tu>
