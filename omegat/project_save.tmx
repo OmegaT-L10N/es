@@ -34557,16 +34557,16 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211007T101052Z" creationid="hcartagena" creationdate="20180604T233300Z">
-        <seg>&amp;Usar coincidencias aproximadas para entradas de diccionario</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T120000Z" creationid="hcartagena" creationdate="20180604T233300Z">
+        <seg>&amp;Utilizar coincidencias aproximadas para entradas de diccionario</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151210T001140Z" creationid="hcartagena" creationdate="20151116T204012Z">
-        <seg>Usar &amp;tabulador para avanzar</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T115931Z" creationid="hcartagena" creationdate="20151116T204012Z">
+        <seg>Utilizar &amp;tabulador para avanzar</seg>
       </tuv>
     </tu>
     <tu>
@@ -34581,16 +34581,16 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211007T101123Z" creationid="hcartagena" creationdate="20180604T233309Z">
-        <seg>&amp;Usar coincidencias aproximadas para entradas de diccionario</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T120008Z" creationid="hcartagena" creationdate="20180604T233309Z">
+        <seg>&amp;Utilizar coincidencias aproximadas para entradas de diccionario</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211006T114943Z" creationid="hcartagena" creationdate="20180604T233119Z">
-        <seg>Usar lematización en términos de &amp;glosario</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T115945Z" creationid="hcartagena" creationdate="20180604T233119Z">
+        <seg>Utilizar lematización en términos de &amp;glosario</seg>
       </tuv>
     </tu>
     <tu>
@@ -34725,8 +34725,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211006T114803Z" creationid="hcartagena" creationdate="20180604T233111Z">
-        <seg>&amp;Usar términos que aparecen separados en el texto original</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T115939Z" creationid="hcartagena" creationdate="20180604T233111Z">
+        <seg>&amp;Utilizar términos que aparecen separados en el texto original</seg>
       </tuv>
     </tu>
     <tu>
