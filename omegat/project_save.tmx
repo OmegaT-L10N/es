@@ -7565,8 +7565,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151126T153109Z" creationid="Antonio" creationdate="20151126T153109Z">
-        <seg>Caracteres de control bidireccional</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T185146Z" creationid="Antonio" creationdate="20151126T153109Z">
+        <seg>Caracteres de control bidireccionales</seg>
       </tuv>
     </tu>
     <tu>
@@ -20733,8 +20733,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Non-breakable spaces</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151210T000537Z" creationid="Antonio" creationdate="20151126T153239Z">
-        <seg>Espacios duros</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T185108Z" creationid="Antonio" creationdate="20151126T153239Z">
+        <seg>Espacios de no separación</seg>
       </tuv>
     </tu>
     <tu>
