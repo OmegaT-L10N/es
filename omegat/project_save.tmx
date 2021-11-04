@@ -27464,8 +27464,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170904Z" creationid="hcartagena" creationdate="20180605T170904Z">
-        <seg>Mostrar &amp;los términos traducidos más largos al principio</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T112722Z" creationid="hcartagena" creationdate="20180605T170904Z">
+        <seg>Mostrar &amp;los términos de destino más largos al principio</seg>
       </tuv>
     </tu>
     <tu>
