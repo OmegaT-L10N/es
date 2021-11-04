@@ -17969,8 +17969,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Keep None</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T040929Z" creationid="hcartagena" creationdate="20160401T040929Z">
-        <seg>Conservar ninguno</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T193518Z" creationid="hcartagena" creationdate="20160401T040929Z">
+        <seg>No conservar ninguno</seg>
       </tuv>
     </tu>
     <tu>
@@ -28386,8 +28386,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Start Pinpoint Align</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T174444Z" creationid="hcartagena" creationdate="20180605T174444Z">
-        <seg>Iniciar alineación puntual</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T193629Z" creationid="hcartagena" creationdate="20180605T174444Z">
+        <seg>Iniciar alineación precisa</seg>
       </tuv>
     </tu>
     <tu>
