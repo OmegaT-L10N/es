@@ -13434,8 +13434,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T171154Z" creationid="hcartagena" creationdate="20180605T171154Z">
-        <seg>Para obtener mejores resultados, instale los diccionarios apropiados desde Preferencias &gt; Corrección ortográfica.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T115114Z" creationid="hcartagena" creationdate="20180605T171154Z">
+        <seg>Para obtener mejores resultados, instale los diccionarios apropiados desde Preferencias &gt; Corrector ortográfico.</seg>
       </tuv>
     </tu>
     <tu>
