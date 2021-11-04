@@ -1588,8 +1588,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T235540Z" creationid="Antonio" creationdate="20151126T161828Z">
-        <seg>Consulta de terminología en &amp;TaaS</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T121141Z" creationid="Antonio" creationdate="20151126T161828Z">
+        <seg>Búsqueda de terminología en &amp;TaaS</seg>
       </tuv>
     </tu>
     <tu>
