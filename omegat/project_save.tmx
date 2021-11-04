@@ -15292,8 +15292,8 @@ que introducir la ruta completa.)</seg>
       <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T110903Z" creationid="Antonio" creationdate="20151127T110854Z">
-        <seg>Si está marcada, las entradas se ordenan alfabéticamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T112938Z" creationid="Antonio" creationdate="20151127T110854Z">
+        <seg>Si está marcado, los términos se ordenan alfabéticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27888,8 +27888,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170915Z" creationid="hcartagena" creationdate="20180605T170915Z">
-        <seg>Ordenar al&amp;fabéticamente por término original</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T112855Z" creationid="hcartagena" creationdate="20180605T170915Z">
+        <seg>Ordenar al&amp;fabéticamente por término de origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -27912,8 +27912,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170932Z" creationid="hcartagena" creationdate="20180605T170932Z">
-        <seg>Ordenar alfa&amp;béticamente por término traducido</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T112907Z" creationid="hcartagena" creationdate="20180605T170932Z">
+        <seg>Ordenar alfa&amp;béticamente por término de destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -35743,8 +35743,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T112639Z" creationid="Antonio" creationdate="20151127T154357Z">
-        <seg>Cuando están marcados, los elementos de la vista autocompletar del glosario tendrán también el texto original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T112831Z" creationid="Antonio" creationdate="20151127T154357Z">
+        <seg>Si está marcado, los elementos de la vista autocompletar del glosario tendrán también el texto original.</seg>
       </tuv>
     </tu>
     <tu>
