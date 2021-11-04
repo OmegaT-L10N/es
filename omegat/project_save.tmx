@@ -691,8 +691,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Enable TaaS terminology lookup</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T173902Z" creationid="hcartagena" creationdate="20180605T173902Z">
-        <seg>Activar consulta de te&amp;rminología en TaaS</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T183846Z" creationid="hcartagena" creationdate="20180605T173902Z">
+        <seg>Activar búsqueda de te&amp;rminología en TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -3808,8 +3808,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T025520Z" creationid="hcartagena" creationdate="20160401T025520Z">
-        <seg>&lt;html&gt;Agregar patrones usando comodines (estilo Ant de Apache): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Ejemplo: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T184029Z" creationid="hcartagena" creationdate="20160401T025520Z">
+        <seg>&lt;html&gt;Añadir patrones utilizando caracteres comodín (estilo Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Ejemplo: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
