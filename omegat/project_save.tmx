@@ -15300,8 +15300,8 @@ que introducir la ruta completa.)</seg>
       <tuv lang="en">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T212103Z" creationid="Antonio" creationdate="20151127T111016Z">
-        <seg>Si está marcada, las entradas más largas aparecen al principio.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T112819Z" creationid="Antonio" creationdate="20151127T111016Z">
+        <seg>Si está marcado, los términos más largos aparecen al principio.</seg>
       </tuv>
     </tu>
     <tu>
