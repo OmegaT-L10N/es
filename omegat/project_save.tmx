@@ -707,8 +707,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Enable character table</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T171115Z" creationid="hcartagena" creationdate="20180605T171115Z">
-        <seg>Acti&amp;var el cuadro de caracteres</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T114102Z" creationid="hcartagena" creationdate="20180605T171115Z">
+        <seg>Acti&amp;var la tabla de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -13914,8 +13914,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Full text</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T234438Z" creationid="Antonio" creationdate="20151127T081405Z">
-        <seg>Texto</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T114025Z" creationid="Antonio" creationdate="20151127T081405Z">
+        <seg>Texto completo</seg>
       </tuv>
     </tu>
     <tu>
@@ -27408,8 +27408,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T234425Z" creationid="Antonio" creationdate="20151127T081410Z">
-        <seg>Atajo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211104T114017Z" creationid="Antonio" creationdate="20151127T081410Z">
+        <seg>Acceso directo</seg>
       </tuv>
     </tu>
     <tu>
