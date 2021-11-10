@@ -6907,8 +6907,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>Are you sure you want to reset the master password?</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T181531Z" creationid="hcartagena" creationdate="20180605T181531Z">
-        <seg>¿Realmente desea restablecer la contraseña maestra?</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T113627Z" creationid="hcartagena" creationdate="20180605T181531Z">
+        <seg>¿Seguro que desea restablecer la contraseña maestra?</seg>
       </tuv>
     </tu>
     <tu>
