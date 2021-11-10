@@ -24928,6 +24928,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211110T112207Z" creationid="Mari" creationdate="20211110T112207Z">
+        <seg>Vuelva a cargar el proyecto actual para aplicar estos cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142746Z" creationid="hcartagena" creationdate="20151117T142746Z">
