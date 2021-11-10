@@ -25570,6 +25570,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211110T112129Z" creationid="Mari" creationdate="20211110T112129Z">
+        <seg>Reinicie OmegaT para aplicar estos cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233959Z" creationid="hcartagena" creationdate="20151124T233959Z">
