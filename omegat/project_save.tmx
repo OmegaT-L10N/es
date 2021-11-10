@@ -26928,8 +26928,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select Issue Types</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T180732Z" creationid="hcartagena" creationdate="20180605T180732Z">
-        <seg>Seleccionar tipos de problemas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T110940Z" creationid="hcartagena" creationdate="20180605T180732Z">
+        <seg>Seleccionar tipos de problema</seg>
       </tuv>
     </tu>
     <tu>
@@ -27096,8 +27096,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T180742Z" creationid="hcartagena" creationdate="20180605T180742Z">
-        <seg>Seleccione los tipos de problemas a comprobar.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T110952Z" creationid="hcartagena" creationdate="20180605T180742Z">
+        <seg>Seleccione los tipos de problema a comprobar.</seg>
       </tuv>
     </tu>
     <tu>
