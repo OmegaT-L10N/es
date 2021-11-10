@@ -699,24 +699,24 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Enable autotext</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T171017Z" creationid="hcartagena" creationdate="20180605T171017Z">
-        <seg>Activar a&amp;utotexto</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T112904Z" creationid="hcartagena" creationdate="20180605T171017Z">
+        <seg>Habilitar a&amp;utotexto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Enable character table</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T114102Z" creationid="hcartagena" creationdate="20180605T171115Z">
-        <seg>Acti&amp;var la tabla de caracteres</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T112933Z" creationid="hcartagena" creationdate="20180605T171115Z">
+        <seg>Habili&amp;tar la tabla de caracteres</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T171005Z" creationid="hcartagena" creationdate="20180605T171005Z">
-        <seg>Activar sugerenc&amp;ias del glosario</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T112850Z" creationid="hcartagena" creationdate="20180605T171005Z">
+        <seg>Habilitar sugerenc&amp;ias del glosario</seg>
       </tuv>
     </tu>
     <tu>
