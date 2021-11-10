@@ -1524,8 +1524,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T192747Z" creationid="hcartagena" creationdate="20151119T192747Z">
-        <seg>&amp;Saltar encabezado de archivo PO</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T111744Z" creationid="hcartagena" creationdate="20151119T192747Z">
+        <seg>&amp;Omitir encabezado de archivo PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -27688,8 +27688,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Skip</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T181022Z" creationid="hcartagena" creationdate="20180605T181022Z">
-        <seg>Saltar</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T111735Z" creationid="hcartagena" creationdate="20180605T181022Z">
+        <seg>Omitir</seg>
       </tuv>
     </tu>
     <tu>
