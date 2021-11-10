@@ -21621,8 +21621,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T181428Z" creationid="hcartagena" creationdate="20180605T181428Z">
-        <seg>OmegaT cifra las contraseñas sensibles y las claves de API con una contraseña maestra.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211110T113511Z" creationid="hcartagena" creationdate="20180605T181428Z">
+        <seg>OmegaT cifra las contraseñas confidenciales y las claves de API con una contraseña maestra.</seg>
       </tuv>
     </tu>
     <tu>
