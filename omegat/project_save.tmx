@@ -5329,6 +5329,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T154001Z" creationid="Mari" creationdate="20211111T154001Z">
+        <seg>Un proyecto determinado puede tener cualquier número de glosarios de referencia, pero solo se podrá editar directamente desde la interfaz de usuario de OmegaT el glosario predeterminado del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of repository URLs is provided below.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T143025Z" creationid="taty" creationdate="20181109T143025Z">
