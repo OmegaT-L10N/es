@@ -32901,8 +32901,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211111T160204Z" creationid="Mari" creationdate="20211111T160204Z">
-        <seg>Para añadir un término al glosario principal, vaya a &lt;g0&gt;Editar&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211111T160641Z" creationid="Mari" creationdate="20211111T160204Z">
+        <seg>Para añadir un término al glosario principal, vaya a &lt;g0&gt;Editar&lt;/g0&gt; &gt; &lt;g1&gt;Crear término en el glosario&lt;/g1&gt; (&lt;k2&gt;Ctrl+Mayús+G&lt;/k2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
