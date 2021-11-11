@@ -10381,6 +10381,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T154546Z" creationid="Mari" creationdate="20211111T154546Z">
+        <seg>Glosario predeterminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T193724Z" creationid="Antonio" creationdate="20160316T193724Z">
