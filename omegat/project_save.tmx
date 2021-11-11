@@ -21619,6 +21619,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T110550Z" creationid="Mari" creationdate="20211111T110550Z">
+        <seg>Tema predeterminado de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T031523Z" creationid="hcartagena" creationdate="20180605T031523Z">
