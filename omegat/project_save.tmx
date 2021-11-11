@@ -15406,8 +15406,8 @@ que introducir la ruta completa.)</seg>
       <tuv lang="en">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160125T161126Z" creationid="Antonio" creationdate="20160125T161126Z">
-        <seg>Si la extensión es &lt;s2&gt;tar.bz&lt;/s2&gt;, entonces usted ha olvidado descomprimirlo (con untar o winrar).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211111T113929Z" creationid="Antonio" creationdate="20160125T161126Z">
+        <seg>Si la extensión es &lt;e0&gt;tar.bz&lt;/e0&gt;, entonces ha olvidado descomprimirlo (con untar o winrar).</seg>
       </tuv>
     </tu>
     <tu>
