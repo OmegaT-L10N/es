@@ -29472,6 +29472,22 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms from the project writable glossary are displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T161900Z" creationid="Mari" creationdate="20211111T161900Z">
+        <seg>Los términos del glosario principal del proyecto se muestran en negrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T162010Z" creationid="Mari" creationdate="20211111T162010Z">
+        <seg>Los términos de los glosarios de referencia se muestran en redonda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T120021Z" creationid="nenyavie" creationdate="20200225T120021Z">
