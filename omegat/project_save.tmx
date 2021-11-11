@@ -31575,6 +31575,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source term is displayed before the " = " sign and the target terms after.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T161740Z" creationid="Mari" creationdate="20211111T161740Z">
+        <seg>El término de origen se muestra antes de "=", mientras que el término de destino va después.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source text</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T105702Z" creationid="Antonio" creationdate="20160126T105702Z">
