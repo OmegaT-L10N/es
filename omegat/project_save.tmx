@@ -12864,8 +12864,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T113329Z" creationid="nenyavie" creationdate="20200225T113329Z">
-        <seg>No se ha podido obtener información sobre la versión información: {0}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211111T110151Z" creationid="nenyavie" creationdate="20200225T113329Z">
+        <seg>No se pudo obtener información sobre la última versión: {0}</seg>
       </tuv>
     </tu>
     <tu>
