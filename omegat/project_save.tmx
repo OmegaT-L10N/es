@@ -30860,6 +30860,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary function uses stemming to find matches.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T161139Z" creationid="Mari" creationdate="20211111T161139Z">
+        <seg>La función de glosario utiliza la lematización para buscar coincidencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T135050Z" creationid="taty" creationdate="20181109T135050Z">
