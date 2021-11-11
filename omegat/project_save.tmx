@@ -24792,6 +24792,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T154450Z" creationid="Mari" creationdate="20211111T154450Z">
+        <seg>Independientemente del número de glosarios de un proyecto, cualquier término de un segmento que tenga una coincidencia en algún glosario se mostrará en el panel Glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T135621Z" creationid="nenyavie" creationdate="20200225T135621Z">
