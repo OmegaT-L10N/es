@@ -8891,6 +8891,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments are displayed after a number and each on a separate line.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T161830Z" creationid="Mari" creationdate="20211111T161830Z">
+        <seg>Los comentarios se muestran después de un número y cada uno en una línea separada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181113T102710Z" creationid="eumeu" creationdate="20181113T102710Z">
