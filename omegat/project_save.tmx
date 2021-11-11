@@ -20543,6 +20543,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Newly added terms will be recognized as soon as the changes have been saved.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T160949Z" creationid="Mari" creationdate="20211111T160949Z">
+        <seg>Los términos recién añadidos se reconocerán en cuanto se hayan guardado los cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T114126Z" creationid="taty" creationdate="20181116T112934Z">
