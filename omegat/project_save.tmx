@@ -3864,8 +3864,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T113432Z" creationid="nenyavie" creationdate="20200225T113432Z">
-        <seg>&lt;html&gt;Actualizar canal: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211111T110416Z" creationid="nenyavie" creationdate="20200225T113432Z">
+        <seg>&lt;html&gt;Canal de actualización: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
