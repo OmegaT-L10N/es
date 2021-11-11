@@ -28224,8 +28224,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T112145Z" creationid="nenyavie" creationdate="20200225T112145Z">
-        <seg>Especifica un método mnemotécnico con "&amp;": "F&amp;oobar" para usar O</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211111T105254Z" creationid="nenyavie" creationdate="20200225T112145Z">
+        <seg>Especifique un método mnemotécnico con "&amp;": "F&amp;oobar" para usar O</seg>
       </tuv>
     </tu>
     <tu>
