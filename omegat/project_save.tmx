@@ -21467,6 +21467,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T110533Z" creationid="Mari" creationdate="20211111T110533Z">
+        <seg>OmegaT predeterminado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171012T113850Z" creationid="Cristina" creationdate="20170820T144923Z">
