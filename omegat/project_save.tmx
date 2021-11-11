@@ -26430,8 +26430,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T115209Z" creationid="nenyavie" creationdate="20200225T115209Z">
-        <seg>Buscar la combinación de idiomas requerida ― por ejemplo, en los &lt;u0&gt;enlaces de diccionarios proporcionados en la wiki de OmegaT&lt;/u0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211111T112204Z" creationid="nenyavie" creationdate="20200225T115209Z">
+        <seg>Busque la combinación de idiomas requerida ― por ejemplo, en los &lt;u0&gt;enlaces de diccionarios proporcionados en la wiki de OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
