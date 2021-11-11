@@ -11593,8 +11593,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>Edit External Search Item</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T110623Z" creationid="nenyavie" creationdate="20200225T110623Z">
-        <seg>Edita el elemento de búsqueda externa</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211111T105723Z" creationid="nenyavie" creationdate="20200225T110623Z">
+        <seg>Editar elemento de búsqueda externa</seg>
       </tuv>
     </tu>
     <tu>
