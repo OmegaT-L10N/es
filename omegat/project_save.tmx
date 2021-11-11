@@ -31922,8 +31922,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233007Z" creationid="Antonio" creationdate="20160125T152646Z">
-        <seg>Debe haber tres archivos, con extensiones &lt;s0&gt;dz, idx&lt;/s0&gt; e &lt;s1&gt;ifo.&lt;/s1&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211111T113131Z" creationid="Antonio" creationdate="20160125T152646Z">
+        <seg>Debe haber tres archivos, con extensiones &lt;e1&gt;dz, idx &lt;/e1&gt;e &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
