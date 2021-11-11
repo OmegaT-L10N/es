@@ -14128,6 +14128,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T153418Z" creationid="Mari" creationdate="20211111T153418Z">
+        <seg>Los glosarios son archivos terminológicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181207T120656Z" creationid="taty" creationdate="20181115T232447Z">
@@ -32075,6 +32083,14 @@ una de ellas te alcanzó</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160321T173040Z" creationid="Antonio" creationdate="20160321T173040Z">
         <seg>Hay archivos que utilizará todos los días cuando traduzca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T153458Z" creationid="Mari" creationdate="20211111T153458Z">
+        <seg>Pueden crearse y actualizarse manualmente o importarse de otros proyectos.</seg>
       </tuv>
     </tu>
     <tu>
