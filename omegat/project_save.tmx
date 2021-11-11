@@ -10357,6 +10357,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211111T161534Z" creationid="Mari" creationdate="20211111T161534Z">
+        <seg>Desactive la opción &lt;g0&gt;Utilizar lematización en términos de glosario&lt;/g0&gt; en las preferencias globales de OmegaT para buscar solo las coincidencias exactas de un término.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T092229Z" creationid="nenyavie" creationdate="20200225T092229Z">
