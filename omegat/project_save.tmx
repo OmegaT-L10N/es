@@ -5363,8 +5363,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T094707Z" creationid="nenyavie" creationdate="20200226T094707Z">
-        <seg>Se puede encontrar una buena colección de expresiones regulares muy útiles en el propio &lt;a0&gt;OmegaT&lt;/a0&gt; (consulte Opciones &gt; Segmentación)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T202112Z" creationid="nenyavie" creationdate="20200226T094707Z">
+        <seg>Se puede encontrar una buena colección de expresiones regulares muy útiles en el propio &lt;a0&gt;OmegaT&lt;/a0&gt; (vaya a Opciones &gt; Segmentación)</seg>
       </tuv>
     </tu>
     <tu>
