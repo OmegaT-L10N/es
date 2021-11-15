@@ -21747,6 +21747,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T112847Z" creationid="Mari" creationdate="20211115T112847Z">
+        <seg>Los archivos de glosario de OmegaT son simples listas de tres columnas de texto sin formato con el término de origen en la primera columna, un término de destino opcional en la segunda columna y un comentario opcional en la tercera columna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T110131Z" creationid="nenyavie" creationdate="20200226T110131Z">
