@@ -33357,6 +33357,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T112038Z" creationid="Mari" creationdate="20211115T112038Z">
+        <seg>Para subrayar los términos con coincidencias en el segmento original, vaya a &lt;g0&gt;Ver&lt;/g0&gt; &gt; &lt;g1&gt;Marcar coincidencias del glosario&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T095532Z" creationid="Antonio" creationdate="20160125T095532Z">
