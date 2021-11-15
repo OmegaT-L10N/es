@@ -5379,8 +5379,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A non-whitespace character: [^\s]</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135458Z" creationid="nenyavie" creationdate="20200225T135458Z">
-        <seg>Un caracter que no sea un espacio en blanco: [^\s]</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T194904Z" creationid="nenyavie" creationdate="20200225T135458Z">
+        <seg>Un carácter que no sea un espacio en blanco: [^\s]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5547,8 +5547,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A word character: [a-zA-Z_0-9]</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135532Z" creationid="nenyavie" creationdate="20200225T135532Z">
-        <seg>Un caracter que sea una palabra: [a-zA-Z_0-9]</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T195000Z" creationid="nenyavie" creationdate="20200225T135532Z">
+        <seg>Un carácter de palabra: [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
