@@ -14208,6 +14208,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries located in nested folders are also recognized.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T114217Z" creationid="Mari" creationdate="20211115T114217Z">
+        <seg>También se reconocen los glosarios que se encuentran en carpetas anidadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries must be located in the &lt;f0&gt;/glossary&lt;/f0&gt; project folder.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T114107Z" creationid="Mari" creationdate="20211115T114107Z">
