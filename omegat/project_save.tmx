@@ -2338,8 +2338,8 @@ en modo de trabajo en grupo.)</seg>
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181130T144506Z" creationid="taty" creationdate="20181116T183946Z">
-        <seg>...pero los mismos carácteres se visualizan correctamente en el panel Edición: la extensión y la codificación del archivo no coinciden.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T115614Z" creationid="taty" creationdate="20181116T183946Z">
+        <seg>...pero los mismos carácteres se muestran correctamente en el panel Editor: la extensión y la codificación del archivo no coinciden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24213,8 +24213,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T114939Z" creationid="taty" creationdate="20181116T183802Z">
-        <seg>Problema: En el panel del glosario, algunos carácteres no se muestran correctamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T115501Z" creationid="taty" creationdate="20181116T183802Z">
+        <seg>Problema: En el panel del glosario, algunos carácteres no se muestran correctamente</seg>
       </tuv>
     </tu>
     <tu>
