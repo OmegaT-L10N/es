@@ -23473,6 +23473,14 @@ confirme todo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T113116Z" creationid="Mari" creationdate="20211115T113116Z">
+        <seg>Los glosarios de texto sin formato pueden ser archivos "datos separados por tabulaciones" (TSV) o archivos "valores separados por comas" (CSV).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Platform</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170828T174750Z" creationid="Cristina" creationdate="20170828T174750Z">
