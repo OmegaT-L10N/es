@@ -39491,8 +39491,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T140806Z" creationid="nenyavie" creationdate="20200225T140806Z">
-        <seg>Los cuantificadores expansivos coinciden con tanto como sea posible.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T200746Z" creationid="nenyavie" creationdate="20200225T140806Z">
+        <seg>Los cuantificadores expansivos coincidirán lo máximo posible.</seg>
       </tuv>
     </tu>
     <tu>
