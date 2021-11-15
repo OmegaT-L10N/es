@@ -6731,8 +6731,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>Any character except a, b, or c (negation)</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135133Z" creationid="nenyavie" creationdate="20200225T135133Z">
-        <seg>Cualquier caracter excepto a, b o c (negación)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T194200Z" creationid="nenyavie" creationdate="20200225T135133Z">
+        <seg>Cualquier carácter, excepto a, b o c (negación)</seg>
       </tuv>
     </tu>
     <tu>
