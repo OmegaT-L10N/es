@@ -30902,8 +30902,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The form-feed character ('\u000C')</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T133501Z" creationid="nenyavie" creationdate="20200225T133501Z">
-        <seg>El caracter de alimentación de hoja ('\u000C')</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T191538Z" creationid="nenyavie" creationdate="20200225T133501Z">
+        <seg>El carácter de salto de página ('\u000C')</seg>
       </tuv>
     </tu>
     <tu>
