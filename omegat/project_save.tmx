@@ -13800,6 +13800,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format, extensions and expected encoding</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T113731Z" creationid="Mari" creationdate="20211115T113731Z">
+        <seg>Formato, extensiones y codificación esperada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T192819Z" creationid="hcartagena" creationdate="20151119T192819Z">
@@ -14164,6 +14172,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181207T121044Z" creationid="taty" creationdate="20181113T175114Z">
         <seg>Los glosarios son archivos creados y actualizados manualmente para ser utilizados en &lt;a0&gt;OmegaT&lt;/a0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T113706Z" creationid="Mari" creationdate="20211115T113706Z">
+        <seg>Los glosarios se leen en una codificación que depende de la extensión del archivo:</seg>
       </tuv>
     </tu>
     <tu>
