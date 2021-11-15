@@ -32113,8 +32113,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T182955Z" creationid="taty" creationdate="20181116T182955Z">
-        <seg>No hay una coincidencia EXACTA entre la entrada del glosario y el texto de origen en su documento: por ejemplo, los plurales.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T114541Z" creationid="taty" creationdate="20181116T182955Z">
+        <seg>No hay una coincidencia EXACTA entre el término del glosario y el texto original en su documento: por ejemplo, los plurales.</seg>
       </tuv>
     </tu>
     <tu>
