@@ -11793,8 +11793,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>Editor - {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T181958Z" creationid="Antonio" creationdate="20151127T175124Z">
-        <seg>Edición - {0}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T115309Z" creationid="Antonio" creationdate="20151127T175124Z">
+        <seg>Editor - {0}</seg>
       </tuv>
     </tu>
     <tu>
