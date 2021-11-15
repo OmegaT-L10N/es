@@ -32709,8 +32709,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T134313Z" creationid="nenyavie" creationdate="20200225T134242Z">
-        <seg>Se requiere si desea escribir los caracteres meta !$()*+.&lt;&gt;?[\]^{|} para que coincidan con ellos mismos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T193131Z" creationid="nenyavie" creationdate="20200225T134242Z">
+        <seg>Se requiere si desea escribir los metacaracteres !$()*+.&lt;&gt;?[\]^{|} para que coincidan con ellos mismos.</seg>
       </tuv>
     </tu>
     <tu>
