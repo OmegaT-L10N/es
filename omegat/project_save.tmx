@@ -5481,6 +5481,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T113506Z" creationid="Mari" creationdate="20211115T113506Z">
+        <seg>Un tercer formato posible es el estándar ISO "TBX" (TermBase eXchange).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A translation may also be provided for information, but it has no legal validity.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T151009Z" creationid="Cristina" creationdate="20170924T151009Z">
