@@ -5371,8 +5371,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135406Z" creationid="nenyavie" creationdate="20200225T135406Z">
-        <seg>Un caracter que no sea dígito: [^0-9]</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T194615Z" creationid="nenyavie" creationdate="20200225T135406Z">
+        <seg>Un carácter que no sea dígito: [^0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5531,8 +5531,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135430Z" creationid="nenyavie" creationdate="20200225T135430Z">
-        <seg>Un caracter de espacio en blanco: [ \t\n\x0B\f\r]</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T194649Z" creationid="nenyavie" creationdate="20200225T135430Z">
+        <seg>Un carácter de espacio en blanco: [ \t\n\x0B\f\r]</seg>
       </tuv>
     </tu>
     <tu>
