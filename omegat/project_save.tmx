@@ -22625,8 +22625,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T183653Z" creationid="taty" creationdate="20181116T183653Z">
-        <seg>Uno o más problemas anteriores pueden haber sido solucionados, pero el proyecto no ha sido recargado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T114911Z" creationid="taty" creationdate="20181116T183653Z">
+        <seg>Uno o más de los problemas anteriores pueden haber sido solucionados, pero no se ha vuelto a cargar el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32073,8 +32073,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T183250Z" creationid="taty" creationdate="20181116T183250Z">
-        <seg>No hay términos en el segmento actual que coincidan con ningúno de los términos en el glosario.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T114826Z" creationid="taty" creationdate="20181116T183250Z">
+        <seg>No hay términos en el segmento actual que coincidan con alguno de los términos en el glosario.</seg>
       </tuv>
     </tu>
     <tu>
