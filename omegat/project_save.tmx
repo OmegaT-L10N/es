@@ -25042,8 +25042,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Regular expression</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T094947Z" creationid="nenyavie" creationdate="20200226T094947Z">
-        <seg>[fuzzy]Expresión regular</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T202240Z" creationid="nenyavie" creationdate="20200226T094947Z">
+        <seg>Expresión regular</seg>
       </tuv>
     </tu>
     <tu>
