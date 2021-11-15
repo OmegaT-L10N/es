@@ -5387,8 +5387,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A non-word boundary</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135750Z" creationid="nenyavie" creationdate="20200225T135750Z">
-        <seg>En los límites de un caracter que no sea una palabra</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T200127Z" creationid="nenyavie" creationdate="20200225T135750Z">
+        <seg>En los límites de un carácter que no sea una palabra</seg>
       </tuv>
     </tu>
     <tu>
