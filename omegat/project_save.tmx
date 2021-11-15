@@ -6747,8 +6747,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135006Z" creationid="nenyavie" creationdate="20200225T135006Z">
-        <seg>Cualquier letra excepto una letra en mayúscula (sustracción)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T194038Z" creationid="nenyavie" creationdate="20200225T135006Z">
+        <seg>Cualquier letra, excepto una letra mayúscula (resta)</seg>
       </tuv>
     </tu>
     <tu>
