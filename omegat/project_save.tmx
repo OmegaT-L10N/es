@@ -31489,8 +31489,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T121310Z" creationid="nenyavie" creationdate="20200225T121310Z">
-        <seg>Las expresiones regulares (o regex para abreviar) utilizadas en las búsquedas y reglas de segmentación son compatibles con Java.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T115816Z" creationid="nenyavie" creationdate="20200225T121310Z">
+        <seg>Las expresiones regulares (o regex para abreviar) utilizadas en las búsquedas y reglas de segmentación son aquellas compatibles con Java.</seg>
       </tuv>
     </tu>
     <tu>
