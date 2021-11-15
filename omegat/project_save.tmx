@@ -20785,8 +20785,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T182019Z" creationid="taty" creationdate="20181116T182019Z">
-        <seg>No se ha encontrado ningún archivo de glosario en la carpeta "glosario".</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T114314Z" creationid="taty" creationdate="20181116T182019Z">
+        <seg>No se encontró ningún archivo de glosario en la carpeta "glossary".</seg>
       </tuv>
     </tu>
     <tu>
@@ -24221,8 +24221,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T181858Z" creationid="taty" creationdate="20181116T181858Z">
-        <seg>Problema: No se visualizan los términos del glosario - causas posibles:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T114248Z" creationid="taty" creationdate="20181116T181858Z">
+        <seg>Problema: No se muestran los términos del glosario - causas posibles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31045,8 +31045,8 @@ de inicio, en el escritorio y en el área de inicio rápido.</seg>
       <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T182711Z" creationid="taty" creationdate="20181116T182711Z">
-        <seg>Los elementos no están separados con un carácter TAB.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T114420Z" creationid="taty" creationdate="20181116T182711Z">
+        <seg>Los elementos no están separados con un carácter de tabulación.</seg>
       </tuv>
     </tu>
     <tu>
