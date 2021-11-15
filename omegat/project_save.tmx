@@ -6723,8 +6723,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135328Z" creationid="nenyavie" creationdate="20200225T135328Z">
-        <seg>Cualquier caracter (excepto los terminadores de línea)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T194515Z" creationid="nenyavie" creationdate="20200225T135328Z">
+        <seg>Cualquier carácter (excepto los terminadores de línea)</seg>
       </tuv>
     </tu>
     <tu>
