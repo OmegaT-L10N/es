@@ -25858,6 +25858,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T112414Z" creationid="Mari" creationdate="20211115T112414Z">
+        <seg>Haga clic con el botón derecho en el término subrayado y seleccione un término de destino para insertarlo en la ubicación del cursor en el segmento traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T121839Z" creationid="nenyavie" creationdate="20200226T121839Z">
