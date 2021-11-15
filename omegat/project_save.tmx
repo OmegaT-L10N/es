@@ -24954,8 +24954,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T134710Z" creationid="nenyavie" creationdate="20200225T134614Z">
-        <seg>Regex - Clases para bloques unicode y categorías</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T193444Z" creationid="nenyavie" creationdate="20200225T134614Z">
+        <seg>Regex - Clases para bloques y categorías Unicode</seg>
       </tuv>
     </tu>
     <tu>
