@@ -5395,8 +5395,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A non-word character: [^\w]</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135604Z" creationid="nenyavie" creationdate="20200225T135604Z">
-        <seg>Un caracter que no sea una palabra: [^\w]</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T195021Z" creationid="nenyavie" creationdate="20200225T135604Z">
+        <seg>Un carácter que no sea una palabra: [^\w]</seg>
       </tuv>
     </tu>
     <tu>
