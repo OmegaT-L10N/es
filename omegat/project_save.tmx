@@ -30942,8 +30942,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T183025Z" creationid="taty" creationdate="20181116T183025Z">
-        <seg>El archivo de glosario no tiene una codificación correcta.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T114724Z" creationid="taty" creationdate="20181116T183025Z">
+        <seg>El archivo de glosario no tiene la codificación correcta.</seg>
       </tuv>
     </tu>
     <tu>
