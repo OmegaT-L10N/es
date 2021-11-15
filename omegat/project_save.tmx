@@ -24930,8 +24930,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T135621Z" creationid="nenyavie" creationdate="20200225T135621Z">
-        <seg>Regex - Límite de coincidencias</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T195941Z" creationid="nenyavie" creationdate="20200225T135621Z">
+        <seg>Regex - Delimitadores</seg>
       </tuv>
     </tu>
     <tu>
