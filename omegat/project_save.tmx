@@ -40034,6 +40034,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211115T115749Z" creationid="Mari" creationdate="20211115T115749Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233145Z" creationid="hcartagena" creationdate="20200729T233145Z">
