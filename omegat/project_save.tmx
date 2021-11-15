@@ -6739,8 +6739,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T134932Z" creationid="nenyavie" creationdate="20200225T134932Z">
-        <seg>Cualquier caracter excepto uno en el bloque griego (negación)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T193641Z" creationid="nenyavie" creationdate="20200225T134932Z">
+        <seg>Cualquier carácter excepto uno en el bloque griego (negación)</seg>
       </tuv>
     </tu>
     <tu>
