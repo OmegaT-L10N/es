@@ -11934,8 +11934,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T123012Z" creationid="nenyavie" creationdate="20200225T123012Z">
-        <seg>Habilita la distinción entre mayúsculas y minúsculas en las coincidencias (de manera predeterminada, el patrón distingue entre mayúsculas y minúsculas).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T120458Z" creationid="nenyavie" creationdate="20200225T123012Z">
+        <seg>Habilita la opción de no distinguir mayúsculas de minúsculas en las coincidencias (de manera predeterminada, el patrón distingue mayúsculas de minúsculas).</seg>
       </tuv>
     </tu>
     <tu>
