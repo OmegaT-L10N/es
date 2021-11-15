@@ -30322,8 +30322,8 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T133429Z" creationid="nenyavie" creationdate="20200225T133429Z">
-        <seg>El caracter de retorno de carro ('\u000D')</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211115T120710Z" creationid="nenyavie" creationdate="20200225T133429Z">
+        <seg>El carácter de retorno de carro ('\u000D')</seg>
       </tuv>
     </tu>
     <tu>
