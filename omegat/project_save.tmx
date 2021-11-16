@@ -28312,8 +28312,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Source of Selected Match</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104650Z" creationid="nenyavie" creationdate="20200226T104650Z">
-        <seg>Origen de la coincidencia seleccionada</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T165327Z" creationid="nenyavie" creationdate="20200226T104650Z">
+        <seg>Original de la coincidencia seleccionada</seg>
       </tuv>
     </tu>
     <tu>
