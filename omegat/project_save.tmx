@@ -5179,8 +5179,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T122649Z" creationid="Helli" creationdate="20150603T151519Z">
-        <seg>&lt;atajo&gt; debe adoptar la forma siguiente: 0 o más &lt;c0&gt;&lt;modificadores&gt;&lt;/c0&gt; seguido de 0 o 1 &lt;c1&gt;&lt;evento&gt;&lt;c1&gt; seguido de &lt;c2&gt;&lt;tecla&gt;&lt;/c2&gt;, donde:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T122524Z" creationid="Helli" creationdate="20150603T151519Z">
+        <seg>&lt;acceso directo&gt; debe adoptar la siguiente forma: 0 o más &lt;c0&gt;&lt;modificadores&gt;&lt;/c0&gt; seguido de 0 o 1 &lt;c1&gt;&lt;evento&gt;&lt;c1&gt; seguido de &lt;c2&gt;&lt;tecla&gt;&lt;/c2&gt;, donde:</seg>
       </tuv>
     </tu>
     <tu>
