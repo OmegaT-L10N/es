@@ -28906,8 +28906,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Switch Case To/Cycle</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105338Z" creationid="nenyavie" creationdate="20200226T104424Z">
-        <seg>Cambio de caja a/Alternar</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T164320Z" creationid="nenyavie" creationdate="20200226T104424Z">
+        <seg>Cambio de caracteres a/Alternar</seg>
       </tuv>
     </tu>
     <tu>
@@ -28922,24 +28922,24 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105309Z" creationid="nenyavie" creationdate="20200226T104345Z">
-        <seg>Cambio de caja a/Tipo oración</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T164251Z" creationid="nenyavie" creationdate="20200226T104345Z">
+        <seg>Cambio de caracteres a/Tipo oración</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105300Z" creationid="Helli" creationdate="20150526T133508Z">
-        <seg>Cambio de caja a/Tipo título</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T164244Z" creationid="Helli" creationdate="20150526T133508Z">
+        <seg>Cambio de caracteres a/Tipo título</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Upper Case</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105216Z" creationid="Helli" creationdate="20150526T133416Z">
-        <seg>Cambio de caja a/mayúscula</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T164235Z" creationid="Helli" creationdate="20150526T133416Z">
+        <seg>Cambio de caracteres a/Mayúsculas</seg>
       </tuv>
     </tu>
     <tu>
