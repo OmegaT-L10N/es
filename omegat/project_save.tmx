@@ -6443,8 +6443,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162315Z" creationid="Helli" creationdate="20150526T141051Z">
-        <seg>Confirmar siempre antes de salir</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T170905Z" creationid="Helli" creationdate="20150526T141051Z">
+        <seg>Confirmar antes de salir</seg>
       </tuv>
     </tu>
     <tu>
@@ -14370,8 +14370,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary/Display Context Description for TBX Glossaries</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104740Z" creationid="nenyavie" creationdate="20200226T104740Z">
-        <seg>Glosario/Mostrar la descripción contextual en glosarios TBX</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T171002Z" creationid="nenyavie" creationdate="20200226T104740Z">
+        <seg>Glosario/Mostrar descripción contextual en glosarios TBX</seg>
       </tuv>
     </tu>
     <tu>
