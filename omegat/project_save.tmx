@@ -33771,8 +33771,8 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       <tuv lang="en">
         <seg>TransTips/Enable Transtips</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162407Z" creationid="Helli" creationdate="20150526T142629Z">
-        <seg>Consejos de traducción/Activar consejos de traducción</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T171500Z" creationid="Helli" creationdate="20150526T142629Z">
+        <seg>Consejos de traducción/Habilitar consejos de traducción</seg>
       </tuv>
     </tu>
     <tu>
