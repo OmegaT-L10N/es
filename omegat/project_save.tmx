@@ -31633,8 +31633,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T121534Z" creationid="Antonio" creationdate="20151130T121534Z">
-        <seg>La sintaxis de definición del atajo es la siguiente: &lt;c0&gt;&lt;código del elemento del menú&gt;=&lt;atajo&gt;&lt;/c0&gt;, donde &lt;e1&gt;&lt;código del elemento de menú&gt;&lt;/e1&gt;1 es un código de los incluidos en las tablas de abajo y &lt;e2&gt;&lt;atajo&gt;&lt;/e2&gt; es una combinación de teclas pulsadas que especifica el usuario.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T120935Z" creationid="Antonio" creationdate="20151130T121534Z">
+        <seg>La sintaxis de definición del acceso directo es la siguiente: &lt;c0&gt;&lt;código del elemento del menú&gt;=&lt;acceso directo&gt;&lt;/c0&gt;, donde &lt;e1&gt;&lt;código del elemento de menú&gt;&lt;/e1&gt; es un código de los incluidos en las tablas de abajo y &lt;e2&gt;&lt;acceso directo&gt;&lt;/e2&gt; es una combinación de teclas pulsadas que especifica el usuario.</seg>
       </tuv>
     </tu>
     <tu>
