@@ -30566,8 +30566,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T144327Z" creationid="Antonio" creationdate="20151130T144327Z">
-        <seg>Los atajos predeterminados de OmegaT para Mac están también disponibles en Sourceforge, todos utilizan "meta" en vez de "ctrl": &lt;u0&gt;Atajos predeterminados de OmegaT para el Mac&lt;/u0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T161030Z" creationid="Antonio" creationdate="20151130T144327Z">
+        <seg>Los accesos directos predeterminados de OmegaT para Mac están también disponibles en Sourceforge. Todos utilizan "meta" en vez de "ctrl": &lt;u0&gt;Accesos directos predeterminados de OmegaT para Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
