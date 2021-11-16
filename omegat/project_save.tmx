@@ -22513,8 +22513,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T123105Z" creationid="Antonio" creationdate="20151130T122757Z">
-        <seg>En el Mac, es necesario usar modificador &lt;e0&gt;meta&lt;/e0&gt; para especificar la tecla de &lt;e1&gt;comando&lt;/e1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T122957Z" creationid="Antonio" creationdate="20151130T122757Z">
+        <seg>En Mac, es necesario usar el modificador &lt;e0&gt;meta&lt;/e0&gt; para especificar la tecla &lt;e1&gt;Comando&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
