@@ -2952,8 +2952,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T123245Z" creationid="Antonio" creationdate="20151130T123245Z">
-        <seg>&lt;c0&gt;&lt;evento&gt;&lt;/c0&gt; puede ser: &lt;e2&gt;typed&lt;/e2&gt; (tecleada), &lt;e2&gt;pressed&lt;/e3&gt; (pulsada), &lt;e3&gt;released&lt;/e3&gt; (liberada)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T123551Z" creationid="Antonio" creationdate="20151130T123245Z">
+        <seg>&lt;c0&gt;&lt;evento&gt;&lt;/c0&gt; puede ser: &lt;e1&gt;tecleado&lt;/e1&gt;, &lt;e2&gt;pulsado&lt;/e2&gt;, &lt;e3&gt;liberado&lt;/e3&gt;</seg>
       </tuv>
     </tu>
     <tu>
