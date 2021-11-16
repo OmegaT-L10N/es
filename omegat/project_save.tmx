@@ -16122,8 +16122,8 @@ iniciar OmegaT con:</seg>
       <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160124T201910Z" creationid="Antonio" creationdate="20151130T144703Z">
-        <seg>Si quiere usar &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; para abrir un proyecto, modifique su archivo &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; de la manera siguiente:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T161643Z" creationid="Antonio" creationdate="20151130T144703Z">
+        <seg>Si quiere utilizar &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;O&lt;/k3&gt;&lt;/k0&gt; para abrir un proyecto, modifique el archivo &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; de la manera siguiente:</seg>
       </tuv>
     </tu>
     <tu>
