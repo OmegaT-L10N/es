@@ -27224,8 +27224,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select Next Match</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T152535Z" creationid="Helli" creationdate="20150526T132334Z">
-        <seg>Selecciona coincidencia siguiente</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T164526Z" creationid="Helli" creationdate="20150526T132334Z">
+        <seg>Seleccionar coincidencia siguiente</seg>
       </tuv>
     </tu>
     <tu>
