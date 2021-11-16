@@ -30934,8 +30934,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T123750Z" creationid="Antonio" creationdate="20151130T122436Z">
-        <seg>La sintaxis completa de las combinaciones de teclas (accesos directos) aparece definida en la siguiente documentación de Java 1.6 de Oracle (parte inferior de la página): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T160644Z" creationid="Antonio" creationdate="20151130T122436Z">
+        <seg>La sintaxis completa de las combinaciones de teclas (accesos directos) aparece definida en la siguiente documentación de Java 1.6 de Oracle (parte inferior de la página): &lt;u0&gt;combinaciones de teclas para accesos directos de Java 1.6&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
