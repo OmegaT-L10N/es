@@ -10439,8 +10439,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T134909Z" creationid="Helli" creationdate="20150526T130841Z">
-        <seg>Atajo predeterminado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T162544Z" creationid="Helli" creationdate="20150526T130841Z">
+        <seg>Acceso directo predeterminado</seg>
       </tuv>
     </tu>
     <tu>
@@ -15723,8 +15723,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T145540Z" creationid="Helli" creationdate="20150526T130710Z">
-        <seg>Si no entran en conflicto con atajos del sistema, tendrían que estar disponibles en OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T162510Z" creationid="Helli" creationdate="20150526T130710Z">
+        <seg>Si no entran en conflicto con los accesos directos del sistema, tendrían que estar disponibles en OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
