@@ -20226,8 +20226,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T114803Z" creationid="Helli" creationdate="20150603T151504Z">
-        <seg>La mayoría de los elementos que aparecen en el menú principal pueden tener asignado un atajo nuevo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T115639Z" creationid="Helli" creationdate="20150603T151504Z">
+        <seg>La mayoría de los elementos que aparecen en el menú principal pueden tener asignado un acceso directo nuevo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36998,8 +36998,8 @@ para enlazarlo desde allí.</seg>
       <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T103128Z" creationid="nenyavie" creationdate="20200226T103128Z">
-        <seg>Puede cambiar los atajos ya asignados y añadir nuevos colocando un archivo con la definición de los atajos en la carpeta de preferencias de &lt;a0&gt;OmegaT&lt;/a0&gt; (a la que se accede desde el menú mediante &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Acesso a la carpeta de configuración&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T120417Z" creationid="nenyavie" creationdate="20200226T103128Z">
+        <seg>Puede cambiar los accesos directos ya asignados y añadir nuevos colocando un archivo con la definición de los accesos directos en la carpeta de preferencias de &lt;a0&gt;OmegaT&lt;/a0&gt; (a la que se accede desde el menú mediante &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Acceder a carpeta de configuración&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
