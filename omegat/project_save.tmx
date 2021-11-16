@@ -22529,8 +22529,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160121T095034Z" creationid="Antonio" creationdate="20151130T120958Z">
-        <seg>Después de modificar el archivo &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;,  será necesario reiniciar &lt;a1&gt;OmegaT&lt;/a1&gt; para que tenga en cuenta los atajos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T120753Z" creationid="Antonio" creationdate="20151130T120958Z">
+        <seg>Después de modificar el archivo &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, será necesario reiniciar &lt;a1&gt;OmegaT&lt;/a1&gt; para que tenga en cuenta los nuevos accesos directos.</seg>
       </tuv>
     </tu>
     <tu>
