@@ -24653,8 +24653,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Proxy Login...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162934Z" creationid="Helli" creationdate="20150526T143657Z">
-        <seg>Acceso al servidor delegado...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T172514Z" creationid="Helli" creationdate="20150526T143657Z">
+        <seg>Credenciales de proxy...</seg>
       </tuv>
     </tu>
     <tu>
