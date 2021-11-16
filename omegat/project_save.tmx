@@ -19684,8 +19684,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162158Z" creationid="Helli" creationdate="20150526T140723Z">
-        <seg>Estadística de coincidencias</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T170652Z" creationid="Helli" creationdate="20150526T140723Z">
+        <seg>Estadísticas de coincidencias</seg>
       </tuv>
     </tu>
     <tu>
@@ -19700,8 +19700,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Match Statistics per File</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162215Z" creationid="Helli" creationdate="20150526T140736Z">
-        <seg>Estadística de coincidencias por archivo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T170701Z" creationid="Helli" creationdate="20150526T140736Z">
+        <seg>Estadísticas de coincidencias por archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -35563,8 +35563,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T170616Z" creationid="Helli" creationdate="20150526T140647Z">
-        <seg>Validar etiquetas en el documento al actual</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T170623Z" creationid="Helli" creationdate="20150526T140647Z">
+        <seg>Validar etiquetas en el documento actual</seg>
       </tuv>
     </tu>
     <tu>
