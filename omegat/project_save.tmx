@@ -38786,8 +38786,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T161400Z" creationid="Antonio" creationdate="20151130T144358Z">
-        <seg>editCreateGlossaryEntryMenuItem=ctrl Mayús G</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T161739Z" creationid="Antonio" creationdate="20151130T144358Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
       </tuv>
     </tu>
     <tu>
