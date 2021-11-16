@@ -30798,8 +30798,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T144451Z" creationid="Antonio" creationdate="20151130T144451Z">
-        <seg>El primero es el atajo para &lt;g0&gt;Abrir Proyecto&lt;/g0&gt;, el segundo para &lt;g1&gt;Crear Entrada de Glosario&lt;/g1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T161550Z" creationid="Antonio" creationdate="20151130T144451Z">
+        <seg>El primero es el acceso directo para &lt;g0&gt;Abrir Proyecto&lt;/g0&gt;, el segundo para &lt;g1&gt;Crear término en el glosario&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
