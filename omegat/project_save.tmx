@@ -28914,8 +28914,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Switch Case To/Lower Case</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105215Z" creationid="Helli" creationdate="20150526T133313Z">
-        <seg>Cambio de caja a/minúsculas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T164219Z" creationid="Helli" creationdate="20150526T133313Z">
+        <seg>Cambio de caracteres a/Minúsculas</seg>
       </tuv>
     </tu>
     <tu>
