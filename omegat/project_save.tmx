@@ -5779,8 +5779,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Access Project Contents/Writeable Glossary</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104011Z" creationid="nenyavie" creationdate="20200226T104011Z">
-        <seg>Acceso a carpetas del proyecto/Glosarios principal</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T163346Z" creationid="nenyavie" creationdate="20200226T104011Z">
+        <seg>Acceso a carpetas del proyecto/Glosario principal</seg>
       </tuv>
     </tu>
     <tu>
