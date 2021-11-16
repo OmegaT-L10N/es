@@ -35563,8 +35563,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T140701Z" creationid="Helli" creationdate="20150526T140647Z">
-        <seg>Validar Etiquetas para Documento Actual</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T170616Z" creationid="Helli" creationdate="20150526T140647Z">
+        <seg>Validar etiquetas en el documento al actual</seg>
       </tuv>
     </tu>
     <tu>
