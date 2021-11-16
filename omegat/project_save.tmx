@@ -30934,8 +30934,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T122346Z" creationid="Antonio" creationdate="20151130T122436Z">
-        <seg>La sintaxis completa de las combinaciones de teclas (accesos directos) aparece definida en la siguiente documentación Java 1.6 de Oracle (parte inferior de la página): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T123750Z" creationid="Antonio" creationdate="20151130T122436Z">
+        <seg>La sintaxis completa de las combinaciones de teclas (accesos directos) aparece definida en la siguiente documentación de Java 1.6 de Oracle (parte inferior de la página): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31353,8 +31353,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160124T201152Z" creationid="Antonio" creationdate="20151130T144127Z">
-        <seg>Los posibles keyevents (teclas) se indican en el siguiente documento de Java 1.6, procedente de Oracle: &lt;u0&gt;Java 1.6 Descripción de keyEvents&lt;/u0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211116T124230Z" creationid="Antonio" creationdate="20151130T144127Z">
+        <seg>Los posibles keyevents (teclas) se indican en la siguiente documentación de Java 1.6 de Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
