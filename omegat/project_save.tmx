@@ -16089,8 +16089,8 @@ es usar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T133656Z" creationid="nenyavie" creationdate="20200226T133525Z">
-        <seg>Al desmarcar esta opción, solo se traducirá automáticamente cuando, en el segmento actual, se pulse &lt;k0&gt; &lt;k1&gt;CTRL&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; en OS X).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T185223Z" creationid="nenyavie" creationdate="20200226T133525Z">
+        <seg>Al desmarcar esta opción, solo se obtendrán las traducciones automáticas cuando, en el segmento actual, se pulse &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; en OS X).</seg>
       </tuv>
     </tu>
     <tu>
