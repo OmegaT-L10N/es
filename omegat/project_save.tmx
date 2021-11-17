@@ -17390,8 +17390,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T203507Z" creationid="hcartagena" creationdate="20200729T203507Z">
-        <seg>También puede usarse cuando los paneles no aparecen como se esperaba tras una actualización de OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T193141Z" creationid="hcartagena" creationdate="20200729T203507Z">
+        <seg>También puede utilizarse cuando los paneles no aparecen como se esperaba tras una actualización de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27776,8 +27776,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Shows the dialog to modify the text display font.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T203601Z" creationid="hcartagena" creationdate="20200729T203601Z">
-        <seg>Muestra el cuadro de diálogo para modificar el tipo de letra para la visualización de texto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T193242Z" creationid="hcartagena" creationdate="20200729T203601Z">
+        <seg>Muestra el cuadro de diálogo para modificar el tipo de fuente para la visualización de texto.</seg>
       </tuv>
     </tu>
     <tu>
