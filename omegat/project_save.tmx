@@ -23254,8 +23254,8 @@ cual bruma se disipa</seg>
       <tuv lang="en">
         <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160128T142812Z" creationid="Antonio" creationdate="20160128T142705Z">
-        <seg>Segmentación según párrafos, usando los saltos de línea, líneas vacías o nunca:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T201207Z" creationid="Antonio" creationdate="20160128T142705Z">
+        <seg>Segmentación por párrafos según saltos de línea, líneas vacías o nunca:</seg>
       </tuv>
     </tu>
     <tu>
