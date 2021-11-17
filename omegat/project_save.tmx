@@ -27288,8 +27288,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T134532Z" creationid="nenyavie" creationdate="20200226T134532Z">
-        <seg>Seleccione un proveedor de la lista y, si es necesario, pulse &lt;g0&gt;Configurar&lt;/g0&gt; para introducir los datos de identificación proporcionados por el proveedor.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T185704Z" creationid="nenyavie" creationdate="20200226T134532Z">
+        <seg>Seleccione un proveedor de la lista y, si es necesario, haga clic en &lt;g0&gt;Configurar&lt;/g0&gt; para introducir los datos de identificación proporcionados por el proveedor.</seg>
       </tuv>
     </tu>
     <tu>
