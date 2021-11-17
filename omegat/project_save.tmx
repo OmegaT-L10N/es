@@ -24025,8 +24025,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="en">
         <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T210519Z" creationid="hcartagena" creationdate="20200729T210519Z">
-        <seg>Conservar espacios en todas las etiquetas: marque esta opción si los documentos de origen contienen una cantidad significativa de espacios usados para controlar el diseño que no se pueden ignorar.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T200414Z" creationid="hcartagena" creationdate="20200729T210519Z">
+        <seg>Conservar espacios en todas las etiquetas: marque esta opción si los documentos originales contienen una cantidad significativa de espacios utilizados para controlar el diseño que no se pueden ignorar.</seg>
       </tuv>
     </tu>
     <tu>
