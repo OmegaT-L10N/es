@@ -16645,8 +16645,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T110849Z" creationid="nenyavie" creationdate="20200226T110849Z">
-        <seg>Cree una carpeta nueva en una localización adecuada de su archivo de administración para guardar los diccionarios ortográficos (en el siguiente ejemplo D:\Translations\spellcheckers)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T115315Z" creationid="nenyavie" creationdate="20200226T110849Z">
+        <seg>Cree una carpeta nueva en una localización adecuada en el administrador de archivos para guardar los diccionarios ortográficos (en el siguiente ejemplo D:\Translations\spellcheckers).</seg>
       </tuv>
     </tu>
     <tu>
