@@ -1669,8 +1669,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Untranslated Segments Only</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T224440Z" creationid="Antonio" creationdate="20151127T174553Z">
-        <seg>Solamente segmentos sin trad&amp;ucción</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T185442Z" creationid="Antonio" creationdate="20151127T174553Z">
+        <seg>Solo segmentos sin trad&amp;ucción</seg>
       </tuv>
     </tu>
     <tu>
