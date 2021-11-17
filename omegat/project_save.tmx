@@ -16365,8 +16365,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T122651Z" creationid="nenyavie" creationdate="20200226T114401Z">
-        <seg>En OmegaT, seleccione &lt;g0&gt;Opciones &gt; Preferencias &gt; Corrector ortográfico&lt;/g0&gt;, pulse en &lt;g1&gt;Seleccionar&lt;/g1&gt; junto al campo de Carpeta de archivos de diccionarios.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T115722Z" creationid="nenyavie" creationdate="20200226T114401Z">
+        <seg>En OmegaT, seleccione &lt;g0&gt;Opciones &gt; Preferencias &gt; Corrector ortográfico&lt;/g0&gt;, haga clic en &lt;g1&gt;Seleccionar&lt;/g1&gt; junto al campo de Carpeta de archivos de diccionarios.</seg>
       </tuv>
     </tu>
     <tu>
