@@ -15412,8 +15412,8 @@ que introducir la ruta completa.)</seg>
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T143852Z" creationid="nenyavie" creationdate="20200226T143852Z">
-        <seg>Si se seleccionan tanto esta opción como la opción &lt;l0&gt;&lt;g1&gt;Insertar el texto original&lt;/g1&gt;&lt;/l0&gt;, todas las palabras con la correspondiente entrada en el glosario se traducirán automáticamente cuando se inserte el texto original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T191346Z" creationid="nenyavie" creationdate="20200226T143852Z">
+        <seg>Si se seleccionan tanto esta opción como la opción &lt;l0&gt;&lt;g1&gt;Insertar el texto original&lt;/g1&gt;&lt;/l0&gt;, todas las palabras con el correspondiente término en el glosario se traducirán automáticamente cuando se inserte el texto original.</seg>
       </tuv>
     </tu>
     <tu>
