@@ -26805,11 +26805,12 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
     </tu>
     <tu>
+      <note>Ruta incorrecta (falta "Preferencias").</note>
       <tuv lang="en">
         <seg>See Options &gt; File filters for a list of supported file formats.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211002T180946Z" creationid="Mari" creationdate="20211002T180946Z">
-        <seg>Consulte la lista de formatos de archivo compatibles en Opciones &gt; Filtros de archivos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T194835Z" creationid="Mari" creationdate="20211002T180946Z">
+        <seg>Consulte la lista de formatos de archivo compatibles en Opciones &gt; Preferencias &gt; Filtros de archivo.</seg>
       </tuv>
     </tu>
     <tu>
