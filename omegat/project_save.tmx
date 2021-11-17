@@ -35878,8 +35878,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T210354Z" creationid="hcartagena" creationdate="20200729T210258Z">
-        <seg>Advertencia: en los formatos de Microsoft Open XML (docx, xlsx, etc.), si se muestran todas las etiquetas, NO ponga texto antes de la primera etiqueta, ya que es una etiqueta técnica que debe ir siempre al comienzo del segmento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T195956Z" creationid="hcartagena" creationdate="20200729T210258Z">
+        <seg>Advertencia: en los formatos de Microsoft Open XML (docx, xlsx, etc.), si se muestran todas las etiquetas, NO ponga texto antes de la primera etiqueta, ya que es una etiqueta técnica que debe ir siempre al inicio del segmento.</seg>
       </tuv>
     </tu>
     <tu>
