@@ -31753,8 +31753,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T122910Z" creationid="nenyavie" creationdate="20200226T122910Z">
-        <seg>El corrector ortográfico utiliza el código del idioma de destino para determinar el idioma a utilizar: si el idioma de destino es el portugués de Brasil (PT_BR), la subcarpeta con los vocabularios debe contener los dos archivos de vocabulario, llamados &lt;e0&gt;pt_br.aff&lt;/e0&gt; y &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T122351Z" creationid="nenyavie" creationdate="20200226T122910Z">
+        <seg>El corrector ortográfico utiliza el código del idioma de destino para determinar el idioma a utilizar: si el idioma de destino es el portugués de Brasil (PT_BR), la subcarpeta con los diccionarios debe contener los dos archivos de diccionario, llamados &lt;e0&gt;pt_br.aff&lt;/e0&gt; y &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
