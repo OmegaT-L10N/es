@@ -8453,8 +8453,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T133839Z" creationid="nenyavie" creationdate="20200226T133839Z">
-        <seg>Marque la casilla para enviar únicamente los segmentos sin traducir a los servicios de traducción automática.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T185628Z" creationid="nenyavie" creationdate="20200226T133839Z">
+        <seg>Marque esta casilla para enviar únicamente los segmentos sin traducción a los servicios de traducción automática.</seg>
       </tuv>
     </tu>
     <tu>
