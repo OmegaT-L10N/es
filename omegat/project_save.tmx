@@ -40261,8 +40261,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T210932Z" creationid="hcartagena" creationdate="20200729T210932Z">
-        <seg>si las reglas de segmentación están activas, el texto se segmentará aún más según las opciones seleccionadas aquí.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T201314Z" creationid="hcartagena" creationdate="20200729T210932Z">
+        <seg>si las reglas de segmentación por frases están activas, el texto se segmentará aun más según las opciones seleccionadas aquí.</seg>
       </tuv>
     </tu>
     <tu>
