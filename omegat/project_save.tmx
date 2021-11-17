@@ -8661,8 +8661,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T120608Z" creationid="nenyavie" creationdate="20200226T120608Z">
-        <seg>Al pulsar en el botón de &lt;g0&gt;Instalar nuevo diccionario&lt;/g0&gt; se abrirá la ventana de instalación de diccionarios, en la que podrá seleccionar los diccionarios que quiera instalar.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T120810Z" creationid="nenyavie" creationdate="20200226T120608Z">
+        <seg>Al hacer clic en el botón &lt;g0&gt;Instalar nuevo diccionario&lt;/g0&gt; se abrirá la ventana de instalación de diccionarios, en la que podrá seleccionar los diccionarios que quiera instalar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31233,8 +31233,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T120754Z" creationid="nenyavie" creationdate="20200226T120719Z">
-        <seg>Los nombres de los archivos deben corresponder al código del lenguaje de su idioma de destino, como se define en el cuadro de propiedades del proyecto (&lt;g0&gt;Proyecto&gt;propiedades&lt;/g0&gt;). </seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T121007Z" creationid="nenyavie" creationdate="20200226T120719Z">
+        <seg>Los nombres de los archivos deben corresponder al código de idioma de el idioma de destino, como se define en el diálogo de propiedades del proyecto (&lt;g0&gt;Proyecto&gt;Propiedades&lt;/g0&gt;). </seg>
       </tuv>
     </tu>
     <tu>
