@@ -25338,8 +25338,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T210000Z" creationid="hcartagena" creationdate="20200729T210000Z">
-        <seg>Quitar etiquetas de principio y fin: desmarque esta opción para mostrar todas las etiquetas, inclusive las del inicio y el final del segmento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T195807Z" creationid="hcartagena" creationdate="20200729T210000Z">
+        <seg>Eliminar etiquetas de apertura y cierre: desmarque esta opción para mostrar todas las etiquetas, incluidas las del inicio y el final del segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30591,8 +30591,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The dialog allows you to enable or disable the following options:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T204848Z" creationid="hcartagena" creationdate="20200729T204848Z">
-        <seg>El cuadro de diálogo permite activar o desactivar las siguientes opciones:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T195711Z" creationid="hcartagena" creationdate="20200729T204848Z">
+        <seg>El cuadro de diálogo permite habilitar o deshabilitar las siguientes opciones:</seg>
       </tuv>
     </tu>
     <tu>
