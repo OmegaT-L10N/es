@@ -37212,8 +37212,8 @@ mediante el programa de instalación (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T144447Z" creationid="nenyavie" creationdate="20200226T144447Z">
-        <seg>Entonces podrá crear una clave de acceso en la página &lt;u0&gt;https://term.tilde.com/cuenta/keys/crear?sistema=OmegaT&lt;/u0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T192006Z" creationid="nenyavie" creationdate="20200226T144447Z">
+        <seg>Entonces podrá crear una clave de acceso en la página &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
