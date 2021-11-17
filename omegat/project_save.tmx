@@ -15522,8 +15522,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181116T152457Z" creationid="eumeu" creationdate="20181116T152457Z">
-        <seg>En caso que sea necesario, edite los nombres de los archivos del diccionario o cambie la configuración de idiomas de su proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T121512Z" creationid="eumeu" creationdate="20181116T152457Z">
+        <seg>En caso de que sea necesario, edite los nombres de los archivos del diccionario o cambie la configuración de idiomas del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
