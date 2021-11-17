@@ -15699,8 +15699,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T122635Z" creationid="nenyavie" creationdate="20200226T122635Z">
-        <seg>Si el corrector ortográfico no funciona, asegúrese primero de que esté marcada la casilla &lt;g0&gt;"Comprobar la ortografía automáticamente"&lt;/g0&gt; en el diálogo del corrector ortográfico (&lt;g1&gt;Opciones &gt; Propiedades &gt; Spellchecker)&lt;/g1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T122130Z" creationid="nenyavie" creationdate="20200226T122635Z">
+        <seg>Si el corrector ortográfico no funciona, asegúrese primero de que esté marcada la casilla &lt;g0&gt;"Comprobar la ortografía automáticamente"&lt;/g0&gt; en el diálogo del corrector ortográfico (&lt;g1&gt;Opciones &gt; Preferencias &gt; Corrector ortográfico)&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
