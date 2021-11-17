@@ -33200,8 +33200,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T204838Z" creationid="hcartagena" creationdate="20200729T204838Z">
-        <seg>Para elegir los archivos y codificaciones para los que se usará un filtro, seleccione el filtro del listado y haga clic en &lt;e1&gt;Editar&lt;/e1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T195652Z" creationid="hcartagena" creationdate="20200729T204838Z">
+        <seg>Para editar los archivos y codificaciones para los que se utilizará un filtro, seleccione el filtro de la lista y haga clic en &lt;e1&gt;Editar&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
