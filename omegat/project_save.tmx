@@ -32121,8 +32121,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181116T152334Z" creationid="eumeu" creationdate="20181116T152300Z">
-        <seg>No es necesario indicarle a OmegaT que use un diccionario ortográfico en particular; OmegaT utilizará el diccionario que corresponda basado los códigos de idioma de su proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T121353Z" creationid="eumeu" creationdate="20181116T152300Z">
+        <seg>No es necesario indicarle a OmegaT que utilice un diccionario ortográfico en particular; OmegaT utilizará el diccionario que corresponda basado los códigos de idioma del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
