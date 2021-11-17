@@ -31393,8 +31393,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T134623Z" creationid="nenyavie" creationdate="20200226T134623Z">
-        <seg>Los procedimientos para configurar el acceso a los servicios de Microsoft Translator y Google Translate se describen &lt;u0&gt;aquí&lt;/u0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T185836Z" creationid="nenyavie" creationdate="20200226T134623Z">
+        <seg>Los procedimientos para configurar el acceso a los servicios de Microsoft Translator y Traductor de Google se describen &lt;u0&gt;aquí&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
