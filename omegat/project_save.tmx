@@ -33223,8 +33223,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181116T152946Z" creationid="eumeu" creationdate="20181116T152946Z">
-        <seg>Para habilitar el corrector ortográfico, seleccionar &lt;g0&gt;Opciones &gt; Corrector ortográfico&lt;/g0&gt; y hacer un tic en &lt;g1&gt;Chequear automáticamente la ortografía del texto&lt;/g1&gt; casilla de verificación (veáse arriba).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T121807Z" creationid="eumeu" creationdate="20181116T152946Z">
+        <seg>Para habilitar el corrector ortográfico, seleccione &lt;g0&gt;Opciones &gt; Corrector ortográfico&lt;/g0&gt; y marque la casilla &lt;g1&gt;Comprobar la ortografía automáticamente&lt;/g1&gt; (veáse arriba).</seg>
       </tuv>
     </tu>
     <tu>
