@@ -16260,8 +16260,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T143938Z" creationid="nenyavie" creationdate="20200226T143938Z">
-        <seg>Ignorar coincidencias con diferencias de caja muy visibles (FOO en vez de foo, por ejemplo)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T191429Z" creationid="nenyavie" creationdate="20200226T143938Z">
+        <seg>Ignorar coincidencias con diferencias de mayúsculas y minúsculas muy visibles (FOO en vez de foo, por ejemplo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25450,8 +25450,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T190846Z" creationid="hcartagena" creationdate="20180604T233127Z">
-        <seg>&amp;Reemplazar los aciertos del glosario al insertar el texto original</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T191442Z" creationid="hcartagena" creationdate="20180604T233127Z">
+        <seg>&amp;Reemplazar las coincidencias del glosario al insertar el texto original</seg>
       </tuv>
     </tu>
     <tu>
