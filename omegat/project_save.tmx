@@ -34479,8 +34479,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T141939Z" creationid="nenyavie" creationdate="20200226T141939Z">
-        <seg>Desmarque esta opción si la descripción del contexto que se muestras para cada entrada del glosario no hace falta o es demasiado larga.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T190026Z" creationid="nenyavie" creationdate="20200226T141939Z">
+        <seg>Desmarque esta opción si la descripción contextual que se muestra para cada término del glosario no hace falta o es demasiado larga.</seg>
       </tuv>
     </tu>
     <tu>
