@@ -23943,8 +23943,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="en">
         <seg>Pre-defined themes can be set using scripts.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T204128Z" creationid="hcartagena" creationdate="20200729T204128Z">
-        <seg>Pueden establecerse temas predefinidos con programas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T193953Z" creationid="hcartagena" creationdate="20200729T204128Z">
+        <seg>Pueden establecerse temas predefinidos con scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32877,8 +32877,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This page allows you to choose different colours for each part of the user interface.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T203930Z" creationid="hcartagena" creationdate="20200729T203930Z">
-        <seg>Este página le permite seleccionar diferentes colores para cada parte de la interfaz de usuario.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T193905Z" creationid="hcartagena" creationdate="20200729T203930Z">
+        <seg>Esta página le permite seleccionar diferentes colores para cada parte de la interfaz de usuario.</seg>
       </tuv>
     </tu>
     <tu>
