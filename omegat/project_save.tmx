@@ -16252,8 +16252,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T210536Z" creationid="hcartagena" creationdate="20200729T210536Z">
-        <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas: de manera prederminada, OmegaT utiliza el nombre del archivo de origen como parte de la identificación de una traducción alternativa.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T200516Z" creationid="hcartagena" creationdate="20200729T210536Z">
+        <seg>Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas: de manera prederminada, OmegaT utiliza el nombre del archivo original como parte de la identificación de una traducción alternativa.</seg>
       </tuv>
     </tu>
     <tu>
