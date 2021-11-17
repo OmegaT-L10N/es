@@ -35045,8 +35045,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T143119Z" creationid="nenyavie" creationdate="20200226T143119Z">
-        <seg>Usar lematización en términos de glosario</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T190358Z" creationid="nenyavie" creationdate="20200226T143119Z">
+        <seg>Utilizar lematización en términos de glosario</seg>
       </tuv>
     </tu>
     <tu>
