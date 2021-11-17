@@ -15594,8 +15594,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T211032Z" creationid="hcartagena" creationdate="20200729T211032Z">
-        <seg>Si está seleccionada, cuando no se ha traducido un segmento en un archivo PO (que puede ser todo un párrafo), la traducción aparecerá en blanco en el archivo de destino.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T201549Z" creationid="hcartagena" creationdate="20200729T211032Z">
+        <seg>Si está seleccionada, cuando no se ha traducido un segmento en un archivo PO (que puede ser todo un párrafo), la traducción aparecerá en blanco en el archivo traducido.</seg>
       </tuv>
     </tu>
     <tu>
