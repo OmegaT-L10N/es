@@ -25354,8 +25354,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160128T140015Z" creationid="Antonio" creationdate="20160128T140015Z">
-        <seg>Quitar espacio en blanco anterior y posterior en proyectos sin segmentación: de manera predeterminada, OmegaT elimina los espacios en blanco anteriores y posteriores.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T200105Z" creationid="Antonio" creationdate="20160128T140015Z">
+        <seg>Eliminar espacio en blanco inicial y final en proyectos sin segmentación: de manera predeterminada, OmegaT elimina los espacios en blanco iniciales y finales.</seg>
       </tuv>
     </tu>
     <tu>
