@@ -8597,8 +8597,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T145000Z" creationid="nenyavie" creationdate="20200226T145000Z">
-        <seg>Quite esta opción para desactivar la búsqueda automática, por ejemplo, si los diccionarios son demasiado largos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T192650Z" creationid="nenyavie" creationdate="20200226T145000Z">
+        <seg>Borre esta opción para desactivar la búsqueda automática, por ejemplo, si los diccionarios son demasiado largos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35029,8 +35029,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T145019Z" creationid="nenyavie" creationdate="20200226T145019Z">
-        <seg>Usar coincidencias aproximadas para entradas de diccionarios</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T192932Z" creationid="nenyavie" creationdate="20200226T145019Z">
+        <seg>Utilizar coincidencias aproximadas para entradas de diccionario</seg>
       </tuv>
     </tu>
     <tu>
