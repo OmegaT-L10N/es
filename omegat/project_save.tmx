@@ -36960,8 +36960,8 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
       <tuv lang="en">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T122044Z" creationid="nenyavie" creationdate="20200226T122044Z">
-        <seg>También puede hacer que el corrector ortográfico ignore todas las ocurrencias de la palabra mal escrita, o que la añada al diccionario.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T121952Z" creationid="nenyavie" creationdate="20200226T122044Z">
+        <seg>También puede hacer que el corrector ortográfico ignore todas las ocurrencias de la palabra mal escrita o que la añada al diccionario.</seg>
       </tuv>
     </tu>
     <tu>
