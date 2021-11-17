@@ -15682,8 +15682,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T210558Z" creationid="hcartagena" creationdate="20200729T210558Z">
-        <seg>Si la opción está seleccionada, no se utilizará el nombre del archivo de origen y se usarán traducciones alternativas en cualquier archivo siempre y cuando coincida con el resto del contexto (segmento anterior/siguiente, o algún tipo de identificador de segmento, según el formato del archivo).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T200703Z" creationid="hcartagena" creationdate="20200729T210558Z">
+        <seg>Si la opción está seleccionada, no se utilizará el nombre del archivo original y se utilizarán traducciones alternativas en cualquier archivo siempre y cuando coincida con el resto del contexto (segmento anterior/siguiente o algún tipo de identificador de segmento, según el formato del archivo).</seg>
       </tuv>
     </tu>
     <tu>
