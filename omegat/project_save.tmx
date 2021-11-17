@@ -3024,8 +3024,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160128T142943Z" creationid="Antonio" creationdate="20160128T142943Z">
-        <seg>Permitir traducciones en blanco en archivos traducidos:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T201504Z" creationid="Antonio" creationdate="20160128T142943Z">
+        <seg>&lt;e0&gt;Permitir traducciones en blanco en los archivos traducidos&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
