@@ -16032,8 +16032,8 @@ es usar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T121114Z" creationid="nenyavie" creationdate="20200226T121114Z">
-        <seg>Si solo dispone de un diccionario estándar de español, con los nombres de archivo es_es.dic y es_es.aff por ejemplo, puedes copiar estos archivos a es_MX.dic y es_MX.aff, y el diccionario de ortografía funcionará.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T121211Z" creationid="nenyavie" creationdate="20200226T121114Z">
+        <seg>Si solo dispone de un diccionario estándar de español, con los nombres de archivo es_es.dic y es_es.aff por ejemplo, puede copiar estos archivos en es_MX.dic y es_MX.aff y el diccionario ortográfico funcionará.</seg>
       </tuv>
     </tu>
     <tu>
