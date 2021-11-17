@@ -5443,8 +5443,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T204433Z" creationid="hcartagena" creationdate="20200729T204433Z">
-        <seg>Un programa asociado a OmegaT llamado "Switch Colour Themes" contiene un tema oscuro predeterminado llamado "Dark".</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T194415Z" creationid="hcartagena" creationdate="20200729T204433Z">
+        <seg>Un script asociado a OmegaT llamado "Switch Colour Themes" contiene un tema oscuro predeterminado llamado "Dark".</seg>
       </tuv>
     </tu>
     <tu>
