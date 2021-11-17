@@ -16453,8 +16453,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160128T140130Z" creationid="Antonio" creationdate="20160128T140130Z">
-        <seg>En proyectos sin segmentación, es posible dejar esta opción sin marcar.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T200254Z" creationid="Antonio" creationdate="20160128T140130Z">
+        <seg>En proyectos sin segmentación, es posible mantenerlo dejando esta opción sin marcar.</seg>
       </tuv>
     </tu>
     <tu>
