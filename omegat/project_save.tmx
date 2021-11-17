@@ -31401,8 +31401,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The program will seek confirmation before closing down.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T133105Z" creationid="nenyavie" creationdate="20200226T133105Z">
-        <seg>El programa buscará confirmación antes de cerrar.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T184758Z" creationid="nenyavie" creationdate="20200226T133105Z">
+        <seg>El programa pedirá confirmación antes de cerrar.</seg>
       </tuv>
     </tu>
     <tu>
