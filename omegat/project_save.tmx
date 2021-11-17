@@ -27488,8 +27488,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T124253Z" creationid="nenyavie" creationdate="20200226T124253Z">
-        <seg>Vincula la validación de segmento al tabulador en lugar de a Enter, que es la tecla predeterminada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T184603Z" creationid="nenyavie" creationdate="20200226T124253Z">
+        <seg>Vincula la validación de segmento al tabulador en lugar de a Intro, que es la tecla predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
