@@ -6363,8 +6363,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T122742Z" creationid="nenyavie" creationdate="20200226T122742Z">
-        <seg>Compruebe también que el código del idioma destino de su proyecto concuerda con los vocabularios disponibles en la ventana de configuración.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T122238Z" creationid="nenyavie" creationdate="20200226T122742Z">
+        <seg>Compruebe también que el código del idioma de destino del proyecto concuerda con los diccionarios disponibles en la ventana de configuración.</seg>
       </tuv>
     </tu>
     <tu>
