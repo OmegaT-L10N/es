@@ -15739,8 +15739,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T144251Z" creationid="nenyavie" creationdate="20200226T144012Z">
-        <seg>Si se marca esta opción, el glosario solo mostrará una entrada, aunque la misma palabra exista de varias formas (por ejemplo, con y sin mayúsculas) en el glosario.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T191620Z" creationid="nenyavie" creationdate="20200226T144012Z">
+        <seg>Si se marca esta opción, el glosario solo mostrará un término, aunque la misma palabra exista de varias formas (por ejemplo, con y sin mayúsculas) en el glosario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25508,8 +25508,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T143745Z" creationid="nenyavie" creationdate="20200226T143745Z">
-        <seg>Reemplazar los aciertos del glosario al insertar el texto original</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T191503Z" creationid="nenyavie" creationdate="20200226T143745Z">
+        <seg>Reemplazar las coincidencias del glosario al insertar el texto original</seg>
       </tuv>
     </tu>
     <tu>
