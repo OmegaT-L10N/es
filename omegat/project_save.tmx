@@ -15960,8 +15960,8 @@ es usar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T123109Z" creationid="nenyavie" creationdate="20200226T123109Z">
-        <seg>Si se tiene un gran cuerpo de texto ya traducido, pero luego se da cuenta de que el código del idioma destino del proyecto no coincide con el código de idioma del corrector ortográfico (usted especificó pt_BR como idioma, pero no hay vocabularios pt_BR, por ejemplo) simplemente puede copiar los dos archivos correspondientes y cambiarles el nombre (de pt_PT.aff resp. pt_PT.dic a pt._BR.aff y pt_BR.dic).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T122837Z" creationid="nenyavie" creationdate="20200226T123109Z">
+        <seg>Si ya ha traducido una gran cantidad de texto y luego se da cuenta de que el código del idioma de destino del proyecto no coincide con el código de idioma del corrector ortográfico (especificó pt_BR como idioma, pero no hay diccionarios pt_BR, por ejemplo), solo tiene que copiar los dos archivos correspondientes y cambiarles el nombre de &lt;e0&gt;pt_PT.aff&lt;/e0&gt; y &lt;e1&gt;pt_PT.dic&lt;/e1&gt; a &lt;e2&gt;pt_BR.aff&lt;/e2&gt; y &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
