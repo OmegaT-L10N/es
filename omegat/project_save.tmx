@@ -13578,8 +13578,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T120813Z" creationid="taty" creationdate="20181109T164229Z">
-        <seg>Por ejemplo, si ha selecciónado ES-MX (español mexicano) como idioma de destino, los archivos del diccionario deben ser nombrados es_MX.dic y es_MX.aff. </seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T121039Z" creationid="taty" creationdate="20181109T164229Z">
+        <seg>Por ejemplo, si ha selecciónado ES-MX (español mexicano) como idioma de destino, los archivos de diccionario deben ser nombrados es_MX.dic y es_MX.aff. </seg>
       </tuv>
     </tu>
     <tu>
