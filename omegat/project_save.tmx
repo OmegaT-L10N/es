@@ -10919,8 +10919,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Display context description for TBX glossaries</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T134652Z" creationid="nenyavie" creationdate="20200226T134652Z">
-        <seg>Mostrar la descripción contextual en glosarios TBX</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211117T185933Z" creationid="nenyavie" creationdate="20200226T134652Z">
+        <seg>Mostrar descripción contextual en glosarios TBX</seg>
       </tuv>
     </tu>
     <tu>
