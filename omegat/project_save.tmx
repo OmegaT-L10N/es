@@ -15572,8 +15572,8 @@ que introducir la ruta completa.)</seg>
       <tuv lang="en">
         <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194923Z" creationid="Antonio" creationdate="20160316T194923Z">
-        <seg>Por ejemplo, si el archivo original tenía el nombre Document.xx.docx, las variables siguientes darían los resultados siguientes:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155043Z" creationid="Antonio" creationdate="20160316T194923Z">
+        <seg>Por ejemplo, si el archivo original tiene el nombre Document.xx.docx, las siguientes variables darían los siguientes resultados:</seg>
       </tuv>
     </tu>
     <tu>
