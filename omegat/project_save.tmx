@@ -2934,6 +2934,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152235Z" creationid="Mari" creationdate="20211123T152235Z">
+        <seg> &lt;auto&gt; deja la elección de codificación a OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T193003Z" creationid="Antonio" creationdate="20160316T193003Z">
@@ -32854,8 +32862,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This is how it works:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193006Z" creationid="Antonio" creationdate="20160316T193006Z">
-        <seg>**Cómo funciona:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152252Z" creationid="Antonio" creationdate="20160316T193006Z">
+        <seg>Así funciona:</seg>
       </tuv>
     </tu>
     <tu>
