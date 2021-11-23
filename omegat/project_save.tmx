@@ -37111,8 +37111,8 @@ para enlazarlo desde allí.</seg>
       <tuv lang="en">
         <seg>You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T211856Z" creationid="hcartagena" creationdate="20200729T211856Z">
-        <seg>Puede definir pares valor-clave para etiquetas que se deben dejar sin traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T121927Z" creationid="hcartagena" creationdate="20200729T211856Z">
+        <seg>Puede definir pares clave-valor para las etiquetas que se deben dejar sin traducir.</seg>
       </tuv>
     </tu>
     <tu>
