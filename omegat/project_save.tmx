@@ -22769,8 +22769,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T192340Z" creationid="Antonio" creationdate="20160316T192340Z">
-        <seg>**Sólo un limitado número de formatos de archivo especifica una codificación obligatoria.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T151529Z" creationid="Antonio" creationdate="20160316T192340Z">
+        <seg>Solo un número kimitado de formatos de archivo especifica una codificación obligatoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28331,6 +28331,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T192055Z" creationid="Antonio" creationdate="20160316T192055Z">
         <seg>**Codificación de archivos fuente y destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T151459Z" creationid="Mari" creationdate="20211123T151459Z">
+        <seg>Codificación de los archivos originales y los archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
