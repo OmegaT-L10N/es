@@ -13664,6 +13664,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T150218Z" creationid="Mari" creationdate="20211123T150218Z">
+        <seg>Por ejemplo, de manera predeterminada, se utiliza el filtro XHTML para procesar archivos con extensión .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T183608Z" creationid="Antonio" creationdate="20160331T183608Z">
