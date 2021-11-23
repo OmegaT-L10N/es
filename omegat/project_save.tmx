@@ -29497,6 +29497,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152036Z" creationid="Mari" creationdate="20211123T152036Z">
+        <seg>Los archivos traducidos también pueden escribirse en cualquier codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T233705Z" creationid="hcartagena" creationdate="20180604T233705Z">
