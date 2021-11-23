@@ -26902,8 +26902,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194143Z" creationid="Antonio" creationdate="20160316T194143Z">
-        <seg>Vea en la &lt;u0&gt;Documentación de Oracle&lt;/u0&gt; los ejemplos de patrón para "SimpleDateFormat"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154538Z" creationid="Antonio" creationdate="20160316T194143Z">
+        <seg>Consulte la &lt;u0&gt;documentación de Oracle&lt;/u0&gt; para ver ejemplos de patrones para "SimpleDateFormat"</seg>
       </tuv>
     </tu>
     <tu>
