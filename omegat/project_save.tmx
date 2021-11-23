@@ -4136,16 +4136,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194001Z" creationid="Antonio" creationdate="20160316T194001Z">
-        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– únicamente el país de destino - "YY"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154404Z" creationid="Antonio" creationdate="20160316T194001Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– país de destino (solo en forma de "YY").</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193932Z" creationid="Antonio" creationdate="20160316T193932Z">
-        <seg>**&lt;c0&gt;${targetLanguageCode}&lt;/c0&gt; ― únicamente el idioma destino ("XX").</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154318Z" creationid="Antonio" creationdate="20160316T193932Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt;: idioma de destino (solo en forma de "XX").</seg>
       </tuv>
     </tu>
     <tu>
