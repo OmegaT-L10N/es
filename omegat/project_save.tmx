@@ -4152,8 +4152,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193902Z" creationid="Antonio" creationdate="20160316T193902Z">
-        <seg>**&lt;c0&gt;${targetLanguage}&lt;/c0&gt; ― el idioma destino y código de país, juntos (en forma de "XX-YY").</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154232Z" creationid="Antonio" creationdate="20160316T193902Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;: idioma y código de país de destino (en forma de "XX-YY").</seg>
       </tuv>
     </tu>
     <tu>
