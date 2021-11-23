@@ -3766,6 +3766,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Aggregate tags&lt;/g0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T122929Z" creationid="Mari" creationdate="20211123T122929Z">
+        <seg>&lt;g0&gt;Agrupar etiquetas&lt;/g0&gt;: si está marcada, las etiquetas sin texto traducible entre ellas se agruparán para formar una sola etiqueta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T113916Z" creationid="Mari" creationdate="20211123T113916Z">
