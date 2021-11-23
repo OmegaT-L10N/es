@@ -13704,6 +13704,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the pattern &lt;l1&gt;*.xhtml &lt;/l1&gt;matches any file with the &lt;l2&gt;.xhtml&lt;/l2&gt; extension.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T150023Z" creationid="Mari" creationdate="20211123T150023Z">
+        <seg>Por ejemplo, el patrón &lt;l1&gt;*.xhtml &lt;/l1&gt;coincide con cualquier archivo con la extensión &lt;l2&gt;.xhtml&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T000435Z" creationid="hcartagena" creationdate="20200730T000435Z">
