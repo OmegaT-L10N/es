@@ -3790,6 +3790,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T144324Z" creationid="Mari" creationdate="20211123T144324Z">
+        <seg>&lt;g0&gt;Comprimir espacio en blanco en el documento traducido&lt;/g0&gt;: varios caracteres de espacio en blanco contiguos se convertirán en un solo espacio en blanco en el documento traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T144108Z" creationid="Mari" creationdate="20211123T144108Z">
