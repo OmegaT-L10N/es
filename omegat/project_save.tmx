@@ -37205,6 +37205,14 @@ para enlazarlo desde allí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T151944Z" creationid="Mari" creationdate="20211123T151944Z">
+        <seg>Puede cambiar la codificación original para cada patrón de nombre de archivo original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223103Z" creationid="hcartagena" creationdate="20151201T223103Z">
