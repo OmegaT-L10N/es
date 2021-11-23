@@ -13224,8 +13224,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T192436Z" creationid="Antonio" creationdate="20160316T192436Z">
-        <seg>**Los formatos de archivo que no especifican su codificación, utilizan la codificación que usted ha configurado para la extensión que coincide con su nombre.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T151558Z" creationid="Antonio" creationdate="20160316T192436Z">
+        <seg>Los formatos de archivo que no especifican su codificación utilizan la codificación que ha configurado para la extensión que coincide con su nombre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13650,8 +13650,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T192500Z" creationid="Antonio" creationdate="20160316T192500Z">
-        <seg>Por ejemplo, de manera predeterminada los archivos &lt;c0&gt;.txt&lt;/c0&gt; se cargan aplicando la codificación predeterminada del sistema operativo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T151720Z" creationid="Antonio" creationdate="20160316T192500Z">
+        <seg>Por ejemplo, de manera predeterminada, los archivos &lt;l0&gt;.txt&lt;/l0&gt; se cargan utilizando la codificación predeterminada del sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
