@@ -3800,8 +3800,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T123031Z" creationid="Mari" creationdate="20211123T123031Z">
-        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: si está marcada, el "espacio en blanco" (espacios y saltos de línea) se conservará, aunque esta opción no esté definida en el documento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T123120Z" creationid="Mari" creationdate="20211123T123031Z">
+        <seg>&lt;g0&gt;Conservar espacios en todas las etiquetas&lt;/g0&gt;: si está marcada, el "espacio en blanco" (espacios y saltos de línea) se conservará, aunque esta opción no esté definida en el documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5627,8 +5627,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T211751Z" creationid="hcartagena" creationdate="20151119T211751Z">
-        <seg>A&amp;glutinar etiquetas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T123043Z" creationid="hcartagena" creationdate="20151119T211751Z">
+        <seg>A&amp;grupar etiquetas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14666,8 +14666,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>HTML and XHTML files</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T182559Z" creationid="Antonio" creationdate="20160316T182559Z">
-        <seg>**Archivos HTML y XHTML</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T123143Z" creationid="Antonio" creationdate="20160316T182559Z">
+        <seg>Archivos HTML y XHTML</seg>
       </tuv>
     </tu>
     <tu>
