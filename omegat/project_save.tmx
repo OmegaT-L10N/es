@@ -6331,8 +6331,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>All other characters represent themselves.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T191939Z" creationid="Antonio" creationdate="20160316T191939Z">
-        <seg>**Todos los demás caracteres se representan a sí mismos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T150900Z" creationid="Antonio" creationdate="20160316T191939Z">
+        <seg>Todos los demás caracteres se representan a sí mismos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13692,6 +13692,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T192037Z" creationid="Antonio" creationdate="20160316T192037Z">
         <seg>Por ejemplo, si desea que el filtro de texto gestione archivos readme (&lt;c6&gt;readme&lt;/c6&gt;, &lt;c7&gt;read.me&lt;/c7&gt; y &lt;c8&gt;readme.txt&lt;/c8&gt;), debe usar el patrón &lt;c9&gt;read*&lt;/c9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l4&gt;readme, read.me&lt;/l4&gt;, and &lt;l5&gt;readme.txt&lt;/l5&gt;) you should use the pattern &lt;l6&gt;read*&lt;/l6&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T151415Z" creationid="Mari" creationdate="20211123T151415Z">
+        <seg>Por ejemplo, si desea que el filtro de texto gestione archivos readme (&lt;l4&gt;readme, read.me&lt;/l4&gt; y &lt;l5&gt;readme.txt&lt;/l5&gt;) debe utilizar el patrón &lt;l6&gt;read*&lt;/l6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29956,6 +29964,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T150838Z" creationid="Mari" creationdate="20211123T150838Z">
+        <seg>El carácter '*' coincide con cero o más caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>La traducción corrige el error conceptual del original (el término 'run?' sí encuentra 'run' en el ejemplo)</note>
       <tuv lang="en">
         <seg>The '?' character matches exactly one character ('run?' would match 'runs' and 'rung', for example, but not 'run' or 'running').</seg>
@@ -29968,8 +29984,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T191934Z" creationid="Antonio" creationdate="20160316T191934Z">
-        <seg>**El caracter '?' coincide exactamente con un único caracter.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T150854Z" creationid="Antonio" creationdate="20160316T191934Z">
+        <seg>El carácter '?' coincide exactamente con un único carácter.</seg>
       </tuv>
     </tu>
     <tu>
