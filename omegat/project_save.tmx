@@ -3782,6 +3782,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/g0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T121614Z" creationid="Mari" creationdate="20211123T121614Z">
+        <seg>&lt;g0&gt;No traducir el contenido de etiquetas cuyos pares clave-valor de los atributos sean (separar con comas)&lt;/g0&gt;: si una etiqueta coincide con la lista de pares clave-valor, se ignorará su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T120034Z" creationid="Mari" creationdate="20211123T120034Z">
