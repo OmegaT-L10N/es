@@ -3774,6 +3774,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Translate the following attributes&lt;/g0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T115056Z" creationid="Mari" creationdate="20211123T115056Z">
+        <seg>.&lt;g0&gt;Traducir los siguientes atributos&lt;/g0&gt;: los atributos seleccionados aparecerán como segmentos en la ventana Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221831Z" creationid="hcartagena" creationdate="20151201T221831Z">
