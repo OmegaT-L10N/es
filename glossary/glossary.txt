@@ -43,3 +43,4 @@ TMX level2	nivel 2 de TMX
 add	añadir
 plugin	complemento
 form-feed character	carácter de salto de página
+override	anular
