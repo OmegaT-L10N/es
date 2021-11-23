@@ -3776,16 +3776,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Start a new paragraph on&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T115216Z" creationid="Mari" creationdate="20211123T115216Z">
-        <seg>[fuzzy]&lt;e0&gt;Iniciar un nuevo párrafo en:&lt;/e0&gt; La etiqueta &lt;br&gt; de HTML creará un salto de párrafo para propósitos de segmentación.&lt;g0&gt;Iniciar un nuevo párrafo al encontrar&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T115500Z" creationid="Mari" creationdate="20211123T115216Z">
+        <seg>&lt;g0&gt;Iniciar un nuevo párrafo al encontrar&lt;/g0&gt;: la etiqueta HTML &lt;br&gt; creará un salto de párrafo con fines de segmentación.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Translate the following attributes&lt;/g0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T115056Z" creationid="Mari" creationdate="20211123T115056Z">
-        <seg>.&lt;g0&gt;Traducir los siguientes atributos&lt;/g0&gt;: los atributos seleccionados aparecerán como segmentos en la ventana Editor.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T115233Z" creationid="Mari" creationdate="20211123T115056Z">
+        <seg>&lt;g0&gt;Traducir los siguientes atributos&lt;/g0&gt;: los atributos seleccionados aparecerán como segmentos en la ventana Editor.</seg>
       </tuv>
     </tu>
     <tu>
