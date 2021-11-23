@@ -31626,8 +31626,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T185557Z" creationid="Antonio" creationdate="20160316T185557Z">
-        <seg>**Se utiliza el mismo cuadro de diálogo para añadir o editar un patrón particular.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T145346Z" creationid="Antonio" creationdate="20160316T185557Z">
+        <seg>Se utiliza el mismo cuadro de diálogo para añadir o editar un patrón concreto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33156,6 +33156,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;g1&gt;Add&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T145316Z" creationid="Mari" creationdate="20211123T145316Z">
+        <seg>Para añadir un nuevo patrón de filtro de archivos, haga clic en &lt;g1&gt;Añadir&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T160641Z" creationid="Mari" creationdate="20211111T160204Z">
@@ -33408,8 +33416,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;g0&gt;Edit&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T145241Z" creationid="Mari" creationdate="20211123T145241Z">
-        <seg>Para modificar un patrón de filtro de archivo, puede modificar directamente los campos o hacer clic en &lt;g0&gt;Editar&lt;/g0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T145318Z" creationid="Mari" creationdate="20211123T145241Z">
+        <seg>Para modificar un patrón de filtro de archivos, puede modificar directamente los campos o hacer clic en &lt;g0&gt;Editar&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
