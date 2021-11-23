@@ -22407,8 +22407,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193055Z" creationid="Antonio" creationdate="20160316T193055Z">
-        <seg>**OmegaT utiliza la codificación predeterminada del sistema operativo para los archivos de texto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152521Z" creationid="Antonio" creationdate="20160316T193055Z">
+        <seg>OmegaT utiliza la codificación predeterminada del sistema operativo para los archivos de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28193,8 +28193,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193214Z" creationid="Antonio" creationdate="20160316T193214Z">
-        <seg>**En ocasiones, usted querrá cambiar automáticamente el nombre de los archivos que traduzca, por ejemplo, añadiendo un código de idioma después del nombre de archivo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152620Z" creationid="Antonio" creationdate="20160316T193214Z">
+        <seg>En ocasiones, podríar querer cambiar automáticamente el nombre de los archivos que traduzca, por ejemplo, añadiendo un código de idioma después del nombre de archivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34080,6 +34080,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       <tuv lang="es" changeid="hcartagena" changedate="20160401T020202Z" creationid="hcartagena" creationdate="20160401T020202Z">
         <seg>La ruta de acceso al archivo traducido no puede ser idéntica a la del archivo original:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152533Z" creationid="Mari" creationdate="20211123T152533Z">
+        <seg>Nombre del archivo traducido</seg>
       </tuv>
     </tu>
     <tu>
