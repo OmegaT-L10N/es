@@ -10535,8 +10535,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193724Z" creationid="Antonio" creationdate="20160316T193724Z">
-        <seg>El valor predeterminado es &lt;c0&gt;${filename}&lt;/c0&gt; -- el nombre completo del archivo fuente con extensión, de modo que el nombre del archivo traducido es el mismo que el nombre del archivo original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T153735Z" creationid="Antonio" creationdate="20160316T193724Z">
+        <seg>El valor predeterminado es &lt;l0&gt;${filename}&lt;/l0&gt;, es decir, el nombre completo del archivo original con extensión. En este caso el nombre del archivo traducido es el mismo que el nombre del archivo original.</seg>
       </tuv>
     </tu>
     <tu>
