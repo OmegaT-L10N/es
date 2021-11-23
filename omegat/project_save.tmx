@@ -22011,6 +22011,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155749Z" creationid="Mari" creationdate="20211123T155749Z">
+        <seg>OmegaT tiene dos formas de segmentar un texto:la segmentación por párrafos o por frases (también llamada "segmentación basada en reglas").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T175611Z" creationid="Antonio" creationdate="20151127T175611Z">
