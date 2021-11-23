@@ -37125,6 +37125,14 @@ para enlazarlo desde allí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T150536Z" creationid="Mari" creationdate="20211123T150536Z">
+        <seg>Puede cambiar o añadir patrones de nombres de archivo para los archivos que deben ser gestionados por cada filtro de archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change or add filename patterns for files to be handled by each file.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T191756Z" creationid="Antonio" creationdate="20160316T191756Z">
