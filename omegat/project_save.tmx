@@ -32614,8 +32614,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T212717Z" creationid="hcartagena" creationdate="20200729T212717Z">
-        <seg>Este cuadro de diálogo le permite especificar los patrones de nombre de los archivos de origen que el filtro debe procesar, personalizar los nombres de los archivos traducidos y seleccionar la codificación que se usará para cargar los archivos de origen y guardar los archivos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T145202Z" creationid="hcartagena" creationdate="20200729T212717Z">
+        <seg>Este cuadro de diálogo le permite especificar los patrones de nombre de los archivos originales que el filtro debe procesar, personalizar los nombres de los archivos traducidos y seleccionar la codificación que se utilizará para cargar los archivos originales y guardar los archivos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
