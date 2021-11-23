@@ -4056,8 +4056,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193814Z" creationid="Antonio" creationdate="20160316T193814Z">
-        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- la extensión del archivo original </seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T153854Z" creationid="Antonio" creationdate="20160316T193814Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;: la extensión del archivo original</seg>
       </tuv>
     </tu>
     <tu>
@@ -4104,8 +4104,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T153823Z" creationid="Antonio" creationdate="20160316T193747Z">
-        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; le permite insertar solamente el nombre del archivo original sin la extensión.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T153841Z" creationid="Antonio" creationdate="20160316T193747Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;: le permite insertar solamente el nombre del archivo original sin la extensión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4168,8 +4168,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193831Z" creationid="Antonio" creationdate="20160316T193831Z">
-        <seg>**&lt;c0&gt;${targetLocale}&lt;/c0&gt; ― código del país destino (en forma de "xx_YY").</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154034Z" creationid="Antonio" creationdate="20160316T193831Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;: código de configuración regional de destino (en forma de "xx_YY").</seg>
       </tuv>
     </tu>
     <tu>
