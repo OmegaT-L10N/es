@@ -22141,6 +22141,14 @@ o (a su elección) cualquier versión posterior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152511Z" creationid="Mari" creationdate="20211123T152511Z">
+        <seg>OmegaT está configurado para utilizar una codificación obligatoria para algunos formatos de archivo (propiedades de Java, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170827T113747Z" creationid="Cristina" creationdate="20170827T113747Z">
