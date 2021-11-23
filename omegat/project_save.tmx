@@ -13738,8 +13738,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T212310Z" creationid="hcartagena" creationdate="20200729T212310Z">
-        <seg>Por ejemplo, si el filtro de archivo especifica UTF-8 como esquema de codificación para los archivos de destino, seleccionando la opción "Siempre" se garantizará que esta información se incluya en los archivos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T123531Z" creationid="hcartagena" creationdate="20200729T212310Z">
+        <seg>Por ejemplo, si el filtro de archivo especifica UTF-8 como esquema de codificación para los archivos traducidos, seleccionando la opción "Siempre" se garantizará que esta información se incluya en los archivos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35572,8 +35572,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T212235Z" creationid="hcartagena" creationdate="20200729T212235Z">
-        <seg>Con esta opción, el traductor puede especificar si los archivos de destino deben llevar incluida la declaración de codificación.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T123409Z" creationid="hcartagena" creationdate="20200729T212235Z">
+        <seg>Con esta opción, el traductor puede especificar si los archivos traducidos deben llevar incluida la declaración de codificación.</seg>
       </tuv>
     </tu>
     <tu>
