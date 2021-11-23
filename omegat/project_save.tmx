@@ -4048,8 +4048,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194951Z" creationid="Antonio" creationdate="20160316T194951Z">
-        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155337Z" creationid="Antonio" creationdate="20160316T194951Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Documento.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -4088,16 +4088,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194933Z" creationid="Antonio" creationdate="20160316T194933Z">
-        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155314Z" creationid="Antonio" creationdate="20160316T194933Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Documento.xx</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194935Z" creationid="Antonio" creationdate="20160316T194935Z">
-        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155318Z" creationid="Antonio" creationdate="20160316T194935Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Documento.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -15572,8 +15572,8 @@ que introducir la ruta completa.)</seg>
       <tuv lang="en">
         <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T155043Z" creationid="Antonio" creationdate="20160316T194923Z">
-        <seg>Por ejemplo, si el archivo original tiene el nombre Document.xx.docx, las siguientes variables darían los siguientes resultados:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155309Z" creationid="Antonio" creationdate="20160316T194923Z">
+        <seg>Por ejemplo, si el archivo original tiene el nombre Documento.xx.docx, las siguientes variables darían los siguientes resultados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27153,8 +27153,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Segmentation Setup</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151120T165356Z" creationid="hcartagena" creationdate="20151120T165356Z">
-        <seg>Configuración de segmentación</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155346Z" creationid="hcartagena" creationdate="20151120T165356Z">
+        <seg>Configuración de la segmentación</seg>
       </tuv>
     </tu>
     <tu>
@@ -34248,6 +34248,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T172414Z" creationid="Antonio" creationdate="20151127T172414Z">
         <seg>La carpeta de memorias de traducción {0} no existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155437Z" creationid="Mari" creationdate="20211123T155437Z">
+        <seg>Las herramientas de la memoria de traducción trabajan con unidades textuales denominadas segmentos.</seg>
       </tuv>
     </tu>
     <tu>
