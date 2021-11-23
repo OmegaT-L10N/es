@@ -4112,24 +4112,24 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194255Z" creationid="Antonio" creationdate="20160316T194255Z">
-        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - nombre del servidor del sistema</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154635Z" creationid="Antonio" creationdate="20160316T194255Z">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt;: nombre de host del sistema</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194226Z" creationid="Antonio" creationdate="20160316T194226Z">
-        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - sitema operativo de la computadora utilizada</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154556Z" creationid="Antonio" creationdate="20160316T194226Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt;: sitema operativo del equipo utilizado</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194240Z" creationid="Antonio" creationdate="20160316T194240Z">
-        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - nombre de usuario del sistema</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154613Z" creationid="Antonio" creationdate="20160316T194240Z">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt;: nombre de usuario del sistema</seg>
       </tuv>
     </tu>
     <tu>
