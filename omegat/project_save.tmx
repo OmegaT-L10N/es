@@ -3798,6 +3798,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T123031Z" creationid="Mari" creationdate="20211123T123031Z">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: si está marcada, el "espacio en blanco" (espacios y saltos de línea) se conservará, aunque esta opción no esté definida en el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T120034Z" creationid="Mari" creationdate="20211123T120034Z">
