@@ -11825,8 +11825,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>Edit filter dialog</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T185117Z" creationid="Antonio" creationdate="20160316T185117Z">
-        <seg>**Diálogo Editar filtro</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T145046Z" creationid="Antonio" creationdate="20160316T185117Z">
+        <seg>Diálogo Editar filtro</seg>
       </tuv>
     </tu>
     <tu>
