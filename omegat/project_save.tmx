@@ -15730,8 +15730,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T191606Z" creationid="Antonio" creationdate="20160316T191606Z">
-        <seg>**Si encuentra el filtro adecuado, ese archivo se le asigna para realizar su procesamiento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T150112Z" creationid="Antonio" creationdate="20160316T191606Z">
+        <seg>Si encuentra el filtro adecuado, ese archivo se le asigna para su procesamiento.</seg>
       </tuv>
     </tu>
     <tu>
