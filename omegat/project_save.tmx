@@ -22019,6 +22019,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152356Z" creationid="Mari" creationdate="20211123T152356Z">
+        <seg>OmegaT identifica la codificación del archivo original utilizando su declaración de codificación, si existe (archivos HTML, archivos basados en XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T151606Z" creationid="Antonio" creationdate="20160126T151606Z">
