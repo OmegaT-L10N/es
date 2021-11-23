@@ -8045,8 +8045,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T192603Z" creationid="Antonio" creationdate="20160316T192603Z">
-        <seg>**De forma predeterminada, la codificación del archivo traducido, es la misma que la codificación del archivo fuente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152104Z" creationid="Antonio" creationdate="20160316T192603Z">
+        <seg>De forma predeterminada, la codificación del archivo traducido es la misma que la codificación del archivo original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31796,6 +31796,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T212408Z" creationid="Antonio" creationdate="20160329T212408Z">
         <seg>Los atajos &lt;k2&gt;Ctrl+A&lt;/k2&gt; y &lt;k3&gt;Ctrl+C&lt;/k3&gt; actúan en el interior de los paneles, permitiendo copiar toda o parte de la información al portapapeles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T152212Z" creationid="Mari" creationdate="20211123T152212Z">
+        <seg>Los campos de codificación del archivo original y del traducido utilizan menús despegables que contienen todas las codificaciones compatibles.</seg>
       </tuv>
     </tu>
     <tu>
