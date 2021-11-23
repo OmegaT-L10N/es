@@ -37221,8 +37221,8 @@ mediante el programa de instalación (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T144312Z" creationid="Antonio" creationdate="20160316T144312Z">
-        <seg>Usted puede seleccionar los elementos que deben importarse.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T122116Z" creationid="Antonio" creationdate="20160316T144312Z">
+        <seg>Puede seleccionar los elementos que deben traducirse.</seg>
       </tuv>
     </tu>
     <tu>
