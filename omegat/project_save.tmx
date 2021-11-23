@@ -29725,8 +29725,8 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
       <tuv lang="en">
         <seg>Text in source segments that matches is shown in italics.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T211304Z" creationid="hcartagena" creationdate="20200729T211304Z">
-        <seg>El texto de los segmentos de origen que concuerdan se muestran en cursiva.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T120249Z" creationid="hcartagena" creationdate="20200729T211304Z">
+        <seg>El texto de los segmentos originales que coincide se muestra en cursiva.</seg>
       </tuv>
     </tu>
     <tu>
