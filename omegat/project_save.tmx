@@ -3136,8 +3136,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T144449Z" creationid="Antonio" creationdate="20160316T144449Z">
-        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comentarios, nombres de hojas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T122540Z" creationid="Antonio" creationdate="20160316T144449Z">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comentarios, nombres de hoja</seg>
       </tuv>
     </tu>
     <tu>
@@ -3248,8 +3248,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T145308Z" creationid="Antonio" creationdate="20160316T145308Z">
-        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: comentarios de diapositivas, páginas maestras, diseño de las diapositivas</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T122645Z" creationid="Antonio" creationdate="20160316T145308Z">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: comentarios de diapositivas, patrones de diapositivas, diseños de diapositivas</seg>
       </tuv>
     </tu>
     <tu>
