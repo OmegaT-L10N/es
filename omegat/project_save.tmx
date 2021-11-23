@@ -30144,8 +30144,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T211100Z" creationid="hcartagena" creationdate="20200729T211100Z">
-        <seg>El encabezado del archivo PO se omitirá y se dejará sin cambios, si está marcada esta opción.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T114627Z" creationid="hcartagena" creationdate="20200729T211100Z">
+        <seg>El encabezado del archivo PO se omitirá y se dejará sin cambios si está marcada esta opción.</seg>
       </tuv>
     </tu>
     <tu>
