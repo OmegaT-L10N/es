@@ -4176,8 +4176,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194038Z" creationid="Antonio" creationdate="20160316T194038Z">
-        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – la fecha y hora del sistema en el momento de generarlo, según diversos patrones</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154444Z" creationid="Antonio" creationdate="20160316T194038Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; : la fecha y hora del sistema en el momento de generarlo, según diversos patrones</seg>
       </tuv>
     </tu>
     <tu>
