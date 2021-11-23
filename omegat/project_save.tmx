@@ -16627,6 +16627,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T155942Z" creationid="Mari" creationdate="20211123T155942Z">
+        <seg>Para elegir el tipo de segmentación, seleccione &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Propiedades...&lt;/g2&gt; &lt;/m0&gt; en el menú principal y marque o desmarque la casilla proporcionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In particular, the main user manual is likely to take around two weeks to translate, and several translators may wish to share the work.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170921T174909Z" creationid="Cristina" creationdate="20170921T174909Z">
