@@ -33406,6 +33406,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;g0&gt;Edit&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T145241Z" creationid="Mari" creationdate="20211123T145241Z">
+        <seg>Para modificar un patrón de filtro de archivo, puede modificar directamente los campos o hacer clic en &lt;g0&gt;Editar&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T142548Z" creationid="Antonio" creationdate="20160128T142548Z">
