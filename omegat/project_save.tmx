@@ -4104,8 +4104,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T193747Z" creationid="Antonio" creationdate="20160316T193747Z">
-        <seg>**&lt;c0&gt;${nameOnly}&lt;/c0&gt; le permite insertar solamente el nombre del archivo de origen sin la extensión.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T153823Z" creationid="Antonio" creationdate="20160316T193747Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; le permite insertar solamente el nombre del archivo original sin la extensión.</seg>
       </tuv>
     </tu>
     <tu>
