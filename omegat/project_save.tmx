@@ -28353,8 +28353,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Source file type, filename pattern</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T191424Z" creationid="Antonio" creationdate="20160316T191424Z">
-        <seg>Tipo de archivo de origen, patrón del nombre de archivo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T145515Z" creationid="Antonio" creationdate="20160316T191424Z">
+        <seg>Tipo de archivo original, patrón del nombre de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -36146,6 +36146,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T190137Z" creationid="Antonio" creationdate="20151210T190137Z">
         <seg>Todas las incoherencias, omisiones y errores claros que pueda encontrar en la presente versión, son todos mios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When OmegaT encounters a file in its &lt;f0&gt;source&lt;/f0&gt; folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T145638Z" creationid="Mari" creationdate="20211123T145638Z">
+        <seg>Cuando OmegaT encuentra un archivo en su carpeta &lt;f0&gt;source&lt;/f0&gt;, trata de seleccionar el filtro en función de la extensión del archivo.</seg>
       </tuv>
     </tu>
     <tu>
