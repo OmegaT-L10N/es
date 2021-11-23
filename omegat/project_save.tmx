@@ -4064,16 +4064,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194309Z" creationid="Antonio" creationdate="20160316T194309Z">
-        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - codificación del archivo de origen</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154651Z" creationid="Antonio" creationdate="20160316T194309Z">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt;: codificación del archivo original</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194325Z" creationid="Antonio" creationdate="20160316T194325Z">
-        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - codificación del archivo de destino</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154706Z" creationid="Antonio" creationdate="20160316T194325Z">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt;: codificación del archivo traducido</seg>
       </tuv>
     </tu>
     <tu>
@@ -4160,8 +4160,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T194410Z" creationid="Antonio" creationdate="20160316T194357Z">
-        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - idioma de destino en formato de Microsoft </seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T154739Z" creationid="Antonio" creationdate="20160316T194357Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt;: configuración regional de Microsoft </seg>
       </tuv>
     </tu>
     <tu>
