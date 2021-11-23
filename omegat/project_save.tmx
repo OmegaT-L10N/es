@@ -28383,6 +28383,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e3&gt;Searches&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211123T150818Z" creationid="Mari" creationdate="20211123T150818Z">
+        <seg>Los patrones de nombres de archivo original utilizan caracteres comodín similares a los utilizados en las &lt;e3&gt;Búsquedas&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T233656Z" creationid="hcartagena" creationdate="20180604T233656Z">
