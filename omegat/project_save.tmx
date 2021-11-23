@@ -27905,8 +27905,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Skip PO header</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T134920Z" creationid="Antonio" creationdate="20160316T134920Z">
-        <seg>Saltar encabezado de archivo PO</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T114542Z" creationid="Antonio" creationdate="20160316T134920Z">
+        <seg>Omitir encabezado de archivo PO</seg>
       </tuv>
     </tu>
     <tu>
