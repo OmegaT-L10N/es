@@ -29515,8 +29515,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160128T143214Z" creationid="Antonio" creationdate="20160128T143214Z">
-        <seg>Técnicamente, el segmento &lt;c0&gt;msgstr&lt;/c0&gt; del archivo de destino PO, si se crea, se dejará vacío.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211123T114355Z" creationid="Antonio" creationdate="20160128T143214Z">
+        <seg>Técnicamente, el segmento &lt;c0&gt;msgstr&lt;/c0&gt; del archivo PO traducido, si se crea, se dejará vacío.</seg>
       </tuv>
     </tu>
     <tu>
