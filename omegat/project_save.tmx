@@ -13752,6 +13752,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T114626Z" creationid="Mari" creationdate="20211124T114626Z">
+        <seg>Por ejemplo, los archivos de texto se pueden segmentar en los saltos de línea, líneas en blanco o no segmentarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T191537Z" creationid="Antonio" creationdate="20160316T191537Z">
