@@ -13680,6 +13680,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T120653Z" creationid="Mari" creationdate="20211124T120653Z">
+        <seg>Por ejemplo, la frase "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T140926Z" creationid="nenyavie" creationdate="20200225T140926Z">
@@ -27675,6 +27683,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T115051Z" creationid="Mari" creationdate="20211124T115051Z">
         <seg>Segmentación a nivel de frase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T120550Z" creationid="Mari" creationdate="20211124T120550Z">
+        <seg>Separa el texto original en segmentos.</seg>
       </tuv>
     </tu>
     <tu>
