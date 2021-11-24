@@ -13334,6 +13334,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T114852Z" creationid="Mari" creationdate="20211124T114852Z">
+        <seg>Los archivos con formato (documentos ODF, documentos HTML, etc.) se segmentan en función de las etiquetas a nivel de bloque (párrafo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170826T114135Z" creationid="Cristina" creationdate="20170826T114135Z">
