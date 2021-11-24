@@ -10597,6 +10597,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T113214Z" creationid="Mari" creationdate="20211124T113214Z">
+        <seg>Ya existen reglas de segmentación fiables para muchos idiomas, así que es probable que no tenga que escribir sus propias reglas de segmentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T171543Z" creationid="eumeu" creationdate="20181115T215327Z">
