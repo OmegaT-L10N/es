@@ -31760,6 +31760,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T122123Z" creationid="Mari" creationdate="20211124T122123Z">
+        <seg>Las reglas de interrupción predefinidas deberían ser suficientes para la mayoría de los idiomas europeos y el japonés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T151736Z" creationid="Antonio" creationdate="20160126T151736Z">
