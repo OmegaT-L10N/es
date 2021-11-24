@@ -8861,8 +8861,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T193808Z" creationid="Mari" creationdate="20211124T193808Z">
-        <seg>Haga clic en &lt;g0&gt;Autotexto...&lt;/g0&gt; para configurar las opciones de autotexo o añadir o eliminar entradas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T194109Z" creationid="Mari" creationdate="20211124T193808Z">
+        <seg>Haga clic en &lt;g0&gt;Autotexto...&lt;/g0&gt; para configurar las opciones de autotexo y añadir o eliminar entradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12398,8 +12398,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T113935Z" creationid="Antonio" creationdate="20151127T081847Z">
-        <seg>Términos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T194010Z" creationid="Antonio" creationdate="20151127T081847Z">
+        <seg>Entradas</seg>
       </tuv>
     </tu>
     <tu>
