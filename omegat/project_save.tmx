@@ -17508,6 +17508,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Intention</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192100Z" creationid="Mari" creationdate="20211124T192100Z">
+        <seg>Propósito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Interface to Google Translate</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171003T170425Z" creationid="Cristina" creationdate="20170812T155605Z">
