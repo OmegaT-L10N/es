@@ -33710,6 +33710,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T191310Z" creationid="Mari" creationdate="20211124T191310Z">
+        <seg>Para verificar su sintaxis y utilidad, es aconsejable utilizar herramientas que le permitan ver el resultado directamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T173324Z" creationid="Cristina" creationdate="20170822T184527Z">
