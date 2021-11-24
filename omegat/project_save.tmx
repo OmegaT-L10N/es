@@ -6601,6 +6601,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T190254Z" creationid="Mari" creationdate="20211124T190254Z">
+        <seg>Aparecerá una línea vacía en la parte inferior de la tabla superior (probablemente tenga que desplazarse hacia abajo para verla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T173656Z" creationid="Antonio" creationdate="20151127T173656Z">
