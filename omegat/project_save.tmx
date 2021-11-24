@@ -12697,6 +12697,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T121120Z" creationid="Mari" creationdate="20211124T121120Z">
+        <seg>Regla de excepción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T230625Z" creationid="hcartagena" creationdate="20151119T230554Z">
@@ -43186,6 +43194,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155130Z" creationid="Antonio" creationdate="20151128T155130Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T121215Z" creationid="Mari" creationdate="20211124T121215Z">
+        <seg>especifica qué partes del texto NO se deben separar.</seg>
       </tuv>
     </tu>
     <tu>
