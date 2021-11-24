@@ -109,6 +109,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192403Z" creationid="Mari" creationdate="20211124T192403Z">
+        <seg>"\s" indica cualquier carácter de espacio en blanco (espacio, tabulación, nueva página, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>me salió en un glosario y me parece mejor que "coincidencias parciales"</note>
       <tuv lang="en">
         <seg>"fuzzy matches".</seg>
@@ -11289,6 +11297,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T210400Z" creationid="hcartagena" creationdate="20151124T233447Z">
         <seg>No permitir la creación de documentos traducidos con problemas de et&amp;iquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not segment after Mr.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192425Z" creationid="Mari" creationdate="20211124T192425Z">
+        <seg>No segmentar después de Mr.</seg>
       </tuv>
     </tu>
     <tu>
