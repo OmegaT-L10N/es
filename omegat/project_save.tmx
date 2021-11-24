@@ -22495,6 +22495,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T114154Z" creationid="Mari" creationdate="20211124T114154Z">
+        <seg>OmegaT utiliza la siguiente secuencia de pasos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T180025Z" creationid="Antonio" creationdate="20151127T180025Z">
