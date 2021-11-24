@@ -7392,8 +7392,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Auto-completer is launched within the target segment via &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt; shortcut.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T194942Z" creationid="Mari" creationdate="20211124T194942Z">
-        <seg>La opción de autocompletar se inicia en el segmento traducido con el acceso directo &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Espacio&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T195246Z" creationid="Mari" creationdate="20211124T194942Z">
+        <seg>La función de autocompletar se activa en el segmento traducido con el acceso directo &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Espacio&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22335,6 +22335,14 @@ la carpeta Aplicaciones.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T112847Z" creationid="Mari" creationdate="20211115T112847Z">
         <seg>Los archivos de glosario de OmegaT son simples listas de tres columnas de texto sin formato con el término de origen en la primera columna, un término de destino opcional en la segunda columna y un comentario opcional en la tercera columna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T195438Z" creationid="Mari" creationdate="20211124T195438Z">
+        <seg>OmegaT tiene un corrector ortográfico integrado basado en el &lt;l0&gt;corrector ortográdico&lt;/l0&gt; que se utiliza en Apache OpenOffice, LibreOffice, Firefox y Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
