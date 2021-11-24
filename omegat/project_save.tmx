@@ -27188,6 +27188,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T191612Z" creationid="Mari" creationdate="20211124T191612Z">
+        <seg>Consulte &lt;l2&gt;Expresiones regulares&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T154538Z" creationid="Antonio" creationdate="20160316T194143Z">
