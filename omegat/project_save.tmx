@@ -12809,6 +12809,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception rule - see the use of ?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T193012Z" creationid="Mari" creationdate="20211124T193012Z">
+        <seg>Regla de excepción. Consulte el uso de ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T230625Z" creationid="hcartagena" creationdate="20151119T230554Z">
@@ -41127,6 +41135,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222557Z" creationid="hcartagena" creationdate="20151201T222557Z">
         <seg>importantes en los archivos originales (y en los archivos traducidos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in regular expressions</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T193021Z" creationid="Mari" creationdate="20211124T193021Z">
+        <seg>en las expresiones regulares</seg>
       </tuv>
     </tu>
     <tu>
