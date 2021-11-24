@@ -6371,8 +6371,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T122744Z" creationid="Mari" creationdate="20211124T122744Z">
-        <seg>Todos los conjuntos de reglas de segmentación que coinciden con un patrón lingüístico están activados y se aplican en el orden de prioridad determinado, por lo tanto las reglas para el idioma específico deben tener prioridad frente a las reglas predeterminadas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T190342Z" creationid="Mari" creationdate="20211124T122744Z">
+        <seg>Todos los conjuntos de reglas de segmentación que coinciden con un patrón de idioma están activados y se aplican en el orden de prioridad determinado, por lo tanto las reglas para el idioma específico deben tener prioridad frente a las reglas predeterminadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8311,6 +8311,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T235226Z" creationid="Antonio" creationdate="20151127T075148Z">
         <seg>Fecha de modificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T190334Z" creationid="Mari" creationdate="20211124T190334Z">
+        <seg>Cambie el nombre del conjunto de reglas y el patrón de idioma.</seg>
       </tuv>
     </tu>
     <tu>
