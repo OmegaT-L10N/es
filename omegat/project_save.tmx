@@ -6169,6 +6169,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192133Z" creationid="Mari" creationdate="20211124T192133Z">
+        <seg>Después</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T090135Z" creationid="Antonio" creationdate="20160125T085931Z">
@@ -27955,6 +27963,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T203220Z" creationid="hcartagena" creationdate="20151116T203220Z">
         <seg>Establecer traducción vacía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192245Z" creationid="Mari" creationdate="20211124T192245Z">
+        <seg>Establezca el inicio del segmento después de un punto ('.') seguido de un espacio, tabulación...</seg>
       </tuv>
     </tu>
     <tu>
