@@ -16787,6 +16787,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T121612Z" creationid="Mari" creationdate="20211124T121612Z">
+        <seg>A pesar del punto, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; no se debe separar en dos segmentos, por lo que se debe establecer una regla de excepción para Mrs (Mr, Dr, Prof, etc.) seguido por un punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T185802Z" creationid="eumeu" creationdate="20181115T234848Z">
