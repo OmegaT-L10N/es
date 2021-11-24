@@ -16084,6 +16084,14 @@ configuración para que muestre la extensión de los archivos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T113959Z" creationid="Mari" creationdate="20211124T113959Z">
+        <seg>Si cambia las opciones de segmentación cuando un proyecto está abierto, tendrá que volver a cargar el proyecto para que los cambios surtan efecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you discontinue before completing the translation, please do create the tmx files for the you have done and upload them to the translation memory repository.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171012T120501Z" creationid="Cristina" creationdate="20170924T163606Z">
