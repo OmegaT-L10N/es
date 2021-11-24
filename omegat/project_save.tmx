@@ -7390,6 +7390,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completer is launched within the target segment via &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T194942Z" creationid="Mari" creationdate="20211124T194942Z">
+        <seg>La opción de autocompletar se inicia en el segmento traducido con el acceso directo &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Espacio&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T193333Z" creationid="Mari" creationdate="20211124T193333Z">
@@ -8869,8 +8877,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T194606Z" creationid="Mari" creationdate="20211124T194606Z">
-        <seg>Haga clic en &lt;g0&gt;Tabla de caracteres...&lt;/g0&gt; para configurar las opciones de autocompletar de la tabla de caracteres.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T194709Z" creationid="Mari" creationdate="20211124T194606Z">
+        <seg>Haga clic en &lt;g0&gt;Tabla de caracteres...&lt;/g0&gt; para configurar las opciones de autocompletar relativas a la tabla de caracteres.</seg>
       </tuv>
     </tu>
     <tu>
