@@ -19666,6 +19666,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T184927Z" creationid="Mari" creationdate="20211124T184927Z">
+        <seg>En general, se debe evitar hacer grandes cambios en las reglas de segmentación, sobre todo tras completar el primer borrador de la traducción. Sin embargo, puede ser útil hacer pequeños cambios como añadir una abreviatura reconocida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T164113Z" creationid="Antonio" creationdate="20160330T164113Z">
