@@ -16763,6 +16763,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T190153Z" creationid="Mari" creationdate="20211124T190153Z">
+        <seg>Para crear un conjunto de reglas vacío para un nuevo patrón de idioma, haga clic en &lt;e0&gt;Añadir &lt;/e0&gt; en la mitad superior del cuadro de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T185250Z" creationid="Mari" creationdate="20211124T185250Z">
