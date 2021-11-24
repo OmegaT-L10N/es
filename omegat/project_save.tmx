@@ -16488,6 +16488,14 @@ iniciar OmegaT con:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T190810Z" creationid="Mari" creationdate="20211124T190810Z">
+        <seg>Si el conjunto de reglas gestiona un par idioma-país, le aconsejamos que lo mueva a la parte superior utilizando el botón &lt;e1&gt;Move Up&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your source files are formatted files, e.g. Microsoft Word,</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222455Z" creationid="hcartagena" creationdate="20151201T222455Z">
@@ -32276,6 +32284,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T161019Z" creationid="eumeu" creationdate="20181116T131603Z">
         <seg>La barra de estado visualiza mensajes relacionados con el flujo de trabajo en la parte inferior de la ventana principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T190644Z" creationid="Mari" creationdate="20211124T190644Z">
+        <seg>La sintaxis del patrón de idioma se ajusta a la sintaxis de las expresiones regulares.</seg>
       </tuv>
     </tu>
     <tu>
