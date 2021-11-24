@@ -7390,6 +7390,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T193333Z" creationid="Mari" creationdate="20211124T193333Z">
+        <seg>[fuzzy]Autocompletar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T105650Z" creationid="Helli" creationdate="20150526T142818Z">
@@ -8847,6 +8855,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T152635Z" creationid="hcartagena" creationdate="20151124T235941Z">
         <seg>Haga clic en el elemento de menú "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T193457Z" creationid="Mari" creationdate="20211124T193457Z">
+        <seg>Haga clic en &lt;g0&gt;Glosario...&lt;/g0&gt; para configurar la vista del glosario para autocompletar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33920,8 +33936,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T193152Z" creationid="Mari" creationdate="20211115T111632Z">
-        <seg>Para mostrar el menú contextual &lt;g0&gt;Autocompletado&lt;/g0&gt; de las coincidencias del glosario, pulse la tecla dependiendo del sistema operativo (&lt;k1&gt;Escape&lt;/k1&gt; para macOS, &lt;k2&gt;Ctrl+Espacio&lt;/k2&gt; para otras plataformas).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T193301Z" creationid="Mari" creationdate="20211115T111632Z">
+        <seg>Para mostrar el menú contextual &lt;g0&gt;Autocompletar&lt;/g0&gt; de las coincidencias del glosario, pulse la tecla dependiendo del sistema operativo (&lt;k1&gt;Escape&lt;/k1&gt; para macOS, &lt;k2&gt;Ctrl+Espacio&lt;/k2&gt; para otras plataformas).</seg>
       </tuv>
     </tu>
     <tu>
