@@ -21971,6 +21971,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T114337Z" creationid="Mari" creationdate="20211124T114337Z">
+        <seg>OmegaT primero analiza el texto para una segmentación a nivel de estructura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T174802Z" creationid="Cristina" creationdate="20170917T165557Z">
@@ -28949,6 +28957,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T174105Z" creationid="Cristina" creationdate="20170916T174105Z">
         <seg>Stripper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Structure level segmentation</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T114225Z" creationid="Mari" creationdate="20211124T114225Z">
+        <seg>Segmentación a nivel de estructura</seg>
       </tuv>
     </tu>
     <tu>
