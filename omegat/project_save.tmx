@@ -23412,6 +23412,14 @@ cual bruma se disipa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T112808Z" creationid="Mari" creationdate="20211124T112808Z">
+        <seg>La segmentación por párrafos es útil en algunos casos, por ejemplo en traducciones muy estilísticas o creativas en las que el traductor prefiere cambiar el orden de frases completas. Sin embargo, la segmentación por frases es la opción preferible en la mayoría de los proyectos, ya que ofrece mejores coincidencias con las traducciones anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185112Z" creationid="Antonio" creationdate="20151210T185112Z">
