@@ -7819,6 +7819,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T120521Z" creationid="Mari" creationdate="20211124T120521Z">
+        <seg>Regla de interrupción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T144846Z" creationid="hcartagena" creationdate="20151120T144846Z">
@@ -32268,6 +32276,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T141758Z" creationid="Cristina" creationdate="20170918T192531Z">
         <seg>La labor de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T120514Z" creationid="Mari" creationdate="20211124T120514Z">
+        <seg>Los dos tipos de regla se comportan de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
