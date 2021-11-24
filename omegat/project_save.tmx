@@ -33614,6 +33614,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T120953Z" creationid="Mari" creationdate="20211124T120953Z">
+        <seg>Para definir una regla de interrupción, marque la casilla Interrupción/Excepción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T111632Z" creationid="Mari" creationdate="20211115T111632Z">
