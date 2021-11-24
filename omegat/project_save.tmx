@@ -7166,6 +7166,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T115906Z" creationid="Mari" creationdate="20211124T115239Z">
+        <seg>En cada posición del cursor se aplican reglas, que consisten en un patrón &lt;e0&gt;Antes &lt;/e0&gt;y &lt;e1&gt;Después &lt;/e1&gt;, en un orden determinado para verificar si alguno de los patrones de &lt;e2&gt; Antes&lt;/e2&gt; es válido para el texto de la izquierda y el correspondiente patrón &lt;e3&gt;Después&lt;/e3&gt; para el texto a la derecha del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223234Z" creationid="hcartagena" creationdate="20151201T223234Z">
