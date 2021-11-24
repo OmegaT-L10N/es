@@ -14008,6 +14008,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T120805Z" creationid="Mari" creationdate="20211124T120805Z">
+        <seg>Para que esto ocurra, debe haber una regla de interrupción para "?", cuando vaya seguida de espacios y una palabra que empiece con mayúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T180209Z" creationid="Antonio" creationdate="20151127T180209Z">
@@ -15386,6 +15394,14 @@ es que su invierno ha llegado</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T181059Z" creationid="hcartagena" creationdate="20180605T181059Z">
         <seg>Comprendo, hacerlo de todas maneras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T120713Z" creationid="Mari" creationdate="20211124T120713Z">
+        <seg>I was not sure&lt;/e0&gt;." debería separarse en dos segmentos.</seg>
       </tuv>
     </tu>
     <tu>
