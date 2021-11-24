@@ -13810,8 +13810,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T122855Z" creationid="Mari" creationdate="20211124T122855Z">
-        <seg>Por ejemplo, las reglas del francés canadiense (FR-CA) deben ser superiores a las reglas para el francés (FR.*) y superiores a las predeterminadas (.*).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T123150Z" creationid="Mari" creationdate="20211124T122855Z">
+        <seg>Por ejemplo, las reglas para el francés canadiense (FR-CA) deben ser superiores a las reglas para el francés (FR.*) y superiores a las predeterminadas (.*).</seg>
       </tuv>
     </tu>
     <tu>
