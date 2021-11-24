@@ -8317,8 +8317,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T190334Z" creationid="Mari" creationdate="20211124T190334Z">
-        <seg>Cambie el nombre del conjunto de reglas y el patrón de idioma.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T190620Z" creationid="Mari" creationdate="20211124T190334Z">
+        <seg>Cambie el nombre del conjunto de reglas y del patrón de idioma al idioma en cuestión y su código de idioma.</seg>
       </tuv>
     </tu>
     <tu>
