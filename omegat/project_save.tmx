@@ -16763,6 +16763,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T185250Z" creationid="Mari" creationdate="20211124T185250Z">
+        <seg>Para editar o ampliar un conjunto de reglas existente, solo tiene que hacer clic sobre este en la tabla superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231413Z" creationid="Cristina" creationdate="20170916T151739Z">
