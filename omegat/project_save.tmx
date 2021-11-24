@@ -6057,6 +6057,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T191143Z" creationid="Mari" creationdate="20211124T191047Z">
+        <seg>Añada los patrones &lt;e0&gt;Antes&lt;/e0&gt; y&lt;e1&gt; Después&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211019T144724Z" creationid="hcartagena" creationdate="20151119T185652Z">
@@ -7663,6 +7671,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T082920Z" creationid="Antonio" creationdate="20151128T082920Z">
         <seg>Euskera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T191054Z" creationid="Mari" creationdate="20211124T191054Z">
+        <seg>[fuzzy]Antes</seg>
       </tuv>
     </tu>
     <tu>
