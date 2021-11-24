@@ -101,6 +101,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192326Z" creationid="Mari" creationdate="20211124T192326Z">
+        <seg>"\." indica el carácter del punto.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>me salió en un glosario y me parece mejor que "coincidencias parciales"</note>
       <tuv lang="en">
         <seg>"fuzzy matches".</seg>
