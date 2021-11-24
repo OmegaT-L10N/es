@@ -5457,10 +5457,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A few simple examples</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T191722Z" creationid="Mari" creationdate="20211124T191722Z">
+        <seg>Algunos ejemplos sencillos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T154001Z" creationid="Mari" creationdate="20211111T154001Z">
         <seg>Un proyecto determinado puede tener cualquier número de glosarios de referencia, pero solo se podrá editar directamente desde la interfaz de usuario de OmegaT el glosario predeterminado del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A good starting point will always be the existing rules.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T191701Z" creationid="Mari" creationdate="20211124T191701Z">
+        <seg>Un buen punto de partida son siempre las reglas existentes.</seg>
       </tuv>
     </tu>
     <tu>
