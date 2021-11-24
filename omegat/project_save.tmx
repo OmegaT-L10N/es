@@ -6169,6 +6169,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After segmenting the source file into structural units, OmegaT will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T115147Z" creationid="Mari" creationdate="20211124T115147Z">
+        <seg>Después de segmentar el archivo original en unidades estructurales, OmegaT segmentará más estos bloques en frases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222117Z" creationid="hcartagena" creationdate="20151201T222117Z">
@@ -27627,6 +27635,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170918T185830Z" creationid="Cristina" creationdate="20170918T185830Z">
         <seg>Curso de formación para seguir a su ritmo, en inglés (de pago)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence level segmentation</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T115051Z" creationid="Mari" creationdate="20211124T115051Z">
+        <seg>Segmentación a nivel de frase</seg>
       </tuv>
     </tu>
     <tu>
