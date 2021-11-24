@@ -20823,6 +20823,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mr\.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192443Z" creationid="Mari" creationdate="20211124T192443Z">
+        <seg>Mr\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T224926Z" creationid="Antonio" creationdate="20151127T173914Z">
@@ -27983,6 +27991,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192759Z" creationid="Mari" creationdate="20211124T192759Z">
+        <seg>Establecer un segmento después de "。" (punto japonés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T203220Z" creationid="hcartagena" creationdate="20151116T203220Z">
@@ -33040,6 +33056,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T231355Z" creationid="Antonio" creationdate="20151127T164023Z">
         <seg>Esta URL parece no ser válida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T192520Z" creationid="Mari" creationdate="20211124T192520Z">
+        <seg>Esta es una regla de excepción, por lo tanto la casilla debe estar desmarcada</seg>
       </tuv>
     </tu>
     <tu>
