@@ -22703,6 +22703,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T113524Z" creationid="Mari" creationdate="20211124T113524Z">
+        <seg>Por otro lado, esta función puede ser muy útil en casos concretos, en los que es posible aumentar la productividad ajustando las reglas de segmentación al texto que se va a traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001855Z" creationid="hcartagena" creationdate="20200730T001855Z">
