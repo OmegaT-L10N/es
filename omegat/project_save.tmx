@@ -15746,6 +15746,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T195231Z" creationid="Mari" creationdate="20211124T195231Z">
+        <seg>Si la opción &lt;e0&gt;Mostrar sugerencias pertinentes automáticamente&lt;/e0&gt; está marcada, la función de autocompletar se activa automáticamente al escribir la primera letra de un término traducido del glosario o al escibir "&lt;" en el caso de las etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211024T174617Z" creationid="hcartagena" creationdate="20151119T213923Z">
