@@ -16490,8 +16490,8 @@ iniciar OmegaT con:</seg>
       <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T190810Z" creationid="Mari" creationdate="20211124T190810Z">
-        <seg>Si el conjunto de reglas gestiona un par idioma-país, le aconsejamos que lo mueva a la parte superior utilizando el botón &lt;e1&gt;Move Up&lt;/e1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T190956Z" creationid="Mari" creationdate="20211124T190810Z">
+        <seg>Si el conjunto de reglas gestiona un par idioma-país, le aconsejamos que lo mueva a la parte superior utilizando el botón &lt;e1&gt;Subir&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
