@@ -6369,6 +6369,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T122744Z" creationid="Mari" creationdate="20211124T122744Z">
+        <seg>Todos los conjuntos de reglas de segmentación que coinciden con un patrón lingüístico están activados y se aplican en el orden de prioridad determinado, por lo tanto las reglas para el idioma específico deben tener prioridad frente a las reglas predeterminadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T113141Z" creationid="Helli" creationdate="20150526T121341Z">
@@ -26350,6 +26358,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164457Z" creationid="hcartagena" creationdate="20180605T164457Z">
         <seg>El ID de regla solo puede contener letras latinas, subrayado y puntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rule priority</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T122322Z" creationid="Mari" creationdate="20211124T122322Z">
+        <seg>Prioridad de las reglas</seg>
       </tuv>
     </tu>
     <tu>
