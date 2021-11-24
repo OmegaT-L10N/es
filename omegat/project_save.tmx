@@ -34122,6 +34122,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T115010Z" creationid="Mari" creationdate="20211124T115010Z">
+        <seg>Los atributos del objeto traducibles en archivos XHTML o HTML se pueden extraer como segmentos separados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222130Z" creationid="hcartagena" creationdate="20151201T222130Z">
