@@ -27287,6 +27287,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation rules</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T115154Z" creationid="Mari" creationdate="20211124T115154Z">
+        <seg>Reglas de segmentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T174639Z" creationid="hcartagena" creationdate="20151120T174639Z">
@@ -31716,6 +31724,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T185836Z" creationid="nenyavie" creationdate="20200226T134623Z">
         <seg>Los procedimientos para configurar el acceso a los servicios de Microsoft Translator y Traductor de Google se describen &lt;u0&gt;aquí&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T115235Z" creationid="Mari" creationdate="20211124T115235Z">
+        <seg>El proceso de segmentación puede describirse de la siguiente manera: el cursor se mueve a lo largo del texto, un carácter a la vez.</seg>
       </tuv>
     </tu>
     <tu>
