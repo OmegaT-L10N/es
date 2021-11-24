@@ -32000,6 +32000,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T185951Z" creationid="Mari" creationdate="20211124T185951Z">
+        <seg>Las reglas de ese conjunto aparecerán en la mitad inferior de la ventana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T145346Z" creationid="Antonio" creationdate="20160316T185557Z">
