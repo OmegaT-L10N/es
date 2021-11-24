@@ -16923,6 +16923,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T122313Z" creationid="Mari" creationdate="20211124T122313Z">
+        <seg>Dada su flexibilidad, puede considerar la definición de más reglas de excepción para el idioma del que traduce para obtener segmentos más comprensibles y coherentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T115315Z" creationid="nenyavie" creationdate="20200226T110849Z">
