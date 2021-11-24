@@ -15728,6 +15728,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m3&gt; &lt;g4&gt;Options&lt;/g4&gt; &lt;g5&gt;Segmentation...&lt;/g5&gt; &lt;/m3&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T113020Z" creationid="Mari" creationdate="20211124T113020Z">
+        <seg>Si elige la segmentación por frases, puede configurar las reglas seleccionando &lt;m3&gt; &lt;g4&gt;Opciones&lt;/g4&gt; &lt;g5&gt;Segmentación...&lt;/g5&gt; &lt;/m3&gt;desde el menú principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191209T223702Z" creationid="nenyavie" creationdate="20191209T223702Z">
