@@ -9875,6 +9875,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating a new rule</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211124T184551Z" creationid="Mari" creationdate="20211124T184551Z">
+        <seg>Crear una regla nueva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating a repository</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T213827Z" creationid="Antonio" creationdate="20160124T213827Z">
