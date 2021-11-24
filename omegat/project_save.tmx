@@ -33920,8 +33920,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T111632Z" creationid="Mari" creationdate="20211115T111632Z">
-        <seg>Para mostrar el menú contextual &lt;g0&gt;Autocompletado&lt;/g0&gt; de las coincidencias del glosaio, pulse la tecla dependiendo del sistema operativo (&lt;k1&gt;Escape&lt;/k1&gt; para macOS, &lt;k2&gt;Ctrl+Espacio&lt;/k2&gt; para otras plataformas).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211124T193152Z" creationid="Mari" creationdate="20211115T111632Z">
+        <seg>Para mostrar el menú contextual &lt;g0&gt;Autocompletado&lt;/g0&gt; de las coincidencias del glosario, pulse la tecla dependiendo del sistema operativo (&lt;k1&gt;Escape&lt;/k1&gt; para macOS, &lt;k2&gt;Ctrl+Espacio&lt;/k2&gt; para otras plataformas).</seg>
       </tuv>
     </tu>
     <tu>
