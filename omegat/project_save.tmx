@@ -37775,6 +37775,14 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g6&gt;Enter&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120145Z" creationid="Mari" creationdate="20211125T120145Z">
+        <seg>Se puede lograr lo mismo borrando el segmento traducido y pulsando &lt;g6&gt;Intro&lt;/g6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You already have the latest version.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T113006Z" creationid="nenyavie" creationdate="20200225T113006Z">
