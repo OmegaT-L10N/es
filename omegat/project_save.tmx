@@ -8195,6 +8195,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204226Z" creationid="Mari" creationdate="20211125T204226Z">
+        <seg>De forma predeterminada, OmegaT no ejecuta los comandos especificados en los ajustes específicos del proyecto (el archivo &lt;f0&gt;omegat.project&lt;/f0&gt;, ya que pueden tener un impacto crítco en la seguridad del equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T145154Z" creationid="taty" creationdate="20181205T145154Z">
