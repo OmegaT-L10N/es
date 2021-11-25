@@ -15326,6 +15326,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204709Z" creationid="Mari" creationdate="20211125T204709Z">
+        <seg>Aquí puede redefinir la contraseña maestra utilizada para proteger la información de inicio de sesión y las claves de acceso para los servicios de traducción automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T191447Z" creationid="hcartagena" creationdate="20151117T191447Z">
@@ -27511,6 +27519,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
         <seg>Secure Store</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211110T113314Z" creationid="hcartagena" creationdate="20180605T181408Z">
+        <seg>Almacenamiento seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204547Z" creationid="Mari" creationdate="20211125T204547Z">
         <seg>Almacenamiento seguro</seg>
       </tuv>
     </tu>
