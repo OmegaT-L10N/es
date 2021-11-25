@@ -12460,6 +12460,14 @@ su página de ayuda no encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your name here and it will be attached to all segments translated by you.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T200344Z" creationid="Mari" creationdate="20211125T200344Z">
+        <seg>Escriba aquí su nombre y se adjuntará a todos los segmentos que ha traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T194010Z" creationid="Antonio" creationdate="20151127T081847Z">
