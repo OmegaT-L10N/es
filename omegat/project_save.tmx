@@ -8947,6 +8947,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g1&gt;Defaults&lt;/g1&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205717Z" creationid="Mari" creationdate="20211125T205717Z">
+        <seg>Haga clic en &lt;g1&gt;&gt;Restaurar valores predeterminados&lt;/g1&gt;para restablecer los filtros de archivo a la configuración predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T152635Z" creationid="hcartagena" creationdate="20151124T235941Z">
