@@ -14696,6 +14696,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204853Z" creationid="Mari" creationdate="20211125T204853Z">
+        <seg>Da acceso a la lista de complementos disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T175034Z" creationid="Antonio" creationdate="20151127T175034Z">
@@ -16682,6 +16690,14 @@ es usar Java Web Start.</seg>
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T185223Z" creationid="nenyavie" creationdate="20200226T133525Z">
+        <seg>Al desmarcar esta opción, solo se obtendrán las traducciones automáticas cuando, en el segmento actual, se pulse &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; en OS X).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; (&lt;k3&gt;&lt;k4&gt;Cmd&lt;/k4&gt;&lt;k5&gt;M&lt;/k5&gt;&lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204919Z" creationid="Mari" creationdate="20211125T204919Z">
         <seg>Al desmarcar esta opción, solo se obtendrán las traducciones automáticas cuando, en el segmento actual, se pulse &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; en OS X).</seg>
       </tuv>
     </tu>
@@ -38624,6 +38640,14 @@ de una ventana de Finder para poder iniciarla desde cualquier ubicación.</seg>
         <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T185328Z" creationid="nenyavie" creationdate="20200226T133639Z">
+        <seg>Después se deberá pulsar nuevamente &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; para insertar la sugerencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must then press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204934Z" creationid="Mari" creationdate="20211125T204934Z">
         <seg>Después se deberá pulsar nuevamente &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; para insertar la sugerencia.</seg>
       </tuv>
     </tu>
