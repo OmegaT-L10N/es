@@ -36482,6 +36482,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T114803Z" creationid="Mari" creationdate="20211125T114803Z">
+        <seg>Los valores en torno a 100 muestran comandos en la parte superior, mientras que los valores en torno a 900 los muestran en la parte inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T184120Z" creationid="hcartagena" creationdate="20151119T184026Z">
