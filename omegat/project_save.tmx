@@ -37104,8 +37104,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T194544Z" creationid="Mari" creationdate="20211125T194544Z">
-        <seg>Cuando se traducen archivos relativos a software, puede configurar las opciones del </seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T195105Z" creationid="Mari" creationdate="20211125T194544Z">
+        <seg>Cuando se traducen archivos relativos a software, es posible configurar las opciones de la validación de etiquetas para que también compruebe las variables de programación (%...) o los marcadores de posición ({0}), en el caso de que el filtro de archivos no lo haga automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
