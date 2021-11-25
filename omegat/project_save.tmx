@@ -32648,6 +32648,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text highlighted by the user, when &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; is pressed or &lt;m4&gt;&lt;g5&gt;Edit&lt;/g5&gt;&lt;g6&gt;Export Selection&lt;/g6&gt;&lt;/m4&gt; is selected (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T122509Z" creationid="Mari" creationdate="20211125T122509Z">
+        <seg>El texto resaltado por el usuario al pulsar &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Mayús&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; o al seleccionar &lt;m4&gt;&lt;g5&gt;Editar&lt;/g5&gt;&lt;g6&gt;Exportar selección&lt;/g6&gt;&lt;/m4&gt; (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="Antonio" creationdate="20160126T162331Z">
