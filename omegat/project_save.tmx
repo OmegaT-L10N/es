@@ -12396,6 +12396,14 @@ su página de ayuda no encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables automatic notification of OmegaT updates.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T210357Z" creationid="Mari" creationdate="20211125T210357Z">
+        <seg>Permite la notificación automática de actualizaciones de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T120458Z" creationid="nenyavie" creationdate="20200225T123012Z">
@@ -25295,6 +25303,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T145544Z" creationid="Helli" creationdate="20150526T123707Z">
         <seg>Menú Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T210410Z" creationid="Mari" creationdate="20211125T210410Z">
+        <seg>Propiedades del proyecto</seg>
       </tuv>
     </tu>
     <tu>
