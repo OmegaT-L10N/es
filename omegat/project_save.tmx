@@ -2311,9 +2311,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211007T140421Z" creationid="hcartagena" creationdate="20160331T215139Z">
+      <tuv lang="es" changeid="Mari" changedate="20211125T194552Z" creationid="hcartagena" creationdate="20160331T215139Z">
         <seg>--tag-validation=[abort|warn]
-		Valide etiquetas.</seg>
+		Valide las etiquetas.</seg>
       </tuv>
     </tu>
     <tu>
