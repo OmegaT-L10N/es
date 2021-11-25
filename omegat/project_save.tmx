@@ -8419,6 +8419,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change how fuzzy matches are displayed, through the use of pre-configured variables:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T201703Z" creationid="Mari" creationdate="20211125T201703Z">
+        <seg>Es posible cambiar cómo se muestran las coincidencias proximadas mediante el uso de variables preconfiguradas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T190620Z" creationid="Mari" creationdate="20211124T190334Z">
@@ -20324,8 +20332,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Match display template</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T231126Z" creationid="hcartagena" creationdate="20151124T231126Z">
-        <seg>Coincidir con plantilla de visualización</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T201552Z" creationid="hcartagena" creationdate="20151124T231126Z">
+        <seg>Plantilla de visualización de las coincidencias</seg>
       </tuv>
     </tu>
     <tu>
