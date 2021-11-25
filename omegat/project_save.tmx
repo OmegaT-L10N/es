@@ -42165,6 +42165,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203603Z" creationid="Mari" creationdate="20211125T203603Z">
+        <seg>intervalos largos para proyectos de trabajo en grupo alojados en servidores externos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T153426Z" creationid="Antonio" creationdate="20151130T153426Z">
@@ -43754,6 +43762,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154952Z" creationid="Antonio" creationdate="20151128T154952Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203540Z" creationid="Mari" creationdate="20211125T203540Z">
+        <seg>intervalos cortos (mínimo 10 segundos) para proyectos sincronizados en un servidor interno.</seg>
       </tuv>
     </tu>
     <tu>
