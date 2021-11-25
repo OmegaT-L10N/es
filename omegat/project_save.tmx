@@ -26034,8 +26034,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T165353Z" creationid="Antonio" creationdate="20160126T165353Z">
-        <seg>Quitar toda una etiqueta sigue siendo posible en ese caso, mediante Ctrl + Retroceso/Suprimir o seleccionándola por completo (Ctrl + Mayús + izquierda/derecha) y elimándola a continuación (Supr o Ctrl + X).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T124540Z" creationid="Antonio" creationdate="20160126T165353Z">
+        <seg>En este caso, es posible eliminar una etiqueta entera mediante Ctrl+Retroceso/Suprimir o seleccionándola por completo (Ctrl+Mayús+izquierda/derecha) y eliminándola a continuación (Suprimir o Ctrl+X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35432,8 +35432,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T163945Z" creationid="Antonio" creationdate="20160126T163945Z">
-        <seg>Deseleccione esta opción para evitar cualquier alteración de las etiquetas (por ejemplo, borrado parcial) durante la edición.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T124315Z" creationid="Antonio" creationdate="20160126T163945Z">
+        <seg>Desmarque esta opción para evitar cualquier alteración de las etiquetas (por ejemplo, borrado parcial) durante la edición.</seg>
       </tuv>
     </tu>
     <tu>
