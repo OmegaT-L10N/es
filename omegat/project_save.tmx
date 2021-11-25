@@ -23247,6 +23247,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the &lt;f0&gt;target&lt;/f0&gt; folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205516Z" creationid="Mari" creationdate="20211125T205516Z">
+        <seg>En este caso, OmegaT omitirá los archivos correspondientes al cargar los proyectos y los copiará sin modificaciones en la carpeta &lt;f0&gt;target&lt;/f0&gt; cuando crea los documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T195151Z" creationid="hcartagena" creationdate="20200729T204723Z">
@@ -33132,6 +33140,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T205312Z" creationid="Mari" creationdate="20211125T205312Z">
         <seg>Tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme can also be added as plugins.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205417Z" creationid="Mari" creationdate="20211125T205417Z">
+        <seg>El tema también puede añadirse como complemento.</seg>
       </tuv>
     </tu>
     <tu>
