@@ -6813,6 +6813,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204107Z" creationid="Mari" creationdate="20211125T204107Z">
+        <seg>Un ejemplo de uso de esta función podría ser enviar los documentos traducidos automáticamente al servidor FTP del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An exception occurred while parsing the TMX file
 {0}
 The TMX file will not be loaded.</seg>
@@ -24429,8 +24437,8 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="en">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T222156Z" creationid="hcartagena" creationdate="20151116T222156Z">
-        <seg>Corrija los problemas con las etiquetas antes de volver a usar Crear documentos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203845Z" creationid="hcartagena" creationdate="20151116T222156Z">
+        <seg>Corrija los problemas con las etiquetas antes de volver a utilizar el comando Crear documentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
