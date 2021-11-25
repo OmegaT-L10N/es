@@ -34006,6 +34006,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create one, right-click in a segment, and select &lt;g4&gt;Set empty translation&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T115704Z" creationid="Mari" creationdate="20211125T115704Z">
+        <seg>[fuzzy]Para crear uno, haga clic derecho en un segmento y seleccione "&lt;e2&gt;Establecer traducción vacía&lt;/e2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T105326Z" creationid="Helli" creationdate="20150526T114437Z">
