@@ -16420,6 +16420,14 @@ configuración para que muestre la extensión de los archivos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T193811Z" creationid="Mari" creationdate="20211125T193811Z">
+        <seg>Es posible aumentar este número predefinido si tiene un equipo potente o no le gusta cómo se comporta la barra de desplazamiento durante la carga progresiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already Java installed on your system, one way to install OmegaT is
 to use Java Web Start.</seg>
       </tuv>
