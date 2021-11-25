@@ -6521,6 +6521,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203430Z" creationid="Mari" creationdate="20211125T203430Z">
+        <seg>Permite al usuario seleccionar el intervalo, en minutos y segundos, entre un guardado automático del proyecto y el siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T145123Z" creationid="hcartagena" creationdate="20151124T233837Z">
