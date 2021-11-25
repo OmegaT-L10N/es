@@ -33660,6 +33660,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T115353Z" creationid="Mari" creationdate="20211125T115353Z">
+        <seg>Esta opción le permite introducir la traducción sin la necesidad de eliminar el texto original, lo cual le ahorra un par de pulsaciones de teclado (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; y &lt;k3&gt;Supr&lt;/k3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T124345Z" creationid="nenyavie" creationdate="20200226T124345Z">
