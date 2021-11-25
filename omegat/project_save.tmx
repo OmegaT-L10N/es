@@ -31437,6 +31437,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The entry &lt;g5&gt;Remove translation&lt;/g5&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120031Z" creationid="Mari" creationdate="20211125T120031Z">
+        <seg>La entrada &lt;g5&gt;Eliminar traducción&lt;/g5&gt; del mismo menú emergente permite también eliminar la traducción actual del segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T191931Z" creationid="nenyavie" creationdate="20200225T133606Z">
