@@ -34334,6 +34334,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T201122Z" creationid="Mari" creationdate="20211125T201122Z">
+        <seg>Para obtener coincidencias más literales y cercanas al 100%, seleccione la opción &lt;g0&gt;Texto completo, con etiquetas y números&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171003T173833Z" creationid="Cristina" creationdate="20170924T161046Z">
