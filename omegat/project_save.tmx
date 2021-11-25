@@ -33558,8 +33558,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T105825Z" creationid="Antonio" creationdate="20160126T105825Z">
-        <seg>Esto es útil para textos que contengan muchas marcas registradas u otros nombres propios que debe dejarse sin cambios.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T115108Z" creationid="Antonio" creationdate="20160126T105825Z">
+        <seg>Esto es útil para textos que contengan muchas marcas registradas u otros nombres propios que no deben cambiarse.</seg>
       </tuv>
     </tu>
     <tu>
