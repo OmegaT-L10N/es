@@ -17285,8 +17285,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181206T170325Z" creationid="taty" creationdate="20181205T185925Z">
-        <seg>Indica que esta coincidencia es fuzzy (actualmente solo para traducciónes de archivos PO con la marca #fuzzy)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202748Z" creationid="taty" creationdate="20181205T185925Z">
+        <seg>Indica que esta coincidencia es aproximada (actualmente solo para traducciónes de archivos PO con la marca #fuzzy)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24113,6 +24113,14 @@ cual bruma se disipa</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181116T154937Z" creationid="eumeu" creationdate="20181116T154937Z">
         <seg>Porcentaje ajustado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202712Z" creationid="Mari" creationdate="20211125T202712Z">
+        <seg>Porcentaje, calculado con la opción &lt;g0&gt;Texto completo, con etiquetas y números&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
