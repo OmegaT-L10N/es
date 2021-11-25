@@ -8435,6 +8435,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203500Z" creationid="Mari" creationdate="20211125T203500Z">
+        <seg>Cambie el intervalo predeterminado (3 minutos) en función de las características del proyecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T190620Z" creationid="Mari" creationdate="20211124T190334Z">
