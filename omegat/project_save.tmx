@@ -15954,6 +15954,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205201Z" creationid="Mari" creationdate="20211125T205201Z">
+        <seg>Si un elemento del glosario tiene definiciones alternativas, estas se mostrarán en la misma línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231950Z" creationid="Cristina" creationdate="20170822T183518Z">
@@ -20644,6 +20652,14 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T235103Z" creationid="Antonio" creationdate="20151127T075606Z">
         <seg>Combinar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definition for the same term</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205126Z" creationid="Mari" creationdate="20211125T205126Z">
+        <seg>Unir definiciones alternativas para el mismo término</seg>
       </tuv>
     </tu>
     <tu>
