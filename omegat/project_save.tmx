@@ -28543,6 +28543,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T200104Z" creationid="Mari" creationdate="20211125T200104Z">
+        <seg>Del mismo modo, la expresión &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; le permitirá asegurarse de que las etiquetas HTML, por ejemplo, introducidas en el texto original se conservan sin modificaciones en la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T141746Z" creationid="hcartagena" creationdate="20180605T032823Z">
