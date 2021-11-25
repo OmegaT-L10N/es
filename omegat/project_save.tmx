@@ -32010,8 +32010,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T154352Z" creationid="Antonio" creationdate="20160126T154352Z">
-        <seg>Los números de los segmentos de origen deben ser exactamente los mismos que en las coincidencias de destino.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T121045Z" creationid="Antonio" creationdate="20160126T154352Z">
+        <seg>Los números de los segmentos originales deben ser exactamente los mismos que en las coincidencias de destino.</seg>
       </tuv>
     </tu>
     <tu>
