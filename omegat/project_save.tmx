@@ -19506,6 +19506,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T200534Z" creationid="Mari" creationdate="20211125T200534Z">
+        <seg>Lista de los proyectos para los que la información de inicio de sesión está almacenada en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T002008Z" creationid="hcartagena" creationdate="20200730T002008Z">
