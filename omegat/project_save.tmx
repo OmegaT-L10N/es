@@ -17299,6 +17299,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T125303Z" creationid="Mari" creationdate="20211125T125303Z">
+        <seg>Cargar esta cantidad de segmentos al inicio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initially load this many segments:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T020922Z" creationid="hcartagena" creationdate="20160401T020922Z">
