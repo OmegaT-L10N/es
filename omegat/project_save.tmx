@@ -29507,8 +29507,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T164900Z" creationid="taty" creationdate="20181205T164900Z">
-        <seg>La cadena de texto que muestra las diferencias entre la fuente y la coincidencia.&lt;e0&gt; Sugerencia:&lt;/e0&gt; utilice esta opción si el texto que se está traduciendo ha sido actualizado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202244Z" creationid="taty" creationdate="20181205T164900Z">
+        <seg>Cadena de texto que muestra las diferencias entre el original y la coincidencia.&lt;e0&gt; Sugerencia:&lt;/e0&gt; utilice esta opción si el texto que se está traduciendo ha sido actualizado.</seg>
       </tuv>
     </tu>
     <tu>
