@@ -33066,8 +33066,8 @@ una de ellas te alcanzó</seg>
       <tuv lang="en">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T150512Z" creationid="Antonio" creationdate="20160126T150512Z">
-        <seg>Se muestran como &lt;EMPTY&gt; en el Editor.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T115739Z" creationid="Antonio" creationdate="20160126T150512Z">
+        <seg>Se muestran como &lt;VACÍA&gt; en el Editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34008,8 +34008,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To create one, right-click in a segment, and select &lt;g4&gt;Set empty translation&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T115704Z" creationid="Mari" creationdate="20211125T115704Z">
-        <seg>[fuzzy]Para crear uno, haga clic derecho en un segmento y seleccione "&lt;e2&gt;Establecer traducción vacía&lt;/e2&gt;".</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T115910Z" creationid="Mari" creationdate="20211125T115704Z">
+        <seg>Para crear una, haga clic con el botón derecho en un segmento y seleccione &lt;g4&gt;Establecer traducción vacía&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
