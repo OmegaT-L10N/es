@@ -23249,8 +23249,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the &lt;f0&gt;target&lt;/f0&gt; folder when creating target documents.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T205516Z" creationid="Mari" creationdate="20211125T205516Z">
-        <seg>En este caso, OmegaT omitirá los archivos correspondientes al cargar los proyectos y los copiará sin modificaciones en la carpeta &lt;f0&gt;target&lt;/f0&gt; cuando crea los documentos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205529Z" creationid="Mari" creationdate="20211125T205516Z">
+        <seg>En este caso, OmegaT omitirá los archivos correspondientes al cargar los proyectos y los copiará sin modificaciones en la carpeta &lt;f0&gt;target&lt;/f0&gt; cuando cree los documentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37496,8 +37496,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T195213Z" creationid="Antonio" creationdate="20160128T124911Z">
-        <seg>Cuando decida utilizar el filtro de nuevo, solo deberá marcar la casilla de verificación.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205555Z" creationid="Antonio" creationdate="20160128T124911Z">
+        <seg>Cuando decida utilizar el filtro de nuevo, solo deberá marcar la casilla.</seg>
       </tuv>
     </tu>
     <tu>
