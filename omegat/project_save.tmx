@@ -32632,6 +32632,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text export function exports data from within the current OmegaT project to plain text files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T121918Z" creationid="Mari" creationdate="20211125T121918Z">
+        <seg>La función de exportación de texto exporta datos integrados en el proyecto actual de OmegaT a archivos de texto sin formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="Antonio" creationdate="20160126T162331Z">
