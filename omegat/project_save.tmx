@@ -6505,6 +6505,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T121419Z" creationid="Mari" creationdate="20211125T121419Z">
+        <seg>Permitir traducciones idénticas al original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191210T094613Z" creationid="nenyavie" creationdate="20191210T094613Z">
