@@ -24117,6 +24117,14 @@ cual bruma se disipa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202401Z" creationid="Mari" creationdate="20211125T202401Z">
+        <seg>Porcentaje, calculado con la opción &lt;g0&gt;Lematización, sin etiquetas ni números&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Percentage with tokenizer</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T165142Z" creationid="taty" creationdate="20181205T165142Z">
@@ -26916,8 +26924,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T165118Z" creationid="taty" creationdate="20181205T165118Z">
-        <seg>Igual que ${diff}, pero con las diferencias invertidas (qué hay que insertar y qué hay que borrar).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202319Z" creationid="taty" creationdate="20181205T165118Z">
+        <seg>Igual que ${diff}, pero con las diferencias invertidas (qué hay que insertar y qué hay que eliminar).</seg>
       </tuv>
     </tu>
     <tu>
