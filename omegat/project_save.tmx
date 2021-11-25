@@ -9551,6 +9551,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202949Z" creationid="Mari" creationdate="20211125T202949Z">
+        <seg>Contiene opciones para la visualización de los textos y la información sobre modificaciones de diferentes formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161205Z" creationid="Antonio" creationdate="20160330T161205Z">
