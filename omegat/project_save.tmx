@@ -12198,8 +12198,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>Empty translations are now allowed.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T115420Z" creationid="Mari" creationdate="20211125T115420Z">
-        <seg>No se permiten segmentos vacíos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T115446Z" creationid="Mari" creationdate="20211125T115420Z">
+        <seg>No se permiten traducciones vacías.</seg>
       </tuv>
     </tu>
     <tu>
