@@ -30894,6 +30894,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T195124Z" creationid="Mari" creationdate="20211125T195124Z">
+        <seg>El filtro PO ya gestiona %..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T201747Z" creationid="hcartagena" creationdate="20151119T201747Z">
@@ -39029,6 +39037,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T123611Z" creationid="Antonio" creationdate="20151130T124530Z">
         <seg>y &lt;c0&gt;&lt;tecla&gt;&lt;/c0&gt; puede ser cualquier tecla disponible en el teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T195421Z" creationid="Mari" creationdate="20211125T195421Z">
+        <seg>y el filtro Paquete de recursos de Java™ ya gestiona las etiquetas {#}, por lo que solo necesita esta opción para otros tipos de archivo.</seg>
       </tuv>
     </tu>
     <tu>
