@@ -17413,8 +17413,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Insert the best fuzzy match</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T222303Z" creationid="Antonio" creationdate="20160126T150831Z">
-        <seg>Insertar la coincidencia aproximada más parecida</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120313Z" creationid="Antonio" creationdate="20160126T150831Z">
+        <seg>Insertar la coincidencia aproximada más cercana</seg>
       </tuv>
     </tu>
     <tu>
