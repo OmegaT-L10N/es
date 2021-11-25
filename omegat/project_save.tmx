@@ -12268,6 +12268,14 @@ su página de ayuda no encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T114449Z" creationid="Mari" creationdate="20211125T114449Z">
+        <seg>Le permite cambiar el orden de los comandos en el menú contextual (el menú que aparece al hacer clic con el botón derecho).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encoded text (*.UTF8)</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T075737Z" creationid="Antonio" creationdate="20160331T075737Z">
