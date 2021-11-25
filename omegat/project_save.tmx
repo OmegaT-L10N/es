@@ -32434,8 +32434,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T154250Z" creationid="Antonio" creationdate="20160126T154250Z">
-        <seg>El segmento origen y las coincidencias proximadas deben contener la misma lista de números</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120947Z" creationid="Antonio" creationdate="20160126T154250Z">
+        <seg>El segmento original y las coincidencias proximadas deben contener la misma lista de números</seg>
       </tuv>
     </tu>
     <tu>
