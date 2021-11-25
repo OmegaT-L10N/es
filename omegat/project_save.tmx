@@ -22485,8 +22485,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T151606Z" creationid="Antonio" creationdate="20160126T151606Z">
-        <seg>OmegaT insertará la traducción de la cadena más parecida a la frase de origen actual, si está por encima del umbral de similitud que ha establecido en este diálogo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120427Z" creationid="Antonio" creationdate="20160126T151606Z">
+        <seg>OmegaT insertará la traducción de la cadena más parecida a la original actual si está por encima del umbral de similitud que ha establecido en este diálogo.</seg>
       </tuv>
     </tu>
     <tu>
