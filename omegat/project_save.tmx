@@ -24797,6 +24797,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T210316Z" creationid="Mari" creationdate="20211125T210316Z">
+        <seg>Los complementos se instalan en la carpeta &lt;f0&gt;plugins&lt;/f0&gt; de la carpeta de instalación de OmegaT o en la carpeta de preferencias del usuario de OmegaT específica de la plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T095536Z" creationid="nenyavie" creationdate="20200225T095446Z">
