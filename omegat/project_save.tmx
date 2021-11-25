@@ -33128,6 +33128,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205312Z" creationid="Mari" creationdate="20211125T205312Z">
+        <seg>Tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211007T102736Z" creationid="Mari" creationdate="20211007T102736Z">
@@ -38479,6 +38487,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T205021Z" creationid="Mari" creationdate="20211125T205021Z">
         <seg>Puede seleccionar el diseño del contenido del panel del glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a theme for OmegaT's user interface.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205343Z" creationid="Mari" creationdate="20211125T205343Z">
+        <seg>Puede seleccionar un tema para la interfaz de usuario de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
