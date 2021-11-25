@@ -8725,8 +8725,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T165517Z" creationid="Antonio" creationdate="20160126T165517Z">
-        <seg>Seleccione esta opción para recibir indicación de que hay diferencias entre las etiquetas de los segmentos de origen y de destino cada vez que abandona un segmento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T124652Z" creationid="Antonio" creationdate="20160126T165517Z">
+        <seg>Seleccione esta opción para recibir la advertencia de que hay diferencias entre las etiquetas de los segmentos originales y traducidos cada vez que sale de un segmento.</seg>
       </tuv>
     </tu>
     <tu>
