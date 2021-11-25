@@ -34166,6 +34166,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T121705Z" creationid="Mari" creationdate="20211125T121705Z">
+        <seg>Para hacerlo posible, seleccione esta opción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T185512Z" creationid="Antonio" creationdate="20160316T185512Z">
