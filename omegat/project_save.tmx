@@ -3854,6 +3854,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205949Z" creationid="Mari" creationdate="20211125T205949Z">
+        <seg>&lt;g0&gt;Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas&lt;/g0&gt;: de manera prederminada, OmegaT utiliza el nombre del archivo original como parte de la identificación de una traducción alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205931Z" creationid="Mari" creationdate="20211125T205931Z">
+        <seg>&lt;g0&gt;Conservar espacios en todas las etiquetas&lt;/g0&gt;: marque esta opción si los documentos originales contienen una cantidad significativa de espacios utilizados para controlar el diseño que no se pueden ignorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T123120Z" creationid="Mari" creationdate="20211123T123031Z">
@@ -34578,6 +34594,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T210630Z" creationid="hcartagena" creationdate="20200729T210630Z">
         <seg>Para modificar las opciones, seleccione el filtro del listado y haga clic en &lt;e0&gt;Opciones&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T210021Z" creationid="Mari" creationdate="20211125T210021Z">
+        <seg>Para modificar las opciones, seleccione el filtro del listado y haga clic en &lt;g0&gt;Opciones...&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
