@@ -36274,6 +36274,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T113019Z" creationid="Mari" creationdate="20211125T113019Z">
+        <seg>El uso de un corrector lingüístico, en el propio equipo, diferente al proporcionado por OmegaT ofrece la opción de personalizar las reglas de verificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using spellchecker</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181116T153009Z" creationid="eumeu" creationdate="20181116T153009Z">
