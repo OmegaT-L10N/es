@@ -16227,8 +16227,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T151852Z" creationid="Antonio" creationdate="20160126T151852Z">
-        <seg>Si añade un prefijo como etiqueta (por ejemplo, [aprox.]), puede detecta estas  traducciones posteriormente para ver que son correctas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120547Z" creationid="Antonio" creationdate="20160126T151852Z">
+        <seg>Si añade un prefijo (por ejemplo, [fuzzy]), puede detectar estas traducciones posteriormente para ver que son correctas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32114,8 +32114,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T151736Z" creationid="Antonio" creationdate="20160126T151736Z">
-        <seg>El prefijo (vacío, de manera predeterminada) puede usarse para etiquetar las traducciones, que se han realizado con coincidencias aproximadas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120505Z" creationid="Antonio" creationdate="20160126T151736Z">
+        <seg>El prefijo (vacío de manera predeterminada) puede utilizarse para etiquetar las traducciones que se han realizado con coincidencias aproximadas.</seg>
       </tuv>
     </tu>
     <tu>
