@@ -891,8 +891,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211024T181332Z" creationid="hcartagena" creationdate="20151120T175634Z">
-        <seg>"Sig&amp;uiente segmento por traducir" se detiene cuando hay al menos una traducción alternativa</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T123628Z" creationid="hcartagena" creationdate="20151120T175634Z">
+        <seg>"Ir a &gt; Sig&amp;uiente segmento por traducir" se detiene cuando hay al menos una traducción alternativa</seg>
       </tuv>
     </tu>
     <tu>
