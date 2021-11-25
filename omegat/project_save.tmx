@@ -38335,6 +38335,14 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T114903Z" creationid="Mari" creationdate="20211125T114903Z">
+        <seg>Tendrá que reiniciar OmegaT para que los cambios surtan efecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You will then be able to launch OmegaT by executing this file from the command line</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T164141Z" creationid="Antonio" creationdate="20160330T164141Z">
