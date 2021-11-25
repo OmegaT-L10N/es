@@ -31425,6 +31425,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205257Z" creationid="Mari" creationdate="20211125T205257Z">
+        <seg>Las colecciones se descargan como glosarios TBX y se guardan en la carpeta de &lt;f0&gt;glosario&lt;/f0&gt; actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T192402Z" creationid="nenyavie" creationdate="20200226T144739Z">
