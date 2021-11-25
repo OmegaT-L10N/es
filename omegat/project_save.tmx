@@ -7312,8 +7312,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T153157Z" creationid="Antonio" creationdate="20160126T153157Z">
-        <seg>Intenta convertir números al insertar una coincidencia aproximada</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120728Z" creationid="Antonio" creationdate="20160126T153157Z">
+        <seg>Intentar convertir números al insertar una coincidencia aproximada</seg>
       </tuv>
     </tu>
     <tu>
@@ -16195,8 +16195,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T154145Z" creationid="Antonio" creationdate="20160126T154145Z">
-        <seg>Si esta opción está marcada, cuando se inserta   una coincidencia aproximada, bien manualmente o automáticamente, OmegaT intenta convertir los números presentes en la coincidencia aproximada según los datos del segmento origan.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T120925Z" creationid="Antonio" creationdate="20160126T154145Z">
+        <seg>Si esta opción está marcada, cuando se inserta una coincidencia aproximada, bien manualmente o automáticamente, OmegaT intenta convertir los números presentes en la coincidencia aproximada según los datos del segmento original.</seg>
       </tuv>
     </tu>
     <tu>
