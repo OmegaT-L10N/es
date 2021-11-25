@@ -23247,6 +23247,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T114255Z" creationid="Mari" creationdate="20211125T114255Z">
+        <seg>Active esta opción solo si sabe lo que está haciendo y solo para proyectos que procedan de fuentes de confianza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T213952Z" creationid="hcartagena" creationdate="20151119T213952Z">
