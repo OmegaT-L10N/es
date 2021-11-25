@@ -15906,6 +15906,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204538Z" creationid="Mari" creationdate="20211125T204538Z">
+        <seg>Si OmegaT necesita utilizar un servidor proxy autenticado para acceder a Internet, introduza los detalles que le ha dado el administrador proxy aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211024T174518Z" creationid="hcartagena" creationdate="20151119T230804Z">
