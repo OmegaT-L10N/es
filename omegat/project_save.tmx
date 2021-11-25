@@ -25992,6 +25992,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T200723Z" creationid="Mari" creationdate="20211125T200723Z">
+        <seg>Elimine un proyecto de la lista si desea que OmegaT le pida las credenciales para iniciar sesión cada vez que acceda al proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T162627Z" creationid="Cristina" creationdate="20170917T162627Z">
