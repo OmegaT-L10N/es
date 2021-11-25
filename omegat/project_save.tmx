@@ -11277,6 +11277,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displaying tags in non-OmegaT TMXs</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T201228Z" creationid="Mari" creationdate="20211125T201228Z">
+        <seg>Visualización de las etiquetas en memorias de traducción que no son de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T173907Z" creationid="Antonio" creationdate="20151127T173907Z">
