@@ -29177,8 +29177,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Source text of the match</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T164410Z" creationid="taty" creationdate="20181205T164410Z">
-        <seg>Texto fuente de la coincidencia</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202011Z" creationid="taty" creationdate="20181205T164410Z">
+        <seg>Texto original de la coincidencia</seg>
       </tuv>
     </tu>
     <tu>
@@ -30227,8 +30227,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Target text of the match</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T164454Z" creationid="taty" creationdate="20181205T164454Z">
-        <seg>Texto de destino de la coincidencia</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202025Z" creationid="taty" creationdate="20181205T164454Z">
+        <seg>Texto traducido de la coincidencia</seg>
       </tuv>
     </tu>
     <tu>
