@@ -23305,8 +23305,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T154541Z" creationid="Antonio" creationdate="20160126T154541Z">
-        <seg>Sólo se toman en cuenta los enteros y los decimales simples, donde se usa el punto como carácter decimal, por ejemplo 5.4, pero no 5,4 ni 54E-01.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T121403Z" creationid="Antonio" creationdate="20160126T154541Z">
+        <seg>Solo se tienen en cuenta los enteros y los decimales simples, donde se utiliza el punto como carácter decimal, por ejemplo 5.4, pero no 5,4 ni 54E-01.</seg>
       </tuv>
     </tu>
     <tu>
