@@ -13960,6 +13960,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T195858Z" creationid="Mari" creationdate="20211125T195858Z">
+        <seg>Por ejemplo, si escribe &lt;u0&gt;\d+&lt;/u0&gt; en el campo &lt;g1&gt;Expresión regular para etiquetas personalizadas&lt;/g1&gt;, todos los números se considerarán etiquetas, lo que le permitirá comprobar que los números no se han cambiado por error durante la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T183608Z" creationid="Antonio" creationdate="20160331T183608Z">
