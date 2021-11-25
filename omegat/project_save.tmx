@@ -37222,6 +37222,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203311Z" creationid="Mari" creationdate="20211125T203311Z">
+        <seg>Cuando la opción no está marcada, todos los segmentos no únicos se muestran en gris, excepto en el primer caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191210T093700Z" creationid="nenyavie" creationdate="20191210T093700Z">
