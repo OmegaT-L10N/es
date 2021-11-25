@@ -14864,6 +14864,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary layout</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204946Z" creationid="Mari" creationdate="20211125T204946Z">
+        <seg>Diseño del glosario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary note</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T190133Z" creationid="Mari" creationdate="20211104T190133Z">
@@ -19420,6 +19428,14 @@ conectado a Internet.</seg>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T220003Z" creationid="hcartagena" creationdate="20200729T220003Z">
         <seg>Iniciar OmegaT desde la línea de comandos (todos los sistemas)
 ====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layout variations can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205056Z" creationid="Mari" creationdate="20211125T205056Z">
+        <seg>Las variaciones de diseño pueden añadirse como complementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38431,6 +38447,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181115T222534Z" creationid="eumeu" creationdate="20181115T222534Z">
         <seg>Puede superponer paneles si lo desea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a glossary pane contents layout.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205021Z" creationid="Mari" creationdate="20211125T205021Z">
+        <seg>Puede seleccionar el diseño del contenido del panel del glosario.</seg>
       </tuv>
     </tu>
     <tu>
