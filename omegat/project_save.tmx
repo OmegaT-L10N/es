@@ -8755,6 +8755,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203116Z" creationid="Mari" creationdate="20211125T203116Z">
+        <seg>Marque esta opción para mostrar todos los segmentos no únicos (repeticiones) en gris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T125237Z" creationid="Antonio" creationdate="20160126T165952Z">
@@ -17271,6 +17279,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T231357Z" creationid="hcartagena" creationdate="20151124T231357Z">
         <seg>Incluir el primer segmento &amp;no único al marcar segmentos no únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203034Z" creationid="Mari" creationdate="20211125T203034Z">
+        <seg>Incluir el primer segmento no único al marcar segmentos no únicos</seg>
       </tuv>
     </tu>
     <tu>
