@@ -24117,6 +24117,14 @@ cual bruma se disipa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T202524Z" creationid="Mari" creationdate="20211125T202524Z">
+        <seg>Porcentaje, calculado con la opción &lt;g0&gt;Sin etiquetas ni números&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T202401Z" creationid="Mari" creationdate="20211125T202401Z">
