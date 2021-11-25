@@ -37943,6 +37943,14 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T195604Z" creationid="Mari" creationdate="20211125T195604Z">
+        <seg>También puede definir varias opciones relativas a la validación de etiquetas y definir etiquetas personalizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160127T182447Z" creationid="Antonio" creationdate="20160127T182447Z">
