@@ -29303,6 +29303,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T203827Z" creationid="Mari" creationdate="20211125T203827Z">
+        <seg>Especifique los comandos que se ejecutarán después del comando &lt;g0&gt;Crear documentos traducidos&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify state attribute handling behavior</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211021T182405Z" creationid="Mari" creationdate="20211021T182405Z">
