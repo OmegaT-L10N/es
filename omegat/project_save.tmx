@@ -37102,6 +37102,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T194544Z" creationid="Mari" creationdate="20211125T194544Z">
+        <seg>Cuando se traducen archivos relativos a software, puede configurar las opciones del </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T120157Z" creationid="hcartagena" creationdate="20151119T204206Z">
