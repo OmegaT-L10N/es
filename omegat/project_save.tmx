@@ -32802,8 +32802,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T162506Z" creationid="Antonio" creationdate="20160126T162506Z">
-        <seg>Todo el proceso puede ser dirigido y controlado a través de secuencias de comandos escritas en el lenguaje Tcl/Tck.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T122855Z" creationid="Antonio" creationdate="20160126T162506Z">
+        <seg>Todo el proceso puede ser dirigido y controlado a través de programación basada en el lenguaje Tck/Tcl.</seg>
       </tuv>
     </tu>
     <tu>
