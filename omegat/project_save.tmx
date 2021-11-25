@@ -27919,6 +27919,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T112752Z" creationid="Mari" creationdate="20211125T112752Z">
+        <seg>Seleccione la ubicación del corrector lingüístico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T145059Z" creationid="nenyavie" creationdate="20200226T145059Z">
