@@ -30273,6 +30273,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T204821Z" creationid="Mari" creationdate="20211125T204821Z">
+        <seg>Apunte toda esta información antes de crear una nueva contraseña, ya que se eliminarán todos ellos y tendrán que volver a introducirse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tamil</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155231Z" creationid="Antonio" creationdate="20151128T155231Z">
