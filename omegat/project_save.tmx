@@ -31213,8 +31213,8 @@ configuración.</seg>
       <tuv lang="en">
         <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T162235Z" creationid="Antonio" creationdate="20160126T162235Z">
-        <seg>El contenido del texto de destino del segmento (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T122307Z" creationid="Antonio" creationdate="20160126T162235Z">
+        <seg>El contenido del texto traducido del segmento (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
