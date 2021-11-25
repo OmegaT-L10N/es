@@ -34422,6 +34422,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;g2&gt;Edit&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T205752Z" creationid="Mari" creationdate="20211125T205747Z">
+        <seg>Para editar los archivos y codificaciones para los que se utilizará un filtro, seleccione el filtro de la lista y haga clic en &lt;g2&gt;Editar&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211023T153035Z" creationid="hcartagena" creationdate="20151119T213505Z">
