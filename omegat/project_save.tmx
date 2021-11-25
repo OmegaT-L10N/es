@@ -31205,8 +31205,8 @@ configuración.</seg>
       <tuv lang="en">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160126T162226Z" creationid="Antonio" creationdate="20160126T162226Z">
-        <seg>El contenido del texto original segmento (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211125T122254Z" creationid="Antonio" creationdate="20160126T162226Z">
+        <seg>El contenido del texto original del segmento (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
