@@ -21787,6 +21787,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211125T200147Z" creationid="Mari" creationdate="20211125T200147Z">
+        <seg>Nota: estas dos instrucciones pueden combinarse escribiendo &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233825Z" creationid="hcartagena" creationdate="20151124T233825Z">
