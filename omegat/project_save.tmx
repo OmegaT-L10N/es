@@ -37800,6 +37800,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T164514Z" creationid="Mari" creationdate="20211126T164514Z">
+        <seg>Cuando se trabaja en un proyecto de trabajo en grupo, esta ventana permite definir la asignación entre las carpetas remotas y las carpetas locales (ver ejemplos &lt;l0&gt;aquí&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184203Z" creationid="Antonio" creationdate="20151210T184203Z">
