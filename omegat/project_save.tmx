@@ -14006,6 +14006,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow the indications given in Hints for tags management.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T200750Z" creationid="Mari" creationdate="20211126T200750Z">
+        <seg>Siga las indicaciones que figuran en los Consejos de gestión de etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T233717Z" creationid="hcartagena" creationdate="20180604T233717Z">
@@ -16396,6 +16404,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T165451Z" creationid="taty" creationdate="20181109T165451Z">
         <seg>Si el proceso de instalación automática no funciona: verifique que su conexión a Internet esté funcionando; si es así, pruebe con una URL de repositorio diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T200714Z" creationid="Mari" creationdate="20211126T200714Z">
+        <seg>Si el documento lo permite, es muy recomendable que el traductor elimine la información de estilo del documento original, de manera que aparezca en la interfaz de OmegaT el menor número posible de etiquetas.</seg>
       </tuv>
     </tu>
     <tu>
