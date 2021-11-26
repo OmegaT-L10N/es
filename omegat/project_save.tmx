@@ -7787,6 +7787,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T153613Z" creationid="Mari" creationdate="20211126T153613Z">
+        <seg>Debe tener en cuenta que el cambio de los idiomas puede inutilizar las memorias de traducción que está utilizando, ya que su par de idiomas puede no coincidir más con los nuevos idiomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T192125Z" creationid="Mari" creationdate="20211124T191054Z">
@@ -38489,6 +38497,14 @@ para enlazarlo desde allí.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T120358Z" creationid="nenyavie" creationdate="20200226T115740Z">
         <seg>Puede copiar los archivos manualmente, es decir, desde cualquier lugar del sistema, utilizando el administrador de archivos; o puede utilizar la función &lt;e0&gt;"Instalar nuevo diccionario"&lt;/e0&gt; de OmegaT que proporciona una lista de los diccionarios disponibles para elegir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T153421Z" creationid="Mari" creationdate="20211126T153421Z">
+        <seg>Puede introducir los idiomas de origen y de destino manualmente o utilizar los menús desplegables.</seg>
       </tuv>
     </tu>
     <tu>
