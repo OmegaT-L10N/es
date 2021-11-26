@@ -14224,6 +14224,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T195538Z" creationid="Mari" creationdate="20211126T195538Z">
+        <seg>Por ejemplo, en las etiquetas de OmegaT, los nombres de productos que deben dejarse en el idioma LTR de origen, los marcadores de posición en archivos de localización y números en texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T124542Z" creationid="Antonio" creationdate="20151130T144207Z">
@@ -17271,6 +17279,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T192602Z" creationid="hcartagena" creationdate="20151117T192602Z">
         <seg>En comentarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T195206Z" creationid="Mari" creationdate="20211126T195206Z">
+        <seg>En muchos casos, sin embargo, es necesario integrar texto LTR en texto RTL.</seg>
       </tuv>
     </tu>
     <tu>
