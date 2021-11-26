@@ -8555,6 +8555,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T154436Z" creationid="Mari" creationdate="20211126T154436Z">
+        <seg>Este cambio no modifica la segmentación de las memorias de traducción existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chapter 15. Searches</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T155730Z" creationid="Helli" creationdate="20150526T155730Z">
@@ -16592,6 +16600,14 @@ configuración para que muestre la extensión de los archivos.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T113959Z" creationid="Mari" creationdate="20211124T113959Z">
         <seg>Si cambia las opciones de segmentación cuando un proyecto está abierto, tendrá que volver a cargar el proyecto para que los cambios surtan efecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T154738Z" creationid="Mari" creationdate="20211126T154738Z">
+        <seg>Si a mitad de la traducción decide pasar de la traducción a nivel de frase a la de nivel de párrafo, la memoria de traducción interna del proyecto no se modificará (OmegaT puede actualizar las memorias de traducción antiguas que no utilizaban la segmentación por frases, pero no a la inversa), pero OmegaT intentará crear coincidencias aproximadas de párrafo juntando las traducciones de frases existentes.</seg>
       </tuv>
     </tu>
     <tu>
