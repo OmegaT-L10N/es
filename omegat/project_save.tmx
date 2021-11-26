@@ -21811,6 +21811,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T161406Z" creationid="Mari" creationdate="20211126T161406Z">
+        <seg>El formato no visible, es decir, el que no aparece como etiquetas en el editor de OmegaT, se mantiene en los documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180607T231551Z" creationid="hcartagena" creationdate="20180607T231551Z">
