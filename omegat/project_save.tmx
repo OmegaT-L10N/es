@@ -37082,6 +37082,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; causes both text input and display in OmegaT to change.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T194623Z" creationid="Mari" creationdate="20211126T194623Z">
+        <seg>El uso de &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; hace que la entrada de texto y la visualización en OmegaT cambien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T184852Z" creationid="Antonio" creationdate="20160331T184852Z">
