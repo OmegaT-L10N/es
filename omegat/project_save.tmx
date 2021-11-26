@@ -31192,8 +31192,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160331T184621Z" creationid="Antonio" creationdate="20160331T184621Z">
-        <seg>**&lt;k4&gt; &lt;k5&gt;Mayús&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; alterna entre tres estados:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211126T194243Z" creationid="Antonio" creationdate="20160331T184621Z">
+        <seg>El comando de alternancia &lt;k4&gt; &lt;k5&gt;Mayús&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; tiene tres estados:</seg>
       </tuv>
     </tu>
     <tu>
