@@ -36587,11 +36587,12 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>la opción de la interfaz es "Make the segmentation rules project specific"</note>
       <tuv lang="en">
         <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T162501Z" creationid="Mari" creationdate="20211126T162501Z">
-        <seg>Utilice este botón para abrir un diálogo, active la casilla &lt;g0&gt;&lt;/g0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211126T162810Z" creationid="Mari" creationdate="20211126T162501Z">
+        <seg>Utilice este botón para abrir un diálogo, active la casilla &lt;g0&gt;Hacer que las reglas de segmentación sean específicas para el proyecto&lt;/g0&gt; y cambie las reglas de segmentación como desee.</seg>
       </tuv>
     </tu>
     <tu>
