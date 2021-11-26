@@ -32504,6 +32504,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T154258Z" creationid="Mari" creationdate="20211126T154258Z">
+        <seg>El método prevalente de segmentar los archivos originales es la segmentación a nivel de frase, por lo que esta casilla normalmente debería dejarse marcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T120505Z" creationid="Antonio" creationdate="20160126T151736Z">
