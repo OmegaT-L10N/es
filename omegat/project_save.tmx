@@ -18308,6 +18308,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used in all the input fields found in OmegaT - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T194816Z" creationid="Mari" creationdate="20211126T194816Z">
+        <seg>También se puede utilziar en todos los campo de entrada de OmegaT, en la ventana de búsqueda, para las reglas de segmentación, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T193141Z" creationid="hcartagena" creationdate="20200729T203507Z">
