@@ -16304,6 +16304,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T160026Z" creationid="Mari" creationdate="20211126T160026Z">
+        <seg>Si la casilla de Autopropagación no está marcada, los segmentos con traducciones alternativas se dejan sin traducir hasta que el usuario decida qué traducción utilizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T150112Z" creationid="Antonio" creationdate="20160316T191606Z">
