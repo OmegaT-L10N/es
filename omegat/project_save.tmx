@@ -25393,6 +25393,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T202300Z" creationid="Mari" creationdate="20211126T202300Z">
+        <seg>Prevención de la pérdida de datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preview</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T173223Z" creationid="Cristina" creationdate="20170917T173223Z">
@@ -30245,6 +30253,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T192551Z" creationid="Antonio" creationdate="20160316T192551Z">
         <seg>**Estos archivos también se pueden escribir en cualquier otra codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such modifications are possible in ODF files for example.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T202232Z" creationid="Mari" creationdate="20211126T202232Z">
+        <seg>Dichas modificaciones son posibles en los archivos ODF, por ejemplo.</seg>
       </tuv>
     </tu>
     <tu>
