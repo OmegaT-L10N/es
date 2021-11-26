@@ -42207,6 +42207,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>is not copied in &lt;f0&gt;target&lt;/f0&gt; folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165357Z" creationid="Mari" creationdate="20211126T165357Z">
+        <seg>no se copian en la carpeta &lt;f0&gt;target&lt;/f0&gt; durante el proceso de creación de los archivos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>is not displayed in the Editor pane,</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T165115Z" creationid="Mari" creationdate="20211126T165115Z">
