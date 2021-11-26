@@ -6897,6 +6897,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165050Z" creationid="Mari" creationdate="20211126T165050Z">
+        <seg>Un archivo o carpeta ignorados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T000101Z" creationid="hcartagena" creationdate="20200730T000101Z">
@@ -42195,6 +42203,22 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144625Z" creationid="Antonio" creationdate="20151128T144625Z">
         <seg>is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165115Z" creationid="Mari" creationdate="20211126T165115Z">
+        <seg>no se muestran en el panel Editor,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165138Z" creationid="Mari" creationdate="20211126T165138Z">
+        <seg>no se tienen en cuenta para las estadísticas,</seg>
       </tuv>
     </tu>
     <tu>
