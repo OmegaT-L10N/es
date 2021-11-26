@@ -18945,8 +18945,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160331T184353Z" creationid="Antonio" creationdate="20160331T184353Z">
-        <seg>**La justificación de de segmentos originales y de destino depende de los idiomas del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211126T193958Z" creationid="Antonio" creationdate="20160331T184353Z">
+        <seg>La justificación de los segmentos originales y traducidos depende de los idiomas del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
