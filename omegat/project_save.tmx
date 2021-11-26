@@ -27804,6 +27804,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T163057Z" creationid="Mari" creationdate="20211126T163057Z">
+        <seg>Consulte &lt;l1&gt;Preferencias de configuración de la segmentación&lt;/l1&gt; para más ino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T191612Z" creationid="Mari" creationdate="20211124T191612Z">
