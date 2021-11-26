@@ -16684,6 +16684,14 @@ configuración para que muestre la extensión de los archivos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you enter names of folders that do not exist yet, OmegaT creates them for you.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T164759Z" creationid="Mari" creationdate="20211126T164759Z">
+        <seg>Si escribe nombres de carpetas que no existen todavía, OmegaT las creará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T181427Z" creationid="taty" creationdate="20181116T181427Z">
