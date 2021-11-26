@@ -12358,8 +12358,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>Enable Sentence-level segmentation</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T153850Z" creationid="Mari" creationdate="20211126T153850Z">
-        <seg>[fuzzy]Segmentación a nivel de frase</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211126T153924Z" creationid="Mari" creationdate="20211126T153850Z">
+        <seg>Habilitar segmentación a nivel de frase</seg>
       </tuv>
     </tu>
     <tu>
@@ -32716,6 +32716,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184639Z" creationid="Antonio" creationdate="20151210T184639Z">
         <seg>El segundo de estos capítulos describe las distintas subcarpetas y archivos en un proyecto de traducción y su papel, así como otros archivos de usuario y la aplicación asociadas con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segmentation settings only address the way the source files are handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T154056Z" creationid="Mari" creationdate="20211126T154056Z">
+        <seg>Los ajustes de segmentación solo se ocupan solo de la forma en que OmegaT gestiona los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
