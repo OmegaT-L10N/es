@@ -27852,6 +27852,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T164128Z" creationid="Mari" creationdate="20211126T164128Z">
+        <seg>Consulte &lt;l3&gt;Preferencias de filtros de archivo&lt;/l3&gt; para más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T154538Z" creationid="Antonio" creationdate="20160316T194143Z">
