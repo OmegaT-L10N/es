@@ -37558,6 +37558,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When enabled, all the formatting tags are removed from source segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T160119Z" creationid="Mari" creationdate="20211126T160119Z">
+        <seg>Cuando esta opción está habilitada, se eliminan todas las etiquetas de formato de los segmentos originales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T195814Z" creationid="Antonio" creationdate="20151128T163325Z">
