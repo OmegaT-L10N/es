@@ -18333,6 +18333,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T194723Z" creationid="Mari" creationdate="20211126T194723Z">
+        <seg>Esto se puede utilizar por separado para los tres paneles (Editor, Coincidencias parciales y Glosario) haciendo clic en el panel y alternando el modo de visualización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It contains just the following line:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T164230Z" creationid="Antonio" creationdate="20160330T164230Z">
