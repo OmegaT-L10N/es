@@ -17275,6 +17275,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T195631Z" creationid="Mari" creationdate="20211126T195631Z">
+        <seg>En estos casos es necesario cambiar al modo RTL, de modo que el texto RTL (de hecho bidireccional) se muestre correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T192602Z" creationid="hcartagena" creationdate="20151117T192602Z">
