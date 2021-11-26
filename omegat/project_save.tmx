@@ -14576,6 +14576,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T200912Z" creationid="Mari" creationdate="20211126T200912Z">
+        <seg>Valide las etiquetas frecuentemente (consulte Validación de etiquetas) y produzca los documentos traducidos (consulte más abajo y Menú) en intervalos regulares para que sea más fácil detectar cualquier problema que surja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T153023Z" creationid="Antonio" creationdate="20151126T153023Z">
