@@ -22003,6 +22003,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T164036Z" creationid="Mari" creationdate="20211126T164036Z">
+        <seg>Tenga en cuenta que, en el menú &lt;g2&gt;Opciones -&gt; Filtros de archivo&lt;/g2&gt;, se cambian los filtros generales del usuario, no los filtros del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T120442Z" creationid="eumeu" creationdate="20181116T151428Z">
@@ -34667,6 +34675,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T121811Z" creationid="Mari" creationdate="20211124T121811Z">
         <seg>Para definir una regla de excepción, deje la casilla Interrupción/Excepción sin marcar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete project specific file filters, uncheck the check box.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T163850Z" creationid="Mari" creationdate="20211126T163850Z">
+        <seg>Para eliminar los filtros de archivo específicos del proyecto, desmarque la casilla.</seg>
       </tuv>
     </tu>
     <tu>
