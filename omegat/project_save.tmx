@@ -9019,6 +9019,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165030Z" creationid="Mari" creationdate="20211126T165030Z">
+        <seg>Haga clic en &lt;g0&gt;Exclusiones...&lt;/g0&gt; para definir los archivos o carpetas que ignorará OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T125056Z" creationid="Antonio" creationdate="20160128T125006Z">
