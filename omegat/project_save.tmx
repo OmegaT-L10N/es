@@ -33248,6 +33248,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T162255Z" creationid="Mari" creationdate="20211126T162255Z">
+        <seg>Sin embargo, es posible que el usuario necesite crear un conjunto de reglas específicas para el proyecto concreto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171003T171827Z" creationid="Cristina" creationdate="20170820T145732Z">
