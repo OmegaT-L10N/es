@@ -23349,6 +23349,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT tags in RTL segments</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T200158Z" creationid="Mari" creationdate="20211126T200158Z">
+        <seg>Etiquetas de OmegaT en segmentos RTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T174323Z" creationid="Cristina" creationdate="20170917T174323Z">
