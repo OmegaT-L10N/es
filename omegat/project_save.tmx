@@ -18036,6 +18036,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing and running OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T202341Z" creationid="Mari" creationdate="20211126T202341Z">
+        <seg>Instalación y ejecución de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T193518Z" creationid="hcartagena" creationdate="20151116T193518Z">
