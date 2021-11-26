@@ -14062,6 +14062,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For .docx files, a number of changes are however done automatically:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T201516Z" creationid="Mari" creationdate="20211126T201516Z">
+        <seg>Sin embargo, para los archivos .docx, se hace una serie de cambios automáticamente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T213753Z" creationid="Antonio" creationdate="20160124T213753Z">
