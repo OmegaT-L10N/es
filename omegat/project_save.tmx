@@ -17139,6 +17139,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T163339Z" creationid="Mari" creationdate="20211126T163339Z">
+        <seg>De un modo similar al anterior, el usuario puede crear filtros de archivo específicos del proyecto, que se almacenarán con el proyecto y solo serán válidos para el proyecto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T153854Z" creationid="taty" creationdate="20181116T153854Z">
