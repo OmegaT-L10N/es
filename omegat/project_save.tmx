@@ -3192,8 +3192,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T163201Z" creationid="Mari" creationdate="20211126T163201Z">
-        <seg>&lt;e0&gt;Sugerencia:&lt;/e0&gt; el conjunto de reglas de segmentación de un proyecto concreto se almacena como &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211126T164315Z" creationid="Mari" creationdate="20211126T163201Z">
+        <seg>&lt;e0&gt;Nota:&lt;/e0&gt; el conjunto de reglas de segmentación de un proyecto concreto se almacena como &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
