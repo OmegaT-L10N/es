@@ -17243,6 +17243,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T154357Z" creationid="Mari" creationdate="20211126T154357Z">
+        <seg>En algunos casos poco comunes, puede preferirse la opción alternativa, es decir, la segmentación por párrafos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T121612Z" creationid="Mari" creationdate="20211124T121612Z">
