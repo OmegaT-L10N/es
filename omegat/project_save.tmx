@@ -17163,6 +17163,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T155739Z" creationid="Mari" creationdate="20211126T155739Z">
+        <seg>En caso de que haya segmentos no únicos en los documentos originales, la casilla Autopropagación ofrece al usuario las siguientes dos posibilidades en cuanto a la traducción automática: si está marcada, el primer segmento traducido se asumirá como la traducción por defecto y su texto traducido se utilizará automáticamente para las coincidencias posteriores durante el proceso de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T175542Z" creationid="Antonio" creationdate="20160331T175542Z">
