@@ -34882,6 +34882,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T153754Z" creationid="Mari" creationdate="20211126T153754Z">
+        <seg>Se muestran los analizadores correspondientes a los idiomas seleccionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers plug-in</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T155941Z" creationid="Cristina" creationdate="20170916T155941Z">
