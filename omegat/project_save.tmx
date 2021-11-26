@@ -20912,6 +20912,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T155929Z" creationid="Mari" creationdate="20211126T155929Z">
+        <seg>Los segmentos mal traducidos pueden, por supuesto, corregirse más tarde manualmente mediante la opción &lt;g0&gt;Crear traducción alternativa&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T092719Z" creationid="nenyavie" creationdate="20200225T092719Z">
