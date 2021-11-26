@@ -34292,6 +34292,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T155244Z" creationid="Mari" creationdate="20211126T155244Z">
+        <seg>Esto hará que vuelvan al estado de "sin traducir", ya que dejarán de coincidir con segmentos registrados en la memoria del proyecto, a pesar de que su traducción original esté presente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will greatly simplify updating of your translation in the future.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T162622Z" creationid="Cristina" creationdate="20170924T162329Z">
