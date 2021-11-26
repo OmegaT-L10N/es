@@ -17235,6 +17235,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T164936Z" creationid="Mari" creationdate="20211126T164936Z">
+        <seg>En caso de que decida modificar las carpetas del proyecto, recuerde que esto no moverá los archivos de las antiguas carpetas a la nueva ubicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T175542Z" creationid="Antonio" creationdate="20160331T175542Z">
