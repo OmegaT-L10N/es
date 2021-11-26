@@ -8555,6 +8555,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T154922Z" creationid="Mari" creationdate="20211126T154922Z">
+        <seg>La modificación de los ajustes de segmentación podría provocar que algunos segmentos ya traducidos se dividan o se unan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T154436Z" creationid="Mari" creationdate="20211126T154436Z">
