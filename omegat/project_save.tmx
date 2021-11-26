@@ -10227,6 +10227,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated RTL documents</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T201119Z" creationid="Mari" creationdate="20211126T201119Z">
+        <seg>Crear documentos RTL traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T141151Z" creationid="hcartagena" creationdate="20151117T141151Z">
@@ -37940,6 +37948,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T203311Z" creationid="Mari" creationdate="20211125T203311Z">
         <seg>Cuando la opción no está marcada, todos los segmentos no únicos se muestran en gris, excepto en el primer caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T201158Z" creationid="Mari" creationdate="20211126T201158Z">
+        <seg>Cuando se crea el documento traducido, su dirección de visualización será la misma que en el documento original.</seg>
       </tuv>
     </tu>
     <tu>
