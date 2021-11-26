@@ -18659,6 +18659,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It should be noted that when OmegaT is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T195719Z" creationid="Mari" creationdate="20211126T195719Z">
+        <seg>Cabe señalar que cuando OmegaT está en modo RTL, tanto el original como la traducción se muestran en modo RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T190625Z" creationid="eumeu" creationdate="20181116T155113Z">
@@ -34376,6 +34384,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T190147Z" creationid="Antonio" creationdate="20151210T190147Z">
         <seg>Sin embargo, este manual no sería posible sin la ayuda y apoyo de muchas personas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T195959Z" creationid="Mari" creationdate="20211126T195959Z">
+        <seg>Esto significa que si el idioma de origen es LTR y el idioma de destino es RTL, o viceversa, podría ser necesario alternar entre los modos RTL y LTR para ver fácilmente el original e introducir la traducción en sus respectivas modalidades.</seg>
       </tuv>
     </tu>
     <tu>
