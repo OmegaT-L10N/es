@@ -7494,6 +7494,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T155314Z" creationid="Mari" creationdate="20211126T155314Z">
+        <seg>Autopropagación de traducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T115223Z" creationid="hcartagena" creationdate="20151117T202341Z">
