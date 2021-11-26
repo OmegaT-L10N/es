@@ -33740,6 +33740,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T161729Z" creationid="Mari" creationdate="20211126T161729Z">
+        <seg>Esta área permite introducir un comando externo de posprocesamiento (por ejemplo, un script para renombrar archivos) que se aplicará cada vez que se utilice el comando Crear documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T161708Z" creationid="eumeu" creationdate="20181116T131620Z">
