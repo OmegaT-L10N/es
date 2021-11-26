@@ -12356,6 +12356,14 @@ su página de ayuda no encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T153850Z" creationid="Mari" creationdate="20211126T153850Z">
+        <seg>[fuzzy]Segmentación a nivel de frase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211007T102625Z" creationid="hcartagena" creationdate="20180604T233410Z">
