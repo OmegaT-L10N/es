@@ -32464,6 +32464,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T162910Z" creationid="Mari" creationdate="20211126T162910Z">
+        <seg>El nuevo conjunto de reglas se almacenará con el proyecto y no interferirá con el conjunto de reglas de segmentación general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T120652Z" creationid="nenyavie" creationdate="20200225T133345Z">
