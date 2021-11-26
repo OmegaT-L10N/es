@@ -34012,6 +34012,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T161205Z" creationid="Mari" creationdate="20211126T161205Z">
+        <seg>Esto es especialmente útil cuando se trata de textos en los que el formato incorporado no es realmente útil (por ejemplo, PDF con OCR, .odt o .docx mal convertidos, etc.) En un caso normal, siempre debería ser posible abrir los documentos traducidos, ya que solo se eliminan las etiquetas de línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is how it works:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T152252Z" creationid="Antonio" creationdate="20160316T193006Z">
