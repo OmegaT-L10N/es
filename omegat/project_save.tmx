@@ -5473,6 +5473,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A copy of the changed filters configuration will be stored with the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T163822Z" creationid="Mari" creationdate="20211126T163822Z">
+        <seg>Se almacenará una copia de la configuración de los filtros cambiados junto con el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T124230Z" creationid="Antonio" creationdate="20160128T124230Z">
