@@ -18499,6 +18499,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165628Z" creationid="Mari" creationdate="20211126T165628Z">
+        <seg>Es posible utilizar caracteres comodín mediante la &lt;u0&gt;sintaxis ant&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is provided as a compressed file (zip or tar archive) that you must extract to the folder of your choice for installation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161039Z" creationid="Antonio" creationdate="20160330T161039Z">
