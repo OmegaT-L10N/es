@@ -33916,6 +33916,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T162052Z" creationid="Mari" creationdate="20211126T162052Z">
+        <seg>Este comando externo no puede incluir "canalizaciones", etc., por lo que se recomienda llamar a un script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This feature makes use of the spelling dictionaries used in LibreOffice and OpenOffice.org.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T141104Z" creationid="taty" creationdate="20181109T141104Z">
