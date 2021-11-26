@@ -24508,6 +24508,14 @@ cual bruma se disipa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraphs, sections and tables are set to bidi</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T201605Z" creationid="Mari" creationdate="20211126T201605Z">
+        <seg>Los párrafos, las secciones y las tablas se ajustan al formato bidireccional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211019T142501Z" creationid="hcartagena" creationdate="20151118T224927Z">
@@ -27350,6 +27358,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T140336Z" creationid="Víctor Parra" creationdate="20151124T192458Z">
         <seg>Ejecución en Java {0} ({1} bits)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Runs (text elements) are set to RTL</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T202009Z" creationid="Mari" creationdate="20211126T202009Z">
+        <seg>Las ejecuciones (elementos de texto) se ajustan a RTL</seg>
       </tuv>
     </tu>
     <tu>
