@@ -7270,6 +7270,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As stated above, OmegaT tags are LTR strings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T200215Z" creationid="Mari" creationdate="20211126T200215Z">
+        <seg>Como se ha dicho anteriormente, las etiquetas de OmegaT son cadenas LTR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181113T220031Z" creationid="taty" creationdate="20181113T220031Z">
@@ -37924,6 +37932,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T142955Z" creationid="nenyavie" creationdate="20200226T142955Z">
         <seg>Cuando esta opción está marcada, el glosario mostrará pares o grupos de palabras (expresiones) incluso si dichas palabras aparecen separadas en el texto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T200649Z" creationid="Mari" creationdate="20211126T200649Z">
+        <seg>Cuando se traduce entre idiomas RTL y LTR, para leer correctamente las etiquetas del original e introducirlas correctamente en la traducción, el traductor podría necesitar alternar en numerosas ocasiones entre los modos RTL y LTR.</seg>
       </tuv>
     </tu>
     <tu>
