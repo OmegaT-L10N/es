@@ -12167,6 +12167,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T201413Z" creationid="Mari" creationdate="20211126T201413Z">
+        <seg>Cada formato de salida tiene formas específicas para tratar con la visualización RTL, consulte los manuales de las aplicaciones correspondientes para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T112433Z" creationid="nenyavie" creationdate="20200225T112404Z">
@@ -16492,6 +16500,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T114516Z" creationid="Antonio" creationdate="20160316T134909Z">
         <seg>Si la opción está desactivada, se copiará el texto original en el segmento traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T201237Z" creationid="Mari" creationdate="20211126T201237Z">
+        <seg>Si el documento original era LTR, la dirección de visualización del documento traducido se debe cambiar manualmente a RTL en su aplicación de visualización.</seg>
       </tuv>
     </tu>
     <tu>
