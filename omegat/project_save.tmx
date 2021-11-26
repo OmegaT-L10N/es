@@ -34608,8 +34608,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T163437Z" creationid="Mari" creationdate="20211126T163437Z">
-        <seg>Para crear un conjunto de filtros de archivo específicos del proyecto, haga clic en &lt;g0&gt;Filtro de archivos...&lt;/g0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211126T163624Z" creationid="Mari" creationdate="20211126T163437Z">
+        <seg>Para crear un conjunto de filtros de archivo específicos del proyecto, haga clic en el botón &lt;g0&gt;Filtros de archivo...&lt;/g0&gt;y active la casilla &lt;g1&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
