@@ -36588,6 +36588,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T162501Z" creationid="Mari" creationdate="20211126T162501Z">
+        <seg>Utilice este botón para abrir un diálogo, active la casilla &lt;g0&gt;&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T174151Z" creationid="nenyavie" creationdate="20200226T174151Z">
