@@ -20354,6 +20354,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165642Z" creationid="Mari" creationdate="20211126T165642Z">
+        <seg>[fuzzy]Idiomas de derecha a izquierda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T141046Z" creationid="Cristina" creationdate="20170820T141046Z">
