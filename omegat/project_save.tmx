@@ -10917,6 +10917,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T164606Z" creationid="Mari" creationdate="20211126T164606Z">
+        <seg>Define los recursos de búsqueda externa específicos del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T134317Z" creationid="taty" creationdate="20181109T134317Z">
@@ -15458,6 +15466,14 @@ es que su invierno ha llegado</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T204709Z" creationid="Mari" creationdate="20211125T204709Z">
         <seg>Aquí puede redefinir la contraseña maestra utilizada para proteger la información de inicio de sesión y las claves de acceso para los servicios de traducción automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T164702Z" creationid="Mari" creationdate="20211126T164702Z">
+        <seg>Aquí puede seleccionar diferentes subcarpetas, por ejemplo, la subcarpeta con los archivos originales, la subcarpeta para los archivos traducidos, etc.</seg>
       </tuv>
     </tu>
     <tu>
