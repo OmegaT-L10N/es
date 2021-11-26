@@ -33748,6 +33748,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T153306Z" creationid="Mari" creationdate="20211126T153306Z">
+        <seg>Se accede a este diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Propiedades...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog lists available file filters.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T124502Z" creationid="Antonio" creationdate="20160128T124502Z">
