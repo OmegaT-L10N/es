@@ -17427,6 +17427,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165511Z" creationid="Mari" creationdate="20211126T165511Z">
+        <seg>En el diálogo Patrones de exclusión, es posible añadir o eliminar un patrón, o editarlo seleccionando una línea y pulsando F2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the Options &gt; Spell Checking dialog, select or create a dictionary file folder on your hard drive.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T144208Z" creationid="taty" creationdate="20181109T144208Z">
@@ -41817,6 +41825,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T213011Z" creationid="Antonio" creationdate="20160124T213011Z">
         <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211126T165403Z" creationid="Mari" creationdate="20211126T165403Z">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
       </tuv>
     </tu>
     <tu>
