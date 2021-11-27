@@ -23153,6 +23153,14 @@ traducciones previas en proyectos nuevos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a robust application.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T162038Z" creationid="Mari" creationdate="20211127T162038Z">
+        <seg>OmegaT es una aplicación robusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T121649Z" creationid="Antonio" creationdate="20160126T161206Z">
