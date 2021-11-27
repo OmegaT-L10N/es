@@ -11597,6 +11597,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164455Z" creationid="Mari" creationdate="20211127T164455Z">
+        <seg>No dude en publicar en el idioma con el que se sienta más familiarizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T192921Z" creationid="Mari" creationdate="20211124T192921Z">
@@ -29139,6 +29147,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T121510Z" creationid="nenyavie" creationdate="20200225T121510Z">
         <seg>Si necesita información más específica, consulte la &lt;u0&gt;documentación de Regex de Java&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;OmegaT user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164439Z" creationid="Mari" creationdate="20211127T164439Z">
+        <seg>Si encuentra problemas, publique un mensaje en el &lt;u0&gt;grupo de usuarios de OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
