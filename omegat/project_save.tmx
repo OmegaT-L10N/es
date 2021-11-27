@@ -40571,6 +40571,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>close the project</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T163611Z" creationid="Mari" creationdate="20211127T163611Z">
+        <seg>cierre el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>co</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083738Z" creationid="Antonio" creationdate="20151128T083738Z">
@@ -44460,6 +44468,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T210952Z" creationid="Antonio" creationdate="20160329T210952Z">
         <seg>eliminar caracteres hasta el inicio de la palabra actual (Mac: &lt;e0&gt;Alt+Retroceso&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T163724Z" creationid="Mari" creationdate="20211127T163724Z">
+        <seg>cambie el nombre del archivo &lt;f0&gt;project_save.tmx &lt;/f0&gt;actual (por ejemplo, a &lt;f1&gt;project_save.tmx.temporal&lt;/f1&gt;)</seg>
       </tuv>
     </tu>
     <tu>
