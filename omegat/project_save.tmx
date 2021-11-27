@@ -44472,6 +44472,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T163850Z" creationid="Mari" creationdate="20211127T163850Z">
+        <seg>cámbiele el nombre a &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T163724Z" creationid="Mari" creationdate="20211127T163724Z">
