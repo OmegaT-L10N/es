@@ -17821,8 +17821,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T164749Z" creationid="Mari" creationdate="20211127T164749Z">
-        <seg>Inicialmente, es decir cuando se crea el proyecto, la TM principal del proyecto, &lt;f0&gt;project_save.tmx&lt;/f0&gt; está vacía.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164808Z" creationid="Mari" creationdate="20211127T164749Z">
+        <seg>Inicialmente, es decir cuando se crea el proyecto, la TM principal del proyecto, &lt;f0&gt;project_save.tmx&lt;/f0&gt;, está vacía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34140,6 +34140,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This TM gradually becomes filled during the translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164844Z" creationid="Mari" creationdate="20211127T164844Z">
+        <seg>Esta TM se rellena gradualmente durante la traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T231355Z" creationid="Antonio" creationdate="20151127T164023Z">
@@ -35307,6 +35315,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160127T182217Z" creationid="Antonio" creationdate="20160127T182217Z">
         <seg>Para consultar los formatos de archivo que puede manejar OmegaT, vea el menú &lt;g0&gt;Opciones &gt; Filtros de archivo... &lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164946Z" creationid="Mari" creationdate="20211127T164946Z">
+        <seg>Para acelerar el proceso, se pueden reutilizar las traducciones existentes.</seg>
       </tuv>
     </tu>
     <tu>
