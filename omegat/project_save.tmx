@@ -39615,6 +39615,14 @@ de una ventana de Finder para poder iniciarla desde cualquier ubicación.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T172142Z" creationid="Mari" creationdate="20211127T172142Z">
+        <seg>Incluso puede considerar eliminar las que ya no son necesarias, una vez que haya utilizado su contenido para llenar el archivo &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181211T094253Z" creationid="taty" creationdate="20181205T154145Z">
