@@ -22869,8 +22869,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T162851Z" creationid="Mari" creationdate="20211127T162851Z">
-        <seg>OmegaT también hace una copia de seguridad de la memoria de traducción con el nombre project_save.tmx.AÑOMESDÍAHHNN.bak en la misma subcarpeta cada vez que abre o vuelve a cargar un proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211127T162959Z" creationid="Mari" creationdate="20211127T162851Z">
+        <seg>OmegaT también hace una copia de seguridad de la memoria de traducción con el nombre project_save.tmx.AÑOMMDDHHNN.bak en la misma subcarpeta cada vez que abre o vuelve a cargar un proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38801,8 +38801,8 @@ No se encontró la página</seg>
       <tuv lang="en">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T162939Z" creationid="Mari" creationdate="20211127T162939Z">
-        <seg>AÑO es el año de 4 dígitos, MM&lt;/c2&gt; es un mes, &lt;c3&gt;DD&lt;/c3&gt; es el día del mes, &lt;c4&gt;HH&lt;/c4&gt; y &lt;c5&gt;NN&lt;/c5&gt; son horas y minutos respectivamente, de cuando se había guardado la memoria de traducción anterior.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211127T163127Z" creationid="Mari" creationdate="20211127T162939Z">
+        <seg>AÑO es el año de 4 dígitos, MM es el mes, DD es el día del mes, HH y NN son las horas y los minutos cuando se guardó la memoria de traducción anterior.</seg>
       </tuv>
     </tu>
     <tu>
