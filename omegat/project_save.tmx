@@ -38280,6 +38280,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create the target documents in an OmegaT project, the translation memory of the project is output in the form of three files in the root folder of your OmegaT project (see the above description).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T165744Z" creationid="Mari" creationdate="20211127T165744Z">
+        <seg>Al crear los documentos traducidos en un proyecto de OmegaT, la memoria de traducción del proyecto se produce en forma de tres archivos en la carpeta raíz de su proyecto de OmegaT (consulte la descripción anterior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150605T111524Z" creationid="Helli" creationdate="20150603T151048Z">
