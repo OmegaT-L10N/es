@@ -29191,6 +29191,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T170326Z" creationid="Mari" creationdate="20211127T170326Z">
+        <seg>Si desea volver a utilizar una memoria de traducción de un proyecto anterior (por ejemplo, porque el nuevo proyecto es similar al proyecto anterior o utiliza una terminología que podría haber utilizado antes), puede utilizar estas memorias de traducción como "memorias de traducción de entrada", es decir, para importarlas al nuevo proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T112722Z" creationid="hcartagena" creationdate="20180605T170904Z">
