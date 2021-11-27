@@ -15798,6 +15798,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, you should take precautions against data loss when using OmegaT, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T162136Z" creationid="Mari" creationdate="20211127T162136Z">
+        <seg>Sin embargo, cuando utilice OmegaT, al igual que con cualquier otra aplicación, debería tomar ciertas precauciones contra la pérdida de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - Adding a preview function to OmegaT</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T002938Z" creationid="hcartagena" creationdate="20200730T002938Z">
