@@ -30841,6 +30841,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Take particular care when making changes to the files in &lt;f0&gt;source&lt;/f0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164127Z" creationid="Mari" creationdate="20211127T164127Z">
+        <seg>Tenga especial cuidado cuando haga cambios en los archivos de &lt;f0&gt;source&lt;/f0&gt; mientras está en mitad de un proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tamil</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155231Z" creationid="Antonio" creationdate="20151128T155231Z">
@@ -36665,6 +36673,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211019T142803Z" creationid="hcartagena" creationdate="20151118T225018Z">
         <seg>La versión del archivo de proyecto ({0}) es incompatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Until you are familiar with OmegaT, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164024Z" creationid="Mari" creationdate="20211127T164024Z">
+        <seg>Hasta que esté familiarizado con OmegaT, cree archivos traducidos a intervalos regulares y compruebe que el archivo traducido contiene la última versión de su traducción.</seg>
       </tuv>
     </tu>
     <tu>
