@@ -38320,6 +38320,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T171924Z" creationid="Mari" creationdate="20211127T171924Z">
+        <seg>Cuando comience un nuevo proyecto sobre el mismo tema o para el mismo cliente, vaya a la carpeta repositorio desde &lt;g0&gt;Proyecto &gt; Propiedades &gt; Editar proyecto&lt;/g0&gt; y selecciónelo como la carpeta de memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160321T174413Z" creationid="Antonio" creationdate="20160321T174413Z">
