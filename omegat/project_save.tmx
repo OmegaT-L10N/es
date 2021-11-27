@@ -38799,6 +38799,14 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T162939Z" creationid="Mari" creationdate="20211127T162939Z">
+        <seg>AÑO es el año de 4 dígitos, MM&lt;/c2&gt; es un mes, &lt;c3&gt;DD&lt;/c3&gt; es el día del mes, &lt;c4&gt;HH&lt;/c4&gt; y &lt;c5&gt;NN&lt;/c5&gt; son horas y minutos respectivamente, de cuando se había guardado la memoria de traducción anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yandex Translate</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T174428Z" creationid="Antonio" creationdate="20151127T174428Z">
