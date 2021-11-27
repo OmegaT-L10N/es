@@ -38384,6 +38384,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T171612Z" creationid="Mari" creationdate="20211127T171612Z">
+        <seg>Cada vez que termine un proyecto, copie uno de los tres archivos de memoria de traducción de "exportación" de la carpeta raíz del proyecto a la carpeta repositorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whenever you want to see what your</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222321Z" creationid="hcartagena" creationdate="20151201T222248Z">
