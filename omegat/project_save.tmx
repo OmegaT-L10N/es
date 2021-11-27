@@ -16178,6 +16178,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T165146Z" creationid="Mari" creationdate="20211127T165146Z">
+        <seg>Si una frase concreta ya se ha traducido correctamente con anterioridad, no necesita volver a traducirse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T205201Z" creationid="Mari" creationdate="20211125T205201Z">
