@@ -44680,6 +44680,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T163826Z" creationid="Mari" creationdate="20211127T163826Z">
+        <seg>seleccione la copia de seguridad de la memoria de traducción que tenga más probabilidades de contener los datos que está buscando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sentence might look like:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222622Z" creationid="hcartagena" creationdate="20151201T222603Z">
