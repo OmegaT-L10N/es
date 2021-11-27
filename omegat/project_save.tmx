@@ -10155,6 +10155,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T171430Z" creationid="Mari" creationdate="20211127T171430Z">
+        <seg>Cree una carpeta (una "carpeta repositorio") en una ubicación adecuada en su disco duro para las memorias de traducción para un cliente o tema concretos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T214341Z" creationid="Antonio" creationdate="20160124T214341Z">
@@ -17631,6 +17639,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185433Z" creationid="Antonio" creationdate="20151210T185433Z">
         <seg>En este caso la expresión regular ^s^s+ se utiliza para encontrar y listar los segmentos que cumplen esta condición. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, a useful procedure would be:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T171258Z" creationid="Mari" creationdate="20211127T171258Z">
+        <seg>En este caso, un procedimiento útil sería:</seg>
       </tuv>
     </tu>
     <tu>
