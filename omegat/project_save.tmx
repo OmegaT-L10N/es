@@ -34588,6 +34588,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T171247Z" creationid="Mari" creationdate="20211127T171247Z">
+        <seg>Esto es útil si utiliza frecuentemente memorias de traducción creadas anteriormente, por ejemplo, porque son sobre el mismo tema o son para el mismo cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is where you type and edit your translation.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T183909Z" creationid="eumeu" creationdate="20181115T232030Z">
