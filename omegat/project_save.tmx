@@ -22867,6 +22867,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T162851Z" creationid="Mari" creationdate="20211127T162851Z">
+        <seg>OmegaT también hace una copia de seguridad de la memoria de traducción con el nombre project_save.tmx.AÑOMESDÍAHHNN.bak en la misma subcarpeta cada vez que abre o vuelve a cargar un proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T234653Z" creationid="hcartagena" creationdate="20200729T234653Z">
