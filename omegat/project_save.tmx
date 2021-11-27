@@ -17819,6 +17819,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164749Z" creationid="Mari" creationdate="20211127T164749Z">
+        <seg>Inicialmente, es decir cuando se crea el proyecto, la TM principal del proyecto, &lt;f0&gt;project_save.tmx&lt;/f0&gt; está vacía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T151609Z" creationid="Helli" creationdate="20150526T131802Z">
@@ -27214,6 +27222,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T235639Z" creationid="Antonio" creationdate="20151126T161625Z">
         <seg>Recuperar lista de dominios...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164533Z" creationid="Mari" creationdate="20211127T164533Z">
+        <seg>Reutilización de las memorias de traducción</seg>
       </tuv>
     </tu>
     <tu>
