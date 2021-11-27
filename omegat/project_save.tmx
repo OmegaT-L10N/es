@@ -39349,6 +39349,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can regard these three tmx files (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; and &lt;f2&gt;-level2.tmx&lt;/f2&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T170033Z" creationid="Mari" creationdate="20211127T170033Z">
+        <seg>Puede considerar estos tres archivos TMX (&lt;f0&gt;omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; y &lt;f2&gt;-level2.tmx&lt;/f2&gt;) como una "memoria de traducción de exportación", es decir, como una exportación del contenido del proyecto actual en forma bilingüe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select a glossary pane contents layout.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T205021Z" creationid="Mari" creationdate="20211125T205021Z">
