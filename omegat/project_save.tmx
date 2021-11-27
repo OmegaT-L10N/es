@@ -16535,6 +16535,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If the source file is modified after you have begun translating, OmegaT may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T164222Z" creationid="Mari" creationdate="20211127T164222Z">
+        <seg>Si modifica el archivo original después de haber comenzado la traducción, OmegaT puede ser incapaz de encontrar un segmento que ya ha traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Incorrect path</note>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
