@@ -35981,6 +35981,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T165453Z" creationid="Mari" creationdate="20211127T165453Z">
+        <seg>Las memorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memory (TMX) files of older localizations of OmegaT, the documentation and the website can be found in the &lt;a0&gt;"Files" section of the online user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T144654Z" creationid="Cristina" creationdate="20170924T144654Z">
