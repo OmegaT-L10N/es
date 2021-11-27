@@ -20466,6 +20466,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T163955Z" creationid="Mari" creationdate="20211127T163955Z">
+        <seg>Haga copias de manera regular del archivo &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; a otros medios de copia de seguridad, tales como CD o DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T084343Z" creationid="Antonio" creationdate="20160125T084343Z">
@@ -34876,6 +34884,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid losing important data:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T163900Z" creationid="Mari" creationdate="20211127T163900Z">
+        <seg>Para evitar perder datos importantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -43843,6 +43859,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T211046Z" creationid="Antonio" creationdate="20160329T211046Z">
         <seg>abrir el segmento anterior (Mac: &lt;e0&gt;Cmd+Intro&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>open the project</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T163855Z" creationid="Mari" creationdate="20211127T163855Z">
+        <seg>abra el proyecto</seg>
       </tuv>
     </tu>
     <tu>
