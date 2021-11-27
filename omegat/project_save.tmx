@@ -38184,6 +38184,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you translate your files, OmegaT stores all your progress in the translation memory &lt;f0&gt;project_save.tmx&lt;/f0&gt; that resides in the project's &lt;f1&gt;omegat&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211127T162526Z" creationid="Mari" creationdate="20211127T162526Z">
+        <seg>Al traducir los archivos, OmegaT almacena todo el progreso en la memoria de traducción &lt;f0&gt;project_save.tmx&lt;/f0&gt; que reside en la subcarpeta &lt;f1&gt;omegat&lt;/f1&gt; del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T205555Z" creationid="Antonio" creationdate="20160128T124911Z">
