@@ -29647,6 +29647,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T194834Z" creationid="Mari" creationdate="20211129T194834Z">
+        <seg>Se sabe que algunas herramientas producen archivos tmx no válidos en ciertas condiciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T025301Z" creationid="hcartagena" creationdate="20160401T025301Z">
