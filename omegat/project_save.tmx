@@ -9941,8 +9941,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Copy them to a safe place for future referrals.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T201306Z" creationid="Mari" creationdate="20211129T201306Z">
-        <seg>Cópielos en otro lugar para referencias futuras.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201401Z" creationid="Mari" creationdate="20211129T201306Z">
+        <seg>Cópielos en otro lugar para futuras referencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35184,6 +35184,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T163900Z" creationid="Mari" creationdate="20211127T163900Z">
         <seg>Para evitar perder datos importantes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201509Z" creationid="Mari" creationdate="20211129T201509Z">
+        <seg>Para evitar la reutilización del proyecto y, por tanto, la posible contaminación de futuros casos, elimine la carpeta del proyecto o archívela fuera de la zona de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
