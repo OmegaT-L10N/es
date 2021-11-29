@@ -22475,6 +22475,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T203732Z" creationid="Mari" creationdate="20211129T203732Z">
+        <seg>Tenga en cuenta que solo es posible una TMX para un par de idiomas concreto, por lo que si se trata de varias memorias de traducción, tendrá que fusionarlas todas en el archivo XX_YY.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T120442Z" creationid="eumeu" creationdate="20181116T151428Z">
