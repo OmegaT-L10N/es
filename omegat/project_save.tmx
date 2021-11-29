@@ -10213,8 +10213,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T200435Z" creationid="Mari" creationdate="20211129T200435Z">
-        <seg>Cree un proyecto con un nombre apropiado, separado de otros proyectos, en el par de idiomas deseado. Tenga en cuenta que los TMX creados incluirán este nombre.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211129T203150Z" creationid="Mari" creationdate="20211129T200435Z">
+        <seg>Cree un proyecto con un nombre apropiado, separado de otros proyectos, en el par de idiomas deseado. Tenga en cuenta que los archivos TMX creados incluirán este nombre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33316,6 +33316,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T184758Z" creationid="nenyavie" creationdate="20200226T133105Z">
         <seg>El programa pedirá confirmación antes de cerrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T203617Z" creationid="Mari" creationdate="20211129T203617Z">
+        <seg>Los idiomas de origen del proyecto y de la TMX deben ser, por supuesto, idénticos; NL en nuestro ejemplo.</seg>
       </tuv>
     </tu>
     <tu>
