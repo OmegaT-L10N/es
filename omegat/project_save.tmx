@@ -16250,6 +16250,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T194703Z" creationid="Mari" creationdate="20211129T194703Z">
+        <seg>Si se encuentra un error en el archivo, OmegaT indicará la posición dentro del archivo defectuoso en la que se encuentra el error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T191346Z" creationid="nenyavie" creationdate="20200226T143852Z">
