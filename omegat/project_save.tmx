@@ -17787,6 +17787,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T202632Z" creationid="Mari" creationdate="20211129T202632Z">
+        <seg>En este caso, la memoria de traducción NL-EN puede servir de intermediario para ayudar a generar la traducción de NL a ZH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this dialog, select or create a dictionary file folder on your hard drive.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T141855Z" creationid="taty" creationdate="20181109T141855Z">
