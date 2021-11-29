@@ -15774,6 +15774,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T194340Z" creationid="Mari" creationdate="20211129T194340Z">
+        <seg>Sin embargo, OmegaT no es totalmente compatible con los archivos tmx importados de nivel 2 (estos almacenan no solo la traducción, sino también el formato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, if you made mistakes when you</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222801Z" creationid="hcartagena" creationdate="20151201T222801Z">
@@ -34408,6 +34416,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001911Z" creationid="hcartagena" creationdate="20200730T001911Z">
         <seg>Así se pueden administrar muchas sugerencias con más facilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T194237Z" creationid="Mari" creationdate="20211129T194237Z">
+        <seg>Esto permite que OmegaT pueda leer las memorias de traducción producidas por otras herramientas.</seg>
       </tuv>
     </tu>
     <tu>
