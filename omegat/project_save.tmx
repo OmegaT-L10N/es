@@ -23541,6 +23541,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T194221Z" creationid="Mari" creationdate="20211129T194221Z">
+        <seg>OmegaT es compatible con TMX importadas de versiones 1.1-1.4b (tanto de nivel 1 como de nivel 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T203526Z" creationid="Antonio" creationdate="20151130T163545Z">
