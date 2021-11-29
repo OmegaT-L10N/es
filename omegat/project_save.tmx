@@ -32637,6 +32637,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T200305Z" creationid="Mari" creationdate="20211129T200305Z">
+        <seg>La siguiente solución es solo una de las posibilidades, pero bastante sencilla de seguir y sin ningún peligro de sufrir pérdidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T203517Z" creationid="Helli" creationdate="20150526T120102Z">
