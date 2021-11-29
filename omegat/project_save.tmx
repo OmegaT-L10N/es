@@ -19968,6 +19968,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T194437Z" creationid="Mari" creationdate="20211129T194437Z">
+        <seg>Los archivos tmx de nivel 2 seguirán importándose y su contenido textual podrá verse en OmegaT, pero la calidad de las coincidencias aproximadas será algo menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LibreOffice Writer or HTML, OmegaT will convert the formatting into tags</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222515Z" creationid="hcartagena" creationdate="20151201T222515Z">
