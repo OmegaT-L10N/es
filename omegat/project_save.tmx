@@ -34128,6 +34128,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T202405Z" creationid="Mari" creationdate="20211129T202405Z">
+        <seg>Puede haber casos en los que haya realizado un proyecto con, por ejemplo, originales en neerlandés, y una traducción en, digamos, inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be older versions of the documentation and/or translation memories (TMX files) available for your language which are useful to your translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T144144Z" creationid="Cristina" creationdate="20170924T144144Z">
@@ -37744,6 +37752,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T175002Z" creationid="Cristina" creationdate="20170917T175002Z">
         <seg>Uso de OmegaT en Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T202315Z" creationid="Mari" creationdate="20211129T202315Z">
+        <seg>Uso de TMX con idioma alternativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -45108,6 +45124,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T102831Z" creationid="nenyavie" creationdate="20200226T102831Z">
         <seg>busca "es", no "esto" o "no es", etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>see more in Chapter</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T202254Z" creationid="Mari" creationdate="20211129T202254Z">
+        <seg>más información en el capítulo</seg>
       </tuv>
     </tu>
     <tu>
