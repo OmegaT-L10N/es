@@ -10171,6 +10171,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T200435Z" creationid="Mari" creationdate="20211129T200435Z">
+        <seg>Cree un proyecto con un nombre apropiado, separado de otros proyectos, en el par de idiomas deseado. Tenga en cuenta que los TMX creados incluirán este nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T221643Z" creationid="Antonio" creationdate="20160124T221643Z">
