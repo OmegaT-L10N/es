@@ -13990,6 +13990,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T195116Z" creationid="Mari" creationdate="20211129T195116Z">
+        <seg>Las correcciones son operaciones triviales y OmegaT ayuda a solucionar el problema con el mensaje de error correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T203021Z" creationid="hcartagena" creationdate="20151119T203021Z">
