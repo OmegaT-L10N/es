@@ -39295,6 +39295,14 @@ para enlazarlo desde allí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T195202Z" creationid="Mari" creationdate="20211129T195202Z">
+        <seg>Puede solicitar ayuda al grupo de usuarios si tiene problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T150536Z" creationid="Mari" creationdate="20211123T150536Z">
