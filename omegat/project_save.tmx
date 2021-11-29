@@ -17266,6 +17266,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Importing and exporting translation memories</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T194118Z" creationid="Mari" creationdate="20211129T194118Z">
+        <seg>Importación y exportación de memorias de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Importing the project to SVN repository - Windows</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T221355Z" creationid="Antonio" creationdate="20160124T221355Z">
