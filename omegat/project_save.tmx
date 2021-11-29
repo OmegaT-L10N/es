@@ -3206,6 +3206,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T203055Z" creationid="Mari" creationdate="20211129T203055Z">
+        <seg>&lt;e0&gt;Importante: &lt;/e0&gt; la TMX de apoyo debe ser renombrada como XX_YY.tmx, donde XX_YY es el idioma de destino de la tmx, por ejemplo a ZH_CN.tmx en el ejemplo anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184347Z" creationid="Antonio" creationdate="20151210T184347Z">
