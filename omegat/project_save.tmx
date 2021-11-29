@@ -34024,6 +34024,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T202529Z" creationid="Mari" creationdate="20211129T202529Z">
+        <seg>Entonces necesita una traducción en, por ejemplo, chino, pero su traductor no entiende el neerlandés; sin embargo, entiende perfectamente el inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are a number of restrictions:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T154159Z" creationid="Antonio" creationdate="20160126T154159Z">
