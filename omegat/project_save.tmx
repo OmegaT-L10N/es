@@ -17515,6 +17515,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201629Z" creationid="Mari" creationdate="20211129T201629Z">
+        <seg>En los casos en los que participa un equipo de traductores, estos preferirán compartir memorias de traducción comunes en lugar de distribuir sus versiones locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T192602Z" creationid="hcartagena" creationdate="20151117T192602Z">
@@ -29211,6 +29219,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T212310Z" creationid="Antonio" creationdate="20160124T212310Z">
         <seg>Compartir un proyecto usando SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sharing translation memories</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201544Z" creationid="Mari" creationdate="20211129T201544Z">
+        <seg>Compartir las memorias de traducción</seg>
       </tuv>
     </tu>
     <tu>
