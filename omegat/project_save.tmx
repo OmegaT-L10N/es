@@ -23091,6 +23091,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T194536Z" creationid="Mari" creationdate="20211129T194536Z">
+        <seg>OmegaT sigue procedimientos muy estrictos al cargar archivos de memorias de traducción (tmx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T174802Z" creationid="Cristina" creationdate="20170917T165557Z">
