@@ -33880,6 +33880,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T202931Z" creationid="Mari" creationdate="20211129T202931Z">
+        <seg>El traductor verá las traducciones al inglés de los segmentos originales en neerlandés y las utilizará para hacer la traducción al chino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The two types of rules behave as follows:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T120514Z" creationid="Mari" creationdate="20211124T120514Z">
