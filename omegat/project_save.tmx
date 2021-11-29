@@ -23099,6 +23099,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T195219Z" creationid="Mari" creationdate="20211129T195219Z">
+        <seg>OmegaT exporta archivos TMX versión 1.4 (tanto de nivel 1 como de nivel 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT features highly customizable filters, enabling you to configure numerous aspects.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160127T171004Z" creationid="Antonio" creationdate="20160127T171004Z">
@@ -32802,6 +32810,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="es" changeid="hcartagena" changedate="20151209T180255Z" creationid="hcartagena" creationdate="20151117T191627Z">
         <seg>Se debe ingresar el código de idioma con el formato xx-YY, xxx-YY, xx_YY o xxx_YY, donde 
 xx o xxx es el código de idioma e YY es el código de región o país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T195525Z" creationid="Mari" creationdate="20211129T195525Z">
+        <seg>La exportación de nivel 2 no es totalmente compatible con el estándar de nivel 2, pero se aproxima lo suficiente y generará coincidencias correctas en otras herramientas de memoria de traducción que sean compatibles con el nivel 2 de TMX.</seg>
       </tuv>
     </tu>
     <tu>
