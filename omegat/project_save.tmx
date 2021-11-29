@@ -10243,6 +10243,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating a translation memory for selected documents</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T195650Z" creationid="Mari" creationdate="20211129T195650Z">
+        <seg>Crear una memoria de traducción para los documentos seleccionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T201119Z" creationid="Mari" creationdate="20211126T201119Z">
