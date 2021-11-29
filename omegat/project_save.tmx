@@ -16982,6 +16982,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T195614Z" creationid="Mari" creationdate="20211129T195614Z">
+        <seg>Si solo necesita información textual (y no información de formato), utilice el archivo nivel 1 que ha creado OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223416Z" creationid="hcartagena" creationdate="20151201T223410Z">
