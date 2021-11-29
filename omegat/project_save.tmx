@@ -9939,6 +9939,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy them to a safe place for future referrals.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201306Z" creationid="Mari" creationdate="20211129T201306Z">
+        <seg>Cópielos en otro lugar para referencias futuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T120110Z" creationid="nenyavie" creationdate="20200226T120110Z">
