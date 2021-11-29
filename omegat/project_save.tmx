@@ -17443,6 +17443,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T200028Z" creationid="Mari" creationdate="20211129T200028Z">
+        <seg>En caso de que los traductores necesiten compartir sus TMX excluyendo algunas de sus partes o incluyendo solo las traducciones de ciertos archivos, compartir el archivo &lt;f0&gt;Nombredelproyecto-omegat.tmx&lt;/f0&gt; completo es impensable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T164936Z" creationid="Mari" creationdate="20211126T164936Z">
