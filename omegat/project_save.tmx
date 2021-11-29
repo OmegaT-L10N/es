@@ -35206,6 +35206,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To check everything is as expected, you may press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201043Z" creationid="Mari" creationdate="20211129T201043Z">
+        <seg>Para comprobar que todo está como esperaba, puede pulsar &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; para crear los documentos traducidos y verificar su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T191310Z" creationid="Mari" creationdate="20211124T191310Z">
@@ -38516,6 +38524,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T165744Z" creationid="Mari" creationdate="20211127T165744Z">
         <seg>Al crear los documentos traducidos en un proyecto de OmegaT, la memoria de traducción del proyecto se produce en forma de tres archivos en la carpeta raíz de su proyecto de OmegaT (consulte la descripción anterior).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you exit the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201111Z" creationid="Mari" creationdate="20211129T201111Z">
+        <seg>Al salir del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
