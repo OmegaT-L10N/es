@@ -9923,6 +9923,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T200703Z" creationid="Mari" creationdate="20211129T200703Z">
+        <seg>Copie las memorias de traducción, que contienen las traducciones de los documentos mencionados anteriormente, en la subcarpeta &lt;f0&gt;tm/auto&lt;/f0&gt; del nuevo proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T120110Z" creationid="nenyavie" creationdate="20200226T120110Z">
