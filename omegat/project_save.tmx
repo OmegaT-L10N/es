@@ -23339,6 +23339,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T202101Z" creationid="Mari" creationdate="20211129T202101Z">
+        <seg>OmegaT interactúa con SVN y Git, dos sistemas comunes de control de versiones y revisiones de software en equipo (RCS), disponibles bajo una licencia de código abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT introduction tutorial</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170918T184615Z" creationid="Cristina" creationdate="20170918T184615Z">
