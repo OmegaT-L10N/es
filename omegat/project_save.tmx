@@ -8779,6 +8779,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for possible Tag errors with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; and untranslated segments with &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T200955Z" creationid="Mari" creationdate="20211129T200955Z">
+        <seg>Pulse &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; para comprobar posibles errores de etiquetas y &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt; para los segmentos sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T121551Z" creationid="nenyavie" creationdate="20200226T121551Z">
@@ -30325,6 +30333,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211103T114645Z" creationid="Antonio" creationdate="20151127T163956Z">
         <seg>Iniciar reorganización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T200727Z" creationid="Mari" creationdate="20211129T200727Z">
+        <seg>Empiece el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
