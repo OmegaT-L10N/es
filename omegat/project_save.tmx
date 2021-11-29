@@ -33576,6 +33576,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The solution in our example is to copy the existing translation memory into the &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T202828Z" creationid="Mari" creationdate="20211129T202828Z">
+        <seg>La solución en nuestro ejemplo es copiar la memoria de traducción existente en la subcarpeta &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; y renombrarla como ZH_CN.tmx para indicar el idioma de destino de la tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T152212Z" creationid="Mari" creationdate="20211123T152212Z">
