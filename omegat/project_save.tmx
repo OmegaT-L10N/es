@@ -38530,8 +38530,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When you exit the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T201111Z" creationid="Mari" creationdate="20211129T201111Z">
-        <seg>Al salir del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201121Z" creationid="Mari" creationdate="20211129T201111Z">
+        <seg>Al salir del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -45564,6 +45564,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223627Z" creationid="hcartagena" creationdate="20151201T223624Z">
         <seg>la carpeta &lt;f1&gt;/glossary/&lt;/f1&gt; dentro de la carpeta de su proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211129T201243Z" creationid="Mari" creationdate="20211129T201243Z">
+        <seg>los archivos TMX de la carpeta principal del proyecto (ver arriba) contienen ahora las traducciones en el par de idiomas seleccionado para los archivos que ha copiado en la carpeta source.</seg>
       </tuv>
     </tu>
     <tu>
