@@ -34660,6 +34660,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T121747Z" creationid="Mari" creationdate="20211130T121747Z">
+        <seg>Esta operación también se puede llevar a cabo en OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
@@ -41287,6 +41295,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T141814Z" creationid="Antonio" creationdate="20160330T141814Z">
         <seg>contiene las estadísticas más recientes de concordancia del proyecto generadas mediante &lt;g0&gt;Herramientas &gt; Estadísticas de coincidencias&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T121817Z" creationid="Mari" creationdate="20211130T121817Z">
+        <seg>copie los archivos en la carpeta &lt;f0&gt;source&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
