@@ -5323,6 +5323,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T152236Z" creationid="Mari" creationdate="20211130T152236Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T152046Z" creationid="Mari" creationdate="20211130T152046Z">
@@ -20992,6 +21000,14 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170912T182306Z" creationid="Cristina" creationdate="20170816T190429Z">
         <seg>Muchos de los que están leyendo esto probablemente sean traductores que han traducido mucha documentación de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T152219Z" creationid="Mari" creationdate="20211130T152219Z">
+        <seg>Asignación para proyectos en un subdirectorio del repositorio:</seg>
       </tuv>
     </tu>
     <tu>
