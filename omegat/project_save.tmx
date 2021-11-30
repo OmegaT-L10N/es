@@ -22555,6 +22555,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122409Z" creationid="Mari" creationdate="20211130T122409Z">
+        <seg>Tenga en cuenta que OmegaT solo modifica dos archivos durante la traducción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T120442Z" creationid="eumeu" creationdate="20181116T151428Z">
