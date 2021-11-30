@@ -7286,6 +7286,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T115640Z" creationid="Mari" creationdate="20211130T115640Z">
+        <seg>Como es fácil encontrar mucha información sobre SVN y Git, no describiremos aquí cómo funcionan, sino solo cómo funciona con ellos OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T200215Z" creationid="Mari" creationdate="20211126T200215Z">
