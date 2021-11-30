@@ -35332,6 +35332,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122208Z" creationid="Mari" creationdate="20211130T122208Z">
+        <seg>Para &lt;e0&gt;eliminar archivos&lt;/e0&gt;, utilice un cliente SVN o Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20150603T235509Z" creationid="Usuario" creationdate="20150603T235509Z">
@@ -37503,8 +37511,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use an SVN or Git client to add the files to translate.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T121725Z" creationid="Mari" creationdate="20211130T121725Z">
-        <seg>Utilice un cliente de SVN o Git para añadir los archivos que se van a traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122114Z" creationid="Mari" creationdate="20211130T121725Z">
+        <seg>Utilice un cliente SVN o Git para añadir los archivos que se van a traducir.</seg>
       </tuv>
     </tu>
     <tu>
