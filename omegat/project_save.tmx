@@ -5289,6 +5289,22 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T123129Z" creationid="Mari" creationdate="20211130T123129Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T123231Z" creationid="Mari" creationdate="20211130T123231Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="es" changeid="briac" changedate="20171102T112415Z" creationid="briac" creationdate="20171102T112415Z">
@@ -33580,6 +33596,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T173442Z" creationid="taty" creationdate="20181116T173403Z">
         <seg>Las extensiónes reconocidas son &lt;f1&gt;TXT&lt;/f1&gt; y &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T123124Z" creationid="Mari" creationdate="20211130T123124Z">
+        <seg>La referencia a la URL se especifica como se indica más abajo (en este caso a un repositorio de Git):</seg>
       </tuv>
     </tu>
     <tu>
