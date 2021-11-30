@@ -27050,6 +27050,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150825Z" creationid="Mari" creationdate="20211130T150825Z">
+        <seg>Ubicación remota o directorio de los archivos a traducir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211103T115222Z" creationid="nenyavie" creationdate="20200225T093351Z">
@@ -30701,8 +30709,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Step 2: Add files to translate and other resources</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T121308Z" creationid="Mari" creationdate="20211130T121308Z">
-        <seg>Paso 2: añada archivos para traducir y otros recursos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150853Z" creationid="Mari" creationdate="20211130T121308Z">
+        <seg>Paso 2: añada los archivos a traducir y otros recursos</seg>
       </tuv>
     </tu>
     <tu>
@@ -44097,6 +44105,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150838Z" creationid="Mari" creationdate="20211130T150838Z">
+        <seg>[fuzzy]&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mar</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T152801Z" creationid="Antonio" creationdate="20151128T152758Z">
@@ -45398,6 +45414,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T150606Z" creationid="Mari" creationdate="20211130T150606Z">
         <seg>tipo de repositorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150807Z" creationid="Mari" creationdate="20211130T150807Z">
+        <seg>URL del repositorio:</seg>
       </tuv>
     </tu>
     <tu>
