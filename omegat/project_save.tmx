@@ -22619,6 +22619,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T120814Z" creationid="Mari" creationdate="20211130T120814Z">
+        <seg>Nota: si el proyecto se creó con la línea de comandos del paso 3, este paso ya lo ha seguido el programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T194001Z" creationid="hcartagena" creationdate="20151119T230707Z">
