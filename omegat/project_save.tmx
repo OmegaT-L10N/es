@@ -20932,6 +20932,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150536Z" creationid="Mari" creationdate="20211130T150536Z">
+        <seg>Asignación de los parámetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T155918Z" creationid="Antonio" creationdate="20151127T175436Z">
@@ -45374,6 +45382,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T163724Z" creationid="Mari" creationdate="20211127T163724Z">
         <seg>cambie el nombre del archivo &lt;f0&gt;project_save.tmx &lt;/f0&gt;actual (por ejemplo, a &lt;f1&gt;project_save.tmx.temporal&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150606Z" creationid="Mari" creationdate="20211130T150606Z">
+        <seg>tipo de repositorio</seg>
       </tuv>
     </tu>
     <tu>
