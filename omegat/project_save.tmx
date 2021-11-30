@@ -10227,6 +10227,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T120426Z" creationid="Mari" creationdate="20211130T120426Z">
+        <seg>Cree un nuevo proyecto de OmegaT vacío en el repositorio local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T203150Z" creationid="Mari" creationdate="20211129T200435Z">
@@ -34600,6 +34608,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
         <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Mayús&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T120447Z" creationid="Mari" creationdate="20211130T120447Z">
+        <seg>Esto se puede hacer de dos formas:</seg>
       </tuv>
     </tu>
     <tu>
