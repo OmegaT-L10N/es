@@ -10307,6 +10307,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T115731Z" creationid="Mari" creationdate="20211130T115731Z">
+        <seg>Creación de un proyecto vacío en un servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T201119Z" creationid="Mari" creationdate="20211126T201119Z">
@@ -30477,6 +30485,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T044509Z" creationid="hcartagena" creationdate="20160401T044509Z">
         <seg>Paso 1: ajustar parámetros de alineación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T115717Z" creationid="Mari" creationdate="20211130T115717Z">
+        <seg>Paso 1: cree un proyecto vacío en un servidor</seg>
       </tuv>
     </tu>
     <tu>
