@@ -29231,6 +29231,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T115116Z" creationid="Mari" creationdate="20211130T115116Z">
+        <seg>La configuración de un proyecto de trabajo en grupo requiere conocimiento de los servidores y los sistemas de versiones SVN o Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T163042Z" creationid="eumeu" creationdate="20181115T212133Z">
