@@ -10211,6 +10211,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T120339Z" creationid="Mari" creationdate="20211130T120339Z">
+        <seg>Cree una copia local del repositorio (&lt;c0&gt;check ou&lt;/c0&gt; con SVN, &lt;c1&gt;clone&lt;/c1&gt;con Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T214341Z" creationid="Antonio" creationdate="20160124T214341Z">
