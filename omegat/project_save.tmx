@@ -30369,6 +30369,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special case: selective sharing</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T145359Z" creationid="Mari" creationdate="20211130T145359Z">
+        <seg>Caso especial: compartir de forma selectiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T181459Z" creationid="Antonio" creationdate="20160331T181459Z">
