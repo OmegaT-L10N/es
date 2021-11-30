@@ -21020,6 +21020,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T153234Z" creationid="Mari" creationdate="20211130T153234Z">
+        <seg>Asignación para recursos adicionales del repositorio remoto, con filtros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for projects in a subdirectory of the repository:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T152219Z" creationid="Mari" creationdate="20211130T152219Z">
