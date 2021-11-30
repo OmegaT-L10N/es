@@ -6195,6 +6195,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151325Z" creationid="Mari" creationdate="20211130T151325Z">
+        <seg>Añada patrones utilizando caracteres comodín (estilo Apache Ant): *, ?, **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T162434Z" creationid="Cristina" creationdate="20170917T162434Z">
@@ -42097,6 +42105,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T084314Z" creationid="Antonio" creationdate="20151128T084314Z">
         <seg>ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151237Z" creationid="Mari" creationdate="20211130T151237Z">
+        <seg>excluye</seg>
       </tuv>
     </tu>
     <tu>
