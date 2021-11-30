@@ -10227,6 +10227,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T120010Z" creationid="Mari" creationdate="20211130T120010Z">
+        <seg>Cree un repositorio de SVN o Git en un servidor al que puedan acceder los traductores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T221643Z" creationid="Antonio" creationdate="20160124T221643Z">
