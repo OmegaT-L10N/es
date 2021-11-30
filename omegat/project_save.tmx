@@ -2745,9 +2745,9 @@ El ajuste actual es {0}MB;</seg>
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T124100Z" creationid="Mari" creationdate="20211130T124100Z">
-        <seg>&lt;/repository&gt;
-&lt;/repositories&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T152756Z" creationid="Mari" creationdate="20211130T124100Z">
+        <seg>&lt;/repositorio&gt;
+&lt;/repositorios&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5341,8 +5341,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T152046Z" creationid="Mari" creationdate="20211130T152046Z">
-        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T152842Z" creationid="Mari" creationdate="20211130T152046Z">
+        <seg>&lt;tipo de repositorio="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
     </tu>
     <tu>
