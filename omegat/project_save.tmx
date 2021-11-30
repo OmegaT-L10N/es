@@ -3902,6 +3902,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T120518Z" creationid="Mari" creationdate="20211130T120518Z">
+        <seg>&lt;g0&gt;Proyecto&lt;/g0&gt; &lt;g1&gt;Nuevo...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Remove HTML comments in translated document&lt;/g0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T144753Z" creationid="Mari" creationdate="20211123T144753Z">
@@ -44387,6 +44395,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161520Z" creationid="Antonio" creationdate="20160330T161520Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T120609Z" creationid="Mari" creationdate="20211130T120609Z">
+        <seg>en la línea de comandos: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
