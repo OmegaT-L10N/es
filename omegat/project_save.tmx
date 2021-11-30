@@ -17941,6 +17941,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T145850Z" creationid="Mari" creationdate="20211130T145850Z">
+        <seg>En este caso, el procedimiento es el mismo, pero el gestor de proyectos no añade (todos) los archivos al proyecto bajo control de versiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this dialog, select or create a dictionary file folder on your hard drive.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T141855Z" creationid="taty" creationdate="20181109T141855Z">
