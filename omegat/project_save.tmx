@@ -25201,8 +25201,8 @@ cual bruma se disipa</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20210929T141357Z" creationid="hcartagena" creationdate="20180604T231521Z">
-        <seg>Ponga los archivos de origen en ./source y el material
+      <tuv lang="es" changeid="Mari" changedate="20211130T123857Z" creationid="hcartagena" creationdate="20180604T231521Z">
+        <seg>Ponga los archivos originales en ./source y el material
 complementario en ./tm, ./glossary y ./dictionary según corresponda y luego
 confirme todo.</seg>
       </tuv>
