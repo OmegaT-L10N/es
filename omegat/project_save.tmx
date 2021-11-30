@@ -22001,6 +22001,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151228Z" creationid="Mari" creationdate="20211130T151228Z">
+        <seg>Nombre de la carpeta o archivo remotos, relativos a la URL del repositorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name the image NewImage.png</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T180203Z" creationid="Cristina" creationdate="20170924T161227Z">
