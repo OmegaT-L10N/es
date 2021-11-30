@@ -6587,6 +6587,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T153050Z" creationid="Mari" creationdate="20211130T153050Z">
+        <seg>Todos los contenidos de &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; se asignan al proyecto local de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T152154Z" creationid="Mari" creationdate="20211130T152154Z">
