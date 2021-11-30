@@ -16696,6 +16696,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T121246Z" creationid="Mari" creationdate="20211130T121246Z">
+        <seg>Si el proyecto utiliza filtros y parámetros de segmentación específicos, los archivos &lt;f0&gt;filters.xml&lt;/f0&gt; y &lt;f1&gt;segmentation.conf&lt;/f1&gt; deben añadirse al sistema de versiones y publicarse en el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T120453Z" creationid="Mari" creationdate="20211124T120453Z">
