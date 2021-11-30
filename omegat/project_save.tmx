@@ -18963,6 +18963,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T115523Z" creationid="Mari" creationdate="20211130T115523Z">
+        <seg>Por lo tanto, debería llevarlo a cabo un gestor de proyectos, jefe de proyecto o ingeniero de localización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T190625Z" creationid="eumeu" creationdate="20181116T155113Z">
