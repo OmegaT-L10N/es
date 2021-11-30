@@ -24199,6 +24199,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122754Z" creationid="Mari" creationdate="20211130T122754Z">
+        <seg>Una vez que el proyecto está configurado en el servidor, el gestor de proyectos puede invitar al traductor a trabajar en él de dos formas diferentes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T095823Z" creationid="Antonio" creationdate="20160125T095823Z">
@@ -30605,6 +30613,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T044521Z" creationid="hcartagena" creationdate="20160401T044521Z">
         <seg>Paso 2: hacer correcciones manuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122720Z" creationid="Mari" creationdate="20211130T122720Z">
+        <seg>Paso 3: envíe una invitación al traductor</seg>
       </tuv>
     </tu>
     <tu>
