@@ -8389,6 +8389,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151820Z" creationid="Mari" creationdate="20211130T151820Z">
+        <seg>De forma predeterminada, se incluyen todos los archivos que no están excluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T145154Z" creationid="taty" creationdate="20181205T145154Z">
