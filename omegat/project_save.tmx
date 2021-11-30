@@ -18446,6 +18446,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T145957Z" creationid="Mari" creationdate="20211130T145957Z">
+        <seg>En su lugar, los traductores copian los archivos ellos mismos, o añaden mapeos para sincronizar los archivos de otras ubicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171003T152349Z" creationid="Cristina" creationdate="20170918T192203Z">
