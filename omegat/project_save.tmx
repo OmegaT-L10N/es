@@ -37485,6 +37485,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T121725Z" creationid="Mari" creationdate="20211130T121725Z">
+        <seg>Utilice un cliente de SVN o Git para añadir los archivos que se van a traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T120357Z" creationid="Helli" creationdate="20150526T134516Z">
