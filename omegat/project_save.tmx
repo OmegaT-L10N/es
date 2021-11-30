@@ -30279,6 +30279,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T121101Z" creationid="Mari" creationdate="20211130T121101Z">
+        <seg>Parámetros específicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T105254Z" creationid="nenyavie" creationdate="20200225T112145Z">
