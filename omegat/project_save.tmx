@@ -46296,6 +46296,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T121935Z" creationid="Mari" creationdate="20211130T121935Z">
+        <seg>utilice el comando &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Enviar archivos originales&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>user's default file filters</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T151844Z" creationid="Antonio" creationdate="20160330T151844Z">
