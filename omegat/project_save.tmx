@@ -16787,6 +16787,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T145301Z" creationid="Mari" creationdate="20211130T145301Z">
+        <seg>Si hay alguna diferencia, compruebe que los archivos &lt;f0&gt;filters.xml&lt;/f0&gt; y &lt;f1&gt;segmentation.conf&lt;/f1&gt; están bajo el control de versiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T162203Z" creationid="taty" creationdate="20181205T162203Z">
