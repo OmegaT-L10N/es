@@ -11151,6 +11151,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T152023Z" creationid="Mari" creationdate="20211130T152023Z">
+        <seg>Asignación del proyecto predeterminada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T162544Z" creationid="Helli" creationdate="20150526T130841Z">
@@ -13335,6 +13343,14 @@ soy la pantalla azul de la muerte,
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T193951Z" creationid="hcartagena" creationdate="20151117T193951Z">
         <seg>La búsqueda exacta encuentra la cadena consultada de manera textual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151954Z" creationid="Mari" creationdate="20211130T151954Z">
+        <seg>Ejemplos de asignación</seg>
       </tuv>
     </tu>
     <tu>
