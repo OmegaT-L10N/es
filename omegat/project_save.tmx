@@ -16737,6 +16737,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122644Z" creationid="Mari" creationdate="20211130T122644Z">
+        <seg>Si el traductor intenta modificarlos, volverán a su estado original cada vez que se abra, se cierre, se guarde o se vuelva a cargar el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T162203Z" creationid="taty" creationdate="20181205T162203Z">
