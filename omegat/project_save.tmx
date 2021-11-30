@@ -7328,6 +7328,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151556Z" creationid="Mari" creationdate="20211130T151556Z">
+        <seg>Como se menciona arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001353Z" creationid="hcartagena" creationdate="20200730T001353Z">
@@ -13319,6 +13327,14 @@ soy la pantalla azul de la muerte,
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T193951Z" creationid="hcartagena" creationdate="20151117T193951Z">
         <seg>La búsqueda exacta encuentra la cadena consultada de manera textual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151754Z" creationid="Mari" creationdate="20211130T151754Z">
+        <seg>Ejemplo: &lt;u0&gt;**/*.docx&lt;/u0&gt; para añadir todos los archivos .docx sin importar su ubicación en el proyecto, incluso en las carpetas excluídas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43419,6 +43435,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144511Z" creationid="Antonio" creationdate="20151128T144511Z">
         <seg>ina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151538Z" creationid="Mari" creationdate="20211130T151538Z">
+        <seg>incluye</seg>
       </tuv>
     </tu>
     <tu>
