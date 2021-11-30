@@ -44121,6 +44121,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151157Z" creationid="Mari" creationdate="20211130T151157Z">
+        <seg>asignación del repositorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mar</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T152801Z" creationid="Antonio" creationdate="20151128T152758Z">
