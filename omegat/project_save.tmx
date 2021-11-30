@@ -5331,6 +5331,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T153259Z" creationid="Mari" creationdate="20211130T153259Z">
+        <seg>&lt;tipo de repositorio="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T152907Z" creationid="Mari" creationdate="20211130T152236Z">
