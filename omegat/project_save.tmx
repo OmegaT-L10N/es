@@ -2410,8 +2410,8 @@ en modo de trabajo en grupo.)</seg>
       <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211002T180614Z" creationid="hcartagena" creationdate="20151116T193149Z">
-        <seg>1) Reducir el número de archivos de origen y traducir en lotes.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T123943Z" creationid="hcartagena" creationdate="20151116T193149Z">
+        <seg>1) Reduzca el número de archivos originales y traducir en lotes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2485,8 +2485,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211002T180556Z" creationid="hcartagena" creationdate="20151116T193152Z">
-        <seg>2) Aumentar la cantidad de memoria disponible para OmegaT
+      <tuv lang="es" changeid="Mari" changedate="20211130T123956Z" creationid="hcartagena" creationdate="20151116T193152Z">
+        <seg>2) Aumente la cantidad de memoria disponible para OmegaT
 con la instrucción "java -Xmx&lt;tamaño-en-MB&gt;M -jar OmegaT.jar" en la
 línea de comandos o en el script de arranque de OmegaT.
 El ajuste actual es {0}MB;</seg>
