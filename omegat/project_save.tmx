@@ -45472,6 +45472,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T123045Z" creationid="Mari" creationdate="20211130T123045Z">
+        <seg>enviando un archivo &lt;f0&gt;omegat.project&lt;/f0&gt; que contenga la referencia a la URL y pidiendo al traductor que lo copie en una carpeta dedicada y lo abra con OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T122934Z" creationid="Mari" creationdate="20211130T122934Z">
