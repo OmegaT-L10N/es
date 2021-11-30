@@ -21993,6 +21993,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151033Z" creationid="Mari" creationdate="20211130T151033Z">
+        <seg>Nombre de la carpeta o archivo locales, relativos a la raíz del proyecto de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name the image NewImage.png</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T180203Z" creationid="Cristina" creationdate="20170924T161227Z">
@@ -27052,8 +27060,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remote location or directory of the files to translate.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T150825Z" creationid="Mari" creationdate="20211130T150825Z">
-        <seg>Ubicación remota o directorio de los archivos a traducir</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150913Z" creationid="Mari" creationdate="20211130T150825Z">
+        <seg>Ubicación remota o directorio de los archivos a traducir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44107,8 +44115,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>mapping local</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T150838Z" creationid="Mari" creationdate="20211130T150838Z">
-        <seg>[fuzzy]&lt;mapping local="" repository=""/&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150928Z" creationid="Mari" creationdate="20211130T150838Z">
+        <seg>asignación local</seg>
       </tuv>
     </tu>
     <tu>
