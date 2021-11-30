@@ -4314,8 +4314,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T152245Z" creationid="Mari" creationdate="20211130T152245Z">
-        <seg>[fuzzy]&lt;mapping local="" repository=""/&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T153010Z" creationid="Mari" creationdate="20211130T152245Z">
+        <seg>&lt;asignación local="" repositorio="En-US_DE_project"/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5333,8 +5333,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T152236Z" creationid="Mari" creationdate="20211130T152236Z">
-        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211130T152907Z" creationid="Mari" creationdate="20211130T152236Z">
+        <seg>&lt;tipo de repositorio="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
     </tu>
     <tu>
