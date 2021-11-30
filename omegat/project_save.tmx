@@ -6497,6 +6497,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files are read-only.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122542Z" creationid="Mari" creationdate="20211130T122542Z">
+        <seg>El resto de archivos son de solo lectura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T181546Z" creationid="hcartagena" creationdate="20180605T181546Z">
@@ -42196,6 +42204,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122417Z" creationid="Mari" creationdate="20211130T122417Z">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glv</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T152510Z" creationid="Antonio" creationdate="20151128T152510Z">
@@ -44491,6 +44507,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161520Z" creationid="Antonio" creationdate="20160330T161520Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122413Z" creationid="Mari" creationdate="20211130T122413Z">
+        <seg>omegat/project_save.tmx</seg>
       </tuv>
     </tu>
     <tu>
