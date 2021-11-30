@@ -26363,6 +26363,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T120952Z" creationid="Mari" creationdate="20211130T120952Z">
+        <seg>Publique el nuevo proyecto de OmegaT en el servidor (&lt;c0&gt;commit&lt;/c0&gt; con SVN, &lt;c1&gt;commit&lt;/c1&gt; seguido de &lt;c2&gt;push&lt;/c2&gt; con Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211103T112310Z" creationid="Antonio" creationdate="20151127T171648Z">
