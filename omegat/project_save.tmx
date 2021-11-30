@@ -13323,6 +13323,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151528Z" creationid="Mari" creationdate="20211130T151528Z">
+        <seg>Ejemplo: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excluye los archivos que tienen /excludedfolder/ en la ruta de acceso y los archivos con la extensión .txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T175027Z" creationid="Antonio" creationdate="20151127T175018Z">
@@ -29301,6 +29309,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T115051Z" creationid="Mari" creationdate="20211124T115051Z">
         <seg>Segmentación a nivel de frase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T151348Z" creationid="Mari" creationdate="20211130T151348Z">
+        <seg>Separe los diferentes patrones con punto y coma.</seg>
       </tuv>
     </tu>
     <tu>
