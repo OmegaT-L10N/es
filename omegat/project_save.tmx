@@ -2742,6 +2742,16 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T124100Z" creationid="Mari" creationdate="20211130T124100Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211027T103600Z" creationid="Antonio" creationdate="20151127T173810Z">
@@ -17567,6 +17577,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T144525Z" creationid="eumeu" creationdate="20181130T181442Z">
         <seg>Además, cuando el clic derecho se produce en un segmento abierto, se proponen otras opciones relativas a &lt;e12&gt;Traducciónes alternativas&lt;/e12&gt;, por ejemplo saltar a otra instancia de segmentos no únicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T124144Z" creationid="Mari" creationdate="20211130T124144Z">
+        <seg>En ambos casos, el gestor de proyectos debe enviar al traductor su identificación y contraseña para acceder al repositorio.</seg>
       </tuv>
     </tu>
     <tu>
