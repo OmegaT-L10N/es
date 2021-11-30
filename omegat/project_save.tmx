@@ -4320,6 +4320,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T153539Z" creationid="Mari" creationdate="20211130T153539Z">
+        <seg>&lt;asignación local=repositorio "source/subdir"=""&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T224906Z" creationid="hcartagena" creationdate="20200729T224906Z">
