@@ -34854,6 +34854,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T150657Z" creationid="Mari" creationdate="20211130T150657Z">
+        <seg>Puede ser http (que incluye https), svn, git o file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160321T173422Z" creationid="Antonio" creationdate="20160321T173422Z">
