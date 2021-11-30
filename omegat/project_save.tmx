@@ -45472,6 +45472,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T122934Z" creationid="Mari" creationdate="20211130T122934Z">
+        <seg>enviando la URL del proyecto y pidiendo al traductor que cree una copia local mediante &lt;m0&gt;&lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Descargar proyecto de trabajo en grupo&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sentence might look like:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222622Z" creationid="hcartagena" creationdate="20151201T222603Z">
