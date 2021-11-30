@@ -30569,6 +30569,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T121308Z" creationid="Mari" creationdate="20211130T121308Z">
+        <seg>Paso 2: añada archivos para traducir y otros recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T044521Z" creationid="hcartagena" creationdate="20160401T044521Z">
