@@ -9021,6 +9021,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T145059Z" creationid="Mari" creationdate="20211130T145059Z">
+        <seg>Comprobación de las estadísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T160412Z" creationid="Cristina" creationdate="20170916T160412Z">
@@ -32212,6 +32220,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T162005Z" creationid="eumeu" creationdate="20181116T131711Z">
         <seg>La ventana Archivos del proyecto enumera los archivos del proyecto y visualiza otra información del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211130T145200Z" creationid="Mari" creationdate="20211130T145200Z">
+        <seg>El gestor de proyectos debe comprobar junto al traductor que las estadísticas son idénticas en ambos lados (lado del servidor y lado del traductor).</seg>
       </tuv>
     </tu>
     <tu>
