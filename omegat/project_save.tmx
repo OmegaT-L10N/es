@@ -4354,6 +4354,16 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T121918Z" creationid="Mari" creationdate="20211201T121918Z">
+        <seg>&lt;asignación local="source/readme_tr.txt" repositorio="release/readme.txt"/&gt;
+&lt;/repositorio&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211201T121434Z" creationid="Mari" creationdate="20211130T153539Z">
@@ -5369,6 +5379,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T152537Z" creationid="Mari" creationdate="20211130T123231Z">
         <seg>&lt;tipo de repositorio="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T121840Z" creationid="Mari" creationdate="20211201T121840Z">
+        <seg>&lt;tipo de repositorio="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21114,6 +21132,14 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T150536Z" creationid="Mari" creationdate="20211130T150536Z">
         <seg>Asignación de los parámetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping with renaming:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T121818Z" creationid="Mari" creationdate="20211201T121818Z">
+        <seg>Asignación con cambio de nombre:</seg>
       </tuv>
     </tu>
     <tu>
