@@ -3568,6 +3568,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T115710Z" creationid="Mari" creationdate="20211201T115710Z">
+        <seg>&lt;excluye&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;event&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can be: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;typed&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;pressed&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;released&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T125507Z" creationid="Helli" creationdate="20150526T125340Z">
