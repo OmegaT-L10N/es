@@ -35506,6 +35506,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T122133Z" creationid="Mari" creationdate="20211201T122133Z">
+        <seg>Esto permite cambiar el nombre del archivo que se va a traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T190147Z" creationid="Antonio" creationdate="20151210T190147Z">
