@@ -20672,6 +20672,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T122255Z" creationid="Mari" creationdate="20211201T122255Z">
+        <seg>Asignación de archivos local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164439Z" creationid="hcartagena" creationdate="20180605T164439Z">
