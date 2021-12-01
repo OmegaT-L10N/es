@@ -6627,6 +6627,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T120502Z" creationid="Mari" creationdate="20211201T120502Z">
+        <seg>Todo el contenido de &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; se asigna a la carpeta local de origen del proyecto OmegaT, excepto todos los archivos *.bak excepto readme.bak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T153050Z" creationid="Mari" creationdate="20211130T153050Z">
