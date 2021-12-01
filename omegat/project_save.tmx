@@ -4354,6 +4354,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T123309Z" creationid="Mari" creationdate="20211201T123309Z">
+        <seg>&lt;asignación local="source/archivo.txt" repositorio="mío/archivo.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
 &lt;/repository&gt;</seg>
       </tuv>
