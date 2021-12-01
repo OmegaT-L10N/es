@@ -2742,6 +2742,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T120303Z" creationid="Mari" creationdate="20211201T120303Z">
+        <seg>&lt;/asignación&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -4092,6 +4100,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T160151Z" creationid="Cristina" creationdate="20170820T160151Z">
         <seg>&lt;i1&gt;OmegaT se puede instalar en cualquier sistema operativo que pueda ejecutar la versión 1.6 de Java Runtime Environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T120250Z" creationid="Mari" creationdate="20211201T120250Z">
+        <seg>&lt;incluye&gt;readme.bak&lt;/incluye&gt;</seg>
       </tuv>
     </tu>
     <tu>
