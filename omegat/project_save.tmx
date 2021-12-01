@@ -5375,6 +5375,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211201T122424Z" creationid="Mari" creationdate="20211201T122424Z">
+        <seg>&lt;tipo de repositorio="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T152537Z" creationid="Mari" creationdate="20211130T123231Z">
