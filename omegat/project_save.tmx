@@ -6665,6 +6665,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T122942Z" creationid="Mari" creationdate="20211228T122942Z">
+        <seg>Todos los demás cambios locales del proyecto se revierten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T181546Z" creationid="hcartagena" creationdate="20180605T181546Z">
@@ -16900,6 +16908,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T155827Z" creationid="Mari" creationdate="20211111T155827Z">
         <seg>Si el archivo ya existe, no se hace ningún intento de verificar el formato o el conjunto de caracteres del archivo. Los nuevos términos siempre estarán en formato separado por tabulaciones y el archivo se guardará con codificación UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T123038Z" creationid="Mari" creationdate="20211228T123038Z">
+        <seg>Si el archivo contiene asignaciones, los cambios locales en las asignaciones se pierden.</seg>
       </tuv>
     </tu>
     <tu>
