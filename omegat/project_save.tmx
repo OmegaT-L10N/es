@@ -39368,6 +39368,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T122811Z" creationid="Mari" creationdate="20211228T122811Z">
+        <seg>Cuando se carga un proyecto, todos los cambios del repositorio se copian en el proyecto local, incluido el archivo &lt;f0&gt;omegat.project&lt;/f0&gt; con la configuración del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you move to another segment, the translation is validated and stored.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T190347Z" creationid="eumeu" creationdate="20181115T235201Z">
