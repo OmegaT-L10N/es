@@ -35300,6 +35300,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T122005Z" creationid="Mari" creationdate="20211228T122005Z">
+        <seg>Esta función está pensada para recopilar archivos originales, pero no está limitada a dichos archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This feature makes use of the spelling dictionaries used in LibreOffice and OpenOffice.org.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T141104Z" creationid="taty" creationdate="20181109T141104Z">
