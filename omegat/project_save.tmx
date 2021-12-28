@@ -4356,8 +4356,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211201T123309Z" creationid="Mari" creationdate="20211201T123309Z">
-        <seg>&lt;asignación local="source/archivo.txt" repositorio="mío/archivo.txt"/&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211228T121518Z" creationid="Mari" creationdate="20211201T123309Z">
+        <seg>&lt;asignación local="source/archivo.txt" repositorio="mi/archivo.txt"/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20700,8 +20700,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211201T122255Z" creationid="Mari" creationdate="20211201T122255Z">
-        <seg>Asignación de archivos local:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211228T121442Z" creationid="Mari" creationdate="20211201T122255Z">
+        <seg>Asignación de archivos locales:</seg>
       </tuv>
     </tu>
     <tu>
