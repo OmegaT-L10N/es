@@ -39328,6 +39328,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T122454Z" creationid="Mari" creationdate="20211228T122454Z">
+        <seg>Cuando se descarga el proyecto, este se convierte localmente en un proyecto de trabajo en grupo y se añade una asignación predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you exit the project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T201121Z" creationid="Mari" creationdate="20211129T201111Z">
