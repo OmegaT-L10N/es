@@ -22939,6 +22939,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T122559Z" creationid="Mari" creationdate="20211228T122559Z">
+        <seg>Tenga en cuenta que el archivo omegat.project del repositorio no se cambia automáticamente y todavía no contiene las asignaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T144216Z" creationid="Antonio" creationdate="20160330T144216Z">
