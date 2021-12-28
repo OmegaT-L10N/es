@@ -39304,6 +39304,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T122322Z" creationid="Mari" creationdate="20211228T122322Z">
+        <seg>Cuando se crea un nuevo proyecto y se envía a un repositorio, el archivo &lt;f0&gt;omegat.project&lt;/f0&gt; no contiene ninguna asignación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160321T174413Z" creationid="Antonio" creationdate="20160321T174413Z">
