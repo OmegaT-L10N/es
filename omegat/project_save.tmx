@@ -16904,6 +16904,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T122904Z" creationid="Mari" creationdate="20211228T122904Z">
+        <seg>Si el archivo no contiene asignaciones, solo se vuelven a aplicar las asignaciones locales ya existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T144424Z" creationid="Antonio" creationdate="20160330T144424Z">
