@@ -38926,6 +38926,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: if a file does not exist, the project won't load.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T121616Z" creationid="Mari" creationdate="20211228T121616Z">
+        <seg>Advertencia: si un archivo no existe, el proyecto no se cargará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T195956Z" creationid="hcartagena" creationdate="20200729T210258Z">
@@ -40077,6 +40085,14 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="hcartagena" creationdate="20160331T204716Z">
         <seg>Puede añadir un término nuevo al glosario con la combinación &lt;k0&gt;Ctrl+Mayús+G&lt;/k0&gt; o copiar glosarios a la carpeta &lt;f1&gt;/glossary/&lt;/f1&gt; dentro de la carpeta de su proyecto y OmegaT buscará palabras en ellos automáticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T121827Z" creationid="Mari" creationdate="20211228T121827Z">
+        <seg>Puede añadir todas las asignaciones que desee, pero solo en el contexto de un proyecto de trabajo en grupo, es decir, una de las asignaciones incluye omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
