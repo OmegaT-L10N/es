@@ -22835,6 +22835,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211228T122036Z" creationid="Mari" creationdate="20211228T122036Z">
+        <seg>Nota sobre omegat.project y las asignaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T123058Z" creationid="nenyavie" creationdate="20200226T123244Z">
