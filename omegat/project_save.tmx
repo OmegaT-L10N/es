@@ -25167,6 +25167,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T113804Z" creationid="Mari" creationdate="20211229T113804Z">
+        <seg>Los archivos PDF son un caso especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211023T151652Z" creationid="hcartagena" creationdate="20160401T020520Z">
@@ -35012,6 +35020,14 @@ una de ellas te alcanzó</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T163751Z" creationid="Antonio" creationdate="20151130T163751Z">
         <seg>Pueden compartir material común, con la memoria de traducción y el glosario del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They contain text formatting information, but such information cannot be reused by OmegaT in order to create target files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T114037Z" creationid="Mari" creationdate="20211229T114037Z">
+        <seg>Estos archivos contienen información de formato de texto, pero OmegaT no puede reutilizar dicha información para crear los archivos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
