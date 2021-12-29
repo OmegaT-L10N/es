@@ -35836,6 +35836,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T114235Z" creationid="Mari" creationdate="20211229T114235Z">
+        <seg>Por lo tanto, los archivos PDF se tratan como archivos de texto sin formato y los archivos de salida son archivos de texto sin formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T165521Z" creationid="hcartagena" creationdate="20151120T165521Z">
