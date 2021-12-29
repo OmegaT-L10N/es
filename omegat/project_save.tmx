@@ -28948,6 +28948,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T115540Z" creationid="Mari" creationdate="20211229T115540Z">
+        <seg>Consulte &lt;u0&gt;Guía práctica - Traducir archivos PDF con Iceni Infix y OmegaT (en inglés)&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T154538Z" creationid="Antonio" creationdate="20160316T194143Z">
@@ -38157,6 +38165,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T115219Z" creationid="Mari" creationdate="20211229T115219Z">
+        <seg>Utilice el filtro Iceni Infix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233306Z" creationid="hectorcartagena" creationdate="20200504T233306Z">
@@ -43497,6 +43513,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233145Z" creationid="hcartagena" creationdate="20200729T233145Z">
         <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T115015Z" creationid="Mari" creationdate="20211229T115015Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
       </tuv>
     </tu>
     <tu>
