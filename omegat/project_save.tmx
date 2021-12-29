@@ -17698,6 +17698,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T120346Z" creationid="Mari" creationdate="20211229T120346Z">
+        <seg>Importe el archivo original a &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, guárdelo como archivo ODG, tradúzcalo y expórtelo a PDF según sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T165717Z" creationid="Cristina" creationdate="20170916T165717Z">
