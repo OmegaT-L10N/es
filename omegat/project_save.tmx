@@ -44473,8 +44473,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>load the target file in ODF writer</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160331T183730Z" creationid="Antonio" creationdate="20160331T183730Z">
-        <seg>cargar el archivo de destino en OpenOffice/LibreOffice</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211229T123754Z" creationid="Antonio" creationdate="20160331T183730Z">
+        <seg>cargar el archivo traducido en el escritor ODF</seg>
       </tuv>
     </tu>
     <tu>
