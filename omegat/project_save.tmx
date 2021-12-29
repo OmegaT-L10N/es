@@ -17292,6 +17292,14 @@ configuración para que muestre la extensión de los archivos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T121211Z" creationid="Mari" creationdate="20211229T121211Z">
+        <seg>Si tiene un archivo PDF compuesto por páginas escaneadas (a veces estos archivos se denominan PDF "dead"), debe utilizar un programa OCR (reconocimiento óptico de caracteres) para reconocer el texto y convertirlo en un formato que OmegaT pueda gestionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170912T183927Z" creationid="Cristina" creationdate="20170828T173332Z">
