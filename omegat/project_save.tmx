@@ -17374,6 +17374,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T114444Z" creationid="Mari" creationdate="20211229T114444Z">
+        <seg>Si necesita reproducir el formato de texto, además de otros elementos como imágenes, en la traducción, puede hacerlo de tres formas diferentes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you only have a Bolivian Spanish dictionary available, with the file names es_BO.dic and es_BO.aff, you can rename these files es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T164657Z" creationid="taty" creationdate="20181109T164657Z">
