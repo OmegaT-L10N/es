@@ -38093,6 +38093,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T124315Z" creationid="Mari" creationdate="20211229T124315Z">
+        <seg>Utilización de proyecto de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T120443Z" creationid="Antonio" creationdate="20151127T075431Z">
