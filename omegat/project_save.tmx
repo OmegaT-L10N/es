@@ -3296,6 +3296,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T120625Z" creationid="Mari" creationdate="20211229T120625Z">
+        <seg>&lt;e0&gt;Nota:&lt;/e0&gt; la información anterior solo se aplica a archivos PDF con una capa de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T164348Z" creationid="Antonio" creationdate="20151128T164348Z">
