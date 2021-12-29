@@ -43847,8 +43847,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>import the file into ODF writer</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160331T183742Z" creationid="Antonio" creationdate="20160331T183622Z">
-        <seg>importar el archivo en OpenOffice/LibreOffice</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211229T123613Z" creationid="Antonio" creationdate="20160331T183622Z">
+        <seg>importar el archivo a un escritor ODF</seg>
       </tuv>
     </tu>
     <tu>
