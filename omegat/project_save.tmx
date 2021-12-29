@@ -8117,8 +8117,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160331T184013Z" creationid="Antonio" creationdate="20160331T184013Z">
-        <seg>Antes de proceder con tales conversiones, asegúrese de probar todas las opciones.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211229T124015Z" creationid="Antonio" creationdate="20160331T184013Z">
+        <seg>Antes de proceder con dichas conversiones, asegúrese de probar todas las opciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34058,8 +34058,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160331T183950Z" creationid="Antonio" creationdate="20160331T183950Z">
-        <seg>**La calidad del archivo traducido dependerá de la calidad que se haya obtenido en el proceso de conversión.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211229T123954Z" creationid="Antonio" creationdate="20160331T183950Z">
+        <seg>La calidad del fomato del archivo traducido dependerá de la calidad que se haya obtenido en el proceso de conversión.</seg>
       </tuv>
     </tu>
     <tu>
