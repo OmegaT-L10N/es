@@ -37997,6 +37997,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20211229T114608Z" creationid="Mari" creationdate="20211229T114608Z">
+        <seg>Utilice el filtro predeterminado de &lt;a0&gt;OmegaT&lt;/a0&gt; (entrada de PDF), traduzca, cree un archivo de destino (será un archivo de texto plano), añada el formato pertinente y los elementos manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;e1&gt;Ctrl+PgUp/PgDn&lt;/e1&gt; (Cmd+PgUp/PgDn on Mac) to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T211358Z" creationid="Antonio" creationdate="20160329T211358Z">
