@@ -14650,8 +14650,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160331T183608Z" creationid="Antonio" creationdate="20160331T183608Z">
-        <seg>Por ejemplo, si tiene una versión antigua de Microsoft Word, que no admite el formato ODT, hay una manera alternativa de procesar los archivos de Word de extensión .doc:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20211229T121743Z" creationid="Antonio" creationdate="20160331T183608Z">
+        <seg>Por ejemplo, si tiene una versión antigua de Microsoft Word que no admite el formato ODT, hay una manera alternativa de procesar los archivos de Word de extensión .doc:</seg>
       </tuv>
     </tu>
     <tu>
