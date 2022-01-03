@@ -20464,6 +20464,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T193622Z" creationid="Mari" creationdate="20220103T193622Z">
+        <seg>Después, tras aceptar el contrato de licencia, el programa de instalación le pregunta si quiere crear una carpeta en el menú &lt;e1&gt;Inicio&lt;/e1&gt; y si quiere crear un acceso directo en el escritorio y en la barra de inicio rápido. Puede crear estos accesos directos más tarde arrastrando &lt;f2&gt;OmegaT.exe&lt;/f2&gt; al escritorio o al menú Inicio para vincularlo desde allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Latest</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171006T164708Z" creationid="Cristina" creationdate="20170826T111536Z">
