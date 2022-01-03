@@ -33774,6 +33774,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T193836Z" creationid="Mari" creationdate="20220103T193836Z">
+        <seg>El último cuadro le ofrece echar un vistazo a los archivos readme y de cambios de la versión que ha instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T195525Z" creationid="Mari" creationdate="20211129T195525Z">
