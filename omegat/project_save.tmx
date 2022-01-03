@@ -35900,6 +35900,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T192300Z" creationid="Mari" creationdate="20220103T192300Z">
+        <seg>Este paquete incluye Java Runtime Environment de Oracle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This page allows you to choose different colours for each part of the user interface.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T193905Z" creationid="hcartagena" creationdate="20200729T203930Z">
