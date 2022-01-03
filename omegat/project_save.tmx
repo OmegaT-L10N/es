@@ -36519,6 +36519,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T185235Z" creationid="Mari" creationdate="20220103T185235Z">
+        <seg>Para utilizar un proyecto de trabajo en grupo por primera vez, siga el procedimiento facilitado por el gestor de proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T155923Z" creationid="nenyavie" creationdate="20200225T115814Z">
