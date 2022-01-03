@@ -3288,6 +3288,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T192139Z" creationid="Mari" creationdate="20220103T192139Z">
+        <seg>&lt;e0&gt;No / no lo sé:&lt;/e0&gt; descargue &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T173708Z" creationid="taty" creationdate="20181116T173708Z">
