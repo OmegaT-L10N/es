@@ -18275,6 +18275,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T192823Z" creationid="Mari" creationdate="20220103T192823Z">
+        <seg>En la siguiente ventana puede indicar que el idioma seleccionado deberá utilizarse en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T085035Z" creationid="Antonio" creationdate="20160125T085035Z">
