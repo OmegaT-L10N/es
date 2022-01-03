@@ -6673,6 +6673,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190259Z" creationid="Mari" creationdate="20220103T190259Z">
+        <seg>Todos los demás archivos serán reemplazados por archivos del repositorio remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other local changes to the project are reverted.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211228T122942Z" creationid="Mari" creationdate="20211228T122942Z">
