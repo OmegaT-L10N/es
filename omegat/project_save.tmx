@@ -8899,6 +8899,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190838Z" creationid="Mari" creationdate="20220103T190838Z">
+        <seg>Cambiar las reglas de segmentación o los filtros de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T154922Z" creationid="Mari" creationdate="20211126T154922Z">
@@ -26751,6 +26759,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T204754Z" creationid="Antonio" creationdate="20160124T204754Z">
         <seg>Los miembros del proyecto se conectan a travéfs de su clientes VCS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190914Z" creationid="Mari" creationdate="20220103T190914Z">
+        <seg>Los parámetros del proyecto deben ser cambiados por el gestor de proyectos.</seg>
       </tuv>
     </tu>
     <tu>
