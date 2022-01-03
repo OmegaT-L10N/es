@@ -33588,6 +33588,14 @@ de inicio, en el escritorio y en el área de inicio rápido.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T185922Z" creationid="Mari" creationdate="20220103T185922Z">
+        <seg>El intervalo de 3 minutos puede cambiarse en &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Preferencias&lt;/g3&gt; &lt;g4&gt;Guardado y salida&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T114420Z" creationid="taty" creationdate="20181116T182711Z">
