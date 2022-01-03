@@ -11381,6 +11381,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190718Z" creationid="Mari" creationdate="20220103T190718Z">
+        <seg>Eliminar archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T110803Z" creationid="nenyavie" creationdate="20200225T110803Z">
@@ -14282,6 +14290,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170826T114502Z" creationid="Cristina" creationdate="20170826T114502Z">
         <seg>Los archivos en formatos antiguos de MS Word, Excel y PowerPoint se pueden traducir después de convertirlos a la versión actual de los formatos de Microsoft Office, o al formato Office Open XML, que se puede crear en OpenOffice.org o LibreOffice (también gratuito).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190756Z" creationid="Mari" creationdate="20220103T190756Z">
+        <seg>Los archivos deben ser eliminados por el gestor de proyectos.</seg>
       </tuv>
     </tu>
     <tu>
