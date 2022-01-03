@@ -17388,6 +17388,14 @@ configuración para que muestre la extensión de los archivos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you check the corresponding checkbox, the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T193051Z" creationid="Mari" creationdate="20220103T193051Z">
+        <seg>Si marca la casilla correspondiente, se modificará el archivo &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; para utilizar el idioma seleccionado (consulte la siguiente sección para obtener más detalles).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T154738Z" creationid="Mari" creationdate="20211126T154738Z">
