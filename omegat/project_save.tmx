@@ -24253,6 +24253,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T185052Z" creationid="Mari" creationdate="20220103T185052Z">
+        <seg>Los proyectos de trabajo en grupo de OmegaT deben &lt;l0&gt;configurarse&lt;/l0&gt; primero en un servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T174323Z" creationid="Cristina" creationdate="20170917T174323Z">
