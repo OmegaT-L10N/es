@@ -31433,6 +31433,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T185944Z" creationid="Mari" creationdate="20220103T185944Z">
+        <seg>Archivos sincronizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T164549Z" creationid="Antonio" creationdate="20151127T164549Z">
