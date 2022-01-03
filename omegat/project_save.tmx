@@ -35308,6 +35308,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T192421Z" creationid="Mari" creationdate="20220103T192421Z">
+        <seg>Este JRE no interferirá con otras implementaciones de Java que pueda tener instaladas en su sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This TM gradually becomes filled during the translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T164844Z" creationid="Mari" creationdate="20211127T164844Z">
