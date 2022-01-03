@@ -6721,6 +6721,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T191050Z" creationid="Mari" creationdate="20220103T191050Z">
+        <seg>Se sincronizarán todos los cambios la próxima vez que haya una conexión disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211201T120724Z" creationid="Mari" creationdate="20211201T120502Z">
@@ -36687,6 +36695,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Para usar este programa, abra una
 ventana de terminal (consola), cambie la carpeta a aquella que contiene
 OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T191107Z" creationid="Mari" creationdate="20220103T191107Z">
+        <seg>Para trabajar sin conexión:</seg>
       </tuv>
     </tu>
     <tu>
