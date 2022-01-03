@@ -12069,6 +12069,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T191838Z" creationid="Mari" creationdate="20220103T191838Z">
+        <seg>¿Tiene una implementación Java compatible con Java 8 JRE de Oracle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you need help?</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151120T120407Z" creationid="Antonio" creationdate="20151120T120407Z">
