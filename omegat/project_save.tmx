@@ -5873,6 +5873,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T191011Z" creationid="Mari" creationdate="20220103T191011Z">
+        <seg>Es posible abrir y traducir un proyecto de trabajo en grupo sin conexión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T163805Z" creationid="Antonio" creationdate="20160330T163805Z">
@@ -39995,6 +40003,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170812T153634Z" creationid="Cristina" creationdate="20170812T153634Z">
         <seg>Funciona con más de 30 formatos de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190938Z" creationid="Mari" creationdate="20220103T190938Z">
+        <seg>Trabajar sin conexión</seg>
       </tuv>
     </tu>
     <tu>
