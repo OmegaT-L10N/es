@@ -12397,6 +12397,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading the package</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T191538Z" creationid="Mari" creationdate="20220103T191538Z">
+        <seg>Descargar el paquete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T211732Z" creationid="hcartagena" creationdate="20151119T211732Z">
@@ -39851,6 +39859,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T201835Z" creationid="hcartagena" creationdate="20151119T201835Z">
         <seg>Recursos de Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows Users</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T191501Z" creationid="Mari" creationdate="20220103T191501Z">
+        <seg>Usuarios de Windows</seg>
       </tuv>
     </tu>
     <tu>
