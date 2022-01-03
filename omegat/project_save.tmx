@@ -11789,6 +11789,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T191155Z" creationid="Mari" creationdate="20220103T191155Z">
+        <seg>Desconéctese de la red antes de abrir el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T112358Z" creationid="hcartagena" creationdate="20180605T170854Z">
@@ -45659,6 +45667,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154503Z" creationid="Antonio" creationdate="20151128T154453Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T191303Z" creationid="Mari" creationdate="20220103T191303Z">
+        <seg>o abra el proyecto con la línea de comandos utilizando la opción &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
