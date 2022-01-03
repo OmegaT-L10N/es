@@ -6369,6 +6369,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190321Z" creationid="Mari" creationdate="20220103T190321Z">
+        <seg>Añadir nuevos archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T194544Z" creationid="Antonio" creationdate="20160316T194402Z">
@@ -36016,6 +36024,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T145316Z" creationid="Mari" creationdate="20211123T145316Z">
         <seg>Para añadir un nuevo patrón de filtro de archivos, haga clic en &lt;g1&gt;Añadir&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190406Z" creationid="Mari" creationdate="20220103T190406Z">
+        <seg>Siga estos pasos para añadir un nuevo archivo original:</seg>
       </tuv>
     </tu>
     <tu>
