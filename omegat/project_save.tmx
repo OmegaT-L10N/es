@@ -7638,6 +7638,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T192703Z" creationid="Mari" creationdate="20220103T192703Z">
+        <seg>Al inicio de la instalación puede seleccionar el idioma que se utilizará durante la instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223234Z" creationid="hcartagena" creationdate="20151201T223234Z">
