@@ -24623,6 +24623,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T185550Z" creationid="Mari" creationdate="20220103T185550Z">
+        <seg>Una vez abierto el proyecto, la traducción procede de la misma manera que para un proyecto individual, excepto en los siguientes puntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T122754Z" creationid="Mari" creationdate="20211130T122754Z">
