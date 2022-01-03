@@ -12087,8 +12087,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220103T191838Z" creationid="Mari" creationdate="20220103T191838Z">
-        <seg>¿Tiene una implementación Java compatible con Java 8 JRE de Oracle?</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220103T192430Z" creationid="Mari" creationdate="20220103T191838Z">
+        <seg>¿Tiene una implementación de Java compatible con Java 8 JRE de Oracle?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18718,8 +18718,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Installing OmegaT</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151120T120327Z">
-        <seg>Cómo instalar OmegaT</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220103T192521Z">
+        <seg>Instalar OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -36443,6 +36443,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T154329Z" creationid="Helli" creationdate="20150526T154329Z">
         <seg>Para conseguir ser implicado en el OmegaT development effort  puede unirse al grupo de desarrollador, vía la web o enviando un email a &lt;/f5&gt;&lt;a6&gt;omegat-desarrollo-request@lists.sourceforge.net&lt;/a6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;con "suscribir" en el asunto.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install OmegaT, double-click on the program you have downloaded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T192558Z" creationid="Mari" creationdate="20220103T192558Z">
+        <seg>Para instalar OmegaT, haga doble clic en el programa que ha descargado.</seg>
       </tuv>
     </tu>
     <tu>
