@@ -7822,6 +7822,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T185558Z" creationid="Mari" creationdate="20220103T185558Z">
+        <seg>Guardado automático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T113524Z" creationid="nenyavie" creationdate="20200225T113524Z">
@@ -13469,6 +13477,14 @@ soy la pantalla azul de la muerte,
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151125T000152Z" creationid="hcartagena" creationdate="20151125T000129Z">
         <seg>Evento: cambio en el proyecto - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T185732Z" creationid="Mari" creationdate="20220103T185732Z">
+        <seg>El proyecto local se sincroniza con el repositorio remoto cada 3 minutos (de manera predeterminada) para que el gestor de proyectos u otros traductores puedan ver o utilizar las traducciones añadidas durante ese período.</seg>
       </tuv>
     </tu>
     <tu>
