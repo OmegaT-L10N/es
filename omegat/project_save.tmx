@@ -39584,6 +39584,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220103T190102Z" creationid="Mari" creationdate="20220103T190102Z">
+        <seg>Cada vez que el proyecto se guarda automáticamente, pero también cuando se abre, se cierra o se vuelve a cargar, en realidad solo se sincronizan dos archivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T171612Z" creationid="Mari" creationdate="20211127T171612Z">
