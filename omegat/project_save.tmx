@@ -36034,6 +36034,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This method will also use preferences and settings you have made from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T175053Z" creationid="Mari" creationdate="20220104T175053Z">
+        <seg>Esto método también utilizará las preferencias y los ajustes presentes en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T164109Z" creationid="eumeu" creationdate="20181116T133209Z">
