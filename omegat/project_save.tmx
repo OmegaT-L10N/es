@@ -34496,6 +34496,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T165932Z" creationid="Mari" creationdate="20220104T165932Z">
+        <seg>La manera más simple de iniciar OmegaT, sin embargo, es ejecutar el programa &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The solution in our example is to copy the existing translation memory into the &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T202828Z" creationid="Mari" creationdate="20211129T202828Z">
