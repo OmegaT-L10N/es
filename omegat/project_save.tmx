@@ -32539,6 +32539,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T173929Z" creationid="Mari" creationdate="20220104T173929Z">
+        <seg>Se sobrescribirá la versión "antigua" de OmegaT, pero se conservarán todos los ajustes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &amp;source text</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T175540Z" creationid="hcartagena" creationdate="20151120T175540Z">
