@@ -40165,6 +40165,14 @@ No se encontró la página</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T174521Z" creationid="Mari" creationdate="20220104T174521Z">
+        <seg>Con este método, también es posible descargar la versión "Windows without JRE", ya que la nueva instalación utilizará el JRE existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With this version, future updates will be installed automatically.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T150914Z" creationid="Cristina" creationdate="20170916T150914Z">
