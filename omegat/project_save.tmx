@@ -24735,6 +24735,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once OmegaT is installed, you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T165815Z" creationid="Mari" creationdate="20220104T165815Z">
+        <seg>Una vez que OmegaT está instalado, puede hacer clic en &lt;f0&gt;OmegaT.jar&lt;/f0&gt; para iniciarlo directamente o puede iniciarlo directamente desde la línea de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001855Z" creationid="hcartagena" creationdate="20200730T001855Z">
