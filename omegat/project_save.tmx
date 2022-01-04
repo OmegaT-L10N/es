@@ -3334,6 +3334,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T175828Z" creationid="Mari" creationdate="20220104T175828Z">
+        <seg>&lt;e0&gt;No / no lo sé:&lt;/e0&gt; descargue &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220103T192139Z" creationid="Mari" creationdate="20220103T192139Z">
