@@ -34056,6 +34056,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T170257Z" creationid="Mari" creationdate="20220104T170257Z">
+        <seg>Las opciones para el inicio del programa en este caso se leerán del archivo &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, que se encuentra en la misma carpeta que el archivo exe y que puede editar para reflejar la configuración elegida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180933Z" creationid="hcartagena" creationdate="20180605T180933Z">
