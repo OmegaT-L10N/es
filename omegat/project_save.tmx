@@ -35770,6 +35770,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T174241Z" creationid="Mari" creationdate="20220104T174241Z">
+        <seg>Esto incluye las preferencias establecidas en OmegaT, cualquier cambio que haya hecho en el archivo &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; y también el script de inicio (archivo &lt;f2&gt;.bat&lt;/f2&gt;), si está utilizando uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220104T172443Z" creationid="Mari" creationdate="20220104T172443Z">
