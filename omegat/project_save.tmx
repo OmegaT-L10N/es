@@ -35738,6 +35738,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T172443Z" creationid="Mari" creationdate="20220104T172443Z">
+        <seg>Esta información se aplica solo a las versiones "tradicionales" de OmegaT para Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211103T114426Z" creationid="Antonio" creationdate="20151127T164044Z">
@@ -38247,6 +38255,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="taty" creationdate="20181116T171512Z">
         <seg>Por tanto actualizar un archivo de glosario es bastante simple: presione &lt;k0&gt;Ctrl+Mayús+G&lt;/k0&gt; e ingrese el nuevo término, su traducción y cualquier comentario que pueda tener (asegurandose de presionar el tabulador entre los campos) y guarde el archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrading OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T172317Z" creationid="Mari" creationdate="20220104T172317Z">
+        <seg>Actualizar OmegaT</seg>
       </tuv>
     </tu>
     <tu>
