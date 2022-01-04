@@ -6479,6 +6479,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T171233Z" creationid="Mari" creationdate="20220104T171233Z">
+        <seg>Consejo: si OmegaT funciona con lentitud en las sesiones de Escritorio Remoto en Windows, puede utilizar esta opción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Afar</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T081733Z" creationid="Antonio" creationdate="20151128T081728Z">
