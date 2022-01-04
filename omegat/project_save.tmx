@@ -19275,6 +19275,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T172741Z" creationid="Mari" creationdate="20220104T172741Z">
+        <seg>No se aplica a las versiones Web Start, que se actualizan automáticamente, ni a las versiones multiplataforma instaladas en Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It does not include spell checking.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T161958Z" creationid="Antonio" creationdate="20151128T161958Z">
