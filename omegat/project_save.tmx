@@ -3262,6 +3262,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T173419Z" creationid="Mari" creationdate="20220104T173419Z">
+        <seg>&lt;e0&gt;Instalar sobre la instalación existente.&lt;/e0&gt; Para hacerlo, solo tiene que seleccionar la carpeta en la que se encuentra la instalación existente al instalar la nueva versión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184347Z" creationid="Antonio" creationdate="20151210T184347Z">
