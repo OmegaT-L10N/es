@@ -2340,6 +2340,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T171241Z" creationid="Mari" creationdate="20220104T171241Z">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
