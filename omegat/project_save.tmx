@@ -17271,6 +17271,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220104T172940Z" creationid="Mari" creationdate="20220104T172940Z">
+        <seg>Si ya tiene una versión de OmegaT instalada en el equipo y quiere actualizarla, tiene dos opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T141430Z" creationid="Antonio" creationdate="20160330T141430Z">
