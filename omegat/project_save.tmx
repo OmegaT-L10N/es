@@ -529,16 +529,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T174215Z" creationid="Antonio" creationdate="20151126T161906Z">
-        <seg>&amp;Explorar colecciones de TaaS...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195626Z" creationid="Antonio" creationdate="20151126T161906Z">
+        <seg>&amp;Explorar colecciones de TaaS…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T174205Z" creationid="hcartagena" creationdate="20180605T034032Z">
-        <seg>&amp;Explorar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195557Z" creationid="hcartagena" creationdate="20180605T034032Z">
+        <seg>&amp;Explorar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -825,8 +825,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T104642Z" creationid="hcartagena" creationdate="20180605T170115Z">
-        <seg>&amp;Buscar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195608Z" creationid="hcartagena" creationdate="20180605T170115Z">
+        <seg>&amp;Buscar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -993,8 +993,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
-      <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194812Z" creationid="Víctor Parra" creationdate="20151126T194812Z">
-        <seg>&amp;Instalar nuevo diccionario...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195558Z" creationid="Víctor Parra" creationdate="20151126T194812Z">
+        <seg>&amp;Instalar nuevo diccionario…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1065,8 +1065,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Load...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T081844Z" creationid="Antonio" creationdate="20151127T081844Z">
-        <seg>&amp;Cargar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195619Z" creationid="Antonio" creationdate="20151127T081844Z">
+        <seg>&amp;Cargar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1185,8 +1185,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Open Script...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T103716Z" creationid="Antonio" creationdate="20151127T173740Z">
-        <seg>&amp;Abrir script...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195559Z" creationid="Antonio" creationdate="20151127T173740Z">
+        <seg>&amp;Abrir script…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,8 +1361,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170121Z" creationid="hcartagena" creationdate="20180605T170121Z">
-        <seg>&amp;Reemplazar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195610Z" creationid="hcartagena" creationdate="20180605T170121Z">
+        <seg>&amp;Reemplazar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1441,8 +1441,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Save...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T081833Z" creationid="Antonio" creationdate="20151127T081833Z">
-        <seg>&amp;Guardar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195624Z" creationid="Antonio" creationdate="20151127T081833Z">
+        <seg>&amp;Guardar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11709,8 +11709,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Detecting...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T164110Z" creationid="Antonio" creationdate="20151127T164110Z">
-        <seg>Detectando...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195617Z" creationid="Antonio" creationdate="20151127T164110Z">
+        <seg>Detectando…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23499,8 +23499,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T203421Z" creationid="hcartagena" creationdate="20151119T203421Z">
-        <seg>Nota: los archivos DocBook requieren, además de la extensión del archivo, tener una declaración DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... para DocBook 4, o un espacio de nombres: xmlns=\"http://docbook.org/ns/docbook" para DocBook 5</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195556Z" creationid="hcartagena" creationdate="20151119T203421Z">
+        <seg>Nota: los archivos DocBook requieren, además de la extensión del archivo, tener una declaración DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… para DocBook 4, o un espacio de nombres: xmlns=\"http://docbook.org/ns/docbook" para DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -23739,8 +23739,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T213527Z" creationid="hcartagena" creationdate="20151119T213527Z">
-        <seg>&amp;Opciones...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195557Z" creationid="hcartagena" creationdate="20151119T213527Z">
+        <seg>&amp;Opciones…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23995,8 +23995,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T105011Z" creationid="nenyavie" creationdate="20200225T092855Z">
-        <seg>Javadoc de OmegaT...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195614Z" creationid="nenyavie" creationdate="20200225T092855Z">
+        <seg>Javadoc de OmegaT…</seg>
       </tuv>
     </tu>
     <tu>
@@ -24951,8 +24951,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211019T143822Z" creationid="hcartagena" creationdate="20151119T185547Z">
-        <seg>OmegaT intentará volver a segmentar el archivo TMX...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195540Z" creationid="hcartagena" creationdate="20151119T185547Z">
+        <seg>OmegaT intentará volver a segmentar el archivo TMX…</seg>
       </tuv>
     </tu>
     <tu>
@@ -26923,8 +26923,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Processing...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T075341Z" creationid="Antonio" creationdate="20151127T075341Z">
-        <seg>Procesando...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195625Z" creationid="Antonio" creationdate="20151127T075341Z">
+        <seg>Procesando…</seg>
       </tuv>
     </tu>
     <tu>
@@ -28514,8 +28514,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Retrieve collection list...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T235624Z" creationid="Antonio" creationdate="20151126T161644Z">
-        <seg>Recuperar lista de colecciones...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195648Z" creationid="Antonio" creationdate="20151126T161644Z">
+        <seg>Recuperar lista de colecciones…</seg>
       </tuv>
     </tu>
     <tu>
@@ -28995,8 +28995,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Save Current Set...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T104753Z" creationid="hcartagena" creationdate="20180605T170232Z">
-        <seg>Guardar configuración actual...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195612Z" creationid="hcartagena" creationdate="20180605T170232Z">
+        <seg>Guardar configuración actual…</seg>
       </tuv>
     </tu>
     <tu>
@@ -30032,8 +30032,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T171208Z" creationid="hcartagena" creationdate="20180605T171208Z">
-        <seg>&amp;Seleccionar el dominio de búsqueda de terminología en TaaS...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195629Z" creationid="hcartagena" creationdate="20180605T171208Z">
+        <seg>&amp;Seleccionar el dominio de búsqueda de terminología en TaaS…</seg>
       </tuv>
     </tu>
     <tu>
@@ -30280,8 +30280,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Set Scripts Folder...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T104456Z" creationid="hcartagena" creationdate="20180605T165752Z">
-        <seg>Establecer la carpeta de scripts...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195605Z" creationid="hcartagena" creationdate="20180605T165752Z">
+        <seg>Establecer la carpeta de scripts…</seg>
       </tuv>
     </tu>
     <tu>
@@ -32506,8 +32506,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T204100Z" creationid="Antonio" creationdate="20151127T164954Z">
-        <seg>Sincronización de trabajo en grupo...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195616Z" creationid="Antonio" creationdate="20151127T164954Z">
+        <seg>Sincronización de trabajo en grupo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -32650,8 +32650,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Testing...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T165442Z" creationid="hcartagena" creationdate="20180605T165442Z">
-        <seg>Probando...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195558Z" creationid="hcartagena" creationdate="20180605T165442Z">
+        <seg>Probando…</seg>
       </tuv>
     </tu>
     <tu>
@@ -34793,8 +34793,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T103826Z" creationid="Antonio" creationdate="20151127T173715Z">
-        <seg>Se está ejecutando el script "{0}"...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195601Z" creationid="Antonio" creationdate="20151127T173715Z">
+        <seg>Se está ejecutando el script "{0}"…</seg>
       </tuv>
     </tu>
     <tu>
