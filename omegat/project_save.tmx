@@ -9209,6 +9209,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T200007Z" creationid="Mari" creationdate="20220111T200007Z">
+        <seg>Comprobar actualizaciones…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for possible Tag errors with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; and untranslated segments with &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T200955Z" creationid="Mari" creationdate="20211129T200955Z">
@@ -13009,6 +13017,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181211T093834Z" creationid="eumeu" creationdate="20181115T223932Z">
         <seg>Panel editor: Si un archivo de proyecto de OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) se suelta en este panel, el proyecto correspondiente se abrirá, cerrando primero cualquier otro proyecto abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T200039Z" creationid="Mari" creationdate="20220111T200020Z">
+        <seg>Editor…</seg>
       </tuv>
     </tu>
     <tu>
@@ -22893,6 +22909,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T200109Z" creationid="Mari" creationdate="20220111T200109Z">
+        <seg>Nuevo…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will be immediately recognized.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T160728Z" creationid="Mari" creationdate="20211111T160728Z">
@@ -26607,6 +26631,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211019T142302Z" creationid="hcartagena" creationdate="20151118T213441Z">
         <seg>La operación de guardado de preferencias falló.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T200018Z" creationid="Mari" creationdate="20220111T200018Z">
+        <seg>Preferencias…</seg>
       </tuv>
     </tu>
     <tu>
