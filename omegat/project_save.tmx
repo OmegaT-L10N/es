@@ -37899,6 +37899,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T184848Z" creationid="Mari" creationdate="20220111T184848Z">
+        <seg>Escriba &lt;e2&gt;kmenuedit+intro&lt;/e2&gt; para ejecutar el comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Type in new rule ID</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T154823Z" creationid="hcartagena" creationdate="20180605T164347Z">
