@@ -28912,6 +28912,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save then the file and relaunch OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182739Z" creationid="Mari" creationdate="20220111T182739Z">
+        <seg>Guarde el archivo y reinicie OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save then the file and relaunch OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T130452Z" creationid="Helli" creationdate="20150526T130452Z">
