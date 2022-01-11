@@ -28304,6 +28304,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182804Z" creationid="Mari" creationdate="20220111T182804Z">
+        <seg>Reiniciar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211110T112129Z" creationid="Mari" creationdate="20211110T112129Z">
@@ -46402,6 +46410,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T151256Z" creationid="Antonio" creationdate="20151130T151256Z">
         <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectRestartMenuItem</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182826Z" creationid="Mari" creationdate="20220111T182826Z">
+        <seg>projectRestartMenuItem</seg>
       </tuv>
     </tu>
     <tu>
