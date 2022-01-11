@@ -24949,6 +24949,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, OmegaT must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182654Z" creationid="Mari" creationdate="20220111T182654Z">
+        <seg>Después de modificar el archivo &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, será necesario reiniciar OmegaT para que tenga en cuenta los nuevos accesos directos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T213228Z" creationid="Antonio" creationdate="20160124T213228Z">
