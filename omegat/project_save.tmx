@@ -12491,6 +12491,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T181649Z" creationid="Mari" creationdate="20220111T181649Z">
+        <seg>Descargue el archivo. Debe ser un archivo tarball (extensión &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the files for translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170921T184752Z" creationid="Cristina" creationdate="20170921T184752Z">
