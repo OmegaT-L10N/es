@@ -14566,8 +14566,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T191902Z" creationid="Mari" creationdate="20220111T191902Z">
-        <seg>Por último, guarde los cambios con &lt;e0&gt;Archivo - Guardar&lt;/e0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T192059Z" creationid="Mari" creationdate="20220111T191902Z">
+        <seg>Por último, guarde los cambios con &lt;e0&gt;Archivo - Guardar.&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28596,6 +28596,15 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T105402Z" creationid="Helli" creationdate="20150526T114829Z">
         <seg>Pulse la tecla derecha del ratón en un botón, de "&lt;1&gt;" a "&lt;12&gt;", del tablero inferior y seleccione "Añadir".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Opción de interfaz cogida de la documentación https://docs.oracle.com/cd/E19957-01/817-5956/6mlcjpfa0/index.html</note>
+      <tuv lang="en">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T194217Z" creationid="Mari" creationdate="20220111T194217Z">
+        <seg>Haga clic con el botón derecho en el panel - &lt;e0&gt;Agregar al panel - Lanzador&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
