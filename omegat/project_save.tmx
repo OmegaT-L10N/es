@@ -5831,6 +5831,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A nice collection of useful regex cases can be found in OmegaT itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182415Z" creationid="Mari" creationdate="20220111T182415Z">
+        <seg>Se puede encontrar una buena colección de expresiones regulares muy útiles en el propio OmegaT (vaya a Opciones &gt; Segmentación).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T194615Z" creationid="nenyavie" creationdate="20200225T135406Z">
@@ -40953,6 +40961,14 @@ para enlazarlo desde allí.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T120417Z" creationid="nenyavie" creationdate="20200226T103128Z">
         <seg>Puede cambiar los accesos directos ya asignados y añadir nuevos colocando un archivo con la definición de los accesos directos en la carpeta de preferencias de &lt;a0&gt;OmegaT&lt;/a0&gt; (a la que se accede desde el menú mediante &lt;m1&gt; &lt;g2&gt;Opciones&lt;/g2&gt; &lt;g3&gt;Acceder a carpeta de configuración&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (accessible by &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182620Z" creationid="Mari" creationdate="20220111T182620Z">
+        <seg>Puede cambiar los accesos directos ya asignados y añadir nuevos colocando un archivo con la definición de los accesos directos en la carpeta de preferencias de OmegaT (a la que se accede desde el menú mediante &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Acceder a carpeta de configuración&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
