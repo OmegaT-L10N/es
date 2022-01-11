@@ -14564,6 +14564,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T191902Z" creationid="Mari" creationdate="20220111T191902Z">
+        <seg>Por último, guarde los cambios con &lt;e0&gt;Archivo - Guardar&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finally, there is the &lt;s0&gt;Beginner's Tutorial&lt;/s0&gt;, available &lt;a1&gt;here&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170922T212730Z" creationid="Cristina" creationdate="20170922T212730Z">
