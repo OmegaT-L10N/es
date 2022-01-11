@@ -25559,8 +25559,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;images&lt;/f0&gt; subfolder in the OmegaT application folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T191539Z" creationid="Mari" creationdate="20220111T191314Z">
-        <seg>Otros iconos - Examinar y navegue a la subcarpeta &lt;f0&gt;images&lt;/f0&gt; en la carpeta de aplicaciones de OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195102Z" creationid="Mari" creationdate="20220111T191314Z">
+        <seg>Otros iconos - Examinar y vaya a la subcarpeta &lt;f0&gt;images&lt;/f0&gt; en la carpeta de la aplicación OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30098,6 +30098,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T191636Z" creationid="Mari" creationdate="20220111T191636Z">
         <seg>Seleccione el icono &lt;f1&gt;OmegaT.png&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195007Z" creationid="Mari" creationdate="20220111T195007Z">
+        <seg>Seleccione el icono &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
