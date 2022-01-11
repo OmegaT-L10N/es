@@ -38724,6 +38724,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T181736Z" creationid="Mari" creationdate="20220111T181736Z">
+        <seg>Utilice la herramienta untar o su equivalente (por ejemplo &lt;f0&gt; winrar&lt;/f0&gt; en Windows) para extraer su contenido en la carpeta &lt;f1&gt;dictionary&lt;/f1&gt; del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T113013Z" creationid="Antonio" creationdate="20160125T152604Z">
