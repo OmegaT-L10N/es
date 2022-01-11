@@ -11747,6 +11747,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries in OmegaT are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T181535Z" creationid="Mari" creationdate="20220111T181535Z">
+        <seg>Los diccionarios que utiliza OmegaT se basan en el formato StarDict o Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233720Z" creationid="hcartagena" creationdate="20151124T233720Z">
