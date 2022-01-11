@@ -9571,8 +9571,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T190912Z" creationid="Mari" creationdate="20220111T190912Z">
-        <seg>Haga clic en el botón de icono (a la derecha de los campos Nombre/Descripción/Comentario).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T191327Z" creationid="Mari" creationdate="20220111T190912Z">
+        <seg>Haga clic en el botón de icono (a la derecha de los campos Nombre/Descripción/Comentario)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25527,8 +25527,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;images&lt;/f0&gt; subfolder in the OmegaT application folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T191314Z" creationid="Mari" creationdate="20220111T191314Z">
-        <seg>Otros iconos - Examinar</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T191539Z" creationid="Mari" creationdate="20220111T191314Z">
+        <seg>Otros iconos - Examinar y navegue a la subcarpeta &lt;f0&gt;images&lt;/f0&gt; en la carpeta de aplicaciones de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
