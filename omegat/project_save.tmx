@@ -36394,6 +36394,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create an &lt;f0&gt;omegat&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T183636Z" creationid="Mari" creationdate="20220111T183636Z">
+        <seg>Esto creará una carpeta &lt;f0&gt;omegat&lt;/f0&gt; en la carpeta de trabajo, en el cual podrá encontrar todos los archivos necesarios para ejecutar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T044645Z" creationid="hcartagena" creationdate="20160401T044645Z">
@@ -38379,6 +38387,14 @@ file and the OmegaT application.</seg>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T214837Z" creationid="hcartagena" creationdate="20200729T214820Z">
         <seg>Descomprima el archivo .zip de OmegaT para obtener una carpeta que contiene
 un archivo de documentación y la aplicación de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack/untar the downloaded file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T183458Z" creationid="Mari" creationdate="20220111T183458Z">
+        <seg>Descomprima (untar) el archivo descargado.</seg>
       </tuv>
     </tu>
     <tu>
