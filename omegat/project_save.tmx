@@ -183,6 +183,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T183947Z" creationid="Mari" creationdate="20220111T183947Z">
+        <seg>$ tar xf archivo_descargado.tar.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${adjustedScore}</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181116T154904Z" creationid="eumeu" creationdate="20181116T154904Z">
