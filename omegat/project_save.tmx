@@ -18393,6 +18393,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T190213Z" creationid="Mari" creationdate="20220111T190213Z">
+        <seg>En el campo "Comando", utilice el botón de navegación para ubicar el script de inicio de OmegaT (el archivo llamado OmegaT en la carpeta descomprimida) y selecciónelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T155355Z" creationid="Cristina" creationdate="20170924T155355Z">
