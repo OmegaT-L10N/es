@@ -25525,6 +25525,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;images&lt;/f0&gt; subfolder in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T191314Z" creationid="Mari" creationdate="20220111T191314Z">
+        <seg>Otros iconos - Examinar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other OmegaT resources</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T155437Z" creationid="Cristina" creationdate="20170916T155437Z">
