@@ -13266,6 +13266,14 @@ su página de ayuda no encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter OmegaT as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T190055Z" creationid="Mari" creationdate="20220111T190055Z">
+        <seg>Introduzca OmegaT como nombre del nuevo elemento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T142031Z" creationid="hcartagena" creationdate="20151124T232719Z">
