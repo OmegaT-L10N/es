@@ -18088,6 +18088,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T185707Z" creationid="Mari" creationdate="20220111T185707Z">
+        <seg>En el Editor de menú de KDE, seleccione &lt;e3&gt;Archivo &gt; Nuevo elemento.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185102Z" creationid="Antonio" creationdate="20151210T185102Z">
