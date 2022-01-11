@@ -15590,6 +15590,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182245Z" creationid="Mari" creationdate="20220111T182245Z">
+        <seg>Los glosarios deben ubicarse en la carpeta &lt;f0&gt;glossary&lt;/f0&gt; del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181207T120656Z" creationid="taty" creationdate="20181115T232447Z">
@@ -23941,6 +23949,14 @@ la carpeta Aplicaciones.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T234653Z" creationid="hcartagena" creationdate="20200729T234653Z">
         <seg>OmegaT también tiene las siguientes listas de distribución de correo y sistemas de seguimiento alojados en Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182215Z" creationid="Mari" creationdate="20220111T182215Z">
+        <seg>OmegaT automáticamente detecta los archivos de glosario en esta carpeta cuando abre un proyecto.</seg>
       </tuv>
     </tu>
     <tu>
