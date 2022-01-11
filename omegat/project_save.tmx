@@ -353,8 +353,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T192509Z" creationid="hcartagena" creationdate="20151116T192509Z">
-        <seg>&amp;Añadir...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195404Z" creationid="hcartagena" creationdate="20151116T192509Z">
+        <seg>&amp;Añadir…</seg>
       </tuv>
     </tu>
     <tu>
@@ -705,8 +705,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Edit...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T192513Z" creationid="hcartagena" creationdate="20151116T192513Z">
-        <seg>&amp;Editar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195408Z" creationid="hcartagena" creationdate="20151116T192513Z">
+        <seg>&amp;Editar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1153,8 +1153,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T200654Z" creationid="hcartagena" creationdate="20151116T200654Z">
-        <seg>&amp;Nuevo...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195417Z" creationid="hcartagena" creationdate="20151116T200654Z">
+        <seg>&amp;Nuevo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1193,8 +1193,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T202319Z" creationid="hcartagena" creationdate="20151116T202319Z">
-        <seg>&amp;Abrir...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195432Z" creationid="hcartagena" creationdate="20151116T202319Z">
+        <seg>&amp;Abrir…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1433,8 +1433,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Save As...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T192815Z" creationid="hcartagena" creationdate="20151116T192815Z">
-        <seg>&amp;Guardar como...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195410Z" creationid="hcartagena" creationdate="20151116T192815Z">
+        <seg>&amp;Guardar como…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10337,8 +10337,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T105808Z" creationid="hcartagena" creationdate="20151116T202350Z">
-        <seg>Copi&amp;ar archivos en la carpeta de archivos originales...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195433Z" creationid="hcartagena" creationdate="20151116T202350Z">
+        <seg>Copi&amp;ar archivos en la carpeta de archivos originales…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10363,8 +10363,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T105823Z" creationid="hcartagena" creationdate="20151116T202403Z">
-        <seg>Copiar archivos en la carpeta de archivos originales...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195435Z" creationid="hcartagena" creationdate="20151116T202403Z">
+        <seg>Copiar archivos en la carpeta de archivos originales…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12461,8 +12461,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211002T185640Z" creationid="hcartagena" creationdate="20151116T202315Z">
-        <seg>Descargar proyect&amp;o de trabajo en grupo...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195426Z" creationid="hcartagena" creationdate="20151116T202315Z">
+        <seg>Descargar proyect&amp;o de trabajo en grupo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -36705,11 +36705,11 @@ servidor.</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T115150Z" creationid="Mari" creationdate="20211002T182741Z">
+      <tuv lang="es" changeid="Mari" changedate="20220111T195416Z" creationid="Mari" creationdate="20211002T182741Z">
         <seg>Puede añadir archivos al proyecto de varias formas:
 - Arrastre y coloque los archivos en el panel Editor.
-- Vaya a Proyecto &gt; Copiar archivos en la carpeta de archivos originales...
-- Haga clic en Copiar archivos en la carpeta de archivos originales... en la ventana Archivos del proyecto.
+- Vaya a Proyecto &gt; Copiar archivos en la carpeta de archivos originales…
+- Haga clic en Copiar archivos en la carpeta de archivos originales… en la ventana Archivos del proyecto.
 - Copie los archivos en la carpeta «source» del proyecto con el gestor de archivos y vuelva a cargar el proyecto en Proyecto &gt; Volver a cargar.</seg>
       </tuv>
     </tu>
