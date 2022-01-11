@@ -37069,6 +37069,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To untar the &lt;f1&gt;.tar.gz&lt;/f1&gt; file:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T183848Z" creationid="Mari" creationdate="20220111T183641Z">
+        <seg>Para descomprimir el archivo &lt;f1&gt;.tar.gz&lt;/f1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T095532Z" creationid="Antonio" creationdate="20160125T095532Z">
