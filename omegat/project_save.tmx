@@ -2376,8 +2376,8 @@ en modo de trabajo en grupo.)</seg>
       <tuv lang="en">
         <seg>... matches the following</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T123022Z" creationid="nenyavie" creationdate="20200225T122820Z">
-        <seg>...coincide con lo siguiente</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195703Z" creationid="nenyavie" creationdate="20200225T122820Z">
+        <seg>…coincide con lo siguiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,16 +2392,16 @@ en modo de trabajo en grupo.)</seg>
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T115614Z" creationid="taty" creationdate="20181116T183946Z">
-        <seg>...pero los mismos carácteres se muestran correctamente en el panel Editor: la extensión y la codificación del archivo no coinciden.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195700Z" creationid="taty" creationdate="20181116T183946Z">
+        <seg>…pero los mismos carácteres se muestran correctamente en el panel Editor: la extensión y la codificación del archivo no coinciden.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>...matches the following</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T134040Z" creationid="nenyavie" creationdate="20200225T134040Z">
-        <seg>...coincide con lo siguiente</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195706Z" creationid="nenyavie" creationdate="20200225T134040Z">
+        <seg>…coincide con lo siguiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -3976,16 +3976,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T144108Z" creationid="Mari" creationdate="20211123T144108Z">
-        <seg>&lt;g0&gt;No traducir el atributo "content" de las metaetiquetas ...:&lt;/g0&gt; no se traducirán las metaetiquetas del cuadro.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195732Z" creationid="Mari" creationdate="20211123T144108Z">
+        <seg>&lt;g0&gt;No traducir el atributo "content" de las metaetiquetas …:&lt;/g0&gt; no se traducirán las metaetiquetas del cuadro.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...&lt;/g0&gt;: the meta-tags in the box will not be translated.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T121150Z" creationid="Mari" creationdate="20211123T120525Z">
-        <seg>&lt;g0&gt;No traducir el atributo "content" de las metaetiquetas...&lt;/g0&gt;: no se traducirán las metaetiquetas del cuadro.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195731Z" creationid="Mari" creationdate="20211123T120525Z">
+        <seg>&lt;g0&gt;No traducir el atributo "content" de las metaetiquetas…&lt;/g0&gt;: no se traducirán las metaetiquetas del cuadro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4096,8 +4096,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T180404Z" creationid="hcartagena" creationdate="20180605T180404Z">
-        <seg>&lt;html&gt;&lt;center&gt;Cargando...&lt;br&gt;&lt;br&gt;Consejo: Activar/desactivar comprobaciones en cualquier momento desde el menú Opciones.&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195655Z" creationid="hcartagena" creationdate="20180605T180404Z">
+        <seg>&lt;html&gt;&lt;center&gt;Cargando…&lt;br&gt;&lt;br&gt;Consejo: Activar/desactivar comprobaciones en cualquier momento desde el menú Opciones.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6177,8 +6177,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>About...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T144046Z" creationid="Helli" creationdate="20150526T144046Z">
-        <seg>Acerca de...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195722Z" creationid="Helli" creationdate="20150526T144046Z">
+        <seg>Acerca de…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7910,24 +7910,24 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105650Z" creationid="Helli" creationdate="20150526T142818Z">
-        <seg>Autocompletar/Autotexto...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195714Z" creationid="Helli" creationdate="20150526T142818Z">
+        <seg>Autocompletar/Autotexto…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto-completion/Character Table...</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105650Z" creationid="Helli" creationdate="20150603T152518Z">
-        <seg>Autocompletar/Tabla de caracteres...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195715Z" creationid="Helli" creationdate="20150603T152518Z">
+        <seg>Autocompletar/Tabla de caracteres…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto-completion/Glossary...</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105650Z" creationid="Helli" creationdate="20150526T142758Z">
-        <seg>Autocompletar/Glosario...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195713Z" creationid="Helli" creationdate="20150526T142758Z">
+        <seg>Autocompletar/Glosario…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8102,8 +8102,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T165554Z" creationid="Helli" creationdate="20150526T135307Z">
-        <seg>Retroceder en el historial...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195713Z" creationid="Helli" creationdate="20150526T135307Z">
+        <seg>Retroceder en el historial…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8499,16 +8499,16 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T144555Z" creationid="nenyavie" creationdate="20200226T144555Z">
-        <seg>Explorar colecciones de TaaS...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195731Z" creationid="nenyavie" creationdate="20200226T144555Z">
+        <seg>Explorar colecciones de TaaS…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Browse...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T174145Z" creationid="hcartagena" creationdate="20180605T174145Z">
-        <seg>Explorar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195649Z" creationid="hcartagena" creationdate="20180605T174145Z">
+        <seg>Explorar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8739,8 +8739,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, the &lt;f0&gt;tm&lt;/f0&gt; folder is below the project's root folder (e.g. ...&lt;f1&gt;MyProject/tm&lt;/f1&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T171116Z" creationid="Mari" creationdate="20211127T171116Z">
-        <seg>De forma predeterminada, la carpeta &lt;f0&gt;tm&lt;/f0&gt; está bajo la carpeta raíz del proyecto (por ejemplo, ...&lt;f1&gt;Miproyecto/tm&lt;/f1&gt;, pero si lo desea, puede elegir una carpeta diferente en el diálogo de propiedades del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195748Z" creationid="Mari" creationdate="20211127T171116Z">
+        <seg>De forma predeterminada, la carpeta &lt;f0&gt;tm&lt;/f0&gt; está bajo la carpeta raíz del proyecto (por ejemplo, …&lt;f1&gt;Miproyecto/tm&lt;/f1&gt;, pero si lo desea, puede elegir una carpeta diferente en el diálogo de propiedades del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9491,8 +9491,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T165030Z" creationid="Mari" creationdate="20211126T165030Z">
-        <seg>Haga clic en &lt;g0&gt;Exclusiones...&lt;/g0&gt; para definir los archivos o carpetas que ignorará OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195740Z" creationid="Mari" creationdate="20211126T165030Z">
+        <seg>Haga clic en &lt;g0&gt;Exclusiones…&lt;/g0&gt; para definir los archivos o carpetas que ignorará OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9531,24 +9531,24 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T194109Z" creationid="Mari" creationdate="20211124T193808Z">
-        <seg>Haga clic en &lt;g0&gt;Autotexto...&lt;/g0&gt; para configurar las opciones de autotexo y añadir o eliminar entradas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195734Z" creationid="Mari" creationdate="20211124T193808Z">
+        <seg>Haga clic en &lt;g0&gt;Autotexto…&lt;/g0&gt; para configurar las opciones de autotexo y añadir o eliminar entradas.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T194709Z" creationid="Mari" creationdate="20211124T194606Z">
-        <seg>Haga clic en &lt;g0&gt;Tabla de caracteres...&lt;/g0&gt; para configurar las opciones de autocompletar relativas a la tabla de caracteres.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195734Z" creationid="Mari" creationdate="20211124T194606Z">
+        <seg>Haga clic en &lt;g0&gt;Tabla de caracteres…&lt;/g0&gt; para configurar las opciones de autocompletar relativas a la tabla de caracteres.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T193603Z" creationid="Mari" creationdate="20211124T193457Z">
-        <seg>Haga clic en &lt;g0&gt;Glosario...&lt;/g0&gt; para configurar la vista del glosario de autocompletar.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195734Z" creationid="Mari" creationdate="20211124T193457Z">
+        <seg>Haga clic en &lt;g0&gt;Glosario…&lt;/g0&gt; para configurar la vista del glosario de autocompletar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11317,8 +11317,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Custom Colours...</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105729Z" creationid="nenyavie" creationdate="20200226T105729Z">
-        <seg>Colores personalizados...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195716Z" creationid="nenyavie" creationdate="20200226T105729Z">
+        <seg>Colores personalizados…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12485,8 +12485,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Download MediaWiki Page...</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T103408Z" creationid="nenyavie" creationdate="20200226T103408Z">
-        <seg>Descargar página de MediaWiki...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195708Z" creationid="nenyavie" creationdate="20200226T103408Z">
+        <seg>Descargar página de MediaWiki…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12935,8 +12935,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>Editing Behavior...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151210T214448Z" creationid="Helli" creationdate="20150526T143128Z">
-        <seg>Comportamiento de la edición...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195717Z" creationid="Helli" creationdate="20150526T143128Z">
+        <seg>Comportamiento de la edición…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14070,8 +14070,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>External TMXs...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T172301Z" creationid="Helli" creationdate="20150526T143500Z">
-        <seg>TMX externas...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195719Z" creationid="Helli" creationdate="20150526T143500Z">
+        <seg>TMX externas…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14358,8 +14358,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T142934Z" creationid="Helli" creationdate="20150526T142934Z">
-        <seg>Filtros de archivo...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195652Z" creationid="Helli" creationdate="20150526T142934Z">
+        <seg>Filtros de archivo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14574,8 +14574,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Filters...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T044446Z" creationid="hcartagena" creationdate="20160401T044446Z">
-        <seg>Filtros...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195653Z" creationid="hcartagena" creationdate="20160401T044446Z">
+        <seg>Filtros…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14742,8 +14742,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Font...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T171903Z" creationid="Helli" creationdate="20150526T142930Z">
-        <seg>Fuente...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195715Z" creationid="Helli" creationdate="20150526T142930Z">
+        <seg>Fuente…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15264,8 +15264,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T165452Z" creationid="Helli" creationdate="20150526T135158Z">
-        <seg>Avanzar en el historial...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195712Z" creationid="Helli" creationdate="20150526T135158Z">
+        <seg>Avanzar en el historial…</seg>
       </tuv>
     </tu>
     <tu>
@@ -16326,8 +16326,8 @@ es que su invierno ha llegado</seg>
       <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T040948Z" creationid="hcartagena" creationdate="20160401T040948Z">
-        <seg>Resaltar patrón...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195651Z" creationid="hcartagena" creationdate="20160401T040948Z">
+        <seg>Resaltar patrón…</seg>
       </tuv>
     </tu>
     <tu>
@@ -17152,8 +17152,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m3&gt; &lt;g4&gt;Options&lt;/g4&gt; &lt;g5&gt;Segmentation...&lt;/g5&gt; &lt;/m3&gt;from the main menu.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T113020Z" creationid="Mari" creationdate="20211124T113020Z">
-        <seg>Si elige la segmentación por frases, puede configurar las reglas seleccionando &lt;m3&gt; &lt;g4&gt;Opciones&lt;/g4&gt; &lt;g5&gt;Segmentación...&lt;/g5&gt; &lt;/m3&gt;desde el menú principal.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195733Z" creationid="Mari" creationdate="20211124T113020Z">
+        <seg>Si elige la segmentación por frases, puede configurar las reglas seleccionando &lt;m3&gt; &lt;g4&gt;Opciones&lt;/g4&gt; &lt;g5&gt;Segmentación…&lt;/g5&gt; &lt;/m3&gt;desde el menú principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18379,8 +18379,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In order to select the type of segmentation, select &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T155942Z" creationid="Mari" creationdate="20211123T155942Z">
-        <seg>Para elegir el tipo de segmentación, seleccione &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Propiedades...&lt;/g2&gt; &lt;/m0&gt; en el menú principal y marque o desmarque la casilla proporcionada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195732Z" creationid="Mari" creationdate="20211123T155942Z">
+        <seg>Para elegir el tipo de segmentación, seleccione &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Propiedades…&lt;/g2&gt; &lt;/m0&gt; en el menú principal y marque o desmarque la casilla proporcionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20695,8 +20695,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T172805Z" creationid="Helli" creationdate="20150526T144051Z">
-        <seg>Cambios recientes...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195722Z" creationid="Helli" creationdate="20150526T144051Z">
+        <seg>Cambios recientes…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21274,8 +21274,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Log...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T144054Z" creationid="Helli" creationdate="20150526T144054Z">
-        <seg>Registro...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195722Z" creationid="Helli" creationdate="20150526T144054Z">
+        <seg>Registro…</seg>
       </tuv>
     </tu>
     <tu>
@@ -25957,8 +25957,8 @@ cual bruma se disipa</seg>
       <tuv lang="en">
         <seg>Pattern...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T044451Z" creationid="hcartagena" creationdate="20160401T044451Z">
-        <seg>Patrón...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195654Z" creationid="hcartagena" creationdate="20160401T044451Z">
+        <seg>Patrón…</seg>
       </tuv>
     </tu>
     <tu>
@@ -26995,8 +26995,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Project Files...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T131520Z" creationid="Helli" creationdate="20150526T131520Z">
-        <seg>Archivos de proyecto...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195709Z" creationid="Helli" creationdate="20150526T131520Z">
+        <seg>Archivos de proyecto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -27267,8 +27267,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Properties...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T131515Z" creationid="Helli" creationdate="20150526T131515Z">
-        <seg>Propiedades...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195708Z" creationid="Helli" creationdate="20150526T131515Z">
+        <seg>Propiedades…</seg>
       </tuv>
     </tu>
     <tu>
@@ -27307,8 +27307,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Proxy Login...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T172514Z" creationid="Helli" creationdate="20150526T143657Z">
-        <seg>Credenciales de proxy...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195721Z" creationid="Helli" creationdate="20150526T143657Z">
+        <seg>Credenciales de proxy…</seg>
       </tuv>
     </tu>
     <tu>
@@ -28522,8 +28522,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Retrieve domain list...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T235639Z" creationid="Antonio" creationdate="20151126T161625Z">
-        <seg>Recuperar lista de dominios...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195648Z" creationid="Antonio" creationdate="20151126T161625Z">
+        <seg>Recuperar lista de dominios…</seg>
       </tuv>
     </tu>
     <tu>
@@ -28731,8 +28731,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Rules...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T044443Z" creationid="hcartagena" creationdate="20160401T044443Z">
-        <seg>Reglas...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195653Z" creationid="hcartagena" creationdate="20160401T044443Z">
+        <seg>Reglas…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29011,8 +29011,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Save TMX...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T040808Z" creationid="hcartagena" creationdate="20160401T040808Z">
-        <seg>Guardar TMX...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195651Z" creationid="hcartagena" creationdate="20160401T040808Z">
+        <seg>Guardar TMX…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29091,8 +29091,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Saving and Output...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170700Z" creationid="Helli" creationdate="20150526T143603Z">
-        <seg>Guardado y salida...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195721Z" creationid="Helli" creationdate="20150526T143603Z">
+        <seg>Guardado y salida…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29293,8 +29293,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Search Project...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T152437Z" creationid="Helli" creationdate="20150526T132239Z">
-        <seg>Buscar en el proyecto...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195709Z" creationid="Helli" creationdate="20150526T132239Z">
+        <seg>Buscar en el proyecto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29728,8 +29728,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T165130Z" creationid="Helli" creationdate="20150526T135046Z">
-        <seg>Segmento número...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195711Z" creationid="Helli" creationdate="20150526T135046Z">
+        <seg>Segmento número…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29768,8 +29768,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Segmentation Rules...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T041008Z" creationid="hcartagena" creationdate="20160401T041008Z">
-        <seg>Reglas de segmentación...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195652Z" creationid="hcartagena" creationdate="20160401T041008Z">
+        <seg>Reglas de segmentación…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29808,8 +29808,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T142938Z" creationid="Helli" creationdate="20150526T142938Z">
-        <seg>Segmentación...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195717Z" creationid="Helli" creationdate="20150526T142938Z">
+        <seg>Segmentación…</seg>
       </tuv>
     </tu>
     <tu>
@@ -30040,8 +30040,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select TaaS Terminology Lookup Domain...</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T144750Z" creationid="nenyavie" creationdate="20200226T144750Z">
-        <seg>Seleccionar el dominio de búsqueda de terminología en TaaS...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195731Z" creationid="nenyavie" creationdate="20200226T144750Z">
+        <seg>Seleccionar el dominio de búsqueda de terminología en TaaS…</seg>
       </tuv>
     </tu>
     <tu>
@@ -30312,8 +30312,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T192813Z" creationid="Mari" creationdate="20211124T192245Z">
-        <seg>Establecer el inicio de segmento después de un punto ('.') seguido de un espacio, tabulación...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195733Z" creationid="Mari" creationdate="20211124T192245Z">
+        <seg>Establecer el inicio de segmento después de un punto ('.') seguido de un espacio, tabulación…</seg>
       </tuv>
     </tu>
     <tu>
@@ -31400,8 +31400,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Spell checking...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T142954Z" creationid="Helli" creationdate="20150526T142954Z">
-        <seg>Corrector ortográfico...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195717Z" creationid="Helli" creationdate="20150526T142954Z">
+        <seg>Corrector ortográfico…</seg>
       </tuv>
     </tu>
     <tu>
@@ -32242,8 +32242,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Tag Processing...</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T105851Z" creationid="nenyavie" creationdate="20200226T105851Z">
-        <seg>Procesamiento de etiquetas...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195717Z" creationid="nenyavie" creationdate="20200226T105851Z">
+        <seg>Procesamiento de etiquetas…</seg>
       </tuv>
     </tu>
     <tu>
@@ -32530,8 +32530,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Team...</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T162810Z" creationid="Helli" creationdate="20150526T143433Z">
-        <seg>Trabajo en grupo...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195719Z" creationid="Helli" creationdate="20150526T143433Z">
+        <seg>Trabajo en grupo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -33450,8 +33450,8 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       <tuv lang="en">
         <seg>The character x, except the following...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T120522Z" creationid="nenyavie" creationdate="20200225T132945Z">
-        <seg>El carácter x, salvo lo siguiente...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195705Z" creationid="nenyavie" creationdate="20200225T132945Z">
+        <seg>El carácter x, salvo lo siguiente…</seg>
       </tuv>
     </tu>
     <tu>
@@ -35105,8 +35105,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T153111Z" creationid="Mari" creationdate="20211123T152833Z">
-        <seg>El patrón de nombre de archivo traducido utiliza una sintaxis especial, así que si desea editar este campo, debe hacer clic en &lt;e0&gt;Editar...&lt;/e0&gt;y utilizar el cuadro de diálogo Editar patrón.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195732Z" creationid="Mari" creationdate="20211123T152833Z">
+        <seg>El patrón de nombre de archivo traducido utiliza una sintaxis especial, así que si desea editar este campo, debe hacer clic en &lt;e0&gt;Editar…&lt;/e0&gt;y utilizar el cuadro de diálogo Editar patrón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35989,16 +35989,16 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T123841Z" creationid="nenyavie" creationdate="20200226T123736Z">
-        <seg>Se accede a este diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Preferencias...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195730Z" creationid="nenyavie" creationdate="20200226T123736Z">
+        <seg>Se accede a este diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Preferencias…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T153306Z" creationid="Mari" creationdate="20211126T153306Z">
-        <seg>Se accede a este diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Propiedades...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195738Z" creationid="Mari" creationdate="20211126T153306Z">
+        <seg>Se accede a este diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Propiedades…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36840,8 +36840,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T163730Z" creationid="Mari" creationdate="20211126T163437Z">
-        <seg>Para crear un conjunto de filtros de archivo específicos del proyecto, haga clic en el botón &lt;g0&gt;Filtros de archivo...&lt;/g0&gt;y active la casilla &lt;g1&gt;Hacer que los ajustes de filtros de archivo sean específicos para el proyecto&lt;/g1&gt; en la ventana que se abre.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195740Z" creationid="Mari" creationdate="20211126T163437Z">
+        <seg>Para crear un conjunto de filtros de archivo específicos del proyecto, haga clic en el botón &lt;g0&gt;Filtros de archivo…&lt;/g0&gt;y active la casilla &lt;g1&gt;Hacer que los ajustes de filtros de archivo sean específicos para el proyecto&lt;/g1&gt; en la ventana que se abre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37080,8 +37080,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To modify the options, select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T210021Z" creationid="Mari" creationdate="20211125T210021Z">
-        <seg>Para modificar las opciones, seleccione el filtro del listado y haga clic en &lt;g0&gt;Opciones...&lt;/g0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195731Z" creationid="Mari" creationdate="20211125T210021Z">
+        <seg>Para modificar las opciones, seleccione el filtro del listado y haga clic en &lt;g0&gt;Opciones…&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39145,8 +39145,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>User Manual...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T144035Z" creationid="Helli" creationdate="20150526T144035Z">
-        <seg>Manual de usuario...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195721Z" creationid="Helli" creationdate="20150526T144035Z">
+        <seg>Manual de usuario…</seg>
       </tuv>
     </tu>
     <tu>
@@ -39757,8 +39757,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>View...</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T143528Z" creationid="Helli" creationdate="20150526T143528Z">
-        <seg>Ver...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195720Z" creationid="Helli" creationdate="20150526T143528Z">
+        <seg>Ver…</seg>
       </tuv>
     </tu>
     <tu>
@@ -40153,8 +40153,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T195105Z" creationid="Mari" creationdate="20211125T194544Z">
-        <seg>Cuando se traducen archivos relativos a software, es posible configurar las opciones de la validación de etiquetas para que también compruebe las variables de programación (%...) o los marcadores de posición ({0}), en el caso de que el filtro de archivos no lo haga automáticamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195735Z" creationid="Mari" creationdate="20211125T194544Z">
+        <seg>Cuando se traducen archivos relativos a software, es posible configurar las opciones de la validación de etiquetas para que también compruebe las variables de programación (%…) o los marcadores de posición ({0}), en el caso de que el filtro de archivos no lo haga automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
