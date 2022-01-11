@@ -22957,6 +22957,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No glossary file found in the &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182309Z" creationid="Mari" creationdate="20220111T182309Z">
+        <seg>No se encontró ningún archivo de glosario en la carpeta &lt;f0&gt;glossary&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211012T141504Z" creationid="hcartagena" creationdate="20151117T142908Z">
@@ -33869,8 +33877,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The glossary file is empty.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181116T182613Z" creationid="taty" creationdate="20181116T182613Z">
-        <seg>El archivo del glosario está vacío.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182318Z" creationid="taty" creationdate="20181116T182613Z">
+        <seg>El archivo de glosario está vacío.</seg>
       </tuv>
     </tu>
     <tu>
