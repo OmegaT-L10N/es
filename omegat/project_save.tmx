@@ -35302,6 +35302,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T190015Z" creationid="Mari" creationdate="20220111T190015Z">
+        <seg>Después de seleccionar un menú adecuado, añada un submenú o elemento con &lt;e0&gt;Archivo - Nuevo&lt;/e0&gt; Submenú y &lt;e1&gt;Archivo - Nuevo elemento&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are a number of restrictions:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T154159Z" creationid="Antonio" creationdate="20160126T154159Z">
