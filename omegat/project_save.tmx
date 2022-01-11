@@ -9569,6 +9569,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T190912Z" creationid="Mari" creationdate="20220111T190912Z">
+        <seg>Haga clic en el botón de icono (a la derecha de los campos Nombre/Descripción/Comentario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T191825Z" creationid="nenyavie" creationdate="20200226T144346Z">
