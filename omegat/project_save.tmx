@@ -329,8 +329,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T221638Z" creationid="hcartagena" creationdate="20151116T221638Z">
-        <seg>&amp;Acerca de...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195503Z" creationid="hcartagena" creationdate="20151116T221638Z">
+        <seg>&amp;Acerca de…</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,8 +361,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T215657Z" creationid="hcartagena" creationdate="20160331T215657Z">
-        <seg>&amp;Alinear archivos...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195449Z" creationid="hcartagena" creationdate="20160331T215657Z">
+        <seg>&amp;Alinear archivos…</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,8 +569,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233440Z" creationid="hcartagena" creationdate="20180604T233440Z">
-        <seg>&amp;Comprobar actualizaciones...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195507Z" creationid="hcartagena" creationdate="20180604T233440Z">
+        <seg>&amp;Comprobar actualizaciones…</seg>
       </tuv>
     </tu>
     <tu>
@@ -721,8 +721,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T215703Z" creationid="hcartagena" creationdate="20160331T215703Z">
-        <seg>&amp;Editor...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195454Z" creationid="hcartagena" creationdate="20160331T215703Z">
+        <seg>&amp;Editor…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1025,8 +1025,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T221655Z" creationid="hcartagena" creationdate="20151116T221655Z">
-        <seg>&amp;Cambios recientes...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195506Z" creationid="hcartagena" creationdate="20151116T221655Z">
+        <seg>&amp;Cambios recientes…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1209,8 +1209,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233430Z" creationid="hcartagena" creationdate="20180604T233430Z">
-        <seg>&amp;Preferencias...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195455Z" creationid="hcartagena" creationdate="20180604T233430Z">
+        <seg>&amp;Preferencias…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1257,8 +1257,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Properties...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T202605Z" creationid="hcartagena" creationdate="20151116T202605Z">
-        <seg>&amp;Propiedades...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195442Z" creationid="hcartagena" creationdate="20151116T202605Z">
+        <seg>&amp;Propiedades…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1457,8 +1457,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Search Project...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T202915Z" creationid="hcartagena" creationdate="20151116T202915Z">
-        <seg>Bu&amp;scar en el proyecto...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195446Z" creationid="hcartagena" creationdate="20151116T202915Z">
+        <seg>Bu&amp;scar en el proyecto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,16 +1473,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T203452Z" creationid="hcartagena" creationdate="20151116T203452Z">
-        <seg>&amp;Segmento número...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195448Z" creationid="hcartagena" creationdate="20151116T203452Z">
+        <seg>&amp;Segmento número…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T220905Z" creationid="hcartagena" creationdate="20151116T220905Z">
-        <seg>&amp;Segmentación...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195454Z" creationid="hcartagena" creationdate="20151116T220905Z">
+        <seg>&amp;Segmentación…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1747,8 +1747,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T221632Z" creationid="hcartagena" creationdate="20151116T221632Z">
-        <seg>Manual de &amp;usuario...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195456Z" creationid="hcartagena" creationdate="20151116T221632Z">
+        <seg>Manual de &amp;usuario…</seg>
       </tuv>
     </tu>
     <tu>
@@ -9155,8 +9155,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T232922Z" creationid="hcartagena" creationdate="20180604T232922Z">
-        <seg>Com&amp;probar problemas...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195449Z" creationid="hcartagena" creationdate="20180604T232922Z">
+        <seg>Com&amp;probar problemas…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10547,8 +10547,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T210920Z" creationid="hcartagena" creationdate="20151116T203234Z">
-        <seg>Crear término en el &amp;glosario...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195447Z" creationid="hcartagena" creationdate="20151116T203234Z">
+        <seg>Crear término en el &amp;glosario…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10595,8 +10595,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Create MED Project...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T231658Z" creationid="hcartagena" creationdate="20180604T231658Z">
-        <seg>Crear proyecto MED...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195441Z" creationid="hcartagena" creationdate="20180604T231658Z">
+        <seg>Crear proyecto MED…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12469,8 +12469,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T202419Z" creationid="hcartagena" creationdate="20151116T202419Z">
-        <seg>Descargar página de Media&amp;Wiki...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195439Z" creationid="hcartagena" creationdate="20151116T202419Z">
+        <seg>Descargar página de Media&amp;Wiki…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12549,8 +12549,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T215906Z" creationid="hcartagena" creationdate="20160331T215906Z">
-        <seg>Descargando el proyecto...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195516Z" creationid="hcartagena" creationdate="20160331T215906Z">
+        <seg>Descargando el proyecto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12735,8 +12735,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T191135Z" creationid="hcartagena" creationdate="20151117T191135Z">
-        <seg>E&amp;xclusiones...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195533Z" creationid="hcartagena" creationdate="20151117T191135Z">
+        <seg>E&amp;xclusiones…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13108,8 +13108,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211012T143055Z" creationid="hcartagena" creationdate="20180604T234034Z">
-        <seg>Habilítelos en &lt;b&gt;Preferencias &gt; Guardado y salida...&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195524Z" creationid="hcartagena" creationdate="20180604T234034Z">
+        <seg>Habilítelos en &lt;b&gt;Preferencias &gt; Guardado y salida…&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13910,8 +13910,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T142231Z" creationid="hcartagena" creationdate="20151117T142231Z">
-        <seg>Ejecutando comando externo...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195521Z" creationid="hcartagena" creationdate="20151117T142231Z">
+        <seg>Ejecutando comando externo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14038,8 +14038,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>External Search...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T234041Z" creationid="hcartagena" creationdate="20180604T234041Z">
-        <seg>Búsqueda externa...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195534Z" creationid="hcartagena" creationdate="20180604T234041Z">
+        <seg>Búsqueda externa…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14326,8 +14326,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T202614Z" creationid="hcartagena" creationdate="20151116T202614Z">
-        <seg>&amp;Filtros de archivo...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195445Z" creationid="hcartagena" creationdate="20151116T202614Z">
+        <seg>&amp;Filtros de archivo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -20103,8 +20103,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211010T143536Z" creationid="hcartagena" creationdate="20151116T223327Z">
-        <seg>Yendo al último segmento editado...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195508Z" creationid="hcartagena" creationdate="20151116T223327Z">
+        <seg>Yendo al último segmento editado…</seg>
       </tuv>
     </tu>
     <tu>
@@ -20399,8 +20399,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T221805Z" creationid="hcartagena" creationdate="20151116T221805Z">
-        <seg>Registr&amp;o de eventos...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195507Z" creationid="hcartagena" creationdate="20151116T221805Z">
+        <seg>Registr&amp;o de eventos…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21114,8 +21114,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T141140Z" creationid="hcartagena" creationdate="20151117T141140Z">
-        <seg>Cargando archivos TMX...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195520Z" creationid="hcartagena" creationdate="20151117T141140Z">
+        <seg>Cargando archivos TMX…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21138,8 +21138,8 @@ conectado a Internet.</seg>
       <tuv lang="en">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T140852Z" creationid="hcartagena" creationdate="20151117T140852Z">
-        <seg>Cargando el proyecto...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195518Z" creationid="hcartagena" creationdate="20151117T140852Z">
+        <seg>Cargando el proyecto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -25271,8 +25271,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Open MED Project...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T231652Z" creationid="hcartagena" creationdate="20180604T231652Z">
-        <seg>Abrir proyecto MED...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195440Z" creationid="hcartagena" creationdate="20180604T231652Z">
+        <seg>Abrir proyecto MED…</seg>
       </tuv>
     </tu>
     <tu>
@@ -26971,8 +26971,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Project &amp;Files...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T202622Z" creationid="hcartagena" creationdate="20151116T202622Z">
-        <seg>Archivos de&amp;l proyecto...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195446Z" creationid="hcartagena" creationdate="20151116T202622Z">
+        <seg>Archivos de&amp;l proyecto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -28274,8 +28274,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T220235Z" creationid="hcartagena" creationdate="20160331T215959Z">
-        <seg>Asignación de repositorios...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195533Z" creationid="hcartagena" creationdate="20160331T215959Z">
+        <seg>Asignación de repositorios…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29099,8 +29099,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151116T222409Z" creationid="hcartagena" creationdate="20151116T222409Z">
-        <seg>Guardando el proyecto...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195508Z" creationid="hcartagena" creationdate="20151116T222409Z">
+        <seg>Guardando el proyecto…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29197,8 +29197,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T141320Z" creationid="Antonio" creationdate="20151127T175005Z">
-        <seg>Pro&amp;gramación...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195450Z" creationid="Antonio" creationdate="20151127T175005Z">
+        <seg>Pro&amp;gramación…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29309,8 +29309,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211006T111413Z" creationid="Helli" creationdate="20150526T132257Z">
-        <seg>Buscar y reemplazar...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195447Z" creationid="Helli" creationdate="20150526T132257Z">
+        <seg>Buscar y reemplazar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -38710,8 +38710,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Upgrading...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T185454Z" creationid="hcartagena" creationdate="20151119T185454Z">
-        <seg>Actualizando...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195538Z" creationid="hcartagena" creationdate="20151119T185454Z">
+        <seg>Actualizando…</seg>
       </tuv>
     </tu>
     <tu>
