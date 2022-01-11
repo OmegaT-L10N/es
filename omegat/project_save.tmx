@@ -15470,6 +15470,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f3&gt;OmegaT.png&lt;/f3&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T195242Z" creationid="Mari" creationdate="20220111T195242Z">
+        <seg>Es posible que GNOME no pueda mostrar archivos de icono en los formatos disponibles e inicialmente parece esperar un archivo SVG, pero si la carpeta está seleccionada, los archivos deben aparecer y podrá seleccionar &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T161225Z" creationid="Cristina" creationdate="20170917T161225Z">
