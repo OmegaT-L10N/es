@@ -19805,6 +19805,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182057Z" creationid="Mari" creationdate="20220111T182057Z">
+        <seg>Es posible modificar su nombre y su ubicación en el diálogo de propiedades del proyecto, pero su extensión debe ser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; y su ubicación debe estar dentro de la carpeta &lt;f2&gt;glossary&lt;/f2&gt; del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233542Z" creationid="hcartagena" creationdate="20200729T233542Z">
@@ -36993,6 +37001,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T155923Z" creationid="nenyavie" creationdate="20200225T115814Z">
         <seg>Para utilizar un glosario existente, basta con colocarlo en la carpeta &lt;f0&gt;/glossary&lt;/f0&gt; después de crear el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T182148Z" creationid="Mari" creationdate="20220111T182148Z">
+        <seg>Para utilizar un glosario existente, basta con colocarlo en la carpeta &lt;f0&gt;glossary&lt;/f0&gt; después de crear el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
