@@ -32916,6 +32916,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The KMenuEditor appears.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T185206Z" creationid="Mari" creationdate="20220111T185206Z">
+        <seg>Aparece el Editor de menú de KDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T162046Z" creationid="Antonio" creationdate="20151128T162046Z">
