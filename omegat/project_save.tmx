@@ -6471,6 +6471,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding OmegaT to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T184149Z" creationid="Mari" creationdate="20220111T184149Z">
+        <seg>Añadir OmegaT a sus menús (KDE) o paneles (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220103T190321Z" creationid="Mari" creationdate="20220103T190321Z">
