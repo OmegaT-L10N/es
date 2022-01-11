@@ -30045,6 +30045,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the &lt;f1&gt;OmegaT.png&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T191636Z" creationid="Mari" creationdate="20220111T191636Z">
+        <seg>Seleccione el icono &lt;f1&gt;OmegaT.png&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the location of the language checker.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T112752Z" creationid="Mari" creationdate="20211125T112752Z">
