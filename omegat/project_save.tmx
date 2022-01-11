@@ -35287,6 +35287,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T181859Z" creationid="Mari" creationdate="20220111T181859Z">
+        <seg>Debe haber tres archivos, con extensiones &lt;f2&gt;dz, idx &lt;/f2&gt;e &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T155031Z" creationid="hcartagena" creationdate="20180605T164546Z">
