@@ -20045,6 +20045,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>KDE 4 Users</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T184227Z" creationid="Mari" creationdate="20220111T184227Z">
+        <seg>Usuarios de KDE 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kalaallisut, Greenlandic</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144708Z" creationid="Antonio" creationdate="20151128T144708Z">
