@@ -26599,6 +26599,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T184346Z" creationid="Mari" creationdate="20220111T184346Z">
+        <seg>Pulse &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; para visualizar KRunner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181211T094652Z" creationid="eumeu" creationdate="20181116T131030Z">
@@ -40915,6 +40923,14 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T214736Z" creationid="Víctor Parra" creationdate="20151126T194836Z">
         <seg>Está desinstalando el diccionario de corrección ortográfica que está utilizando su proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add OmegaT to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T184246Z" creationid="Mari" creationdate="20220111T184246Z">
+        <seg>Puede añadir OmegaT a sus menús de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
