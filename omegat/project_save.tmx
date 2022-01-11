@@ -13274,6 +13274,14 @@ su página de ayuda no encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter "OmegaT" in the "Name" field; in the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T194359Z" creationid="Mari" creationdate="20220111T194359Z">
+        <seg>Escriba "OmegaT" en el campo "Nombre", en el campo "Comando", utilice el botón de navegación para encontrar el script de inicio de OmegaT (el archivo con el nombre OmegaT en la carpeta descomprimida).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter OmegaT as the name of the new item.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T190055Z" creationid="Mari" creationdate="20220111T190055Z">
