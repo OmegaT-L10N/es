@@ -16946,6 +16946,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If it is &lt;f0&gt;tar.bz&lt;/f0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T181308Z" creationid="Mari" creationdate="20220111T181308Z">
+        <seg>[fuzzy]Si la extensión es &lt;e0&gt;tar.bz&lt;/e0&gt;, entonces ha olvidado descomprimirlo (con untar o winrar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
