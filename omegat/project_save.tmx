@@ -30070,6 +30070,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select it and confirm with OK.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220111T194522Z" creationid="Mari" creationdate="20220111T194522Z">
+        <seg>Selecciónelo y confirme con Aceptar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164325Z" creationid="hcartagena" creationdate="20180605T164325Z">
