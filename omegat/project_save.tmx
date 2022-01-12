@@ -44636,6 +44636,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T184432Z" creationid="Mari" creationdate="20220112T184432Z">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T115054Z" creationid="Antonio" creationdate="20160125T115054Z">
