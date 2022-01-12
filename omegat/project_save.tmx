@@ -39188,6 +39188,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T181221Z" creationid="Mari" creationdate="20220112T181221Z">
+        <seg>Utilice el archivo &lt;f0&gt;OmegaT.jar&lt;/f0&gt; ubicado en &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; para iniciar OmegaT desde la línea de comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211229T115219Z" creationid="Mari" creationdate="20211229T115219Z">
