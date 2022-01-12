@@ -36845,8 +36845,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220112T174131Z" creationid="Mari" creationdate="20220111T183636Z">
-        <seg>Esto creará una carpeta &lt;f0&gt;omegat&lt;/f0&gt; en la carpeta de trabajo, en la cual podrá encontrar todos los archivos necesarios para ejecutar OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220112T185524Z" creationid="Mari" creationdate="20220111T183636Z">
+        <seg>Se creará una carpeta &lt;f0&gt;omegat&lt;/f0&gt; en la carpeta actual, en la cual podrá encontrar todos los archivos necesarios para ejecutar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
