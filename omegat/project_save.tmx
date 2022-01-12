@@ -25205,6 +25205,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T174447Z" creationid="Mari" creationdate="20220112T174447Z">
+        <seg>Una vez hecho esto, puede eliminar el archivo &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, puesto que ya no es necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222916Z" creationid="hcartagena" creationdate="20151201T222916Z">
