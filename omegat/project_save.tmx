@@ -25263,8 +25263,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Once OmegaT is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220112T190315Z" creationid="Mari" creationdate="20220112T190315Z">
-        <seg>Una vez que OmegaT está instalado, puede ejecutarlo directamente desde la línea de comandos, puede crear un script que incluya parámetros de lanzamiento para la línea de comandos o puede hacer clic en &lt;e0&gt;OmegaT.jar&lt;/e0&gt; para lanzarlo directamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220112T191020Z" creationid="Mari" creationdate="20220112T190315Z">
+        <seg>Una vez que OmegaT está instalado, puede iniciarlo directamente desde la línea de comandos, puede crear un script que incluya parámetros de inicio para la línea de comandos o puede hacer clic en &lt;f0&gt;OmegaT.jar&lt;/f0&gt; para iniciarlo directamente.</seg>
       </tuv>
     </tu>
     <tu>
