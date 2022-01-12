@@ -21560,6 +21560,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T173442Z" creationid="Mari" creationdate="20220112T173442Z">
+        <seg>Asegúrese de que la configuración de su&lt;v1&gt;RUTA DE ACCESO&lt;/v1&gt; sea correcta y que los archivos &lt;f2&gt;.jar&lt;/f2&gt; estén asociados correctamente con un iniciador de Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T084343Z" creationid="Antonio" creationdate="20160125T084343Z">
@@ -22186,6 +22194,14 @@ conectado a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T155140Z" creationid="Antonio" creationdate="20160125T155140Z">
         <seg>Diccionario Merriam Webster - utilización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Methods differ depending on the distribution.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T173058Z" creationid="Mari" creationdate="20220112T173058Z">
+        <seg>Los métodos difieren en función de la distribución.</seg>
       </tuv>
     </tu>
     <tu>
