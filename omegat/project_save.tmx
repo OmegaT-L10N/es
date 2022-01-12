@@ -9161,6 +9161,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T173528Z" creationid="Mari" creationdate="20220112T173528Z">
+        <seg>Consulte la sección "&lt;l3/&gt;" más abajo para obtener más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T195449Z" creationid="hcartagena" creationdate="20180604T232922Z">
@@ -45498,6 +45506,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T020542Z" creationid="hcartagena" creationdate="20160401T020542Z">
         <seg>mALIGNa (licencia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T173541Z" creationid="Mari" creationdate="20220112T173541Z">
+        <seg>Usuarios de macOS</seg>
       </tuv>
     </tu>
     <tu>
