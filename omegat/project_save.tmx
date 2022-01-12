@@ -25749,6 +25749,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Systems</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T182805Z" creationid="Mari" creationdate="20220112T182805Z">
+        <seg>Otros sistemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T212327Z" creationid="hcartagena" creationdate="20151119T212327Z">
@@ -36327,6 +36335,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220104T172443Z" creationid="Mari" creationdate="20220104T172443Z">
         <seg>Esta información se aplica solo a las versiones "tradicionales" de OmegaT para Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T182856Z" creationid="Mari" creationdate="20220112T182856Z">
+        <seg>Esta información se aplica a sistemas como Solaris SPARC/x86/x64, Linux x64/PowerPC o Windows x64.</seg>
       </tuv>
     </tu>
     <tu>
