@@ -3270,6 +3270,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T183925Z" creationid="Mari" creationdate="20220112T183925Z">
+        <seg>&lt;e0&gt;No lo sé:&lt;/e0&gt; abra un terminal y escriba &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T203055Z" creationid="Mari" creationdate="20211129T203055Z">
