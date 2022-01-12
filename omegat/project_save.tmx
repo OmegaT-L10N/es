@@ -12451,6 +12451,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T173946Z" creationid="Mari" creationdate="20220112T173946Z">
+        <seg>Haga doble clic en &lt;f&gt;OmegaT_2.1.x_Mac.zip&lt;/e0&gt; para descomprimirlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T123335Z" creationid="Antonio" creationdate="20160330T123335Z">
