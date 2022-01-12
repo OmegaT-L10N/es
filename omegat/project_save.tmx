@@ -41748,6 +41748,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can thus select a word anywhere in OmegaT and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T182650Z" creationid="Mari" creationdate="20220112T182650Z">
+        <seg>De este modo, puede seleccionar una palabra en cualquier parte de OmegaT y utilizar los Servicios para comprobar dicha palabra en Spotlight o Google, por ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T194109Z" creationid="Antonio" creationdate="20160331T184551Z">
