@@ -41548,6 +41548,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T174833Z" creationid="Mari" creationdate="20220112T174833Z">
+        <seg>Puede modificar el comportamiento de OmegaT editando las &lt;e0&gt;Propiedades&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify, correct, add or delete information at your own discretion.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T150638Z" creationid="Cristina" creationdate="20170924T150638Z">
