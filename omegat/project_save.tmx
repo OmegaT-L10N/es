@@ -3808,8 +3808,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220112T182249Z" creationid="Mari" creationdate="20220112T182249Z">
-        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; puede utilizar los servicios de macOS.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220112T182656Z" creationid="Mari" creationdate="20220112T182249Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; puede utilizar los Servicios de macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41426,6 +41426,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
         <seg>También puede arrastrar manualmente el archivo
 OmegaT.exe al menú Inicio, al escritorio o al área de inicio rápido
 para enlazarlo desde allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T182758Z" creationid="Mari" creationdate="20220112T182758Z">
+        <seg>También puede utilizar AppleScript o Automator para crear servicios o scripts que automaticen acciones frecuentes.</seg>
       </tuv>
     </tu>
     <tu>
