@@ -37294,6 +37294,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To install OmegaT, simply unpack the &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T184945Z" creationid="Mari" creationdate="20220112T184945Z">
+        <seg>Para instalar OmegaT, solo tiene que descomprimir el archivo &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T114945Z" creationid="eumeu" creationdate="20181116T150819Z">
