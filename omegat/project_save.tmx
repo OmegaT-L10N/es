@@ -15174,6 +15174,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T180336Z" creationid="Mari" creationdate="20220112T180336Z">
+        <seg>Para las opciones predefinidas, elimine el carácter&lt;l1&gt;#&lt;/l1&gt; antes de un parámetro para habilitarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T105313Z" creationid="Antonio" creationdate="20160125T105313Z">
@@ -25569,6 +25577,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T162221Z" creationid="Helli" creationdate="20150526T124429Z">
         <seg>Menú Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T180201Z" creationid="Mari" creationdate="20220112T180201Z">
+        <seg>Las opciones se cambian modificando &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
