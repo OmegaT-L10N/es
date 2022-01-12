@@ -36659,6 +36659,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T183723Z" creationid="Mari" creationdate="20220112T183723Z">
+        <seg>Este paquete se puede utilizar en cualquier plataforma donde esté instalado un JRE compatible con Java 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220103T192300Z" creationid="Mari" creationdate="20220103T192300Z">
