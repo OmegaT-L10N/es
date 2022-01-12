@@ -25693,6 +25693,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T184403Z" creationid="Mari" creationdate="20220112T184403Z">
+        <seg>Oracle proporciona JRE para Solaris SPARC/x86 (Java 8) y para Linux x64, Solaris x64, Windows x64 (Java 8) en &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233602Z" creationid="hcartagena" creationdate="20200729T233602Z">
@@ -44696,6 +44704,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T204919Z" creationid="hcartagena" creationdate="20160331T204919Z">
         <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T184245Z" creationid="Mari" creationdate="20220112T184245Z">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
       </tuv>
     </tu>
     <tu>
