@@ -14974,6 +14974,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T180451Z" creationid="Mari" creationdate="20220112T180451Z">
+        <seg>Por ejemplo, &lt;l2&gt;user.language=ja&lt;/l2&gt; (sin &lt;l3&gt;#&lt;/l3&gt;) iniciará OmegaT con la interfaz de usuario en japonés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001050Z" creationid="hcartagena" creationdate="20200730T001050Z">
