@@ -12453,8 +12453,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220112T173946Z" creationid="Mari" creationdate="20220112T173946Z">
-        <seg>Haga doble clic en &lt;f&gt;OmegaT_2.1.x_Mac.zip&lt;/e0&gt; para descomprimirlo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220112T174011Z" creationid="Mari" creationdate="20220112T173946Z">
+        <seg>Haga doble clic en &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; para descomprimirlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36063,6 +36063,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T163750Z" creationid="Antonio" creationdate="20151127T163750Z">
         <seg>Este comando se ejecutará después de crear los documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T173949Z" creationid="Mari" creationdate="20220112T173949Z">
+        <seg>[fuzzy]Crear una carpeta llamada « %1 ».</seg>
       </tuv>
     </tu>
     <tu>
