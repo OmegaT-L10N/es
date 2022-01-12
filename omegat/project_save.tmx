@@ -12483,6 +12483,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T174739Z" creationid="Mari" creationdate="20220112T174739Z">
+        <seg>Haga doble clic en &lt;f0&gt;OmegaT.app&lt;/f0&gt; o haga clic en su ubicación en el Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T215606Z" creationid="hcartagena" creationdate="20200729T215606Z">
