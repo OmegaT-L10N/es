@@ -36763,6 +36763,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T180951Z" creationid="Mari" creationdate="20220112T180951Z">
+        <seg>Se iniciará OmegaT con 6 GB de memoria. Cambie &lt;l4&gt;6g&lt;/l4&gt; a la cantidad que desee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211229T114235Z" creationid="Mari" creationdate="20211229T114235Z">
