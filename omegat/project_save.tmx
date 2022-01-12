@@ -36235,6 +36235,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; folder in the working folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T185313Z" creationid="Mari" creationdate="20220112T185313Z">
+        <seg>Se crea una carpeta &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; en la carpeta de trabajo con todos los archivos necesarios para ejecutar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T185253Z" creationid="Antonio" creationdate="20160316T185253Z">
