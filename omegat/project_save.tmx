@@ -9169,6 +9169,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l2/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T181241Z" creationid="Mari" creationdate="20220112T181241Z">
+        <seg>Consulte la sección "&lt;l2/&gt;" más abajo para obtener más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "&lt;l3/&gt;" below for more information.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T173528Z" creationid="Mari" creationdate="20220112T173528Z">
@@ -45674,6 +45682,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T173541Z" creationid="Mari" creationdate="20220112T173541Z">
         <seg>Usuarios de macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T182134Z" creationid="Mari" creationdate="20220112T182134Z">
+        <seg>Otras funciones de macOS</seg>
       </tuv>
     </tu>
     <tu>
