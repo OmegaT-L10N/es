@@ -41436,6 +41436,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T173039Z" creationid="Mari" creationdate="20220112T173039Z">
+        <seg>Puede iniciar OmegaT desde la línea de comandos con un script que incluya opciones de inicio o bien hacer clic en &lt;f0&gt;OmegaT.jar&lt;/f0&gt; para iniciarlo directamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify, correct, add or delete information at your own discretion.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T150638Z" creationid="Cristina" creationdate="20170924T150638Z">
