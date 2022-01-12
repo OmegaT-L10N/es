@@ -39601,6 +39601,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T183512Z" creationid="Mari" creationdate="20220112T183512Z">
+        <seg>Los usuarios de otras plataformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64, etc.) deben tener instalado un JRE de Java compatible en su sistema para poder utilizar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170828T180211Z" creationid="Cristina" creationdate="20170828T180211Z">
