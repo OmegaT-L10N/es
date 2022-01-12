@@ -3806,6 +3806,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T182249Z" creationid="Mari" creationdate="20220112T182249Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; puede utilizar los servicios de macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;Once the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MainMenuShortcuts.properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; file is modified, OmegaT must be relaunched to take the new shortcuts into account.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T124858Z" creationid="Helli" creationdate="20150526T124858Z">
