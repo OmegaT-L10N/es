@@ -14860,6 +14860,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system's instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T185851Z" creationid="Mari" creationdate="20220112T185851Z">
+        <seg>Siga las instrucciones de su sistema para instalar accesos directos de OmegaT en los lugares convenientes que desee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T233717Z" creationid="hcartagena" creationdate="20180604T233717Z">
@@ -19214,6 +19222,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T193518Z" creationid="hcartagena" creationdate="20151116T193518Z">
         <seg>Instalación y ejecución de OmegaT" en el Manual de Usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing convenient shortcuts</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T185736Z" creationid="Mari" creationdate="20220112T185736Z">
+        <seg>Instalar accesos directos prácticos</seg>
       </tuv>
     </tu>
     <tu>
@@ -36237,8 +36253,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This creates an &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; folder in the working folder with all the files necessary to run OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220112T185313Z" creationid="Mari" creationdate="20220112T185313Z">
-        <seg>Se crea una carpeta &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; en la carpeta de trabajo con todos los archivos necesarios para ejecutar OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220112T185707Z" creationid="Mari" creationdate="20220112T185313Z">
+        <seg>Se crea una carpeta &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; en la carpeta actual con todos los archivos necesarios para ejecutar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
