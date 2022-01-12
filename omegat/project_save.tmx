@@ -36965,6 +36965,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T180755Z" creationid="Mari" creationdate="20220112T180755Z">
+        <seg>Para cambiar la cantidad de memoria disponible, edite el archivo &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; y quite los comentarios de la línea &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; eliminando el &lt;l2&gt;&lt;!--&lt;/l2&gt; y &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T122321Z" creationid="Antonio" creationdate="20160330T122321Z">
