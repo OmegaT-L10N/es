@@ -36069,8 +36069,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220112T173949Z" creationid="Mari" creationdate="20220112T173949Z">
-        <seg>[fuzzy]Crear una carpeta llamada « %1 ».</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220112T174201Z" creationid="Mari" creationdate="20220112T173949Z">
+        <seg>Se crea una carpeta llamada &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36661,8 +36661,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T183636Z" creationid="Mari" creationdate="20220111T183636Z">
-        <seg>Esto creará una carpeta &lt;f0&gt;omegat&lt;/f0&gt; en la carpeta de trabajo, en el cual podrá encontrar todos los archivos necesarios para ejecutar OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220112T174131Z" creationid="Mari" creationdate="20220111T183636Z">
+        <seg>Esto creará una carpeta &lt;f0&gt;omegat&lt;/f0&gt; en la carpeta de trabajo, en la cual podrá encontrar todos los archivos necesarios para ejecutar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
