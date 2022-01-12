@@ -24193,6 +24193,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T173802Z" creationid="Mari" creationdate="20220112T173802Z">
+        <seg>OmegaT contiene Java JRE 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170822T184427Z" creationid="Cristina" creationdate="20170822T184427Z">
