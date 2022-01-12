@@ -12635,6 +12635,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T174618Z" creationid="Mari" creationdate="20220112T174618Z">
+        <seg>Arrastre y coloque &lt;f0&gt;OmegaT.app&lt;/f0&gt; al Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T191600Z" creationid="Antonio" creationdate="20151126T152341Z">
