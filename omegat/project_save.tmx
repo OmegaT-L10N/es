@@ -36795,6 +36795,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T175819Z" creationid="Mari" creationdate="20220112T175819Z">
+        <seg>Para acceder a &lt;f0&gt;Configuration.properties&lt;/f0&gt;, haga clic con el botón derecho en &lt;f1&gt;OmegaT.app&lt;/f1&gt; y seleccione "Show Package Contents", luego abra el archivo en &lt;f2&gt;Contents/Resources&lt;/f2&gt; haciendo clic con el botón derecho y seleccionando el editor de texto que desee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access the private part, a user must create a key using https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20150603T235509Z" creationid="Usuario" creationdate="20150603T235509Z">
