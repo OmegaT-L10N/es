@@ -24575,6 +24575,14 @@ traducciones previas en proyectos nuevos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T183136Z" creationid="Mari" creationdate="20220112T183136Z">
+        <seg>OmegaT está disponible junto con un Java JRE de Oracle para Linux (Intel x86) y plataformas de Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
