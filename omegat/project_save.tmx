@@ -17008,6 +17008,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220112T184025Z" creationid="Mari" creationdate="20220112T184025Z">
+        <seg>Si recibe un mensaje "command not found" o similar, es probable que Java no está instalado en el sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211024T174518Z" creationid="hcartagena" creationdate="20151119T230804Z">
