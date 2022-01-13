@@ -25349,6 +25349,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Linux</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151905Z" creationid="Mari" creationdate="20220113T151905Z">
+        <seg>En Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T151637Z" creationid="Mari" creationdate="20220113T151637Z">
@@ -43318,6 +43326,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083611Z" creationid="Antonio" creationdate="20151128T083611Z">
         <seg>cat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151919Z" creationid="Mari" creationdate="20220113T151919Z">
+        <seg>cd /usr/local/omegat</seg>
       </tuv>
     </tu>
     <tu>
