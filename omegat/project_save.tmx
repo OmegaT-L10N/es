@@ -12693,8 +12693,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220112T174618Z" creationid="Mari" creationdate="20220112T174618Z">
-        <seg>Arrastre y coloque &lt;f0&gt;OmegaT.app&lt;/f0&gt; al Dock.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220113T115829Z" creationid="Mari" creationdate="20220112T174618Z">
+        <seg>Arrastre y suelte &lt;f0&gt;OmegaT.app&lt;/f0&gt; en el Dock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28915,8 +28915,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T121839Z" creationid="nenyavie" creationdate="20200226T121839Z">
-        <seg>Al hacer clic con el botón derecho del ratón sobre una palabra subrayada (Artund en la imagen de arriba) se abre un menú desplegable con sugerencias para la corrección (Art und).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220113T115753Z" creationid="nenyavie" creationdate="20200226T121839Z">
+        <seg>Al hacer clic con el botón derecho sobre una palabra subrayada (Artund en la imagen de arriba) se abre un menú desplegable con sugerencias para la corrección (Art und).</seg>
       </tuv>
     </tu>
     <tu>
