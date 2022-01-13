@@ -21086,6 +21086,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launch command arguments</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T153555Z" creationid="Mari" creationdate="20220113T153555Z">
+        <seg>Argumentos del comando de inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch the installation program.</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014346Z" creationid="hectorcartagena" creationdate="20200508T014346Z">
