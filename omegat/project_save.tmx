@@ -35281,8 +35281,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The second command is the command which actually launches OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220113T152215Z" creationid="Mari" creationdate="20220113T152215Z">
-        <seg>[fuzzy]El segundo comando es el comando que realmente lanza OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220113T152345Z" creationid="Mari" creationdate="20220113T152215Z">
+        <seg>El segundo comando es el comando que realmente lanza OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
