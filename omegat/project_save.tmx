@@ -37526,6 +37526,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To launch OmegaT, you must normally type two commands.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151159Z" creationid="Mari" creationdate="20220113T151159Z">
+        <seg>Para iniciar OmegaT, normalmente debe escribir dos comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T181106Z" creationid="Mari" creationdate="20220112T181106Z">
