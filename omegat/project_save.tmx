@@ -25349,6 +25349,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151637Z" creationid="Mari" creationdate="20220113T151637Z">
+        <seg>En Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T151002Z" creationid="Mari" creationdate="20220113T151002Z">
@@ -43318,6 +43326,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T151222Z" creationid="Mari" creationdate="20220113T151222Z">
         <seg>cd &lt;p0&gt;carpeta&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151725Z" creationid="Mari" creationdate="20220113T151725Z">
+        <seg>cd C:\Archivos de programa\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
