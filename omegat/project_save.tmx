@@ -5879,6 +5879,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A list of possible arguments is given below.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T154208Z" creationid="Mari" creationdate="20220113T154208Z">
+        <seg>A continuación se muestra una lista de posibles argumentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of repository URLs is provided below.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T143025Z" creationid="taty" creationdate="20181109T143025Z">
