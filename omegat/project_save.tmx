@@ -18657,6 +18657,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T154148Z" creationid="Mari" creationdate="20220113T154148Z">
+        <seg>En otras plataformas, puede modificar el archivo &lt;f3&gt;Configuration.properties&lt;/f3&gt; en Mac o el iniciador &lt;f4&gt;OmegaT&lt;/f4&gt; en Linux para hacer lo mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In particular, the main user manual is likely to take around two weeks to translate, and several translators may wish to share the work.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170921T174909Z" creationid="Cristina" creationdate="20170921T174909Z">
