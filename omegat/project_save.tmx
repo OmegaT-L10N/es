@@ -39769,6 +39769,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using Java Web Start</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T120348Z" creationid="Mari" creationdate="20220113T120348Z">
+        <seg>Utilizar Java Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
