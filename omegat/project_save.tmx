@@ -20205,6 +20205,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T120643Z" creationid="Mari" creationdate="20220113T120643Z">
+        <seg>Gracias a la tecnología Java Web Start (parte de Java 8 y superior), las aplicaciones de software Java independientes se pueden implementar desde la red con un solo clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T172111Z" creationid="Cristina" creationdate="20170916T172111Z">
