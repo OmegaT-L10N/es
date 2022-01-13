@@ -31928,6 +31928,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Starting OmegaT from the command line</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T145934Z" creationid="Mari" creationdate="20220113T145934Z">
+        <seg>Iniciar OmegaT desde la línea de comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T140709Z" creationid="Helli" creationdate="20150526T140709Z">
