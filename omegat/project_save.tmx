@@ -34839,6 +34839,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T121212Z" creationid="Mari" creationdate="20220113T121212Z">
+        <seg>Los permisos que concede a esta versión (que pueden aparecer como "acceso sin restricciones al equipo") son idénticos a los permisos que da a la versión local, es decir, permiten acceso al disco duro del equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231407Z" creationid="Cristina" creationdate="20170916T151650Z">
