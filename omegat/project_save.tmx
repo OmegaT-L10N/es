@@ -12643,6 +12643,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T120938Z" creationid="Mari" creationdate="20220113T120938Z">
+        <seg>Descargue el archivo &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; y haga clic en él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the files for translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170921T184752Z" creationid="Cristina" creationdate="20170921T184752Z">
@@ -12785,6 +12793,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T051550Z" creationid="hcartagena" creationdate="20160401T051530Z">
         <seg>Durante las actualizaciones remotas u otro procesamiento automático, los datos (antes "{0}") se modificaron a "{1}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T121023Z" creationid="Mari" creationdate="20220113T121023Z">
+        <seg>Durante la instalación, en función del sistema operativo, puede recibir varias advertencias de seguridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44888,6 +44904,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233224Z" creationid="hcartagena" creationdate="20200729T233224Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T120905Z" creationid="Mari" creationdate="20220113T120905Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
