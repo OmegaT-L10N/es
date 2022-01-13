@@ -25741,6 +25741,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening a command line window</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T150454Z" creationid="Mari" creationdate="20220113T150454Z">
+        <seg>Abrir una ventana de línea de comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T170524Z" creationid="hcartagena" creationdate="20180605T170524Z">
@@ -35891,6 +35899,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T155902Z" creationid="Antonio" creationdate="20160126T155902Z">
         <seg>Hay dos estrategias para segmentos que únicamente contengan tal texto invariable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two ways of launching OmegaT using the command line.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T150123Z" creationid="Mari" creationdate="20220113T150123Z">
+        <seg>Hay dos maneras de iniciar OmegaT utilizando la línea de comandos.</seg>
       </tuv>
     </tu>
     <tu>
