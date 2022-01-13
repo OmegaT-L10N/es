@@ -34340,6 +34340,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first of these is:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151206Z" creationid="Mari" creationdate="20220113T151206Z">
+        <seg>El primero de ellos es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T174238Z" creationid="Mari" creationdate="20220112T174238Z">
@@ -43298,6 +43306,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151222Z" creationid="Mari" creationdate="20220113T151222Z">
+        <seg>cd &lt;p0&gt;carpeta&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd [full path to OmegaT]&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T153112Z" creationid="Cristina" creationdate="20170924T153112Z">
@@ -48795,6 +48811,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140726Z" creationid="taty" creationdate="20181109T140726Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your OmegaT program - specifically, the file &lt;f1&gt;OmegaT.jar&lt;/f1&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151443Z" creationid="Mari" creationdate="20220113T151443Z">
+        <seg>donde &lt;p0&gt;carpeta&lt;/p0&gt; es el nombre de la carpeta, con la ruta de acceso completa, en la que se encuentra el programa OmegaT (específicamente, el archivo &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
