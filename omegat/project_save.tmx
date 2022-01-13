@@ -16708,6 +16708,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T150106Z" creationid="Mari" creationdate="20220113T150106Z">
+        <seg>Sin embargo, esta alternativa permite al usuario controlar y modificar el comportamiento del programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170826T112243Z" creationid="Cristina" creationdate="20170826T112243Z">
@@ -23509,6 +23517,14 @@ la carpeta Aplicaciones.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T095448Z" creationid="nenyavie" creationdate="20200225T095444Z">
         <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Normally, it is not necessary to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T145958Z" creationid="Mari" creationdate="20220113T145958Z">
+        <seg>Normalmente, no es necesario iniciar OmegaT desde la línea de comandos.</seg>
       </tuv>
     </tu>
     <tu>
