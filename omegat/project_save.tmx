@@ -7671,6 +7671,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T153836Z" creationid="Mari" creationdate="20220113T153836Z">
+        <seg>Los argumentos se añaden después del "&lt;c0&gt;java&lt;/c0&gt;" inicial y antes de la parte "&lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Armenian</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T081851Z" creationid="Antonio" creationdate="20151128T081851Z">
@@ -9101,6 +9109,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T075137Z" creationid="Antonio" creationdate="20151127T075137Z">
         <seg>Modificado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes to this command involve the addition of "arguments" to it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T153730Z" creationid="Mari" creationdate="20220113T153730Z">
+        <seg>Los cambios a este comando implican la adición de "argumentos".</seg>
       </tuv>
     </tu>
     <tu>
