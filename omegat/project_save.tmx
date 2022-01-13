@@ -35279,6 +35279,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The second command is the command which actually launches OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T152215Z" creationid="Mari" creationdate="20220113T152215Z">
+        <seg>[fuzzy]El segundo comando es el comando que realmente lanza OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184639Z" creationid="Antonio" creationdate="20151210T184639Z">
