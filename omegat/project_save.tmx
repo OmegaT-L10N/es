@@ -15406,6 +15406,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T153350Z" creationid="Mari" creationdate="20220113T153350Z">
+        <seg>Por este motivo, los dos comandos descritos anteriormente están contenidos en un archivo (un "script", también llamado "archivo &lt;f0&gt;.bat&lt;/f0&gt;" en los sistemas Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T120805Z" creationid="Mari" creationdate="20211124T120805Z">
