@@ -5783,6 +5783,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A command line window is also referred to as a "terminal window".</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T150551Z" creationid="Mari" creationdate="20220113T150551Z">
+        <seg>Una ventana de línea de comandos también se conoce como una "ventana de terminal".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T155350Z" creationid="Cristina" creationdate="20170917T155016Z">
