@@ -25341,6 +25341,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151002Z" creationid="Mari" creationdate="20220113T151002Z">
+        <seg>En Windows se llama "ventana de MS-DOS" y está disponible desde el menú Inicio, dentro de Programas, a través del elemento "MS-DOS".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T122957Z" creationid="Antonio" creationdate="20151130T122757Z">
