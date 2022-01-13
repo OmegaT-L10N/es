@@ -25365,6 +25365,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151802Z" creationid="Mari" creationdate="20220113T151802Z">
+        <seg>En macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T122957Z" creationid="Antonio" creationdate="20151130T122757Z">
@@ -43318,6 +43326,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T220024Z" creationid="hcartagena" creationdate="20200729T220024Z">
         <seg>cd &lt;directorio donde está el archivo OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151859Z" creationid="Mari" creationdate="20220113T151859Z">
+        <seg>cd &lt;p0&gt;&lt;ubicación de OmegaT.app&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
       </tuv>
     </tu>
     <tu>
