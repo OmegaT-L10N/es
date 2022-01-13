@@ -19945,6 +19945,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T120235Z" creationid="Mari" creationdate="20220113T120235Z">
+        <seg>También sería posible abrir un proyecto de OmegaT haciendo doble clic en un archivo &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T023234Z" creationid="hcartagena" creationdate="20160401T023234Z">
