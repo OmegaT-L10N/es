@@ -18489,6 +18489,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T120017Z" creationid="Mari" creationdate="20220113T120017Z">
+        <seg>En la mayoría de los sistemas, es posible abrir un proyecto soltando un archivo &lt;f0&gt;omegat.project&lt;/f0&gt; en el icono de OmegaT del escritorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T180041Z" creationid="Antonio" creationdate="20160331T180041Z">
