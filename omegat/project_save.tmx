@@ -20205,6 +20205,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T120832Z" creationid="Mari" creationdate="20220113T120832Z">
+        <seg>Java Web Start se asegura de implementar la versión más reciente de la aplicación, así como la versión correcta de Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T120643Z" creationid="Mari" creationdate="20220113T120643Z">
