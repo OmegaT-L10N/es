@@ -18625,6 +18625,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In practice, this command will therefore be something like this:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T151622Z" creationid="Mari" creationdate="20220113T151622Z">
+        <seg>En la práctica, este comando será algo parecido a esto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211013T193007Z" creationid="hcartagena" creationdate="20151117T193446Z">
