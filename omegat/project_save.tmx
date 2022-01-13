@@ -36453,8 +36453,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This command changes the folder to the folder containing the executable OmegaT file.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220113T152114Z" creationid="Mari" creationdate="20220113T152114Z">
-        <seg>Este comando cambia la carpeta a la carpeta que contiene el archivo ejecutable de OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220113T152459Z" creationid="Mari" creationdate="20220113T152114Z">
+        <seg>Este comando cambia la carpeta actual a la carpeta que contiene el archivo ejecutable de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
