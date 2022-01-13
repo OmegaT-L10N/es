@@ -36443,6 +36443,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command changes the folder to the folder containing the executable OmegaT file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T152114Z" creationid="Mari" creationdate="20220113T152114Z">
+        <seg>Este comando cambia la carpeta a la carpeta que contiene el archivo ejecutable de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191209T221626Z" creationid="nenyavie" creationdate="20191209T221626Z">
