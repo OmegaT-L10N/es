@@ -18529,6 +18529,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In its most basic form, this command is:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T152535Z" creationid="Mari" creationdate="20220113T152535Z">
+        <seg>En su forma más básica, este comando es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T195206Z" creationid="Mari" creationdate="20211126T195206Z">
@@ -26367,6 +26375,14 @@ cual bruma se disipa</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T195654Z" creationid="hcartagena" creationdate="20160401T044451Z">
         <seg>Patrón…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T152709Z" creationid="Mari" creationdate="20220113T152709Z">
+        <seg>Preste atención a las mayúsculas. En los sistemas operativos que no sean Windows, el programa no se iniciará si introduce &lt;l0&gt;omegat&lt;/l0&gt; en lugar de &lt;l1&gt;OmegaT&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35281,8 +35297,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The second command is the command which actually launches OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220113T152345Z" creationid="Mari" creationdate="20220113T152215Z">
-        <seg>El segundo comando es el comando que realmente lanza OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220113T152517Z" creationid="Mari" creationdate="20220113T152215Z">
+        <seg>El segundo comando es el comando que inicia OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45570,6 +45586,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144656Z" creationid="Antonio" creationdate="20151128T144656Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T152545Z" creationid="Mari" creationdate="20220113T152545Z">
+        <seg>java -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
