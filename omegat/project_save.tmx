@@ -10193,6 +10193,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T153518Z" creationid="Mari" creationdate="20220113T153518Z">
+        <seg>Por tanto, para hacer cambios en el comando de inicio, basta con modificar el archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T175730Z" creationid="Cristina" creationdate="20170916T175730Z">
@@ -40787,6 +40795,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191210T093700Z" creationid="nenyavie" creationdate="20191210T093700Z">
         <seg>Al salir de &lt;a0&gt;OmegaT&lt;/a0&gt;, este archivo no se vacía para mantener la consistencia del comportamiento del portapapeles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this file is executed, the commands within it are automatically carried out.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T153417Z" creationid="Mari" creationdate="20220113T153417Z">
+        <seg>Cuando se ejecuta este archivo, los comandos dentro de él se ejecutan automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
