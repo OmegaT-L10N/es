@@ -6615,6 +6615,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T154302Z" creationid="Mari" creationdate="20220113T154302Z">
+        <seg>Los usuarios avanzados pueden obtener más información sobre los argumentos escribiendo &lt;e0&gt;man java&lt;/e0&gt; en la ventana de terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220104T171233Z" creationid="Mari" creationdate="20220104T171233Z">
