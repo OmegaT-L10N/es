@@ -6655,6 +6655,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T121528Z" creationid="Mari" creationdate="20220113T121528Z">
+        <seg>Después de la instalación inicial, puede, por supuesto, utilizar &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; también cuando no tenga conexión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222117Z" creationid="hcartagena" creationdate="20151201T222117Z">
