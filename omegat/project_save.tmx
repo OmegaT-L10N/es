@@ -32088,6 +32088,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220113T121405Z" creationid="Mari" creationdate="20220113T121405Z">
+        <seg>Los clics posteriores en &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; comprobarán si hay alguna actualización, la instalarán, de haber alguna, y a continuación, iniciarán OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T090840Z" creationid="nenyavie" creationdate="20200225T090831Z">
