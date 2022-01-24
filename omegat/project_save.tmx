@@ -31430,6 +31430,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So, if the user's operating system is Russian and OmegaT has been localized in Russian, OmegaT is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T121748Z" creationid="Mari" creationdate="20220124T121748Z">
+        <seg>Por lo tanto, si el sistema operativo del usuario está en ruso y OmegaT está traducido al ruso, el programa mostrará una interfaz de usuario en ruso, con los menús en ruso, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Social Networks</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T234952Z" creationid="hcartagena" creationdate="20200729T234952Z">
