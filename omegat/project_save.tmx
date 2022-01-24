@@ -29475,8 +29475,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Run OmegaT normally (with the GUI) and specify the settings.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220124T165317Z" creationid="Mari" creationdate="20220124T165317Z">
-        <seg>Ejecute OmegaT normalmente (con la interfaz gráfica de usuario) y establezca la configuración.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T165538Z" creationid="Mari" creationdate="20220124T165317Z">
+        <seg>Ejecute OmegaT con normalidad (con la interfaz gráfica de usuario) y establezca la configuración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35067,6 +35067,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211228T121425Z" creationid="Mari" creationdate="20211228T121425Z">
         <seg>El archivo local &lt;f0&gt;/inicio/yo/misarchivos/mi/archivo.txt&lt;/f0&gt; se asigna al archivo local &lt;f1&gt;source/archivo.txt&lt;/f1&gt; y &lt;f2&gt;/inicio/yo/misarchivos/un/archivo.txt&lt;/f2&gt; se asgina al archivo local &lt;f3&gt;source/archivo2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location does not matter, since you can add it to the command line at startup.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T165617Z" creationid="Mari" creationdate="20220124T165617Z">
+        <seg>No importa la ubicación, ya que de todos modos tiene que añadirla a la línea de comandos en el inicio.</seg>
       </tuv>
     </tu>
     <tu>
