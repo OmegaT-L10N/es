@@ -36915,6 +36915,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T123845Z" creationid="Mari" creationdate="20220124T123845Z">
+        <seg>Esto es necesario incluso si solo hay una combinación disponible, como &lt;l4&gt;pt_BR&lt;/l4&gt; en el caso del portugués de Brasil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T193131Z" creationid="nenyavie" creationdate="20200225T134242Z">
