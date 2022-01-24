@@ -45068,6 +45068,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T154540Z" creationid="Mari" creationdate="20220124T154540Z">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T194042Z" creationid="Antonio" creationdate="20160316T194042Z">
