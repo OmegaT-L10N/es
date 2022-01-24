@@ -23937,6 +23937,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the key is 38 characters long.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T154422Z" creationid="Mari" creationdate="20220124T154422Z">
+        <seg>Tenga en cuenta que la clave tiene 38 caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211228T122559Z" creationid="Mari" creationdate="20211228T122559Z">
