@@ -21976,6 +21976,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you have a free Microsoft account.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T154653Z" creationid="Mari" creationdate="20220124T154653Z">
+        <seg>Asegúrese de que tiene una cuenta Microsoft gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T173442Z" creationid="Mari" creationdate="20220112T173442Z">
@@ -45408,6 +45416,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T165403Z" creationid="Mari" creationdate="20211126T165403Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T154545Z" creationid="Mari" creationdate="20220124T154545Z">
+        <seg>https://datamarket.azure.com/account</seg>
       </tuv>
     </tu>
     <tu>
