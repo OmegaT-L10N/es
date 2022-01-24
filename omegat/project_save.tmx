@@ -39895,6 +39895,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User interface language</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T120942Z" creationid="Mari" creationdate="20220124T120942Z">
+        <seg>Idioma de la interfaz de usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User interface language for OmegaT</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233137Z" creationid="hectorcartagena" creationdate="20200504T233117Z">
