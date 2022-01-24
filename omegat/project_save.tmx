@@ -6239,6 +6239,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T164249Z" creationid="Mari" creationdate="20220124T164249Z">
+        <seg>Las claves de API pueden solicitarse mediante el &lt;u0&gt;formulario de solicitud de clave de API&lt;/u0&gt; y verse en la página &lt;u1&gt;My Keys&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ASCII Only</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180607T231554Z" creationid="hcartagena" creationdate="20180607T231554Z">
