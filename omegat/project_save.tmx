@@ -29457,6 +29457,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T165317Z" creationid="Mari" creationdate="20220124T165317Z">
+        <seg>Ejecute OmegaT normalmente (con la interfaz gráfica de usuario) y establezca la configuración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211027T104308Z" creationid="Antonio" creationdate="20151127T173043Z">
@@ -36767,6 +36775,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
         <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Mayús&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be achieved in two ways:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T165240Z" creationid="Mari" creationdate="20220124T165240Z">
+        <seg>Esto se puede conseguir de dos maneras:</seg>
       </tuv>
     </tu>
     <tu>
