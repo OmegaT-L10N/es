@@ -5519,6 +5519,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p2&gt;XX&lt;/p2&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T122043Z" creationid="Mari" creationdate="20220124T122043Z">
+        <seg>&lt;p2&gt;XX&lt;/p2&gt; en el comando representa el código de dos dígitos del idioma deseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221356Z" creationid="hcartagena" creationdate="20151201T221356Z">
@@ -37730,6 +37738,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T152319Z" creationid="Antonio" creationdate="20160125T152319Z">
         <seg>Para instalar los archivos necesarios para el formato StarDict, proceda de la manera siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch OmegaT with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T122217Z" creationid="Mari" creationdate="20220124T122217Z">
+        <seg>Para iniciar OmegaT con una interfaz en francés (por ejemplo, en un sistema operativo ruso), el comando sería, por tanto, el siguiente:</seg>
       </tuv>
     </tu>
     <tu>
