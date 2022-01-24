@@ -22000,6 +22000,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T163623Z" creationid="Mari" creationdate="20220124T163623Z">
+        <seg>Asegúrese de que tiene una cuenta de Yandex gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T173442Z" creationid="Mari" creationdate="20220112T173442Z">
@@ -45088,6 +45096,22 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144413Z" creationid="Antonio" creationdate="20151128T144413Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T163452Z" creationid="Mari" creationdate="20220124T163452Z">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T163455Z" creationid="Mari" creationdate="20220124T163455Z">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
       </tuv>
     </tu>
     <tu>
