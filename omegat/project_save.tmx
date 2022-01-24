@@ -8811,8 +8811,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T193655Z" creationid="Mari" creationdate="20211125T193655Z">
-        <seg>De forma predeterminada, el editor muestra los 2 000 primeros segmentos y carga más progresivamente al desplazarse arriba o abajo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124331Z" creationid="Mari" creationdate="20211125T193655Z">
+        <seg>De manera predeterminada, el editor muestra los 2 000 primeros segmentos y carga más progresivamente al desplazarse arriba o abajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8827,8 +8827,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T114157Z" creationid="Mari" creationdate="20211125T114157Z">
-        <seg>De forma predeterminada, OmegaT no ejecuta los comandos especificados en los ajustes específicos del proyecto (el archivo &lt;f0&gt;finder.xml&lt;/f0&gt; de la carpeta &lt;f1&gt;omegat&lt;/f1&gt;), ya que pueden tener un impacto crítco en la seguridad del equipo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124322Z" creationid="Mari" creationdate="20211125T114157Z">
+        <seg>De manera predeterminada, OmegaT no ejecuta los comandos especificados en los ajustes específicos del proyecto (el archivo &lt;f0&gt;finder.xml&lt;/f0&gt; de la carpeta &lt;f1&gt;omegat&lt;/f1&gt;), ya que pueden tener un impacto crítco en la seguridad del equipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8883,16 +8883,16 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T201006Z" creationid="Mari" creationdate="20211125T201006Z">
-        <seg>De forma predeterminada, las coincidencias más cercanas del panel &lt;g0&gt;Coincidencias proximadas&lt;/g0&gt; se determinan utilizando la lematización.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124346Z" creationid="Mari" creationdate="20211125T201006Z">
+        <seg>De manera predeterminada, las coincidencias más cercanas del panel &lt;g0&gt;Coincidencias proximadas&lt;/g0&gt; se determinan utilizando la lematización.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T152104Z" creationid="Antonio" creationdate="20160316T192603Z">
-        <seg>De forma predeterminada, la codificación del archivo traducido es la misma que la codificación del archivo original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124313Z" creationid="Antonio" creationdate="20160316T192603Z">
+        <seg>De manera predeterminada, la codificación del archivo traducido es la misma que la codificación del archivo original.</seg>
       </tuv>
     </tu>
     <tu>
