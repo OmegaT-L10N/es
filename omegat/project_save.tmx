@@ -27913,6 +27913,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy host port number</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T153602Z" creationid="Mari" creationdate="20220124T153602Z">
+        <seg>Número de puerto del host proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Public and private collections</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20150603T235406Z" creationid="Usuario" creationdate="20150603T235406Z">
