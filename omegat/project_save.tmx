@@ -8835,16 +8835,16 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T204226Z" creationid="Mari" creationdate="20211125T204226Z">
-        <seg>De forma predeterminada, OmegaT no ejecuta los comandos especificados en los ajustes específicos del proyecto (el archivo &lt;f0&gt;omegat.project&lt;/f0&gt;, ya que pueden tener un impacto crítco en la seguridad del equipo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124404Z" creationid="Mari" creationdate="20211125T204226Z">
+        <seg>De manera predeterminada, OmegaT no ejecuta los comandos especificados en los ajustes específicos del proyecto (el archivo &lt;f0&gt;omegat.project&lt;/f0&gt;, ya que pueden tener un impacto crítco en la seguridad del equipo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>By default, all files that are not excluded are included.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T151856Z" creationid="Mari" creationdate="20211130T151820Z">
-        <seg>De forma predeterminada, se incluyen todos los archivos que no están excluidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124438Z" creationid="Mari" creationdate="20211130T151820Z">
+        <seg>De manera predeterminada, se incluyen todos los archivos que no están excluidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8859,8 +8859,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T194048Z" creationid="Antonio" creationdate="20160331T184445Z">
-        <seg>De forma predeterminada, estos se justifican a la izquierda para idiomas de izquierda a derecha (LTR) y se justifican a la derecha para idiomas dce derecha a izquierda (RTL).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124418Z" creationid="Antonio" creationdate="20160331T184445Z">
+        <seg>De manera predeterminada, estos se justifican a la izquierda para idiomas de izquierda a derecha (LTR) y se justifican a la derecha para idiomas dce derecha a izquierda (RTL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8875,8 +8875,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, the &lt;f0&gt;tm&lt;/f0&gt; folder is below the project's root folder (e.g. ...&lt;f1&gt;MyProject/tm&lt;/f1&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195748Z" creationid="Mari" creationdate="20211127T171116Z">
-        <seg>De forma predeterminada, la carpeta &lt;f0&gt;tm&lt;/f0&gt; está bajo la carpeta raíz del proyecto (por ejemplo, …&lt;f1&gt;Miproyecto/tm&lt;/f1&gt;, pero si lo desea, puede elegir una carpeta diferente en el diálogo de propiedades del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124428Z" creationid="Mari" creationdate="20211127T171116Z">
+        <seg>De manera predeterminada, la carpeta &lt;f0&gt;tm&lt;/f0&gt; está bajo la carpeta raíz del proyecto (por ejemplo, …&lt;f1&gt;Miproyecto/tm&lt;/f1&gt;, pero si lo desea, puede elegir una carpeta diferente en el diálogo de propiedades del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
