@@ -8817,6 +8817,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T124306Z" creationid="Mari" creationdate="20220124T124306Z">
+        <seg>De manera predeterminada, se asignan 1024 MB, por lo que no hay ninguna ventaja en asignar una cifra menor a esta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T114157Z" creationid="Mari" creationdate="20211125T114157Z">
