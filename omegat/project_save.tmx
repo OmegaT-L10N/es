@@ -33501,6 +33501,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes OmegaT to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T122019Z" creationid="Mari" creationdate="20220124T122019Z">
+        <seg>El argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; hace que OmegaT utilice el idioma especificado en lugar del idioma del sistema operativo del usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T150429Z" creationid="Antonio" creationdate="20160125T114832Z">
@@ -36927,6 +36935,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001533Z" creationid="hcartagena" creationdate="20200730T001533Z">
         <seg>Este es el foco principal de la comunidad de usuarios de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the standard behavior.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T121908Z" creationid="Mari" creationdate="20220124T121908Z">
+        <seg>Este es el comportamiento estándar.</seg>
       </tuv>
     </tu>
     <tu>
