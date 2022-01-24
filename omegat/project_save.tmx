@@ -17558,6 +17558,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the language of the user's system is not available, OmegaT defaults to English.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T121852Z" creationid="Mari" creationdate="20220124T121852Z">
+        <seg>Si el idioma del sistema del usuario no está disponible, de manera predeterminada OmegaT se mostrará en inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T200703Z" creationid="hcartagena" creationdate="20200729T210558Z">
