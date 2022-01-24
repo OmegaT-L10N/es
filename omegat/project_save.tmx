@@ -42778,6 +42778,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T154934Z" creationid="Mari" creationdate="20220124T154934Z">
+        <seg>Tendrá que iniciar sesión en &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; y utilizar el servicio Traductor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ZIP files</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T031407Z" creationid="hcartagena" creationdate="20180605T031407Z">
