@@ -2372,6 +2372,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T164253Z" creationid="Mari" creationdate="20220124T164253Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
@@ -7779,6 +7787,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T153836Z" creationid="Mari" creationdate="20220113T153836Z">
         <seg>Los argumentos se añaden después del "&lt;c0&gt;java&lt;/c0&gt;" inicial y antes de la parte "&lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arguments can be combined: to launch OmegaT with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T164356Z" creationid="Mari" creationdate="20220124T164356Z">
+        <seg>Se pueden combinar los argumentos. Para iniciar OmegaT con todos los ejemplos descritos anteriormente, el comando sería:</seg>
       </tuv>
     </tu>
     <tu>
