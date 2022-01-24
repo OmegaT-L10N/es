@@ -24905,6 +24905,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT in the command line mode</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T164443Z" creationid="Mari" creationdate="20220124T164443Z">
+        <seg>OmegaT en modo de línea de comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T120427Z" creationid="Antonio" creationdate="20160126T151606Z">
@@ -35479,6 +35487,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T164625Z" creationid="Mari" creationdate="20220124T164625Z">
+        <seg>El propósito del modo de consola es utilizar OmegaT como herramienta de traducción en un entorno de scripting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T143122Z" creationid="Cristina" creationdate="20170924T143122Z">
@@ -46010,6 +46026,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144656Z" creationid="Antonio" creationdate="20151128T144656Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T164408Z" creationid="Mari" creationdate="20220124T164408Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
