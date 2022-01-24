@@ -42818,6 +42818,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T163909Z" creationid="Mari" creationdate="20220124T163909Z">
+        <seg>La necesitará para obtener y utilizar la clave de API de Yandex Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220124T154934Z" creationid="Mari" creationdate="20220124T154934Z">
