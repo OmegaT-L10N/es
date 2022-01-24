@@ -16238,6 +16238,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google Translate V2</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T153950Z" creationid="Mari" creationdate="20220124T153950Z">
+        <seg>Traductor de Google V2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211027T101423Z" creationid="Antonio" creationdate="20151127T174542Z">
