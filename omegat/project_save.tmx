@@ -23985,6 +23985,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that up to 2M characters per month are free of charge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T160436Z" creationid="Mari" creationdate="20220124T160436Z">
+        <seg>Tenga en cuenta que es posible utilizar hasta dos millones de caracteres al mes de forma gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T212443Z" creationid="Antonio" creationdate="20160329T212443Z">
