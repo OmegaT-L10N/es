@@ -18132,6 +18132,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need altered settings, the configuration files must be available.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T165231Z" creationid="Mari" creationdate="20220124T165231Z">
+        <seg>Si necesita modificar la configuración, los archivos de configuración deben estar disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need assistance</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223805Z" creationid="hcartagena" creationdate="20151201T223805Z">
