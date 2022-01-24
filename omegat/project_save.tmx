@@ -35999,6 +35999,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T163251Z" creationid="Mari" creationdate="20220124T163251Z">
+        <seg>Las dos entradas necesarias están disponibles en su &lt;u1&gt;página de cuenta&lt;/u1&gt; en clave de cuenta principal e Id. de cliente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The two types of rules behave as follows:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T120514Z" creationid="Mari" creationdate="20211124T120514Z">
