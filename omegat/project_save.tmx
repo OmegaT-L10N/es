@@ -39927,6 +39927,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User country</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T122329Z" creationid="Mari" creationdate="20220124T122329Z">
+        <seg>País del usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211103T114358Z" creationid="Antonio" creationdate="20151127T164218Z">
@@ -45762,6 +45770,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144656Z" creationid="Antonio" creationdate="20151128T144656Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T122256Z" creationid="Mari" creationdate="20220124T122256Z">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
