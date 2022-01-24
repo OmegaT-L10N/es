@@ -27299,6 +27299,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T164818Z" creationid="Mari" creationdate="20220124T164818Z">
+        <seg>Requisitos previos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
@@ -38090,6 +38098,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T203515Z" creationid="hcartagena" creationdate="20160331T203515Z">
         <seg>Para tener un recordatorio de los ajustes iniciales del proyecto, abra el diálogo de propiedades del proyecto con la combinación &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To run OmegaT in the command line mode, a valid OmegaT project must be present.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T165021Z" creationid="Mari" creationdate="20220124T165021Z">
+        <seg>Para ejecutar OmegaT en el modo de línea de comandos, debe haber un proyecto de OmegaT válido.</seg>
       </tuv>
     </tu>
     <tu>
