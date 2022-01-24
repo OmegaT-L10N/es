@@ -41127,6 +41127,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T164809Z" creationid="Mari" creationdate="20220124T164809Z">
+        <seg>Cuando se inicia en modo de consola, no se carga la interfaz gráfica de usuario (por lo que funcionará en cualquier consola) y el proyecto dado se procesa automáticamente según lo solicitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T203311Z" creationid="Mari" creationdate="20211125T203311Z">
