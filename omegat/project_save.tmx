@@ -27897,6 +27897,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy host IP address</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T125721Z" creationid="Mari" creationdate="20220124T125721Z">
+        <seg>Dirección IP del host proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Public and private collections</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20150603T235406Z" creationid="Usuario" creationdate="20150603T235406Z">
@@ -45842,6 +45850,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220124T122256Z" creationid="Mari" creationdate="20220124T122256Z">
         <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T125354Z" creationid="Mari" creationdate="20220124T125354Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
