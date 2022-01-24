@@ -3094,6 +3094,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T153714Z" creationid="Mari" creationdate="20220124T153714Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; El número de puerto que utiliza su sistema para acceder al servidor proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when OmegaT is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220124T121557Z" creationid="Mari" creationdate="20220124T121557Z">
