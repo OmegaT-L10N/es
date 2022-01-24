@@ -5543,6 +5543,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p3&gt;??&lt;/p3&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T125259Z" creationid="Mari" creationdate="20220124T125259Z">
+        <seg>&lt;p3&gt;??&lt;/p3&gt; representa la cantidad de memoria asignada, en megabytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221356Z" creationid="hcartagena" creationdate="20151201T221356Z">
@@ -34140,6 +34148,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T220012Z" creationid="hcartagena" creationdate="20200729T220012Z">
         <seg>El comando para iniciar OmegaT es:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The command to launch OmegaT with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220124T125342Z" creationid="Mari" creationdate="20220124T125342Z">
+        <seg>El comando para iniciar OmegaT con una asignación de memoria de 2048 MB (2 GB) por lo tanto es:</seg>
       </tuv>
     </tu>
     <tu>
