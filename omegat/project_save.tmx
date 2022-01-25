@@ -2478,6 +2478,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123110Z" creationid="Mari" creationdate="20220125T123110Z">
+        <seg>.*\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>... matches the following</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T195703Z" creationid="nenyavie" creationdate="20200225T122820Z">
@@ -7067,6 +7075,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180420Z" creationid="hcartagena" creationdate="20180605T180420Z">
         <seg>Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123334Z" creationid="Mari" creationdate="20220125T123334Z">
+        <seg>Se traducirán todos los archivos HTML. Tenga en cuenta que el punto en el habitual &lt;l0&gt;*.html&lt;/l0&gt; debe contener el carácter de escape (&lt;l1&gt;.&lt;/l1&gt;) como se especifica en las reglas para las expresiones regulares.</seg>
       </tuv>
     </tu>
     <tu>
