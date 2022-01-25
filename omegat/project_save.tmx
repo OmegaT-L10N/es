@@ -2306,6 +2306,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T120022Z" creationid="Mari" creationdate="20220125T120022Z">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
@@ -19157,6 +19165,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T151316Z" creationid="taty" creationdate="20181205T150815Z">
         <seg>De esta forma, "&lt;g1&gt;Cursor desactivado&lt;/g1&gt;" se visualiza en la parte inferior del panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T120119Z" creationid="Mari" creationdate="20220125T120119Z">
+        <seg>En este modo, OmegaT intentará traducir los archivos de la carpeta &lt;f0&gt;/source/&lt;/f0&gt; con las memorias de traducción disponibles.</seg>
       </tuv>
     </tu>
     <tu>
