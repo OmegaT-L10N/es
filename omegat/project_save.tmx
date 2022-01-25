@@ -4630,6 +4630,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125119Z" creationid="Mari" creationdate="20220125T125119Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; permite, en Windows, abrir el mismo proyecto con varias instancias de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T125001Z" creationid="Mari" creationdate="20220125T125001Z">
