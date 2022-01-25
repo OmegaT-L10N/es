@@ -2306,6 +2306,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T120322Z" creationid="Mari" creationdate="20220125T120322Z">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T120022Z" creationid="Mari" creationdate="20220125T120022Z">
@@ -19157,6 +19165,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T141855Z" creationid="taty" creationdate="20181109T141855Z">
         <seg>En este cuadro, seleccione o cree una carpeta de archivo de diccionario en su disco rígido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T120554Z" creationid="Mari" creationdate="20220125T120554Z">
+        <seg>En este modo, OmegaT creará un archivo TMX para todo el proyecto, basado solo en los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
