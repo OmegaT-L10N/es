@@ -26141,6 +26141,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the file test.html at the root of the source folder will be translated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123857Z" creationid="Mari" creationdate="20220125T123646Z">
+        <seg>Solo se traducirá el archivo prueba.html en la raíz de la carpeta de archivos originales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T131030Z" creationid="Helli" creationdate="20150526T130935Z">
@@ -49081,8 +49089,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>test\.html</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220125T123615Z" creationid="Mari" creationdate="20220125T123615Z">
-        <seg>test\.html</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123651Z" creationid="Mari" creationdate="20220125T123615Z">
+        <seg>prueba\.html</seg>
       </tuv>
     </tu>
     <tu>
