@@ -4630,6 +4630,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125001Z" creationid="Mari" creationdate="20220125T125001Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; se encarga de la configuración de proyectos de trabajo en grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T124227Z" creationid="Mari" creationdate="20220125T124227Z">
