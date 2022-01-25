@@ -6967,6 +6967,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Again note that the backslash is escaped as well.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T124214Z" creationid="Mari" creationdate="20220125T124214Z">
+        <seg>Una vez más, tenga en cuenta que la barra diagonal inversa también contiene el carácter de escape.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164709Z" creationid="hcartagena" creationdate="20180605T164709Z">
@@ -26145,6 +26153,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T121403Z" creationid="Antonio" creationdate="20160126T154541Z">
         <seg>Solo se tienen en cuenta los enteros y los decimales simples, donde se utiliza el punto como carácter decimal, por ejemplo 5.4, pero no 5,4 ni 54E-01.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T124037Z" creationid="Mari" creationdate="20220125T124037Z">
+        <seg>Solo se procesará el archivo &lt;f0&gt;prueba.html&lt;/f0&gt; de la carpeta &lt;f1&gt;car-10&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
