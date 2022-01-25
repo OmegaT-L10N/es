@@ -46116,6 +46116,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125833Z" creationid="Mari" creationdate="20220125T125833Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233145Z" creationid="hcartagena" creationdate="20200729T233145Z">
@@ -46160,6 +46168,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T112702Z" creationid="Antonio" creationdate="20160125T112702Z">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125842Z" creationid="Mari" creationdate="20220125T125842Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
       </tuv>
     </tu>
     <tu>
