@@ -4630,6 +4630,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T124227Z" creationid="Mari" creationdate="20220125T124227Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells OmegaT where to find the project to translate.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T114621Z" creationid="Mari" creationdate="20220125T114022Z">
@@ -37695,6 +37703,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T114844Z" creationid="hcartagena" creationdate="20200729T211110Z">
         <seg>Esta opción permite a OmegaT anular lo especificado en el encabezado del archivo PO y utilizar el valor predeterminado para el idioma de destino seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option allows the tag validation in a batch mode.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T124331Z" creationid="Mari" creationdate="20220125T124331Z">
+        <seg>Esta opción permite validar las etiquetas en lotes.</seg>
       </tuv>
     </tu>
     <tu>
