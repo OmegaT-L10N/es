@@ -31862,6 +31862,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T122330Z" creationid="Mari" creationdate="20220125T122330Z">
+        <seg>Algunos filtros compatibles: Archivo de idioma ILIAS, Java(TM) Resource Bundles, Texto clave=valor, CSV de configuración regional de Magento CE, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, Subtítulos de SubRip, Recursos de Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T194834Z" creationid="Mari" creationdate="20211129T194834Z">
