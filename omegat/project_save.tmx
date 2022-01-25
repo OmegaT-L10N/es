@@ -4062,6 +4062,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T122529Z" creationid="Mari" creationdate="20220125T122529Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; debe contener una traducción en el idioma de destino del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;and &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;key&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; can be any key available on your keyboard&lt;/f3&gt;&lt;a4&gt;[4]&lt;/a4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T125528Z" creationid="Helli" creationdate="20150526T125528Z">
@@ -15538,6 +15546,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T123531Z" creationid="hcartagena" creationdate="20200729T212310Z">
         <seg>Por ejemplo, si el filtro de archivo especifica UTF-8 como esquema de codificación para los archivos traducidos, seleccionando la opción "Siempre" se garantizará que esta información se incluya en los archivos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T122726Z" creationid="Mari" creationdate="20220125T122726Z">
+        <seg>Por ejemplo, si el proyecto es EN&gt;FR, &lt;f1&gt;alignDir&lt;/f1&gt; debe contener el sufijo &lt;l2&gt;_fr&lt;/l2&gt;al final.</seg>
       </tuv>
     </tu>
     <tu>
