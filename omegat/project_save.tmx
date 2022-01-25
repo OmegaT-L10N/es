@@ -17574,6 +17574,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not given, OmegaT reverts to default values (OmegaT folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T115524Z" creationid="Mari" creationdate="20220125T115524Z">
+        <seg>Si no se proporciona, OmegaT volverá a los valores predeterminados (la carpeta de OmegaT en la carpeta principal del usuario o, si no está disponible, la carpeta de trabajo actual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232003Z" creationid="Cristina" creationdate="20170822T183640Z">
