@@ -4550,6 +4550,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells OmegaT in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T115019Z" creationid="Mari" creationdate="20220125T115019Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/ruta-de-acceso/a/archivos-de-configuración/&lt;/p1&gt;&lt;/l0&gt; indica a OmegaT la carpeta en la que se almacenan los archivos de configuración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells OmegaT where to find the project to translate.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T114621Z" creationid="Mari" creationdate="20220125T114022Z">
