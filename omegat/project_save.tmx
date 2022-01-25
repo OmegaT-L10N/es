@@ -2288,6 +2288,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T113354Z" creationid="Mari" creationdate="20220125T113354Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -2350,6 +2358,14 @@ en modo de trabajo en grupo.)</seg>
       <tuv lang="es" changeid="Mari" changedate="20210928T191317Z" creationid="hcartagena" creationdate="20160331T215126Z">
         <seg>--script=&lt;ruta de acceso&gt;
 		Un archivo de script que se ejecuta ante eventos del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T113502Z" creationid="Mari" creationdate="20220125T113502Z">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
       </tuv>
     </tu>
     <tu>
