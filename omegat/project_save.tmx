@@ -4550,6 +4550,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells OmegaT where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T114022Z" creationid="Mari" creationdate="20220125T114022Z">
+        <seg>&lt;l0&gt;/ruta de acceso/al/&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T160434Z" creationid="Antonio" creationdate="20160330T154952Z">
@@ -14320,6 +14328,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T175121Z" creationid="Cristina" creationdate="20170917T174913Z">
         <seg>Explica cómo crear un filtro para un formato de archivo nuevo para traducirlo en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Explanation:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T113805Z" creationid="Mari" creationdate="20220125T113805Z">
+        <seg>Explicación:</seg>
       </tuv>
     </tu>
     <tu>
