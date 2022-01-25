@@ -36279,6 +36279,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T130053Z" creationid="Mari" creationdate="20220125T130053Z">
+        <seg>Los archivos de código fuente de la versión actual se pueden recuperar con un cliente Git desde el repositorio &lt;u0/&gt; o directamente en &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T214808Z" creationid="Víctor Parra" creationdate="20151126T194927Z">
