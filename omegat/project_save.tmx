@@ -43024,6 +43024,14 @@ crearlas.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You specify the TMX file to be created with</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T120828Z" creationid="Mari" creationdate="20220125T120828Z">
+        <seg>El archivo TMX que se va a crear se especifica con</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You translate your files by moving from segment to segment, editing each current segment in turn.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T105440Z" creationid="Antonio" creationdate="20160126T105440Z">
