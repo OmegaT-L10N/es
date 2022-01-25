@@ -2402,6 +2402,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T122824Z" creationid="Mari" creationdate="20220125T122824Z">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T113502Z" creationid="Mari" creationdate="20220125T113502Z">
@@ -41451,6 +41459,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T195814Z" creationid="Antonio" creationdate="20151128T163325Z">
         <seg>Al colocar el  ratón sobre la frase subrayada, aparecerá una explicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T122948Z" creationid="Mari" creationdate="20220125T122948Z">
+        <seg>Cuando se ha utilizado el modo, esta opción especificará los archivos que se procesarán automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
