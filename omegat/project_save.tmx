@@ -49079,6 +49079,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>test\.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123615Z" creationid="Mari" creationdate="20220125T123615Z">
+        <seg>test\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223710Z" creationid="hcartagena" creationdate="20151201T223710Z">
