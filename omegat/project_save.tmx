@@ -19265,6 +19265,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125442Z" creationid="Mari" creationdate="20220125T125442Z">
+        <seg>En el modo quiet, se registra menos información en la pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185433Z" creationid="Antonio" creationdate="20151210T185433Z">
