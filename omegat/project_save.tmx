@@ -12139,6 +12139,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T130638Z" creationid="Mari" creationdate="20220125T130638Z">
+        <seg>Puede encontrar instrucciones detalladas sobre la compilación en el archivo &lt;u0&gt;readme&lt;/u0&gt; de docs_devel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001757Z" creationid="hcartagena" creationdate="20200730T001757Z">
@@ -42798,6 +42806,14 @@ para enlazarlo desde allí.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T130416Z" creationid="Mari" creationdate="20220125T130416Z">
+        <seg>También puede ejecutar directamente la aplicación con el siguiente comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T182758Z" creationid="Mari" creationdate="20220112T182758Z">
@@ -45539,6 +45555,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T130419Z" creationid="Mari" creationdate="20220125T130419Z">
+        <seg>gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T200746Z" creationid="nenyavie" creationdate="20200225T140806Z">
@@ -46224,6 +46248,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T114344Z" creationid="Antonio" creationdate="20160125T114344Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T130432Z" creationid="Mari" creationdate="20220125T130432Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
       </tuv>
     </tu>
     <tu>
