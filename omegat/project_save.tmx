@@ -17440,6 +17440,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T124622Z" creationid="Mari" creationdate="20220125T124622Z">
+        <seg>Si se especifica &lt;l1&gt;warn&lt;/l1&gt;, la validación de etiquetas procesará todos los segmentos y registrará avisos sobre cualquier segmento con etiquetas no válidas en el archivo especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211024T174617Z" creationid="hcartagena" creationdate="20151119T213923Z">
