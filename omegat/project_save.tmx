@@ -2244,16 +2244,16 @@ en modo de trabajo en grupo.)</seg>
       <tuv lang="en">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220125T113245Z" creationid="Mari" creationdate="20220125T113245Z">
-        <seg>--config-dir=&lt;p1&gt;/ruta de acceso/a/archivos de configuración/&lt;/p1&gt; \</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220125T114128Z" creationid="Mari" creationdate="20220125T113245Z">
+        <seg>--config-dir=&lt;p1&gt;/ruta-de-acceso/a/archivos-de-configuración/&lt;/p1&gt; \</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220125T113332Z" creationid="Mari" creationdate="20220125T113332Z">
-        <seg>--config-file=&lt;p2&gt;/ruta de acceso/al/archivo de configuración/&lt;/p2&gt; \</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220125T114146Z" creationid="Mari" creationdate="20220125T113332Z">
+        <seg>--config-file=&lt;p2&gt;/ruta-de-acceso/al/archivo-de-configuración/&lt;/p2&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -46248,8 +46248,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220125T113148Z" creationid="Mari" creationdate="20220125T113148Z">
-        <seg>java -jar OmegaT.jar &lt;p0&gt;/ruta de acceso/al/proyecto&lt;/p0&gt; \</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220125T114112Z" creationid="Mari" creationdate="20220125T113148Z">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/ruta-de-acceso/al/proyecto&lt;/p0&gt; \</seg>
       </tuv>
     </tu>
     <tu>
