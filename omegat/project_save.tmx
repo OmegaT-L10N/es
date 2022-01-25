@@ -14095,6 +14095,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T113108Z" creationid="Mari" creationdate="20220125T113108Z">
+        <seg>Ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T151900Z" creationid="Mari" creationdate="20211130T151754Z">
@@ -46178,6 +46186,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T164232Z" creationid="Antonio" creationdate="20160330T164232Z">
         <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T113148Z" creationid="Mari" creationdate="20220125T113148Z">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/ruta de acceso/al/proyecto&lt;/p0&gt; \</seg>
       </tuv>
     </tu>
     <tu>
