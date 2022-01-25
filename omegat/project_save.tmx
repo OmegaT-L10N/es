@@ -2306,6 +2306,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T121046Z" creationid="Mari" creationdate="20220125T121046Z">
+        <seg>--mode=console-align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T120322Z" creationid="Mari" creationdate="20220125T120322Z">
@@ -19189,6 +19197,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T151316Z" creationid="taty" creationdate="20181205T150815Z">
         <seg>De esta forma, "&lt;g1&gt;Cursor desactivado&lt;/g1&gt;" se visualiza en la parte inferior del panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T121159Z" creationid="Mari" creationdate="20220125T121159Z">
+        <seg>En este modo, OmegaT alineará los archivos encontrados en la carpeta &lt;f0&gt;/source/&lt;/f0&gt; del proyecto con el contenido encontrado en la ubicación especificada.</seg>
       </tuv>
     </tu>
     <tu>
