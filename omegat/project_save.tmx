@@ -7631,6 +7631,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125352Z" creationid="Mari" creationdate="20220125T125352Z">
+        <seg>Un parámetro adicional de la línea de comandos específico para el modo de consola: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T165050Z" creationid="Mari" creationdate="20211126T165050Z">
@@ -28437,6 +28445,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154728Z" creationid="Antonio" creationdate="20151128T154728Z">
         <seg>Quechua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quiet option</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125257Z" creationid="Mari" creationdate="20220125T125257Z">
+        <seg>Opción quiet</seg>
       </tuv>
     </tu>
     <tu>
