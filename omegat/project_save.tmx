@@ -38222,6 +38222,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start OmegaT in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T112655Z" creationid="Mari" creationdate="20220125T112655Z">
+        <seg>Para iniciar OmegaT en modo de consola, se le tienen que proporcionar algunos parámetros adicionales en el inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221505Z" creationid="hcartagena" creationdate="20151201T221505Z">
