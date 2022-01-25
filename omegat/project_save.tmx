@@ -23961,6 +23961,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T113758Z" creationid="Mari" creationdate="20220125T113758Z">
+        <seg>Tenga en cuenta que todos los parámetros empiezan con un carácter &lt;l0&gt;-&lt;/l0&gt; doble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T172044Z" creationid="Mari" creationdate="20211127T172044Z">
