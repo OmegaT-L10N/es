@@ -2242,6 +2242,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T122450Z" creationid="Mari" creationdate="20220125T122450Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;ubicación de los archivos traducidos&gt;&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T114128Z" creationid="Mari" creationdate="20220125T113245Z">
@@ -6739,6 +6747,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220103T190321Z" creationid="Mari" creationdate="20220103T190321Z">
         <seg>Añadir nuevos archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T122425Z" creationid="Mari" creationdate="20220125T122425Z">
+        <seg>En este caso, se requiere un parámetro adicional que especifica la ubicación de los datos de destino:</seg>
       </tuv>
     </tu>
     <tu>
