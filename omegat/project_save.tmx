@@ -17943,6 +17943,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123936Z" creationid="Mari" creationdate="20220125T123936Z">
+        <seg>Si hay otros archivos llamados prueba.html en otras carpetas, estos se ignorarán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T162203Z" creationid="taty" creationdate="20181205T162203Z">
@@ -44518,6 +44526,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144314Z" creationid="Antonio" creationdate="20151128T144314Z">
         <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123958Z" creationid="Mari" creationdate="20220125T123958Z">
+        <seg>car-10\\prueba\.html</seg>
       </tuv>
     </tu>
     <tu>
