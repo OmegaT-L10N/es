@@ -9137,6 +9137,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125217Z" creationid="Mari" creationdate="20220125T125217Z">
+        <seg>De manera predeterminada, en Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; está bloqueado y se recibe un mensaje de error al intentar abrir un proyecto ya abierto en otra instancia de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T192741Z" creationid="hcartagena" creationdate="20151117T192704Z">
@@ -42090,6 +42098,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T170616Z" creationid="Cristina" creationdate="20170917T170616Z">
         <seg>Con enlaces a guías más detalladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With that option, no locking occurs.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125235Z" creationid="Mari" creationdate="20220125T125235Z">
+        <seg>Con esta opción, no se produce ningún bloqueo.</seg>
       </tuv>
     </tu>
     <tu>
