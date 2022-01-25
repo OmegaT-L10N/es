@@ -35567,6 +35567,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The messages you would usually find in the status bar are not displayed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125519Z" creationid="Mari" creationdate="20220125T125519Z">
+        <seg>No muestra todos los mensajes que normalmente se leen en la barra de estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The minimal package contains the same files as the full package, except for the main user manual.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170921T190007Z" creationid="Cristina" creationdate="20170921T190007Z">
@@ -40200,6 +40208,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181113T220144Z" creationid="taty" creationdate="20181113T220144Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125620Z" creationid="Mari" creationdate="20220125T125620Z">
+        <seg>Uso: &lt;l0&gt;java -jar OmegaT.jar /ruta-de-acceso/al/proyecto --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
