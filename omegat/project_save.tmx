@@ -8921,6 +8921,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Building OmegaT From Source</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125826Z" creationid="Mari" creationdate="20220125T125826Z">
+        <seg>Construir OmegaT desde el código fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bulgarian</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083543Z" creationid="Antonio" creationdate="20151128T083543Z">
