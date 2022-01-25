@@ -37395,6 +37395,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is useful to run OmegaT on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T120315Z" creationid="Mari" creationdate="20220125T120315Z">
+        <seg>Esto es útil para ejecutar OmegaT en un servidor con archivos TMX proporcionados automáticamente a un proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is where you type and edit your translation.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T183909Z" creationid="eumeu" creationdate="20181115T232030Z">
