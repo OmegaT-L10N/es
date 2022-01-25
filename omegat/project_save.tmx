@@ -40380,6 +40380,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T125021Z" creationid="Mari" creationdate="20220125T125021Z">
+        <seg>Úsela si OmegaT no sincroniza el contenido del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T190358Z" creationid="nenyavie" creationdate="20200226T143119Z">
