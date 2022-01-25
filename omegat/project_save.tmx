@@ -3136,8 +3136,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; OmegaT starts in console mode to perform one of the following services automatically</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195756Z" creationid="Mari" creationdate="20220111T195756Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;…&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; OmegaT starts in console mode to perform one of the following services automatically</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220125T120015Z" creationid="Mari" creationdate="20220111T195756Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;…&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; OmegaT inicia en modo de consola para llevar a cabo uno de los siguientes servicios de forma automática.</seg>
       </tuv>
     </tu>
     <tu>
