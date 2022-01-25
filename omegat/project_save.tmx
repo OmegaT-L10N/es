@@ -2242,6 +2242,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T113245Z" creationid="Mari" creationdate="20220125T113245Z">
+        <seg>--config-dir=&lt;p1&gt;/ruta de acceso/a/archivos de configuración/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
