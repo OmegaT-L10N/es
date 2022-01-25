@@ -17456,6 +17456,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If given, OmegaT starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T114732Z" creationid="Mari" creationdate="20220125T114732Z">
+        <seg>Si se proporciona, OmegaT iniciará en modo de consola y traducirá el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T163352Z" creationid="Antonio" creationdate="20160330T163352Z">
