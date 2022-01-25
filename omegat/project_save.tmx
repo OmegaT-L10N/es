@@ -35321,8 +35321,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The most important is &lt;l0&gt;/path/to/project&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;p2&gt;/path/to/config-files/&lt;/p2&gt;&lt;/l1&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220125T113103Z" creationid="Mari" creationdate="20220125T113103Z">
-        <seg>El más importante es &lt;l0&gt;/ruta de acceso/al/proyecto&lt;/l0&gt; y, opcionalmente, &lt;l1&gt;--config-dir=&lt;p2&gt;/ruta de acceso/a/archivos de configuración&lt;/p2&gt;&lt;/l1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220125T114059Z" creationid="Mari" creationdate="20220125T113103Z">
+        <seg>El más importante es &lt;l0&gt;/ruta-de-acceso/al/proyecto&lt;/l0&gt; y, opcionalmente, &lt;l1&gt;--config-dir=&lt;p2&gt;/ruta-de-acceso/a/archivos-de-configuración&lt;/p2&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
