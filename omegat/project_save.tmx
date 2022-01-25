@@ -17432,6 +17432,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T124431Z" creationid="Mari" creationdate="20220125T124431Z">
+        <seg>Si se selecciona &lt;l0&gt;abort&lt;/l0&gt;, la validación de etiquetas parará en el primer segmento no válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211024T174617Z" creationid="hcartagena" creationdate="20151119T213923Z">
