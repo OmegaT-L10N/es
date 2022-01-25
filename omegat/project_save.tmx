@@ -16804,6 +16804,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here's few typical examples to limit your choice:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123106Z" creationid="Mari" creationdate="20220125T123106Z">
+        <seg>Aquí puede ver varios ejemplos para limitar su elección:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144427Z" creationid="Antonio" creationdate="20151128T144427Z">
@@ -17858,6 +17866,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T201237Z" creationid="Mari" creationdate="20211126T201237Z">
         <seg>Si el documento original era LTR, la dirección de visualización del documento traducido se debe cambiar manualmente a RTL en su aplicación de visualización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the parameter is not specified, all files will be processed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T123017Z" creationid="Mari" creationdate="20220125T123017Z">
+        <seg>Si no se ha especificado el parámetro, se procesarán todos los archivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41465,8 +41481,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220125T122948Z" creationid="Mari" creationdate="20220125T122948Z">
-        <seg>Cuando se ha utilizado el modo, esta opción especificará los archivos que se procesarán automáticamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220125T122959Z" creationid="Mari" creationdate="20220125T122948Z">
+        <seg>Cuando se ha utilizado el modo, esta opción especificará qué archivos se procesarán automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
