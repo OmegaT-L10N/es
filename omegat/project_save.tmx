@@ -4584,8 +4584,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells OmegaT in which folder the configuration files are stored.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220125T115019Z" creationid="Mari" creationdate="20220125T115019Z">
-        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/ruta-de-acceso/a/archivos-de-configuración/&lt;/p1&gt;&lt;/l0&gt; indica a OmegaT la carpeta en la que se almacenan los archivos de configuración.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220125T121327Z" creationid="Mari" creationdate="20220125T115019Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/ruta-de-acceso/a/archivos-de-configuración/&lt;/p1&gt;&lt;/l0&gt; indica a OmegaT la carpeta en la que se guardan los archivos de configuración.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41699,6 +41699,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T002121Z" creationid="hcartagena" creationdate="20200730T002121Z">
         <seg>Su adopción depende, en primer lugar, de si el equipo de desarrollo la considera beneficiosa para OmegaT y, en segundo lugar, de que haya algún desarrollador dispuesto a implementarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220125T121543Z" creationid="Mari" creationdate="20220125T121543Z">
+        <seg>La compatibilidad del filtro de archivos determina qué archivos se utilizan para la alineación.</seg>
       </tuv>
     </tu>
     <tu>
