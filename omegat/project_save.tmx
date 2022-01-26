@@ -31366,6 +31366,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T122424Z" creationid="Mari" creationdate="20220126T122424Z">
+        <seg>Seleccione esta opción del menú si la traducción actual no es adecuada e introduzca la traducción alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T145059Z" creationid="nenyavie" creationdate="20200226T145059Z">
