@@ -9987,8 +9987,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195809Z" creationid="hcartagena" creationdate="20151201T222015Z">
-        <seg>Haga clic en &lt;g1&gt;Copiar archivos a carpeta Source…&lt;/g1&gt;para seleccionar los archivos originales.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T111834Z" creationid="hcartagena" creationdate="20151201T222015Z">
+        <seg>Haga clic en &lt;g1&gt;Copiar archivos en la carpeta de archivos originales…&lt;/g1&gt;para seleccionar los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
