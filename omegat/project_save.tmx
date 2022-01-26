@@ -26501,6 +26501,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121055Z" creationid="Mari" creationdate="20220126T121055Z">
+        <seg>Abre una nueva &lt;l0&gt;ventana de búsqueda&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Operating System</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T145003Z" creationid="Cristina" creationdate="20170820T145003Z">
