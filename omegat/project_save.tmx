@@ -13213,6 +13213,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During translation, use the &lt;g11&gt;Edit&lt;/g11&gt; and &lt;g12&gt;Go To&lt;/g12&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T112704Z" creationid="Mari" creationdate="20220126T112704Z">
+        <seg>Durante la traducción, utilice los menús &lt;g11&gt;Editar&lt;/g11&gt; e &lt;g12&gt;Ir a&lt;/g12&gt; para ejecutar distintas funciones útiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T202534Z" creationid="hcartagena" creationdate="20160331T202534Z">
