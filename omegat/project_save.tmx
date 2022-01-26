@@ -11971,6 +11971,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define the translation as being empty.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T122545Z" creationid="Mari" creationdate="20220126T122545Z">
+        <seg>Define la traducción como vacía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T164606Z" creationid="Mari" creationdate="20211126T164606Z">
@@ -19373,6 +19381,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T125442Z" creationid="Mari" creationdate="20220125T125442Z">
         <seg>En el modo quiet, se registra menos información en la pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T122617Z" creationid="Mari" creationdate="20220126T122617Z">
+        <seg>No aparecerá nada para este segmento en el documento traducido.</seg>
       </tuv>
     </tu>
     <tu>
