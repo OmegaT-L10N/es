@@ -30661,8 +30661,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195818Z" creationid="Mari" creationdate="20220111T195818Z">
-        <seg>[fuzzy]Vea &lt;l1&gt;Filtros de archivo&lt;/l1&gt; para obtener un listado de los formatos de archivo que OmegaT entiende.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T113621Z" creationid="Mari" creationdate="20220111T195818Z">
+        <seg>Vaya a &lt;m1&gt;&lt;g2&gt;Opciones&lt;/g2&gt;&lt;g3&gt;Preferencias…&lt;/g3&gt;&lt;g4&gt;Filtros de archivo&lt;/g4&gt;&lt;/m1&gt; para consultar la lista de formatos de archivo que puede gestionar OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
