@@ -12003,6 +12003,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T122525Z" creationid="Mari" creationdate="20220126T122525Z">
+        <seg>Elimina la traducción y deja el segmento como no traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleting source files</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220103T190718Z" creationid="Mari" creationdate="20220103T190718Z">
@@ -29178,6 +29186,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T040958Z" creationid="hcartagena" creationdate="20160401T040958Z">
         <seg>Eliminar etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T122435Z" creationid="Mari" creationdate="20220126T122435Z">
+        <seg>Eliminar traducción</seg>
       </tuv>
     </tu>
     <tu>
