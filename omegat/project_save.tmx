@@ -6233,8 +6233,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A source sentence might look like:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T202845Z" creationid="hcartagena" creationdate="20160331T202845Z">
-        <seg>Una oración original podría lucir así:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T112945Z" creationid="hcartagena" creationdate="20160331T202845Z">
+        <seg>Una oración original podría verse así:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36441,8 +36441,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T222717Z" creationid="hcartagena" creationdate="20151201T222717Z">
-        <seg>Las etiquetas en OmegaT aparecen en gris, para que sean fáciles de reconocer.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T113002Z" creationid="hcartagena" creationdate="20151201T222717Z">
+        <seg>Las etiquetas en OmegaT aparecen en gris para que sean fáciles de reconocer.</seg>
       </tuv>
     </tu>
     <tu>
