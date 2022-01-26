@@ -6975,6 +6975,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to move to the next untranslated segment (or &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T112332Z" creationid="Mari" creationdate="20220126T112332Z">
+        <seg>Después de traducir cada segmento, pulse &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; para pasar al siguiente segmento sin traducir (o &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Mayús&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; para pasar al siguiente segmento traducido).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222200Z" creationid="hcartagena" creationdate="20151201T222200Z">
