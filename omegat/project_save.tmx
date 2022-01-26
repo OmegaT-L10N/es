@@ -17790,6 +17790,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text is selected, OmegaT selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121958Z" creationid="Mari" creationdate="20220126T121958Z">
+        <seg>Si no se selecciona ningún texto, OmegaT selecciona la palabra que contiene la letra inmediatamente a la derecha del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not given, OmegaT reverts to default values (OmegaT folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T115524Z" creationid="Mari" creationdate="20220125T115524Z">
@@ -40502,8 +40510,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
-        <seg>Use &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121921Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Utilice &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; para alternar entre las cuatro alternativas.</seg>
       </tuv>
     </tu>
     <tu>
