@@ -26157,6 +26157,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; to generate the target files, which will be created in the &lt;f3&gt;target&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T113230Z" creationid="Mari" creationdate="20220126T113230Z">
+        <seg>Cuando se haya asegurado de que no hay errores de etiquetas en la traducción, pulse &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; para generar los archivos traducidos, que se crearán en la subcarpeta &lt;f3&gt;target&lt;/f3&gt; dentro de la carpeta del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T203946Z" creationid="hcartagena" creationdate="20160331T203359Z">
