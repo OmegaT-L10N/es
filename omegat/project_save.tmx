@@ -18517,6 +18517,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;tm&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T114206Z" creationid="Mari" creationdate="20220126T114206Z">
+        <seg>Si pone esos archivos de memoria de traducción en la subcarpeta &lt;f6&gt;tm&lt;/f6&gt; de un proyecto, OmegaT buscará automáticamente segmentos similares en ellos, lo que se conoce como "coincidencias aproximadas".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T195125Z" creationid="hcartagena" creationdate="20200729T204558Z">
@@ -42764,6 +42772,14 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223551Z" creationid="hcartagena" creationdate="20151201T223551Z">
         <seg>Puede añadir un término nuevo al glosario con la combinación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, or copy existing glossaries to the &lt;f4&gt;glossary&lt;/f4&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T114312Z" creationid="Mari" creationdate="20220126T114312Z">
+        <seg>Puede añadir un término nuevo al glosario con la combinación &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Mayús&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt; o copiar glosarios en la subcarpeta &lt;f4&gt;glossary&lt;/f4&gt; dentro de la carpeta de su proyecto y OmegaT buscará palabras en ellos automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
