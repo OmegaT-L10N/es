@@ -29642,8 +29642,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Restores the status before the last editing action was cancelled.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20191209T221914Z" creationid="nenyavie" creationdate="20191209T221914Z">
-        <seg>Restaura al estado anterior a la cancelación de la última acción llevada a cabo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T115038Z" creationid="nenyavie" creationdate="20191209T221914Z">
+        <seg>Restablece el estado anterior a la última acción de edición cancelada.</seg>
       </tuv>
     </tu>
     <tu>
