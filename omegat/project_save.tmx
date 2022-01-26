@@ -18557,6 +18557,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121541Z" creationid="Mari" creationdate="20220126T121541Z">
+        <seg>Si selecciona una cadena de texto (en cualquier panel) antes de pulsar &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, el texto se pegará de manera predeterminada en el campo &lt;g3&gt;Buscar&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220126T120730Z" creationid="nenyavie" creationdate="20200226T104151Z">
