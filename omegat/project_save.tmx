@@ -38656,8 +38656,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T113748Z" creationid="Mari" creationdate="20220126T113748Z">
-        <seg>Para tener un recordatorio de los ajustes iniciales del proyecto, abra el diálogo de propiedades del proyecto pulsando &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T113947Z" creationid="Mari" creationdate="20220126T113748Z">
+        <seg>Para tener un recordatorio de los ajustes iniciales del proyecto, abra el diálogo de propiedades del proyecto con la combinación &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
