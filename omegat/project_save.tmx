@@ -19313,6 +19313,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T122644Z" creationid="Mari" creationdate="20220126T122644Z">
+        <seg>En el Editor, la traducción se muestra como &lt;VACÍA&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T165511Z" creationid="Mari" creationdate="20211126T165511Z">
@@ -40785,6 +40793,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T162810Z" creationid="Mari" creationdate="20211126T162501Z">
         <seg>Utilice este botón para abrir un diálogo, active la casilla &lt;g0&gt;Hacer que las reglas de segmentación sean específicas para el proyecto&lt;/g0&gt; y cambie las reglas de segmentación como desee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T122907Z" creationid="Mari" creationdate="20220126T122907Z">
+        <seg>Utilice este comando para registrar que la traducción sea idéntica al original, aunque la opción &lt;l0&gt;&lt;g1&gt;Permitir traducciones idénticas al original&lt;/g1&gt;&lt;/l0&gt; no esté marcada.</seg>
       </tuv>
     </tu>
     <tu>
