@@ -19211,8 +19211,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195808Z" creationid="hcartagena" creationdate="20160331T195302Z">
-        <seg>En el menú &lt;g0&gt;Proyecto&lt;/g0&gt;, seleccione &lt;m1&gt;&lt;g2&gt;Nuevo…&lt;/g2&gt;&lt;/m1&gt; y escriba un nombre para el proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T110911Z" creationid="hcartagena" creationdate="20160331T195302Z">
+        <seg>En el menú &lt;g0&gt;Proyecto&lt;/g0&gt;, seleccione &lt;m1&gt;&lt;g2&gt;Nuevo…&lt;/g2&gt;&lt;/m1&gt; y escriba el nombre del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28944,8 +28944,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T195430Z" creationid="hcartagena" creationdate="20160331T195430Z">
-        <seg>Recuerde en qué ubicación está el proyecto, porque tendrá que regresar ahí más tarde.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T110957Z" creationid="hcartagena" creationdate="20160331T195430Z">
+        <seg>Recuerde en qué ubicación está el proyecto porque tendrá que volver ahí más tarde.</seg>
       </tuv>
     </tu>
     <tu>
