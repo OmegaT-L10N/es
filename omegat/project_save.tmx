@@ -26509,6 +26509,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121514Z" creationid="Mari" creationdate="20220126T121514Z">
+        <seg>Abre una nueva &lt;l0&gt;ventana de búsqueda y reemplazo&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220126T121055Z" creationid="Mari" creationdate="20220126T121055Z">
