@@ -17504,6 +17504,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121710Z" creationid="Mari" creationdate="20220126T121710Z">
+        <seg>Si la &lt;l0&gt;búsqueda automática en los diccionarios&lt;/l0&gt; está desactivada, esta función permite buscar la palabra seleccionada en los diccionarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T124622Z" creationid="Mari" creationdate="20220125T124622Z">
