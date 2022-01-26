@@ -9441,6 +9441,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121853Z" creationid="Mari" creationdate="20220126T121853Z">
+        <seg>Cambia los caracteres del texto resaltado en el segmento traducido a la opción seleccionada (minúsculas, mayúsculas, tipo título o tipo oración).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T153730Z" creationid="Mari" creationdate="20220113T153730Z">
@@ -33188,6 +33196,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T164235Z" creationid="Helli" creationdate="20150526T133416Z">
         <seg>Cambio de caracteres a/Mayúsculas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121729Z" creationid="Mari" creationdate="20220126T121729Z">
+        <seg>Cambio de caracteres a</seg>
       </tuv>
     </tu>
     <tu>
