@@ -41799,6 +41799,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the user exits OmegaT, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T120149Z" creationid="Mari" creationdate="20220126T120149Z">
+        <seg>Al salir de OmegaT, este archivo no se vacía para ser cohorente con el comportamiento habitual del portapapeles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T153417Z" creationid="Mari" creationdate="20220113T153417Z">
