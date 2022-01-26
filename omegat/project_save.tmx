@@ -27865,8 +27865,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
-        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T121427Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Si pulsa &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;, se mostrará la última ventana de búsqueda ya abierta (en vez de abrir una nueva).</seg>
       </tuv>
     </tu>
     <tu>
