@@ -18079,6 +18079,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T122210Z" creationid="Mari" creationdate="20220126T122210Z">
+        <seg>Si hay varias traducciones alternativas disponibles para el segmento activo, puede marcar la alternativa seleccionada como traducción predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T123410Z" creationid="nenyavie" creationdate="20200226T123410Z">
