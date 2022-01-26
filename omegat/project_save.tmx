@@ -36920,6 +36920,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T113118Z" creationid="Mari" creationdate="20220126T113118Z">
+        <seg>Por lo tanto, pulse &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Mayús&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; antes de generar los archivos traducidos para verificar que las etiquetas sean correctas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222838Z" creationid="hcartagena" creationdate="20151201T222838Z">
