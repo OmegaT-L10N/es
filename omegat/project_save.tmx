@@ -17816,8 +17816,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20191209T223549Z" creationid="nenyavie" creationdate="20191209T223549Z">
-        <seg>Cuando se selecciona una parte del segmento traducido, esta función sobrescribe dicho fragmento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T115510Z" creationid="nenyavie" creationdate="20191209T223549Z">
+        <seg>Si se selecciona una parte del segmento traducido, esta función sobrescribe dicho fragmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17848,8 +17848,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T115352Z" creationid="nenyavie" creationdate="20191209T223133Z">
-        <seg>Si se selecciona un fragmento de la coincidencia aproximada, será únicamente este texto el que sustituya al segmento traducido.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T115410Z" creationid="nenyavie" creationdate="20191209T223133Z">
+        <seg>Si se selecciona un fragmento de la coincidencia aproximada, será únicamente este texto el que sustituya al segmento traducido íntegro.</seg>
       </tuv>
     </tu>
     <tu>
