@@ -35625,8 +35625,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T204111Z" creationid="hcartagena" creationdate="20160331T204111Z">
-        <seg>La memoria con el nombre &lt;f5&gt;omegat&lt;/f5&gt; puede servir a OmegaT para proyectos futuros que desee crear.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T114132Z" creationid="hcartagena" creationdate="20160331T204111Z">
+        <seg>La memoria con el nombre &lt;f5&gt;omegat&lt;/f5&gt; puede servir a OmegaT para futuros proyectos.</seg>
       </tuv>
     </tu>
     <tu>
