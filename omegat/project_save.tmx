@@ -20419,8 +20419,8 @@ the user license.</seg>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T114423Z" creationid="Mari" creationdate="20220126T114423Z">
-        <seg>A menudo es útil buscar palabras y frases en el texto original y en la traducción, para lo que debe pulsar &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; para ver el diálogo &lt;g1&gt;Buscar texto&lt;/g1&gt; en cualquier momento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T114453Z" creationid="Mari" creationdate="20220126T114423Z">
+        <seg>A menudo es útil buscar palabras y frases en el texto original y en la traducción, para lo que debe pulsar &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; para ver el diálogo &lt;g3&gt;Buscar texto&lt;/g3&gt; en cualquier momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46280,6 +46280,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233145Z" creationid="hcartagena" creationdate="20200729T233145Z">
         <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T114508Z" creationid="Mari" creationdate="20220126T114508Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
