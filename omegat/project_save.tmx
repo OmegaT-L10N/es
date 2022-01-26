@@ -41975,6 +41975,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; to generate the translated documents, which will be created in the &lt;f10&gt;target&lt;/f10&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T112510Z" creationid="Mari" creationdate="20220126T112510Z">
+        <seg>Cuando quiera ver cómo se ve la traducción en el formato final, pulse &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; para generar los documentos traducidos, que se crearán en la subcarpeta &lt;f10&gt;target&lt;/f10&gt; dentro de la carpeta del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T181443Z" creationid="Antonio" creationdate="20160331T181443Z">
