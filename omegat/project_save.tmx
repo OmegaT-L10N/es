@@ -5753,8 +5753,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T194623Z" creationid="hcartagena" creationdate="20160331T194623Z">
-        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; en un Apple Mac, usar la tecla &lt;k1&gt;Command&lt;/k1&gt; en lugar de la tecla &lt;k2&gt;Control&lt;/k2&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T110701Z" creationid="hcartagena" creationdate="20160331T194623Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; en un Apple Mac, utilice la tecla &lt;k1&gt;Command&lt;/k1&gt; en lugar de la tecla &lt;k2&gt;Control&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
