@@ -37301,8 +37301,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
-        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Mayús&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T120913Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>También se aplica a los campos &lt;g0&gt;Término de destino&lt;/g0&gt; y &lt;g1&gt;Comentario &lt;/g1&gt;si se hacen nuevas selecciones y se vuelve a pulsar &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Mayús&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
