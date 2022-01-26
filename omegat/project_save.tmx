@@ -29650,8 +29650,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Restores the status before the last editing action was taken.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20191209T221310Z" creationid="nenyavie" creationdate="20191209T221310Z">
-        <seg>Restaura al estado anterior a la última acción llevada a cabo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T114918Z" creationid="nenyavie" creationdate="20191209T221310Z">
+        <seg>Restablece el estado anterior a la última acción de edición.</seg>
       </tuv>
     </tu>
     <tu>
