@@ -6953,8 +6953,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T200108Z" creationid="hcartagena" creationdate="20160331T200108Z">
-        <seg>Después de que se hayan cargado los archivos originales en el panel del &lt;g3&gt;Editor&lt;/g3&gt;, puede cerrar el diálogo &lt;g4&gt;Archivos del proyecto&lt;/g4&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T112015Z" creationid="hcartagena" creationdate="20160331T200108Z">
+        <seg>Puede cerrar el diálogo &lt;g4&gt;Archivos del proyecto&lt;/g4&gt; después de que se hayan cargado los archivos originales en el panel del &lt;g3&gt;Editor&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25865,6 +25865,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T203848Z" creationid="hcartagena" creationdate="20160331T200028Z">
         <seg>OmegaT copiará los archivos seleccionados a la subcarpeta &lt;f2&gt;/source/&lt;/f2&gt; del proyecto recién creado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;source&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220126T111913Z" creationid="Mari" creationdate="20220126T111839Z">
+        <seg>OmegaT copiará los archivos seleccionados en la subcarpeta &lt;f2&gt;source&lt;/f2&gt; del proyecto recién creado.</seg>
       </tuv>
     </tu>
     <tu>
