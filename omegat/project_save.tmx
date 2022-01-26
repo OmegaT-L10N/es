@@ -13215,8 +13215,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>During translation, use the &lt;g11&gt;Edit&lt;/g11&gt; and &lt;g12&gt;Go To&lt;/g12&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T112704Z" creationid="Mari" creationdate="20220126T112704Z">
-        <seg>Durante la traducción, utilice los menús &lt;g11&gt;Editar&lt;/g11&gt; e &lt;g12&gt;Ir a&lt;/g12&gt; para ejecutar distintas funciones útiles.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T112738Z" creationid="Mari" creationdate="20220126T112704Z">
+        <seg>Durante la traducción, utilice los menús &lt;g11&gt;Editar&lt;/g11&gt; e &lt;g12&gt;Ir a&lt;/g12&gt; para usar distintas funciones útiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18704,8 +18704,8 @@ iniciar OmegaT con:</seg>
       <tuv lang="en">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T202722Z" creationid="hcartagena" creationdate="20160331T202722Z">
-        <seg>Si los archivos originales tienen formato como los archivos de Microsoft Word, LibreOffice Writer o HTML, por ejemplo, OmegaT convertirá el formato en etiquetas que rodean al texto que está traduciendo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220126T112843Z" creationid="hcartagena" creationdate="20160331T202722Z">
+        <seg>Si los archivos originales tienen formato, como los archivos de Microsoft Word, LibreOffice Writer o HTML, por ejemplo, OmegaT convertirá el formato en etiquetas que rodean al texto que está traduciendo.</seg>
       </tuv>
     </tu>
     <tu>
