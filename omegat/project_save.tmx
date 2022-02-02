@@ -24569,6 +24569,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T162756Z" creationid="Mari" creationdate="20220202T162756Z">
+        <seg>Nota: la tecla &lt;k0&gt;Intro&lt;/k0&gt; es un acceso directo alternativo si la opción &lt;l1&gt;Utilizar tabulador para avanzar&lt;/l1&gt; no está activada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T165438Z" creationid="hcartagena" creationdate="20151120T165438Z">
