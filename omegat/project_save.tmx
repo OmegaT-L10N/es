@@ -9833,6 +9833,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checks to see whether a more recent version of OmegaT has been released.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T164848Z" creationid="Mari" creationdate="20220202T164848Z">
+        <seg>Comprueba si se ha publicado una versión más reciente de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083628Z" creationid="Antonio" creationdate="20151128T083628Z">
