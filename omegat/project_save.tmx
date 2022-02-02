@@ -12611,6 +12611,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T164539Z" creationid="Mari" creationdate="20220202T164539Z">
+        <seg>Muestra la lista de nuevas funciones, mejoras y corrección de errores para cada nueva versión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T144413Z" creationid="hcartagena" creationdate="20151124T233524Z">
