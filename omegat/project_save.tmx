@@ -17934,6 +17934,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T162928Z" creationid="Mari" creationdate="20220202T162928Z">
+        <seg>Si el segmento actual es el primero de un archivo, le lleva al último segmento del archivo anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220202T162309Z" creationid="Mari" creationdate="20220202T162309Z">
@@ -24573,6 +24581,14 @@ la carpeta Aplicaciones.</seg>
       </tuv>
       <tuv lang="es">
         <seg>Nota:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T163106Z" creationid="Mari" creationdate="20220202T163106Z">
+        <seg>Nota: la combinación &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Intro&lt;/k2&gt; &lt;/k0&gt; es un acceso directo alternativo si la opción &lt;l3&gt;&gt;Utilizar tabulador para avanzar&lt;/l3&gt; no está activada.</seg>
       </tuv>
     </tu>
     <tu>
