@@ -23613,6 +23613,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the previous segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T162847Z" creationid="Mari" creationdate="20220202T162847Z">
+        <seg>Le lleva al segmento anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194054Z" creationid="Víctor Parra" creationdate="20151126T194054Z">
