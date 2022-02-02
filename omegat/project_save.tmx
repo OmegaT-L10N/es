@@ -35967,6 +35967,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next segment with a note attached to it, will open.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T163510Z" creationid="Mari" creationdate="20220202T163510Z">
+        <seg>Se abrirá el siguiente segmento que contenga una nota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T121045Z" creationid="Antonio" creationdate="20160126T154352Z">
@@ -36107,6 +36115,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T120505Z" creationid="Antonio" creationdate="20160126T151736Z">
         <seg>El prefijo (vacío de manera predeterminada) puede utilizarse para etiquetar las traducciones que se han realizado con coincidencias aproximadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The previous segment with a note will open.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T163535Z" creationid="Mari" creationdate="20220202T163535Z">
+        <seg>Se abrirá el segmento anterior que contenga una nota.</seg>
       </tuv>
     </tu>
     <tu>
