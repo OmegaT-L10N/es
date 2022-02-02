@@ -23629,6 +23629,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T163711Z" creationid="Mari" creationdate="20220202T163711Z">
+        <seg>Le lleva al segmento que sí se corresponde con la coincidencia actual seleccionada en el panel &lt;g0&gt;Coincidencias proximadas&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194054Z" creationid="Víctor Parra" creationdate="20151126T194054Z">
