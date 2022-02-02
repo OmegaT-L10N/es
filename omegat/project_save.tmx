@@ -17934,6 +17934,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T162309Z" creationid="Mari" creationdate="20220202T162309Z">
+        <seg>Si el segmento actual es el último de un archivo, le lleva al primer segmento del siguiente archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T200714Z" creationid="Mari" creationdate="20211126T200714Z">
@@ -23593,6 +23601,14 @@ la carpeta Aplicaciones.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220202T161700Z" creationid="Mari" creationdate="20220202T161700Z">
         <seg>Le lleva al siguiente segmento que no tiene equivalente en la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the next segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T162218Z" creationid="Mari" creationdate="20220202T162218Z">
+        <seg>Le lleva al siguiente segmento.</seg>
       </tuv>
     </tu>
     <tu>
