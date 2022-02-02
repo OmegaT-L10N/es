@@ -23581,6 +23581,22 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T162155Z" creationid="Mari" creationdate="20220202T162155Z">
+        <seg>Le lleva al siguiente segmento ya traducido, ignorando los segmentos sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T161700Z" creationid="Mari" creationdate="20220202T161700Z">
+        <seg>Le lleva al siguiente segmento que no tiene equivalente en la memoria de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194054Z" creationid="Víctor Parra" creationdate="20151126T194054Z">
