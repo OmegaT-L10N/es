@@ -12571,6 +12571,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays copyright, credits and license information.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T164438Z" creationid="Mari" creationdate="20220202T164438Z">
+        <seg>Muestra información de los derechos de autor, créditos y licencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T144938Z" creationid="hcartagena" creationdate="20151124T233740Z">
@@ -16827,6 +16835,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144422Z" creationid="Antonio" creationdate="20151128T144422Z">
         <seg>Hebreo (Israel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T164305Z" creationid="Mari" creationdate="20220202T164305Z">
+        <seg>Ayuda</seg>
       </tuv>
     </tu>
     <tu>
@@ -26681,6 +26697,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220126T121055Z" creationid="Mari" creationdate="20220126T121055Z">
         <seg>Abre una nueva &lt;l0&gt;ventana de búsqueda&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T164348Z" creationid="Mari" creationdate="20220202T164348Z">
+        <seg>Abre este manual en el navegador predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
