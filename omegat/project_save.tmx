@@ -12579,6 +12579,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T164650Z" creationid="Mari" creationdate="20220202T164650Z">
+        <seg>Muestra el archivo de registro actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T144938Z" creationid="hcartagena" creationdate="20151124T233740Z">
@@ -36851,6 +36859,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T140412Z" creationid="taty" creationdate="20181116T140412Z">
         <seg>La tercera columna se puede utilizar para información adicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220202T164807Z" creationid="Mari" creationdate="20220202T164807Z">
+        <seg>El título del diálogo refleja el archivo realmente utilizado (que depende de cuántas instancias de OmegaT se estén ejecutando simultáneamente).</seg>
       </tuv>
     </tu>
     <tu>
