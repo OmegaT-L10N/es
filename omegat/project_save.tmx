@@ -10847,6 +10847,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123936Z" creationid="Mari" creationdate="20220207T123936Z">
+        <seg>Copia los archivos seleccionados en la carpeta &lt;f0&gt;source&lt;/f0&gt; y vuelve a cargar el proyecto para cargar los nuevos archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T174618Z" creationid="Antonio" creationdate="20151127T174609Z">
