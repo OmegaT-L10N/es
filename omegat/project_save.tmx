@@ -6513,8 +6513,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Access Project Contents</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T130655Z" creationid="Mari" creationdate="20220207T130655Z">
-        <seg>[fuzzy]Acc&amp;eder a carpetas del proyecto</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130725Z" creationid="Mari" creationdate="20220207T130655Z">
+        <seg>Acceder a carpetas del proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -16426,6 +16426,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T204853Z" creationid="Mari" creationdate="20211125T204853Z">
         <seg>Da acceso a la lista de complementos disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gives access to the project folders.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130753Z" creationid="Mari" creationdate="20220207T130753Z">
+        <seg>Da acceso a las carpetas del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
