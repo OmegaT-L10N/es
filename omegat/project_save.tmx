@@ -19387,8 +19387,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T165511Z" creationid="Mari" creationdate="20211126T165511Z">
-        <seg>En el diálogo Patrones de exclusión, es posible añadir o eliminar un patrón, o editarlo seleccionando una línea y pulsando F2.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120902Z" creationid="Mari" creationdate="20211126T165511Z">
+        <seg>En el cuadro de diálogo Patrones de exclusión, es posible añadir o eliminar un patrón, o editarlo seleccionando una línea y pulsando F2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37757,8 +37757,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195738Z" creationid="Mari" creationdate="20211126T153306Z">
-        <seg>Se accede a este diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Propiedades…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120817Z" creationid="Mari" creationdate="20211126T153306Z">
+        <seg>Se accede a este cuadro de diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Proyecto&lt;/g1&gt; &lt;g2&gt;Propiedades…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40967,8 +40967,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T162810Z" creationid="Mari" creationdate="20211126T162501Z">
-        <seg>Utilice este botón para abrir un diálogo, active la casilla &lt;g0&gt;Hacer que las reglas de segmentación sean específicas para el proyecto&lt;/g0&gt; y cambie las reglas de segmentación como desee.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120842Z" creationid="Mari" creationdate="20211126T162501Z">
+        <seg>Utilice este botón para abrir un cuadro de diálogo, active la casilla &lt;g0&gt;Hacer que las reglas de segmentación sean específicas para el proyecto&lt;/g0&gt; y cambie las reglas de segmentación como desee.</seg>
       </tuv>
     </tu>
     <tu>
