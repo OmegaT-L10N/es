@@ -11289,6 +11289,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T125412Z" creationid="Mari" creationdate="20220207T125412Z">
+        <seg>Crea los documentos finales con su traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating a new file filter</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T174707Z" creationid="Cristina" creationdate="20170917T174707Z">
@@ -40918,8 +40926,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T125129Z" creationid="Mari" creationdate="20220207T125129Z">
-        <seg>Sube al repositorio los archivos que han sido añadidos o modificados localmente en la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T125253Z" creationid="Mari" creationdate="20220207T125129Z">
+        <seg>Sube al repositorio los archivos que se han añadido o modificado localmente en la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
