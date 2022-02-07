@@ -10105,6 +10105,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123835Z" creationid="Mari" creationdate="20220207T123835Z">
+        <seg>Al hacer clic en uno, se guardará y cerrará el proyecto actual y se abrirá el otro proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking Tools &gt; Scripting opens the Scripting window:</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T113827Z" creationid="Helli" creationdate="20150526T113538Z">
@@ -16314,6 +16322,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T213637Z" creationid="Antonio" creationdate="20151127T171756Z">
         <seg>Inicio de la ejecución de '{0}' en Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123737Z" creationid="Mari" creationdate="20220207T123737Z">
+        <seg>Da acceso a los diez últimos proyectos editados.</seg>
       </tuv>
     </tu>
     <tu>
