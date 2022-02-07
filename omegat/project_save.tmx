@@ -9643,8 +9643,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T122604Z" creationid="Mari" creationdate="20220207T122604Z">
-        <seg>Marque &lt;g0&gt;Predicción de historial&lt;/g0&gt; para que se muestren las palabras sugeridas que suelen seguir a la palabra que se acaba de escribir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T122618Z" creationid="Mari" creationdate="20220207T122604Z">
+        <seg>Marque la opción &lt;g0&gt;Predicción de historial&lt;/g0&gt; para que se muestren las palabras sugeridas que suelen seguir a la palabra que se acaba de escribir.</seg>
       </tuv>
     </tu>
     <tu>
