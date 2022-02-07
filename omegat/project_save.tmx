@@ -6953,8 +6953,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T112015Z" creationid="hcartagena" creationdate="20160331T200108Z">
-        <seg>Puede cerrar el diálogo &lt;g4&gt;Archivos del proyecto&lt;/g4&gt; después de que se hayan cargado los archivos originales en el panel del &lt;g3&gt;Editor&lt;/g3&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121112Z" creationid="hcartagena" creationdate="20160331T200108Z">
+        <seg>Puede cerrar el cuadro de diálogo &lt;g4&gt;Archivos del proyecto&lt;/g4&gt; después de que se hayan cargado los archivos originales en el panel del &lt;g3&gt;Editor&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20563,8 +20563,8 @@ the user license.</seg>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T114453Z" creationid="Mari" creationdate="20220126T114423Z">
-        <seg>A menudo es útil buscar palabras y frases en el texto original y en la traducción, para lo que debe pulsar &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; para ver el diálogo &lt;g3&gt;Buscar texto&lt;/g3&gt; en cualquier momento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121149Z" creationid="Mari" creationdate="20220126T114423Z">
+        <seg>A menudo es útil buscar palabras y frases en el texto original y en la traducción, para lo que debe pulsar &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; para ver el cuadro de diálogo &lt;g3&gt;Buscar texto&lt;/g3&gt; en cualquier momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39008,8 +39008,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T113947Z" creationid="Mari" creationdate="20220126T113748Z">
-        <seg>Para tener un recordatorio de los ajustes iniciales del proyecto, abra el diálogo de propiedades del proyecto con la combinación &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121126Z" creationid="Mari" creationdate="20220126T113748Z">
+        <seg>Para tener un recordatorio de los ajustes iniciales del proyecto, abra el cuadro de diálogo de propiedades del proyecto con la combinación &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39048,8 +39048,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To see a list of files in the project, open the &lt;g3&gt;Project Files&lt;/g3&gt; dialog by pressing &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T113937Z" creationid="Mari" creationdate="20220126T113937Z">
-        <seg>Para ver un listado de los archivos del proyecto, abra el diálogo &lt;g3&gt;Archivos del proyecto&lt;/g3&gt; con la combinación &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121135Z" creationid="Mari" creationdate="20220126T113937Z">
+        <seg>Para ver un listado de los archivos del proyecto, abra el cuadro de diálogo &lt;g3&gt;Archivos del proyecto&lt;/g3&gt; con la combinación &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
