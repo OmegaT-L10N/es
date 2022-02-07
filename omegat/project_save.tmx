@@ -26789,6 +26789,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123004Z" creationid="Mari" creationdate="20220207T123004Z">
+        <seg>Abre las opciones de &lt;l0&gt;Configuración de la segmentación&lt;/l0&gt; del cuadro de diálogo Preferencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220202T164348Z" creationid="Mari" creationdate="20220202T164348Z">
