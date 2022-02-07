@@ -11233,6 +11233,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123453Z" creationid="Mari" creationdate="20220207T123453Z">
+        <seg>Crea una copia local de un proyecto de OmegaT remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates and opens a new project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T123313Z" creationid="Mari" creationdate="20220207T123313Z">
