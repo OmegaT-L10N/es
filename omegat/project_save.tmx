@@ -39730,6 +39730,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T131456Z" creationid="Mari" creationdate="20220207T131456Z">
+        <seg>Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tools Menu</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T161130Z" creationid="Helli" creationdate="20150526T124414Z">
