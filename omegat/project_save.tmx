@@ -6511,6 +6511,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130655Z" creationid="Mari" creationdate="20220207T130655Z">
+        <seg>[fuzzy]Acc&amp;eder a carpetas del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T103850Z" creationid="nenyavie" creationdate="20200226T103850Z">
