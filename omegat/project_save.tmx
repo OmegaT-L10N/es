@@ -25377,6 +25377,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T125000Z" creationid="Mari" creationdate="20220207T125000Z">
+        <seg>OmegaT guarda automáticamente la traducción cada 3 minutos o cuando cierra el proyecto u OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T112216Z" creationid="Helli" creationdate="20150526T151947Z">
