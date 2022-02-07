@@ -11299,8 +11299,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Creates the target document corresponding to the current document in translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T125701Z" creationid="Mari" creationdate="20220207T125701Z">
-        <seg>Crea el documento traducido correspondiente al documento actual que se está traduciendo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T125720Z" creationid="Mari" creationdate="20220207T125701Z">
+        <seg>Crea el documento final correspondiente al documento actual que se está traduciendo.</seg>
       </tuv>
     </tu>
     <tu>
