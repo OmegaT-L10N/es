@@ -18190,6 +18190,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130957Z" creationid="Mari" creationdate="20220207T130957Z">
+        <seg>Si los documentos no están disponibles, la entrada aparece en gris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181113T215757Z" creationid="taty" creationdate="20181113T215757Z">
@@ -35624,6 +35632,14 @@ actual.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T163915Z" creationid="Antonio" creationdate="20151128T163915Z">
         <seg>La documentación se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130927Z" creationid="Mari" creationdate="20220207T130927Z">
+        <seg>Los documentos se abren con la aplicación elegida por el sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
