@@ -9753,6 +9753,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121917Z" creationid="Mari" creationdate="20220207T121917Z">
+        <seg>Seleccione la opción &lt;g0&gt;Utilizar coincidencias aproximadas para entradas de diccionario&lt;/g0&gt; si quiere que los diccionarios muestren palabras con la misma raíz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211229T124216Z" creationid="Antonio" creationdate="20160331T184040Z">
