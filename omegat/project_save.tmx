@@ -10889,6 +10889,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124325Z" creationid="Mari" creationdate="20220207T124325Z">
+        <seg>Copie la URL de la página (que acaba con &lt;g0&gt;action=edit&lt;/g0&gt;) y péguela en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the &lt;f0&gt;source&lt;/f0&gt; folder of the project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T200608Z" creationid="Mari" creationdate="20211129T200608Z">
