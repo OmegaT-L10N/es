@@ -6969,8 +6969,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T203825Z" creationid="hcartagena" creationdate="20160331T195506Z">
-        <seg>Tras darle un nombre al proyecto, aparecerá el diálogo &lt;g0&gt;Crear proyecto nuevo&lt;/g0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121011Z" creationid="hcartagena" creationdate="20160331T195506Z">
+        <seg>Tras darle un nombre al proyecto, aparecerá el cuadro de diálogo &lt;g0&gt;Crear proyecto nuevo&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8182,8 +8182,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T111547Z" creationid="hcartagena" creationdate="20160331T195841Z">
-        <seg>Al principio de ese diálogo, seleccione el idioma del archivo original y el idioma que tendrá el archivo traducido y haga clic en &lt;g1&gt;Aceptar&lt;/g1&gt; para continuar.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121031Z" creationid="hcartagena" creationdate="20160331T195841Z">
+        <seg>Al principio de ese cuadro de diálogo, seleccione el idioma del archivo original y el idioma que tendrá el archivo traducido y haga clic en &lt;g1&gt;Aceptar&lt;/g1&gt; para continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18297,8 +18297,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T111633Z" creationid="Mari" creationdate="20220126T111633Z">
-        <seg>Si le interesan los demás ajustes de este diálogo, puede volver en cualquier momento pulsando &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121044Z" creationid="Mari" creationdate="20220126T111633Z">
+        <seg>Si le interesan los demás ajustes de este cuadro de diálogo, puede volver en cualquier momento pulsando &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24087,8 +24087,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T221918Z" creationid="hcartagena" creationdate="20151201T221918Z">
-        <seg>Después, se abre el diálogo &lt;g0&gt;Archivos del proyecto&lt;/g0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121056Z" creationid="hcartagena" creationdate="20151201T221918Z">
+        <seg>Después, se abre el cuadro de diálogo &lt;g0&gt;Archivos del proyecto&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
