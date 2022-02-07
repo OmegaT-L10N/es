@@ -9139,8 +9139,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, the &lt;f0&gt;tm&lt;/f0&gt; folder is below the project's root folder (e.g. ...&lt;f1&gt;MyProject/tm&lt;/f1&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220124T124428Z" creationid="Mari" creationdate="20211127T171116Z">
-        <seg>De manera predeterminada, la carpeta &lt;f0&gt;tm&lt;/f0&gt; está bajo la carpeta raíz del proyecto (por ejemplo, …&lt;f1&gt;Miproyecto/tm&lt;/f1&gt;, pero si lo desea, puede elegir una carpeta diferente en el diálogo de propiedades del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120921Z" creationid="Mari" creationdate="20211127T171116Z">
+        <seg>De manera predeterminada, la carpeta &lt;f0&gt;tm&lt;/f0&gt; está bajo la carpeta raíz del proyecto (por ejemplo, …&lt;f1&gt;Miproyecto/tm&lt;/f1&gt;, pero si lo desea, puede elegir una carpeta diferente en el cuadro de diálogo de propiedades del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
