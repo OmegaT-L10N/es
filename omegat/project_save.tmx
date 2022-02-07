@@ -11233,6 +11233,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates and opens a new project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123313Z" creationid="Mari" creationdate="20220207T123313Z">
+        <seg>Crea y abre un nuevo proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating a new file filter</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T174707Z" creationid="Cristina" creationdate="20170917T174707Z">
@@ -13087,6 +13095,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211103T113750Z" creationid="Helli" creationdate="20150526T130945Z">
         <seg>Descargar proyecto de trabajo en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123358Z" creationid="Mari" creationdate="20220207T123358Z">
+        <seg>Descargar proyecto de trabajo en grupo…</seg>
       </tuv>
     </tu>
     <tu>
@@ -28413,6 +28429,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170816T185841Z" creationid="Cristina" creationdate="20170816T185841Z">
         <seg>Sin duda, la programación es la función más importante, y sin programación, no hay programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123253Z" creationid="Mari" creationdate="20220207T123253Z">
+        <seg>Proyecto</seg>
       </tuv>
     </tu>
     <tu>
