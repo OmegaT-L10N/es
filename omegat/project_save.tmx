@@ -10073,6 +10073,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124226Z" creationid="Mari" creationdate="20220207T124226Z">
+        <seg>Haga clic en la pestaña &lt;g0&gt;Editar&lt;/g0&gt; de la página de Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T191825Z" creationid="nenyavie" creationdate="20200226T144346Z">
@@ -39314,6 +39322,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T150905Z" creationid="Antonio" creationdate="20160125T150905Z">
         <seg>Para traducirla la interfaz de usuario de &lt;a0&gt;OmegaT, manual de usuario u otros documentos relacionados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124053Z" creationid="Mari" creationdate="20220207T124053Z">
+        <seg>Siga estos pasos para traducir el contenido de una página de Wikipedia (por ejemplo):</seg>
       </tuv>
     </tu>
     <tu>
