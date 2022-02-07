@@ -26773,6 +26773,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123108Z" creationid="Mari" creationdate="20220207T123108Z">
+        <seg>Abre las opciones de &lt;l0&gt;Editor&lt;/l0&gt; del cuadro de diálogo Preferencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T122817Z" creationid="Mari" creationdate="20220207T122817Z">
@@ -26793,6 +26801,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T123004Z" creationid="Mari" creationdate="20220207T123004Z">
         <seg>Abre las opciones de &lt;l0&gt;Configuración de la segmentación&lt;/l0&gt; del cuadro de diálogo Preferencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123243Z" creationid="Mari" creationdate="20220207T123243Z">
+        <seg>Abre el directorio local donde se almacenan los archivos de configuración de OmegaT (depende del sistema operativo).</seg>
       </tuv>
     </tu>
     <tu>
