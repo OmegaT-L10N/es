@@ -8294,8 +8294,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Auto-completion</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T193333Z" creationid="Mari" creationdate="20211124T193333Z">
-        <seg>[fuzzy]Autocompletar</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121938Z" creationid="Mari" creationdate="20211124T193333Z">
+        <seg>Autocompletar</seg>
       </tuv>
     </tu>
     <tu>
@@ -17580,6 +17580,14 @@ que introducir la ruta completa.)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T195231Z" creationid="Mari" creationdate="20211124T195231Z">
         <seg>Si la opción &lt;e0&gt;Mostrar sugerencias pertinentes automáticamente&lt;/e0&gt; está marcada, la función de autocompletar se activa automáticamente al escribir la primera letra de un término traducido del glosario o al escibir "&lt;" en el caso de las etiquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T122107Z" creationid="Mari" creationdate="20220207T122107Z">
+        <seg>Si la opción &lt;g0&gt;Mostrar sugerencias pertinentes automáticamente&lt;/g0&gt; está marcada, la función de autocompletar se activa automáticamente al escribir la primera letra de un término traducido del glosario o al escibir "&lt;" en el caso de las etiquetas.</seg>
       </tuv>
     </tu>
     <tu>
