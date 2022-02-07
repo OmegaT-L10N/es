@@ -19393,6 +19393,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In macOS, this menu item is listed in the application menu.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T131432Z" creationid="Mari" creationdate="20220207T131432Z">
+        <seg>En macOS, esta opción de menú aparece en el menú de aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T195206Z" creationid="Mari" creationdate="20211126T195206Z">
@@ -30797,6 +30805,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T124920Z" creationid="Mari" creationdate="20220207T124920Z">
         <seg>Guarda la memoria de traducción interna en el disco duro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and quits OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T131347Z" creationid="Mari" creationdate="20220207T131347Z">
+        <seg>Guarda el proyecto y cierra OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
