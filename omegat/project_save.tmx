@@ -26749,6 +26749,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123622Z" creationid="Mari" creationdate="20220207T123622Z">
+        <seg>Abrir…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194147Z" creationid="Víctor Parra" creationdate="20151126T194147Z">
@@ -26793,6 +26801,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220126T121055Z" creationid="Mari" creationdate="20220126T121055Z">
         <seg>Abre una nueva &lt;l0&gt;ventana de búsqueda&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a previously created project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T123645Z" creationid="Mari" creationdate="20220207T123645Z">
+        <seg>Abre un proyecto ya creado.</seg>
       </tuv>
     </tu>
     <tu>
