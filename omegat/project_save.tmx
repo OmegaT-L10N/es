@@ -18732,6 +18732,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T131319Z" creationid="Mari" creationdate="20220207T131319Z">
+        <seg>Si aún no ha guardado el proyecto, se le pedirá que confirme si realmente quiere salir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231257Z" creationid="Cristina" creationdate="20170905T184006Z">
@@ -30789,6 +30797,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T124920Z" creationid="Mari" creationdate="20220207T124920Z">
         <seg>Guarda la memoria de traducción interna en el disco duro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the project and restarts OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T131035Z" creationid="Mari" creationdate="20220207T131035Z">
+        <seg>Guarda el proyecto y reinicia OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
