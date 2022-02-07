@@ -37386,6 +37386,14 @@ la ubicación de la carpeta de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T122918Z" creationid="Mari" creationdate="20220207T122918Z">
+        <seg>Estos ajustes se aplican a nivel general de OmegaT, es decir, a todos los proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
