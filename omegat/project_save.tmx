@@ -11121,6 +11121,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T125546Z" creationid="Mari" creationdate="20220207T125546Z">
+        <seg>Crear documento traducido actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T163024Z" creationid="Helli" creationdate="20150526T131501Z">
