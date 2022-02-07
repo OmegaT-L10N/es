@@ -26965,6 +26965,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130613Z" creationid="Mari" creationdate="20220207T130613Z">
+        <seg>Abre la ventana &lt;l0&gt;Archivos del proyecto&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T123004Z" creationid="Mari" creationdate="20220207T123004Z">
