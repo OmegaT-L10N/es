@@ -18121,8 +18121,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T122130Z" creationid="nenyavie" creationdate="20200226T122635Z">
-        <seg>Si el corrector ortográfico no funciona, asegúrese primero de que esté marcada la casilla &lt;g0&gt;"Comprobar la ortografía automáticamente"&lt;/g0&gt; en el diálogo del corrector ortográfico (&lt;g1&gt;Opciones &gt; Preferencias &gt; Corrector ortográfico)&lt;/g1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120648Z" creationid="nenyavie" creationdate="20200226T122635Z">
+        <seg>Si el corrector ortográfico no funciona, asegúrese primero de que esté marcada la casilla &lt;g0&gt;"Comprobar la ortografía automáticamente"&lt;/g0&gt; en el cuadro de diálogo del corrector ortográfico (&lt;g1&gt;Opciones &gt; Preferencias &gt; Corrector ortográfico)&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20895,8 +20895,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;glossary&lt;/f2&gt; project folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T182057Z" creationid="Mari" creationdate="20220111T182057Z">
-        <seg>Es posible modificar su nombre y su ubicación en el diálogo de propiedades del proyecto, pero su extensión debe ser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; y su ubicación debe estar dentro de la carpeta &lt;f2&gt;glossary&lt;/f2&gt; del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120613Z" creationid="Mari" creationdate="20220111T182057Z">
+        <seg>Es posible modificar su nombre y su ubicación en el cuadro de diálogo de propiedades del proyecto, pero su extensión debe ser &lt;f0&gt;.txt&lt;/f0&gt; o &lt;f1&gt;.utf8&lt;/f1&gt; y su ubicación debe estar dentro de la carpeta &lt;f2&gt;glossary&lt;/f2&gt; del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36001,8 +36001,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T121007Z" creationid="nenyavie" creationdate="20200226T120719Z">
-        <seg>Los nombres de los archivos deben corresponder al código de idioma de el idioma de destino, como se define en el diálogo de propiedades del proyecto (&lt;g0&gt;Proyecto&gt;Propiedades&lt;/g0&gt;). </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120628Z" creationid="nenyavie" creationdate="20200226T120719Z">
+        <seg>Los nombres de los archivos deben corresponder al código de idioma de el idioma de destino, como se define en el cuadro de diálogo de propiedades del proyecto (&lt;g0&gt;Proyecto&gt;Propiedades&lt;/g0&gt;). </seg>
       </tuv>
     </tu>
     <tu>
