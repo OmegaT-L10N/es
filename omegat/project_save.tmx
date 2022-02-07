@@ -30681,6 +30681,22 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saves the internal translation memory to the hard disk.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124920Z" creationid="Mari" creationdate="20220207T124920Z">
+        <seg>Guarda la memoria de traducción interna en el disco duro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the translation and closes the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124847Z" creationid="Mari" creationdate="20220207T124847Z">
+        <seg>Guarda la traducción y cierra el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T170632Z" creationid="hcartagena" creationdate="20180605T170632Z">
