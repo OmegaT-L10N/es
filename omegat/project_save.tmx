@@ -26725,6 +26725,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120555Z" creationid="Mari" creationdate="20220207T120555Z">
+        <seg>Abre el diálogo de &lt;l0&gt;Preferencias&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220202T164348Z" creationid="Mari" creationdate="20220202T164348Z">
