@@ -29350,6 +29350,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124734Z" creationid="Mari" creationdate="20220207T124734Z">
+        <seg>Vuelve a cargar el proyecto para tener en cuenta los cambios externos en los archivos originales y la configuración del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142746Z" creationid="hcartagena" creationdate="20151117T142746Z">
