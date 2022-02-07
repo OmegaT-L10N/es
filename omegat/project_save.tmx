@@ -10913,6 +10913,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124532Z" creationid="Mari" creationdate="20220207T124532Z">
+        <seg>Copie el texto y péguelo en la versión traducida de la página de Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T200703Z" creationid="Mari" creationdate="20211129T200703Z">
@@ -26737,6 +26745,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T205323Z" creationid="hcartagena" creationdate="20151119T205323Z">
         <seg>Opciones del filtro Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124453Z" creationid="Mari" creationdate="20220207T124453Z">
+        <seg>Abra el archivo &lt;f0&gt;.UTF8&lt;/f0&gt; generado en la carpeta &lt;f1&gt;target&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
