@@ -19265,6 +19265,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130904Z" creationid="Mari" creationdate="20220207T130904Z">
+        <seg>Además, dos entradas de menú permiten abrir directamente los documentos originales y traducidos actuales y el glosario principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T144525Z" creationid="eumeu" creationdate="20181130T181442Z">
