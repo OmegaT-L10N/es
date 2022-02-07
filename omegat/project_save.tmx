@@ -7335,6 +7335,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121321Z" creationid="Mari" creationdate="20220207T121321Z">
+        <seg>Permite activar o desactivar las herramientas de traducción automática ofrecidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T085559Z" creationid="Antonio" creationdate="20160125T085443Z">
@@ -26727,8 +26735,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T120555Z" creationid="Mari" creationdate="20220207T120555Z">
-        <seg>Abre el diálogo de &lt;l0&gt;Preferencias&lt;/l0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121239Z" creationid="Mari" creationdate="20220207T120555Z">
+        <seg>Abre el cuadro de diálogo &lt;l0&gt;Preferencias&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36881,8 +36889,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220202T164807Z" creationid="Mari" creationdate="20220202T164807Z">
-        <seg>El título del diálogo refleja el archivo realmente utilizado (que depende de cuántas instancias de OmegaT se estén ejecutando simultáneamente).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121218Z" creationid="Mari" creationdate="20220202T164807Z">
+        <seg>El título del cuadro de diálogo refleja el archivo realmente utilizado (que depende de cuántas instancias de OmegaT se estén ejecutando simultáneamente).</seg>
       </tuv>
     </tu>
     <tu>
