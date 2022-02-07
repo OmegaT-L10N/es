@@ -26909,6 +26909,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T125922Z" creationid="Mari" creationdate="20220207T125922Z">
+        <seg>Abre un paquete de proyecto en el formato MED definido por la Dirección General de Traducción de la UE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T123108Z" creationid="Mari" creationdate="20220207T123108Z">
