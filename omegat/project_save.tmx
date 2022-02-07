@@ -9633,6 +9633,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T122315Z" creationid="Mari" creationdate="20220207T122315Z">
+        <seg>Marque la opción &lt;g0&gt;Completar con historial&lt;/g0&gt; para que se muestren las palabras sugeridas en cuanto se escriban las letras por las que empiezan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T232958Z" creationid="hcartagena" creationdate="20180604T232958Z">
