@@ -42495,6 +42495,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124409Z" creationid="Mari" creationdate="20220207T124409Z">
+        <seg>Cuando haya terminado la traducción, siga estos pasos para importarla a Wikipedia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150605T111524Z" creationid="Helli" creationdate="20150603T151048Z">
