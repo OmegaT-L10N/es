@@ -24077,6 +24077,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T124829Z" creationid="Mari" creationdate="20220207T124829Z">
+        <seg>Las nuevas memorias de traducción colocadas en la carpeta &lt;f0&gt;tm&lt;/f0&gt; mientras se traduce se cargan automáticamente en cuanto el cursor pasa de un segmento a otro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001600Z" creationid="hcartagena" creationdate="20200730T001600Z">
