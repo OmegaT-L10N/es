@@ -13495,8 +13495,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>Edit filter dialog</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T145046Z" creationid="Antonio" creationdate="20160316T185117Z">
-        <seg>Diálogo Editar filtro</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120723Z" creationid="Antonio" creationdate="20160316T185117Z">
+        <seg>Cuadro de diálogo Editar filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -25507,8 +25507,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T120427Z" creationid="Antonio" creationdate="20160126T151606Z">
-        <seg>OmegaT insertará la traducción de la cadena más parecida a la original actual si está por encima del umbral de similitud que ha establecido en este diálogo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120800Z" creationid="Antonio" creationdate="20160126T151606Z">
+        <seg>OmegaT insertará la traducción de la cadena más parecida a la original actual si está por encima del umbral de similitud que ha establecido en este cuadro de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37749,8 +37749,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195730Z" creationid="nenyavie" creationdate="20200226T123736Z">
-        <seg>Se accede a este diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Preferencias…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T120700Z" creationid="nenyavie" creationdate="20200226T123736Z">
+        <seg>Se accede a este cuadro de diálogo al seleccionar &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Preferencias…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
