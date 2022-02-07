@@ -28603,8 +28603,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233732Z" creationid="hcartagena" creationdate="20180604T233732Z">
-        <seg>Archivos de proyecto ({0} de {1})</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130330Z" creationid="hcartagena" creationdate="20180604T233732Z">
+        <seg>Archivos del proyecto ({0} de {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -28619,8 +28619,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Project Files...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195709Z" creationid="Helli" creationdate="20150526T131520Z">
-        <seg>Archivos de proyecto…</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220207T130401Z" creationid="Helli" creationdate="20150526T131520Z">
+        <seg>Archivos del proyecto…</seg>
       </tuv>
     </tu>
     <tu>
