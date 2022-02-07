@@ -17934,6 +17934,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121619Z" creationid="Mari" creationdate="20220207T121619Z">
+        <seg>Si se seleccionan varios motores de traducción automática, se utiliza la combinación &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; para alternar entre ellos e insertar el último seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220126T115542Z" creationid="nenyavie" creationdate="20191209T223702Z">
