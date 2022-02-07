@@ -22,7 +22,6 @@ fuzzy matches	coincidencias proximadas
 Editing behaviour	Comportamiento del campo de edición
 Subfolder	Subcarpeta
 Backups	copias de seguridad
-Project files	Archivos de proyecto
 User settings files	Archivos de configuración del usuario
 Plain text files	Archivos de texto sin formato
 File formats	Formatos de archivo
@@ -44,3 +43,4 @@ add	añadir
 plugin	complemento
 form-feed character	carácter de salto de página
 override	anular
+Project files	Archivos del proyecto
