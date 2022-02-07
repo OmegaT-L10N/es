@@ -31294,6 +31294,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220207T121758Z" creationid="Mari" creationdate="20220207T121758Z">
+        <seg>Seleccione &lt;g0&gt;Búsqueda de terminología en TaaS&lt;/g0&gt; para activar esta búsqueda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T193546Z" creationid="hcartagena" creationdate="20151117T193546Z">
