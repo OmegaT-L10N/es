@@ -17976,6 +17976,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, non-unique segments will be marked in pale grey.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124235Z" creationid="Mari" creationdate="20220210T124235Z">
+        <seg>Si está marcada, los segmentos no únicos tendrán un fondo gris claro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, source segments will be shown and marked in green.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T124025Z" creationid="Mari" creationdate="20220210T124025Z">
@@ -18176,8 +18184,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T124129Z" creationid="Mari" creationdate="20220210T124129Z">
-        <seg>Si no está marcada, no se mostrarán los segmentos fuente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124153Z" creationid="Mari" creationdate="20220210T124129Z">
+        <seg>Si no está marcada, no se mostrarán los segmentos originales.</seg>
       </tuv>
     </tu>
     <tu>
