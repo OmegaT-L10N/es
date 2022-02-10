@@ -9665,6 +9665,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115026Z" creationid="Mari" creationdate="20220210T115026Z">
+        <seg>Comprobar problemas…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Now</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T113628Z" creationid="nenyavie" creationdate="20200225T113628Z">
@@ -29061,6 +29069,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140714Z" creationid="taty" creationdate="20181109T140714Z">
         <seg>Qabiria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115125Z" creationid="Mari" creationdate="20220210T115125Z">
+        <seg>Herramienta de control de calidad que realiza todas las comprobaciones automáticas de una sola vez y muestra los resultados en una ventana.</seg>
       </tuv>
     </tu>
     <tu>
