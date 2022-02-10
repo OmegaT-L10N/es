@@ -17978,8 +17978,8 @@ que introducir la ruta completa.)</seg>
       <tuv lang="en">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T124235Z" creationid="Mari" creationdate="20220210T124235Z">
-        <seg>Si está marcada, los segmentos no únicos tendrán un fondo gris claro.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124328Z" creationid="Mari" creationdate="20220210T124235Z">
+        <seg>Si está marcada, los segmentos no únicos se mostrarán en gris claro.</seg>
       </tuv>
     </tu>
     <tu>
