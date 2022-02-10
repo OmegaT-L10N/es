@@ -16022,6 +16022,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T130439Z" creationid="Mari" creationdate="20220210T130439Z">
+        <seg>Por este motivo, está desactivada de manera predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For the &lt;s0&gt;OmegaT program and documentation&lt;/s0&gt;, these are either the &lt;a1&gt;"Full" package&lt;/a1&gt; or the &lt;a2&gt;"Minimal" package&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170921T184849Z" creationid="Cristina" creationdate="20170921T184849Z">
