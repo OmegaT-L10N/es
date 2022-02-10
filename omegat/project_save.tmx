@@ -9889,6 +9889,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T125952Z" creationid="Mari" creationdate="20220210T125952Z">
+        <seg>Active esta opción en caso de que OmegaT no muestre correctamente algunos glifos (aunque las fuentes que contienen los glifos correspondientes estén instaladas en el equipo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T124652Z" creationid="Antonio" creationdate="20160126T165517Z">
