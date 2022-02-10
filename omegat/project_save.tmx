@@ -34813,6 +34813,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115455Z" creationid="Mari" creationdate="20220210T115455Z">
+        <seg>La opción &lt;g1&gt;Problemas de etiquetas&lt;/g1&gt; siempre está seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T194243Z" creationid="Antonio" creationdate="20160331T184621Z">
