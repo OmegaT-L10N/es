@@ -17992,6 +17992,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the translated segments will be marked in yellow.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T123704Z" creationid="Mari" creationdate="20220210T123704Z">
+        <seg>Si está marcada, los segmentos traducidos tendrán un fondo amarillo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T123621Z" creationid="Mari" creationdate="20220210T123621Z">
