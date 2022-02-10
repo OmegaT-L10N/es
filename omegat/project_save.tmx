@@ -15998,6 +15998,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For technical details, see the &lt;u4&gt;Request For Enhancement&lt;/u4&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T125806Z" creationid="Mari" creationdate="20220210T125806Z">
+        <seg>Para obtener detalles técnicos, consulte la sección &lt;u4&gt;Propuestas de mejora&lt;/u4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20171003T173341Z" creationid="Cristina" creationdate="20170917T153702Z">
