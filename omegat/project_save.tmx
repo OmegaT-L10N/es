@@ -49911,6 +49911,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T120325Z" creationid="Mari" creationdate="20220210T120325Z">
+        <seg>Seleccionar o mover el ratón sobre una fila muestra un icono de menú emergente en la última columna que contiene acciones para corregir o ignorar el error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T123045Z" creationid="Mari" creationdate="20211130T123045Z">
