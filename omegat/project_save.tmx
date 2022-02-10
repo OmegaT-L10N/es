@@ -32478,6 +32478,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T130958Z" creationid="Mari" creationdate="20220210T130839Z">
+        <seg>Si se ajusta a &lt;g1&gt;Todos los segmentos&lt;/g1&gt;, se mostrará esta información para todos los segmentos, mientras &lt;g2&gt;No mostrar&lt;/g2&gt; desactivará esta opción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T130703Z" creationid="Mari" creationdate="20220210T130703Z">
