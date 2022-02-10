@@ -12779,6 +12779,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T120724Z" creationid="Mari" creationdate="20220210T120724Z">
+        <seg>Muestra las estadísticas de coincidencias del proyecto: el número de repeticiones, coincidencias exactas, coincidencias aproximadas y ninguna coincidencia de segmentos, palabras y caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the current log file.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220202T164650Z" creationid="Mari" creationdate="20220202T164650Z">
