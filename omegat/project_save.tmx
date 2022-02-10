@@ -25137,6 +25137,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T130325Z" creationid="Mari" creationdate="20220210T130325Z">
+        <seg>Nota: parace que en Windows que este mecanismo de sustitución de fuente manual puede interferir con la sustitución de fuente estándar, provocando una sustitución de fuente no deseada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T164455Z" creationid="taty" creationdate="20181116T164455Z">
