@@ -18008,6 +18008,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T125140Z" creationid="Mari" creationdate="20220210T125140Z">
+        <seg>Si está marcada, el fondo de todos los segmentos en los que el segmento traducido se ha autorellenado (a partir de las TMX colocadas en &lt;f0&gt;/tm/auto&lt;/f0&gt;, por ejemplo) se muestra en color.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T112938Z" creationid="Antonio" creationdate="20151127T110854Z">
@@ -47216,6 +47224,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T213835Z" creationid="Antonio" creationdate="20160124T213835Z">
         <seg>http://projectlocker.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124948Z" creationid="Mari" creationdate="20220210T124948Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
       </tuv>
     </tu>
     <tu>
