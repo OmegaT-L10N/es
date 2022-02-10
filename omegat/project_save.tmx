@@ -17976,6 +17976,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124654Z" creationid="Mari" creationdate="20220210T124654Z">
+        <seg>Si está marcada, los espacios de no separación se mostrarán con un fondo gris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T124328Z" creationid="Mari" creationdate="20220210T124235Z">
