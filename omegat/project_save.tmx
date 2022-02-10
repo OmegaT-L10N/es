@@ -27037,6 +27037,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T120555Z" creationid="Mari" creationdate="20220210T120555Z">
+        <seg>Abre una nueva ventana y muestra las estadísticas del proyecto, es decir, los totales del proyecto y los totales de cada archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a previously created project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T123645Z" creationid="Mari" creationdate="20220207T123645Z">
