@@ -36871,6 +36871,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115755Z" creationid="Mari" creationdate="20220210T115755Z">
+        <seg>La ventana de resultados se presenta en forma de tabla en la que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T185118Z" creationid="Antonio" creationdate="20151210T185118Z">
