@@ -17992,6 +17992,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T123621Z" creationid="Mari" creationdate="20220210T123621Z">
+        <seg>Si se han definido los comandos para hacer búsquedas externas en &lt;l0&gt;Preferencias&lt;/l0&gt;, aparecen enumerados y se puede acceder a ellos desde aquí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T081622Z" creationid="Antonio" creationdate="20160331T081622Z">
