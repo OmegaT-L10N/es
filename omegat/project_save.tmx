@@ -38931,6 +38931,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124918Z" creationid="Mari" creationdate="20220210T124918Z">
+        <seg>Esta opción muestra los &lt;u0&gt;caracteres de control bidireccionales&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T124345Z" creationid="nenyavie" creationdate="20200226T124345Z">
@@ -47360,6 +47368,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T081615Z" creationid="Antonio" creationdate="20151128T081615Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124744Z" creationid="Mari" creationdate="20220210T124744Z">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
     </tu>
     <tu>
