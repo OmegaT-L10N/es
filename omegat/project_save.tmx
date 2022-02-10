@@ -22094,6 +22094,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122447Z" creationid="Mari" creationdate="20220210T122447Z">
+        <seg>Inicia los scripts que se han asociado a un número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
@@ -48730,6 +48738,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083607Z" creationid="Antonio" creationdate="20151128T083607Z">
         <seg>mya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122406Z" creationid="Mari" creationdate="20220210T122406Z">
+        <seg>n - nombre de script</seg>
       </tuv>
     </tu>
     <tu>
