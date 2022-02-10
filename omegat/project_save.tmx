@@ -26965,6 +26965,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122532Z" creationid="Mari" creationdate="20220210T122532Z">
+        <seg>Abra la ventana Programación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181116T000544Z" creationid="eumeu" creationdate="20181116T000544Z">
@@ -32042,6 +32050,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T112752Z" creationid="Mari" creationdate="20211125T112752Z">
         <seg>Seleccione la ubicación del corrector lingüístico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122604Z" creationid="Mari" creationdate="20220210T122604Z">
+        <seg>Seleccione el script de la lista de la izquierda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39135,6 +39151,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T122106Z" creationid="Mari" creationdate="20211130T122106Z">
         <seg>Utilice un cliente SVN o Git para añadir otros recursos (diccionaios, TMX o glosarios).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122516Z" creationid="Mari" creationdate="20220210T122516Z">
+        <seg>Siga estos pasos para asociar un script a un número:</seg>
       </tuv>
     </tu>
     <tu>
