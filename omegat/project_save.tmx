@@ -8052,6 +8052,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T120436Z" creationid="Mari" creationdate="20220210T120436Z">
+        <seg>Como en el caso anterior, pero solo para el documento que se muestra actualmente en el panel Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T151556Z" creationid="Mari" creationdate="20211130T151556Z">
@@ -9685,6 +9693,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T232958Z" creationid="hcartagena" creationdate="20180604T232958Z">
         <seg>Comprobar probl&amp;emas en el documento actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T120356Z" creationid="Mari" creationdate="20220210T120356Z">
+        <seg>Comprobar problemas en el documento actual</seg>
       </tuv>
     </tu>
     <tu>
