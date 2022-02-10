@@ -32040,8 +32040,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T121254Z" creationid="Mari" creationdate="20220210T121254Z">
-        <seg>Seleccione los dos archivos que quiera alinear (el archivo original y el traducido) y haga clic en Aceptar para abrir la ventana &lt;l0&gt;&lt;g1&gt;Alinear&lt;/g1&gt;&lt;/l0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122335Z" creationid="Mari" creationdate="20220210T121254Z">
+        <seg>Seleccione los dos archivos que quiera alinear (el archivo original y el traducido) y haga clic en Aceptar para abrir la &lt;l0&gt;ventana &lt;g1&gt;Alinear&lt;/g1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
