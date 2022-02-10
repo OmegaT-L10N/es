@@ -4222,6 +4222,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115654Z" creationid="Mari" creationdate="20220210T115654Z">
+        <seg>&lt;g0&gt;Problemas de LanguageTool&lt;/g0&gt; (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T205931Z" creationid="Mari" creationdate="20211125T205931Z">
@@ -4290,6 +4298,14 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T115500Z" creationid="Mari" creationdate="20211123T115216Z">
         <seg>&lt;g0&gt;Iniciar un nuevo párrafo al encontrar&lt;/g0&gt;: la etiqueta HTML &lt;br&gt; creará un salto de párrafo con fines de segmentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115628Z" creationid="Mari" creationdate="20220210T115628Z">
+        <seg>&lt;g0&gt;Problemas de terminología&lt;/g0&gt; (opcional).</seg>
       </tuv>
     </tu>
     <tu>
