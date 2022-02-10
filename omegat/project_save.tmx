@@ -45762,6 +45762,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T120027Z" creationid="Mari" creationdate="20220210T120027Z">
+        <seg>Hacer doble clic en una fila activa el segmento correspondiente en el panel Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dv</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T084146Z" creationid="Antonio" creationdate="20151128T084146Z">
