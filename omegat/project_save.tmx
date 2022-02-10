@@ -17992,6 +17992,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T123903Z" creationid="Mari" creationdate="20220210T123903Z">
+        <seg>Si está marcada, las separaciones entre párrafos en el documento original se indican visualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the translated segments will be marked in yellow.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T123704Z" creationid="Mari" creationdate="20220210T123704Z">
