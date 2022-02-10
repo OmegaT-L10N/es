@@ -27085,6 +27085,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122054Z" creationid="Mari" creationdate="20220210T122054Z">
+        <seg>Abre la ventana &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt;, donde se puede establecer la ubicación de los scripts, y donde se pueden escribir, ejecutar y asociar a un acceso directo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T123108Z" creationid="Mari" creationdate="20220207T123108Z">
@@ -31087,6 +31095,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T160728Z" creationid="Cristina" creationdate="20170916T160728Z">
         <seg>Complemento de scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122009Z" creationid="Mari" creationdate="20220210T122009Z">
+        <seg>Programación…</seg>
       </tuv>
     </tu>
     <tu>
