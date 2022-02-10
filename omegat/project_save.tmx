@@ -17984,6 +17984,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, segments with notes will be marked in cyan.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124437Z" creationid="Mari" creationdate="20220210T124437Z">
+        <seg>Si está marcada, los segmentos con notas tendrán un fondo turquesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, source segments will be shown and marked in green.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T124025Z" creationid="Mari" creationdate="20220210T124025Z">
