@@ -7879,6 +7879,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T131022Z" creationid="Mari" creationdate="20220210T131022Z">
+        <seg>Apéndices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appendix C. OmegaT Team Projects</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T152406Z" creationid="Helli" creationdate="20150526T152406Z">
@@ -27718,6 +27726,14 @@ cual bruma se disipa</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181115T221029Z" creationid="eumeu" creationdate="20181115T221029Z">
         <seg>Panel de widgets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T131031Z" creationid="Mari" creationdate="20220210T131031Z">
+        <seg>Paneles</seg>
       </tuv>
     </tu>
     <tu>
