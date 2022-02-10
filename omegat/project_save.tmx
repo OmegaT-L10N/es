@@ -17976,6 +17976,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, source segments will be shown and marked in green.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124025Z" creationid="Mari" creationdate="20220210T124025Z">
+        <seg>Si está marcada, los segmentos originales tendrán un fondo verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T112938Z" creationid="Antonio" creationdate="20151127T110854Z">
