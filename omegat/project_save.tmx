@@ -45458,6 +45458,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T120211Z" creationid="Mari" creationdate="20220210T120211Z">
+        <seg>Hacer clic en un encabezado de columna cambia el orden de esta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222126Z" creationid="hcartagena" creationdate="20151201T222126Z">
