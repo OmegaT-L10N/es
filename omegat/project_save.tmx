@@ -8180,6 +8180,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T122722Z" creationid="Mari" creationdate="20220210T122722Z">
+        <seg>En la parte inferior de la ventana, haga clic con el botón derecho en un número libre y seleccione &lt;g0&gt;Añadir script&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223234Z" creationid="hcartagena" creationdate="20151201T223234Z">
