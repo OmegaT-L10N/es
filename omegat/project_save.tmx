@@ -38819,6 +38819,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124544Z" creationid="Mari" creationdate="20220210T124544Z">
+        <seg>Esta marca tiene prioridad sobre la opción &lt;g0&gt;Marcar segmentos traducidos&lt;/g0&gt; y &lt;g1&gt;Marcar segmentos no traducidos&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T195959Z" creationid="Mari" creationdate="20211126T195959Z">
