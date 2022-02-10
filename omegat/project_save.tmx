@@ -18174,6 +18174,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not checked, source segments will not be shown.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T124129Z" creationid="Mari" creationdate="20220210T124129Z">
+        <seg>Si no está marcada, no se mostrarán los segmentos fuente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not given, OmegaT reverts to default values (OmegaT folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T115524Z" creationid="Mari" creationdate="20220125T115524Z">
