@@ -27525,6 +27525,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T125416Z" creationid="Mari" creationdate="20220210T125416Z">
+        <seg>Las otras traducciones, identificadas específicamente en la TMX, pueden mostrarse con colores diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T173252Z" creationid="Cristina" creationdate="20170916T173252Z">
@@ -42239,6 +42247,14 @@ puede buscar en los archivos sin suscripción:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T123409Z" creationid="hcartagena" creationdate="20200729T212235Z">
         <seg>Con esta opción, el traductor puede especificar si los archivos traducidos deben llevar incluida la declaración de codificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usual translations inserted from the &lt;f3&gt;auto&lt;/f3&gt; folder are displayed in orange.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T125322Z" creationid="Mari" creationdate="20220210T125322Z">
+        <seg>Las traducciones habituales insertadas desde la carpeta &lt;f3&gt;auto&lt;/f3&gt; se muestran en naranja.</seg>
       </tuv>
     </tu>
     <tu>
