@@ -16102,6 +16102,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115157Z" creationid="Mari" creationdate="20220210T115157Z">
+        <seg>Se detectan cuatro tipos de problemas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Free (compatible) alternatives to Microsoft Office.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T154928Z" creationid="Cristina" creationdate="20170917T154928Z">
@@ -48362,6 +48370,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T172427Z" creationid="eumeu" creationdate="20181115T221409Z">
         <seg>reduce el panel de modo que solo se muestre su nombre en la parte inferior de la ventana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115321Z" creationid="Mari" creationdate="20220210T115321Z">
+        <seg>etiquetas ausentes o desplazadas, incluidas las &lt;l0&gt;etiquetas personalizadas&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
