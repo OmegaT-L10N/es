@@ -37135,6 +37135,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T121931Z" creationid="Mari" creationdate="20220210T121931Z">
+        <seg>Los archivos originales y traducidos pueden tener formatos diferentes (por ejemplo, un archivo &lt;f0&gt;.docx&lt;/f0&gt; puede alinearse con un archivo &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211012T145355Z" creationid="hcartagena" creationdate="20151117T191540Z">
