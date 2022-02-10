@@ -23790,6 +23790,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification Info</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T130458Z" creationid="Mari" creationdate="20220210T130458Z">
+        <seg>Información sobre modificaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification Info/Display All</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211116T170354Z" creationid="Antonio" creationdate="20151130T161059Z">
@@ -32466,6 +32474,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T184603Z" creationid="nenyavie" creationdate="20200226T124253Z">
         <seg>Vincula la validación de segmento al tabulador en lugar de a Intro, que es la tecla predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T130703Z" creationid="Mari" creationdate="20220210T130703Z">
+        <seg>Si se ajusta la opción de visualización de modificaciones a &lt;g0&gt;Segmento actual&lt;/g0&gt;, se mostrará la hora y el autor de la última modificación en el segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
