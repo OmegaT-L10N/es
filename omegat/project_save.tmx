@@ -35664,6 +35664,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T125234Z" creationid="Mari" creationdate="20220210T125234Z">
+        <seg>Los colores se muestran siempre que la opción &lt;l1&gt;&lt;g2&gt;Guardar estado como autorellenado&lt;/g2&gt;&lt;/l1&gt; esté marcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T112841Z" creationid="nenyavie" creationdate="20200225T112841Z">
