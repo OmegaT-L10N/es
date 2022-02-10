@@ -4278,6 +4278,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115536Z" creationid="Mari" creationdate="20220210T115536Z">
+        <seg>&lt;g0&gt;Problemas de ortografía&lt;/g0&gt; (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Start a new paragraph on&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T115500Z" creationid="Mari" creationdate="20211123T115216Z">
@@ -26769,6 +26777,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T123857Z" creationid="Mari" creationdate="20220125T123646Z">
         <seg>Solo se traducirá el archivo prueba.html en la raíz de la carpeta de archivos originales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220210T115556Z" creationid="Mari" creationdate="20220210T115556Z">
+        <seg>Solo funciona si hay un diccionario ortográfico instalado.</seg>
       </tuv>
     </tu>
     <tu>
