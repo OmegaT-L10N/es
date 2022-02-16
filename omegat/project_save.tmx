@@ -51177,8 +51177,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>undocks the pane from the main window</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181126T132054Z" creationid="eumeu" creationdate="20181126T132054Z">
-        <seg>desbloquea el panel desde la ventana principal</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220216T120807Z" creationid="eumeu" creationdate="20181126T132054Z">
+        <seg>desacopla el panel de la ventana principal</seg>
       </tuv>
     </tu>
     <tu>
