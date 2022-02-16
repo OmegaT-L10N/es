@@ -25187,8 +25187,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T185653Z" creationid="eumeu" creationdate="20181115T234739Z">
-        <seg>Nota: el marcador de segmento muestra &lt;l0&gt;&lt;segment nnnn +yy more&gt; cuando el segmento no es único.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220216T123624Z" creationid="eumeu" creationdate="20181115T234739Z">
+        <seg>Nota: el marcador de segmento muestra &lt;l0&gt;&lt;segment nnnn +yy más&gt; cuando el segmento no es único.</seg>
       </tuv>
     </tu>
     <tu>
