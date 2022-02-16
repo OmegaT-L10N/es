@@ -48800,8 +48800,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T172427Z" creationid="eumeu" creationdate="20181115T221409Z">
-        <seg>reduce el panel de modo que solo se muestre su nombre en la parte inferior de la ventana</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220216T120623Z" creationid="eumeu" creationdate="20181115T221409Z">
+        <seg>minimiza el panel de modo que solo se muestre su nombre en la parte inferior de la ventana</seg>
       </tuv>
     </tu>
     <tu>
