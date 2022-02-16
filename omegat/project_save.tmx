@@ -16760,8 +16760,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220216T122103Z" creationid="eumeu" creationdate="20181115T230849Z">
-        <seg>Panel Glosario: los archivos soltados con extensiones de glosario conocidas (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) se copiarán en la carpeta&lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220216T122113Z" creationid="eumeu" creationdate="20181115T230849Z">
+        <seg>Panel Glosario: los archivos soltados con extensiones de glosario conocidas (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) se copiarán en la carpeta &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
