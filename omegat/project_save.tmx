@@ -12301,8 +12301,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T190246Z" creationid="eumeu" creationdate="20181115T235127Z">
-        <seg>Dependiendo del comportamiento de edición preferente, el campo de edición para el segmento no traducido puede estar vacío, contener el texto de origen o contener la traducción de la cadena más similar a la que se va a traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220216T123813Z" creationid="eumeu" creationdate="20181115T235127Z">
+        <seg>En función del comportamiento de edición que prefiera, el campo de edición para el segmento no traducido puede estar vacío, contener el texto original o contener la traducción de la cadena más similar a la que se va a traducir.</seg>
       </tuv>
     </tu>
     <tu>
