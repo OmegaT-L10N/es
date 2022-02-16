@@ -19150,6 +19150,14 @@ iniciar OmegaT con:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and delete with &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220216T124207Z" creationid="Mari" creationdate="20220216T124207Z">
+        <seg>Si desea que la traducción sea la misma que el texto original, solo tiene que dejar el campo de edición vacío eliminando todo el texto (seleccione todo con &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; y elimínelo con &lt;k3&gt;Supr&lt;/k3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T191012Z" creationid="eumeu" creationdate="20181115T235517Z">
