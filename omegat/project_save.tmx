@@ -43201,8 +43201,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When you move to another segment, the translation is validated and stored.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T190347Z" creationid="eumeu" creationdate="20181115T235201Z">
-        <seg>Al pasar a otro segmento, la traducción es validada y almacenada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220216T123848Z" creationid="eumeu" creationdate="20181115T235201Z">
+        <seg>Al pasar a otro segmento, se valida y almacena la traducción.</seg>
       </tuv>
     </tu>
     <tu>
