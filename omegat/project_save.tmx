@@ -21123,8 +21123,8 @@ the user license.</seg>
       <tuv lang="en">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T184723Z" creationid="eumeu" creationdate="20181115T232539Z">
-        <seg>Es el segmento que se visualiza en dos partes.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220216T122758Z" creationid="eumeu" creationdate="20181115T232539Z">
+        <seg>Es el segmento que se muestra en dos partes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37755,6 +37755,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T185113Z" creationid="eumeu" creationdate="20181115T233200Z">
         <seg>La parte superior está en el idioma de origen, en negrita con un color de fondo verde, la parte inferior es el campo de edición delimitado por un marcador: &lt;i0/&gt;el marcador es el &lt;l1&gt;&lt;segment nnn&gt;&lt;/l1&gt; donde nnnn es un número de segmento en el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220216T123251Z" creationid="Mari" creationdate="20220216T123251Z">
+        <seg>La parte superior está en el idioma de origen, en negrita con un color de fondo verde, la parte inferior es el campo de edición, que termina con un marcador. El marcador es &lt;l0&gt;&lt;segment nnn&gt;&lt;/l0&gt;, donde nnnn es el número de segmento en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
