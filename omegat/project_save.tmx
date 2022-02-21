@@ -37321,8 +37321,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T155854Z" creationid="taty" creationdate="20181205T155854Z">
-        <seg>La coincidencia fuzzy seleccionada estas subrayada en negrita, las palabras que faltan en el segmento que se están traduciendo son de color azul y las palabras adyacentes a las partes faltantes son de color verde.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154638Z" creationid="taty" creationdate="20181205T155854Z">
+        <seg>La coincidencia aproximada seleccionada está destacada en negrita, las palabras que faltan en el segmento que se está traduciendo son de color azul y las palabras adyacentes a las partes ausentes son de color verde.</seg>
       </tuv>
     </tu>
     <tu>
