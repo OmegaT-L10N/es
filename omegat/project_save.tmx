@@ -19079,8 +19079,8 @@ es usar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T193410Z" creationid="eumeu" creationdate="20181130T181330Z">
-        <seg>Pulsando el botón derecho en el panel Editor, se abre un menú emergente que ofrece las funciones:&lt;e0&gt; Cortar, Copiar, Pegar&lt;/e0&gt; (es decir, las mismas funciones que &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; y &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Ir al segmento&lt;/e10&gt; y &lt;e11&gt;Agregar entrada de glosario&lt;/e11&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T151838Z" creationid="eumeu" creationdate="20181130T181330Z">
+        <seg>Pulsando el botón derecho en el panel Editor, se abre un menú emergente que ofrece las funciones:&lt;e0&gt; Cortar, Copiar, Pegar&lt;/e0&gt; (es decir, las mismas funciones que &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; y &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Ir al segmento&lt;/e10&gt; y &lt;e11&gt;Añadir término de glosario&lt;/e11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
