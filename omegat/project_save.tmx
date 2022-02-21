@@ -45410,6 +45410,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154134Z" creationid="Mari" creationdate="20220221T154134Z">
+        <seg>y sin considerar las etiquetas y los números (generalmente la más alta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T230445Z" creationid="hcartagena" creationdate="20200729T230445Z">
