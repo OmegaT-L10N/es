@@ -9195,8 +9195,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T145154Z" creationid="taty" creationdate="20181205T145154Z">
-        <seg>Por defecto, no es posible seleccionar palabras en el segmento de origen utilizando el teclado en lugar del ratón.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T152357Z" creationid="taty" creationdate="20181205T145154Z">
+        <seg>De manera predeterminada, no es posible seleccionar palabras en el segmento original utilizando el teclado en vez del ratón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21035,8 +21035,8 @@ the user license.</seg>
       <tuv lang="en">
         <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T144715Z" creationid="eumeu" creationdate="20181115T235940Z">
-        <seg>Es posible arrastrar un texto desde cualquier lugar de la ventana principal y soltarlo dentro del segmento.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T152319Z" creationid="eumeu" creationdate="20181115T235940Z">
+        <seg>Es posible arrastrar texto desde cualquier lugar de la ventana principal y soltarlo dentro del segmento.</seg>
       </tuv>
     </tu>
     <tu>
