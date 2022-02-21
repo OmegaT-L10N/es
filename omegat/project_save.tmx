@@ -49456,8 +49456,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>number of source and target characters in the current segment</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T183142Z" creationid="eumeu" creationdate="20181115T231545Z">
-        <seg>número de caractéres de origen y destino en el segmento actual</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T163417Z" creationid="eumeu" creationdate="20181115T231545Z">
+        <seg>número de caractéres del original y de la traducción en el segmento actual</seg>
       </tuv>
     </tu>
     <tu>
