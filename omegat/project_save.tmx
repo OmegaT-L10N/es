@@ -19987,8 +19987,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T151316Z" creationid="taty" creationdate="20181205T150815Z">
-        <seg>De esta forma, "&lt;g1&gt;Cursor desactivado&lt;/g1&gt;" se visualiza en la parte inferior del panel.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T152809Z" creationid="taty" creationdate="20181205T150815Z">
+        <seg>De esta forma, "&lt;g1&gt;Bloqueo del cursor desactivado&lt;/g1&gt;" se visualiza en la parte inferior del panel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28713,8 +28713,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T145829Z" creationid="taty" creationdate="20181205T145829Z">
-        <seg>Pulsando la tecla &lt;k0&gt;F2&lt;/k0&gt; se puede mover el cursor en el segmento de origen (o en cualquier parte del editor) con las flechas del teclado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T152435Z" creationid="taty" creationdate="20181205T145829Z">
+        <seg>Pulsando la tecla &lt;k0&gt;F2&lt;/k0&gt;, se puede mover el cursor en el segmento original (o en cualquier parte del editor) con las flechas del teclado.</seg>
       </tuv>
     </tu>
     <tu>
