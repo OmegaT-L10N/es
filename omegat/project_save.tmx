@@ -12499,6 +12499,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T160432Z" creationid="Mari" creationdate="20220221T160432Z">
+        <seg>Los diccionarios son la versión electrónica equivalente de los diccionarios impresos como MerriamWebsters, Duden, Larousse, etc. que podría tener en la estantería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T111633Z" creationid="Antonio" creationdate="20160125T152236Z">
