@@ -19859,8 +19859,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T160026Z" creationid="taty" creationdate="20181205T160026Z">
-        <seg>En el ejemplo de arriba, el segmento de origen es &lt;e0&gt;Comando de menú contextual&lt;/e0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154710Z" creationid="taty" creationdate="20181205T160026Z">
+        <seg>En el ejemplo de arriba, el segmento original es &lt;e0&gt;Comando de menú contextual&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
