@@ -31790,6 +31790,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T160513Z" creationid="Mari" creationdate="20220221T160513Z">
+        <seg>Puede consultar más información en el capítulo &lt;l0&gt;Diccionarios&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170912T182350Z" creationid="Cristina" creationdate="20170816T191259Z">
