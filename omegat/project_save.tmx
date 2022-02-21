@@ -25489,6 +25489,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T153456Z" creationid="Mari" creationdate="20220221T153456Z">
+        <seg>Si no hay coincidencia #5, la combinación &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; no tendrá ningún efecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T144753Z" creationid="taty" creationdate="20181116T144753Z">
