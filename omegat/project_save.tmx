@@ -31547,6 +31547,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;e4&gt;Translation editing&lt;/e4&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T151630Z" creationid="Mari" creationdate="20220221T151630Z">
+        <seg>Para más información, consulte &lt;e4&gt;Edición de la traducción&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T212532Z" creationid="Antonio" creationdate="20160329T212532Z">
