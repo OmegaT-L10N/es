@@ -50911,10 +50911,18 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154326Z" creationid="Mari" creationdate="20220221T154326Z">
+        <seg>el porcentaje calculado con texto completo, etiquetas y números (generalmente el más bajo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T154226Z" creationid="Mari" creationdate="20220221T154226Z">
-        <seg>el porcentaje calculado sin la lematización y sin considerar las etiquetas y los números (generalmente algo más baja)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154329Z" creationid="Mari" creationdate="20220221T154226Z">
+        <seg>el porcentaje calculado sin la lematización y sin considerar las etiquetas y los números (generalmente algo más bajo)</seg>
       </tuv>
     </tu>
     <tu>
