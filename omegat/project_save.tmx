@@ -36599,6 +36599,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T155001Z" creationid="Mari" creationdate="20220221T155001Z">
+        <seg>La línea con el porcentaje de coincidencia también incluye el nombre de la memoria de traducción que contiene la coincidencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211228T121425Z" creationid="Mari" creationdate="20211228T121425Z">
