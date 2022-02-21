@@ -50911,6 +50911,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154226Z" creationid="Mari" creationdate="20220221T154226Z">
+        <seg>el porcentaje calculado sin la lematización y sin considerar las etiquetas y los números (generalmente algo más baja)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the project-specific filters definition - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T085312Z" creationid="Antonio" creationdate="20160125T085312Z">
