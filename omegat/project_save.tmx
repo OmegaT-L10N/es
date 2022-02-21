@@ -37471,6 +37471,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T155611Z" creationid="Mari" creationdate="20220221T155611Z">
+        <seg>El segmento original en el ejemplo de abajo era "&lt;e0&gt;Comando de menú contextual&lt;/e0&gt;", como en el ejemplo de Coincidencias proximadas anterior, y los términos mostrados se encontraron en los glosarios, disponibles (Colección de términos de Microsoft y Glosario del grupo de usuarios de Linux de Eslovenia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T144128Z" creationid="Antonio" creationdate="20160330T144128Z">
