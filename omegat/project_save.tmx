@@ -40086,6 +40086,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; to replace the target field with the match or use &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T153823Z" creationid="Mari" creationdate="20220221T153823Z">
+        <seg>Para utilizar la coincidencia seleccionada en la traducción, pulse &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; para reemplazar el campo de la traducción por la coincidencia o pulse &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt; para insertarlo en la posición del cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script you must first install Kaptain.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T215913Z" creationid="hcartagena" creationdate="20200729T215913Z">
