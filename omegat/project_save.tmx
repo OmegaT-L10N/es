@@ -21041,6 +21041,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154456Z" creationid="Mari" creationdate="20220221T154456Z">
+        <seg>Es posible modificar el orden de clasificación de los tres porcentajes, pero no el que se utiliza para seleccionar las coincidencias aproximadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T212259Z" creationid="Antonio" creationdate="20160329T212259Z">
@@ -45412,8 +45420,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>and ignoring tags and numbers (generally the highest)</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T154134Z" creationid="Mari" creationdate="20220221T154134Z">
-        <seg>y sin considerar las etiquetas y los números (generalmente la más alta)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154337Z" creationid="Mari" creationdate="20220221T154134Z">
+        <seg>y sin considerar las etiquetas y los números (generalmente el más alto)</seg>
       </tuv>
     </tu>
     <tu>
