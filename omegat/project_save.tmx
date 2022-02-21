@@ -34972,8 +34972,8 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
       <tuv lang="en">
         <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T144936Z" creationid="taty" creationdate="20181205T144936Z">
-        <seg>El text arrastrado desde fuera del segmento de destino se copia mientras que el texto arrastrado desde dentro del segmento se mueve.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T152307Z" creationid="taty" creationdate="20181205T144936Z">
+        <seg>El texto arrastrado desde fuera del segmento traducido se copia, mientras que el texto arrastrado desde dentro del segmento se mueve.</seg>
       </tuv>
     </tu>
     <tu>
