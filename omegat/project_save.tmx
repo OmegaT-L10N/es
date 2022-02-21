@@ -6127,6 +6127,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given source segment may require several different translations, depending on the context.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T160809Z" creationid="Mari" creationdate="20220221T160809Z">
+        <seg>Un segmento original concreto puede necesitar varias traducciones en función del contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T191701Z" creationid="Mari" creationdate="20211124T191701Z">
