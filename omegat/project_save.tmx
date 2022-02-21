@@ -19859,8 +19859,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T154710Z" creationid="taty" creationdate="20181205T160026Z">
-        <seg>En el ejemplo de arriba, el segmento original es &lt;e0&gt;Comando de menú contextual&lt;/e0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T155628Z" creationid="taty" creationdate="20181205T160026Z">
+        <seg>En el ejemplo de arriba, el segmento original es &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37473,8 +37473,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T155611Z" creationid="Mari" creationdate="20220221T155611Z">
-        <seg>El segmento original en el ejemplo de abajo era "&lt;e0&gt;Comando de menú contextual&lt;/e0&gt;", como en el ejemplo de Coincidencias proximadas anterior, y los términos mostrados se encontraron en los glosarios, disponibles (Colección de términos de Microsoft y Glosario del grupo de usuarios de Linux de Eslovenia).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T155825Z" creationid="Mari" creationdate="20220221T155611Z">
+        <seg>El segmento original en el ejemplo de abajo era "&lt;e0&gt;Context menu command&lt;/e0&gt;", como en el ejemplo de las coincidencias aproximadas anterior, y los términos mostrados se encontraron en los glosarios disponibles (Colección de términos de Microsoft y Glosario del grupo de usuarios de Linux de Eslovenia).</seg>
       </tuv>
     </tu>
     <tu>
