@@ -33214,6 +33214,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T161506Z" creationid="Mari" creationdate="20220221T161506Z">
+        <seg>Algunos formatos de archivo, especializados en trabajos de traducción, por ejemplo PO, permiten incluir comentarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T191329Z" creationid="hcartagena" creationdate="20151117T191329Z">
