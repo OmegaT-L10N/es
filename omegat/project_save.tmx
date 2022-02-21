@@ -16248,8 +16248,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151126T153023Z" creationid="Antonio" creationdate="20151126T153023Z">
-        <seg>De la memoria 100%</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154807Z" creationid="Antonio" creationdate="20151126T153023Z">
+        <seg>De la memoria 100 %</seg>
       </tuv>
     </tu>
     <tu>
@@ -33088,8 +33088,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181211T094359Z" creationid="taty" creationdate="20181205T160457Z">
-        <seg>Así las dos coincidencias siguientes y la coincidencia #4 es similar pero diferente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154921Z" creationid="taty" creationdate="20181205T160457Z">
+        <seg>También las dos coincidencias siguientes y la coincidencia #4 es similar pero diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37729,8 +37729,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The top match is 100%, because all words match.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T160112Z" creationid="taty" creationdate="20181205T160112Z">
-        <seg>La coincidencia mayor es del 100%, porque todas las palabras coinciden.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T154830Z" creationid="taty" creationdate="20181205T160112Z">
+        <seg>La coincidencia mayor es del 100 % porque todas las palabras coinciden.</seg>
       </tuv>
     </tu>
     <tu>
