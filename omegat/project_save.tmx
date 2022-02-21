@@ -18561,8 +18561,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T162203Z" creationid="taty" creationdate="20181205T162203Z">
-        <seg>Si no se visualiza el nombre del archivo, la fuente es la memoria de traducción interna del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T155032Z" creationid="taty" creationdate="20181205T162203Z">
+        <seg>Si no se visualiza el nombre del archivo, el origen es la memoria de traducción interna del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27473,6 +27473,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151117T142220Z" creationid="hcartagena" creationdate="20151117T142220Z">
         <seg>Segmentos huérfanos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T155141Z" creationid="Mari" creationdate="20220221T155141Z">
+        <seg>Los segmentos huérfanos (coincidencia #2) describen los segmentos en la memoria de traducción predeterminada del proyecto que no tienen un segmento original correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
