@@ -39511,8 +39511,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T151457Z" creationid="taty" creationdate="20181205T150839Z">
-        <seg>Para volver al modo estándar "&lt;g2&gt;Cursor activado&lt;/g2&gt;", pulse de nuevo &lt;k3&gt;F2&lt;/k3&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T152857Z" creationid="taty" creationdate="20181205T150839Z">
+        <seg>Para volver al modo estándar "&lt;g2&gt;Bloqueo del cursor activado&lt;/g2&gt;", pulse de nuevo &lt;k3&gt;F2&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
