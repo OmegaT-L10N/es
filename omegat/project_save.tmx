@@ -37177,8 +37177,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181204T183830Z" creationid="eumeu" creationdate="20181115T231903Z">
-        <seg>El proyecto en el ejemplo está evidentemente terminado, ya que se han traducido todos los segmentos únicos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T163557Z" creationid="eumeu" creationdate="20181115T231903Z">
+        <seg>El proyecto del ejemplo está evidentemente terminado, ya que se han traducido todos los segmentos únicos.</seg>
       </tuv>
     </tu>
     <tu>
