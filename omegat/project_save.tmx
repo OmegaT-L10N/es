@@ -44216,6 +44216,14 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T160246Z" creationid="Mari" creationdate="20220221T160246Z">
+        <seg>También puede resaltar la alternativa que prefiera en el panel del glosario e insertarla en el segmento traducido haciendo clic con el botón derecho del ratón en la selección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T121952Z" creationid="nenyavie" creationdate="20200226T122044Z">
