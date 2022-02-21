@@ -39331,6 +39331,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T161619Z" creationid="Mari" creationdate="20220221T161619Z">
+        <seg>De esta forma, se puede proporcionar contexto del segmento que se va a traducir al traductor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This web site</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T154643Z" creationid="Cristina" creationdate="20170917T154643Z">
