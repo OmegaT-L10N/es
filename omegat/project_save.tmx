@@ -37665,8 +37665,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181206T161019Z" creationid="eumeu" creationdate="20181116T131603Z">
-        <seg>La barra de estado visualiza mensajes relacionados con el flujo de trabajo en la parte inferior de la ventana principal.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T161848Z" creationid="eumeu" creationdate="20181116T131603Z">
+        <seg>La barra de estado muestra mensajes relacionados con el flujo de trabajo en la parte inferior de la ventana principal.</seg>
       </tuv>
     </tu>
     <tu>
