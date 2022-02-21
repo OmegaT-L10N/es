@@ -19905,6 +19905,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T161821Z" creationid="Mari" creationdate="20220221T161821Z">
+        <seg>En el ejemplo de abajo, el autor del archivo PO incluyó una advertencia para que el traductor comprobara la longitud de la traducción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T123251Z" creationid="Antonio" creationdate="20160330T123251Z">
