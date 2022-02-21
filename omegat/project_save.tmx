@@ -21211,8 +21211,8 @@ the user license.</seg>
       <tuv lang="en">
         <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T190625Z" creationid="eumeu" creationdate="20181116T155113Z">
-        <seg>Esto muestra la traducción de términos encontrados en el segmento actual.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T155249Z" creationid="eumeu" creationdate="20181116T155113Z">
+        <seg>Muestra la traducción de términos encontrados en el segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35279,8 +35279,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181206T160051Z" creationid="eumeu" creationdate="20181116T155256Z">
-        <seg>El panel Glosario permite acceder a la propia colección de expresiones y terminología especializada, que se han creado en sus archivos de glosario.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T155233Z" creationid="eumeu" creationdate="20181116T155256Z">
+        <seg>El panel Glosario permite acceder a la colección de expresiones y terminología especializada que se han creado en sus archivos de glosario.</seg>
       </tuv>
     </tu>
     <tu>
