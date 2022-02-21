@@ -37719,6 +37719,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T161015Z" creationid="Mari" creationdate="20220221T161015Z">
+        <seg>El textro traducido introducido después se tratará como traducción alternativa del segmento original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151125T011334Z" creationid="Víctor Parra" creationdate="20151125T011334Z">
@@ -44418,6 +44426,14 @@ para enlazarlo desde allí.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T121927Z" creationid="hcartagena" creationdate="20200729T211856Z">
         <seg>Puede definir pares clave-valor para las etiquetas que se deben dejar sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;m3&gt;&lt;g4&gt;Edit&lt;/g4&gt;&lt;g5&gt;Use as Default Translation&lt;/g5&gt;&lt;/m3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T161157Z" creationid="Mari" creationdate="20220221T161157Z">
+        <seg>Puede definir una de las alternativas, por ejemplo, la más probable entre ellas, como traducción predeterminada seleccionando &lt;m3&gt;&lt;g4&gt;Editar&lt;/g4&gt;&lt;g5&gt;Utilizar como traducción predeterminada&lt;/g5&gt;&lt;/m3&gt;</seg>
       </tuv>
     </tu>
     <tu>
