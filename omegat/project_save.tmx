@@ -32358,6 +32358,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T160142Z" creationid="Mari" creationdate="20220221T160142Z">
+        <seg>Al seleccionar uno de ellos, se insertará en la posición actual del cursor en el segmento traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T175751Z" creationid="Cristina" creationdate="20170916T175751Z">
