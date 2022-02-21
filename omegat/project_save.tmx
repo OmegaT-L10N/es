@@ -6129,8 +6129,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T160809Z" creationid="Mari" creationdate="20220221T160809Z">
-        <seg>Un segmento original concreto puede necesitar varias traducciones en función del contexto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220221T160825Z" creationid="Mari" creationdate="20220221T160809Z">
+        <seg>Un segmento original concreto puede necesitar varias traducciones según el contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18402,6 +18402,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220202T162309Z" creationid="Mari" creationdate="20220202T162309Z">
         <seg>Si el segmento actual es el último de un archivo, le lleva al primer segmento del siguiente archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Create Alternative Translation&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T160931Z" creationid="Mari" creationdate="20220221T160931Z">
+        <seg>Si la traducción actual del segmento no es adecuada, puede seleccionar &lt;m0&gt;&lt;g1&gt;Editar&lt;/g1&gt;&lt;g2&gt;Crear traducción alternativa&lt;/g2&gt;&lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
