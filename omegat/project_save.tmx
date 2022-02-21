@@ -37855,6 +37855,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T161317Z" creationid="Mari" creationdate="20220221T161317Z">
+        <seg>El traductor puede añadir notas al segmento abierto, por ejemplo, para volver más tarde al segmento y volver a traducirlo, comprobar que las traducciones alternativas son correctas o pedir la opinión de sus colegas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T202931Z" creationid="Mari" creationdate="20211129T202931Z">
@@ -44322,6 +44330,14 @@ para enlazarlo desde allí.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T195202Z" creationid="Mari" creationdate="20211129T195202Z">
         <seg>Puede solicitar ayuda al grupo de usuarios si tiene problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can browse through notes using &lt;m0&gt;&lt;g1&gt;GoTo&lt;/g1&gt;&lt;g2&gt;Next Note&lt;/g2&gt;&lt;/m0&gt; and &lt;m3&gt;&lt;g4&gt;GoTo&lt;/g4&gt;&lt;g5&gt;Previous Note&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T161412Z" creationid="Mari" creationdate="20220221T161412Z">
+        <seg>Puede navegar por las notas mediante el comando &lt;m0&gt;&lt;g1&gt;Ir a&lt;/g1&gt;&lt;g2&gt;Nota siguiente&lt;/g2&gt;&lt;/m0&gt; y &lt;m3&gt;&lt;g4&gt;Ir a&lt;/g4&gt;&lt;g5&gt;Nota anterior&lt;/g5&gt;&lt;/m3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
