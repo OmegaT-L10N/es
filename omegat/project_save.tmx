@@ -18874,6 +18874,14 @@ configuración para que muestre la extensión de los archivos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have TransTips option activated (&lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;TransTips&lt;/g2&gt;&lt;/m0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220221T160039Z" creationid="Mari" creationdate="20220221T160039Z">
+        <seg>Si tiene activada la opción Consejos de traducción (&lt;m0&gt;&lt;g1&gt;Opciones&lt;/g1&gt;&lt;g2&gt;Consejos de traducción&lt;/g2&gt;&lt;/m0&gt;), puede hacer clic con el botón derecho del ratón sobre la palabra resaltada en el segmento original para abrir un menú emergente con la traducción sugerida, tal y como la ofrece el glosario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211229T121211Z" creationid="Mari" creationdate="20211229T121211Z">
