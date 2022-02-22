@@ -21257,6 +21257,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T103940Z" creationid="Mari" creationdate="20220222T103940Z">
+        <seg>Puede ocurrir que las memorias de traducción, disponibles en la subcarpeta &lt;f0&gt;tm&lt;/f0&gt;, contengan segmentos con texto original idéntico pero con traducciones diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T120235Z" creationid="Mari" creationdate="20220113T120235Z">
