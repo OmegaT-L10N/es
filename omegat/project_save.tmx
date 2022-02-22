@@ -25089,6 +25089,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T102320Z" creationid="Mari" creationdate="20220222T102320Z">
+        <seg>Tenga en cuenta que otras herramientas CAT pueden exportar (e importar) archivos tmx, normalmente en las tres formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T120442Z" creationid="eumeu" creationdate="20181116T151428Z">
