@@ -25137,6 +25137,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the TMX files in the &lt;f0&gt;tm&lt;/f0&gt; folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T104535Z" creationid="Mari" creationdate="20220222T104535Z">
+        <seg>Tenga en cuenta que los archivos TMX de la carpeta &lt;f0&gt;tm&lt;/f0&gt; pueden comprimirse con gzip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T214022Z" creationid="Antonio" creationdate="20160124T214022Z">
@@ -51291,6 +51299,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220222T101740Z" creationid="Mari" creationdate="20220222T101740Z">
         <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T104543Z" creationid="Mari" creationdate="20220222T104543Z">
+        <seg>tm/auto</seg>
       </tuv>
     </tu>
     <tu>
