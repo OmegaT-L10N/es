@@ -17420,6 +17420,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T095823Z" creationid="Mari" creationdate="20220222T095823Z">
+        <seg>[fuzzy]Guías</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T000350Z" creationid="hcartagena" creationdate="20200730T000350Z">
