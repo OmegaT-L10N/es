@@ -34464,6 +34464,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T104113Z" creationid="Mari" creationdate="20220222T104113Z">
+        <seg>Los archivos TMX se leen ordenados por nombre y los segmentos dentro de un archivo TMX concreto se leen línea por línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T153827Z" creationid="Cristina" creationdate="20170917T153827Z">
