@@ -41654,8 +41654,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T145729Z" creationid="Antonio" creationdate="20160330T145729Z">
-        <seg>De esta manera los segmentos sin traducir se conservarán en el idioma original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220222T101735Z" creationid="Antonio" creationdate="20160330T145729Z">
+        <seg>De esta manera, los segmentos sin traducir se conservarán en el idioma de origen.</seg>
       </tuv>
     </tu>
     <tu>
