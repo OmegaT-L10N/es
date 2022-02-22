@@ -18488,8 +18488,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T144424Z" creationid="Antonio" creationdate="20160330T144424Z">
-        <seg>Si los archivos que se van a traducir son partes de a estructura de árbol (por ejemplo, un sitio web), sólo tiene que especificar el subdirectorio de nivel superior y OmegaT realizará el mantenimiento de todo el contenido, a la vez que mantiene intacta de árbol.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220222T101331Z" creationid="Antonio" creationdate="20160330T144424Z">
+        <seg>Si los archivos que se van a traducir son partes de una estructura de árbol (por ejemplo, un sitio web), solo tiene que especificar la subcarpeta de nivel superior y OmegaT conservará todo el contenido, a la vez que mantiene intacta la estructura de árbol.</seg>
       </tuv>
     </tu>
     <tu>
