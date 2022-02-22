@@ -7527,6 +7527,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T100903Z" creationid="Mari" creationdate="20220222T100903Z">
+        <seg>Un proyecto de OmegaT es una carpeta que contine archivos y subcarpetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T190254Z" creationid="Mari" creationdate="20211124T190254Z">
@@ -50739,6 +50747,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155125Z" creationid="Antonio" creationdate="20151128T155125Z">
         <seg>sot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T100909Z" creationid="Mari" creationdate="20220222T100909Z">
+        <seg>source</seg>
       </tuv>
     </tu>
     <tu>
