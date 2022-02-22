@@ -15982,6 +15982,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with &lt;e3&gt;[fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T103721Z" creationid="Mari" creationdate="20220222T103721Z">
+        <seg>Por ejemplo (si se acepta la opción predeterminada), se acepta la traducción de la TM auxiliar y se marca con el prefijo &lt;e3&gt;[fuzzy]&lt;/e3&gt; para que el traductor pueda revisar las traducciones en una fase posterior y comprobar si los segmentos con esta etiqueta se han traducido correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T183546Z" creationid="Antonio" creationdate="20160316T183546Z">
