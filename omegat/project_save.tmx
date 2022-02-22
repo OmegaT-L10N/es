@@ -7847,6 +7847,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T103226Z" creationid="Mari" creationdate="20220222T103226Z">
+        <seg>Todo el texto ya traducido y almacenado en esos archivos aparecerá entre las coincidencias aproximadas si es lo suficientemente similar al texto que se está traduciendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160121T094956Z" creationid="Helli" creationdate="20150603T151512Z">
