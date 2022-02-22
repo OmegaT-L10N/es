@@ -36765,6 +36765,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T104458Z" creationid="Mari" creationdate="20220222T104458Z">
+        <seg>Por tanto, prevalecerá el último segmento con el mismo texto original (nota: obviamente, tiene más sentido evitar que esto ocurra en primer lugar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T195525Z" creationid="Mari" creationdate="20211129T195525Z">
