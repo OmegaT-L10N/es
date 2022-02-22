@@ -36018,6 +36018,14 @@ configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T101704Z" creationid="Mari" creationdate="20220222T101704Z">
+        <seg>El contenido de la subcarpeta target reflejará el estado actual de la traducción, tal y como aparece en la memoria de traducción del proyecto, guardada en el archivo &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The control character corresponding to x</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T191952Z" creationid="nenyavie" creationdate="20200225T133629Z">
