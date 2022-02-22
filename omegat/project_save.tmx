@@ -35277,6 +35277,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;tm&lt;/f0&gt; folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T101937Z" creationid="Mari" creationdate="20220222T101937Z">
+        <seg>La carpeta &lt;f0&gt;tm&lt;/f0&gt; puede contener cualquier número de memorias de traducción auxiliares, es decir, archivos tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223339Z" creationid="hcartagena" creationdate="20151201T223339Z">
@@ -51195,6 +51203,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155502Z" creationid="Antonio" creationdate="20151128T155449Z">
         <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T101740Z" creationid="Mari" creationdate="20220222T101740Z">
+        <seg>tm</seg>
       </tuv>
     </tu>
     <tu>
