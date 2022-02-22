@@ -34136,6 +34136,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such files can be created in any of the three varieties indicated above.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T102203Z" creationid="Mari" creationdate="20220222T102203Z">
+        <seg>Estos archivos pueden crearse en cualquiera de las tres variedades que se indican anteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160331T075546Z" creationid="Antonio" creationdate="20160331T075546Z">
