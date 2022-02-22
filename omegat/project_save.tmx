@@ -39325,8 +39325,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This subfolder is initially empty.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T144453Z" creationid="Antonio" creationdate="20160330T144453Z">
-        <seg>Esta carpeta está vacía recién creada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220222T101408Z" creationid="Antonio" creationdate="20160330T144453Z">
+        <seg>Al principio, esta subcarpeta está vacía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50947,6 +50947,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155234Z" creationid="Antonio" creationdate="20151128T155234Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T101335Z" creationid="Mari" creationdate="20220222T101335Z">
+        <seg>target</seg>
       </tuv>
     </tu>
     <tu>
