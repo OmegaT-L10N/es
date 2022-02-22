@@ -25123,8 +25123,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T144216Z" creationid="Antonio" creationdate="20160330T144216Z">
-        <seg>Tenga en cuenta que la estructura del subdirectorio 'source' puede decidirla usted por completo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220222T101035Z" creationid="Antonio" creationdate="20160330T144216Z">
+        <seg>Tenga en cuenta que la estructura de la subcarpeta source puede decidirla usted por completo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37577,8 +37577,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T144128Z" creationid="Antonio" creationdate="20160330T144128Z">
-        <seg>**El subdirectorio source almacena los archivos que se van a traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220222T100933Z" creationid="Antonio" creationdate="20160330T144128Z">
+        <seg>La subcarpeta source contiene los archivos que se van a traducir.</seg>
       </tuv>
     </tu>
     <tu>
