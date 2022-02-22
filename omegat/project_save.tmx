@@ -17422,8 +17422,8 @@ es que su invierno ha llegado</seg>
       <tuv lang="en">
         <seg>How To...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220222T095823Z" creationid="Mari" creationdate="20220222T095823Z">
-        <seg>[fuzzy]Guías</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220222T095845Z" creationid="Mari" creationdate="20220222T095823Z">
+        <seg>Guías</seg>
       </tuv>
     </tu>
     <tu>
@@ -29197,6 +29197,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T195055Z" creationid="Antonio" creationdate="20160316T195055Z">
         <seg>**Los archivos del proyecto son los archivos más importantes en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T095902Z" creationid="Mari" creationdate="20220222T095902Z">
+        <seg>Carpeta del proyecto</seg>
       </tuv>
     </tu>
     <tu>
