@@ -18573,6 +18573,14 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220222T103508Z" creationid="Mari" creationdate="20220222T103508Z">
+        <seg>Si el segmento original de una de las TM auxiliares es idéntico al texto que se está traduciendo, OmegaT actúa como se define en la ventana de diálogo &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Comportamiento de la edición…&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Incorrect path</note>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
