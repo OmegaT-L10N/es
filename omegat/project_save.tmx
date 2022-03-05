@@ -19036,6 +19036,14 @@ es usar Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt; to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124138Z" creationid="Mari" creationdate="20220305T124138Z">
+        <seg>Si no tiene ninguna duda de que una TMX es más precisa que la &lt;f0&gt;project_save.tmx&lt;/f0&gt; de OmegaT, ponga esta TMX en &lt;f1&gt;tm/enforce&lt;/f1&gt; para sobrescribir incondicionalmente las traducciones por defecto existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T131319Z" creationid="Mari" creationdate="20220207T131319Z">
@@ -51363,6 +51371,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220222T104543Z" creationid="Mari" creationdate="20220222T104543Z">
         <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124007Z" creationid="Mari" creationdate="20220305T124007Z">
+        <seg>tm/enforce</seg>
       </tuv>
     </tu>
     <tu>
