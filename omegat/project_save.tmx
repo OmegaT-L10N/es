@@ -39331,6 +39331,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T123727Z" creationid="Mari" creationdate="20220305T123727Z">
+        <seg>Esta operación modifica &lt;f0&gt;project_save.tmx&lt;/f0&gt; (añadiendo unidades de traducción apropiadas de la TMX "automática").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T164109Z" creationid="eumeu" creationdate="20181116T133209Z">
