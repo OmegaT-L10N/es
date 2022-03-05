@@ -25297,6 +25297,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: if TMX is removed from &lt;f0&gt;tm/auto&lt;/f0&gt; before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124000Z" creationid="Mari" creationdate="20220305T124000Z">
+        <seg>Nota: si se elimina la TMX de la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt; antes del paso 3, no se añadirá ninguna unidad de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T213158Z" creationid="hcartagena" creationdate="20151119T213158Z">
