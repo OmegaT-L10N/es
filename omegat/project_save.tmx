@@ -18647,6 +18647,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124925Z" creationid="Mari" creationdate="20220305T124925Z">
+        <seg>Si &lt;e0&gt;no necesitan&lt;/e0&gt; ser protegidos de más cambios, elimine la TMX de la carpeta &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T123410Z" creationid="nenyavie" creationdate="20200226T123410Z">
