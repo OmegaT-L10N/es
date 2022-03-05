@@ -27277,6 +27277,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T123337Z" creationid="Mari" creationdate="20220305T123337Z">
+        <seg>Abra el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181116T000544Z" creationid="eumeu" creationdate="20181116T000544Z">
