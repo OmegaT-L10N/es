@@ -19038,8 +19038,8 @@ es usar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt; to overwrite existing default translations unconditionally.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220305T124138Z" creationid="Mari" creationdate="20220305T124138Z">
-        <seg>Si no tiene ninguna duda de que una TMX es más precisa que la &lt;f0&gt;project_save.tmx&lt;/f0&gt; de OmegaT, ponga esta TMX en &lt;f1&gt;tm/enforce&lt;/f1&gt; para sobrescribir incondicionalmente las traducciones por defecto existentes.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124341Z" creationid="Mari" creationdate="20220305T124138Z">
+        <seg>Si no tiene ninguna duda de que una TMX es más acertada que el archivo &lt;f0&gt;project_save.tmx&lt;/f0&gt; de OmegaT, ponga esta TMX en la carpeta &lt;f1&gt;tm/enforce&lt;/f1&gt; para sobrescribir las traducciones predeterminadas existentes sin restricciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39349,8 +39349,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220305T123727Z" creationid="Mari" creationdate="20220305T123727Z">
-        <seg>Esta operación modifica &lt;f0&gt;project_save.tmx&lt;/f0&gt; (añadiendo unidades de traducción apropiadas de la TMX "automática").</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124149Z" creationid="Mari" creationdate="20220305T123727Z">
+        <seg>Esta operación modifica el archivo &lt;f0&gt;project_save.tmx&lt;/f0&gt; (añadiendo unidades de traducción apropiadas de la TMX "automática").</seg>
       </tuv>
     </tu>
     <tu>
