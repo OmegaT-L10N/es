@@ -23096,6 +23096,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make decision about immunity of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124629Z" creationid="Mari" creationdate="20220305T124629Z">
+        <seg>Decida la inmunidad de los segmentos forzados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T164113Z" creationid="Antonio" creationdate="20160330T164113Z">
@@ -29549,6 +29557,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220305T123256Z" creationid="Mari" creationdate="20220305T123256Z">
         <seg>Ponga la TMX en la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124401Z" creationid="Mari" creationdate="20220305T124401Z">
+        <seg>Ponga la TMX en la carpeta &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39351,6 +39367,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220305T124149Z" creationid="Mari" creationdate="20220305T123727Z">
         <seg>Esta operación modifica el archivo &lt;f0&gt;project_save.tmx&lt;/f0&gt; (añadiendo unidades de traducción apropiadas de la TMX "automática").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T124427Z" creationid="Mari" creationdate="20220305T124427Z">
+        <seg>Esta operación modifica el archivo &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
