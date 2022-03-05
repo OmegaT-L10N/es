@@ -23080,6 +23080,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T123528Z" creationid="Mari" creationdate="20220305T123528Z">
+        <seg>Haga un pequeño cambio en cualquier punto del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T164113Z" creationid="Antonio" creationdate="20160330T164113Z">
