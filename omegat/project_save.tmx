@@ -29513,6 +29513,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220305T123256Z" creationid="Mari" creationdate="20220305T123256Z">
+        <seg>Ponga la TMX en la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pāli</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154621Z" creationid="Antonio" creationdate="20151128T154536Z">
