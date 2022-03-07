@@ -37263,6 +37263,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T192803Z" creationid="Mari" creationdate="20220307T192803Z">
+        <seg>La penalización se aplica a los tres porcentajes de coincidencias. Las coincidencias 75, 80 y 90 se reducirán en este caso a 45, 50 y 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
       <tuv lang="es" changeid="briac" changedate="20171102T112442Z" creationid="briac" creationdate="20171102T112442Z">
