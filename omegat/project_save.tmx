@@ -13551,8 +13551,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220307T193954Z" creationid="Antonio" creationdate="20160330T140147Z">
-        <seg>Durante la traducción, se pueden crear otros archivos adicionales en esta subcarpeta</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T194015Z" creationid="Antonio" creationdate="20160330T140147Z">
+        <seg>Durante la traducción, se pueden crear otros archivos adicionales en esta subcarpeta, como podemos ver a continuación:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45016,6 +45016,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T140933Z" creationid="Antonio" creationdate="20160330T140933Z">
         <seg>Puede consultarlas seleccionando &lt;g0&gt;Herramientas &gt; Estadísticas&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can view it by selecting &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Statistics&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T194156Z" creationid="Mari" creationdate="20220307T194156Z">
+        <seg>Puede consultarlas seleccionando &lt;m0&gt;&lt;g1&gt;Herramientas&lt;/g1&gt;&lt;g2&gt;Estadísticas&lt;/g2&gt;&lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
