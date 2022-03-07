@@ -16184,8 +16184,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220307T192659Z" creationid="Mari" creationdate="20220307T192659Z">
-        <seg>Para las memorias de traducción en carpetas con el nombre &lt;f0&gt;penalty-xxx&lt;/f0&gt; (xxx entre 0 y 100), las coincidencias se reducirán según el nombre de la carpeta: una coincidencia del 100 % en cualquiera de las MT que se encuentren en una carpeta llamada &lt;f1&gt;penalty-30&lt;/f1&gt; por ejemplo, se reducirá a una coincidencia del 70 %.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T192847Z" creationid="Mari" creationdate="20220307T192659Z">
+        <seg>Para las memorias de traducción en carpetas con el nombre &lt;f0&gt;penalty-xxx&lt;/f0&gt; (xxx entre 0 y 100), las coincidencias se reducirán según el nombre de la carpeta: una coincidencia del 100 % en cualquiera de las MT que se encuentren en una carpeta llamada &lt;f1&gt;penalty-30&lt;/f1&gt;, por ejemplo, se reducirá a una coincidencia del 70 %.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20291,8 +20291,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T134342Z" creationid="Antonio" creationdate="20160330T134342Z">
-        <seg>En el momento de crearla está vacía, pero almacenará los diccionarios que haya añadido al proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T192931Z" creationid="Antonio" creationdate="20160330T134342Z">
+        <seg>En el momento de crearla, la carpeta está vacía, pero almacenará los diccionarios que haya añadido al proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31811,6 +31811,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193013Z" creationid="Mari" creationdate="20220307T193013Z">
+        <seg>Consulte el capítulo &lt;l0&gt;Diccionarios&lt;/l0&gt; para obtener más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T123554Z" creationid="Mari" creationdate="20220207T123554Z">
@@ -39085,8 +39093,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T134505Z" creationid="Antonio" creationdate="20160330T134505Z">
-        <seg>Esta carpeta está vacía recién creada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193131Z" creationid="Antonio" creationdate="20160330T134505Z">
+        <seg>Al principio, esta carpeta está vacía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47295,6 +47303,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144303Z" creationid="Antonio" creationdate="20151128T144303Z">
         <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193017Z" creationid="Mari" creationdate="20220307T193017Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
