@@ -35469,6 +35469,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;omegat&lt;/f0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193422Z" creationid="Mari" creationdate="20220307T193422Z">
+        <seg>La subcarpeta &lt;f0&gt;omegat&lt;/f0&gt; contiene al menos un archivo y, posiblemente, varios más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;tm&lt;/f0&gt; folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220222T101937Z" creationid="Mari" creationdate="20220222T101937Z">
@@ -37147,6 +37155,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T135827Z" creationid="Antonio" creationdate="20160330T135827Z">
         <seg>**El archivo más importante aquí es el denominado &lt;e3&gt;project_save.tmx&lt;/e3&gt;, que es la memoria de traducción con el cual trabaja el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx&lt;/f1&gt;, that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193624Z" creationid="Mari" creationdate="20220307T193624Z">
+        <seg>El archivo más importante aquí es &lt;f1&gt;&gt;project_save.tmx&lt;/f1&gt;, que es la memoria de traducción con la que trabaja el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
