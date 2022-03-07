@@ -6671,6 +6671,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T200303Z" creationid="Mari" creationdate="20220307T200303Z">
+        <seg>Active la opción "Mostrar archivos ocultos" para hacerla visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T184350Z" creationid="Antonio" creationdate="20151126T154512Z">
@@ -19901,6 +19909,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001017Z" creationid="hcartagena" creationdate="20200730T001017Z">
         <seg>En algunos temas, hay un grado mayor de coordinación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195908Z" creationid="Mari" creationdate="20220307T195908Z">
+        <seg>En algunos sistemas operativos, esta carpeta no se muestra de manera predeterminada.</seg>
       </tuv>
     </tu>
     <tu>
