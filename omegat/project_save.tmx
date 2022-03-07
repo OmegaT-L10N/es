@@ -44916,6 +44916,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195828Z" creationid="Mari" creationdate="20220307T195828Z">
+        <seg>Puede hacer cambios en archivos remotos (por ejemplo, eliminar un archivo) utilizando esta carpeta y un cliente Git o SVN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T174950Z" creationid="Mari" creationdate="20220112T174833Z">
