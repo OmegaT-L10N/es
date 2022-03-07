@@ -33438,6 +33438,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T192243Z" creationid="Mari" creationdate="20220307T192243Z">
+        <seg>A veces, es útil distinguir entre las memorias de traducción de alta calidad y las que, por el tema, el cliente, el estado de revisión, etc., son menos fiables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="es" changeid="briac" changedate="20171102T112600Z" creationid="briac" creationdate="20171102T112505Z">
@@ -51451,6 +51459,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220307T191432Z" creationid="Mari" creationdate="20220307T191432Z">
         <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T192031Z" creationid="Mari" creationdate="20220307T192031Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
