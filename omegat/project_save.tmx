@@ -48388,10 +48388,26 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195043Z" creationid="Mari" creationdate="20220307T195043Z">
+        <seg>si existen, contiene los filtros de archivo específicos del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T143921Z" creationid="Antonio" creationdate="20160330T143802Z">
         <seg>si existe, contiene las reglas de segmentación específicas de proyecto, si previamente se han solicitado en &lt;g0&gt;Proyecto &gt; Propiedades...&lt;/g0&gt;Consulte el &lt;l1&gt;Capítulo Propiedades del proyecto&lt;/l1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T194943Z" creationid="Mari" creationdate="20220307T194943Z">
+        <seg>si existe, contiene las reglas de segmentación específicas del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
