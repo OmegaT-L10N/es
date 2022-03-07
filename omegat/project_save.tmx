@@ -16182,6 +16182,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T192659Z" creationid="Mari" creationdate="20220307T192659Z">
+        <seg>Para las memorias de traducción en carpetas con el nombre &lt;f0&gt;penalty-xxx&lt;/f0&gt; (xxx entre 0 y 100), las coincidencias se reducirán según el nombre de la carpeta: una coincidencia del 100 % en cualquiera de las MT que se encuentren en una carpeta llamada &lt;f1&gt;penalty-30&lt;/f1&gt; por ejemplo, se reducirá a una coincidencia del 70 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T180209Z" creationid="Antonio" creationdate="20151127T180209Z">
