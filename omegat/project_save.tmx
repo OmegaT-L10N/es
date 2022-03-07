@@ -8630,8 +8630,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T140013Z" creationid="Antonio" creationdate="20160330T140013Z">
-        <seg>A este directorio se añaden progresivamente (con la extensión bak) las copias de seguridad de este archivo, primero al principio de la sesión de traducción, a su final, y durante el proceso de traducción.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193855Z" creationid="Antonio" creationdate="20160330T140013Z">
+        <seg>A esta subcarpeta se añaden progresivamente las copias de seguridad de este archivo (con la extensión bak), primero al inicio de la sesión de traducción, al final de esta y durante el proceso.</seg>
       </tuv>
     </tu>
     <tu>
