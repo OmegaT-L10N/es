@@ -46554,6 +46554,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T192815Z" creationid="Mari" creationdate="20220307T192815Z">
+        <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T123958Z" creationid="Mari" creationdate="20220125T123958Z">
