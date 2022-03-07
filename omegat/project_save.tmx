@@ -41260,6 +41260,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Troubleshooting</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T200310Z" creationid="Mari" creationdate="20220307T200310Z">
+        <seg>Resolución de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Troubleshooting checklist</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T165100Z" creationid="taty" creationdate="20181109T165100Z">
@@ -43970,6 +43978,14 @@ No se encontró la página</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T154808Z" creationid="Antonio" creationdate="20160330T154808Z">
         <seg>Windows Vista y 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T200402Z" creationid="Mari" creationdate="20220307T200402Z">
+        <seg>Ventanas y cuadros de diálogo</seg>
       </tuv>
     </tu>
     <tu>
