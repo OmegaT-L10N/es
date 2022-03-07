@@ -21381,8 +21381,8 @@ de la carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T135549Z" creationid="Antonio" creationdate="20160330T135549Z">
-        <seg>Contendrá los glosarios que vaya utilizando en el proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193159Z" creationid="Antonio" creationdate="20160330T135549Z">
+        <seg>Contendrá los glosarios que utilizará en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31815,6 +31815,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220307T193013Z" creationid="Mari" creationdate="20220307T193013Z">
         <seg>Consulte el capítulo &lt;l0&gt;Diccionarios&lt;/l0&gt; para obtener más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193253Z" creationid="Mari" creationdate="20220307T193253Z">
+        <seg>Consulte el capítulo &lt;l0&gt;Glosarios&lt;/l0&gt; para obtener más información.</seg>
       </tuv>
     </tu>
     <tu>
