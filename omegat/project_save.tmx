@@ -10839,8 +10839,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220307T195357Z" creationid="Mari" creationdate="20220307T195357Z">
-        <seg>Contiene los parámetros del proyecto definidos en el diálogo &lt;l0&gt;Propiedades del proyecto&lt;/l0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T200443Z" creationid="Mari" creationdate="20220307T195357Z">
+        <seg>Contiene los parámetros del proyecto definidos en el cuadro de diálogo &lt;l0&gt;Propiedades del proyecto&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
