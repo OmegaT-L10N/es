@@ -2526,6 +2526,14 @@ en modo de trabajo en grupo.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195413Z" creationid="Mari" creationdate="20220307T195413Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161538Z" creationid="Antonio" creationdate="20160330T161538Z">
@@ -19621,6 +19629,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T163339Z" creationid="Mari" creationdate="20211126T163339Z">
         <seg>De un modo similar al anterior, el usuario puede crear filtros de archivo específicos del proyecto, que se almacenarán con el proyecto y solo serán válidos para el proyecto actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195533Z" creationid="Mari" creationdate="20220307T195533Z">
+        <seg>En un proyecto de trabajo en grupo, esta carpeta contiene una copia versionada de la estructura de árbol del proyecto vinculada directamente al servidor remoto.</seg>
       </tuv>
     </tu>
     <tu>
