@@ -13551,8 +13551,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160330T140147Z" creationid="Antonio" creationdate="20160330T140147Z">
-        <seg>Durante la traducción se pueden crear otros archivos adicionales en este directorio</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T193954Z" creationid="Antonio" creationdate="20160330T140147Z">
+        <seg>Durante la traducción, se pueden crear otros archivos adicionales en esta subcarpeta</seg>
       </tuv>
     </tu>
     <tu>
