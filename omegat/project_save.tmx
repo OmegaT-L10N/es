@@ -19977,6 +19977,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T191741Z" creationid="Mari" creationdate="20220307T191741Z">
+        <seg>En el panel Editor, cuando se inserta una coincidencia desde una TMX contenida en una carpeta llamada &lt;f0&gt;mt&lt;/f0&gt;, el fondo del segmento activo cambia a rojo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220221T161821Z" creationid="Mari" creationdate="20220221T161821Z">
