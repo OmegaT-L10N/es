@@ -10821,6 +10821,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195357Z" creationid="Mari" creationdate="20220307T195357Z">
+        <seg>Contiene los parámetros del proyecto definidos en el diálogo &lt;l0&gt;Propiedades del proyecto&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161205Z" creationid="Antonio" creationdate="20160330T161205Z">
@@ -48380,6 +48388,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195217Z" creationid="Mari" creationdate="20220307T195217Z">
+        <seg>si existe, contiene la configuración de la interfaz específica del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T144017Z" creationid="Antonio" creationdate="20160330T144017Z">
@@ -48406,8 +48422,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>if existing, it contains project-specific segmentation rules.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220307T194943Z" creationid="Mari" creationdate="20220307T194943Z">
-        <seg>si existe, contiene las reglas de segmentación específicas del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195054Z" creationid="Mari" creationdate="20220307T194943Z">
+        <seg>si existen, contiene las reglas de segmentación específicas del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49922,6 +49938,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161520Z" creationid="Antonio" creationdate="20160330T161520Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220307T195230Z" creationid="Mari" creationdate="20220307T195230Z">
+        <seg>omegat.project (file)</seg>
       </tuv>
     </tu>
     <tu>
