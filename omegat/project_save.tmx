@@ -8574,8 +8574,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Average Score: {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T044414Z" creationid="hcartagena" creationdate="20160401T044414Z">
-        <seg>Puntuación promedio: {0}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T185217Z" creationid="hcartagena" creationdate="20160401T044414Z">
+        <seg>Puntuación media: {0}</seg>
       </tuv>
     </tu>
     <tu>
