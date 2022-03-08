@@ -26643,6 +26643,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T183550Z" creationid="Mari" creationdate="20220308T183550Z">
+        <seg>Equipo de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T145753Z" creationid="Mari" creationdate="20211130T145753Z">
@@ -39095,6 +39103,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T204505Z" creationid="hcartagena" creationdate="20200729T204505Z">
         <seg>Este cuadro de diálogo muestra los filtros de archivo disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T183745Z" creationid="Mari" creationdate="20220308T183745Z">
+        <seg>Este documento es el manual del usuario oficial de OmegaT, la herramienta gratuita de traducción asistida por ordenador.</seg>
       </tuv>
     </tu>
     <tu>
