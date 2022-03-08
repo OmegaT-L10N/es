@@ -10185,6 +10185,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T192231Z" creationid="Mari" creationdate="20220308T192231Z">
+        <seg>Haga clic en la otra columna en la traducción correspondiente al primer segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T152635Z" creationid="hcartagena" creationdate="20151124T235941Z">
