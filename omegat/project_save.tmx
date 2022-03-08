@@ -18462,6 +18462,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T185109Z" creationid="Mari" creationdate="20220308T185109Z">
+        <seg>Si cree que la alineación puede mejorarse, pruebe a cambiar los parámetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T150112Z" creationid="Antonio" creationdate="20160316T191606Z">
