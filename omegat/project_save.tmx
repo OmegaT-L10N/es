@@ -7151,6 +7151,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T183844Z" creationid="Mari" creationdate="20220308T183844Z">
+        <seg>[fuzzy]Alinear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T190802Z" creationid="hcartagena" creationdate="20160401T025951Z">
@@ -20958,6 +20966,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T124021Z" creationid="nenyavie" creationdate="20200226T124021Z">
         <seg>Permite configurar parámetros para todos los proyectos de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also contains installation instructions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T183803Z" creationid="Mari" creationdate="20220308T183803Z">
+        <seg>También contiene las instrucciones de instalación.</seg>
       </tuv>
     </tu>
     <tu>
