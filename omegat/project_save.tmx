@@ -19817,6 +19817,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T185154Z" creationid="Mari" creationdate="20220308T185154Z">
+        <seg>En la mayoría de los casos, cuanto más baja sea la &lt;g0&gt;Puntuación media&lt;/g0&gt;, mejor será la alineación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T120017Z" creationid="Mari" creationdate="20220113T120017Z">
