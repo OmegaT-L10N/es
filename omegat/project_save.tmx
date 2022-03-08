@@ -34224,6 +34224,14 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T184757Z" creationid="Mari" creationdate="20220308T184757Z">
+        <seg>[fuzzy]Paso 1: ajustar parámetros de alineación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 1: Create an empty project on a server</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T115717Z" creationid="Mari" creationdate="20211130T115717Z">
