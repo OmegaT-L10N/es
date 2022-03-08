@@ -39691,6 +39691,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T191028Z" creationid="Mari" creationdate="20220308T191028Z">
+        <seg>Esta opción solo aparece si los dos archivos seleccionados se reconocen como archivos clave=valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220112T183723Z" creationid="Mari" creationdate="20220112T183723Z">
