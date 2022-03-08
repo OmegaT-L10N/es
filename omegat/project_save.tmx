@@ -28357,8 +28357,8 @@ cual bruma se disipa</seg>
       <tuv lang="en">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T194002Z" creationid="hcartagena" creationdate="20180605T174520Z">
-        <seg>Alineación precisa: seleccionar celda correspondiente</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T184845Z" creationid="hcartagena" creationdate="20180605T174520Z">
+        <seg>Alineación precisa: seleccione la celda correspondiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -34218,8 +34218,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T044509Z" creationid="hcartagena" creationdate="20160401T044509Z">
-        <seg>Paso 1: ajustar parámetros de alineación</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T184814Z" creationid="hcartagena" creationdate="20160401T044509Z">
+        <seg>Paso 1: ajuste los parámetros de alineación</seg>
       </tuv>
     </tu>
     <tu>
@@ -34250,8 +34250,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T044521Z" creationid="hcartagena" creationdate="20160401T044521Z">
-        <seg>Paso 2: hacer correcciones manuales</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T184822Z" creationid="hcartagena" creationdate="20160401T044521Z">
+        <seg>Paso 2: haga correcciones manuales</seg>
       </tuv>
     </tu>
     <tu>
