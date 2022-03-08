@@ -40083,6 +40083,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T191937Z" creationid="Mari" creationdate="20220308T191937Z">
+        <seg>Siga estos pasos para alinear dos segmentos en la misma línea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T122516Z" creationid="Mari" creationdate="20220210T122516Z">
