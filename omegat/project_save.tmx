@@ -42452,6 +42452,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T190617Z" creationid="Mari" creationdate="20220308T190617Z">
+        <seg>Utilice el modo de comparación &lt;g0&gt;ID&lt;/g0&gt; para alinear los textos clave=valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211229T115219Z" creationid="Mari" creationdate="20211229T115219Z">
