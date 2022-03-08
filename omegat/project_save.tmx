@@ -19592,10 +19592,26 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T190147Z" creationid="Mari" creationdate="20220308T190147Z">
+        <seg>En el modo de comparación &lt;g0&gt;Todo por todo&lt;/g0&gt;, los textos se evaluan globalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T163830Z" creationid="taty" creationdate="20181205T163830Z">
         <seg>En &lt;g0&gt;Opciones &gt; TMXs externo&lt;/g0&gt;, una serie de variables permiten configurar la visualización del panel de coincidencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T190321Z" creationid="Mari" creationdate="20220308T190321Z">
+        <seg>En el modo de comparación &lt;g1&gt;Uno por uno&lt;/g1&gt;, se evalúan segmento a segmento.</seg>
       </tuv>
     </tu>
     <tu>
