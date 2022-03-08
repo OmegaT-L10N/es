@@ -7177,32 +7177,32 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220308T184430Z" creationid="hcartagena" creationdate="20160401T025951Z">
-        <seg>Grupo de alineador "Aceptado"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T194843Z" creationid="hcartagena" creationdate="20160401T025951Z">
+        <seg>Grupo del alineador "Aceptado"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220308T184443Z" creationid="hcartagena" creationdate="20160401T031605Z">
-        <seg>Grupo de alineador "Necesita revisión"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T194848Z" creationid="hcartagena" creationdate="20160401T031605Z">
+        <seg>Grupo del alineador "Necesita revisión"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220308T184455Z" creationid="hcartagena" creationdate="20160401T031631Z">
-        <seg>Resaltado de alineador</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T194853Z" creationid="hcartagena" creationdate="20160401T031631Z">
+        <seg>Resaltado del alineador</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220308T184514Z" creationid="hcartagena" creationdate="20160401T031642Z">
-        <seg>Resaltado de fila de tabla de alineador</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T194907Z" creationid="hcartagena" creationdate="20160401T031642Z">
+        <seg>Resaltado de fila de tabla del alineador</seg>
       </tuv>
     </tu>
     <tu>
