@@ -7191,6 +7191,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T184231Z" creationid="Mari" creationdate="20220308T184231Z">
+        <seg>La alineación consiste en crear una memoria de traducción bilingüe a partir de documentos monolingües ya traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180420Z" creationid="hcartagena" creationdate="20180605T180420Z">
