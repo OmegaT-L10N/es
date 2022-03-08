@@ -6999,6 +6999,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After several of these operations, select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T192447Z" creationid="Mari" creationdate="20220308T192447Z">
+        <seg>Después de seguir este procedimiento varias veces, seleccione &lt;m0&gt;&lt;g1&gt;Editar&lt;/g1&gt;&lt;g2&gt;Pendiente de volver a alinear&lt;/g2&gt; &lt;/m0&gt; para actualizar la alineación del resto de segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220308T191730Z" creationid="Mari" creationdate="20220308T191730Z">
