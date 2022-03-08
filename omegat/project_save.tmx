@@ -7153,8 +7153,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Aligner</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220308T183844Z" creationid="Mari" creationdate="20220308T183844Z">
-        <seg>[fuzzy]Alinear</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T184101Z" creationid="Mari" creationdate="20220308T183844Z">
+        <seg>Alineación</seg>
       </tuv>
     </tu>
     <tu>
