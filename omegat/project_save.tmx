@@ -25849,6 +25849,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 4.3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T183536Z" creationid="Mari" creationdate="20220308T183536Z">
+        <seg>OmegaT 4.3.1 - Manual del usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170812T151646Z" creationid="Cristina" creationdate="20170812T151646Z">
@@ -47044,8 +47052,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>en</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151128T084204Z" creationid="Antonio" creationdate="20151128T084204Z">
-        <seg>en</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T183428Z" creationid="Antonio" creationdate="20151128T084204Z">
+        <seg>es</seg>
       </tuv>
     </tu>
     <tu>
