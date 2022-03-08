@@ -27365,6 +27365,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T192803Z" creationid="Mari" creationdate="20220308T192803Z">
+        <seg>Cuando se cree la memoria de traducción, solo se incluirán las filas con la casilla &lt;g0&gt;Mantener&lt;/g0&gt; marcada en la primera columna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T124037Z" creationid="Mari" creationdate="20220125T124037Z">
@@ -40536,8 +40544,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220308T192528Z" creationid="Mari" creationdate="20220308T192528Z">
-        <seg>Para modificar la posición de uno o más segmentos individualmente, seleccione el segmento o segmentos y pulse &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Mover hacia arriba&lt;/g1&gt;) o &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Mover hacia abajo&lt;/g3&gt;).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T192608Z" creationid="Mari" creationdate="20220308T192528Z">
+        <seg>Para modificar la posición de uno o más segmentos individualmente, seleccione el segmento o segmentos y pulse &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Subir&lt;/g1&gt;) o &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Bajar&lt;/g3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
