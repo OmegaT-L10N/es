@@ -19594,8 +19594,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220308T190147Z" creationid="Mari" creationdate="20220308T190147Z">
-        <seg>En el modo de comparación &lt;g0&gt;Todo por todo&lt;/g0&gt;, los textos se evaluan globalmente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T190328Z" creationid="Mari" creationdate="20220308T190147Z">
+        <seg>En el modo de comparación &lt;g0&gt;Todo por todo&lt;/g0&gt;, los textos se evalúan globalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37395,6 +37395,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T135308Z" creationid="Antonio" creationdate="20160316T135308Z">
         <seg>Esta opción permite a OmegaT omitir lo especificado en el encabezado del archivo PO y usara el valor predeterminado para el idioma de destino seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T190403Z" creationid="Mari" creationdate="20220308T190403Z">
+        <seg>La opción solo aparece cuando esta selección es posible.</seg>
       </tuv>
     </tu>
     <tu>
