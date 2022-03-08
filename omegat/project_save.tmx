@@ -41388,6 +41388,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T191829Z" creationid="Mari" creationdate="20220308T191829Z">
+        <seg>Las unidades de traducción se encuentran en las celdas de las dos últimas columnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233939Z" creationid="hcartagena" creationdate="20151124T233939Z">
