@@ -39875,6 +39875,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T190845Z" creationid="Mari" creationdate="20220308T190845Z">
+        <seg>Este sistema funciona aunque las claves no estén en el mismo orden en los dos archivos o si los dos archivos no contienen la misma cantidad de información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211229T114235Z" creationid="Mari" creationdate="20211229T114235Z">
