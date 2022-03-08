@@ -43783,6 +43783,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T193019Z" creationid="Mari" creationdate="20220308T193019Z">
+        <seg>Cuando las dos columnas estén suficientemente alineadas, haga clic en &lt;g0&gt;Guardar TMX…&lt;/g0&gt; para crear la memoria de traducción resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191210T093700Z" creationid="nenyavie" creationdate="20191210T093700Z">
