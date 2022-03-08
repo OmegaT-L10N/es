@@ -40534,6 +40534,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T192528Z" creationid="Mari" creationdate="20220308T192528Z">
+        <seg>Para modificar la posición de uno o más segmentos individualmente, seleccione el segmento o segmentos y pulse &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Mover hacia arriba&lt;/g1&gt;) o &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Mover hacia abajo&lt;/g3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232128Z" creationid="Cristina" creationdate="20170826T114914Z">
