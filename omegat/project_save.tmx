@@ -6999,6 +6999,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T191730Z" creationid="Mari" creationdate="20220308T191730Z">
+        <seg>Tras el proceso automático, normalmente, la alineación de dos archivos necesita correcciones manuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the initial installation you can, of course, also use &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T121528Z" creationid="Mari" creationdate="20220113T121528Z">
