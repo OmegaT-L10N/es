@@ -10073,6 +10073,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T191526Z" creationid="Mari" creationdate="20220308T191526Z">
+        <seg>Elija el que le proporcione mejores resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose...</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T040729Z" creationid="hcartagena" creationdate="20160401T040729Z">
@@ -10141,6 +10149,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T125056Z" creationid="Antonio" creationdate="20160128T125006Z">
         <seg>Haga clic en &lt;s0&gt;Restaurar valores predeterminados&lt;/s0&gt; para restablecer los filtros de archivo a la configuración predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T191609Z" creationid="Mari" creationdate="20220308T191609Z">
+        <seg>Haga clic en &lt;g0&gt;Continuar&lt;/g0&gt; para acceder al siguiente paso.</seg>
       </tuv>
     </tu>
     <tu>
