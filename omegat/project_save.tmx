@@ -16288,8 +16288,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Forward-Backward</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T095441Z" creationid="nenyavie" creationdate="20200225T095441Z">
-        <seg>Adelante-Atrás</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220308T191352Z" creationid="nenyavie" creationdate="20200225T095441Z">
+        <seg>Avance-Retroceso</seg>
       </tuv>
     </tu>
     <tu>
@@ -35625,6 +35625,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T204040Z" creationid="hcartagena" creationdate="20160331T204040Z">
         <seg>Las memorias &lt;f3&gt;level1&lt;/f3&gt; y &lt;f4&gt;level2&lt;/f4&gt; pueden compartirse con usuarios de otros programas de traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220308T191513Z" creationid="Mari" creationdate="20220308T191513Z">
+        <seg>Los algoritmos &lt;g0&gt;Viterbi&lt;/g0&gt; y &lt;g1&gt;Avance-Retroceso&lt;/g1&gt; son dos métodos de cálculo diferentes.</seg>
       </tuv>
     </tu>
     <tu>
