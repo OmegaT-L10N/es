@@ -41648,8 +41648,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220309T123935Z" creationid="Mari" creationdate="20220309T123935Z">
-        <seg>Al escribir cualquier texto, se abrirá un campo &lt;g0&gt;Filtro&lt;/g0&gt; en el que se pueden introducir partes de nombres de los archivos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220309T124136Z" creationid="Mari" creationdate="20220309T123935Z">
+        <seg>Al escribir cualquier carácter, se abrirá el campo &lt;g0&gt;Filtro&lt;/g0&gt;, en el que se pueden introducir partes de los nombres de los archivos.</seg>
       </tuv>
     </tu>
     <tu>
