@@ -42436,6 +42436,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; to open and &lt;k3&gt;Esc&lt;/k3&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220309T123452Z" creationid="Mari" creationdate="20220309T123452Z">
+        <seg>Pulse &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; para abrirla y &lt;k3&gt;Esc&lt;/k3&gt; para cerrarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Stemming for &amp;Glossary Entries</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T211054Z" creationid="hcartagena" creationdate="20151116T221147Z">
