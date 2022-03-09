@@ -5799,6 +5799,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220309T122611Z" creationid="Mari" creationdate="20220309T122611Z">
+        <seg>&lt;r0&gt;Nota:&lt;/r0&gt; es posible inhibir la visualización de la ventana al abrirse un proyecto estableciendo &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; a &lt;e2&gt;false&lt;/e2&gt; en el archivo &lt;f3&gt;omegat.prefs&lt;/f3&gt; (al que se puede acceder desde el menú &lt;m4&gt; &lt;g5&gt;Opciones&lt;/g5&gt; &lt;g6&gt;Acceder a carpeta de configuración&lt;/g6&gt; &lt;/m4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repositories&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T152524Z" creationid="Mari" creationdate="20211130T123129Z">
