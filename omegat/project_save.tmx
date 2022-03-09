@@ -10307,8 +10307,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181206T164716Z" creationid="eumeu" creationdate="20181116T133455Z">
-        <seg>Al hacer clic en cualquier archivo, este se abrirá para la traducción.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220309T123759Z" creationid="eumeu" creationdate="20181116T133455Z">
+        <seg>Al hacer clic en cualquier archivo, este se abrirá para traducirlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41642,6 +41642,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T225903Z" creationid="hcartagena" creationdate="20151124T225903Z">
         <seg>Tipos:
 La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220309T123935Z" creationid="Mari" creationdate="20220309T123935Z">
+        <seg>Al escribir cualquier texto, se abrirá un campo &lt;g0&gt;Filtro&lt;/g0&gt; en el que se pueden introducir partes de nombres de los archivos.</seg>
       </tuv>
     </tu>
     <tu>
