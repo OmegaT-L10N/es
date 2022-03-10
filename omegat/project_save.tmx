@@ -24214,6 +24214,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T104101Z" creationid="Mari" creationdate="20220310T104101Z">
+        <seg>La modificación de las reglas de segmentación puede variar el número de segmentos/segmentos únicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mongolian</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T152821Z" creationid="Antonio" creationdate="20151128T152821Z">
