@@ -32296,8 +32296,8 @@ El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede e
       <tuv lang="en">
         <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
-      <tuv lang="es" changeid="apujo" changedate="20181212T093343Z" creationid="apujo" creationdate="20181212T093343Z">
-        <seg>Vea las &lt;a0&gt;Reglas de segmentación&lt;/a0&gt; para mayor información.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220310T104304Z" creationid="apujo" creationdate="20181212T093343Z">
+        <seg>Consulte el capítulo &lt;e0&gt;Reglas de segmentación&lt;/e0&gt; para obtener más información.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40071,6 +40071,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220308T190845Z" creationid="Mari" creationdate="20220308T190845Z">
         <seg>Este sistema funciona aunque las claves no estén en el mismo orden en los dos archivos o si los dos archivos no contienen la misma cantidad de información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This, however, should generally be avoided once you have started translating the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T104201Z" creationid="Mari" creationdate="20220310T104201Z">
+        <seg>Sin embargo, este procedimiento se debe evitar una vez que ha comenzado a traducir el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
