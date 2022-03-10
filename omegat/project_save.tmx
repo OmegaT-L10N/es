@@ -25241,6 +25241,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T103434Z" creationid="Mari" creationdate="20220310T103434Z">
+        <seg>Sin embargo, tenga en cuenta que los números no indican la relevancia de las repeticiones: podrían ser frases relativamente largas repetidas varias veces (en cuyo caso tiene suerte) o podría describir una tabla de palabras clave (no tiene tanta suerte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T123058Z" creationid="nenyavie" creationdate="20200226T123244Z">
@@ -36640,6 +36648,14 @@ actual.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T185737Z" creationid="Antonio" creationdate="20160316T185737Z">
         <seg>**El cuadro de diálogo es útil porque incluye un editor especial para el patrón de nombre de archivo destino, el mismo que le permite personalizar los nombres de los archivos producidos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T103243Z" creationid="Mari" creationdate="20220310T103243Z">
+        <seg>La diferencia entre "Número de segmentos" y "Número de segmentos únicos" le da una idea aproximada del número de repeticiones que hay en el texto.</seg>
       </tuv>
     </tu>
     <tu>
