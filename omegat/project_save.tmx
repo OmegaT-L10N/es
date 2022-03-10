@@ -3272,8 +3272,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220310T104649Z" creationid="Mari" creationdate="20220310T104649Z">
-        <seg>&lt;e0&gt;Añadir archivos al proyecto:&lt;/e0&gt; puede añadir archivos originales al proyecto haciendo clic en el botón &lt;g1&gt;Importar archivos fuente...&lt;/g1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220310T104815Z" creationid="Mari" creationdate="20220310T104649Z">
+        <seg>&lt;e0&gt;Añadir archivos al proyecto:&lt;/e0&gt; puede añadir archivos originales al proyecto haciendo clic en el botón &lt;g1&gt;Importar archivos originales…&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39295,6 +39295,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T163750Z" creationid="Antonio" creationdate="20151127T163750Z">
         <seg>Este comando se ejecutará después de crear los documentos traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T105357Z" creationid="Mari" creationdate="20220310T105357Z">
+        <seg>[fuzzy]Esto copia los archivos seleccionados al subdirectorio &lt;c0&gt;/source&lt;/c0&gt; y vuelve a cargar el proyecto para tomar en cuenta los nuevos archivos.</seg>
       </tuv>
     </tu>
     <tu>
