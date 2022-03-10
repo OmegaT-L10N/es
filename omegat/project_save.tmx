@@ -51887,6 +51887,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T102854Z" creationid="Mari" creationdate="20220310T102854Z">
+        <seg>en la parte inferior se muestran el número total de segmentos, el número de segmentos únicos en todo el proyecto y el número de segmentos únicos ya traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the total number of translatable files in the project.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181206T163753Z" creationid="eumeu" creationdate="20181116T131948Z">
