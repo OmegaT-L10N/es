@@ -21082,6 +21082,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;g0&gt;Move ...&lt;/g0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T100951Z" creationid="Mari" creationdate="20220310T100951Z">
+        <seg>También se puede cambiar la posición de un nombre de archivo haciendo clic en este y pulsando los botones &lt;g0&gt;Mover…&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T203546Z" creationid="Helli" creationdate="20150603T151136Z">
