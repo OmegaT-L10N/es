@@ -39302,8 +39302,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220310T105357Z" creationid="Mari" creationdate="20220310T105357Z">
-        <seg>[fuzzy]Esto copia los archivos seleccionados al subdirectorio &lt;c0&gt;/source&lt;/c0&gt; y vuelve a cargar el proyecto para tomar en cuenta los nuevos archivos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220310T105841Z" creationid="Mari" creationdate="20220310T105357Z">
+        <seg>Esto copia los archivos seleccionados en la carpeta &lt;f2&gt;source&lt;/f2&gt; y vuelve a cargar el proyecto para importar los nuevos archivos.</seg>
       </tuv>
     </tu>
     <tu>
