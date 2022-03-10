@@ -31137,6 +31137,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T101259Z" creationid="Mari" creationdate="20220310T101259Z">
+        <seg>Al hacer clic con el botón derecho en un nombre de archivo, se abre un recuadro que permite abrir el archivo original y, si existe, el archivo traducido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T115753Z" creationid="nenyavie" creationdate="20200226T121839Z">
