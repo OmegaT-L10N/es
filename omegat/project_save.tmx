@@ -45292,6 +45292,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T100751Z" creationid="Mari" creationdate="20220310T100751Z">
+        <seg>Puede seleccionar un archivo con las teclas de flecha &lt;k1&gt;Arriba&lt;/k1&gt; y &lt;k2&gt;Abajo&lt;/k2&gt; y abrirlo para traducirlo pulsando &lt;k3&gt;Intro&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select a glossary pane contents layout.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T205021Z" creationid="Mari" creationdate="20211125T205021Z">
