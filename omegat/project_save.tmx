@@ -35725,6 +35725,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T103536Z" creationid="Mari" creationdate="20220310T103536Z">
+        <seg>El archivo &lt;f0&gt;project_stats.txt&lt;/f0&gt; ubicado en la carpeta &lt;f1&gt;omegat&lt;/f1&gt; del proyecto contiene información más detallada de los segmentos, desglosada por archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;tm&lt;/f0&gt; folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220222T101937Z" creationid="Mari" creationdate="20220222T101937Z">
