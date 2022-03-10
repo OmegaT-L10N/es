@@ -1946,8 +1946,8 @@ java.exe en Windows.</seg>
       <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181211T100724Z" creationid="eumeu" creationdate="20181211T100724Z">
-        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220310T103201Z" creationid="eumeu" creationdate="20181211T100724Z">
+        <seg>(La definición de "único" distingue entre mayúsculas y minúsculas: "Ejecutar" y "ejecutar" se consideran diferentes).</seg>
       </tuv>
     </tu>
     <tu>
