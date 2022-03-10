@@ -45025,6 +45025,14 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on &lt;g3&gt;Import from MediaWiki&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T105946Z" creationid="Mari" creationdate="20220310T105946Z">
+        <seg>También puede añadir archivos originales de páginas de Internet, escritas en MediaWiki, haciendo clic en el botón "Importar desde MediaWiki" y proporcionando la dirección correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T164347Z" creationid="Cristina" creationdate="20170917T164347Z">
