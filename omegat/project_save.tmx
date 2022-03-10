@@ -25497,6 +25497,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T100842Z" creationid="Mari" creationdate="20220310T100842Z">
+        <seg>Nota: los nombres de los archivos (en la primera columna) pueden ordenarse alfabéticamente haciendo clic en el encabezado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: if TMX is removed from &lt;f0&gt;tm/auto&lt;/f0&gt; before step 3, no extra Translation Unit is added.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220305T124000Z" creationid="Mari" creationdate="20220305T124000Z">
