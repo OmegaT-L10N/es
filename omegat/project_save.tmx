@@ -45024,11 +45024,12 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>UI option is Download Media&amp;Wiki Page...</note>
       <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on &lt;g3&gt;Import from MediaWiki&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220310T105946Z" creationid="Mari" creationdate="20220310T105946Z">
-        <seg>También puede añadir archivos originales de páginas de Internet, escritas en MediaWiki, haciendo clic en el botón "Importar desde MediaWiki" y proporcionando la dirección correspondiente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220310T110114Z" creationid="Mari" creationdate="20220310T105946Z">
+        <seg>También puede añadir archivos originales de páginas de Internet, escritas en MediaWiki, haciendo clic en el botón &lt;g3&gt;Descargar página de MediaWiki&lt;/g3&gt; y proporcionando la URL correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
