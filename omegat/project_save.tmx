@@ -15364,6 +15364,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220310T102617Z" creationid="Mari" creationdate="20220310T102617Z">
+        <seg>Las entradas de los archivos incluyen sus nombres, los tipos de filtro de archivo, su codificación y el número de segmentos que tiene cada archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File filters</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T165833Z" creationid="eumeu" creationdate="20181115T212919Z">
