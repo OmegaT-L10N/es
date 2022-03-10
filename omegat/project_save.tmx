@@ -3269,11 +3269,12 @@ El ajuste actual es {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>UI option is Copy Files to Source Folder...</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220310T104815Z" creationid="Mari" creationdate="20220310T104649Z">
-        <seg>&lt;e0&gt;Añadir archivos al proyecto:&lt;/e0&gt; puede añadir archivos originales al proyecto haciendo clic en el botón &lt;g1&gt;Importar archivos originales…&lt;/g1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220310T105619Z" creationid="Mari" creationdate="20220310T104649Z">
+        <seg>&lt;e0&gt;Añadir archivos al proyecto:&lt;/e0&gt; puede añadir archivos originales al proyecto haciendo clic en el botón &lt;g1&gt;Copiar archivos en la carpeta de archivos originales…&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
