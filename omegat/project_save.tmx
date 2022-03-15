@@ -8874,6 +8874,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T105719Z" creationid="Mari" creationdate="20220315T105719Z">
+        <seg>Es el lenguaje en el que se basan software populares como Firefox y es una herramienta de programación familiar y preferida en el ámbito del sofware de código abierto. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Belarusian</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T083444Z" creationid="Antonio" creationdate="20151128T083444Z">
