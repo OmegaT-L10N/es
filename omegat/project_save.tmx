@@ -22873,6 +22873,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T102233Z" creationid="Mari" creationdate="20220315T102233Z">
+        <seg>Cargue un script en el editor haciendo clic en su nombre en la lista del panel izquierdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T165618Z" creationid="Helli" creationdate="20150526T114604Z">
@@ -40427,6 +40435,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T105326Z" creationid="Helli" creationdate="20150526T114437Z">
         <seg>Para personalizar la función de script, haga lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T102113Z" creationid="Mari" creationdate="20220315T102113Z">
+        <seg>Siga estos pasos para personalizar la función de script:</seg>
       </tuv>
     </tu>
     <tu>
