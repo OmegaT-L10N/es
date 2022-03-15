@@ -40769,8 +40769,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150526T155626Z" creationid="Helli" creationdate="20150526T155626Z">
-        <seg>Para hacerlo posible (a pesar de que Buscar y reemplazar opera sólo con memoria), OmegaT copiará el segmento de fuente al segmento de objetivo antes del reemplazar la operación ocurrida.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T200414Z" creationid="Helli" creationdate="20150526T155626Z">
+        <seg>Para hacerlo posible (aunque la función Buscar y reemplazar opera solo en la memoria), OmegaT copiará el segmento original en el segmento traducido antes de que tenga lugar el reemplazo.</seg>
       </tuv>
     </tu>
     <tu>
