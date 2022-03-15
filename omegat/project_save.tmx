@@ -4327,6 +4327,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T194307Z" creationid="Mari" creationdate="20220315T194307Z">
+        <seg>&lt;g0&gt;Reemplazar:&lt;/g0&gt; sustituye "uno por uno", mediante botones en el encabezado del panel Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T120034Z" creationid="Mari" creationdate="20211123T120034Z">
