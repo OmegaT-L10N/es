@@ -33687,6 +33687,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T103729Z" creationid="Mari" creationdate="20220315T103729Z">
+        <seg>Puede encontrar algunos scripts adicionales en este enlace: &lt;u0&gt;Scripts de OmegaT&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T044838Z" creationid="hcartagena" creationdate="20160401T044838Z">
@@ -48794,6 +48802,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160124T212807Z" creationid="Antonio" creationdate="20160124T212807Z">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T103607Z" creationid="Mari" creationdate="20220315T103607Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
