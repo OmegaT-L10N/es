@@ -44152,6 +44152,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T102459Z" creationid="Mari" creationdate="20220315T102459Z">
+        <seg>Cuando pulse con el botón izquierdo del ratón en el número, se ejecutará el script seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184036Z" creationid="Antonio" creationdate="20151210T184036Z">
