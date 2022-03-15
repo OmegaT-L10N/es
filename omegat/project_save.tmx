@@ -4319,6 +4319,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T193600Z" creationid="Mari" creationdate="20220315T193600Z">
+        <seg>&lt;g0&gt;Reemplazar todo&lt;/g0&gt;: opera la sustitución de todas las ocurrencias (después de mostrar una ventana de confirmación donde se muestra el número de ocurrencias).&lt;s0&gt;&lt;s1&gt;Reemplazar todo:&lt;/s1&gt;&lt;/s0&gt; realice la sustitución de todos los resultados (después de mostrar una ventana de confirmación donde se muestra el número de  resultados). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T120034Z" creationid="Mari" creationdate="20211123T120034Z">
