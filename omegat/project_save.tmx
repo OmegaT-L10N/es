@@ -10258,6 +10258,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g1&gt;Replace Next&lt;/g1&gt; or &lt;g2&gt;Skip&lt;/g2&gt;, then end the replacement session with &lt;g3&gt;Finish&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T194532Z" creationid="Mari" creationdate="20220315T194532Z">
+        <seg>Haga clic en &lt;g1&gt;Reemplazar siguiente&lt;/g1&gt; o en &lt;g2&gt;Omitir&lt;/g2&gt; y finalice la sesión de reemplazo con &lt;g3&gt;Finalizar&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click in the other column on the translation corresponding to the first segment.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220308T192231Z" creationid="Mari" creationdate="20220308T192231Z">
