@@ -9308,8 +9308,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220315T102853Z" creationid="Mari" creationdate="20220315T102853Z">
-        <seg>[fuzzy]Por defecto, los scripts están almacenados en la carpeta denominada "scripts", a su vez en la carpeta de instalación de OmegaT (la carpeta que contiene el OmegaT.jar).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T103412Z" creationid="Mari" creationdate="20220315T102853Z">
+        <seg>De manera predeterminada, los scripts se almacenan en la carpeta &lt;f0&gt;scripts&lt;/f0&gt; que se encuentra en la carpeta de instalación de OmegaT (la que contiene el archivo &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
