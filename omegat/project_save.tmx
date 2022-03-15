@@ -31145,6 +31145,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T102419Z" creationid="Mari" creationdate="20220315T102419Z">
+        <seg>Haga clic con el botón derecho en un botón desde &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; hasta &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; en el panel inferior y seleccione &lt;g2&gt;Añadir script&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="taty" creationdate="20181116T165509Z">
