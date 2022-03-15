@@ -40076,6 +40076,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T101836Z" creationid="Mari" creationdate="20220315T101836Z">
+        <seg>Se puede acceder a esta ventana seleccionando &lt;m0&gt; &lt;g1&gt;Herramientas&lt;/g1&gt; &lt;g2&gt;Programación…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220309T122036Z" creationid="Mari" creationdate="20220309T122036Z">
