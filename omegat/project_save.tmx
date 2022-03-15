@@ -4223,6 +4223,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T195356Z" creationid="Mari" creationdate="20220315T195356Z">
+        <seg>&lt;g0&gt;Cerrar&lt;/g0&gt;: cierra la ventana sin hacer ningún cambio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T144324Z" creationid="Mari" creationdate="20211123T144324Z">
