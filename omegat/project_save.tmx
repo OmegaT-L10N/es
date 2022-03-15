@@ -3503,6 +3503,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T105050Z" creationid="Mari" creationdate="20220315T105050Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (a veces abreviado JS, que no debe confundirse con Java): es un lenguaje de scripting basado en prototipos y es dinámico, débilmente tipado (es decir, de cumplimiento flexible de las reglas de escritura) y tiene funciones de primera clase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T110935Z" creationid="Antonio" creationdate="20151130T110935Z">
