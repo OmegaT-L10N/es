@@ -7362,8 +7362,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T113141Z" creationid="Helli" creationdate="20150526T121341Z">
-        <seg>Todos los idiomas de programación tienen acceso al modelo de objetos de OmegaT, donde el proyecto es el objeto superior.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T105821Z" creationid="Helli" creationdate="20150526T121341Z">
+        <seg>Todos los lenguajes tienen acceso al modelo de objetos de OmegaT, donde el proyecto es el objeto superior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16051,6 +16051,14 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T114626Z" creationid="Mari" creationdate="20211124T114626Z">
         <seg>Por ejemplo, los archivos de texto se pueden segmentar en los saltos de línea, líneas en blanco o no segmentarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T105939Z" creationid="Mari" creationdate="20220315T105939Z">
+        <seg>Por ejemplo, el siguiente fragmento de código escrito en Groovy analiza todos los segmentos de todos los archivos del proyecto actual y, si existe traducción, imprime el original y la t:</seg>
       </tuv>
     </tu>
     <tu>
