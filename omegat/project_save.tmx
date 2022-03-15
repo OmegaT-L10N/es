@@ -10260,8 +10260,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Click &lt;g1&gt;Replace Next&lt;/g1&gt; or &lt;g2&gt;Skip&lt;/g2&gt;, then end the replacement session with &lt;g3&gt;Finish&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220315T194532Z" creationid="Mari" creationdate="20220315T194532Z">
-        <seg>Haga clic en &lt;g1&gt;Reemplazar siguiente&lt;/g1&gt; o en &lt;g2&gt;Omitir&lt;/g2&gt; y finalice la sesión de reemplazo con &lt;g3&gt;Finalizar&lt;/g3&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T195003Z" creationid="Mari" creationdate="20220315T194532Z">
+        <seg>Haga clic en &lt;g1&gt;Reemplazar siguiente&lt;/g1&gt; o en &lt;g2&gt;Omitir&lt;/g2&gt; y finalice la sesión de reemplazo con &lt;g3&gt;Terminar&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32040,6 +32040,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T154859Z" creationid="Helli" creationdate="20150526T154859Z">
         <seg>Opciones de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T194950Z" creationid="Mari" creationdate="20220315T194950Z">
+        <seg>[fuzzy]Las opciones de búsqueda son similares a las mostrados en la &lt;a0&gt;ventana de Búsqueda&lt;/a0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
