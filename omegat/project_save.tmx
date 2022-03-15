@@ -38744,6 +38744,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then click on &lt;g0&gt;Search&lt;/g0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T193111Z" creationid="Mari" creationdate="20220315T193111Z">
+        <seg>Después, haga clic en el botón &lt;g0&gt;Buscar&lt;/g0&gt; para visualizar todos los resultados correspondientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then launch OmegaT normally.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T155407Z" creationid="Cristina" creationdate="20170924T155407Z">
