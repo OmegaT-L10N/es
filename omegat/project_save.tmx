@@ -29708,8 +29708,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211013T194017Z" creationid="hcartagena" creationdate="20151124T225815Z">
-        <seg>Las búsquedas en el proyecto, de manera predeterminada, se hacen en el texto original, en el texto traducido, en las memorias de traducción, en los glosarios, en las notas y en los comentarios del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T102947Z" creationid="hcartagena" creationdate="20151124T225815Z">
+        <seg>De manera predeterminada, las búsquedas en el proyecto se hacen en el texto original, en el texto traducido, en las memorias de traducción, en los glosarios, en las notas y en los comentarios del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31717,9 +31717,9 @@ digo: "página no encontrada"</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T225728Z" creationid="hcartagena" creationdate="20151124T225728Z">
+      <tuv lang="es" changeid="Mari" changedate="20220315T102924Z" creationid="hcartagena" creationdate="20151124T225728Z">
         <seg>Ámbito:
-El ámbito de búsqueda está, de manera predeterminada, en el proyecto. Puede estar también en cualquier archivo ubicado en una jerarquía de carpetas especificada.</seg>
+De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede estar también en cualquier archivo ubicado en una jerarquía de carpetas especificada.</seg>
       </tuv>
     </tu>
     <tu>
