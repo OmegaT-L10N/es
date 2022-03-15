@@ -14856,6 +14856,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Except one: check &lt;g0&gt;Untranslated&lt;/g0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T195826Z" creationid="Mari" creationdate="20220315T195826Z">
+        <seg>Excepto una: marque &lt;g0&gt;Sin traducción&lt;/g0&gt; para utilizar las opciones Buscar y reemplazar también en segmentos que no han sido traducidos todavía. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T213029Z" creationid="hcartagena" creationdate="20151119T213029Z">
