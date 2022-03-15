@@ -18864,6 +18864,14 @@ volverán al estado predeterminado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T103559Z" creationid="Mari" creationdate="20220315T103559Z">
+        <seg>Si añade nuevos scripts a esta carpeta, aparecerán en la lista de scripts disponibles en ventana &lt;g0&gt;Programación&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220104T172940Z" creationid="Mari" creationdate="20220104T172940Z">
