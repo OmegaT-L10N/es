@@ -3423,6 +3423,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T104023Z" creationid="Mari" creationdate="20220315T104023Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): es un lenguaje dinámico para la máquina virtual Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T110758Z" creationid="Antonio" creationdate="20151130T110758Z">
