@@ -18481,8 +18481,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
-      <tuv lang="es" changeid="Helli" changedate="20150603T194126Z" creationid="Helli" creationdate="20150603T153244Z">
-        <seg>Si no se ha hecho ninguna sustitución en un segmento dado, el segmento objetivo será “vaciado”, es decir, queda sin traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T200524Z" creationid="Helli" creationdate="20150603T153244Z">
+        <seg>Si no se ha hecho ninguna sustitución en un segmento dado, el segmento traducido será “vaciado”, es decir, quedará sin traducir.</seg>
       </tuv>
     </tu>
     <tu>
