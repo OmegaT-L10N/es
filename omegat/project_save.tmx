@@ -36120,8 +36120,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151130T105312Z" creationid="Helli" creationdate="20150526T114155Z">
-        <seg>La ventana de Programación le permite cargar un script que aparezca en el área de texto y ejecutarlo en el proyecto abierto actualmente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T102625Z" creationid="Helli" creationdate="20150526T114155Z">
+        <seg>La ventana Programación le permite cargar un script que aparezca en el área de texto y ejecutarlo en el proyecto abierto actualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45162,8 +45162,8 @@ para enlazarlo desde allí.</seg>
       <tuv lang="en">
         <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools&lt;/g0&gt; menu or by pressing &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220315T102621Z" creationid="Mari" creationdate="20220315T102621Z">
-        <seg>También puede iniciar las macros seleccionadas desde el menú principal utilizando sus entradas en el menú de &lt;g0&gt;Herramientas&lt;/g0&gt; o pulsando &lt;k1&gt;Ctrl+Alt+F&lt;/k1&gt; Nº (donde Nº puede ser 1 a 12).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T102820Z" creationid="Mari" creationdate="20220315T102621Z">
+        <seg>También puede iniciar las macros seleccionadas desde el menú principal utilizando sus entradas en el menú &lt;g0&gt;Herramientas&lt;/g0&gt; o pulsando &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (donde # es un número de 1 a 12).</seg>
       </tuv>
     </tu>
     <tu>
