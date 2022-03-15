@@ -16057,8 +16057,8 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220315T105939Z" creationid="Mari" creationdate="20220315T105939Z">
-        <seg>Por ejemplo, el siguiente fragmento de código escrito en Groovy analiza todos los segmentos de todos los archivos del proyecto actual y, si existe traducción, imprime el original y la t:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220315T110013Z" creationid="Mari" creationdate="20220315T105939Z">
+        <seg>Por ejemplo, el siguiente fragmento de código escrito en Groovy analiza todos los segmentos de todos los archivos del proyecto actual y, si existe traducción, imprime el original y la traducción del segmento:</seg>
       </tuv>
     </tu>
     <tu>
