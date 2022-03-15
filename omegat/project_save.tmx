@@ -14331,6 +14331,14 @@ su página de ayuda no encontrada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;g0&gt;Replace with&lt;/g0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T193258Z" creationid="Mari" creationdate="20220315T193258Z">
+        <seg>Introduzca la palabra o frase nueva (no se admiten expresiones regulares) en el cuadro &lt;g0&gt;&lt;/g0&gt;Reemplazar, y luego haga clic en una de las opciones siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T222204Z" creationid="hcartagena" creationdate="20151116T222204Z">
