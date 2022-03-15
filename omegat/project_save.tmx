@@ -27630,6 +27630,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220315T193022Z" creationid="Mari" creationdate="20220315T193022Z">
+        <seg>Abra la ventana Buscar y reemplazar con &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; e introduzca la palabra o expresión que quiera reemplazar en el cuadro &lt;g3&gt;Buscar&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220305T123337Z" creationid="Mari" creationdate="20220305T123337Z">
