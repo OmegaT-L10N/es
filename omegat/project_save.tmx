@@ -32284,6 +32284,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T165145Z" creationid="Mari" creationdate="20220316T165145Z">
+        <seg>Por lo tanto, la búsqueda de &lt;l0&gt;open file&lt;/l0&gt; encontrará todas las apariciones de la cadena &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, pero no &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; u &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Secondly, unless yours is a very uncommon language, both documents have in all probability already been translated.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T151047Z" creationid="Cristina" creationdate="20170924T151047Z">
