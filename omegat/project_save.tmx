@@ -14664,6 +14664,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T160419Z" creationid="Mari" creationdate="20220316T160419Z">
+        <seg>Error al obtener la salida del programa externo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164806Z" creationid="hcartagena" creationdate="20180605T164806Z">
