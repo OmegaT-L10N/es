@@ -25142,6 +25142,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T163921Z" creationid="Mari" creationdate="20220316T163921Z">
+        <seg>No se encontró ningún ejecutable GPG; establézcalo en las preferencias de Git en la sección "Committing", o defínalo en el git config gpg.program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220316T161421Z" creationid="Mari" creationdate="20220316T155134Z">
