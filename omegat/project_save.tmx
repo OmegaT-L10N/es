@@ -25506,6 +25506,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T164224Z" creationid="Mari" creationdate="20220316T164224Z">
+        <seg>Tenga en cuenta que "*" y "?" tienen un significado especial en las expresiones regulares, por lo que la búsqueda con comodines, tal y como se describe aquí, solo se aplica a la búsqueda exacta y por palabras clave (véase más adelante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T123058Z" creationid="nenyavie" creationdate="20200226T123244Z">
