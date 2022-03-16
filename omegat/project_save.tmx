@@ -1805,8 +1805,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T153723Z" creationid="Mari" creationdate="20220316T153723Z">
-        <seg>'*' coincide con cero o más caracteres, desde la posición actual de una palabra dada hasta su final.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T154428Z" creationid="Mari" creationdate="20220316T153723Z">
+        <seg>"*" coincide con cero o más caracteres, desde la posición actual de una palabra dada hasta su final.</seg>
       </tuv>
     </tu>
     <tu>
