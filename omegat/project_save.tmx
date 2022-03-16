@@ -43232,6 +43232,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T161809Z" creationid="Mari" creationdate="20220316T161809Z">
+        <seg>El usuario canceló la firma (no se proporciona una frase de contraseña)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User country</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220124T122329Z" creationid="Mari" creationdate="20220124T122329Z">
