@@ -9538,6 +9538,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T160651Z" creationid="Mari" creationdate="20220316T160651Z">
+        <seg>No se puede encontrar el ejecutable GPG en el $PATH de bash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T214749Z" creationid="Víctor Parra" creationdate="20151126T194904Z">
