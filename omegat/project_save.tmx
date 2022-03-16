@@ -43492,6 +43492,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using wild cards</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T153315Z" creationid="Mari" creationdate="20220316T153315Z">
+        <seg>Utilizar comodines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usual translations inserted from the &lt;f3&gt;auto&lt;/f3&gt; folder are displayed in orange.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T125322Z" creationid="Mari" creationdate="20220210T125322Z">
