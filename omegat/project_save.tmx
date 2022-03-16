@@ -1796,9 +1796,9 @@ java -jar OmegaT.jar $*</seg>
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211024T181024Z" creationid="hcartagena" creationdate="20151124T230248Z">
-        <seg>'*' encuentra cero o más caracteres ("ejecuta*" encuentra "ejecuta", "ejecutas", "ejecutar", "ejecutando", etc.)
-'?' coincide exactamente con un carácter ("ejecuta?" encuentra "ejecutas" y "ejecutar", pero no "ejecuta" ni "ejecutando").</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T154250Z" creationid="hcartagena" creationdate="20151124T230248Z">
+        <seg>"*" encuentra cero o más caracteres ("ejecuta*" encuentra "ejecuta", "ejecutas", "ejecutar", "ejecutando", etc.)
+"?" coincide exactamente con un carácter ("ejecuta?" encuentra "ejecutas" y "ejecutar", pero no "ejecuta" ni "ejecutando").</seg>
       </tuv>
     </tu>
     <tu>
@@ -1807,6 +1807,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220316T153723Z" creationid="Mari" creationdate="20220316T153723Z">
         <seg>'*' coincide con cero o más caracteres, desde la posición actual de una palabra dada hasta su final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'?' matches any single character.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T154338Z" creationid="Mari" creationdate="20220316T154226Z">
+        <seg>"?" coincide con un solo carácter</seg>
       </tuv>
     </tu>
     <tu>
