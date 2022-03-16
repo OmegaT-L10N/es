@@ -13872,8 +13872,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
-        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T153120Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Editar &gt; Reemplazar con el original (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): reemplaza con el original del segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
