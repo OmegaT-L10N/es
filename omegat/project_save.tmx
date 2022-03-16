@@ -25136,8 +25136,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T155544Z" creationid="Mari" creationdate="20220316T155134Z">
-        <seg>No se ha encontrado ninguna clave GPG para el ID de la clave ''{0}''; compruebe o establezca el ajuste de git config user.signingKey</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T161421Z" creationid="Mari" creationdate="20220316T155134Z">
+        <seg>No se encontró ninguna clave GPG para el ID de la clave ''{0}''; compruebe o establezca el ajuste git config user.signingKey</seg>
       </tuv>
     </tu>
     <tu>
