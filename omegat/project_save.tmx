@@ -23281,6 +23281,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T161716Z" creationid="Mari" creationdate="20220316T161716Z">
+        <seg>Buscando un ejecutable GPG: la ruta {0} de $PATH no es accesible; omitiendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T195052Z" creationid="Antonio" creationdate="20160316T195052Z">
