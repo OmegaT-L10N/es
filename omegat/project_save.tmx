@@ -38768,6 +38768,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The word or phrase is entered in the &lt;g3&gt;Search for&lt;/g3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T151615Z" creationid="Mari" creationdate="20220316T151615Z">
+        <seg>La palabra o frase se introduce de forma automática en el cuadro &lt;g3&gt;Buscar&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T230258Z" creationid="Antonio" creationdate="20151127T172329Z">
@@ -45504,6 +45512,14 @@ para enlazarlo desde allí.</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181130T142538Z" creationid="taty" creationdate="20181116T143052Z">
         <seg>Puede tener entradas con la columna de destino ausente, es decir, contiene solo el término de origen y el comentario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T151839Z" creationid="Mari" creationdate="20220316T151839Z">
+        <seg>Puede tener varias ventanas de búsqueda abiertas a la vez, pero ciérrelas cuando ya no las necesite para que no se acumulen en el escritorio.</seg>
       </tuv>
     </tu>
     <tu>
