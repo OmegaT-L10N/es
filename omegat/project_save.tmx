@@ -15429,6 +15429,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T152655Z" creationid="Mari" creationdate="20220316T152655Z">
+        <seg>Archivo &gt; Buscar la selección (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): vuelve a centrarse en el campo de búsqueda y selecciona todo el contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211007T103554Z" creationid="hcartagena" creationdate="20151116T202516Z">
@@ -36266,6 +36274,14 @@ su lugar, se utilizará la carpeta actual.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220315T102625Z" creationid="Helli" creationdate="20150526T114155Z">
         <seg>La ventana Programación le permite cargar un script que aparezca en el área de texto y ejecutarlo en el proyecto abierto actualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T152235Z" creationid="Mari" creationdate="20220316T152235Z">
+        <seg>La ventana de búsqueda tiene sus propios menús:</seg>
       </tuv>
     </tu>
     <tu>
