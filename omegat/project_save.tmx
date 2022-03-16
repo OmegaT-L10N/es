@@ -7576,6 +7576,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T151543Z" creationid="Mari" creationdate="20220316T151543Z">
+        <seg>Como alternativa, puede seleccionar una palabra o frase en el panel Editor, en el panel Coincidencias aproximadas o en el panel Glosario y pulsar &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T160833Z" creationid="Antonio" creationdate="20160330T160833Z">
