@@ -32172,6 +32172,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for segments containing the exact string you specified.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T164817Z" creationid="Mari" creationdate="20220316T164817Z">
+        <seg>Busca segmentos que contengan la cadena exacta de texto especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;StarDict Platform&lt;/u0&gt; above.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T152433Z" creationid="Antonio" creationdate="20160125T152433Z">
@@ -47944,6 +47952,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T084314Z" creationid="Antonio" creationdate="20151128T084314Z">
         <seg>ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>exact search</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T164627Z" creationid="Mari" creationdate="20220316T164627Z">
+        <seg>búsqueda exacta</seg>
       </tuv>
     </tu>
     <tu>
