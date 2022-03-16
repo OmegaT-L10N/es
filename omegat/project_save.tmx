@@ -37333,6 +37333,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following search methods are available:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T164619Z" creationid="Mari" creationdate="20220316T164619Z">
+        <seg>Están disponibles los siguientes métodos de búsqueda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following terms, to be used in the text below, deserve a short explanation:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T164100Z" creationid="Antonio" creationdate="20151130T164100Z">
