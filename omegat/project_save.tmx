@@ -9578,6 +9578,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T161016Z" creationid="Mari" creationdate="20220316T161016Z">
+        <seg>No se puede preparar el entorno GPG correctamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot read selected script file.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211027T104045Z" creationid="Antonio" creationdate="20151127T173503Z">
