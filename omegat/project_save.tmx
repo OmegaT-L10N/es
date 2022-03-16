@@ -37616,6 +37616,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The matches will be displayed in bold blue.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T160008Z" creationid="Mari" creationdate="20220316T160008Z">
+        <seg>Las coincidencias se mostrarán en azul y en negrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181205T155553Z" creationid="taty" creationdate="20181205T155553Z">
