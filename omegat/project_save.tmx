@@ -32204,6 +32204,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search methods and options</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T164237Z" creationid="Mari" creationdate="20220316T164237Z">
+        <seg>Métodos y opciones de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search options</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T154859Z" creationid="Helli" creationdate="20150526T154859Z">
@@ -33067,6 +33075,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T112752Z" creationid="Mari" creationdate="20211125T112752Z">
         <seg>Seleccione la ubicación del corrector lingüístico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the method using the radio buttons.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T164427Z" creationid="Mari" creationdate="20220316T164427Z">
+        <seg>Seleccione el método con los botones de opción.</seg>
       </tuv>
     </tu>
     <tu>
