@@ -19922,6 +19922,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T153411Z" creationid="Mari" creationdate="20220316T153411Z">
+        <seg>En ambos tipos de búsqueda, exacta y palabras clave, se pueden utilizar los caracteres comodín de búsqueda '&lt;c0&gt;*&lt;/c0&gt;' y '&lt;c1&gt;?&lt;/c1&gt;'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T112337Z" creationid="Helli" creationdate="20150526T152228Z">
