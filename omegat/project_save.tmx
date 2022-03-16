@@ -9474,6 +9474,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T161115Z" creationid="Mari" creationdate="20220316T161115Z">
+        <seg>Se interrumpió la llamada al programa externo: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T202947Z" creationid="hcartagena" creationdate="20151119T202947Z">
@@ -15233,6 +15241,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T175030Z" creationid="Cristina" creationdate="20170917T175030Z">
         <seg>Documentación externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T161211Z" creationid="Mari" creationdate="20220316T161211Z">
+        <seg>El programa externo falló({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
