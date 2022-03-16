@@ -13864,8 +13864,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T104151Z" creationid="nenyavie" creationdate="20200226T104151Z">
-        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T153005Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Editar &gt; Insertar original (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Mayús&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): inserta el original del segmento actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15425,6 +15425,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T213053Z" creationid="hcartagena" creationdate="20151119T213053Z">
         <seg>&amp;Formato de archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T152748Z" creationid="Mari" creationdate="20220316T152748Z">
+        <seg>Archivo &gt; Cerrar (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): cierra la ventana de búsqueda (del mismo modo que &lt;k3&gt;Esc&lt;/k3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
