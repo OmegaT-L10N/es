@@ -7812,6 +7812,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T164950Z" creationid="Mari" creationdate="20220316T164950Z">
+        <seg>Una búsqueda exacta busca una frase, es decir, si se introducen varias palabras, se encuentran solo si se aparecen exactamente en la misma secuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T204107Z" creationid="Mari" creationdate="20211125T204107Z">
