@@ -16801,32 +16801,32 @@ el programa Kaptain que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170302Z" creationid="hcartagena" creationdate="20180605T170302Z">
-        <seg>Git '{0}' no hizo nada porque no había cambios</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155127Z" creationid="hcartagena" creationdate="20180605T170302Z">
+        <seg>Git "{0}" no hizo nada porque no había cambios</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T120255Z" creationid="Antonio" creationdate="20151127T171705Z">
-        <seg>Error {1} de '{0}' en Git</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155129Z" creationid="Antonio" creationdate="20151127T171705Z">
+        <seg>Error {1} de "{0}" en Git</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T213643Z" creationid="Antonio" creationdate="20151127T171718Z">
-        <seg>La ejecución de '{0}' en Git ha terminado con éxito</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155114Z" creationid="Antonio" creationdate="20151127T171718Z">
+        <seg>La ejecución de "{0}" en Git ha terminado con éxito</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Git '{0}' execution start</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T213637Z" creationid="Antonio" creationdate="20151127T171756Z">
-        <seg>Inicio de la ejecución de '{0}' en Git</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155112Z" creationid="Antonio" creationdate="20151127T171756Z">
+        <seg>Inicio de la ejecución de "{0}" en Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -17575,8 +17575,8 @@ es que su invierno ha llegado</seg>
       <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T174710Z" creationid="Antonio" creationdate="20151127T174710Z">
-        <seg>Ocultar '{0}'</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155054Z" creationid="Antonio" creationdate="20151127T174710Z">
+        <seg>Ocultar "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -25086,6 +25086,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155544Z" creationid="Mari" creationdate="20220316T155134Z">
+        <seg>No se ha encontrado ninguna clave GPG para el ID de la clave ''{0}''; compruebe o establezca el ajuste de git config user.signingKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180409Z" creationid="hcartagena" creationdate="20180605T180409Z">
@@ -31572,24 +31580,24 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T120136Z" creationid="Antonio" creationdate="20151127T172219Z">
-        <seg>Error {1} de '{0}' en SVN</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155101Z" creationid="Antonio" creationdate="20151127T172219Z">
+        <seg>Error {1} de "{0}" en SVN</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>SVN '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T120051Z" creationid="Antonio" creationdate="20151127T172246Z">
-        <seg>La ejecución de '{0}' en SVN ha terminado con éxito</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155058Z" creationid="Antonio" creationdate="20151127T172246Z">
+        <seg>La ejecución de "{0}" en SVN ha terminado con éxito</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>SVN '{0}' execution start</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T120038Z" creationid="Antonio" creationdate="20151127T172301Z">
-        <seg>Inicio de la ejecución de '{0}' en SVN</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T155056Z" creationid="Antonio" creationdate="20151127T172301Z">
+        <seg>Inicio de la ejecución de "{0}" en SVN</seg>
       </tuv>
     </tu>
     <tu>
