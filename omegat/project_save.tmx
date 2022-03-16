@@ -10362,6 +10362,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the dropdown arrow of the &lt;g0&gt;Search for&lt;/g0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T152206Z" creationid="Mari" creationdate="20220316T152206Z">
+        <seg>Haga clic en la flecha desplegable del cuadro &lt;g0&gt;Buscar&lt;/g0&gt; para acceder a las diez últimas búsquedas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T191825Z" creationid="nenyavie" creationdate="20200226T144346Z">
