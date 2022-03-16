@@ -19924,8 +19924,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T153411Z" creationid="Mari" creationdate="20220316T153411Z">
-        <seg>En ambos tipos de búsqueda, exacta y palabras clave, se pueden utilizar los caracteres comodín de búsqueda '&lt;c0&gt;*&lt;/c0&gt;' y '&lt;c1&gt;?&lt;/c1&gt;'.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220316T153519Z" creationid="Mari" creationdate="20220316T153411Z">
+        <seg>En ambos tipos de búsqueda, exacta y por palabras clave, se pueden utilizar los caracteres comodín de búsqueda '*' y '?'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44531,9 +44531,9 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T230052Z" creationid="hcartagena" creationdate="20151124T230012Z">
+      <tuv lang="es" changeid="Mari" changedate="20220316T153426Z" creationid="hcartagena" creationdate="20151124T230012Z">
         <seg>Comodines:
-La búsqueda exacta y por palabras clave admite los caracteres comodín * y ?.</seg>
+La búsqueda exacta y por palabras clave admiten los caracteres comodín * y ?.</seg>
       </tuv>
     </tu>
     <tu>
