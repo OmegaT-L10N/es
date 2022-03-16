@@ -39272,6 +39272,14 @@ una de ellas te alcanzó</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They have the meaning, familiar to Word users:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220316T153619Z" creationid="Mari" creationdate="20220316T153619Z">
+        <seg>Su significado es familiar para los usuarios de Word:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160316T144326Z" creationid="Antonio" creationdate="20160316T144326Z">
