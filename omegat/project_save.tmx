@@ -29626,6 +29626,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press the &lt;g0&gt;Filter&lt;/g0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T183958Z" creationid="Mari" creationdate="20220322T183831Z">
+        <seg>Pulse el botón &lt;g0&gt;Filtro&lt;/g0&gt; en la parte inferior para limitar las entradas que se muestran en la ventana del editor a las que coinciden con la búsqueda actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211110T113853Z" creationid="hcartagena" creationdate="20180605T181625Z">
