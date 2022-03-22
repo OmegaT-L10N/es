@@ -19411,6 +19411,15 @@ configuración para que muestre la extensión de los archivos.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Wrong UI option. The right one is "Show Advanced Options".</note>
+      <tuv lang="en">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T181649Z" creationid="Mari" creationdate="20220322T181649Z">
+        <seg>Si hace clic en el botón &lt;g0&gt;Mostrar opciones avanzadas&lt;/g0&gt;, se pueden seleccionar criterios adicionales (autor o revisor de la traducción, fecha de traducción, exclusión de segmentos huérfanos, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
