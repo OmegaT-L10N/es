@@ -44521,6 +44521,14 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T181057Z" creationid="Mari" creationdate="20220322T181057Z">
+        <seg>Cuando se busca en archivos (a diferencia de las memorias de traducción), OmegaT restringe la búsqueda a los archivos en formatos de archivo original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220124T164809Z" creationid="Mari" creationdate="20220124T164809Z">
