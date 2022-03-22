@@ -4399,6 +4399,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;case sensitive&lt;/g0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T103459Z" creationid="Mari" creationdate="20220322T103459Z">
+        <seg>&lt;g0&gt;Distinguir mayúsculas&lt;/g0&gt;: se hará la búsqueda de la cadena exacta especificada; es decir, se respetan las mayúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221831Z" creationid="hcartagena" creationdate="20151201T221831Z">
