@@ -6968,6 +6968,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally to one of the methods above you can select the following:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T103110Z" creationid="Mari" creationdate="20220322T103110Z">
+        <seg>Además de uno de los métodos anteriores, puede seleccionar las siguientes opciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T173642Z" creationid="Cristina" creationdate="20170917T173642Z">
