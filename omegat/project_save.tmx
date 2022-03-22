@@ -8704,8 +8704,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T115223Z" creationid="hcartagena" creationdate="20151117T202341Z">
-        <seg>Sincronizar con la ventana Editor</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182840Z" creationid="hcartagena" creationdate="20151117T202341Z">
+        <seg>Sincronizar automáticamente con la ventana Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -13639,8 +13639,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;g0&gt;Auto-sync with Editor&lt;/g0&gt; option is checked).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T182821Z" creationid="Mari" creationdate="20220322T182821Z">
-        <seg>Si hace doble clic en un segmento, se abrirá en el Editor para modificarlo (un solo clic lo hace cuando la opción &lt;g0&gt;Sincronizar con la ventana Editor&lt;/g0&gt; está marcada).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182917Z" creationid="Mari" creationdate="20220322T182821Z">
+        <seg>Si hace doble clic en un segmento, se abrirá en el Editor para modificarlo (un solo clic lo hace cuando la opción &lt;g0&gt;Sincronizar automáticamente con la ventana Editor&lt;/g0&gt; está marcada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46180,6 +46180,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T192006Z" creationid="nenyavie" creationdate="20200226T144447Z">
         <seg>Entonces podrá crear una clave de acceso en la página &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T183118Z" creationid="Mari" creationdate="20220322T183118Z">
+        <seg>A continuación, puede volver a la ventana de búsqueda y pasar al siguiente segmento encontrado, por ejemplo, para comprobarlo y, si es necesario, corregir la terminología.</seg>
       </tuv>
     </tu>
     <tu>
