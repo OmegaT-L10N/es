@@ -43654,8 +43654,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T101505Z" creationid="Mari" creationdate="20220322T101505Z">
-        <seg>Por lo tanto, el uso de la búsqueda con palabras clave la búsqueda de &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; encontrará todas las apariciones de la cadena &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, pero no &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; u &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T101902Z" creationid="Mari" creationdate="20220322T101505Z">
+        <seg>Por lo tanto, el uso de la búsqueda con palabras clave de &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; encontrará todas las apariciones de la cadena &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt;, así como &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt; &lt;/e4&gt;, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45548,8 +45548,8 @@ podrá iniciar el programa de inicio en Kaptain con:</seg>
       <tuv lang="en">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T121952Z" creationid="nenyavie" creationdate="20200226T122044Z">
-        <seg>También puede hacer que el corrector ortográfico ignore todas las ocurrencias de la palabra mal escrita o que la añada al diccionario.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T101517Z" creationid="nenyavie" creationdate="20200226T122044Z">
+        <seg>También puede hacer que el corrector ortográfico ignore todas las apariciones de la palabra mal escrita o que la añada al diccionario.</seg>
       </tuv>
     </tu>
     <tu>
