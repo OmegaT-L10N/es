@@ -4481,16 +4481,16 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T105552Z" creationid="Mari" creationdate="20220322T105552Z">
-        <seg>&lt;g0&gt;En notas&lt;/g0&gt;: busca en las notas de los segmentos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180850Z" creationid="Mari" creationdate="20220322T105552Z">
+        <seg>&lt;g0&gt;En notas&lt;/g0&gt;: busque en las notas de los segmentos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T104636Z" creationid="Mari" creationdate="20220322T104636Z">
-        <seg>&lt;g0&gt;En el original&lt;/g0&gt;: busca en los segmentos originales.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180837Z" creationid="Mari" creationdate="20220322T104636Z">
+        <seg>&lt;g0&gt;En el original&lt;/g0&gt;: busque en los segmentos originales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4498,8 +4498,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;in translations&lt;/g0&gt;: search in the target segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T105556Z" creationid="Mari" creationdate="20220322T105505Z">
-        <seg>&lt;g0&gt;En la traducción&lt;/g0&gt;: busca en los segmentos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180844Z" creationid="Mari" creationdate="20220322T105505Z">
+        <seg>&lt;g0&gt;En la traducción&lt;/g0&gt;: busque en los segmentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
