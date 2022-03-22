@@ -18506,6 +18506,14 @@ que introducir la ruta completa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T184843Z" creationid="Mari" creationdate="20220322T184843Z">
+        <seg>Si una búsqueda elimina los duplicados, estos no estarán presentes en el Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
       <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231950Z" creationid="Cristina" creationdate="20170822T183518Z">
