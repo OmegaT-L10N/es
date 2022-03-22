@@ -32180,6 +32180,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for segments containing all keywords you specified, in any order.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T100116Z" creationid="Mari" creationdate="20220322T100116Z">
+        <seg>Busca los segmentos que contienen todas las palabras clave que ha especificado, sin importar el orden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220316T164817Z" creationid="Mari" creationdate="20220316T164817Z">
@@ -49756,6 +49764,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221408Z" creationid="hcartagena" creationdate="20151201T221408Z">
         <seg>en lugar de la tecla &lt;k2&gt;Control&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>keyword search</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T095912Z" creationid="Mari" creationdate="20220322T095912Z">
+        <seg>búsqueda por palabras clave</seg>
       </tuv>
     </tu>
     <tu>
