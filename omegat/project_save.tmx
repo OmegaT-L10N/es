@@ -4783,6 +4783,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T102944Z" creationid="Mari" creationdate="20220322T102944Z">
+        <seg>Las &lt;l0&gt;expresiones regulares&lt;/l0&gt; son una forma muy eficaz de buscar elementos de una cadena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T223048Z" creationid="hcartagena" creationdate="20151201T223048Z">
