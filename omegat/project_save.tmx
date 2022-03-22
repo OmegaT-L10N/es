@@ -22254,6 +22254,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T101301Z" creationid="Mari" creationdate="20220322T101301Z">
+        <seg>Las búsquedas con palabras clave son similares a una búsqueda "con todas las palabras" en un motor de búsqueda de Internet como Google (función lógica AND).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220322T100318Z" creationid="hcartagena" creationdate="20151124T225930Z">
@@ -26478,6 +26486,14 @@ la carpeta Aplicaciones.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T110550Z" creationid="Mari" creationdate="20211111T110550Z">
         <seg>Tema predeterminado de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T100753Z" creationid="Mari" creationdate="20220322T100753Z">
+        <seg>OmegaT mostrará una lista con todos los segmentos que contienen todas las palabras especificadas.</seg>
       </tuv>
     </tu>
     <tu>
