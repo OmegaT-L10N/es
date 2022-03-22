@@ -46112,6 +46112,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T183409Z" creationid="Mari" creationdate="20220322T183409Z">
+        <seg>Puede ver rápidamente su contenido mirando el título, que contendrá el término de búsqueda utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; and &lt;f2&gt;-level2.tmx&lt;/f2&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T170033Z" creationid="Mari" creationdate="20211127T170033Z">
@@ -46342,6 +46350,14 @@ de una ventana de Finder para poder iniciarla desde cualquier ubicación.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T172142Z" creationid="Mari" creationdate="20211127T172142Z">
         <seg>Incluso puede considerar eliminar las que ya no son necesarias, una vez que haya utilizado su contenido para llenar el archivo &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have several Search windows open at the same time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T183315Z" creationid="Mari" creationdate="20220322T183315Z">
+        <seg>Puede tener varias ventanas de búsqueda abiertas a la vez.</seg>
       </tuv>
     </tu>
     <tu>
