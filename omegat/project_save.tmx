@@ -20004,8 +20004,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T153519Z" creationid="Mari" creationdate="20220316T153411Z">
-        <seg>En ambos tipos de búsqueda, exacta y por palabras clave, se pueden utilizar los caracteres comodín de búsqueda '*' y '?'.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T100405Z" creationid="Mari" creationdate="20220316T153411Z">
+        <seg>En ambos tipos de búsqueda, exacta y con palabras clave, se pueden utilizar los caracteres comodín de búsqueda '*' y '?'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25516,8 +25516,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T164224Z" creationid="Mari" creationdate="20220316T164224Z">
-        <seg>Tenga en cuenta que "*" y "?" tienen un significado especial en las expresiones regulares, por lo que la búsqueda con comodines, tal y como se describe aquí, solo se aplica a la búsqueda exacta y por palabras clave (véase más adelante).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T100421Z" creationid="Mari" creationdate="20220316T164224Z">
+        <seg>Tenga en cuenta que "*" y "?" tienen un significado especial en las expresiones regulares, por lo que la búsqueda con comodines, tal y como se describe aquí, solo se aplica a la búsqueda exacta y con palabras clave (véase más adelante).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33073,8 +33073,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T100247Z" creationid="Mari" creationdate="20220322T100247Z">
-        <seg>Seleccione la búsqueda por palabras clave para buscar cualquier número de palabras individuales, separadas por espacios y en cualquier orden.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T100654Z" creationid="Mari" creationdate="20220322T100247Z">
+        <seg>Seleccione la búsqueda con palabras clave para buscar cualquier número de palabras individuales completas, en cualquier orden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49778,8 +49778,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>keyword search</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T095912Z" creationid="Mari" creationdate="20220322T095912Z">
-        <seg>búsqueda por palabras clave</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T100438Z" creationid="Mari" creationdate="20220322T095912Z">
+        <seg>búsqueda con palabras clave</seg>
       </tuv>
     </tu>
     <tu>
