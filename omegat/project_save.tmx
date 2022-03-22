@@ -8345,6 +8345,14 @@ El archivo TMX no se cargará.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As OmegaT handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182453Z" creationid="Mari" creationdate="20220322T182453Z">
+        <seg>Dado que OmegaT gestiona los segmentos idénticos como una sola entidad, únicamente se mostrará el primer segmento único.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
