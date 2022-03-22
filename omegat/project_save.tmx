@@ -33071,6 +33071,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T100247Z" creationid="Mari" creationdate="20220322T100247Z">
+        <seg>Seleccione la búsqueda por palabras clave para buscar cualquier número de palabras individuales, separadas por espacios y en cualquier orden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164325Z" creationid="hcartagena" creationdate="20180605T164325Z">
