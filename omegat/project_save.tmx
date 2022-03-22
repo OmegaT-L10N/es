@@ -4377,8 +4377,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T180831Z" creationid="Mari" creationdate="20220322T180831Z">
-        <seg>&lt;g0&gt;Buscar en Archivos&lt;/g0&gt;: </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T181004Z" creationid="Mari" creationdate="20220322T180831Z">
+        <seg>&lt;g0&gt;Buscar en Archivos&lt;/g0&gt;: busque en un solo archivo o en una carpeta que contenga varios archivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4441,24 +4441,24 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Translated or untranslated&lt;/g0&gt;: search in both translated and untranslated segments.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T105822Z" creationid="Mari" creationdate="20220322T105822Z">
-        <seg>&lt;g0&gt;Con y sin traducción&lt;/g0&gt;: busca en los segmentos traducidos y sin traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180900Z" creationid="Mari" creationdate="20220322T105822Z">
+        <seg>&lt;g0&gt;Con y sin traducción&lt;/g0&gt;: busque en los segmentos traducidos y sin traducir.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T175446Z" creationid="Mari" creationdate="20220322T175446Z">
-        <seg>&lt;g0&gt;Con traducción&lt;/g0&gt;: busca solo en los segmentos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180906Z" creationid="Mari" creationdate="20220322T175446Z">
+        <seg>&lt;g0&gt;Con traducción&lt;/g0&gt;: busque solo en los segmentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T175518Z" creationid="Mari" creationdate="20220322T175518Z">
-        <seg>&lt;g0&gt;Sin traducción&lt;/g0&gt;: busca solo en los segmentos sin traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180910Z" creationid="Mari" creationdate="20220322T175518Z">
+        <seg>&lt;g0&gt;Sin traducción&lt;/g0&gt;: busque solo en los segmentos sin traducir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4473,8 +4473,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;in comments&lt;/g0&gt;: search in comments to segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T105635Z" creationid="Mari" creationdate="20220322T105635Z">
-        <seg>&lt;g0&gt;En comentarios&lt;/g0&gt;: busca en los comentarios de los segmentos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180856Z" creationid="Mari" creationdate="20220322T105635Z">
+        <seg>&lt;g0&gt;En comentarios&lt;/g0&gt;: busque en los comentarios de los segmentos</seg>
       </tuv>
     </tu>
     <tu>
