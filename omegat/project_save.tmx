@@ -23595,6 +23595,14 @@ conectado a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T185833Z" creationid="Mari" creationdate="20220322T185833Z">
+        <seg>Error del motor de traducción automática({0}) {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T152654Z" creationid="Cristina" creationdate="20170820T152654Z">
@@ -25058,8 +25066,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211026T143617Z" creationid="Mari" creationdate="20211026T143617Z">
-        <seg>NB: el filtro Paquetes de recursos de Java™ ya los detecta.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T185705Z" creationid="Mari" creationdate="20211026T143617Z">
+        <seg>N. B.: el filtro Paquetes de recursos de Java™ ya los detecta.</seg>
       </tuv>
     </tu>
     <tu>
