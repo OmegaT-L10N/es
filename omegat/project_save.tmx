@@ -6457,6 +6457,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T184448Z" creationid="Mari" creationdate="20220322T184448Z">
+        <seg>La búsqueda puede estar limitada a 1000 entradas, por lo que si busca una frase común, el editor mostrará solo esas 1000 entradas y no todas las que coinciden con los criterios de búsqueda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A source</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222600Z" creationid="hcartagena" creationdate="20151201T222600Z">
