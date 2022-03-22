@@ -32422,6 +32422,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search results display</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182124Z" creationid="Mari" creationdate="20220322T182124Z">
+        <seg>Visualización de los resultados de búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search the web and you will probably find the translations.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T151531Z" creationid="Cristina" creationdate="20170924T151100Z">
