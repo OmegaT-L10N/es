@@ -41441,6 +41441,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remove a filter, press the &lt;g0&gt;Remove filter&lt;/g0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T185003Z" creationid="Mari" creationdate="20220322T185003Z">
+        <seg>Para eliminar un filtro, pulse el botón &lt;g0&gt;Eliminar filtro&lt;/g0&gt; o vuelva a cargar el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To run OmegaT in the command line mode, a valid OmegaT project must be present.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220124T165021Z" creationid="Mari" creationdate="20220124T165021Z">
