@@ -4263,6 +4263,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Display: file names&lt;/g0&gt;: if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180010Z" creationid="Mari" creationdate="20220322T180010Z">
+        <seg>&lt;g0&gt;Mostrar: nombres de archivo&lt;/g0&gt;: si esta opción está marcada, se mostrará el nombre del archivo en el que se encuentra cada segmento encima de cada resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T195732Z" creationid="Mari" creationdate="20211123T144108Z">
