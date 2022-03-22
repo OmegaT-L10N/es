@@ -13637,6 +13637,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;g0&gt;Auto-sync with Editor&lt;/g0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182821Z" creationid="Mari" creationdate="20220322T182821Z">
+        <seg>Si hace doble clic en un segmento, se abrirá en el Editor para modificarlo (un solo clic lo hace cuando la opción &lt;g0&gt;Sincronizar con la ventana Editor&lt;/g0&gt; está marcada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140436Z" creationid="taty" creationdate="20181109T140436Z">
@@ -38604,8 +38612,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The segments are displayed in order of appearance in the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T182504Z" creationid="Mari" creationdate="20220322T182504Z">
-        <seg>Los segmentos se muestran en el orden de aparición en el proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182623Z" creationid="Mari" creationdate="20220322T182504Z">
+        <seg>Los segmentos se mostrarán en el orden de aparición en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
