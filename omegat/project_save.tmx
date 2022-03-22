@@ -6313,6 +6313,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T184712Z" creationid="Mari" creationdate="20220322T184712Z">
+        <seg>Un archivo puede no tener entradas que coincidan, por lo que la ventana estará vacía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T154001Z" creationid="Mari" creationdate="20211111T154001Z">
