@@ -29618,6 +29618,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182400Z" creationid="Mari" creationdate="20220322T182400Z">
+        <seg>Al pulsar el botón de búsqueda después de introducir una cadena en el campo de búsqueda, se mostrarán todos los segmentos del proyecto que incluyan la cadena introducida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prevent data loss</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T202300Z" creationid="Mari" creationdate="20211126T202300Z">
