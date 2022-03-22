@@ -4367,6 +4367,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Space matches nbsp&lt;/g0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T103800Z" creationid="Mari" creationdate="20220322T103800Z">
+        <seg>&lt;g0&gt;Incluir espacios de no separación&lt;/g0&gt;: cuando esta opción está marcada, un carácter de espacio puesto en la entrada de búsqueda puede coincidir tanto con un carácter de espacio normal como con un carácter de espacio de no separación (\u00A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T115536Z" creationid="Mari" creationdate="20220210T115536Z">
