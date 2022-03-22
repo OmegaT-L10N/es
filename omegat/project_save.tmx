@@ -4423,6 +4423,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T175518Z" creationid="Mari" creationdate="20220322T175518Z">
+        <seg>&lt;g0&gt;Sin traducción&lt;/g0&gt;: busca solo en los segmentos sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;case sensitive&lt;/g0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220322T103459Z" creationid="Mari" creationdate="20220322T103459Z">
