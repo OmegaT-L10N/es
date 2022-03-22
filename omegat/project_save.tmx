@@ -4255,6 +4255,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Display: all matching segments&lt;/g0&gt;: if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T175806Z" creationid="Mari" creationdate="20220322T175806Z">
+        <seg>&lt;g0&gt;Mostrar: todos los segmentos con coincidencias&lt;/g0&gt;: si esta opción está marcada, se mostrarán todos los segmentos uno por uno aunque estén presentes varias veces en el mismo documento o en documentos diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T195732Z" creationid="Mari" creationdate="20211123T144108Z">
