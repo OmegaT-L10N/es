@@ -4415,6 +4415,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T105552Z" creationid="Mari" creationdate="20220322T105552Z">
+        <seg>&lt;g0&gt;En notas&lt;/g0&gt;: busca en las notas de los segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220322T104636Z" creationid="Mari" creationdate="20220322T104636Z">
