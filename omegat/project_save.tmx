@@ -6778,8 +6778,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T184350Z" creationid="Antonio" creationdate="20151126T154512Z">
-        <seg>Origen del segmento activo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T104249Z" creationid="Antonio" creationdate="20151126T154512Z">
+        <seg>Original del segmento activo</seg>
       </tuv>
     </tu>
     <tu>
