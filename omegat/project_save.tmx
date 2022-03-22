@@ -25024,6 +25024,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T184150Z" creationid="Mari" creationdate="20220322T184150Z">
+        <seg>N. B.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T143617Z" creationid="Mari" creationdate="20211026T143617Z">
@@ -46252,6 +46260,14 @@ mediante el programa de instalación (linux-install.sh).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T194109Z" creationid="Antonio" creationdate="20160331T184551Z">
         <seg>Puede alternar entre diferentes modos de visualización pulsando &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (esta es la letra O, y no el número 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T184041Z" creationid="Mari" creationdate="20220322T184002Z">
+        <seg>Puede utilizar la navegación normal, por ejemplo, para ir al siguiente segmento (sin traducir) que coincide con los criterios de búsqueda.</seg>
       </tuv>
     </tu>
     <tu>
