@@ -10035,6 +10035,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g3&gt;TMs&lt;/g3&gt; to include the translation memories located in the &lt;f4&gt;tm&lt;/f4&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180638Z" creationid="Mari" creationdate="20220322T180523Z">
+        <seg>Marque &lt;g3&gt;Memorias de traducción&lt;/g3&gt; para incluir las memorias de traducción ubicadas en la carpeta &lt;f4&gt;tm&lt;/f4&gt; en la búsqueda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180604T232958Z" creationid="hcartagena" creationdate="20180604T232958Z">
