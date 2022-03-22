@@ -15902,6 +15902,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T183729Z" creationid="Mari" creationdate="20220322T183729Z">
+        <seg>Filtrar las entradas en el editor según la búsqueda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter options</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T142339Z" creationid="Antonio" creationdate="20160128T142339Z">
