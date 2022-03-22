@@ -4375,6 +4375,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180831Z" creationid="Mari" creationdate="20220322T180831Z">
+        <seg>&lt;g0&gt;Buscar en Archivos&lt;/g0&gt;: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Search in Project&lt;/g0&gt;: check &lt;g1&gt;Memory&lt;/g1&gt; to include the project memory (&lt;f2&gt;project_save.tmx&lt;/f2&gt; file) in the search.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220322T180331Z" creationid="Mari" creationdate="20220322T180331Z">
@@ -10039,6 +10047,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220322T180638Z" creationid="Mari" creationdate="20220322T180523Z">
         <seg>Marque &lt;g3&gt;Memorias de traducción&lt;/g3&gt; para incluir las memorias de traducción ubicadas en la carpeta &lt;f4&gt;tm&lt;/f4&gt; en la búsqueda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;g5&gt;Glossaries&lt;/g5&gt; to include the glossaries located in the &lt;f6&gt;glossary&lt;/f6&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T180715Z" creationid="Mari" creationdate="20220322T180715Z">
+        <seg>Marque &lt;g5&gt;Glosarios&lt;/g5&gt; para incluir los glosarios ubicados en la carpeta &lt;f6&gt;glossary&lt;/f6&gt; en la búsqueda.</seg>
       </tuv>
     </tu>
     <tu>
