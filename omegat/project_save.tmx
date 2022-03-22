@@ -4407,10 +4407,26 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Translated or untranslated&lt;/g0&gt;: search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T105822Z" creationid="Mari" creationdate="20220322T105822Z">
+        <seg>&lt;g0&gt;Con y sin traducción&lt;/g0&gt;: busca en los segmentos traducidos y sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;case sensitive&lt;/g0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220322T103459Z" creationid="Mari" creationdate="20220322T103459Z">
         <seg>&lt;g0&gt;Distinguir mayúsculas&lt;/g0&gt;: se hará la búsqueda de la cadena exacta especificada; es decir, se respetan las mayúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in comments&lt;/g0&gt;: search in comments to segments</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T105635Z" creationid="Mari" creationdate="20220322T105635Z">
+        <seg>&lt;g0&gt;En comentarios&lt;/g0&gt;: busca en los comentarios de los segmentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,8 +4450,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;in translations&lt;/g0&gt;: search in the target segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T105505Z" creationid="Mari" creationdate="20220322T105505Z">
-        <seg>&lt;g0&gt;En la traducción&lt;/g0&gt;: busca en los segmentos traducidos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T105556Z" creationid="Mari" creationdate="20220322T105505Z">
+        <seg>&lt;g0&gt;En la traducción&lt;/g0&gt;: busca en los segmentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
