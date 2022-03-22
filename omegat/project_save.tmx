@@ -46438,8 +46438,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T180704Z" creationid="hcartagena" creationdate="20180605T180704Z">
-        <seg>[{0}] “{1}” en origen; se esperaba uno de {2} en destino</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220322T103952Z" creationid="hcartagena" creationdate="20180605T180704Z">
+        <seg>[{0}] “{1}” en el original; se esperaba uno de {2} en la traducción</seg>
       </tuv>
     </tu>
     <tu>
