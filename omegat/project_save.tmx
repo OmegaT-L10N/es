@@ -38602,6 +38602,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segments are displayed in order of appearance in the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182504Z" creationid="Mari" creationdate="20220322T182504Z">
+        <seg>Los segmentos se muestran en el orden de aparición en el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220221T154638Z" creationid="taty" creationdate="20181205T155854Z">
@@ -42035,6 +42043,14 @@ OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-inst
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T153925Z" creationid="Antonio" creationdate="20151126T153925Z">
         <seg>Segmentos traducidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T182613Z" creationid="Mari" creationdate="20220322T182613Z">
+        <seg>Los segmentos traducidos se mostrarán con el texto original en la parte superior y el texto traducido en la parte inferior; en los segmentos sin traducir se mostrará únicamente el original.</seg>
       </tuv>
     </tu>
     <tu>
