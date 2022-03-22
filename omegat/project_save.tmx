@@ -11075,6 +11075,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consequently, although OmegaT is quite able to handle &lt;f1&gt;tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220322T181359Z" creationid="Mari" creationdate="20220322T181359Z">
+        <seg>Por tanto, aunque OmegaT es bastante capaz de gestionar archivos &lt;f1&gt;tmx&lt;/f1&gt;, no los incluye en la búsqueda Buscar en Archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T153518Z" creationid="Mari" creationdate="20220113T153518Z">
