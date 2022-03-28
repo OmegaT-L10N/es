@@ -27114,8 +27114,8 @@ del sistema que contiene su carpeta particular.</seg>
         <seg>OmegaT is then ready to
 be launched.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T214941Z" creationid="hcartagena" creationdate="20200729T214941Z">
-        <seg>OmegaT ya está listo
+      <tuv lang="es" changeid="Mari" changedate="20220328T111814Z" creationid="hcartagena" creationdate="20200729T214941Z">
+        <seg>OmegaT está listo
 para iniciarse.</seg>
       </tuv>
     </tu>
@@ -46118,9 +46118,9 @@ para enlazarlo desde allí.</seg>
         <seg>You can however obtain a neater and more user-friendly installation by using the
 installation script (linux-install.sh).</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T215021Z" creationid="hcartagena" creationdate="20200729T215021Z">
+      <tuv lang="es" changeid="Mari" changedate="20220328T111915Z" creationid="hcartagena" creationdate="20200729T215021Z">
         <seg>Sin embargo, puede obtener una instalación más limpia y fácil de usar
-mediante el programa de instalación (linux-install.sh).</seg>
+mediante el script de instalación (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
