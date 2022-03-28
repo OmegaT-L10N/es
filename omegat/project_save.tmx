@@ -42977,8 +42977,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
 file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T214837Z" creationid="hcartagena" creationdate="20200729T214820Z">
-        <seg>Descomprima el archivo .zip de OmegaT para obtener una carpeta que contiene
+      <tuv lang="es" changeid="Mari" changedate="20220328T111657Z" creationid="hcartagena" creationdate="20200729T214820Z">
+        <seg>Descomprima el archivo .zip de OmegaT para obtener una carpeta que contenga
 un archivo de documentación y la aplicación de OmegaT.</seg>
       </tuv>
     </tu>
