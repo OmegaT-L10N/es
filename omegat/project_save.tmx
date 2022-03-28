@@ -44464,8 +44464,8 @@ puede buscar en los archivos sin suscripción:</seg>
         <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
 of selecting, obtaining and installing it.</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014317Z" creationid="hectorcartagena" creationdate="20200508T014317Z">
-        <seg>Recomendamos usar paquetes de OmegaT que incluyan JRE para evitarle la molestia 
+      <tuv lang="es" changeid="Mari" changedate="20220328T111307Z" creationid="hectorcartagena" creationdate="20200508T014317Z">
+        <seg>Recomendamos utilizar los paquetes de OmegaT que incluyen JRE para ahorrarle las molestias
 de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
     </tu>
