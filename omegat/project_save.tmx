@@ -26953,11 +26953,8 @@ Computer-Assisted Translation).</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014139Z" creationid="hectorcartagena" creationdate="20200508T013041Z">
-        <seg>OmegaT es una herramienta multiplataforma libre para la traducción asistida por 
-computadora (TAC) que está dotada de diversas funciones: coincidencias aproximadas, 
-memoria de traducción, búsqueda por palabras clave, glosarios y aprovechamiento de 
-traducciones previas en proyectos nuevos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220328T105856Z" creationid="hectorcartagena" creationdate="20200508T013041Z">
+        <seg>OmegaT es una herramienta multiplataforma de código abierto para la traducción asistida por ordenador (TAO) que está dotada de diversas funciones: coincidencias aproximadas, memoria de traducción, búsqueda con palabras clave, glosarios y aprovechamiento de traducciones previas en proyectos nuevos.</seg>
       </tuv>
     </tu>
     <tu>
