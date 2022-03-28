@@ -41682,10 +41682,10 @@ servidor.</seg>
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T215117Z" creationid="hcartagena" creationdate="20200729T215117Z">
-        <seg>Para usar este programa, abra una
+      <tuv lang="es" changeid="Mari" changedate="20220328T112110Z" creationid="hcartagena" creationdate="20200729T215117Z">
+        <seg>Para utilizar este script, abra una
 ventana de terminal (consola), cambie la carpeta a aquella que contiene
-OmegaT.jar y el programa linux-install.sh y ejecute el programa con ./linux-install.sh.</seg>
+OmegaT.jar y el script linux-install.sh y ejecute el script con ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
