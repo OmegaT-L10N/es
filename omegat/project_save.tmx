@@ -27260,8 +27260,8 @@ para iniciarse.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200508T014223Z" creationid="hectorcartagena" creationdate="20200508T014103Z">
-        <seg>OmegaT requiere que tenga instalado en su sistema Java Runtime Environment (JRE) 
+      <tuv lang="es" changeid="Mari" changedate="20220328T110626Z" creationid="hectorcartagena" creationdate="20200508T014103Z">
+        <seg>OmegaT requiere que tenga instalado en su sistema Java Runtime Environment (JRE)
 versión 1.8 o superior.</seg>
       </tuv>
     </tu>
