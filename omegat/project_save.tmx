@@ -19544,9 +19544,9 @@ configuración para que muestre la extensión de los archivos.</seg>
         <seg>If you have already Java installed on your system, one way to install OmegaT is
 to use Java Web Start.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T215207Z" creationid="hcartagena" creationdate="20200729T215207Z">
+      <tuv lang="es" changeid="Mari" changedate="20220329T092911Z" creationid="hcartagena" creationdate="20200729T215207Z">
         <seg>Si ya tiene Java instalado en su sistema, una manera de instalar OmegaT
-es usar Java Web Start.</seg>
+es utilizar Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43900,8 +43900,8 @@ puede buscar en los archivos sin suscripción:</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T215140Z" creationid="hcartagena" creationdate="20200729T215140Z">
-        <seg>Usar Java Web Start para instalar OmegaT (todas las plataformas)
+      <tuv lang="es" changeid="Mari" changedate="20220329T092847Z" creationid="hcartagena" creationdate="20200729T215140Z">
+        <seg>Utilizar Java Web Start para instalar OmegaT (todas las plataformas)
 ===========================================================</seg>
       </tuv>
     </tu>
