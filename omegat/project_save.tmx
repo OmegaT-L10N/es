@@ -37812,9 +37812,9 @@ mas otras te dan la bienvenida</seg>
         <seg>The installer can create shortcuts for you in the start menu, on the desktop and
 in the quick launch area.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T215401Z" creationid="hcartagena" creationdate="20200729T215401Z">
-        <seg>El instalador puede crear accesos directos para usted en el menú
-de inicio, en el escritorio y en el área de inicio rápido.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220329T093800Z" creationid="hcartagena" creationdate="20200729T215401Z">
+        <seg>El instalador puede crear accesos directos en el menú
+Inicio, en el escritorio y en el área de inicio rápido.</seg>
       </tuv>
     </tu>
     <tu>
