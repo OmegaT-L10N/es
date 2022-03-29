@@ -16185,9 +16185,9 @@ La tela de araña te retiene
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T215854Z" creationid="hcartagena" creationdate="20200729T215854Z">
-        <seg>Una manera más fácil de iniciar OmegaT es con
-el programa Kaptain que está incluido (omegat.kaptn).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220329T095201Z" creationid="hcartagena" creationdate="20200729T215854Z">
+        <seg>Una manera más fácil de iniciar OmegaT es con el script Kaptain,
+que está incluido (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
