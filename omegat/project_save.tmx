@@ -22930,9 +22930,9 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Later calls do not need to be online.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T215247Z" creationid="hcartagena" creationdate="20200729T215247Z">
-        <seg>En posteriores llamadas no es necesario estar
-conectado a Internet.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220329T093531Z" creationid="hcartagena" creationdate="20200729T215247Z">
+        <seg>En posteriores llamadas no es necesario tener
+conexión a Internet.</seg>
       </tuv>
     </tu>
     <tu>
