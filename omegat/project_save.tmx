@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232919Z" creationid="hectorcartagena" creationdate="20200504T232919Z">
-        <seg>"No se puede lanzar desde la carpeta que tiene \"/\" en el nombre.";</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T185442Z" creationid="hectorcartagena" creationdate="20200504T232919Z">
+        <seg>"No se puede iniciar desde la carpeta que tiene \"/\" en el nombre.";</seg>
       </tuv>
     </tu>
     <tu>
