@@ -47564,8 +47564,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T220024Z" creationid="hcartagena" creationdate="20200729T220024Z">
-        <seg>cd &lt;directorio donde está el archivo OmegaT.jar&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T181839Z" creationid="hcartagena" creationdate="20200729T220024Z">
+        <seg>cd &lt;carpeta donde está el archivo OmegaT.jar&gt;</seg>
       </tuv>
     </tu>
     <tu>
