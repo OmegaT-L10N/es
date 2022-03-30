@@ -53974,6 +53974,16 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">EXTERNALFINDER_EDITOR_COLUMN_TARGET</prop>
+      <tuv lang="en">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220330T202349Z" creationid="Mari" creationdate="20220330T202349Z">
+        <seg>Destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">KEYSTROKE_EDITOR_NOT_SET</prop>
       <tuv lang="en">
         <seg>Not Set</seg>
