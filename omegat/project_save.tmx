@@ -9700,8 +9700,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Cannot find GPG executable on the bash $PATH</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T160651Z" creationid="Mari" creationdate="20220316T160651Z">
-        <seg>No se puede encontrar el ejecutable GPG en el $PATH de bash</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T182943Z" creationid="Mari" creationdate="20220316T160651Z">
+        <seg>No se puede encontrar el ejecutable de GPG en el $PATH de bash</seg>
       </tuv>
     </tu>
     <tu>
