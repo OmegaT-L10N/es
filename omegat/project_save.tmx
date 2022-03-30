@@ -4967,8 +4967,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220330T182143Z" creationid="hcartagena" creationdate="20200729T224906Z">
-        <seg>&lt;nombre y ruta del archivo ejecutable de Java&gt; -jar OmegaT.jar</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T182656Z" creationid="hcartagena" creationdate="20200729T224906Z">
+        <seg>&lt;nombre y ruta de acceso del archivo ejecutable de Java&gt; -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -22840,8 +22840,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T164157Z" creationid="hcartagena" creationdate="20180605T034213Z">
-        <seg>LanguageTool: ruta local no válida</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T182724Z" creationid="hcartagena" creationdate="20180605T034213Z">
+        <seg>LanguageTool: ruta de acceso local no válida</seg>
       </tuv>
     </tu>
     <tu>
@@ -23419,8 +23419,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T164439Z" creationid="hcartagena" creationdate="20180605T164439Z">
-        <seg>Ruta local de instalación:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T182809Z" creationid="hcartagena" creationdate="20180605T164439Z">
+        <seg>Ruta de acceso de instalación local:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28851,8 +28851,8 @@ cual bruma se disipa</seg>
       <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T233935Z" creationid="hcartagena" creationdate="20151124T233935Z">
-        <seg>Ruta:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T182715Z" creationid="hcartagena" creationdate="20151124T233935Z">
+        <seg>Ruta de acceso:</seg>
       </tuv>
     </tu>
     <tu>
