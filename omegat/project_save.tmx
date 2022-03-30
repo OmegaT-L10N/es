@@ -29219,8 +29219,8 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="en">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232534Z" creationid="hectorcartagena" creationdate="20200504T232534Z">
-        <seg>Descargue e instale el Java JDK más reciente desde Oracle.com y vuelva a intentarlo.";</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T184910Z" creationid="hectorcartagena" creationdate="20200504T232534Z">
+        <seg>Descargue e instale la versión más reciente de Java JDK desde Oracle.com y vuelva a intentarlo.";</seg>
       </tuv>
     </tu>
     <tu>
