@@ -1877,6 +1877,16 @@ proyecto OmegaT pero no ve su nombre en las listas, no dude en contactarnos).</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220330T184051Z" creationid="Mari" creationdate="20220330T184051Z">
+        <seg>(Si cree que ha contribuido de manera significativa al
+proyecto OmegaT, pero no ve su nombre en las listas, no dude en contactarnos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170918T190527Z" creationid="Cristina" creationdate="20170918T190445Z">
