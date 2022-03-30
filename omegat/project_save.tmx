@@ -43470,8 +43470,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233306Z" creationid="hectorcartagena" creationdate="20200504T233306Z">
-        <seg>Usar el idioma de instalación en OmegaT</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T185808Z" creationid="hectorcartagena" creationdate="20200504T233306Z">
+        <seg>Utilizar el idioma de la instalación en OmegaT</seg>
       </tuv>
     </tu>
     <tu>
