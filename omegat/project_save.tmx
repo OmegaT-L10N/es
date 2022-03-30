@@ -3298,8 +3298,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220310T105619Z" creationid="Mari" creationdate="20220310T104649Z">
-        <seg>&lt;e0&gt;Añadir archivos al proyecto:&lt;/e0&gt; puede añadir archivos originales al proyecto haciendo clic en el botón &lt;g1&gt;Copiar archivos en la carpeta de archivos originales…&lt;/g1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T204725Z" creationid="Mari" creationdate="20220310T104649Z">
+        <seg>&lt;e0&gt;Añadir archivos al proyecto:&lt;/e0&gt; puede añadir archivos originales al proyecto haciendo clic en el botón &lt;g1&gt;Copiar archivos en la carpeta source…&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10542,8 +10542,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T111834Z" creationid="hcartagena" creationdate="20151201T222015Z">
-        <seg>Haga clic en &lt;g1&gt;Copiar archivos en la carpeta de archivos originales…&lt;/g1&gt;para seleccionar los archivos originales.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T204701Z" creationid="hcartagena" creationdate="20151201T222015Z">
+        <seg>Haga clic en &lt;g1&gt;Copiar archivos en la carpeta source…&lt;/g1&gt;para seleccionar los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11414,8 +11414,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195435Z" creationid="hcartagena" creationdate="20151116T202403Z">
-        <seg>Copiar archivos en la carpeta de archivos originales…</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T204649Z" creationid="hcartagena" creationdate="20151116T202403Z">
+        <seg>Copiar archivos en la carpeta source…</seg>
       </tuv>
     </tu>
     <tu>
