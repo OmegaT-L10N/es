@@ -19843,8 +19843,8 @@ es utilizar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T233243Z" creationid="hectorcartagena" creationdate="20200504T233243Z">
-        <seg>Si desea usar en OmegaT el mismo idioma usado durante la instalación, marque la casilla de abajo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T185708Z" creationid="hectorcartagena" creationdate="20200504T233243Z">
+        <seg>Si desea utilizar el mismo idioma en OmegaT que el usado durante la instalación, marque la casilla de abajo.</seg>
       </tuv>
     </tu>
     <tu>
