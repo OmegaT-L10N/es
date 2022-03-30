@@ -4968,8 +4968,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T224906Z" creationid="hcartagena" creationdate="20200729T224906Z">
-        <seg>&lt;nombre y ruta del archivo Java ejecutable&gt; -jar OmegaT.jar</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220330T182143Z" creationid="hcartagena" creationdate="20200729T224906Z">
+        <seg>&lt;nombre y ruta del archivo ejecutable de Java&gt; -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
