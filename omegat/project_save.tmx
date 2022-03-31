@@ -31512,6 +31512,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110846Z" creationid="Mari" creationdate="20220331T110846Z">
+        <seg>Sustituir los espacios por espacios no rompibles cuando corresponda en francés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160329T210220Z" creationid="hcartagena" creationdate="20151116T202953Z">
