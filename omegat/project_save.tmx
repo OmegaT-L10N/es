@@ -29395,6 +29395,14 @@ destino al que desea traducirlos.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104357Z" creationid="Mari" creationdate="20220331T104357Z">
+        <seg>Vuelva a intentarlo después de abrir un proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T214833Z" creationid="Víctor Parra" creationdate="20151126T195149Z">
