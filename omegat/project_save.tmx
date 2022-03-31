@@ -13686,6 +13686,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104702Z" creationid="Mari" creationdate="20220331T104702Z">
+        <seg>Espacios dobles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140436Z" creationid="taty" creationdate="20181109T140436Z">
@@ -45099,6 +45107,22 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T232845Z" creationid="Antonio" creationdate="20151127T163347Z">
         <seg>Espacio en blanco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104517Z" creationid="Mari" creationdate="20220331T104517Z">
+        <seg>Espacio en blanco - inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104527Z" creationid="Mari" creationdate="20220331T104527Z">
+        <seg>Espacio en blanco - final</seg>
       </tuv>
     </tu>
     <tu>
