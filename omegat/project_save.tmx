@@ -10276,6 +10276,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check start case</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110245Z" creationid="Mari" creationdate="20220331T110245Z">
+        <seg>Comprobar la mayúscula inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check that spelling checking is enabled in the spelling checking dialog.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T165236Z" creationid="taty" creationdate="20181109T165236Z">
