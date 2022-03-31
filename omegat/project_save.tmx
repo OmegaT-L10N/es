@@ -10156,6 +10156,22 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105947Z" creationid="Mari" creationdate="20220331T105947Z">
+        <seg>Comprobar espacios dobles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105959Z" creationid="Mari" creationdate="20220331T105959Z">
+        <seg>Comprobar palabras dobles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for leading whitespace</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220331T105638Z" creationid="Mari" creationdate="20220331T105638Z">
@@ -10168,6 +10184,22 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T200955Z" creationid="Mari" creationdate="20211129T200955Z">
         <seg>Pulse &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; para comprobar posibles errores de etiquetas y &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt; para los segmentos sin traducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110023Z" creationid="Mari" creationdate="20220331T110023Z">
+        <seg>Comprobar las traducciones más cortas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105934Z" creationid="Mari" creationdate="20220331T105934Z">
+        <seg>Comprobar espacios en blanco finales</seg>
       </tuv>
     </tu>
     <tu>
