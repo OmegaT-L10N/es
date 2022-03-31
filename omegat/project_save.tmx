@@ -14946,6 +14946,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104408Z" creationid="Mari" creationdate="20220331T104408Z">
+        <seg>Errores encontrados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Escape</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T095709Z" creationid="nenyavie" creationdate="20200225T095709Z">
@@ -22884,6 +22892,14 @@ en la primera ejecución.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T164100Z" creationid="hcartagena" creationdate="20180605T164100Z">
         <seg>LanguageTool: el servidor devolvió XML cuando se esperaba JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104441Z" creationid="Mari" creationdate="20220331T104441Z">
+        <seg>Reglas de LanguageTools</seg>
       </tuv>
     </tu>
     <tu>
@@ -31821,6 +31837,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T044524Z" creationid="hcartagena" creationdate="20160401T044524Z">
         <seg>Fila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104415Z" creationid="Mari" creationdate="20220331T104415Z">
+        <seg>Regla</seg>
       </tuv>
     </tu>
     <tu>
