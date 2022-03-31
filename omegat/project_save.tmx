@@ -10212,6 +10212,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110616Z" creationid="Mari" creationdate="20220331T110616Z">
+        <seg>Comprobar segmentos con errores ortográficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for shorter target</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220331T110023Z" creationid="Mari" creationdate="20220331T110023Z">
@@ -25804,6 +25812,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-breaking space</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110715Z" creationid="Mari" creationdate="20220331T110715Z">
+        <seg>Espacio de no separación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-unique segments</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T153901Z" creationid="Antonio" creationdate="20151126T153901Z">
@@ -30842,6 +30858,14 @@ digo: "página no encontrada"</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T172757Z" creationid="Antonio" creationdate="20151127T172757Z">
         <seg>Referencias:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110624Z" creationid="Mari" creationdate="20220331T110624Z">
+        <seg>Actualizar</seg>
       </tuv>
     </tu>
     <tu>
