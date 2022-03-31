@@ -30401,6 +30401,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>QA - Check Rules</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T103655Z" creationid="Mari" creationdate="20220331T103655Z">
+        <seg>QA - Reglas de verificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Qabiria</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140714Z" creationid="taty" creationdate="20181109T140714Z">
