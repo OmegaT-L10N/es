@@ -31514,8 +31514,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220331T110846Z" creationid="Mari" creationdate="20220331T110846Z">
-        <seg>Sustituir los espacios por espacios no rompibles cuando corresponda en francés</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110948Z" creationid="Mari" creationdate="20220331T110846Z">
+        <seg>Sustituir los espacios con espacios de no separación cuando corresponda en francés</seg>
       </tuv>
     </tu>
     <tu>
@@ -31562,8 +31562,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20191209T222729Z" creationid="nenyavie" creationdate="20191209T222729Z">
-        <seg>Sustituye el segmento traducido íntegro por la coincidencia aproximada seleccionada (de manera predeterminada se selecciona la primera).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110859Z" creationid="nenyavie" creationdate="20191209T222729Z">
+        <seg>Sustituye el segmento traducido íntegro con la coincidencia aproximada seleccionada (de manera predeterminada se selecciona la primera).</seg>
       </tuv>
     </tu>
     <tu>
