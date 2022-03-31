@@ -15274,6 +15274,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T111253Z" creationid="Mari" creationdate="20220331T111253Z">
+        <seg>Ejemplo - Buscar y reemplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example mappings</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T151954Z" creationid="Mari" creationdate="20211130T151954Z">
