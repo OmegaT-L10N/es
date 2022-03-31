@@ -10148,6 +10148,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105638Z" creationid="Mari" creationdate="20220331T105638Z">
+        <seg>Comprobar espacios en blanco iniciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for possible Tag errors with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; and untranslated segments with &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T200955Z" creationid="Mari" creationdate="20211129T200955Z">
@@ -10312,6 +10320,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T125237Z" creationid="Antonio" creationdate="20160126T165952Z">
         <seg>Seleccione esta opción para registrar en el archivo de &lt;f0&gt;project_save.tmx&lt;/f0&gt; la información que un segmento ha sido autorrellenado, de manera que pueda mostrarse con un color específico en el Editor (si está marcada la opción "Marcar segmentos autorrellenados" en el menú Ver).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105556Z" creationid="Mari" creationdate="20220331T105556Z">
+        <seg>Verificar todo el proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -34954,6 +34970,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T154841Z" creationid="Cristina" creationdate="20170917T154841Z">
         <seg>Diccionarios ortográficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105534Z" creationid="Mari" creationdate="20220331T105534Z">
+        <seg>Errores ortográficos</seg>
       </tuv>
     </tu>
     <tu>
