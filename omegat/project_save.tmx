@@ -14738,6 +14738,14 @@ soy la pantalla azul de la muerte,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105254Z" creationid="Mari" creationdate="20220331T105254Z">
+        <seg>Original y traducción iguales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Equally, if you abandon the translation work for any reason, please update your entry in the plan to show this.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T163109Z" creationid="Cristina" creationdate="20170924T163109Z">
@@ -35848,6 +35856,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105353Z" creationid="Mari" creationdate="20220331T105353Z">
+        <seg>Etiquetas - número</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tahitian</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T160946Z" creationid="Antonio" creationdate="20151128T160946Z">
@@ -43160,6 +43176,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T164024Z" creationid="Mari" creationdate="20211127T164024Z">
         <seg>Hasta que esté familiarizado con OmegaT, cree archivos traducidos a intervalos regulares y compruebe que el archivo traducido contiene la última versión de su traducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105342Z" creationid="Mari" creationdate="20220331T105342Z">
+        <seg>Segmento sin traducción</seg>
       </tuv>
     </tu>
     <tu>
