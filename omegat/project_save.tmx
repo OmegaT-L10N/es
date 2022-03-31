@@ -10180,6 +10180,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110051Z" creationid="Mari" creationdate="20220331T110051Z">
+        <seg>Comprobar las traducciones más largas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for possible Tag errors with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; and untranslated segments with &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T200955Z" creationid="Mari" creationdate="20211129T200955Z">
@@ -10232,6 +10240,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T113439Z" creationid="Mari" creationdate="20211125T113439Z">
         <seg>Marque o desmarque las reglas en función de su relevancia respecto al tipo de texto que esté traduciendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check punctuation at segment end</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110203Z" creationid="Mari" creationdate="20220331T110203Z">
+        <seg>Comprobar puntuación al final del segmento</seg>
       </tuv>
     </tu>
     <tu>
