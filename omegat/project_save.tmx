@@ -10172,6 +10172,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T110332Z" creationid="Mari" creationdate="20220331T110332Z">
+        <seg>Comprobar si original y traducción son iguales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for leading whitespace</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220331T105638Z" creationid="Mari" creationdate="20220331T105638Z">
