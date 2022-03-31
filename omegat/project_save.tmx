@@ -13078,6 +13078,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104800Z" creationid="Mari" creationdate="20220331T104800Z">
+        <seg>Puntuación diferente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105237Z" creationid="Mari" creationdate="20220331T105237Z">
+        <seg>Letra inicial diferente (mayúscula o minúscula)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Diptik</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140415Z" creationid="taty" creationdate="20181109T140415Z">
