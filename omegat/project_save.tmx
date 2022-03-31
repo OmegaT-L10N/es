@@ -13694,6 +13694,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104714Z" creationid="Mari" creationdate="20220331T104714Z">
+        <seg>Palabras dobles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T140436Z" creationid="taty" creationdate="20181109T140436Z">
@@ -35908,6 +35916,22 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211027T105941Z" creationid="Antonio" creationdate="20151127T172444Z">
         <seg>La carpeta de archivos traducidos {0} no existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104751Z" creationid="Mari" creationdate="20220331T104751Z">
+        <seg>Traducción más larga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104731Z" creationid="Mari" creationdate="20220331T104731Z">
+        <seg>Traducción más corta</seg>
       </tuv>
     </tu>
     <tu>
