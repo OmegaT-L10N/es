@@ -6482,6 +6482,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104133Z" creationid="Mari" creationdate="20220331T104133Z">
+        <seg>Un simple conjunto de verificaciones de control de calidad para el proyecto de OmegaT actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A source</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222600Z" creationid="hcartagena" creationdate="20151201T222600Z">
