@@ -6484,8 +6484,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220331T104133Z" creationid="Mari" creationdate="20220331T104133Z">
-        <seg>Un simple conjunto de verificaciones de control de calidad para el proyecto de OmegaT actual</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105856Z" creationid="Mari" creationdate="20220331T104133Z">
+        <seg>Un simple conjunto de comprobaciones de control de calidad para el proyecto actual de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -10120,6 +10120,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220210T115026Z" creationid="Mari" creationdate="20220210T115026Z">
         <seg>Comprobar problemas…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105918Z" creationid="Mari" creationdate="20220331T105918Z">
+        <seg>Comprobar las reglas de LanguageTools</seg>
       </tuv>
     </tu>
     <tu>
