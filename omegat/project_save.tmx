@@ -20884,6 +20884,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105511Z" creationid="Mari" creationdate="20220331T105511Z">
+        <seg>Números incoherentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T202748Z" creationid="taty" creationdate="20181205T185925Z">
@@ -35860,6 +35868,22 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220331T105353Z" creationid="Mari" creationdate="20220331T105353Z">
         <seg>Etiquetas - número</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105409Z" creationid="Mari" creationdate="20220331T105409Z">
+        <seg>Etiquetas - orden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105402Z" creationid="Mari" creationdate="20220331T105402Z">
+        <seg>Etiquetas - espacios</seg>
       </tuv>
     </tu>
     <tu>
