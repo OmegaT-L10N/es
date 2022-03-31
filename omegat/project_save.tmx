@@ -10132,6 +10132,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220331T104309Z" creationid="Mari" creationdate="20220331T104309Z">
+        <seg>Reglas de verificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for Updates...</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T200007Z" creationid="Mari" creationdate="20220111T200007Z">
