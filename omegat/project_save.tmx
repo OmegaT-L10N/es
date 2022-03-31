@@ -10326,8 +10326,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220331T105556Z" creationid="Mari" creationdate="20220331T105556Z">
-        <seg>Verificar todo el proyecto</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105654Z" creationid="Mari" creationdate="20220331T105556Z">
+        <seg>Comprobar todo el proyecto</seg>
       </tuv>
     </tu>
     <tu>
@@ -30507,8 +30507,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220331T103655Z" creationid="Mari" creationdate="20220331T103655Z">
-        <seg>QA - Reglas de verificación</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220331T105702Z" creationid="Mari" creationdate="20220331T103655Z">
+        <seg>QA - Reglas de comprobación</seg>
       </tuv>
     </tu>
     <tu>
