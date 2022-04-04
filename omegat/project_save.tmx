@@ -17337,6 +17337,14 @@ que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T145203Z" creationid="Mari" creationdate="20220404T145203Z">
+        <seg>Corrección ortográfica global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181113T174822Z" creationid="taty" creationdate="20181113T174822Z">
