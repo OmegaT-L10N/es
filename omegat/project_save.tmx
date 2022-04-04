@@ -20187,6 +20187,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T145840Z" creationid="Mari" creationdate="20220404T145840Z">
+        <seg>Ignorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151125T000608Z" creationid="hcartagena" creationdate="20151125T000608Z">
@@ -23325,6 +23333,14 @@ conexión a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233621Z" creationid="hcartagena" creationdate="20200729T233621Z">
         <seg>Desarrollador jefe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T145849Z" creationid="Mari" creationdate="20220404T145849Z">
+        <seg>Aprender</seg>
       </tuv>
     </tu>
     <tu>
