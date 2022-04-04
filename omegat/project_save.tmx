@@ -9692,6 +9692,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T152005Z" creationid="Mari" creationdate="20220404T152005Z">
+        <seg>Cancelada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T204144Z" creationid="Antonio" creationdate="20151127T164544Z">
@@ -54397,6 +54405,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T075253Z" creationid="Antonio" creationdate="20151127T075253Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T152054Z" creationid="Mari" creationdate="20220404T152054Z">
+        <seg>{0}:	¡limpieza hecha!</seg>
       </tuv>
     </tu>
     <tu>
