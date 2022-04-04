@@ -31382,6 +31382,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T150607Z" creationid="Mari" creationdate="20220404T150607Z">
+        <seg>Eliminar los fragmentos definidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211023T153456Z" creationid="hcartagena" creationdate="20180605T032458Z">
@@ -34546,6 +34554,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T162224Z" creationid="Cristina" creationdate="20170917T162224Z">
         <seg>Saltar los segmentos con un conjunto de caracteres específico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T150642Z" creationid="Mari" creationdate="20220404T150642Z">
+        <seg>Omitir los segmentos en los que original=traducción</seg>
       </tuv>
     </tu>
     <tu>
