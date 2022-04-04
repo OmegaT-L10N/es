@@ -10518,8 +10518,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220404T151647Z" creationid="Mari" creationdate="20220404T151647Z">
-        <seg>Elegir repositorio SVN </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220404T151950Z" creationid="Mari" creationdate="20220404T151647Z">
+        <seg>Elegir el repositorio de SVN para hacer la limpieza</seg>
       </tuv>
     </tu>
     <tu>
