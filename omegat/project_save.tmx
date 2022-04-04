@@ -23731,6 +23731,14 @@ conexión a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T152451Z" creationid="Mari" creationdate="20220404T152451Z">
+        <seg>Copias de trabajo locales limpiadas {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170816T190735Z" creationid="Cristina" creationdate="20170816T190735Z">
@@ -39155,6 +39163,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T195601Z" creationid="Antonio" creationdate="20151127T173715Z">
         <seg>Se está ejecutando el script "{0}"…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T152423Z" creationid="Mari" creationdate="20220404T152423Z">
+        <seg>El script se cerrará ahora.</seg>
       </tuv>
     </tu>
     <tu>
