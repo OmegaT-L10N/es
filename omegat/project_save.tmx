@@ -31430,6 +31430,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T150551Z" creationid="Mari" creationdate="20220404T150551Z">
+        <seg>Eliminar método mnemotécnico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T213011Z" creationid="hcartagena" creationdate="20151119T213011Z">
