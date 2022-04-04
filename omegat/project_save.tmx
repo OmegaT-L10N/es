@@ -31382,6 +31382,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T151025Z" creationid="Mari" creationdate="20220404T151025Z">
+        <seg>Eliminar los caracteres de control bidireccionales en el archivo traducido actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove defined fragments</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220404T150607Z" creationid="Mari" creationdate="20220404T150607Z">
