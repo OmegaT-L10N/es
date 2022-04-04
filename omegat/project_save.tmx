@@ -35400,6 +35400,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T144301Z" creationid="Mari" creationdate="20220404T144301Z">
+        <seg>Eliminación de etiquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Stripper</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T174105Z" creationid="Cristina" creationdate="20170916T174105Z">
