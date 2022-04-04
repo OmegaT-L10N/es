@@ -54321,6 +54321,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T152310Z" creationid="Mari" creationdate="20220404T152310Z">
+        <seg>{0} no es una copia de trabajo local; omitiendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T173621Z" creationid="Antonio" creationdate="20151127T173621Z">
