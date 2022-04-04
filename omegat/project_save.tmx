@@ -20227,6 +20227,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T145959Z" creationid="Mari" creationdate="20220404T145959Z">
+        <seg>Ignorar mayúsculas y minúsculas del glosario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T191429Z" creationid="nenyavie" creationdate="20200226T143938Z">
@@ -43832,6 +43840,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T192932Z" creationid="nenyavie" creationdate="20200226T145019Z">
         <seg>Utilizar coincidencias aproximadas para entradas de diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T145917Z" creationid="Mari" creationdate="20220404T145917Z">
+        <seg>Utilizar el glosario</seg>
       </tuv>
     </tu>
     <tu>
