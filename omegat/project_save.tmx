@@ -34326,6 +34326,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T143305Z" creationid="Mari" creationdate="20220404T143305Z">
+        <seg>Script simple para buscar y reemplazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211026T141746Z" creationid="hcartagena" creationdate="20180605T032823Z">
