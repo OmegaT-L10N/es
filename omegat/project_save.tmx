@@ -24921,6 +24921,14 @@ conexión a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T143413Z" creationid="Mari" creationdate="20220404T143413Z">
+        <seg>Segmentos modificados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220310T104101Z" creationid="Mari" creationdate="20220310T104101Z">
@@ -32675,6 +32683,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T143353Z" creationid="Mari" creationdate="20220404T143353Z">
+        <seg>Buscar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T181122Z" creationid="hcartagena" creationdate="20180605T181122Z">
@@ -32711,6 +32727,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200225T095220Z" creationid="nenyavie" creationdate="20200225T095220Z">
         <seg>Marca de búsqueda reemplazada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T143400Z" creationid="Mari" creationdate="20220404T143400Z">
+        <seg>Buscar y reemplazar</seg>
       </tuv>
     </tu>
     <tu>
