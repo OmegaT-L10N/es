@@ -18503,6 +18503,14 @@ es que su invierno ha llegado</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T145650Z" creationid="Mari" creationdate="20220404T145650Z">
+        <seg>IGNORADOS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ILIAS Language File</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151119T203654Z" creationid="hcartagena" creationdate="20151119T203654Z">
