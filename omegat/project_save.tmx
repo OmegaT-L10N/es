@@ -31318,6 +31318,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T150430Z" creationid="Mari" creationdate="20220404T150430Z">
+        <seg>Eliminar las etiquetas de OmegaT que tienen &lt;br&gt;letra minúscula antes y después</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211027T104408Z" creationid="Antonio" creationdate="20151127T172940Z">
