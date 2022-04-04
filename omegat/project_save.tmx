@@ -31382,6 +31382,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T144738Z" creationid="Mari" creationdate="20220404T144738Z">
+        <seg>Eliminar las etiquetas en el archivo traducido actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove text target</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T185055Z" creationid="Antonio" creationdate="20151126T153251Z">
