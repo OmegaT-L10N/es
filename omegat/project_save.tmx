@@ -31494,6 +31494,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T153103Z" creationid="Mari" creationdate="20220404T153103Z">
+        <seg>Eliminar las etiquetas de los documentos DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220404T144738Z" creationid="Mari" creationdate="20220404T144738Z">
@@ -36284,6 +36292,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220331T105402Z" creationid="Mari" creationdate="20220331T105402Z">
         <seg>Etiquetas - espacios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T153039Z" creationid="Mari" creationdate="20220404T153039Z">
+        <seg>Tagwipe</seg>
       </tuv>
     </tu>
     <tu>
