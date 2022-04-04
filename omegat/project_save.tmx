@@ -39967,6 +39967,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T152349Z" creationid="Mari" creationdate="20220404T152349Z">
+        <seg>No hay copias de trabajo locales en {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T114826Z" creationid="taty" creationdate="20181116T183250Z">
