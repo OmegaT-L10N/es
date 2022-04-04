@@ -29253,8 +29253,8 @@ cual bruma se disipa</seg>
       <tuv lang="en">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220404T151600Z" creationid="Mari" creationdate="20220404T151600Z">
-        <seg>Hacer una limpieza SVN en el proyecto actual o en cualquier repositorio SVN local</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220404T151825Z" creationid="Mari" creationdate="20220404T151600Z">
+        <seg>Hacer una limpieza de SVN en el proyecto actual o en cualquier repositorio de SVN local</seg>
       </tuv>
     </tu>
     <tu>
