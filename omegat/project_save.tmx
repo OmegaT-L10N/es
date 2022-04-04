@@ -32345,6 +32345,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T151305Z" creationid="Mari" creationdate="20220404T151305Z">
+        <seg>SVN - Limpieza (recurrente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVN - Clear authentication data</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160128T142047Z" creationid="Antonio" creationdate="20160128T142047Z">
@@ -35524,6 +35532,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220404T150836Z" creationid="Mari" creationdate="20220404T150836Z">
         <seg>Eliminación de marcadores bidireccionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T151057Z" creationid="Mari" creationdate="20220404T151057Z">
+        <seg>Quitar marcadores bidireccionales en el segmento actual</seg>
       </tuv>
     </tu>
     <tu>
