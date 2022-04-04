@@ -32289,6 +32289,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T153353Z" creationid="Mari" creationdate="20220404T153353Z">
+        <seg>Ejecutar Tagwipe para el archivo "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running on Java {0}</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T193630Z" creationid="hcartagena" creationdate="20151116T193630Z">
@@ -33930,6 +33938,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T173219Z" creationid="Antonio" creationdate="20151127T173219Z">
         <seg>Motor seleccionado: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T153407Z" creationid="Mari" creationdate="20220404T153407Z">
+        <seg>Opciones seleccionadas:</seg>
       </tuv>
     </tu>
     <tu>
