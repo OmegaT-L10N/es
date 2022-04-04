@@ -11530,6 +11530,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T153456Z" creationid="Mari" creationdate="20220404T153456Z">
+        <seg>Convertir todos los archivos .DOCX del proyecto…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T153522Z" creationid="Mari" creationdate="20220404T153522Z">
+        <seg>Convertir el archivo .DOCX actual…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Converts the current project into a MED package.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T130018Z" creationid="Mari" creationdate="20220207T130018Z">
