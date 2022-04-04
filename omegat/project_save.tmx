@@ -31576,6 +31576,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T150142Z" creationid="Mari" creationdate="20220404T150142Z">
+        <seg>Sustituir las secuencias de escape con espacio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211117T191503Z" creationid="nenyavie" creationdate="20200226T143745Z">
