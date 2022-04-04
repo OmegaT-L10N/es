@@ -25728,6 +25728,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T153736Z" creationid="Mari" creationdate="20220404T153736Z">
+        <seg>Ningún archivo .DOCX para limpiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220316T163921Z" creationid="Mari" creationdate="20220316T163921Z">
