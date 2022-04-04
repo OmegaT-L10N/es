@@ -22856,6 +22856,14 @@ en la primera ejecución.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T145730Z" creationid="Mari" creationdate="20220404T145730Z">
+        <seg>APRENDIDOS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LF Aligner</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170917T161226Z" creationid="Cristina" creationdate="20170917T161226Z">
@@ -35122,6 +35130,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151126T152926Z" creationid="Antonio" creationdate="20151126T152926Z">
         <seg>Corrector ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220404T145802Z" creationid="Mari" creationdate="20220404T145802Z">
+        <seg>Corrector ortográfico - errores encontrados:</seg>
       </tuv>
     </tu>
     <tu>
