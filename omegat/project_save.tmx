@@ -37431,8 +37431,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T234706Z" creationid="hcartagena" creationdate="20200729T234706Z">
-        <seg>La lista de los desarrolladores de OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T100432Z" creationid="hcartagena" creationdate="20200729T234706Z">
+        <seg>Lista de los desarrolladores de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41261,8 +41261,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T234739Z" creationid="hcartagena" creationdate="20200729T234739Z">
-        <seg>Esta lista es para discutir aspectos técnicos de las funciones y el desarrollo y está pensada para los desarrolladores de OmegaT y otros interesados.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T100532Z" creationid="hcartagena" creationdate="20200729T234739Z">
+        <seg>Esta lista es para hablar sobre aspectos técnicos de las funciones y el desarrollo y está pensada para los desarrolladores de OmegaT y otros interesados.</seg>
       </tuv>
     </tu>
     <tu>
