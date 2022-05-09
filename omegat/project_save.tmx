@@ -23473,6 +23473,14 @@ conexión a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T093230Z" creationid="Mari" creationdate="20220509T093230Z">
+        <seg>Nivel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T194437Z" creationid="Mari" creationdate="20211129T194437Z">
