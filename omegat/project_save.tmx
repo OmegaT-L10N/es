@@ -36360,6 +36360,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T092037Z" creationid="Mari" creationdate="20220509T092037Z">
+        <seg>Tagwipe terminó. Volviendo a cargar el proyecto…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tahitian</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T160946Z" creationid="Antonio" creationdate="20151128T160946Z">
