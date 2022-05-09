@@ -12076,6 +12076,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T092446Z" creationid="Mari" creationdate="20220509T092446Z">
+        <seg>Crea archivo de salida "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211126T201119Z" creationid="Mari" creationdate="20211126T201119Z">
