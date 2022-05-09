@@ -28533,6 +28533,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T092342Z" creationid="Mari" creationdate="20220509T092342Z">
+        <seg>Abriendo archivo de entrada "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T170524Z" creationid="hcartagena" creationdate="20180605T170524Z">
