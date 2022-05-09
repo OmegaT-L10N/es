@@ -9364,6 +9364,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T101015Z" creationid="Mari" creationdate="20220509T101015Z">
+        <seg>Los sistemas de seguimiento que aparecen a continuación gestionan los errores, las solicitudes de funciones y los problemas de documentación en SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T234845Z" creationid="hcartagena" creationdate="20200729T234845Z">
