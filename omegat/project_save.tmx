@@ -12086,8 +12086,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Creating output file '{0}'</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220509T092604Z" creationid="Mari" creationdate="20220509T092446Z">
-        <seg>Crear archivo de salida "{0}"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T093033Z" creationid="Mari" creationdate="20220509T092446Z">
+        <seg>Creando archivo de salida "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -25304,10 +25304,18 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T093213Z" creationid="Mari" creationdate="20220509T093213Z">
+        <seg>Moviendo archivo limpiado "{0}" a "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moving original '{0}' to '{1}'</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220509T093023Z" creationid="Mari" creationdate="20220509T093023Z">
-        <seg>Mover original "{0}" a "{1}"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T093045Z" creationid="Mari" creationdate="20220509T093023Z">
+        <seg>Moviendo original "{0}" a "{1}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -28559,8 +28567,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Opening input file '{0}'</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220509T092522Z" creationid="Mari" creationdate="20220509T092342Z">
-        <seg>Abrir archivo de entrada "{0}"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T093030Z" creationid="Mari" creationdate="20220509T092342Z">
+        <seg>Abriendo archivo de entrada "{0}"</seg>
       </tuv>
     </tu>
     <tu>
