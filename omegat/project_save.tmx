@@ -12078,8 +12078,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Creating output file '{0}'</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220509T092446Z" creationid="Mari" creationdate="20220509T092446Z">
-        <seg>Crea archivo de salida "{0}"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T092604Z" creationid="Mari" creationdate="20220509T092446Z">
+        <seg>Crear archivo de salida "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -28543,8 +28543,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Opening input file '{0}'</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220509T092342Z" creationid="Mari" creationdate="20220509T092342Z">
-        <seg>Abriendo archivo de entrada "{0}"</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T092522Z" creationid="Mari" creationdate="20220509T092342Z">
+        <seg>Abrir archivo de entrada "{0}"</seg>
       </tuv>
     </tu>
     <tu>
