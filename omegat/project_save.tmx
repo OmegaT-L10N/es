@@ -10596,6 +10596,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T092859Z" creationid="Mari" creationdate="20220509T092859Z">
+        <seg>Limpiando entrada "{0}"…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211110T113926Z" creationid="Antonio" creationdate="20151127T080950Z">
