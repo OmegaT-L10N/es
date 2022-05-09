@@ -27156,6 +27156,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T100410Z" creationid="Mari" creationdate="20220509T100410Z">
+        <seg>OmegaT también tiene las siguientes listas de distribución de correo y sistemas de seguimiento, alojados en SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T234653Z" creationid="hcartagena" creationdate="20200729T234653Z">
