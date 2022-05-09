@@ -23933,8 +23933,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>Localization manager, user group owner</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T233709Z" creationid="hcartagena" creationdate="20200729T233709Z">
-        <seg>Administrador de localización, administrador del grupo de usuarios</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T095700Z" creationid="hcartagena" creationdate="20200729T233709Z">
+        <seg>Administrador de localización, propietario del grupo de usuarios</seg>
       </tuv>
     </tu>
     <tu>
