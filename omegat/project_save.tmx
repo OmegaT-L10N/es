@@ -12012,6 +12012,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094407Z" creationid="Mari" creationdate="20220509T094407Z">
+        <seg>Crear archivos de copia de seguridad del archivo DOCX original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211027T105357Z" creationid="Antonio" creationdate="20151127T172618Z">
@@ -12592,6 +12600,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T152537Z" creationid="Antonio" creationdate="20151130T152537Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094243Z" creationid="Mari" creationdate="20220509T094243Z">
+        <seg>Archivo DOCX actual</seg>
       </tuv>
     </tu>
     <tu>
