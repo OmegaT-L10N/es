@@ -23577,6 +23577,54 @@ conexión a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094528Z" creationid="Mari" creationdate="20220509T094528Z">
+        <seg>Nivel 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094531Z" creationid="Mari" creationdate="20220509T094531Z">
+        <seg>Nivel 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094536Z" creationid="Mari" creationdate="20220509T094536Z">
+        <seg>Nivel 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094539Z" creationid="Mari" creationdate="20220509T094539Z">
+        <seg>Nivel 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094544Z" creationid="Mari" creationdate="20220509T094544Z">
+        <seg>Nivel 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094550Z" creationid="Mari" creationdate="20220509T094550Z">
+        <seg>Nivel 9:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LibreOffice Writer or HTML, OmegaT will convert the formatting into tags</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T222515Z" creationid="hcartagena" creationdate="20151201T222515Z">
@@ -35008,8 +35056,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Sorry</seg>
       </tuv>
-      <tuv lang="es" changeid="briac" changedate="20171102T112600Z" creationid="briac" creationdate="20171102T112505Z">
-        <seg>Disculpe</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094700Z" creationid="briac" creationdate="20171102T112505Z">
+        <seg>Lo sentimos</seg>
       </tuv>
     </tu>
     <tu>
