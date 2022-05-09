@@ -23537,10 +23537,42 @@ conexión a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094459Z" creationid="Mari" creationdate="20220509T094459Z">
+        <seg>Nivel 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094503Z" creationid="Mari" creationdate="20220509T094503Z">
+        <seg>Nivel 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T194437Z" creationid="Mari" creationdate="20211129T194437Z">
         <seg>Los archivos tmx de nivel 2 seguirán importándose y su contenido textual podrá verse en OmegaT, pero la calidad de las coincidencias aproximadas será algo menor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094508Z" creationid="Mari" creationdate="20220509T094508Z">
+        <seg>Nivel 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094523Z" creationid="Mari" creationdate="20220509T094523Z">
+        <seg>Nivel 3:</seg>
       </tuv>
     </tu>
     <tu>
