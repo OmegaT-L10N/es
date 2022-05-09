@@ -9060,6 +9060,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094014Z" creationid="Mari" creationdate="20220509T094014Z">
+        <seg>Embellecer el archivo DOCX resultante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T192125Z" creationid="Mari" creationdate="20211124T191054Z">
