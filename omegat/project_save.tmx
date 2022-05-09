@@ -7450,6 +7450,14 @@ El ajuste actual es {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T094209Z" creationid="Mari" creationdate="20220509T094209Z">
+        <seg>Todos los archivos DOCX del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T123334Z" creationid="Mari" creationdate="20220125T123334Z">
