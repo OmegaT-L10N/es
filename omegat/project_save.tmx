@@ -8927,6 +8927,14 @@ puede experimentar un comportamiento inesperado, aunque correcto.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T093655Z" creationid="Mari" creationdate="20220509T093655Z">
+        <seg>Crear copia de seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220307T193855Z" creationid="Antonio" creationdate="20160330T140013Z">
@@ -11534,6 +11542,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200730T001645Z" creationid="hcartagena" creationdate="20200730T001645Z">
         <seg>Puede haber también funciones o soluciones alternativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220509T093638Z" creationid="Mari" creationdate="20220509T093638Z">
+        <seg>Convertir</seg>
       </tuv>
     </tu>
     <tu>
