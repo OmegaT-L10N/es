@@ -40089,8 +40089,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20171003T171827Z" creationid="Cristina" creationdate="20170820T145732Z">
-        <seg>Versión para instalación para usuarios familiarizados con OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220518T160433Z" creationid="Cristina" creationdate="20170820T145732Z">
+        <seg>Versión para la instalación conocida por los usuarios de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
