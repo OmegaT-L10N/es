@@ -34200,8 +34200,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170918T185830Z" creationid="Cristina" creationdate="20170918T185830Z">
-        <seg>Curso de formación para seguir a su ritmo, en inglés (de pago)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220518T155126Z" creationid="Cristina" creationdate="20170918T185830Z">
+        <seg>Curso de formación para avanzar a su ritmo, en inglés (de pago)</seg>
       </tuv>
     </tu>
     <tu>
