@@ -40481,8 +40481,8 @@ una de ellas te alcanzó</seg>
       <tuv lang="en">
         <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170918T183955Z" creationid="Cristina" creationdate="20170918T183955Z">
-        <seg>Estas utilidades permiten el uso de OmegaT para traducir formatos de archivos para los que los filtros de conversión a XLIFF están disponibles.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220518T154825Z" creationid="Cristina" creationdate="20170918T183955Z">
+        <seg>Estas utilidades permiten el uso de OmegaT para traducir formatos de archivo para los que existen filtros de conversión a XLIFF.</seg>
       </tuv>
     </tu>
     <tu>
