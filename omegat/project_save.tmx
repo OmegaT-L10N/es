@@ -46707,8 +46707,8 @@ podrá iniciar el script de inicio en Kaptain con:</seg>
       <tuv lang="en">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T164347Z" creationid="Cristina" creationdate="20170917T164347Z">
-        <seg>También puede abrir el manual de usuario incluido con OmegaT sin iniciar OmegaT en sí.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220518T153228Z" creationid="Cristina" creationdate="20170917T164347Z">
+        <seg>También puede abrir el manual de usuario incluido con OmegaT sin iniciar el programa.</seg>
       </tuv>
     </tu>
     <tu>
