@@ -14266,7 +14266,7 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>During translation, use the &lt;g11&gt;Edit&lt;/g11&gt; and &lt;g12&gt;Go To&lt;/g12&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T112738Z" creationid="Mari" creationdate="20220126T112704Z">
+      <tuv lang="es" changeid="Mari" changedate="20220518T155900Z" creationid="Mari" creationdate="20220126T112704Z">
         <seg>Durante la traducción, utilice los menús &lt;g11&gt;Editar&lt;/g11&gt; e &lt;g12&gt;Ir a&lt;/g12&gt; para usar distintas funciones útiles.</seg>
       </tuv>
     </tu>
@@ -28215,8 +28215,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T122957Z" creationid="Antonio" creationdate="20151130T122757Z">
-        <seg>En Mac, es necesario usar el modificador &lt;e0&gt;meta&lt;/e0&gt; para especificar la tecla &lt;e1&gt;Comando&lt;/e1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220518T155841Z" creationid="Antonio" creationdate="20151130T122757Z">
+        <seg>En Mac, es necesario utilizar el modificador &lt;e0&gt;meta&lt;/e0&gt; para especificar la tecla &lt;e1&gt;Comando&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29755,8 +29755,8 @@ si es necesaria alguna acción adicional.</seg>
       <tuv lang="en">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T234924Z" creationid="hcartagena" creationdate="20200729T234924Z">
-        <seg>No se recomienda usar estos sistemas antes de haber hecho la pregunta en el grupo de usuarios o en las listas de distribución de correo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220518T155926Z" creationid="hcartagena" creationdate="20200729T234924Z">
+        <seg>No se recomienda utilizar estos sistemas antes de haber hecho la pregunta en el grupo de usuarios o en las listas de distribución de correo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35456,8 +35456,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211111T105254Z" creationid="nenyavie" creationdate="20200225T112145Z">
-        <seg>Especifique un método mnemotécnico con "&amp;": "F&amp;oobar" para usar O</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220518T155832Z" creationid="nenyavie" creationdate="20200225T112145Z">
+        <seg>Especifique un método mnemotécnico con "&amp;": "F&amp;oobar" para utilizar O</seg>
       </tuv>
     </tu>
     <tu>
