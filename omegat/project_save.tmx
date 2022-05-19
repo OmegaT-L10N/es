@@ -27268,6 +27268,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220519T095031Z" creationid="Mari" creationdate="20220519T095031Z">
+        <seg>Actualmente, es necesaria la versión 1.8 de JRE o una posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT default theme</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T110550Z" creationid="Mari" creationdate="20211111T110550Z">
