@@ -16683,8 +16683,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T121039Z" creationid="taty" creationdate="20181109T164229Z">
-        <seg>Por ejemplo, si ha selecciónado ES-MX (español mexicano) como idioma de destino, los archivos de diccionario deben ser nombrados es_MX.dic y es_MX.aff. </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101019Z" creationid="taty" creationdate="20181109T164229Z">
+        <seg>Por ejemplo, si seleccionó ES-MX (español mexicano) como idioma de destino, los archivos de diccionario deben ser nombrados es_MX.dic y es_MX.aff. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19227,8 +19227,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T201549Z" creationid="hcartagena" creationdate="20200729T211032Z">
-        <seg>Si está seleccionada, cuando no se ha traducido un segmento en un archivo PO (que puede ser todo un párrafo), la traducción aparecerá en blanco en el archivo traducido.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101110Z" creationid="hcartagena" creationdate="20200729T211032Z">
+        <seg>Si está seleccionada, cuando no se tradujo un segmento en un archivo PO (que puede ser todo un párrafo), la traducción aparecerá en blanco en el archivo traducido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19914,8 +19914,8 @@ es utilizar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;f0&gt;pt_PT.aff&lt;/f0&gt; and &lt;f1&gt;pt_PT.dic&lt;/f1&gt; to &lt;f2&gt;pt_BR.aff&lt;/f2&gt; and &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T183127Z" creationid="Mari" creationdate="20220111T183127Z">
-        <seg>Si ya ha traducido una gran cantidad de texto y luego se da cuenta de que el código del idioma de destino del proyecto no coincide con el código de idioma del corrector ortográfico (especificó pt_BR como idioma, pero no hay diccionarios pt_BR, por ejemplo), solo tiene que copiar los dos archivos correspondientes y cambiarles el nombre de &lt;f0&gt;&gt;pt_PT.aff&lt;/f0&gt; y &lt;f1&gt;pt_PT.dic&lt;/f1&gt; a &lt;f2&gt;pt_BR.aff&lt;/f2&gt; y &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101039Z" creationid="Mari" creationdate="20220111T183127Z">
+        <seg>Si ya tradujo una gran cantidad de texto y luego se da cuenta de que el código del idioma de destino del proyecto no coincide con el código de idioma del corrector ortográfico (especificó pt_BR como idioma, pero no hay diccionarios pt_BR, por ejemplo), solo tiene que copiar los dos archivos correspondientes y cambiarles el nombre de &lt;f0&gt;&gt;pt_PT.aff&lt;/f0&gt; y &lt;f1&gt;pt_PT.dic&lt;/f1&gt; a &lt;f2&gt;pt_BR.aff&lt;/f2&gt; y &lt;f3&gt;pt_BR.dic&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
