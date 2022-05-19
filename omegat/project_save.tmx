@@ -45545,8 +45545,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220519T102049Z" creationid="Mari" creationdate="20220125T122948Z">
-        <seg>Cuando se utilizó el modo, esta opción especifica qué archivos se procesarán automáticamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102212Z" creationid="Mari" creationdate="20220125T122948Z">
+        <seg>Cuando se utiliza el modo, esta opción especifica qué archivos se procesarán automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
