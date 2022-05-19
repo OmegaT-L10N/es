@@ -16121,8 +16121,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T151558Z" creationid="Antonio" creationdate="20160316T192436Z">
-        <seg>Los formatos de archivo que no especifican su codificación utilizan la codificación que ha configurado para la extensión que coincide con su nombre.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101134Z" creationid="Antonio" creationdate="20160316T192436Z">
+        <seg>Los formatos de archivo que no especifican su codificación utilizan la codificación que configuró para la extensión que coincide con su nombre.</seg>
       </tuv>
     </tu>
     <tu>
