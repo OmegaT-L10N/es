@@ -34152,8 +34152,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T183159Z" creationid="Cristina" creationdate="20170820T160155Z">
-        <seg>Seleccione si descargar OmegaT con Java Runtime Environment (JRE) incluido o sin él.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T094736Z" creationid="Cristina" creationdate="20170820T160155Z">
+        <seg>Seleccione si desea descargar OmegaT con Java Runtime Environment (JRE) incluido o sin él.</seg>
       </tuv>
     </tu>
     <tu>
