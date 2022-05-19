@@ -16667,8 +16667,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T195858Z" creationid="Mari" creationdate="20211125T195858Z">
-        <seg>Por ejemplo, si escribe &lt;u0&gt;\d+&lt;/u0&gt; en el campo &lt;g1&gt;Expresión regular para etiquetas personalizadas&lt;/g1&gt;, todos los números se considerarán etiquetas, lo que le permitirá comprobar que los números no se han cambiado por error durante la traducción.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103040Z" creationid="Mari" creationdate="20211125T195858Z">
+        <seg>Por ejemplo, si escribe &lt;u0&gt;\d+&lt;/u0&gt; en el campo &lt;g1&gt;Expresión regular para etiquetas personalizadas&lt;/g1&gt;, todos los números se considerarán etiquetas, lo que le permitirá comprobar que los números no se cambiaron por error durante la traducción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39169,8 +39169,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T120505Z" creationid="Antonio" creationdate="20160126T151736Z">
-        <seg>El prefijo (vacío de manera predeterminada) puede utilizarse para etiquetar las traducciones que se han realizado con coincidencias aproximadas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103022Z" creationid="Antonio" creationdate="20160126T151736Z">
+        <seg>El prefijo (vacío de manera predeterminada) puede utilizarse para etiquetar las traducciones que se hicieron con coincidencias aproximadas.</seg>
       </tuv>
     </tu>
     <tu>
