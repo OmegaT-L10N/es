@@ -32635,8 +32635,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>SVN '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T155058Z" creationid="Antonio" creationdate="20151127T172246Z">
-        <seg>La ejecución de "{0}" en SVN ha terminado con éxito</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100649Z" creationid="Antonio" creationdate="20151127T172246Z">
+        <seg>La ejecución de "{0}" en SVN terminó con éxito</seg>
       </tuv>
     </tu>
     <tu>
@@ -42990,8 +42990,8 @@ OmegaT.jar y el script linux-install.sh y ejecute el script con ./linux-install.
       <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T172603Z" creationid="Antonio" creationdate="20151127T172603Z">
-        <seg>No se ha definido la ubicación de los archivos traducidos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100630Z" creationid="Antonio" creationdate="20151127T172603Z">
+        <seg>No se definió la ubicación de los archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
