@@ -38703,8 +38703,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220103T193836Z" creationid="Mari" creationdate="20220103T193836Z">
-        <seg>El último cuadro le ofrece echar un vistazo a los archivos readme y de cambios de la versión que ha instalado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101803Z" creationid="Mari" creationdate="20220103T193836Z">
+        <seg>El último cuadro le ofrece echar un vistazo a los archivos readme y de cambios de la versión que instaló.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42128,8 +42128,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To install OmegaT, double-click on the program you have downloaded.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220103T192558Z" creationid="Mari" creationdate="20220103T192558Z">
-        <seg>Para instalar OmegaT, haga doble clic en el programa que ha descargado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101746Z" creationid="Mari" creationdate="20220103T192558Z">
+        <seg>Para instalar OmegaT, haga doble clic en el programa que descargó.</seg>
       </tuv>
     </tu>
     <tu>
