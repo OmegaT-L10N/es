@@ -18845,8 +18845,8 @@ que introducir la ruta de acceso completa.)</seg>
       <tuv lang="en">
         <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T165146Z" creationid="Mari" creationdate="20211127T165146Z">
-        <seg>Si una frase concreta ya se ha traducido correctamente con anterioridad, no necesita volver a traducirse.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101615Z" creationid="Mari" creationdate="20211127T165146Z">
+        <seg>Si una frase concreta ya se tradujo correctamente con anterioridad, no necesita volver a traducirse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20034,8 +20034,8 @@ es utilizar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T195614Z" creationid="Mari" creationdate="20211129T195614Z">
-        <seg>Si solo necesita información textual (y no información de formato), utilice el archivo nivel 1 que ha creado OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101631Z" creationid="Mari" creationdate="20211129T195614Z">
+        <seg>Si solo necesita información textual (y no información de formato), utilice el archivo nivel 1 que creó OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26558,8 +26558,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T120814Z" creationid="Mari" creationdate="20211130T120814Z">
-        <seg>Nota: si el proyecto se creó con la línea de comandos del paso 3, este paso ya lo ha seguido el programa.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101727Z" creationid="Mari" creationdate="20211130T120814Z">
+        <seg>Nota: si el proyecto se creó con la línea de comandos del paso 3, este paso ya lo siguió el programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53666,8 +53666,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T201243Z" creationid="Mari" creationdate="20211129T201243Z">
-        <seg>los archivos TMX de la carpeta principal del proyecto (ver arriba) contienen ahora las traducciones en el par de idiomas seleccionado para los archivos que ha copiado en la carpeta source.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101649Z" creationid="Mari" creationdate="20211129T201243Z">
+        <seg>los archivos TMX de la carpeta principal del proyecto (ver arriba) contienen ahora las traducciones en el par de idiomas seleccionado para los archivos que copió en la carpeta source.</seg>
       </tuv>
     </tu>
     <tu>
