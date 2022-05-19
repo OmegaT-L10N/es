@@ -6116,8 +6116,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231200Z" creationid="Cristina" creationdate="20170820T151510Z">
-        <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las actualizaciones futuras de la versión Web Start se instalarán automáticamente en su equipo.&lt;br2/&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T093906Z" creationid="Cristina" creationdate="20170820T151510Z">
+        <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las futuras actualizaciones de la versión Web Start se instalarán automáticamente en su equipo.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
