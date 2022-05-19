@@ -10542,8 +10542,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Checks to see whether a more recent version of OmegaT has been released.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220202T164848Z" creationid="Mari" creationdate="20220202T164848Z">
-        <seg>Comprueba si se ha publicado una versión más reciente de OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102300Z" creationid="Mari" creationdate="20220202T164848Z">
+        <seg>Comprueba si se publicó una versión más reciente de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18957,8 +18957,8 @@ que introducir la ruta de acceso completa.)</seg>
       <tuv lang="en">
         <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T125140Z" creationid="Mari" creationdate="20220210T125140Z">
-        <seg>Si está marcada, el fondo de todos los segmentos en los que el segmento traducido se ha autorellenado (a partir de las TMX colocadas en &lt;f0&gt;/tm/auto&lt;/f0&gt;, por ejemplo) se muestra en color.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102339Z" creationid="Mari" creationdate="20220210T125140Z">
+        <seg>Si está marcada, el fondo de todos los segmentos en los que el segmento traducido se autorellenó (a partir de las TMX colocadas en &lt;f0&gt;/tm/auto&lt;/f0&gt;, por ejemplo) se muestra en color.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19962,8 +19962,8 @@ es utilizar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T131319Z" creationid="Mari" creationdate="20220207T131319Z">
-        <seg>Si aún no ha guardado el proyecto, se le pedirá que confirme si realmente quiere salir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102314Z" creationid="Mari" creationdate="20220207T131319Z">
+        <seg>Si aún no guardó el proyecto, se le pedirá que confirme si realmente quiere salir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40845,8 +40845,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20191209T221626Z" creationid="nenyavie" creationdate="20191209T221626Z">
-        <seg>Este comando no funciona después de validar el segmento que se ha modificado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102241Z" creationid="nenyavie" creationdate="20191209T221626Z">
+        <seg>Este comando no funciona después de validar el segmento modificado.</seg>
       </tuv>
     </tu>
     <tu>
