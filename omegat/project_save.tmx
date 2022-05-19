@@ -17147,8 +17147,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T163527Z" creationid="eumeu" creationdate="20181115T231755Z">
-        <seg>Desde un punto de vista práctico, el par de números más importante es el segundo par, ya que dice cuánto ha hecho hasta ahora, en relación con el total o el segundo número.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102416Z" creationid="eumeu" creationdate="20181115T231755Z">
+        <seg>Desde un punto de vista práctico, el par de números más importante es el segundo par, ya que dice cuánto hizo hasta el momento, en relación con el total o el segundo número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19628,8 +19628,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt; subfolder of your current project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220307T194552Z" creationid="Mari" creationdate="20220307T194552Z">
-        <seg>Si ya ha recopilado las palabras que desea que el corrector ortográfico ignore o acepte, solo tiene que copiar los dos archivos correspondientes en la subcarpeta &lt;f0&gt;omegat&lt;/f0&gt; del proyecto actual.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102441Z" creationid="Mari" creationdate="20220307T194552Z">
+        <seg>Si ya recopiló las palabras que desea que el corrector ortográfico ignore o acepte, solo tiene que copiar los dos archivos correspondientes en la subcarpeta &lt;f0&gt;omegat&lt;/f0&gt; del proyecto actual.</seg>
       </tuv>
     </tu>
     <tu>
