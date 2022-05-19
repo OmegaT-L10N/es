@@ -10494,8 +10494,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T125237Z" creationid="Antonio" creationdate="20160126T165952Z">
-        <seg>Seleccione esta opción para registrar en el archivo de &lt;f0&gt;project_save.tmx&lt;/f0&gt; la información que un segmento ha sido autorrellenado, de manera que pueda mostrarse con un color específico en el Editor (si está marcada la opción "Marcar segmentos autorrellenados" en el menú Ver).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101253Z" creationid="Antonio" creationdate="20160126T165952Z">
+        <seg>Seleccione esta opción para registrar en el archivo de &lt;f0&gt;project_save.tmx&lt;/f0&gt; la información que un segmento fue autorrellenado, de manera que pueda mostrarse con un color específico en el Editor (si está marcada la opción "Marcar segmentos autorrellenados" en el menú Ver).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27478,8 +27478,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T120800Z" creationid="Antonio" creationdate="20160126T151606Z">
-        <seg>OmegaT insertará la traducción de la cadena más parecida a la original actual si está por encima del umbral de similitud que ha establecido en este cuadro de diálogo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101203Z" creationid="Antonio" creationdate="20160126T151606Z">
+        <seg>OmegaT insertará la traducción de la cadena más parecida a la original actual si está por encima del umbral de similitud que estableció en este cuadro de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27553,8 +27553,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="en">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T121649Z" creationid="Antonio" creationdate="20160126T161206Z">
-        <seg>OmegaT puede darse cuenta de que ha hecho esto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101228Z" creationid="Antonio" creationdate="20160126T161206Z">
+        <seg>OmegaT puede darse cuenta de que realizó esta acción.</seg>
       </tuv>
     </tu>
     <tu>
