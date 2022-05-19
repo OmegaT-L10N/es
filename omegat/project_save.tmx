@@ -20251,8 +20251,8 @@ es utilizar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220104T175519Z" creationid="Mari" creationdate="20220104T175519Z">
-        <seg>Si su instalación actual de OmegaT es una versión "Windows with JRE", la nueva versión debe ser también una versión "Windows with JRE".</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103643Z" creationid="Mari" creationdate="20220104T175519Z">
+        <seg>Si su instalación actual de OmegaT es una versión "Windows con JRE", la nueva versión debe ser también una versión "Windows con JRE".</seg>
       </tuv>
     </tu>
     <tu>
