@@ -1880,8 +1880,8 @@ proyecto OmegaT pero no ve su nombre en las listas, no dude en contactarnos).</s
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220330T184051Z" creationid="Mari" creationdate="20220330T184051Z">
-        <seg>(Si cree que ha contribuido de manera significativa al
+      <tuv lang="es" changeid="Mari" changedate="20220519T102750Z" creationid="Mari" creationdate="20220330T184051Z">
+        <seg>(Si cree que contribuyó de manera significativa al
 proyecto OmegaT, pero no ve su nombre en las listas, no dude en contactarnos).</seg>
       </tuv>
     </tu>
@@ -34824,8 +34824,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T233812Z" creationid="hcartagena" creationdate="20200729T233812Z">
-        <seg>Desde su origen, el proyecto ha recibido el apoyo de docenas de otros colaboradores, demasiados para mencionarlos aquí, pero cuya ayuda agradecemos encarecidamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102809Z" creationid="hcartagena" creationdate="20200729T233812Z">
+        <seg>Desde su origen, el proyecto recibió el apoyo de docenas de otros colaboradores, demasiados para mencionarlos aquí, pero cuya ayuda agradecemos encarecidamente.</seg>
       </tuv>
     </tu>
     <tu>
