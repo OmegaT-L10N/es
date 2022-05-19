@@ -3241,8 +3241,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220124T154331Z" creationid="Mari" creationdate="20220124T154331Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Si se ha registrado en los servicios de Traductor de Google, introduzca aquí su clave privada de la API de Google.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T102014Z" creationid="Mari" creationdate="20220124T154331Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Si se registró en los servicios de Traductor de Google, introduzca aquí su clave privada de la API de Google.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37762,8 +37762,8 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       <tuv lang="en">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220113T153705Z" creationid="Mari" creationdate="20220113T153705Z">
-        <seg>El comando básico ya se ha mencionado anteriormente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101948Z" creationid="Mari" creationdate="20220113T153705Z">
+        <seg>El comando básico ya se mencionó anteriormente.</seg>
       </tuv>
     </tu>
     <tu>
