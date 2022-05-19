@@ -19732,8 +19732,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T183440Z" creationid="Cristina" creationdate="20170822T185033Z">
-        <seg>Si no está seguro de si ya hay una versión adecuada de JRE instalada en su sistema, puede descargar e instalar una versión de OmegaT con JRE.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T095205Z" creationid="Cristina" creationdate="20170822T185033Z">
+        <seg>Si no sabe con seguridad si ya hay una versión adecuada de JRE instalada en su sistema, puede descargar e instalar una versión de OmegaT con JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41549,8 +41549,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170822T185448Z" creationid="Cristina" creationdate="20170822T185448Z">
-        <seg>Esta versión de JRE solo se usará de manera local para OmegaT; no entrará en conflicto, reemplazará ni desinstalará las otras instalaciones de JRE y, por lo tanto, su uso es seguro.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T095245Z" creationid="Cristina" creationdate="20170822T185448Z">
+        <seg>Esta versión de JRE solo se utilizará de manera local para OmegaT; no entrará en conflicto, reemplazará ni desinstalará las otras instalaciones de JRE y, por lo tanto, su uso es seguro.</seg>
       </tuv>
     </tu>
     <tu>
