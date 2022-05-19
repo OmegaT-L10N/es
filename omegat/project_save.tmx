@@ -19756,8 +19756,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T163543Z" creationid="Mari" creationdate="20211127T163543Z">
-        <seg>Si cree que ha perdido datos de traducción, puede seguir el siguiente procedimiento para restaurar el proyecto a su estado guardado más reciente, que no suele ser más antiguo que unos 10 minutos:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101540Z" creationid="Mari" creationdate="20211127T163543Z">
+        <seg>Si cree que perdió datos de traducción, puede utilizar el siguiente procedimiento para restaurar el proyecto a su estado guardado más reciente, que no suele ser más antiguo que unos 10 minutos:</seg>
       </tuv>
     </tu>
     <tu>
