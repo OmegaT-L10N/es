@@ -10915,8 +10915,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T032136Z" creationid="hcartagena" creationdate="20180605T032136Z">
-        <seg>Partes del código han sido aportadas por:
+      <tuv lang="es" changeid="Mari" changedate="20220519T102955Z" creationid="hcartagena" creationdate="20180605T032136Z">
+        <seg>Partes del código fueron aportadas por:
 {0}</seg>
       </tuv>
     </tu>
