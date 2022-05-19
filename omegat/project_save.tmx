@@ -37102,8 +37102,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T232043Z" creationid="Cristina" creationdate="20170822T191539Z">
-        <seg>La versión "estándar" de OmegaT incluye un manual de usuario completo (al menos en inglés) y suele probarse durante un tiempo para eliminar los errores.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T095721Z" creationid="Cristina" creationdate="20170822T191539Z">
+        <seg>La versión "estándar" de OmegaT incluye un manual de usuario completo (al menos en inglés) y suele haberse probado durante un tiempo para eliminar los errores.</seg>
       </tuv>
     </tu>
     <tu>
