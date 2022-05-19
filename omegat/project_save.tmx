@@ -19103,8 +19103,8 @@ que introducir la ruta de acceso completa.)</seg>
       <tuv lang="en">
         <seg>If it is &lt;f0&gt;tar.bz&lt;/f0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T181951Z" creationid="Mari" creationdate="20220111T181308Z">
-        <seg>Si la extensión es &lt;f0&gt;tar.bz&lt;/f0&gt;, entonces ha olvidado descomprimirlo (con untar o winrar).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100904Z" creationid="Mari" creationdate="20220111T181308Z">
+        <seg>Si la extensión es &lt;f0&gt;tar.bz&lt;/f0&gt;, entonces olvidó descomprimirlo (con untar o winrar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28415,8 +28415,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T114911Z" creationid="taty" creationdate="20181116T183653Z">
-        <seg>Uno o más de los problemas anteriores pueden haber sido solucionados, pero no se ha vuelto a cargar el proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100920Z" creationid="taty" creationdate="20181116T183653Z">
+        <seg>Uno o más de los problemas anteriores pueden haber sido solucionados, pero no se volvió a cargar el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30411,8 +30411,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T115501Z" creationid="taty" creationdate="20181116T183802Z">
-        <seg>Problema: En el panel del glosario, algunos carácteres no se muestran correctamente</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100932Z" creationid="taty" creationdate="20181116T183802Z">
+        <seg>Problema: En el panel del glosario, algunos caracteres no se muestran correctamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -47523,8 +47523,8 @@ crearlas.</seg>
       <tuv lang="en">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211116T162444Z" creationid="Helli" creationdate="20150526T130645Z">
-        <seg>Sus nuevos accesos directos ahora tendrían que aparecer al lado de los elementos de menú que ha modificado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100954Z" creationid="Helli" creationdate="20150526T130645Z">
+        <seg>Sus nuevos accesos directos ahora tendrían que aparecer al lado de los elementos de menú que modificó.</seg>
       </tuv>
     </tu>
     <tu>
