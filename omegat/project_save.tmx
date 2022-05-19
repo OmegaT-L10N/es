@@ -38865,8 +38865,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181205T153301Z" creationid="taty" creationdate="20181205T153301Z">
-        <seg>El visor de coincidencias muestra los segmentos más similares de las memorias de traducción, tanto de la memoria de traducción interna del proyecto creada en tiempo real a medida que se traduce el proyecto y de las memorias de traducción auxiliares que se han importado de trabajos anteriores, o que se han recibido del cliente o de la agencia de traducción.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103250Z" creationid="taty" creationdate="20181205T153301Z">
+        <seg>El visor de coincidencias muestra los segmentos más similares de las memorias de traducción, tanto de la memoria de traducción interna del proyecto creada en tiempo real a medida que se traduce el proyecto y de las memorias de traducción auxiliares que se importaron de trabajos anteriores, o que se recibieron del cliente o de la agencia de traducción.</seg>
       </tuv>
     </tu>
     <tu>
