@@ -26018,8 +26018,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>No matches returned by search.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T220813Z" creationid="hcartagena" creationdate="20151117T220813Z">
-        <seg>La búsqueda no ha dado resultados.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100317Z" creationid="hcartagena" creationdate="20151117T220813Z">
+        <seg>La búsqueda no dio resultados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27414,8 +27414,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211024T180742Z" creationid="hcartagena" creationdate="20151116T200648Z">
-        <seg>OmegaT ha escogido la opción "Sí" automáticamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100301Z" creationid="hcartagena" creationdate="20151116T200648Z">
+        <seg>OmegaT escogió la opción "Sí" automáticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35368,8 +35368,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T192717Z" creationid="hcartagena" creationdate="20151119T184103Z">
-        <seg>No se ha podido localizar el segmento original de algunas unidades de traducción.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100333Z" creationid="hcartagena" creationdate="20151119T184103Z">
+        <seg>No se pudo localizar el segmento original de algunas unidades de traducción.</seg>
       </tuv>
     </tu>
     <tu>
