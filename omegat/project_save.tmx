@@ -15444,8 +15444,8 @@ soy la pantalla azul de la muerte,
       <tuv lang="en">
         <seg>Except one: check &lt;g0&gt;Untranslated&lt;/g0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220315T195826Z" creationid="Mari" creationdate="20220315T195826Z">
-        <seg>Excepto una: marque &lt;g0&gt;Sin traducción&lt;/g0&gt; para utilizar las opciones Buscar y reemplazar también en segmentos que no han sido traducidos todavía. </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103454Z" creationid="Mari" creationdate="20220315T195826Z">
+        <seg>Excepto una: marque &lt;g0&gt;Sin traducción&lt;/g0&gt; para utilizar las opciones Buscar y reemplazar también en segmentos que no se tradujeron todavía. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16811,8 +16811,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with &lt;e3&gt;[fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220222T103721Z" creationid="Mari" creationdate="20220222T103721Z">
-        <seg>Por ejemplo (si se acepta la opción predeterminada), se acepta la traducción de la TM auxiliar y se marca con el prefijo &lt;e3&gt;[fuzzy]&lt;/e3&gt; para que el traductor pueda revisar las traducciones en una fase posterior y comprobar si los segmentos con esta etiqueta se han traducido correctamente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103413Z" creationid="Mari" creationdate="20220222T103721Z">
+        <seg>Por ejemplo (si se acepta la opción predeterminada), se acepta la traducción de la TM auxiliar y se marca con el prefijo &lt;e3&gt;[fuzzy]&lt;/e3&gt; para que el traductor pueda revisar las traducciones en una fase posterior y comprobar si los segmentos con esta etiqueta se tradujeron correctamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38486,8 +38486,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220315T103809Z" creationid="Helli" creationdate="20150526T120102Z">
-        <seg>Se han implementado los siguientes lenguajes de scripting:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103427Z" creationid="Helli" creationdate="20150526T120102Z">
+        <seg>Se implementaron los siguientes lenguajes de scripting:</seg>
       </tuv>
     </tu>
     <tu>
