@@ -6124,8 +6124,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170820T152151Z" creationid="Cristina" creationdate="20170820T152016Z">
-        <seg>&lt;s3&gt;La desventaja&lt;/s3&gt;: por el momento, no se puede usar esta versión con complementos, por lo que no están disponibles todas las funciones.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T093958Z" creationid="Cristina" creationdate="20170820T152016Z">
+        <seg>&lt;s3&gt;La desventaja&lt;/s3&gt;: por el momento, no se puede utilizar esta versión con complementos, por lo que no todas las funciones están disponibles.</seg>
       </tuv>
     </tu>
     <tu>
