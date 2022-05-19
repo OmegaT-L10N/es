@@ -19013,8 +19013,8 @@ que introducir la ruta de acceso completa.)</seg>
       <tuv lang="en">
         <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T123621Z" creationid="Mari" creationdate="20220210T123621Z">
-        <seg>Si se han definido los comandos para hacer búsquedas externas en &lt;l0&gt;Preferencias&lt;/l0&gt;, aparecen enumerados y se puede acceder a ellos desde aquí.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103223Z" creationid="Mari" creationdate="20220210T123621Z">
+        <seg>Si se definieron los comandos para hacer búsquedas externas en &lt;l0&gt;Preferencias&lt;/l0&gt;, aparecerán enumerados y se podrá acceder a ellos desde aquí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23403,8 +23403,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>Launches scripts that have been associated with a number.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T122447Z" creationid="Mari" creationdate="20220210T122447Z">
-        <seg>Inicia los scripts que se han asociado a un número.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103127Z" creationid="Mari" creationdate="20220210T122447Z">
+        <seg>Inicia los scripts asociados a un número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44022,16 +44022,16 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T125253Z" creationid="Mari" creationdate="20220207T125129Z">
-        <seg>Sube al repositorio los archivos que se han añadido o modificado localmente en la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103058Z" creationid="Mari" creationdate="20220207T125129Z">
+        <seg>Sube al repositorio los archivos que se añadieron o modificaron localmente en la carpeta &lt;f0&gt;source&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T125232Z" creationid="Mari" creationdate="20220207T125232Z">
-        <seg>Sube al repositorio los archivos que se han creado localmente en la carpeta &lt;f0&gt;target&lt;/f0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103107Z" creationid="Mari" creationdate="20220207T125232Z">
+        <seg>Sube al repositorio los archivos que se crearon localmente en la carpeta &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
