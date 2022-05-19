@@ -19459,8 +19459,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, OmegaT may be unable to find a segment that you have already translated.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T164222Z" creationid="Mari" creationdate="20211127T164222Z">
-        <seg>Si modifica el archivo original después de haber comenzado la traducción, OmegaT puede ser incapaz de encontrar un segmento que ya ha traducido.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T101602Z" creationid="Mari" creationdate="20211127T164222Z">
+        <seg>Si modifica el archivo original después de haber comenzado la traducción, OmegaT puede ser incapaz de encontrar un segmento que ya tradujo.</seg>
       </tuv>
     </tu>
     <tu>
