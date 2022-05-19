@@ -8012,8 +8012,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T032617Z" creationid="hcartagena" creationdate="20160401T032617Z">
-        <seg>Una traducción ha cambiado a algo distinto de lo que había escogido.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100848Z" creationid="hcartagena" creationdate="20160401T032617Z">
+        <seg>Una traducción cambió a algo distinto de lo que había escogido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40001,8 +40001,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The translation has changed.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T163153Z" creationid="Antonio" creationdate="20151127T163153Z">
-        <seg>La traducción ha cambiado.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100832Z" creationid="Antonio" creationdate="20151127T163153Z">
+        <seg>La traducción cambió.</seg>
       </tuv>
     </tu>
     <tu>
