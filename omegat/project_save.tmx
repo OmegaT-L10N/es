@@ -37335,8 +37335,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T155233Z" creationid="eumeu" creationdate="20181116T155256Z">
-        <seg>El panel Glosario permite acceder a la colección de expresiones y terminología especializada que se han creado en sus archivos de glosario.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103341Z" creationid="eumeu" creationdate="20181116T155256Z">
+        <seg>El panel Glosario permite acceder a la colección de expresiones y terminología especializada que se creó en sus archivos de glosario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39273,8 +39273,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T163557Z" creationid="eumeu" creationdate="20181115T231903Z">
-        <seg>El proyecto del ejemplo está evidentemente terminado, ya que se han traducido todos los segmentos únicos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T103356Z" creationid="eumeu" creationdate="20181115T231903Z">
+        <seg>El proyecto del ejemplo está evidentemente terminado, ya que se tradujeron todos los segmentos únicos.</seg>
       </tuv>
     </tu>
     <tu>
