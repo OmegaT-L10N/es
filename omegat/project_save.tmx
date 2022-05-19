@@ -37423,8 +37423,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The Moses server URL is not set</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T165436Z" creationid="hcartagena" creationdate="20180605T165436Z">
-        <seg>No se ha establecido la URL del servidor Moses</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100532Z" creationid="hcartagena" creationdate="20180605T165436Z">
+        <seg>No se estableció la URL del servidor Moses</seg>
       </tuv>
     </tu>
     <tu>
