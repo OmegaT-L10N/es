@@ -11134,8 +11134,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T110511Z" creationid="Antonio" creationdate="20151127T172200Z">
-        <seg>No es posible confirmar debido a que alguien ha cambiado la traducción remota.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100702Z" creationid="Antonio" creationdate="20151127T172200Z">
+        <seg>No es posible confirmar debido a que alguien cambió la traducción remota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17411,8 +17411,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T155114Z" creationid="Antonio" creationdate="20151127T171718Z">
-        <seg>La ejecución de "{0}" en Git ha terminado con éxito</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100713Z" creationid="Antonio" creationdate="20151127T171718Z">
+        <seg>La ejecución de "{0}" en Git terminó con éxito</seg>
       </tuv>
     </tu>
     <tu>
@@ -27430,8 +27430,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT has detected a 3.6-style team project.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T170322Z" creationid="hcartagena" creationdate="20180605T170322Z">
-        <seg>OmegaT ha detectado un proyecto de trabajo en grupo de la versión 3.6.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220519T100730Z" creationid="hcartagena" creationdate="20180605T170322Z">
+        <seg>OmegaT detectó un proyecto de trabajo en grupo de la versión 3.6.</seg>
       </tuv>
     </tu>
     <tu>
