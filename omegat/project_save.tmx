@@ -27364,6 +27364,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220524T111454Z" creationid="Mari" creationdate="20220524T111454Z">
+        <seg>OmegaT para macOS está disponible en versión autentificada y versión sin firmar. Cuentan con las mismas funciones, pero es preferible utilizar la versión autentificada porque el sistema reconoce que la publicó un desarrollador conocido y está verificada por Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211115T112847Z" creationid="Mari" creationdate="20211115T112847Z">
