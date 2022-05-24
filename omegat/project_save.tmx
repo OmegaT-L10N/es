@@ -16209,8 +16209,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170826T114502Z" creationid="Cristina" creationdate="20170826T114502Z">
-        <seg>Los archivos en formatos antiguos de MS Word, Excel y PowerPoint se pueden traducir después de convertirlos a la versión actual de los formatos de Microsoft Office, o al formato Office Open XML, que se puede crear en OpenOffice.org o LibreOffice (también gratuito).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220524T103205Z" creationid="Cristina" creationdate="20170826T114502Z">
+        <seg>Los archivos en formatos antiguos de MS Word, Excel y PowerPoint se pueden traducir después de convertirlos a los formatos equivalentes actuales de Microsoft Office, o al formato Office Open XML, que se puede crear en OpenOffice.org o LibreOffice (también gratuito).</seg>
       </tuv>
     </tu>
     <tu>
