@@ -30069,8 +30069,8 @@ destino al que desea traducirlos.</seg>
       <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20171003T172820Z" creationid="Cristina" creationdate="20170828T181613Z">
-        <seg>Los binarios anteriores a la compilación están disponibles como nightly builds.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220524T105146Z" creationid="Cristina" creationdate="20170828T181613Z">
+        <seg>Los binarios anteriores a la compilación están disponibles como Nightly Builds.</seg>
       </tuv>
     </tu>
     <tu>
