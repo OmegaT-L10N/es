@@ -51527,6 +51527,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220524T111133Z" creationid="Mari" creationdate="20220524T111133Z">
+        <seg>macOS intenta aumentar la seguridad dificultando la ejecución de programas sin verificar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mah</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T152817Z" creationid="Antonio" creationdate="20151128T152817Z">
