@@ -13136,8 +13136,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Developer Version</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170828T181619Z" creationid="Cristina" creationdate="20170828T180635Z">
-        <seg>Versión de desarrollo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220524T104756Z" creationid="Cristina" creationdate="20170828T180635Z">
+        <seg>Versión para desarrolladores</seg>
       </tuv>
     </tu>
     <tu>
@@ -37126,8 +37126,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T235629Z" creationid="hcartagena" creationdate="20200729T235629Z">
-        <seg>La versión "master" es una versión "alfa" de avanzada, todavía en desarrollo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220524T104949Z" creationid="hcartagena" creationdate="20200729T235629Z">
+        <seg>La versión "master" es una versión "alfa" de vanguardia, todavía en desarrollo.</seg>
       </tuv>
     </tu>
     <tu>
