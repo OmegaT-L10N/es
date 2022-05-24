@@ -19652,8 +19652,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231228Z" creationid="Cristina" creationdate="20170905T182621Z">
-        <seg>Si está seguro de que ya tiene una versión adecuada de JRE instalada en su equipo, puede descargar una versión de OmegaT sin JRE.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220524T105451Z" creationid="Cristina" creationdate="20170905T182621Z">
+        <seg>Si sabe con seguridad que ya tiene una versión adecuada de JRE instalada en su equipo, puede descargar una versión de OmegaT sin JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20766,8 +20766,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="es" changeid="hectorcartagena" changedate="20200504T231214Z" creationid="Cristina" creationdate="20170905T182545Z">
-        <seg>Es necesario que tenga Java Runtime Environment (JRE) instalado en su equipo para que OmegaT funcione.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220524T105427Z" creationid="Cristina" creationdate="20170905T182545Z">
+        <seg>Es necesario que tenga Java Runtime Environment (JRE) instalado en su equipo para que OmegaT se ejecute.</seg>
       </tuv>
     </tu>
     <tu>
