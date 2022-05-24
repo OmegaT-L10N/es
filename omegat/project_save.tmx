@@ -19740,8 +19740,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T144849Z" creationid="Cristina" creationdate="20170905T184349Z">
-        <seg>Si no está seguro de si tiene o no una versión adecuada de JRE, seleccione una versión con JRE (o la versión predeterminada).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220524T110119Z" creationid="Cristina" creationdate="20170905T184349Z">
+        <seg>Si no sabe con seguridad si tiene o no una versión adecuada de JRE, seleccione una versión con JRE (o la versión predeterminada).</seg>
       </tuv>
     </tu>
     <tu>
