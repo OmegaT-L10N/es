@@ -40375,6 +40375,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220524T111550Z" creationid="Mari" creationdate="20220524T111550Z">
+        <seg>Es posible que se tarde un tiempo en publicar la versión autentificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211129T202405Z" creationid="Mari" creationdate="20211129T202405Z">
