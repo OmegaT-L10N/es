@@ -6092,8 +6092,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T235748Z" creationid="hcartagena" creationdate="20200729T235748Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es una aplicación de memorias de traducción libre que funciona en Windows, macOS, Linux...</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T151243Z" creationid="hcartagena" creationdate="20200729T235748Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es una aplicación gratuita de memorias de traducción que funciona en Windows, macOS, Linux...</seg>
       </tuv>
     </tu>
     <tu>
