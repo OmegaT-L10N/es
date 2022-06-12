@@ -21639,8 +21639,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Integral spelling checker</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170812T155405Z" creationid="Cristina" creationdate="20170812T155354Z">
-        <seg>Corrector de ortografía incorporado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T152006Z" creationid="Cristina" creationdate="20170812T155354Z">
+        <seg>Corrector ortográfico incorporado</seg>
       </tuv>
     </tu>
     <tu>
@@ -43744,8 +43744,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170812T154535Z" creationid="Cristina" creationdate="20170812T154535Z">
-        <seg>Compatibilidad con Unicode (UTF-8): puede usarse con alfabetos no latinos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T151911Z" creationid="Cristina" creationdate="20170812T154535Z">
+        <seg>Compatibilidad con Unicode (UTF-8): puede utilizarse con alfabetos no latinos</seg>
       </tuv>
     </tu>
     <tu>
