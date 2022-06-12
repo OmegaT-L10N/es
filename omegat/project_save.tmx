@@ -37816,6 +37816,14 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220612T145922Z" creationid="Mari" creationdate="20220612T145922Z">
+        <seg>El certificado está firmado por el desarrollador principal de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The changes are displayed.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220305T123504Z" creationid="Mari" creationdate="20220305T123504Z">
