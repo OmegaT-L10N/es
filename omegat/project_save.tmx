@@ -22206,8 +22206,8 @@ the user license.</seg>
       <tuv lang="en">
         <seg>It is recommended for serious developers and testers only.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T153325Z" creationid="Cristina" creationdate="20170916T153325Z">
-        <seg>Se recomienda solo para desarrolladores y testers serios.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T150750Z" creationid="Cristina" creationdate="20170916T153325Z">
+        <seg>Se recomienda solo para desarrolladores y evaluadores serios.</seg>
       </tuv>
     </tu>
     <tu>
