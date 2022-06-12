@@ -37084,16 +37084,16 @@ El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, t
       <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T181755Z" creationid="Cristina" creationdate="20170816T184631Z">
-        <seg>Esto quiere decir que si le apetece, puede modificar OmegaT para ajustarlo a sus propias necesidades.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T153224Z" creationid="Cristina" creationdate="20170816T184631Z">
+        <seg>Esto quiere decir que, si le apetece, puede modificar OmegaT para ajustarlo a sus propias necesidades.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T181729Z" creationid="Cristina" creationdate="20170816T184456Z">
-        <seg>Esto quiere decir que los usuarios como usted son libres de descargarlo y usarlo con muy pocas restricciones.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T153155Z" creationid="Cristina" creationdate="20170816T184456Z">
+        <seg>Esto quiere decir que los usuarios como usted son libres de descargarlo y utilizarlo con muy pocas restricciones.</seg>
       </tuv>
     </tu>
     <tu>
