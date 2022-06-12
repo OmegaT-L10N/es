@@ -44745,6 +44745,14 @@ puede buscar en los archivos sin suscripción:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220612T145552Z" creationid="Mari" creationdate="20220612T145552Z">
+        <seg>Los usuarios que tengan prisa pueden utilizar en su lugar la versión sin firmar; si tiene dificultades para iniciar la aplicación, consulte &lt;a0&gt;cómo abrir una aplicación de un desarrollador no identificado&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T150757Z" creationid="Cristina" creationdate="20170916T150757Z">
