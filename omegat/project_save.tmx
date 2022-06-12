@@ -30403,8 +30403,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20171012T114350Z" creationid="Cristina" creationdate="20170916T151838Z">
-        <seg>Información sobre la privacidad: OmegaT Java Web Start no guarda ninguna información en los servidores web de OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T150359Z" creationid="Cristina" creationdate="20170916T151838Z">
+        <seg>Información sobre la privacidad: OmegaT Java Web Start no guarda ninguna información del usuario en los servidores web de OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
