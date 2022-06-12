@@ -8100,8 +8100,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170820T114835Z" creationid="Cristina" creationdate="20170820T114737Z">
-        <seg>y, si encuentran algo que no funciona o deficiencias en la documentación, decírnoslo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T153655Z" creationid="Cristina" creationdate="20170820T114737Z">
+        <seg>Y, si encuentran algo que no funciona o deficiencias en la documentación, decírnoslo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28431,8 +28431,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170912T182404Z" creationid="Cristina" creationdate="20170820T114735Z">
-        <seg>Una de las cosas más útiles que pueden hacer los usuarios de OmegaT es... usar OmegaT</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T153639Z" creationid="Cristina" creationdate="20170820T114735Z">
+        <seg>Una de las cosas más útiles que pueden hacer los usuarios de OmegaT es... utilizar OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -29753,8 +29753,8 @@ para determinar el origen del error y vuelva a intentarlo.</seg>
       <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200729T235825Z" creationid="hcartagena" creationdate="20200729T235825Z">
-        <seg>Contacte al &lt;a0&gt;coordinador de localización de OmegaT&lt;/a0&gt; para conocer detalles sobre lo que implica localizar/traducir OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220612T153620Z" creationid="hcartagena" creationdate="20200729T235825Z">
+        <seg>Póngase en contacto con el &lt;a0&gt;coordinador de localización de OmegaT&lt;/a0&gt; para conocer detalles sobre lo que implica localizar/traducir OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
