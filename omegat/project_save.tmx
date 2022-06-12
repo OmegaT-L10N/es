@@ -29571,6 +29571,14 @@ cual bruma se disipa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220612T150903Z" creationid="Mari" creationdate="20220612T150903Z">
+        <seg>Las compilaciones periódicas están disponibles en SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Periodic builds are available on Sourceforge.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T235712Z" creationid="hcartagena" creationdate="20200729T235712Z">
