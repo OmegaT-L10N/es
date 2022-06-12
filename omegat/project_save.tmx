@@ -20764,6 +20764,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220612T150217Z" creationid="Mari" creationdate="20220612T150217Z">
+        <seg>Para instalar la versión Web Start, es necesario que tenga la versión de Java 1.8 o posterior instalada en su equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220524T105427Z" creationid="Cristina" creationdate="20170905T182545Z">
