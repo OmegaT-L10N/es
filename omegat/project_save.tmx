@@ -3081,8 +3081,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200730T002302Z" creationid="hcartagena" creationdate="20200730T002302Z">
-        <seg>&lt;a0&gt;El patrocinio del desarrollo ya ha significado la incorporación de algunas funcionalidades.&lt;/a0&gt; Si usted desea financiar el trabajo de implementación de su funcionalidad deseada, contacte al equipo de desarrollo en privado para solicitar una cotización.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220613T150115Z" creationid="hcartagena" creationdate="20200730T002302Z">
+        <seg>&lt;a0&gt;El patrocinio del desarrollo ya ha significado la incorporación de algunas funciones.&lt;/a0&gt; Si desea financiar el trabajo de implementación de la función deseada, póngase en contacto con el equipo de desarrollo en privado para solicitar presupuesto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28175,8 +28175,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200730T002152Z" creationid="hcartagena" creationdate="20200730T002152Z">
-        <seg>Los desarrolladores de OmegaT, al ser voluntarios, estarán más dispuestos a implementar una RFE cuyo desarrollo sea financiado por el solicitante.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220613T145932Z" creationid="hcartagena" creationdate="20200730T002152Z">
+        <seg>Los desarrolladores de OmegaT, que son todos voluntarios, estarán más dispuestos a implementar una RFE cuyo desarrollo sea financiado por el solicitante.</seg>
       </tuv>
     </tu>
     <tu>
