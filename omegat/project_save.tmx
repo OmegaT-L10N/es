@@ -21110,8 +21110,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200730T000337Z" creationid="hcartagena" creationdate="20200730T000337Z">
-        <seg>A su vez, tienen la libertad y, de hecho, se les incentiva (aunque esto no implica obligación) a colaborar en el proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220613T144239Z" creationid="hcartagena" creationdate="20200730T000337Z">
+        <seg>A su vez, tienen la libertad y, de hecho, se les anima (aunque esto no implica obligación) a colaborar en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44763,8 +44763,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200730T000255Z" creationid="hcartagena" creationdate="20200730T000255Z">
-        <seg>Los usuarios tienen la libertad de descargar y usar el programa.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220613T144210Z" creationid="hcartagena" creationdate="20200730T000255Z">
+        <seg>Los usuarios tienen la libertad de descargar y utilizar el programa.</seg>
       </tuv>
     </tu>
     <tu>
