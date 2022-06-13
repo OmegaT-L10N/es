@@ -28447,8 +28447,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200730T001632Z" creationid="hcartagena" creationdate="20200730T001632Z">
-        <seg>Un motivo es que la funcionalidad deseada puede haber sido ya implementada o que haya razones por las que no se puede implementar.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220613T145141Z" creationid="hcartagena" creationdate="20200730T001632Z">
+        <seg>Un motivo es que la función deseada puede haber sido ya implementada o que haya razones por las que no se puede implementar.</seg>
       </tuv>
     </tu>
     <tu>
