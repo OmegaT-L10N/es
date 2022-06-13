@@ -8433,8 +8433,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20200730T001353Z" creationid="hcartagena" creationdate="20200730T001353Z">
-        <seg>Como ocurre con lo demás en el proyecto OmegaT, el trabajo de programar OmegaT es hecho por voluntarios y, respetando la filosofía del proyecto, los desarrollos y mejoras que hacen a OmegaT quedan finalmente a su criterio.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220613T145020Z" creationid="hcartagena" creationdate="20200730T001353Z">
+        <seg>Como ocurre con lo demás en el proyecto OmegaT, el trabajo de programar OmegaT se hace por voluntarios y, respetando la filosofía del proyecto, los desarrollos y mejoras que hacen a OmegaT quedan finalmente a su criterio.</seg>
       </tuv>
     </tu>
     <tu>
