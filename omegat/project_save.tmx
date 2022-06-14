@@ -29713,8 +29713,8 @@ confirme todo.</seg>
       <tuv lang="en">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T174100Z" creationid="Cristina" creationdate="20170916T174100Z">
-        <seg>Independiente de plataforma; es necesario tcl/tk.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T153851Z" creationid="Cristina" creationdate="20170916T174100Z">
+        <seg>Independiente de la plataforma; es necesario tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
