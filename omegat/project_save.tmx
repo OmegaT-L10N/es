@@ -21653,6 +21653,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220614T151021Z" creationid="Mari" creationdate="20220614T151021Z">
+        <seg>Integra el motor de traducción automática neuronal TexTra en OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233632Z" creationid="hcartagena" creationdate="20200729T233632Z">
@@ -36972,6 +36980,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T195558Z" creationid="hcartagena" creationdate="20180605T165442Z">
         <seg>Probando…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220614T150825Z" creationid="Mari" creationdate="20220614T150825Z">
+        <seg>Complemento TexTra</seg>
       </tuv>
     </tu>
     <tu>
