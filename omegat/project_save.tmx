@@ -31720,8 +31720,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T162627Z" creationid="Cristina" creationdate="20170917T162627Z">
-        <seg>Eliminar todo el texto pero no las etiquetas, o todas las etiquetas pero no el texto</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T160136Z" creationid="Cristina" creationdate="20170917T162627Z">
+        <seg>Eliminar todo el texto excepto las etiquetas o todas las etiquetas excepto el texto</seg>
       </tuv>
     </tu>
     <tu>
