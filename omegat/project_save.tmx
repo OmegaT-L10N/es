@@ -14344,6 +14344,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220614T151136Z" creationid="Mari" creationdate="20220614T151136Z">
+        <seg>Complemento EPWING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T225013Z" creationid="Antonio" creationdate="20151127T173639Z">
@@ -30925,6 +30933,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T164424Z" creationid="Cristina" creationdate="20170916T164424Z">
         <seg>Proporciona filtros para usar más formatos de archivo, incluido el TTX de Trados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220614T151213Z" creationid="Mari" creationdate="20220614T151213Z">
+        <seg>Proporciona la función para leer el formato de diccionario EPWING.</seg>
       </tuv>
     </tu>
     <tu>
