@@ -7028,8 +7028,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T162434Z" creationid="Cristina" creationdate="20170917T162434Z">
-        <seg>Agregar términos a un glosario mientras traduce en OmegaT</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T155705Z" creationid="Cristina" creationdate="20170917T162434Z">
+        <seg>Añadir términos a un glosario mientras traduce en OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -11966,8 +11966,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Create a TMX file containing all strings, with identical source and target</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T162406Z" creationid="Cristina" creationdate="20170917T162251Z">
-        <seg>Crear un archivo TMX con todas las cadenas con el mismo texto origen que meta</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T155651Z" creationid="Cristina" creationdate="20170917T162251Z">
+        <seg>Crear un archivo TMX con todas las cadenas con el mismo texto original y traducido</seg>
       </tuv>
     </tu>
     <tu>
