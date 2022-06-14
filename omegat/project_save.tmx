@@ -22610,8 +22610,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T172253Z" creationid="Cristina" creationdate="20170916T172253Z">
-        <seg>Script de línea de comandos de Java para eliminar las unidades de traducción prescindibles de un archivo TMX: elimina todas las unidades de traducción sin segmento meta o en las que el segmento meta es igual que el segmento origen.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T152916Z" creationid="Cristina" creationdate="20170916T172253Z">
+        <seg>Script de línea de comandos de Java para eliminar las unidades de traducción prescindibles de un archivo TMX: elimina todas las unidades de traducción sin segmento traducido o en las que el segmento traducido es igual que el segmento original.</seg>
       </tuv>
     </tu>
     <tu>
