@@ -30905,6 +30905,14 @@ local sin la funcionalidad de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220614T150426Z" creationid="Mari" creationdate="20220614T150426Z">
+        <seg>Proporciona filtros para gestionar más formatos de archivo, incluidos TTX de Trados y Markdown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170916T164424Z" creationid="Cristina" creationdate="20170916T164424Z">
