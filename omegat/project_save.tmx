@@ -45465,8 +45465,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>Website support can be scripted in Groovy.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181109T131402Z" creationid="taty" creationdate="20181109T131402Z">
-        <seg>Soporte de sitio web puede ser escrito en Groovy&lt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T150810Z" creationid="taty" creationdate="20181109T131402Z">
+        <seg>El soporte de sitios web se puede programar en Groovy.</seg>
       </tuv>
     </tu>
     <tu>
