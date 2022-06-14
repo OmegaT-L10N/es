@@ -15801,8 +15801,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Extract all source text from the project files into a single, large text file</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T162248Z" creationid="Cristina" creationdate="20170917T162248Z">
-        <seg>Extraer todo el texto origen de los archivos de proyecto en un solo archivo de texto grande</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T155610Z" creationid="Cristina" creationdate="20170917T162248Z">
+        <seg>Extraer todo el texto original de los archivos del proyecto en un solo archivo de texto grande</seg>
       </tuv>
     </tu>
     <tu>
@@ -34944,8 +34944,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T162224Z" creationid="Cristina" creationdate="20170917T162224Z">
-        <seg>Saltar los segmentos con un conjunto de caracteres específico</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T155545Z" creationid="Cristina" creationdate="20170917T162224Z">
+        <seg>Omitir los segmentos con un conjunto de caracteres específico</seg>
       </tuv>
     </tu>
     <tu>
