@@ -36306,8 +36306,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>TKount text counting utility.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T174536Z" creationid="Cristina" creationdate="20170916T174536Z">
-        <seg>Utilidad para contar TKount.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T153946Z" creationid="Cristina" creationdate="20170916T174536Z">
+        <seg>Utilidad para contar texto TKount.</seg>
       </tuv>
     </tu>
     <tu>
