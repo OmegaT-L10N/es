@@ -8196,8 +8196,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>Apertium Plugin</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T164502Z" creationid="Cristina" creationdate="20170916T164502Z">
-        <seg>Complemento Apertium</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T150456Z" creationid="Cristina" creationdate="20170916T164502Z">
+        <seg>Complemento de Apertium</seg>
       </tuv>
     </tu>
     <tu>
@@ -9350,8 +9350,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Browser plugin</seg>
       </tuv>
-      <tuv lang="es" changeid="apujo" changedate="20181211T083406Z" creationid="taty" creationdate="20181109T130944Z">
-        <seg>Plugin para navegador web</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220614T150600Z" creationid="taty" creationdate="20181109T130944Z">
+        <seg>Plugin de navegador web</seg>
       </tuv>
     </tu>
     <tu>
