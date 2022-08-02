@@ -24179,6 +24179,14 @@ conexión a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translate Highlight</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220802T095943Z" creationid="Mari" creationdate="20220802T095943Z">
+        <seg>Resaltado de traducción automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151124T233745Z" creationid="hcartagena" creationdate="20151124T233745Z">
