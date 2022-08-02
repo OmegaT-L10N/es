@@ -415,6 +415,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font size to dictionary pane</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220802T101413Z" creationid="Mari" creationdate="20220802T101413Z">
+        <seg>&amp;Aplicar este tamaño de fuente al panel del diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T173212Z" creationid="hcartagena" creationdate="20151116T223525Z">
