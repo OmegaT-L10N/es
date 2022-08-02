@@ -34942,6 +34942,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Size on Dictionary pane</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220802T100949Z" creationid="Mari" creationdate="20220802T100949Z">
+        <seg>Tamaño en el panel Diccionario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211110T111735Z" creationid="hcartagena" creationdate="20180605T181022Z">
