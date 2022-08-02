@@ -44212,6 +44212,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220802T100813Z" creationid="Mari" creationdate="20220802T100813Z">
+        <seg>Utilizar vista &amp;comprimida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211104T120000Z" creationid="hcartagena" creationdate="20180604T233300Z">
