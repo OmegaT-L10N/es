@@ -7268,8 +7268,8 @@ El ajuste actual es {0}MB;</seg>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T121112Z" creationid="hcartagena" creationdate="20160331T200108Z">
-        <seg>Puede cerrar el cuadro de diálogo &lt;g4&gt;Archivos del proyecto&lt;/g4&gt; después de que se hayan cargado los archivos originales en el panel del &lt;g3&gt;Editor&lt;/g3&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T101003Z" creationid="hcartagena" creationdate="20160331T200108Z">
+        <seg>Puede cerrar el cuadro de diálogo &lt;g4&gt;Archivos del proyecto&lt;/g4&gt; después de que se hayan cargado los archivos originales en el panel &lt;g3&gt;Editor&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18845,8 +18845,8 @@ que introducir la ruta de acceso completa.)</seg>
       <tuv lang="en">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151201T223023Z" creationid="hcartagena" creationdate="20151201T223023Z">
-        <seg>Si un archivo no se carga en el panel del &lt;g0&gt;Editor&lt;/g0&gt;, podría ser que su formato no sea compatible con OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T101016Z" creationid="hcartagena" creationdate="20151201T223023Z">
+        <seg>Si un archivo no se carga en el panel &lt;g0&gt;Editor&lt;/g0&gt;, podría ser que su formato no sea compatible con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
