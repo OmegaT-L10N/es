@@ -35688,8 +35688,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Sponsorship</seg>
       </tuv>
-      <tuv lang="es" changeid="eumeu" changedate="20181109T123101Z" creationid="eumeu" creationdate="20181109T123101Z">
-        <seg>Sponsorship</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T093625Z" creationid="eumeu" creationdate="20181109T123101Z">
+        <seg>Patrocinio</seg>
       </tuv>
     </tu>
     <tu>
@@ -38694,8 +38694,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181109T135050Z" creationid="taty" creationdate="20181109T135050Z">
-        <seg>La gran mayoría del trabajo en el proyecto OmegaT se ha completado de forma voluntaria. </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T094236Z" creationid="taty" creationdate="20181109T135050Z">
+        <seg>La gran mayoría del trabajo en el proyecto OmegaT se completó de forma voluntaria.</seg>
       </tuv>
     </tu>
     <tu>
