@@ -9438,8 +9438,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181109T133556Z" creationid="taty" creationdate="20181109T131946Z">
-        <seg>Por Arno Peters y Mariëtte van Drunen (en holandés)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T092956Z" creationid="taty" creationdate="20181109T131946Z">
+        <seg>Por Arno Peters y Mariëtte van Drunen (en neerlandés).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9518,8 +9518,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By Václav Hejda (in Czech).</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181109T133640Z" creationid="taty" creationdate="20181109T132123Z">
-        <seg>Por Václav Hejda (en Checo) </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T093010Z" creationid="taty" creationdate="20181109T132123Z">
+        <seg>Por Václav Hejda (en checo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21727,8 +21727,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Introduction to OmegaT (2.5.0).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220802T092900Z" creationid="taty" creationdate="20181109T131553Z">
-        <seg>Introducción a OmegaT (2.5.0). </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T092951Z" creationid="taty" creationdate="20181109T131553Z">
+        <seg>Introducción a OmegaT (2.5.0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32346,8 +32346,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Review of OmegaT 1.6 RC5.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181109T132504Z" creationid="taty" creationdate="20181109T132142Z">
-        <seg>Revisión de OmegaT 1.6 RC5.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T093020Z" creationid="taty" creationdate="20181109T132142Z">
+        <seg>Reseña de OmegaT 1.6 RC5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32362,8 +32362,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Review of OmegaT 2.3.0.</seg>
       </tuv>
-      <tuv lang="es" changeid="taty" changedate="20181109T132017Z" creationid="taty" creationdate="20181109T132017Z">
-        <seg>Revisión de OmegaT 2.3.0.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220802T092946Z" creationid="taty" creationdate="20181109T132017Z">
+        <seg>Reseña de OmegaT 2.3.0.</seg>
       </tuv>
     </tu>
     <tu>
