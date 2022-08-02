@@ -32905,6 +32905,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220802T095759Z" creationid="Mari" creationdate="20220802T095759Z">
+        <seg>Guardar el origen de la &amp;traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T205942Z" creationid="Antonio" creationdate="20151130T145056Z">
