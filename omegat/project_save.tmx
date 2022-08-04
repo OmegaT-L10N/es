@@ -16433,8 +16433,8 @@ La tela de araña te retiene
       <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180604T233920Z" creationid="hcartagena" creationdate="20180604T233920Z">
-        <seg>Se creó la carpeta {0} automáticamente para el proyecto en modo de trabajo en grupo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T103642Z" creationid="hcartagena" creationdate="20180604T233920Z">
+        <seg>Se creó automáticamente la carpeta {0} para el proyecto en modo de trabajo en grupo</seg>
       </tuv>
     </tu>
     <tu>
