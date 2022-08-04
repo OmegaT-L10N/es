@@ -37067,9 +37067,9 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T181821Z" creationid="hcartagena" creationdate="20151124T230334Z">
+      <tuv lang="es" changeid="Mari" changedate="20220804T142555Z" creationid="hcartagena" creationdate="20151124T230334Z">
         <seg>Reemplazo:
-El ámbito de un reemplazo de texto son los segmentos traducidos del proyecto, tengan o no contenido.</seg>
+El reemplazo de texto se aplica en los segmentos traducidos del proyecto, tengan o no contenido.</seg>
       </tuv>
     </tu>
     <tu>
