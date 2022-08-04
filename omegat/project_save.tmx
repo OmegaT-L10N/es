@@ -46122,9 +46122,9 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T100325Z" creationid="hcartagena" creationdate="20151124T230012Z">
+      <tuv lang="es" changeid="Mari" changedate="20220804T142121Z" creationid="hcartagena" creationdate="20151124T230012Z">
         <seg>Comodines:
-La búsqueda exacta y con palabras clave admiten los caracteres comodín * y ?.</seg>
+Tanto la búsqueda exacta como con palabras clave admiten los caracteres comodín * y ?.</seg>
       </tuv>
     </tu>
     <tu>
