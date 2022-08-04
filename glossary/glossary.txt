@@ -1,4 +1,4 @@
-source	original	como adjetivo, salvo si acompaña a "language", a "tokenizer" o a "term"
+﻿source	original	como adjetivo, salvo si acompaña a "language", a "tokenizer" o a "term"
 source	de origen	cuando acompaña a "language", a "tokenizer" y a "term", de lo contrario usar "original"
 target	traducido	como adjetivo, salvo si acompaña a "language" o a "term"
 target	de destino	cuando acompaña a "language" o a "term"
@@ -18,7 +18,7 @@ entry	término	cuando se refiere al glosario; de lo contrario "entrada"
 Legal notices	Aviso legal
 OmegaT on the web	OmegaT en la web
 Editing Behavior	Comportamiento del campo de edición
-fuzzy matches	coincidencias proximadas
+fuzzy matches	coincidencias aproximadas
 Editing behaviour	Comportamiento del campo de edición
 Subfolder	Subcarpeta
 Backups	copias de seguridad
