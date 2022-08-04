@@ -9774,8 +9774,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151117T142217Z" creationid="hcartagena" creationdate="20151117T142217Z">
-        <seg>No se pudo crear la carpeta para los archivos traducidos:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T103929Z" creationid="hcartagena" creationdate="20151117T142217Z">
+        <seg>No se puede crear la carpeta para los archivos traducidos:</seg>
       </tuv>
     </tu>
     <tu>
