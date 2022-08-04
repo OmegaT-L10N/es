@@ -20381,8 +20381,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T113824Z" creationid="hcartagena" creationdate="20151119T205314Z">
-        <seg>Ignorar atributos type y ctype al crear accesos directos para etiquetas &lt;&amp;bpt&gt; y &lt;ept&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T181338Z" creationid="hcartagena" creationdate="20151119T205314Z">
+        <seg>Ignorar atributos type y ctype al crear accesos directos para las etiquetas &lt;&amp;bpt&gt; y &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35584,8 +35584,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Specify state attribute handling behavior</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211021T182405Z" creationid="Mari" creationdate="20211021T182405Z">
-        <seg>Especificar comportamiento de manejo del atributo state</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T181403Z" creationid="Mari" creationdate="20211021T182405Z">
+        <seg>Especificar comportamiento para la gestión del atributo state</seg>
       </tuv>
     </tu>
     <tu>
