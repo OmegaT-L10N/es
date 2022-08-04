@@ -43672,8 +43672,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T191033Z" creationid="hcartagena" creationdate="20151119T191033Z">
-        <seg>No se pudo analizar el archivo de configuración de filtros</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T140426Z" creationid="hcartagena" creationdate="20151119T191033Z">
+        <seg>No se puede analizar el archivo de configuración de filtros</seg>
       </tuv>
     </tu>
     <tu>
@@ -43696,8 +43696,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151118T224947Z" creationid="hcartagena" creationdate="20151118T224947Z">
-        <seg>No se pudo leer el archivo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T140414Z" creationid="hcartagena" creationdate="20151118T224947Z">
+        <seg>No se puede leer el archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -43720,8 +43720,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T191041Z" creationid="hcartagena" creationdate="20151119T191041Z">
-        <seg>No se pudo guardar el archivo de configuración de filtros</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T140437Z" creationid="hcartagena" creationdate="20151119T191041Z">
+        <seg>No se puede guardar el archivo de configuración de filtros</seg>
       </tuv>
     </tu>
     <tu>
