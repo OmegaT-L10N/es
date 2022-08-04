@@ -28959,8 +28959,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T202403Z" creationid="hcartagena" creationdate="20151119T202352Z">
-        <seg>Opciones para fijar el largo de línea en documentos traducidos (0 = sin límite)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T180053Z" creationid="hcartagena" creationdate="20151119T202352Z">
+        <seg>Opciones para fijar el largo de línea en los documentos traducidos (0 = sin límite)</seg>
       </tuv>
     </tu>
     <tu>
