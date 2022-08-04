@@ -2382,9 +2382,9 @@ en modo de trabajo en grupo.)</seg>
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220804T093506Z" creationid="hcartagena" creationdate="20160331T214744Z">
+      <tuv lang="es" changeid="Mari" changedate="20220804T093640Z" creationid="hcartagena" creationdate="20160331T214744Z">
         <seg>--no-team
-		Desactive la función de proyectos de trabajo en grupo.</seg>
+		Deshabilite la función de proyectos de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
