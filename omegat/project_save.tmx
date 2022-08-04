@@ -8396,8 +8396,8 @@ El archivo TMX no se cargará.</seg>
       <tuv lang="en">
         <seg>Arrays must not be null</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T174254Z" creationid="hcartagena" creationdate="20151117T142934Z">
-        <seg>Las matrices no deben estar vacías</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T135223Z" creationid="hcartagena" creationdate="20151117T142934Z">
+        <seg>Las matrices no deben ser nulas</seg>
       </tuv>
     </tu>
     <tu>
