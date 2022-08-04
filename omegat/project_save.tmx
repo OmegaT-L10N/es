@@ -20598,8 +20598,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T100405Z" creationid="Mari" creationdate="20220316T153411Z">
-        <seg>En ambos tipos de búsqueda, exacta y con palabras clave, se pueden utilizar los caracteres comodín de búsqueda '*' y '?'.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T144151Z" creationid="Mari" creationdate="20220316T153411Z">
+        <seg>En ambos tipos de búsqueda, exacta y con palabras clave, se pueden utilizar los caracteres comodín de búsqueda "*" y "?".</seg>
       </tuv>
     </tu>
     <tu>
