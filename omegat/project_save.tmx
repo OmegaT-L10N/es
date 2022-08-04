@@ -8689,8 +8689,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T135103Z" creationid="Antonio" creationdate="20160316T135103Z">
-        <seg>Autoreemplazar 'nplurals=INTEGER; &amp;plural=EXPRESSION;' en encabezado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T143925Z" creationid="Antonio" creationdate="20160316T135103Z">
+        <seg>Autoreemplazar "nplurals=INTEGER; &amp;plural=EXPRESSION;" en encabezado</seg>
       </tuv>
     </tu>
     <tu>
