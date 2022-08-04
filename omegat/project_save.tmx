@@ -35288,8 +35288,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source File Encoding</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T191133Z" creationid="hcartagena" creationdate="20151119T191125Z">
-        <seg>Codificación de archivos originales</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T175225Z" creationid="hcartagena" creationdate="20151119T191125Z">
+        <seg>Codificación del archivo original</seg>
       </tuv>
     </tu>
     <tu>
@@ -35304,8 +35304,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T191129Z" creationid="hcartagena" creationdate="20151119T191114Z">
-        <seg>Patrón de nombre de archivos originales</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T175205Z" creationid="hcartagena" creationdate="20151119T191114Z">
+        <seg>Patrón de nombre del archivo original</seg>
       </tuv>
     </tu>
     <tu>
