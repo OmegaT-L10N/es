@@ -43664,8 +43664,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to parse IAM service response</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T102829Z" creationid="hcartagena" creationdate="20200729T203326Z">
-        <seg>No se pudo analizar la respuesta del servicio IAM</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T140513Z" creationid="hcartagena" creationdate="20200729T203326Z">
+        <seg>No se puede analizar la respuesta del servicio IAM</seg>
       </tuv>
     </tu>
     <tu>
@@ -43680,16 +43680,16 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to parse service error report</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T103032Z" creationid="hcartagena" creationdate="20200729T203359Z">
-        <seg>No se pudo analizar el informe de errores del servicio</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T140526Z" creationid="hcartagena" creationdate="20200729T203359Z">
+        <seg>No se puede analizar el informe de errores del servicio</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unable to parse translate service response</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T102843Z" creationid="hcartagena" creationdate="20200729T203339Z">
-        <seg>No se pudo analizar la respuesta del servicio de traducción</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T140519Z" creationid="hcartagena" creationdate="20200729T203339Z">
+        <seg>No se puede analizar la respuesta del servicio de traducción</seg>
       </tuv>
     </tu>
     <tu>
@@ -43712,8 +43712,8 @@ La búsqueda exacta encuentra la cadena de búsqueda completa.</seg>
       <tuv lang="en">
         <seg>Unable to save data.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T081431Z" creationid="Antonio" creationdate="20151127T081431Z">
-        <seg>No es posible guardar los datos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T140556Z" creationid="Antonio" creationdate="20151127T081431Z">
+        <seg>No se pueden guardar los datos.</seg>
       </tuv>
     </tu>
     <tu>
