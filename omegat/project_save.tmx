@@ -29437,8 +29437,8 @@ cual bruma se disipa</seg>
       <tuv lang="en">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T031829Z" creationid="hcartagena" creationdate="20180605T031829Z">
-        <seg>No se admiten archivos PDF protegidos por contraseña: {0}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T175823Z" creationid="hcartagena" creationdate="20180605T031829Z">
+        <seg>Los archivos PDF protegidos con contraseña no son compatibles: {0}</seg>
       </tuv>
     </tu>
     <tu>
