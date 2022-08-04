@@ -34440,8 +34440,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195733Z" creationid="Mari" creationdate="20211124T192245Z">
-        <seg>Establecer el inicio de segmento después de un punto ('.') seguido de un espacio, tabulación…</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T144013Z" creationid="Mari" creationdate="20211124T192245Z">
+        <seg>Establecer el inicio de segmento después de un punto (".") seguido de un espacio, tabulación…</seg>
       </tuv>
     </tu>
     <tu>
@@ -37262,8 +37262,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The '*' character matches zero or more characters.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T150838Z" creationid="Mari" creationdate="20211123T150838Z">
-        <seg>El carácter '*' coincide con cero o más caracteres.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T143949Z" creationid="Mari" creationdate="20211123T150838Z">
+        <seg>El carácter "*" coincide con cero o más caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37279,8 +37279,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T150854Z" creationid="Antonio" creationdate="20160316T191934Z">
-        <seg>El carácter '?' coincide exactamente con un único carácter.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T143955Z" creationid="Antonio" creationdate="20160316T191934Z">
+        <seg>El carácter "?" coincide exactamente con un único carácter.</seg>
       </tuv>
     </tu>
     <tu>
