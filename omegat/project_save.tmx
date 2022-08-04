@@ -11392,10 +11392,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211019T145719Z" creationid="hcartagena" creationdate="20160331T215323Z">
+      <tuv lang="es" changeid="Mari" changedate="20220804T094417Z" creationid="hcartagena" creationdate="20160331T215323Z">
         <seg>Modo console-translate:
 	--source-pattern=&lt;patrón&gt;
-		Una lista de expresiones regulares de archivos originales a procesar.</seg>
+		Una lista de expresiones regulares de archivos originales que procesar.</seg>
       </tuv>
     </tu>
     <tu>
