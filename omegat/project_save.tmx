@@ -33607,8 +33607,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T215016Z" creationid="hcartagena" creationdate="20160331T215016Z">
-        <seg>Ver los valores válidos en OmegaT.jar/META-INF/MANIFEST.MF.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220804T093933Z" creationid="hcartagena" creationdate="20160331T215016Z">
+        <seg>Consulte los valores válidos en OmegaT.jar/META-INF/MANIFEST.MF.</seg>
       </tuv>
     </tu>
     <tu>
