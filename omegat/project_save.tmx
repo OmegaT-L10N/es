@@ -45673,8 +45673,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T112831Z" creationid="Antonio" creationdate="20151127T154357Z">
-        <seg>Si está marcado, los elementos de la vista autocompletar del glosario tendrán también el texto original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T150854Z" creationid="Antonio" creationdate="20151127T154357Z">
+        <seg>Si está marcada, los elementos de la vista autocompletar del glosario tendrán también el texto original.</seg>
       </tuv>
     </tu>
     <tu>
