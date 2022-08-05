@@ -25203,8 +25203,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>Modification info template for segments without date</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T232507Z" creationid="hcartagena" creationdate="20151124T232507Z">
-        <seg>Plantilla de información sobre modificaciones de segmentos sin fecha</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T095304Z" creationid="hcartagena" creationdate="20151124T232507Z">
+        <seg>Plantilla de información sobre modificaciones para segmentos sin fecha</seg>
       </tuv>
     </tu>
     <tu>
