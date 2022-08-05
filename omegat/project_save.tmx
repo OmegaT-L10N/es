@@ -7068,8 +7068,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T120918Z" creationid="Antonio" creationdate="20151127T075033Z">
-        <seg>Añadidos: {1}, eliminados: {2}, modificados: {3} (conflictos: {0})</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T152132Z" creationid="Antonio" creationdate="20151127T075033Z">
+        <seg>Añadidos: {1}, Eliminados: {2}, Modificados: {3} (Conflictos: {0})</seg>
       </tuv>
     </tu>
     <tu>
