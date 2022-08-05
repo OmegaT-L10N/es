@@ -16747,8 +16747,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220519T101019Z" creationid="taty" creationdate="20181109T164229Z">
-        <seg>Por ejemplo, si seleccionó ES-MX (español mexicano) como idioma de destino, los archivos de diccionario deben ser nombrados es_MX.dic y es_MX.aff. </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T183043Z" creationid="taty" creationdate="20181109T164229Z">
+        <seg>Por ejemplo, si seleccionó ES-MX (español mexicano) como idioma de destino, los archivos de diccionario deben ser nombrados es_MX.dic y es_MX.aff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39145,8 +39145,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T120628Z" creationid="nenyavie" creationdate="20200226T120719Z">
-        <seg>Los nombres de los archivos deben corresponder al código de idioma de el idioma de destino, como se define en el cuadro de diálogo de propiedades del proyecto (&lt;g0&gt;Proyecto&gt;Propiedades&lt;/g0&gt;). </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T183022Z" creationid="nenyavie" creationdate="20200226T120719Z">
+        <seg>Los nombres de los archivos deben corresponder al código de idioma de el idioma de destino, como se define en el cuadro de diálogo de propiedades del proyecto (&lt;g0&gt;Proyecto&gt;Propiedades&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
