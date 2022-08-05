@@ -22466,8 +22466,8 @@ en la primera ejecución.</seg>
       <tuv lang="en">
         <seg>Item name is empty or missing</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T095916Z" creationid="nenyavie" creationdate="20200225T095916Z">
-        <seg>El nombre del elemento está vacío o falta</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T160438Z" creationid="nenyavie" creationdate="20200225T095916Z">
+        <seg>El nombre del elemento está vacío o ausente</seg>
       </tuv>
     </tu>
     <tu>
