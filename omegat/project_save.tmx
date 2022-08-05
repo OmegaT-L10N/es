@@ -1546,8 +1546,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T112256Z" creationid="nenyavie" creationdate="20200225T112256Z">
-        <seg>&amp;Mostrar en el menú contextual del editor</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T160741Z" creationid="nenyavie" creationdate="20200225T112256Z">
+        <seg>&amp;Mostrar en el menú contextual del Editor</seg>
       </tuv>
     </tu>
     <tu>
