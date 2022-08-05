@@ -16659,8 +16659,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T140926Z" creationid="nenyavie" creationdate="20200225T140926Z">
-        <seg>Por ejemplo, &lt;e0&gt;a+&lt;/e0&gt; conicidirá con aaa en &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T181731Z" creationid="nenyavie" creationdate="20200225T140926Z">
+        <seg>Por ejemplo, &lt;e0&gt;a+&lt;/e0&gt; coincidirá con aaa en &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49918,8 +49918,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T200746Z" creationid="nenyavie" creationdate="20200225T140806Z">
-        <seg>Los cuantificadores expansivos coincidirán lo máximo posible.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T181717Z" creationid="nenyavie" creationdate="20200225T140806Z">
+        <seg>los cuantificadores expansivos coincidirán lo máximo posible.</seg>
       </tuv>
     </tu>
     <tu>
