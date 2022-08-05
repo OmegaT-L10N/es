@@ -11334,8 +11334,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T204044Z" creationid="Antonio" creationdate="20151127T171519Z">
-        <seg>Conexión disponible, el proyecto está en modo de proyecto de trabajo en grupo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T145007Z" creationid="Antonio" creationdate="20151127T171519Z">
+        <seg>Conexión disponible; el proyecto está en modo de proyecto de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26018,8 +26018,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T230817Z" creationid="Antonio" creationdate="20151127T171527Z">
-        <seg>No hay conexión disponible, el proyecto está en modo sin conexión.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T144955Z" creationid="Antonio" creationdate="20151127T171527Z">
+        <seg>No hay conexión disponible; el proyecto está en modo sin conexión.</seg>
       </tuv>
     </tu>
     <tu>
