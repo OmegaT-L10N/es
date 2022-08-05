@@ -24205,8 +24205,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>Machine Translation Options</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T033659Z" creationid="hcartagena" creationdate="20180605T033659Z">
-        <seg>Opciones de traducción automática</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T104511Z" creationid="hcartagena" creationdate="20180605T033659Z">
+        <seg>Opciones de Traducción automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -32995,8 +32995,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Saving and Output Options</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T232412Z" creationid="Antonio" creationdate="20151127T163906Z">
-        <seg>Opciones de guardado y salida</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T104550Z" creationid="Antonio" creationdate="20151127T163906Z">
+        <seg>Opciones de Guardado y salida</seg>
       </tuv>
     </tu>
     <tu>
@@ -36354,8 +36354,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>TM Matching Options</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T164724Z" creationid="hcartagena" creationdate="20180605T164724Z">
-        <seg>Opciones de coincidencias de memorias</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T104528Z" creationid="hcartagena" creationdate="20180605T164724Z">
+        <seg>Opciones de Coincidencias de memorias</seg>
       </tuv>
     </tu>
     <tu>
