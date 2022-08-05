@@ -35120,8 +35120,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211111T113518Z" creationid="Antonio" creationdate="20160125T155021Z">
-        <seg>Algunos de los diccionarios se pueden utilizar sin condiciones, es decir, son "de uso libre", y otros, como los indicados anteriormente, están bajo la licencia GPL.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T173740Z" creationid="Antonio" creationdate="20160125T155021Z">
+        <seg>Algunos de los diccionarios se pueden utilizar sin condiciones, es decir, son "de uso libre" y otros, como los indicados anteriormente, están bajo la licencia GPL.</seg>
       </tuv>
     </tu>
     <tu>
