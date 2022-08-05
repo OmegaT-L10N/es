@@ -8617,8 +8617,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.
       <tuv lang="en">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T022309Z" creationid="hcartagena" creationdate="20151120T175654Z">
-        <seg>Intentar convertir &amp;números al insertar una coincidencia aproximada</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T094502Z" creationid="hcartagena" creationdate="20151120T175654Z">
+        <seg>Intentar convertir los &amp;números al insertar una coincidencia aproximada</seg>
       </tuv>
     </tu>
     <tu>
