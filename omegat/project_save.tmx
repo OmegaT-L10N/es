@@ -24867,8 +24867,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T233551Z" creationid="hcartagena" creationdate="20151124T233551Z">
-        <seg>Pueden encontrarse coincidencias en su traducción actual o en los archivos TMX que haya puesto en la carpeta /tm/.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T100339Z" creationid="hcartagena" creationdate="20151124T233551Z">
+        <seg>Pueden encontrarse coincidencias en la traducción actual o en los archivos TMX que haya puesto en la carpeta /tm/.</seg>
       </tuv>
     </tu>
     <tu>
