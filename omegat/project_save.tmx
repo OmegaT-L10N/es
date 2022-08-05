@@ -47069,8 +47069,8 @@ al menú Inicio, al escritorio o al área de inicio rápido para vincularlo desd
       <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (accessible by &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T182620Z" creationid="Mari" creationdate="20220111T182620Z">
-        <seg>Puede cambiar los accesos directos ya asignados y añadir nuevos colocando un archivo con la definición de los accesos directos en la carpeta de preferencias de OmegaT (a la que se accede desde el menú mediante &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Acceder a carpeta de configuración&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T184155Z" creationid="Mari" creationdate="20220111T182620Z">
+        <seg>Puede cambiar los accesos directos ya asignados y añadir nuevos colocando un archivo con la definición de los accesos directos en la carpeta de preferencias de OmegaT (a la que se accede desde el menú mediante &lt;m0&gt; &lt;g1&gt;Opciones&lt;/g1&gt; &lt;g2&gt;Acceder a carpeta de configuración&lt;/g2&gt;&lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
