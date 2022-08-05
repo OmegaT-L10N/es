@@ -9165,8 +9165,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T110614Z" creationid="nenyavie" creationdate="20200226T110614Z">
-        <seg>Antes de que se pueda utilizar la función de corrección ortográfica se debe instalar uno o varios diccionarios adecuados (es decir, para su idioma de destino).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T190220Z" creationid="nenyavie" creationdate="20200226T110614Z">
+        <seg>Antes de que se pueda utilizar la función de corrección ortográfica, se deben instalar uno o varios diccionarios adecuados (es decir, para su idioma de destino).</seg>
       </tuv>
     </tu>
     <tu>
