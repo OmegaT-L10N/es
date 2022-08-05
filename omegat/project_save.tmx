@@ -10357,8 +10357,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T121551Z" creationid="nenyavie" creationdate="20200226T121551Z">
-        <seg>De todas maneras, asegúrese de que los códigos de idioma son exactamente iguales: un diccionario FR-FR no funcionará con una configuración de destino FR, por ejemplo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T190806Z" creationid="nenyavie" creationdate="20200226T121551Z">
+        <seg>De todos modos, asegúrese de que los códigos de idioma son exactamente iguales: un diccionario FR-FR no funcionará con una configuración de destino FR, por ejemplo.</seg>
       </tuv>
     </tu>
     <tu>
