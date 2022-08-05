@@ -7868,16 +7868,16 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>An error occurred when loading the source files.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160401T040746Z" creationid="hcartagena" creationdate="20160401T040746Z">
-        <seg>Se produjo un error al cargar los archivos originales.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T142655Z" creationid="hcartagena" creationdate="20160401T040746Z">
+        <seg>Error al cargar los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211104T194103Z" creationid="hcartagena" creationdate="20160401T044624Z">
-        <seg>Se produjo un error al guardar la TMX.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T142730Z" creationid="hcartagena" creationdate="20160401T044624Z">
+        <seg>Error al guardar la TMX.</seg>
       </tuv>
     </tu>
     <tu>
