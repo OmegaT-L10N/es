@@ -9190,8 +9190,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220315T105719Z" creationid="Mari" creationdate="20220315T105719Z">
-        <seg>Es el lenguaje en el que se basan software populares como Firefox y es una herramienta de programación familiar y preferida en el ámbito del sofware de código abierto. </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T183106Z" creationid="Mari" creationdate="20220315T105719Z">
+        <seg>Es el lenguaje en el que se basan software populares como Firefox y es una herramienta de programación familiar y preferida en el ámbito del sofware de código abierto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15508,8 +15508,8 @@ soy la pantalla azul de la muerte,
       <tuv lang="en">
         <seg>Except one: check &lt;g0&gt;Untranslated&lt;/g0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220519T103454Z" creationid="Mari" creationdate="20220315T195826Z">
-        <seg>Excepto una: marque &lt;g0&gt;Sin traducción&lt;/g0&gt; para utilizar las opciones Buscar y reemplazar también en segmentos que no se tradujeron todavía. </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T183138Z" creationid="Mari" creationdate="20220315T195826Z">
+        <seg>Excepto una: marque &lt;g0&gt;Sin traducción&lt;/g0&gt; para utilizar las opciones Buscar y reemplazar también en segmentos que no se tradujeron todavía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19853,10 +19853,9 @@ volverán al estado predeterminado.</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
 Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220330T181753Z" creationid="hcartagena" creationdate="20200729T215546Z">
+      <tuv lang="es" changeid="Mari" changedate="20220805T183209Z" creationid="hcartagena" creationdate="20200729T215546Z">
         <seg>Si puede ver el archivo OmegaT, pero no OmegaT.exe, en el Administrador de archivos
-(Windows Explorer), cambie la configuración para que muestre la extensión de los archivos.
-</seg>
+(Windows Explorer), cambie la configuración para que muestre la extensión de los archivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28647,8 +28646,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160316T184757Z" creationid="Antonio" creationdate="20160316T184757Z">
-        <seg>Archivos de Open Document Format (ODF) </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T183059Z" creationid="Antonio" creationdate="20160316T184757Z">
+        <seg>Archivos de Open Document Format (ODF)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33373,8 +33372,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220315T195521Z" creationid="Mari" creationdate="20220315T194950Z">
-        <seg>Las opciones de búsqueda son similares a las mostradas en la &lt;l0&gt;ventana de Búsqueda&lt;/l0&gt;. </seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T183115Z" creationid="Mari" creationdate="20220315T194950Z">
+        <seg>Las opciones de búsqueda son similares a las mostradas en la &lt;l0&gt;ventana de Búsqueda&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46999,10 +46998,9 @@ desde el campo de búsqueda de Spotlight.
         <seg>You can also manually drag the file OmegaT.exe to the
 start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220329T094116Z" creationid="hcartagena" creationdate="20200729T215445Z">
+      <tuv lang="es" changeid="Mari" changedate="20220805T183153Z" creationid="hcartagena" creationdate="20200729T215445Z">
         <seg>También puede arrastrar manualmente el archivo OmegaT.exe
-al menú Inicio, al escritorio o al área de inicio rápido para vincularlo desde allí.
-</seg>
+al menú Inicio, al escritorio o al área de inicio rápido para vincularlo desde allí.</seg>
       </tuv>
     </tu>
     <tu>
