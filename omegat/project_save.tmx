@@ -2545,8 +2545,8 @@ en modo de trabajo en grupo).</seg>
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195700Z" creationid="taty" creationdate="20181116T183946Z">
-        <seg>…pero los mismos carácteres se muestran correctamente en el panel Editor: la extensión y la codificación del archivo no coinciden.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T175808Z" creationid="taty" creationdate="20181116T183946Z">
+        <seg>…pero los mismos caracteres se muestran correctamente en el panel Editor: la extensión y la codificación del archivo no coinciden.</seg>
       </tuv>
     </tu>
     <tu>
