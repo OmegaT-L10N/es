@@ -40337,8 +40337,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211024T175455Z" creationid="hcartagena" creationdate="20151120T165553Z">
-        <seg>Entonces, mientras se traduce del francés canadiense, su proyecto utilizará todas las reglas definidas para toda la cadena lingüística en el orden correcto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T093845Z" creationid="hcartagena" creationdate="20151120T165553Z">
+        <seg>De este modo, mientras se traduce del francés canadiense, su proyecto utilizará todas las reglas definidas para toda la cadena lingüística en el orden correcto.</seg>
       </tuv>
     </tu>
     <tu>
