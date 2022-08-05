@@ -2203,6 +2203,24 @@ en modo de trabajo en grupo).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220805T180015Z" creationid="Mari" creationdate="20220805T180015Z">
+        <seg>- Marco Cevoli (administrador de la comunidad de Telegram)
+- Jean-Christophe Helary (administrador de la comunidad de Twitter)
+- Kos Ivantsov (administrador de localización)
+- Concepción Martin (administradora de la comunidad de Facebook)
+- Briac Pilpré (administrador de web)
+- Lucie Vecerova (administradora de la comunidad de Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
@@ -22652,6 +22670,14 @@ en la primera ejecución.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T144653Z" creationid="Antonio" creationdate="20151128T144649Z">
         <seg>Javanés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220805T175926Z" creationid="Mari" creationdate="20220805T175926Z">
+        <seg>[fuzzy]Jean-Christophe Helary (administrador de la localización)</seg>
       </tuv>
     </tu>
     <tu>
