@@ -2195,6 +2195,35 @@ en modo de trabajo en grupo).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220805T180056Z" creationid="Mari" creationdate="20220805T180056Z">
+        <seg>- Anthony Baldwin (administrador de localización)
+- Didier Briel (administrador del proyecto)
+- Alex Buloichik (desarrollador principal)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (propietario del grupo de soporte, administrador de localización)
+- Maxym Mykhalchuk (desarrollador principal)
+- Samuel Murray
+- Henry Pijffers (administrador de versiones)
+- Marc Prior (coordinador del proyecto, administrador de web)
+- Vito Smolej (administrador de documentación)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181109T123212Z" creationid="eumeu" creationdate="20181109T123212Z">
