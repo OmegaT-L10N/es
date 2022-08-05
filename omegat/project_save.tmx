@@ -30265,8 +30265,8 @@ local sin la funcionalidad de trabajo en grupo.</seg>
       <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211103T112845Z" creationid="hcartagena" creationdate="20180605T170331Z">
-        <seg>Pulse "OK" para convertir el proyecto en un proyecto de trabajo en grupo de la versión 4.x.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T145451Z" creationid="hcartagena" creationdate="20180605T170331Z">
+        <seg>Pulse "Aceptar" para convertir el proyecto en un proyecto de trabajo en grupo de la versión 4.x.</seg>
       </tuv>
     </tu>
     <tu>
