@@ -27238,8 +27238,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T182215Z" creationid="Mari" creationdate="20220111T182215Z">
-        <seg>OmegaT automáticamente detecta los archivos de glosario en esta carpeta cuando abre un proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T174400Z" creationid="Mari" creationdate="20220111T182215Z">
+        <seg>OmegaT detecta automáticamente los archivos de glosario en esta carpeta cuando abre un proyecto.</seg>
       </tuv>
     </tu>
     <tu>
