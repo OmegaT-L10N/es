@@ -40793,8 +40793,8 @@ una de ellas te alcanzó</seg>
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211115T201444Z" creationid="nenyavie" creationdate="20200226T094210Z">
-        <seg>Por lo general, siguen el mismo patrón (más abajo puede verse un ejemplo del evaluador de expresiones regulares): la expresión regular (entrada superior) analiza el texto de la búsqueda (cuadro de texto del medio), y genera las coincidencias, que se muestran en el cuadro de texto de resultados.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T182114Z" creationid="nenyavie" creationdate="20200226T094210Z">
+        <seg>Por lo general, siguen el mismo patrón (más abajo puede verse un ejemplo del evaluador de expresiones regulares): la expresión regular (entrada superior) analiza el texto de la búsqueda (cuadro de texto del medio) y genera las coincidencias, que se muestran en el cuadro de texto de resultados.</seg>
       </tuv>
     </tu>
     <tu>
