@@ -26420,8 +26420,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note that &lt;g0&gt;Remove&lt;/g0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T183148Z" creationid="Mari" creationdate="20220111T183148Z">
-        <seg>Tenga en cuenta que &lt;g0&gt;Quitar&lt;/g0&gt; elimina físicamente los diccionarios seleccionados.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T191300Z" creationid="Mari" creationdate="20220111T183148Z">
+        <seg>Tenga en cuenta que &lt;g0&gt;Eliminar&lt;/g0&gt; elimina físicamente los diccionarios seleccionados.</seg>
       </tuv>
     </tu>
     <tu>
