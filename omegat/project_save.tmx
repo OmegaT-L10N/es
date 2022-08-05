@@ -14088,8 +14088,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T181649Z" creationid="Mari" creationdate="20220111T181649Z">
-        <seg>Descargue el archivo. Debe ser un archivo tarball (extensión &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T173333Z" creationid="Mari" creationdate="20220111T181649Z">
+        <seg>Descargue el archivo. Debe ser un archivo tarball (extensión &lt;f0&gt;tar.bz&lt;/f0&gt; o &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44543,8 +44543,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T181736Z" creationid="Mari" creationdate="20220111T181736Z">
-        <seg>Utilice la herramienta untar o su equivalente (por ejemplo &lt;f0&gt; winrar&lt;/f0&gt; en Windows) para extraer su contenido en la carpeta &lt;f1&gt;dictionary&lt;/f1&gt; del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T173427Z" creationid="Mari" creationdate="20220111T181736Z">
+        <seg>Utilice la herramienta untar o su equivalente (por ejemplo, &lt;f0&gt; winrar&lt;/f0&gt; en Windows) para extraer su contenido en la carpeta &lt;f1&gt;dictionary&lt;/f1&gt; del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
