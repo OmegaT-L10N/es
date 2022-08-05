@@ -26090,8 +26090,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211027T104344Z" creationid="Antonio" creationdate="20151127T173006Z">
-        <seg>Ningún script vinculado a la ranura #{0}.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T143637Z" creationid="Antonio" creationdate="20151127T173006Z">
+        <seg>No se vinculó ningún script a la ranura #{0}.</seg>
       </tuv>
     </tu>
     <tu>
