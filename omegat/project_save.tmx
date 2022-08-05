@@ -47157,8 +47157,8 @@ al menú Inicio, al escritorio o al área de inicio rápido para vincularlo desd
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T120358Z" creationid="nenyavie" creationdate="20200226T115740Z">
-        <seg>Puede copiar los archivos manualmente, es decir, desde cualquier lugar del sistema, utilizando el administrador de archivos; o puede utilizar la función &lt;e0&gt;"Instalar nuevo diccionario"&lt;/e0&gt; de OmegaT que proporciona una lista de los diccionarios disponibles para elegir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T190519Z" creationid="nenyavie" creationdate="20200226T115740Z">
+        <seg>Puede copiar los archivos manualmente, es decir, desde cualquier lugar del sistema utilizando el administrador de archivos, o puede utilizar la función &lt;e0&gt;"Instalar nuevo diccionario"&lt;/e0&gt; de OmegaT que proporciona una lista de los diccionarios disponibles para elegir.</seg>
       </tuv>
     </tu>
     <tu>
