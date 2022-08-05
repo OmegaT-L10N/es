@@ -4539,8 +4539,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195655Z" creationid="hcartagena" creationdate="20180605T180404Z">
-        <seg>&lt;html&gt;&lt;center&gt;Cargando…&lt;br&gt;&lt;br&gt;Consejo: Activar/desactivar comprobaciones en cualquier momento desde el menú Opciones.&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T154457Z" creationid="hcartagena" creationdate="20180605T180404Z">
+        <seg>&lt;html&gt;&lt;center&gt;Cargando…&lt;br&gt;&lt;br&gt;Consejo: habilitar/deshabilitar comprobaciones en cualquier momento desde el menú Opciones.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
