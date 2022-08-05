@@ -46794,8 +46794,8 @@ podrá iniciar el script de inicio en Kaptain con:</seg>
       <tuv lang="en">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151209T214736Z" creationid="Víctor Parra" creationdate="20151126T194836Z">
-        <seg>Está desinstalando el diccionario de corrección ortográfica que está utilizando su proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T102606Z" creationid="Víctor Parra" creationdate="20151126T194836Z">
+        <seg>Está desinstalando el diccionario de corrección ortográfica que está utilizando el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
