@@ -52241,8 +52241,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>non-greedy quantifiers will match as little as they can.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T141201Z" creationid="nenyavie" creationdate="20200225T141201Z">
-        <seg>Los cuantificadores no expansivos coincidirán lo mínimo posible.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T181926Z" creationid="nenyavie" creationdate="20200225T141201Z">
+        <seg>los cuantificadores no expansivos coincidirán lo mínimo posible.</seg>
       </tuv>
     </tu>
     <tu>
