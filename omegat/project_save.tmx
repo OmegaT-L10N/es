@@ -14951,8 +14951,8 @@ su página de ayuda no encontrada</seg>
       <tuv lang="en">
         <seg>Enter your master password.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20180605T180903Z" creationid="hcartagena" creationdate="20180605T180903Z">
-        <seg>Introduzca su contraseña maestra.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T155153Z" creationid="hcartagena" creationdate="20180605T180903Z">
+        <seg>Introduzca la contraseña maestra.</seg>
       </tuv>
     </tu>
     <tu>
