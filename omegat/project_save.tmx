@@ -13528,8 +13528,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20151127T173907Z" creationid="Antonio" creationdate="20151127T173907Z">
-        <seg>Muestra las traducciones alternativas que usted creó para los segmentos que se repiten en el proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220805T110011Z" creationid="Antonio" creationdate="20151127T173907Z">
+        <seg>Muestra las traducciones alternativas que creó para los segmentos que se repiten en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
