@@ -9677,8 +9677,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220124T124313Z" creationid="Antonio" creationdate="20160316T192603Z">
-        <seg>De manera predeterminada, la codificación del archivo traducido es la misma que la codificación del archivo original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T104448Z" creationid="Antonio" creationdate="20160316T192603Z">
+        <seg>De manera predeterminada, la codificación de los archivos traducidos es la misma que la codificación de los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
