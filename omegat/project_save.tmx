@@ -35342,8 +35342,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source File Encoding</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220804T175225Z" creationid="hcartagena" creationdate="20151119T191125Z">
-        <seg>Codificación del archivo original</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103018Z" creationid="hcartagena" creationdate="20151119T191125Z">
+        <seg>Codificación de los archivos originales</seg>
       </tuv>
     </tu>
     <tu>
@@ -35358,8 +35358,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220804T175205Z" creationid="hcartagena" creationdate="20151119T191114Z">
-        <seg>Patrón de nombre del archivo original</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103008Z" creationid="hcartagena" creationdate="20151119T191114Z">
+        <seg>Patrón de nombre de los archivos originales</seg>
       </tuv>
     </tu>
     <tu>
@@ -43090,8 +43090,8 @@ OmegaT.jar y el script linux-install.sh y ejecute el script con ./linux-install.
       <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220804T175243Z" creationid="hcartagena" creationdate="20151119T191137Z">
-        <seg>Codificación del archivo traducido</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103024Z" creationid="hcartagena" creationdate="20151119T191137Z">
+        <seg>Codificación de los archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -43106,8 +43106,8 @@ OmegaT.jar y el script linux-install.sh y ejecute el script con ./linux-install.
       <tuv lang="en">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211023T153738Z" creationid="hcartagena" creationdate="20151119T191142Z">
-        <seg>Patrón de nombre del archivo traducido</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103032Z" creationid="hcartagena" creationdate="20151119T191142Z">
+        <seg>Patrón de nombre de los archivos traducidos</seg>
       </tuv>
     </tu>
     <tu>
