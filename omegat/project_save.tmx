@@ -35222,8 +35222,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T152620Z" creationid="Antonio" creationdate="20160316T193214Z">
-        <seg>En ocasiones, podríar querer cambiar automáticamente el nombre de los archivos que traduzca, por ejemplo, añadiendo un código de idioma después del nombre de archivo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T104744Z" creationid="Antonio" creationdate="20160316T193214Z">
+        <seg>En ocasiones, podría querer cambiar automáticamente el nombre de los archivos que traduzca, por ejemplo, añadiendo un código de idioma después del nombre de archivo.</seg>
       </tuv>
     </tu>
     <tu>
