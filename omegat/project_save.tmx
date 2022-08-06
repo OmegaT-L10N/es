@@ -4362,8 +4362,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T205949Z" creationid="Mari" creationdate="20211125T205949Z">
-        <seg>&lt;g0&gt;Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas&lt;/g0&gt;: de manera prederminada, OmegaT utiliza el nombre del archivo original como parte de la identificación de una traducción alternativa.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T101033Z" creationid="Mari" creationdate="20211125T205949Z">
+        <seg>&lt;g0&gt;Ignorar el contexto del archivo al identificar segmentos con traducciones alternativas&lt;/g0&gt;: de manera predeterminada, OmegaT utiliza el nombre del archivo original como parte de la identificación de una traducción alternativa.</seg>
       </tuv>
     </tu>
     <tu>
