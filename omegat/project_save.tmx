@@ -39399,8 +39399,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T115235Z" creationid="Mari" creationdate="20211124T115235Z">
-        <seg>El proceso de segmentación puede describirse de la siguiente manera: el cursor se mueve a lo largo del texto, un carácter a la vez.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T110616Z" creationid="Mari" creationdate="20211124T115235Z">
+        <seg>El proceso de segmentación puede describirse de la siguiente manera: el cursor se mueve a lo largo del texto, de carácter en carácter.</seg>
       </tuv>
     </tu>
     <tu>
