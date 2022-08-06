@@ -20419,8 +20419,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T191429Z" creationid="nenyavie" creationdate="20200226T143938Z">
-        <seg>Ignorar coincidencias con diferencias de mayúsculas y minúsculas muy visibles (FOO en vez de foo, por ejemplo)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T095407Z" creationid="nenyavie" creationdate="20200226T143938Z">
+        <seg>Ignorar coincidencias con diferencias de mayúsculas y minúsculas muy evidentes (FOO en vez de foo, por ejemplo)</seg>
       </tuv>
     </tu>
     <tu>
