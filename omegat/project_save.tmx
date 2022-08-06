@@ -3882,8 +3882,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T113705Z" creationid="Mari" creationdate="20211124T113705Z">
-        <seg>&lt;e0&gt;Advertencia: &lt;/e0&gt;debido a que el texto se segmenterá de otra forma tras haber cambiado las opciones de los filtros, es posible que tenga que empezar la traducción de cero.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T110323Z" creationid="Mari" creationdate="20211124T113705Z">
+        <seg>&lt;e0&gt;Advertencia: &lt;/e0&gt;debido a que el texto se segmentará de otra forma tras haber cambiado las opciones de los filtros, es posible que tenga que empezar la traducción de cero.</seg>
       </tuv>
     </tu>
     <tu>
