@@ -34590,8 +34590,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T200913Z" creationid="hcartagena" creationdate="20200729T210607Z">
-        <seg>Varios filtros (archivos de texto, XHTML, HTML y XHTML, archivos OpenDocument y Microsoft Open XML), tienen una o varias opciones específicas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T101144Z" creationid="hcartagena" creationdate="20200729T210607Z">
+        <seg>Varios filtros (archivos de texto, XHTML, HTML y XHTML, archivos OpenDocument y Microsoft Open XML) tienen una o varias opciones específicas.</seg>
       </tuv>
     </tu>
     <tu>
