@@ -9605,8 +9605,8 @@ pide otro trago, monada</seg>
       <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220124T124322Z" creationid="Mari" creationdate="20211125T114157Z">
-        <seg>De manera predeterminada, OmegaT no ejecuta los comandos especificados en los ajustes específicos del proyecto (el archivo &lt;f0&gt;finder.xml&lt;/f0&gt; de la carpeta &lt;f1&gt;omegat&lt;/f1&gt;), ya que pueden tener un impacto crítco en la seguridad del equipo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T112145Z" creationid="Mari" creationdate="20211125T114157Z">
+        <seg>De manera predeterminada, OmegaT no ejecuta los comandos especificados en los ajustes específicos del proyecto (el archivo &lt;f0&gt;finder.xml&lt;/f0&gt; de la carpeta &lt;f1&gt;omegat&lt;/f1&gt;), ya que pueden tener un impacto crítico en la seguridad del equipo.</seg>
       </tuv>
     </tu>
     <tu>
