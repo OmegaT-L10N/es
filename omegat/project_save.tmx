@@ -45679,8 +45679,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When &lt;g1&gt;Full/Half width char insensitive&lt;/g1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T182028Z" creationid="Mari" creationdate="20220322T181803Z">
-        <seg>Cuando la opción &lt;g1&gt;No distingue caracteres de ancho completo/medio&lt;/g1&gt; está marcada, las búsquedas de formas de ancho completo (caracteres CJK) coincidirán con las de ancho medio y viceversa.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T095208Z" creationid="Mari" creationdate="20220322T181803Z">
+        <seg>Cuando la opción &lt;g1&gt;No distingue caracteres de ancho completo/medio&lt;/g1&gt; está marcada, las búsquedas de formas de ancho completo (caracteres CJK) coinciden con las de ancho medio y viceversa.</seg>
       </tuv>
     </tu>
     <tu>
