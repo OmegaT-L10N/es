@@ -4835,8 +4835,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T154556Z" creationid="Antonio" creationdate="20160316T194226Z">
-        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt;: sitema operativo del equipo utilizado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T105100Z" creationid="Antonio" creationdate="20160316T194226Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt;: sistema operativo del equipo utilizado</seg>
       </tuv>
     </tu>
     <tu>
