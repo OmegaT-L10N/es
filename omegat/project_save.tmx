@@ -21260,8 +21260,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211125T202748Z" creationid="taty" creationdate="20181205T185925Z">
-        <seg>Indica que esta coincidencia es aproximada (actualmente solo para traducciónes de archivos PO con la marca #fuzzy)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T113736Z" creationid="taty" creationdate="20181205T185925Z">
+        <seg>Indica que esta coincidencia es aproximada (actualmente solo para traducciones de archivos PO con la marca #fuzzy)</seg>
       </tuv>
     </tu>
     <tu>
