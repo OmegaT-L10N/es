@@ -35446,8 +35446,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source file type, filename pattern</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T145515Z" creationid="Antonio" creationdate="20160316T191424Z">
-        <seg>Tipo de archivo original, patrón del nombre de archivo</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103310Z" creationid="Antonio" creationdate="20160316T191424Z">
+        <seg>Tipo de archivo original, patrón de nombre de archivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -38308,8 +38308,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220806T102822Z" creationid="hcartagena" creationdate="20200729T212918Z">
-        <seg>El cuadro de diálogo incluye un editor especial de patrones de nombre del archivo traducido con el que puede personalizar los nombres de los archivos de salida.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103235Z" creationid="hcartagena" creationdate="20200729T212918Z">
+        <seg>El cuadro de diálogo incluye un editor especial de patrones de nombre de los archivo traducidos con el que puede personalizar los nombres de los archivos de salida.</seg>
       </tuv>
     </tu>
     <tu>
