@@ -35350,8 +35350,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source File Encoding:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T213714Z" creationid="hcartagena" creationdate="20151119T213714Z">
-        <seg>Codificación del archivo original:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103120Z" creationid="hcartagena" creationdate="20151119T213714Z">
+        <seg>Codificación de los archivos originales:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35366,8 +35366,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T213707Z" creationid="hcartagena" creationdate="20151119T213707Z">
-        <seg>Patrón de nombre del archivo original:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103111Z" creationid="hcartagena" creationdate="20151119T213707Z">
+        <seg>Patrón de nombre de los archivos originales:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43098,8 +43098,8 @@ OmegaT.jar y el script linux-install.sh y ejecute el script con ./linux-install.
       <tuv lang="en">
         <seg>Translated File Encoding:</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151119T213722Z" creationid="hcartagena" creationdate="20151119T213722Z">
-        <seg>Codificación del archivo traducido:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103136Z" creationid="hcartagena" creationdate="20151119T213722Z">
+        <seg>Codificación de los archivos traducidos:</seg>
       </tuv>
     </tu>
     <tu>
