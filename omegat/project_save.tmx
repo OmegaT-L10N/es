@@ -35462,8 +35462,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e3&gt;Searches&lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T150818Z" creationid="Mari" creationdate="20211123T150818Z">
-        <seg>Los patrones de nombres de archivo original utilizan caracteres comodín similares a los utilizados en las &lt;e3&gt;Búsquedas&lt;/e3&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103351Z" creationid="Mari" creationdate="20211123T150818Z">
+        <seg>Los patrones de nombre de archivos original utilizan caracteres comodín similares a los utilizados en las &lt;e3&gt;Búsquedas&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47045,8 +47045,8 @@ al menú Inicio, al escritorio o al área de inicio rápido para vincularlo desd
       <tuv lang="en">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T150536Z" creationid="Mari" creationdate="20211123T150536Z">
-        <seg>Puede cambiar o añadir patrones de nombres de archivo para los archivos que deben ser gestionados por cada filtro de archivos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103340Z" creationid="Mari" creationdate="20211123T150536Z">
+        <seg>Puede cambiar o añadir patrones de nombre de archivos para los archivos que deben ser gestionados por cada filtro de archivos.</seg>
       </tuv>
     </tu>
     <tu>
