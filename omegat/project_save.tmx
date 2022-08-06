@@ -40923,8 +40923,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200226T144717Z" creationid="nenyavie" creationdate="20200226T144717Z">
-        <seg>Este botón habilita la navegación y descarga de las colecciones que existen para los idiomas de origen y destino del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T095817Z" creationid="nenyavie" creationdate="20200226T144717Z">
+        <seg>Este botón habilita la exploración y descarga de las colecciones que existen para los idiomas de origen y destino del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
