@@ -20233,8 +20233,8 @@ es utilizar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T153447Z" creationid="Mari" creationdate="20211123T153322Z">
-        <seg>Si quiere volver a la configuración predeterminada del filtro, haga clic en &lt;e1&gt;Predeterminados.&lt;/e1&gt; También puede modificar el nombre directamente en el campo del patrón de nombre de archivo traducido del cuadro de diálogo de filtros de archivo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103526Z" creationid="Mari" creationdate="20211123T153322Z">
+        <seg>Si quiere volver a la configuración predeterminada del filtro, haga clic en &lt;e1&gt;Predeterminados.&lt;/e1&gt; También puede modificar el nombre directamente en el campo del patrón de nombre de los archivos traducidos del cuadro de diálogo de filtros de archivo.</seg>
       </tuv>
     </tu>
     <tu>
