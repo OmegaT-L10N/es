@@ -45791,8 +45791,8 @@ de seleccionarlo, obtenerlo e instalarlo.</seg>
       <tuv lang="en">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T201158Z" creationid="Mari" creationdate="20211126T201158Z">
-        <seg>Cuando se crea el documento traducido, su dirección de visualización será la misma que en el documento original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T094918Z" creationid="Mari" creationdate="20211126T201158Z">
+        <seg>Cuando se crea el documento traducido, su dirección de visualización es la misma que en el documento original.</seg>
       </tuv>
     </tu>
     <tu>
