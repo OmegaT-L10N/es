@@ -7588,8 +7588,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211124T190342Z" creationid="Mari" creationdate="20211124T122744Z">
-        <seg>Todos los conjuntos de reglas de segmentación que coinciden con un patrón de idioma están activados y se aplican en el orden de prioridad determinado, por lo tanto las reglas para el idioma específico deben tener prioridad frente a las reglas predeterminadas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T111038Z" creationid="Mari" creationdate="20211124T122744Z">
+        <seg>Todos los conjuntos de reglas de segmentación que coinciden con un patrón de idioma están activados y se aplican en el orden de prioridad determinado. Por lo tanto, las reglas para el idioma específico deben tener prioridad frente a las reglas predeterminadas.</seg>
       </tuv>
     </tu>
     <tu>
