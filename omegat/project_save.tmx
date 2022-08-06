@@ -20129,8 +20129,8 @@ es utilizar Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211117T195125Z" creationid="hcartagena" creationdate="20200729T204558Z">
-        <seg>Si prefiere no utilizar OmegaT para traducir archivos de un cierto tipo, puede desactivar el filtro correspondiente desactivando la casilla de verificación situada al lado de su nombre.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T100724Z" creationid="hcartagena" creationdate="20200729T204558Z">
+        <seg>Si prefiere no utilizar OmegaT para traducir archivos de un cierto tipo, puede desactivar el filtro correspondiente desactivando la casilla situada al lado de su nombre.</seg>
       </tuv>
     </tu>
     <tu>
