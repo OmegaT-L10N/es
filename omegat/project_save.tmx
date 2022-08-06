@@ -25361,8 +25361,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T145808Z" creationid="Antonio" creationdate="20160316T191505Z">
-        <seg>Para ser más precisos, OmegaT intenta hacer coincidir los patrones de nombre del archivo original de cada filtro con el nombre del archivo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T103846Z" creationid="Antonio" creationdate="20160316T191505Z">
+        <seg>Para ser más precisos, OmegaT intenta hacer coincidir los patrones de nombre de los archivos originales de cada filtro con el nombre del archivo.</seg>
       </tuv>
     </tu>
     <tu>
