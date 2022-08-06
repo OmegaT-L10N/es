@@ -16762,8 +16762,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l4&gt;readme, read.me&lt;/l4&gt;, and &lt;l5&gt;readme.txt&lt;/l5&gt;) you should use the pattern &lt;l6&gt;read*&lt;/l6&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T151415Z" creationid="Mari" creationdate="20211123T151415Z">
-        <seg>Por ejemplo, si desea que el filtro de texto gestione archivos readme (&lt;l4&gt;readme, read.me&lt;/l4&gt; y &lt;l5&gt;readme.txt&lt;/l5&gt;) debe utilizar el patrón &lt;l6&gt;read*&lt;/l6&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T104241Z" creationid="Mari" creationdate="20211123T151415Z">
+        <seg>Por ejemplo, si desea que el filtro de texto gestione archivos readme (&lt;l4&gt;readme, read.me&lt;/l4&gt; y &lt;l5&gt;readme.txt&lt;/l5&gt;), deberá utilizar el patrón &lt;l6&gt;read*&lt;/l6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
