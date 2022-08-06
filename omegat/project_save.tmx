@@ -37138,8 +37138,8 @@ El reemplazo de texto se aplica a los segmentos traducidos del proyecto, tengan 
       <tuv lang="en">
         <seg>Text files</seg>
       </tuv>
-      <tuv lang="es" changeid="Antonio" changedate="20160128T142557Z" creationid="Antonio" creationdate="20160128T142557Z">
-        <seg>Archivos de Texto</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220806T101254Z" creationid="Antonio" creationdate="20160128T142557Z">
+        <seg>Archivos de texto</seg>
       </tuv>
     </tu>
     <tu>
