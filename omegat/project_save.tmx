@@ -21108,8 +21108,8 @@ escritorio, haga doble clic en el acceso directo.</seg>
       <tuv lang="en">
         <seg>In this case, place the translation memories you wish to use in the &lt;f0&gt;/tm&lt;/f0&gt; or &lt;f1&gt;tm/auto&lt;/f1&gt; folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220806T112609Z" creationid="Mari" creationdate="20211127T170816Z">
-        <seg>En este caso, coloque las memorias de traducción que desee utilziar en la carpeta &lt;f0&gt;/tm&lt;/f0&gt; o &lt;f1&gt;tm/auto&lt;/f1&gt; del nuevo proyecto: en el primer caso, obtendrá sugerencias de estas memorias de traducción en el visor de coincidencias aproximadas; en el segundo caso, las memorias se utilizarán para pretraducir el texto original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T110536Z" creationid="Mari" creationdate="20211127T170816Z">
+        <seg>En este caso, coloque las memorias de traducción que desee utilizar en la carpeta &lt;f0&gt;/tm&lt;/f0&gt; o &lt;f1&gt;tm/auto&lt;/f1&gt; del nuevo proyecto: en el primer caso, obtendrá sugerencias de estas memorias de traducción en el visor de coincidencias aproximadas; en el segundo caso, las memorias se utilizarán para pretraducir el texto original.</seg>
       </tuv>
     </tu>
     <tu>
