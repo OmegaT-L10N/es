@@ -46734,8 +46734,8 @@ No se encontró la página</seg>
       <tuv lang="en">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T163127Z" creationid="Mari" creationdate="20211127T162939Z">
-        <seg>AÑO es el año de 4 dígitos, MM es el mes, DD es el día del mes, HH y NN son las horas y los minutos cuando se guardó la memoria de traducción anterior.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T105943Z" creationid="Mari" creationdate="20211127T162939Z">
+        <seg>AÑO es el año de 4 dígitos; MM es el mes; DD es el día del mes y HH y NN son las horas y los minutos cuando se guardó la memoria de traducción anterior.</seg>
       </tuv>
     </tu>
     <tu>
