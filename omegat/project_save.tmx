@@ -31694,8 +31694,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Remote location or directory of the files to translate.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T150913Z" creationid="Mari" creationdate="20211130T150825Z">
-        <seg>Ubicación remota o directorio de los archivos a traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T113444Z" creationid="Mari" creationdate="20211130T150825Z">
+        <seg>Ubicación remota o directorio de los archivos que traducir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53142,8 +53142,8 @@ propia carpeta de configuración.</seg>
       <tuv lang="en">
         <seg>repository url</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T150807Z" creationid="Mari" creationdate="20211130T150807Z">
-        <seg>URL del repositorio:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T113430Z" creationid="Mari" creationdate="20211130T150807Z">
+        <seg>URL del repositorio</seg>
       </tuv>
     </tu>
     <tu>
