@@ -5024,8 +5024,8 @@ El ajuste actual es {0}MB.</seg>
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
 &lt;/repository&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211201T121918Z" creationid="Mari" creationdate="20211201T121918Z">
-        <seg>&lt;asignación local="source/readme_tr.txt" repositorio="release/readme.txt"/&gt;
+      <tuv lang="es" changeid="Mari" changedate="20220807T114921Z" creationid="Mari" creationdate="20211201T121918Z">
+        <seg>&lt;asignación local=repositorio "source/readme_tr.txt"="release/readme.txt"/&gt;
 &lt;/repositorio&gt;</seg>
       </tuv>
     </tu>
