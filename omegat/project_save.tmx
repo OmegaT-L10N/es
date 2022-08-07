@@ -12037,8 +12037,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T120339Z" creationid="Mari" creationdate="20211130T120339Z">
-        <seg>Cree una copia local del repositorio (&lt;c0&gt;check ou&lt;/c0&gt; con SVN, &lt;c1&gt;clone&lt;/c1&gt;con Git).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T112540Z" creationid="Mari" creationdate="20211130T120339Z">
+        <seg>Cree una copia local del repositorio (&lt;c0&gt;check out&lt;/c0&gt; con SVN, &lt;c1&gt;clone&lt;/c1&gt; con Git).</seg>
       </tuv>
     </tu>
     <tu>
