@@ -12029,8 +12029,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T171430Z" creationid="Mari" creationdate="20211127T171430Z">
-        <seg>Cree una carpeta (una "carpeta repositorio") en una ubicación adecuada en su disco duro para las memorias de traducción para un cliente o tema concretos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T110844Z" creationid="Mari" creationdate="20211127T171430Z">
+        <seg>Cree una carpeta (una "carpeta repositorio") en una ubicación adecuada en el disco duro para las memorias de traducción para un cliente o tema concretos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41427,8 +41427,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211127T171247Z" creationid="Mari" creationdate="20211127T171247Z">
-        <seg>Esto es útil si utiliza frecuentemente memorias de traducción creadas anteriormente, por ejemplo, porque son sobre el mismo tema o son para el mismo cliente.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T110711Z" creationid="Mari" creationdate="20211127T171247Z">
+        <seg>Resulta útil si utiliza frecuentemente memorias de traducción creadas anteriormente, por ejemplo, porque son sobre el mismo tema o son para el mismo cliente.</seg>
       </tuv>
     </tu>
     <tu>
