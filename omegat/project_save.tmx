@@ -40543,8 +40543,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T202405Z" creationid="Mari" creationdate="20211129T202405Z">
-        <seg>Puede haber casos en los que haya realizado un proyecto con, por ejemplo, originales en neerlandés, y una traducción en, digamos, inglés.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T112047Z" creationid="Mari" creationdate="20211129T202405Z">
+        <seg>Puede haber casos en los que haya llevado a cabo un proyecto con, por ejemplo, originales en neerlandés y una traducción en, digamos, inglés.</seg>
       </tuv>
     </tu>
     <tu>
