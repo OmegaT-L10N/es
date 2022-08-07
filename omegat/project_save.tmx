@@ -34374,8 +34374,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Separate different patterns with a semicolon.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T151348Z" creationid="Mari" creationdate="20211130T151348Z">
-        <seg>Separe los diferentes patrones con punto y coma.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T113707Z" creationid="Mari" creationdate="20211130T151348Z">
+        <seg>Separe los patrones con punto y coma.</seg>
       </tuv>
     </tu>
     <tu>
