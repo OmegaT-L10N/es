@@ -42043,8 +42043,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T202208Z" creationid="Mari" creationdate="20211126T202208Z">
-        <seg>Para evitar cambiar los parámetros de visualización de los archivos traducidos cada vez que los abra, es posible cambiar los parámetros de visualización del archivo original, de manera que estos parámetros sen heredados por los archivos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T105553Z" creationid="Mari" creationdate="20211126T202208Z">
+        <seg>Para evitar cambiar los parámetros de visualización de los archivos traducidos cada vez que los abra, es posible cambiar los parámetros de visualización del archivo original, de manera que estos parámetros sean heredados por los archivos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
