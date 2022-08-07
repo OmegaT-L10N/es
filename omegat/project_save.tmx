@@ -4996,8 +4996,8 @@ El ajuste actual es {0}MB.</seg>
         <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
 &lt;/repository&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211201T121538Z" creationid="Mari" creationdate="20211201T121257Z">
-        <seg>&lt;asignación local="source/Bundle.properties" repositorio="src/org/omegat/Bundle.properties"/&gt;
+      <tuv lang="es" changeid="Mari" changedate="20220807T114733Z" creationid="Mari" creationdate="20211201T121257Z">
+        <seg>&lt;asignación local=repositorio "source/Bundle.properties"="src/org/omegat/Bundle.properties"/&gt;
 &lt;/repositorio&gt;</seg>
       </tuv>
     </tu>
