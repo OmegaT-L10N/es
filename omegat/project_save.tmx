@@ -42011,8 +42011,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211130T122106Z" creationid="Mari" creationdate="20211130T122106Z">
-        <seg>Utilice un cliente SVN o Git para añadir otros recursos (diccionaios, TMX o glosarios).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T112840Z" creationid="Mari" creationdate="20211130T122106Z">
+        <seg>Utilice un cliente SVN o Git para añadir otros recursos (diccionarios, TMX o glosarios).</seg>
       </tuv>
     </tu>
     <tu>
