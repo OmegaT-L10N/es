@@ -38927,8 +38927,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211228T121425Z" creationid="Mari" creationdate="20211228T121425Z">
-        <seg>El archivo local &lt;f0&gt;/inicio/yo/misarchivos/mi/archivo.txt&lt;/f0&gt; se asigna al archivo local &lt;f1&gt;source/archivo.txt&lt;/f1&gt; y &lt;f2&gt;/inicio/yo/misarchivos/un/archivo.txt&lt;/f2&gt; se asgina al archivo local &lt;f3&gt;source/archivo2.txt&lt;/f3&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T115202Z" creationid="Mari" creationdate="20211228T121425Z">
+        <seg>El archivo local &lt;f0&gt;/inicio/yo/misarchivos/mi/archivo.txt&lt;/f0&gt; se asigna al archivo local &lt;f1&gt;source/archivo.txt&lt;/f1&gt; y &lt;f2&gt;/inicio/yo/misarchivos/un/archivo.txt&lt;/f2&gt; se asigna al archivo local &lt;f3&gt;source/archivo2.txt&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
