@@ -5033,8 +5033,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211201T121434Z" creationid="Mari" creationdate="20211130T153539Z">
-        <seg>&lt;asignación local="source/subdir" repositorio= ""&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T114130Z" creationid="Mari" creationdate="20211130T153539Z">
+        <seg>&lt;asignación local=repositorio "source/subdir"= ""&gt;</seg>
       </tuv>
     </tu>
     <tu>
