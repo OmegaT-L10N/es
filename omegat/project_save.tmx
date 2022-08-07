@@ -5005,8 +5005,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211228T121518Z" creationid="Mari" creationdate="20211201T123309Z">
-        <seg>&lt;asignación local="source/archivo.txt" repositorio="mi/archivo.txt"/&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T115027Z" creationid="Mari" creationdate="20211201T123309Z">
+        <seg>&lt;asignación local=repositorio "source/archivo.txt"="mi/archivo.txt"/&gt;</seg>
       </tuv>
     </tu>
     <tu>
