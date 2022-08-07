@@ -39703,8 +39703,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The segmentation settings only address the way the source files are handled by OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211126T154056Z" creationid="Mari" creationdate="20211126T154056Z">
-        <seg>Los ajustes de segmentación solo se ocupan solo de la forma en que OmegaT gestiona los archivos originales.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220807T102015Z" creationid="Mari" creationdate="20211126T154056Z">
+        <seg>Los ajustes de segmentación solo se ocupan de la forma en que OmegaT gestiona los archivos originales.</seg>
       </tuv>
     </tu>
     <tu>
