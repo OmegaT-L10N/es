@@ -18432,8 +18432,8 @@ es que su invierno ha llegado</seg>
       <tuv lang="en">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T194340Z" creationid="Mari" creationdate="20211129T194340Z">
-        <seg>Sin embargo, OmegaT no es totalmente compatible con los archivos tmx importados de nivel 2 (estos almacenan no solo la traducción, sino también el formato).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100345Z" creationid="Mari" creationdate="20211129T194340Z">
+        <seg>Sin embargo, OmegaT no es totalmente compatible con los archivos TMX importados de nivel 2 (estos almacenan no solo la traducción, sino también el formato).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23673,8 +23673,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T194437Z" creationid="Mari" creationdate="20211129T194437Z">
-        <seg>Los archivos tmx de nivel 2 seguirán importándose y su contenido textual podrá verse en OmegaT, pero la calidad de las coincidencias aproximadas será algo menor.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100408Z" creationid="Mari" creationdate="20211129T194437Z">
+        <seg>Los archivos TMX de nivel 2 seguirán importándose y su contenido textual podrá verse en OmegaT, pero la calidad de las coincidencias aproximadas será algo menor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27452,8 +27452,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T194536Z" creationid="Mari" creationdate="20211129T194536Z">
-        <seg>OmegaT sigue procedimientos muy estrictos al cargar archivos de memorias de traducción (tmx).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100402Z" creationid="Mari" creationdate="20211129T194536Z">
+        <seg>OmegaT sigue procedimientos muy estrictos al cargar archivos de memorias de traducción (TMX).</seg>
       </tuv>
     </tu>
     <tu>
