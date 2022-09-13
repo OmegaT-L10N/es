@@ -7148,8 +7148,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220103T190321Z" creationid="Mari" creationdate="20220103T190321Z">
-        <seg>Añadir nuevos archivos originales</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T104652Z" creationid="Mari" creationdate="20220103T190321Z">
+        <seg>Añadir archivos originales</seg>
       </tuv>
     </tu>
     <tu>
@@ -42059,8 +42059,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To add a new source file:</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220103T190406Z" creationid="Mari" creationdate="20220103T190406Z">
-        <seg>Siga estos pasos para añadir un nuevo archivo original:</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T104501Z" creationid="Mari" creationdate="20220103T190406Z">
+        <seg>Siga estos pasos para añadir un archivo original:</seg>
       </tuv>
     </tu>
     <tu>
