@@ -44596,8 +44596,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220125T125021Z" creationid="Mari" creationdate="20220125T125021Z">
-        <seg>Úsela si OmegaT no sincroniza el contenido del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T115326Z" creationid="Mari" creationdate="20220125T125021Z">
+        <seg>Utilícela si OmegaT no sincroniza el contenido del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
