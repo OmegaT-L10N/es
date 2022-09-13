@@ -15734,6 +15734,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memory folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T101708Z" creationid="Mari" creationdate="20220913T101708Z">
+        <seg>No existe la carpeta de memorias de traducción de exportación indicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exports the current selection to a text file for processing.</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20191210T092855Z" creationid="nenyavie" creationdate="20191210T092855Z">
