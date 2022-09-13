@@ -31708,6 +31708,14 @@ digo: "página no encontrada"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote project file lacks git setting.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T094805Z" creationid="Mari" creationdate="20220913T094805Z">
+        <seg>El archivo de proyecto remoto carece de configuración de git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211103T115222Z" creationid="nenyavie" creationdate="20200225T093351Z">
