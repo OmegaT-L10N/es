@@ -807,6 +807,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Export TMs</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T094050Z" creationid="Mari" creationdate="20220913T094050Z">
+        <seg>&amp;Exportar memorias de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T173743Z" creationid="Antonio" creationdate="20151127T173743Z">
