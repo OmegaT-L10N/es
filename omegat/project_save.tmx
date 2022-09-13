@@ -1009,8 +1009,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220111T195558Z" creationid="Víctor Parra" creationdate="20151126T194812Z">
-        <seg>&amp;Instalar nuevo diccionario…</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T105227Z" creationid="Víctor Parra" creationdate="20151126T194812Z">
+        <seg>&amp;Instalar diccionario nuevo…</seg>
       </tuv>
     </tu>
     <tu>
