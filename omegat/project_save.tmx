@@ -15710,6 +15710,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T101428Z" creationid="Mari" creationdate="20220913T101428Z">
+        <seg>Exportar carpeta de archivos de memorias de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export Translation Memory Folder:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220913T094940Z" creationid="Mari" creationdate="20220913T094940Z">
@@ -36442,6 +36450,22 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220805T104528Z" creationid="hcartagena" creationdate="20180605T164724Z">
         <seg>Opciones de Coincidencias de memorias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T101251Z" creationid="Mari" creationdate="20220913T101251Z">
+        <seg>TMX de nivel 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T101307Z" creationid="Mari" creationdate="20220913T101307Z">
+        <seg>TMX de nivel 2</seg>
       </tuv>
     </tu>
     <tu>
