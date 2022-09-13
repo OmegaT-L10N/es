@@ -1009,8 +1009,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220913T105227Z" creationid="Víctor Parra" creationdate="20151126T194812Z">
-        <seg>&amp;Instalar diccionario nuevo…</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T105438Z" creationid="Víctor Parra" creationdate="20151126T194812Z">
+        <seg>&amp;Instalar nuevo diccionario…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,8 +4490,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Start a new paragraph on&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211123T115500Z" creationid="Mari" creationdate="20211123T115216Z">
-        <seg>&lt;g0&gt;Iniciar un nuevo párrafo al encontrar&lt;/g0&gt;: la etiqueta HTML &lt;br&gt; creará un salto de párrafo con fines de segmentación.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T105506Z" creationid="Mari" creationdate="20211123T115216Z">
+        <seg>&lt;g0&gt;Iniciar un párrafo nuevo al encontrar&lt;/g0&gt;: la etiqueta HTML &lt;br&gt; creará un salto de párrafo con fines de segmentación.</seg>
       </tuv>
     </tu>
     <tu>
