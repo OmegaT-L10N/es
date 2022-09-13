@@ -39583,8 +39583,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211229T123954Z" creationid="Antonio" creationdate="20160331T183950Z">
-        <seg>La calidad del fomato del archivo traducido dependerá de la calidad que se haya obtenido en el proceso de conversión.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T104026Z" creationid="Antonio" creationdate="20160331T183950Z">
+        <seg>La calidad del formato del archivo traducido dependerá de la calidad que se haya obtenido en el proceso de conversión.</seg>
       </tuv>
     </tu>
     <tu>
