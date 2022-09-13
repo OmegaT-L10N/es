@@ -41521,6 +41521,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This may be intentional, but likely an oversight.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T094903Z" creationid="Mari" creationdate="20220913T094903Z">
+        <seg>Puede ser intencional, pero probablemente sea un descuido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220807T105043Z" creationid="Mari" creationdate="20211126T195959Z">
