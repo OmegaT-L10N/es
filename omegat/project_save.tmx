@@ -12781,6 +12781,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T103117Z" creationid="Mari" creationdate="20220913T103117Z">
+        <seg>Rama personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom server URL</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211027T101610Z" creationid="nenyavie" creationdate="20200225T092355Z">
