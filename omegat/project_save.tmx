@@ -43330,6 +43330,14 @@ OmegaT.jar y el script linux-install.sh y ejecute el script con ./linux-install.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T095848Z" creationid="Mari" creationdate="20220913T095848Z">
+        <seg>Memorias de traducción que exportar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memory (TMX) files of older localizations of OmegaT, the documentation and the website can be found in the &lt;a0&gt;"Files" section of the online user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T144654Z" creationid="Cristina" creationdate="20170924T144654Z">
