@@ -17706,8 +17706,8 @@ que está incluido (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220913T101908Z" creationid="hcartagena" creationdate="20151117T191753Z">
-        <seg>No existe la carpeta de archivos de glosario indicada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T102300Z" creationid="hcartagena" creationdate="20151117T191753Z">
+        <seg>La carpeta de archivos de glosario indicada no existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35526,8 +35526,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220913T101808Z" creationid="hcartagena" creationdate="20151117T191719Z">
-        <seg>No existe la carpeta de archivos originales indicada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T102237Z" creationid="hcartagena" creationdate="20151117T191719Z">
+        <seg>La carpeta de archivos originales indicada no existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43236,8 +43236,8 @@ OmegaT.jar y el script linux-install.sh y ejecute el script con ./linux-install.
       <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220913T101843Z" creationid="hcartagena" creationdate="20151117T191735Z">
-        <seg>No existe la carpeta de archivos traducidos indicada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T102248Z" creationid="hcartagena" creationdate="20151117T191735Z">
+        <seg>La carpeta de archivos traducidos indicada no existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46574,8 +46574,8 @@ No se encontró la página</seg>
       <tuv lang="en">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220913T101930Z" creationid="hcartagena" creationdate="20151117T191803Z">
-        <seg>No existe la carpeta del archivo del glosario principal indicada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T102312Z" creationid="hcartagena" creationdate="20151117T191803Z">
+        <seg>La carpeta del archivo del glosario principal indicada no existe.</seg>
       </tuv>
     </tu>
     <tu>
