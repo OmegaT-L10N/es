@@ -11397,8 +11397,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       <tuv lang="en">
         <seg>Consequently, although OmegaT is quite able to handle &lt;f1&gt;tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T181359Z" creationid="Mari" creationdate="20220322T181359Z">
-        <seg>Por tanto, aunque OmegaT es bastante capaz de gestionar archivos &lt;f1&gt;tmx&lt;/f1&gt;, no los incluye en la búsqueda Buscar en Archivos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100908Z" creationid="Mari" creationdate="20220322T181359Z">
+        <seg>Por tanto, aunque OmegaT es bastante capaz de gestionar archivos &lt;f1&gt;TMX&lt;/f1&gt;, no los incluye en la búsqueda Buscar en Archivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26540,8 +26540,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220222T102320Z" creationid="Mari" creationdate="20220222T102320Z">
-        <seg>Tenga en cuenta que otras herramientas CAT pueden exportar (e importar) archivos tmx, normalmente en las tres formas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100730Z" creationid="Mari" creationdate="20220222T102320Z">
+        <seg>Tenga en cuenta que otras herramientas CAT pueden exportar (e importar) archivos TMX, normalmente en las tres formas.</seg>
       </tuv>
     </tu>
     <tu>
