@@ -15710,6 +15710,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T094940Z" creationid="Mari" creationdate="20220913T094940Z">
+        <seg>Exportar carpeta de memorias de traducción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160126T162055Z" creationid="hcartagena" creationdate="20151120T175616Z">
