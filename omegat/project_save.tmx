@@ -12933,6 +12933,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220913T102906Z" creationid="Mari" creationdate="20220913T102906Z">
+        <seg>Rama predeterminada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default glossary</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211111T154546Z" creationid="Mari" creationdate="20211111T154546Z">
