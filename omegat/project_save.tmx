@@ -42334,8 +42334,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220124T123713Z" creationid="Mari" creationdate="20220124T123713Z">
-        <seg>Para mostrar la guía de inicio instantáneo en el idioma deseado, tiene que especificar tanto el idioma como el país.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T113933Z" creationid="Mari" creationdate="20220124T123713Z">
+        <seg>Para mostrar la guía de inicio rápido en el idioma deseado, tiene que especificar tanto el idioma como el país.</seg>
       </tuv>
     </tu>
     <tu>
