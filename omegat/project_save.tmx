@@ -29277,8 +29277,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211229T121318Z" creationid="Antonio" creationdate="20160331T182756Z">
-        <seg>OmegaT también puede procesar otros archivos de texto sin o con formato.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T103813Z" creationid="Antonio" creationdate="20160331T182756Z">
+        <seg>OmegaT también puede procesar otros archivos de texto con o sin formato.</seg>
       </tuv>
     </tu>
     <tu>
