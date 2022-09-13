@@ -26460,8 +26460,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220807T111014Z" creationid="Mari" creationdate="20211127T172044Z">
-        <seg>Tenga en cuenta que todos los archivos tmx en el repositorio /tm se analizan cuando se abre el proyecto, por lo que poner todas las TM diferentes que pueda tener a mano en esta carpeta puede ralentizar innecesariamente OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T101020Z" creationid="Mari" creationdate="20211127T172044Z">
+        <seg>Tenga en cuenta que todos los archivos TMX en el repositorio /tm se analizan cuando se abre el proyecto, por lo que poner todas las TM diferentes que pueda tener a mano en esta carpeta puede ralentizar innecesariamente OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
