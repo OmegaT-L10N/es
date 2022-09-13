@@ -19933,8 +19933,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you check the corresponding checkbox, the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file is modified to use the language selected (see next section for details).</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220103T193051Z" creationid="Mari" creationdate="20220103T193051Z">
-        <seg>Si marca la casilla correspondiente, se modificará el archivo &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; para utilizar el idioma seleccionado (consulte la siguiente sección para obtener más detalles).</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T110942Z" creationid="Mari" creationdate="20220103T193051Z">
+        <seg>Si marca la casilla correspondiente, se modificará el archivo &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; para utilizar el idioma seleccionado (consulte la siguiente sección para obtener más información).</seg>
       </tuv>
     </tu>
     <tu>
