@@ -35230,8 +35230,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T194834Z" creationid="Mari" creationdate="20211129T194834Z">
-        <seg>Se sabe que algunas herramientas producen archivos tmx no válidos en ciertas condiciones.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100434Z" creationid="Mari" creationdate="20211129T194834Z">
+        <seg>Se sabe que algunas herramientas producen archivos TMX no válidos en ciertas condiciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38917,8 +38917,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T195525Z" creationid="Mari" creationdate="20211129T195525Z">
-        <seg>La exportación de nivel 2 no es totalmente compatible con el estándar de nivel 2, pero se aproxima lo suficiente y generará coincidencias correctas en otras herramientas de memoria de traducción que sean compatibles con el nivel 2 de TMX.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100516Z" creationid="Mari" creationdate="20211129T195525Z">
+        <seg>La exportación de nivel 2 no es totalmente compatible con el estándar de nivel 2, pero se aproxima lo suficiente y generará coincidencias correctas en otras herramientas de memoria de traducción que sean compatibles con TMX de nivel 2.</seg>
       </tuv>
     </tu>
     <tu>
