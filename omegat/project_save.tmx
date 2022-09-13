@@ -3562,8 +3562,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T203055Z" creationid="Mari" creationdate="20211129T203055Z">
-        <seg>&lt;e0&gt;Importante: &lt;/e0&gt; la TMX de apoyo debe ser renombrada como XX_YY.tmx, donde XX_YY es el idioma de destino de la tmx, por ejemplo a ZH_CN.tmx en el ejemplo anterior.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100613Z" creationid="Mari" creationdate="20211129T203055Z">
+        <seg>&lt;e0&gt;Importante: &lt;/e0&gt; la TMX de apoyo debe ser renombrada como XX_YY.tmx, donde XX_YY es el idioma de destino de la TMX, por ejemplo a ZH_CN.tmx en el ejemplo anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39847,8 +39847,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The solution in our example is to copy the existing translation memory into the &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20211129T202828Z" creationid="Mari" creationdate="20211129T202828Z">
-        <seg>La solución en nuestro ejemplo es copiar la memoria de traducción existente en la subcarpeta &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; y renombrarla como ZH_CN.tmx para indicar el idioma de destino de la tmx.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220913T100552Z" creationid="Mari" creationdate="20211129T202828Z">
+        <seg>La solución en nuestro ejemplo es copiar la memoria de traducción existente en la subcarpeta &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; y renombrarla como ZH_CN.tmx para indicar el idioma de destino de la TMX.</seg>
       </tuv>
     </tu>
     <tu>
