@@ -28965,8 +28965,8 @@ versión 1.8 o superior.</seg>
       <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T122310Z" creationid="Mari" creationdate="20220210T122054Z">
-        <seg>Abre la &lt;l0&gt;ventana &lt;g1&gt;Programación&lt;/g1&gt;&lt;/l0&gt;, donde se puede establecer la ubicación de los scripts, y donde estos se pueden escribir, ejecutar y asociar a un acceso directo.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T152840Z" creationid="Mari" creationdate="20220210T122054Z">
+        <seg>Abre la &lt;l0&gt;ventana &lt;g1&gt;Programación&lt;/g1&gt;&lt;/l0&gt;, donde se puede establecer la ubicación de los scripts y donde estos se pueden escribir, ejecutar y asociar a un acceso directo.</seg>
       </tuv>
     </tu>
     <tu>
