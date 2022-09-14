@@ -26772,8 +26772,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T130325Z" creationid="Mari" creationdate="20220210T130325Z">
-        <seg>Nota: parace que en Windows que este mecanismo de sustitución de fuente manual puede interferir con la sustitución de fuente estándar, provocando una sustitución de fuente no deseada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T154024Z" creationid="Mari" creationdate="20220210T130325Z">
+        <seg>Nota: parece que en Windows este mecanismo de sustitución de fuente manual puede interferir con la sustitución de fuente estándar, provocando una sustitución de fuente no deseada.</seg>
       </tuv>
     </tu>
     <tu>
