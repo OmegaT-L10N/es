@@ -8736,16 +8736,16 @@ puede experimentar un comportamiento inesperado, aunque correcto.</seg>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220316T155029Z" creationid="hcartagena" creationdate="20151119T192806Z">
-        <seg>Autoreemplazar "nplurals=INTEGER; &amp;plural=EXPRESSION;" en encabezado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T153608Z" creationid="hcartagena" creationdate="20151119T192806Z">
+        <seg>Autorreemplazar "nplurals=INTEGER; &amp;plural=EXPRESSION;" en encabezado</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220804T143925Z" creationid="Antonio" creationdate="20160316T135103Z">
-        <seg>Autoreemplazar "nplurals=INTEGER; &amp;plural=EXPRESSION;" en encabezado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T153619Z" creationid="Antonio" creationdate="20160316T135103Z">
+        <seg>Autorreemplazar "nplurals=INTEGER; &amp;plural=EXPRESSION;" en encabezado</seg>
       </tuv>
     </tu>
     <tu>
@@ -33017,8 +33017,8 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Save auto-populated status</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T230946Z" creationid="hcartagena" creationdate="20151124T230946Z">
-        <seg>Guardar estado como autorellenado</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T153627Z" creationid="hcartagena" creationdate="20151124T230946Z">
+        <seg>Guardar estado como autorrellenado</seg>
       </tuv>
     </tu>
     <tu>
