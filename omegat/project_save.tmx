@@ -8616,8 +8616,8 @@ puede experimentar un comportamiento inesperado, aunque correcto.</seg>
       <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20160331T203754Z" creationid="hcartagena" creationdate="20160331T203754Z">
-        <seg>Al finalizar su traducción, OmegaT exporta tres memorias de traducción con los nombres &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; y &lt;f2&gt;omegat&lt;/f2&gt; en la carpeta del proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T145330Z" creationid="hcartagena" creationdate="20160331T203754Z">
+        <seg>Al finalizar su traducción, OmegaT exporta tres memorias de traducción con los nombres &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; y &lt;f2&gt;omegat&lt;/f2&gt; a la carpeta del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
