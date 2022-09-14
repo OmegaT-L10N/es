@@ -19076,8 +19076,8 @@ que introducir la ruta de acceso completa.)</seg>
       <tuv lang="en">
         <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220519T102339Z" creationid="Mari" creationdate="20220210T125140Z">
-        <seg>Si está marcada, el fondo de todos los segmentos en los que el segmento traducido se autorellenó (a partir de las TMX colocadas en &lt;f0&gt;/tm/auto&lt;/f0&gt;, por ejemplo) se muestra en color.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T153638Z" creationid="Mari" creationdate="20220210T125140Z">
+        <seg>Si está marcada, el fondo de todos los segmentos en los que el segmento traducido se autorrellenó (a partir de las TMX colocadas en &lt;f0&gt;/tm/auto&lt;/f0&gt;, por ejemplo) se muestra en color.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38160,8 +38160,8 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       <tuv lang="en">
         <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220210T125234Z" creationid="Mari" creationdate="20220210T125234Z">
-        <seg>Los colores se muestran siempre que la opción &lt;l1&gt;&lt;g2&gt;Guardar estado como autorellenado&lt;/g2&gt;&lt;/l1&gt; esté marcada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T153643Z" creationid="Mari" creationdate="20220210T125234Z">
+        <seg>Los colores se muestran siempre que la opción &lt;l1&gt;&lt;g2&gt;Guardar estado como autorrellenado&lt;/g2&gt;&lt;/l1&gt; esté marcada.</seg>
       </tuv>
     </tu>
     <tu>
