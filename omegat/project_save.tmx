@@ -44460,8 +44460,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220126T121921Z" creationid="nenyavie" creationdate="20200226T104151Z">
-        <seg>Utilice &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; para alternar entre las cuatro alternativas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T150549Z" creationid="nenyavie" creationdate="20200226T104151Z">
+        <seg>Utilice &lt;k0&gt; &lt;k1&gt;Mayús&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; para cambiar entre las cuatro alternativas.</seg>
       </tuv>
     </tu>
     <tu>
