@@ -18892,8 +18892,8 @@ que introducir la ruta de acceso completa.)</seg>
       <tuv lang="en">
         <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220207T122107Z" creationid="Mari" creationdate="20220207T122107Z">
-        <seg>Si la opción &lt;g0&gt;Mostrar sugerencias pertinentes automáticamente&lt;/g0&gt; está marcada, la función de autocompletar se activa automáticamente al escribir la primera letra de un término traducido del glosario o al escibir "&lt;" en el caso de las etiquetas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T151426Z" creationid="Mari" creationdate="20220207T122107Z">
+        <seg>Si la opción &lt;g0&gt;Mostrar sugerencias pertinentes automáticamente&lt;/g0&gt; está marcada, la función de autocompletar se activa automáticamente al escribir la primera letra de un término traducido del glosario o al escribir "&lt;" en el caso de las etiquetas.</seg>
       </tuv>
     </tu>
     <tu>
