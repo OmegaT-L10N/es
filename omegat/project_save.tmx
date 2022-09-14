@@ -26684,16 +26684,16 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220202T163106Z" creationid="Mari" creationdate="20220202T163106Z">
-        <seg>Nota: la combinación &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Intro&lt;/k2&gt; &lt;/k0&gt; es un acceso directo alternativo si la opción &lt;l3&gt;&gt;Utilizar tabulador para avanzar&lt;/l3&gt; no está activada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T151107Z" creationid="Mari" creationdate="20220202T163106Z">
+        <seg>Nota: la combinación &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Intro&lt;/k2&gt; &lt;/k0&gt; es un acceso directo alternativo si la opción &lt;l3&gt;&gt;Utilizar tabulador para avanzar&lt;/l3&gt; no está seleccionada.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220202T162756Z" creationid="Mari" creationdate="20220202T162756Z">
-        <seg>Nota: la tecla &lt;k0&gt;Intro&lt;/k0&gt; es un acceso directo alternativo si la opción &lt;l1&gt;Utilizar tabulador para avanzar&lt;/l1&gt; no está activada.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220914T151050Z" creationid="Mari" creationdate="20220202T162756Z">
+        <seg>Nota: la tecla &lt;k0&gt;Intro&lt;/k0&gt; es un acceso directo alternativo si la opción &lt;l1&gt;Utilizar tabulador para avanzar&lt;/l1&gt; no está seleccionada.</seg>
       </tuv>
     </tu>
     <tu>
