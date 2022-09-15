@@ -4514,24 +4514,24 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Translated or untranslated&lt;/g0&gt;: search in both translated and untranslated segments.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T180900Z" creationid="Mari" creationdate="20220322T105822Z">
-        <seg>&lt;g0&gt;Con y sin traducción&lt;/g0&gt;: busque en los segmentos traducidos y sin traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T110924Z" creationid="Mari" creationdate="20220322T105822Z">
+        <seg>&lt;g0&gt;Con y sin traducción&lt;/g0&gt;: busca en los segmentos traducidos y sin traducir.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T180906Z" creationid="Mari" creationdate="20220322T175446Z">
-        <seg>&lt;g0&gt;Con traducción&lt;/g0&gt;: busque solo en los segmentos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T110931Z" creationid="Mari" creationdate="20220322T175446Z">
+        <seg>&lt;g0&gt;Con traducción&lt;/g0&gt;: busca solo en los segmentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T180910Z" creationid="Mari" creationdate="20220322T175518Z">
-        <seg>&lt;g0&gt;Sin traducción&lt;/g0&gt;: busque solo en los segmentos sin traducir.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T110937Z" creationid="Mari" creationdate="20220322T175518Z">
+        <seg>&lt;g0&gt;Sin traducción&lt;/g0&gt;: busca solo en los segmentos sin traducir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4546,24 +4546,24 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;in comments&lt;/g0&gt;: search in comments to segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T180856Z" creationid="Mari" creationdate="20220322T105635Z">
-        <seg>&lt;g0&gt;En comentarios&lt;/g0&gt;: busque en los comentarios de los segmentos</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T110917Z" creationid="Mari" creationdate="20220322T105635Z">
+        <seg>&lt;g0&gt;En comentarios&lt;/g0&gt;: busca en los comentarios de los segmentos</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T180850Z" creationid="Mari" creationdate="20220322T105552Z">
-        <seg>&lt;g0&gt;En notas&lt;/g0&gt;: busque en las notas de los segmentos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T110912Z" creationid="Mari" creationdate="20220322T105552Z">
+        <seg>&lt;g0&gt;En notas&lt;/g0&gt;: busca en las notas de los segmentos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T180837Z" creationid="Mari" creationdate="20220322T104636Z">
-        <seg>&lt;g0&gt;En el original&lt;/g0&gt;: busque en los segmentos originales.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T110902Z" creationid="Mari" creationdate="20220322T104636Z">
+        <seg>&lt;g0&gt;En el original&lt;/g0&gt;: busca en los segmentos originales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4571,8 +4571,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;in translations&lt;/g0&gt;: search in the target segments</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220915T110851Z" creationid="Mari" creationdate="20220322T105505Z">
-        <seg>&lt;g0&gt;En la traducción&lt;/g0&gt;: buscaen los segmentos traducidos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T110906Z" creationid="Mari" creationdate="20220322T105505Z">
+        <seg>&lt;g0&gt;En la traducción&lt;/g0&gt;: busca en los segmentos traducidos.</seg>
       </tuv>
     </tu>
     <tu>
