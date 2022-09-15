@@ -40143,8 +40143,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220221T161015Z" creationid="Mari" creationdate="20220221T161015Z">
-        <seg>El textro traducido introducido después se tratará como traducción alternativa del segmento original.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T101412Z" creationid="Mari" creationdate="20220221T161015Z">
+        <seg>El texto traducido introducido después se tratará como traducción alternativa del segmento original.</seg>
       </tuv>
     </tu>
     <tu>
