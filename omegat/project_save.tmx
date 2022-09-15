@@ -17544,6 +17544,14 @@ que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220915T111525Z" creationid="Mari" creationdate="20220915T111525Z">
+        <seg>Notificación de Git: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Give access to the ten last edited projects.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T123737Z" creationid="Mari" creationdate="20220207T123737Z">
