@@ -19891,8 +19891,8 @@ volverán al estado predeterminado.</seg>
       <tuv lang="en">
         <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;Restore Main Window&lt;/g2&gt;&lt;/m0&gt; will restore them to the state, defined in the installation.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220216T120404Z" creationid="Mari" creationdate="20220216T120404Z">
-        <seg>Si no puede visualizar todos los paneles (abiertos o minimizados), pulse &lt;m0&gt;&lt;g1&gt;Opciones&lt;/g1&gt;&lt;g2&gt;Restaurar ventana principal&lt;/g2&gt;&lt;/m0&gt; para restaurarlos a la forma establecida en la instalación.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T095312Z" creationid="Mari" creationdate="20220216T120404Z">
+        <seg>Si no puede visualizar todos los paneles (abiertos o minimizados), pulse &lt;m0&gt;&lt;g1&gt;Opciones&lt;/g1&gt;&lt;g2&gt;Restaurar ventana principal&lt;/g2&gt;&lt;/m0&gt; para restaurarlos a la forma definida en la instalación.</seg>
       </tuv>
     </tu>
     <tu>
