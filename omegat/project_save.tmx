@@ -37461,8 +37461,8 @@ su lugar, se utilizará la carpeta actual.</seg>
       <tuv lang="en">
         <seg>The &lt;f0&gt;tm&lt;/f0&gt; folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220913T100716Z" creationid="Mari" creationdate="20220222T101937Z">
-        <seg>La carpeta &lt;f0&gt;tm&lt;/f0&gt; puede contener cualquier número de memorias de traducción auxiliares, es decir, archivos TMX.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T102721Z" creationid="Mari" creationdate="20220222T101937Z">
+        <seg>La carpeta &lt;f0&gt;tm&lt;/f0&gt; puede contener tantas memorias de traducción auxiliares, es decir, archivos TMX, como desee.</seg>
       </tuv>
     </tu>
     <tu>
