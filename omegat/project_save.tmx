@@ -4450,8 +4450,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220322T181004Z" creationid="Mari" creationdate="20220322T180831Z">
-        <seg>&lt;g0&gt;Buscar en Archivos&lt;/g0&gt;: busque en un solo archivo o en una carpeta que contenga varios archivos.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T111054Z" creationid="Mari" creationdate="20220322T180831Z">
+        <seg>&lt;g0&gt;Buscar en Archivos&lt;/g0&gt;: busca en un solo archivo o en una carpeta que contenga varios archivos.</seg>
       </tuv>
     </tu>
     <tu>
