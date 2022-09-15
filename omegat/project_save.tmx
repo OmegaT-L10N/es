@@ -38420,8 +38420,8 @@ actual.</seg>
       <tuv lang="en">
         <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220308T183336Z" creationid="Mari" creationdate="20220308T183336Z">
-        <seg>La diferencia es sútil: llamamos "Ventana" a una ventana que puede permanecer abierta junto al editor e interactuar con este y "Cuadro de diálogo" a una ventana en la que hay que seleccionar parámetros antes de cerrarla y seguir con la traducción.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T104127Z" creationid="Mari" creationdate="20220308T183336Z">
+        <seg>La diferencia es sutil: llamamos "Ventana" a una ventana que puede permanecer abierta junto al editor e interactuar con este y "Cuadro de diálogo" a una ventana en la que hay que seleccionar parámetros antes de cerrarla y seguir con la traducción.</seg>
       </tuv>
     </tu>
     <tu>
