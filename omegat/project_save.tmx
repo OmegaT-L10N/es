@@ -33435,8 +33435,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220805T183115Z" creationid="Mari" creationdate="20220315T194950Z">
-        <seg>Las opciones de búsqueda son similares a las mostradas en la &lt;l0&gt;ventana de Búsqueda&lt;/l0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T110059Z" creationid="Mari" creationdate="20220315T194950Z">
+        <seg>Las opciones de búsqueda son similares a las mostradas en la &lt;l0&gt;ventana de búsqueda&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
