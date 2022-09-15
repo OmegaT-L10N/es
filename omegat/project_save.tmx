@@ -40327,8 +40327,8 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       <tuv lang="en">
         <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220216T123251Z" creationid="Mari" creationdate="20220216T123251Z">
-        <seg>La parte superior está en el idioma de origen, en negrita con un color de fondo verde, la parte inferior es el campo de edición, que termina con un marcador. El marcador es &lt;l0&gt;&lt;segment nnn&gt;&lt;/l0&gt;, donde nnnn es el número de segmento en el proyecto.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T100023Z" creationid="Mari" creationdate="20220216T123251Z">
+        <seg>La parte superior está en el idioma de origen, en negrita con un color de fondo verde, la parte inferior es el campo de edición, que termina con un marcador. El marcador es &lt;l0&gt;&lt;segmento nnn&gt;&lt;/l0&gt;, donde nnnn es el número de segmento en el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
