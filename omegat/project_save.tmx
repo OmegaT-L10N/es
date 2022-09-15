@@ -26788,8 +26788,8 @@ la carpeta Aplicaciones.</seg>
       <tuv lang="en">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220216T123624Z" creationid="eumeu" creationdate="20181115T234739Z">
-        <seg>Nota: el marcador de segmento muestra &lt;l0&gt;&lt;segment nnnn +yy más&gt; cuando el segmento no es único.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T100042Z" creationid="eumeu" creationdate="20181115T234739Z">
+        <seg>Nota: el marcador de segmento muestra &lt;l0&gt;&lt;segmento nnnn +yy más&gt; cuando el segmento no es único.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44660,8 +44660,8 @@ en la línea {1}, columna {2}.</seg>
       <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220216T123507Z" creationid="eumeu" creationdate="20181115T233247Z">
-        <seg>Utilice la parte de arriba como referencia y reemplace o modifique el contenido del campo de edición con la traducción.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T100120Z" creationid="eumeu" creationdate="20181115T233247Z">
+        <seg>Utilice la parte superior como referencia y reemplace o modifique el contenido del campo de edición con la traducción.</seg>
       </tuv>
     </tu>
     <tu>
