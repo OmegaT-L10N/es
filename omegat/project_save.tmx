@@ -19230,8 +19230,8 @@ que introducir la ruta de acceso completa.)</seg>
       <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the &lt;f0&gt;tm/auto&lt;/f0&gt; folder and avoid confirming a lot of &lt;e1&gt;[fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220305T123141Z" creationid="Mari" creationdate="20220305T123141Z">
-        <seg>Si está claro desde el principio que las traducciones de una TM determinada (o más de una) son todas correctas, puede ponerlas en la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt; para no terner que confirmar muchos casos &lt;e1&gt;[fuzzy]&lt;/e1&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T103118Z" creationid="Mari" creationdate="20220305T123141Z">
+        <seg>Si está claro desde el principio que las traducciones de una TM determinada (o más de una) son todas correctas, puede ponerlas en la carpeta &lt;f0&gt;tm/auto&lt;/f0&gt; para no tener que confirmar muchos casos &lt;e1&gt;[fuzzy]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
