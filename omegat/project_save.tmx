@@ -47141,8 +47141,8 @@ al menú Inicio, al escritorio o al área de inicio rápido para vincularlo desd
       <tuv lang="en">
         <seg>You can browse through notes using &lt;m0&gt;&lt;g1&gt;GoTo&lt;/g1&gt;&lt;g2&gt;Next Note&lt;/g2&gt;&lt;/m0&gt; and &lt;m3&gt;&lt;g4&gt;GoTo&lt;/g4&gt;&lt;g5&gt;Previous Note&lt;/g5&gt;&lt;/m3&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220806T100040Z" creationid="Mari" creationdate="20220221T161412Z">
-        <seg>Puede desplazarse por las notas mediante el comando &lt;m0&gt;&lt;g1&gt;Ir a&lt;/g1&gt;&lt;g2&gt;Nota siguiente&lt;/g2&gt;&lt;/m0&gt; y &lt;m3&gt;&lt;g4&gt;Ir a&lt;/g4&gt;&lt;g5&gt;Nota anterior&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220915T101519Z" creationid="Mari" creationdate="20220221T161412Z">
+        <seg>Puede desplazarse por las notas mediante el comando &lt;m0&gt;&lt;g1&gt;Ir a&lt;/g1&gt;&lt;g2&gt;Nota siguiente&lt;/g2&gt;&lt;/m0&gt; e &lt;m3&gt;&lt;g4&gt;Ir a&lt;/g4&gt;&lt;g5&gt;Nota anterior&lt;/g5&gt;&lt;/m3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
