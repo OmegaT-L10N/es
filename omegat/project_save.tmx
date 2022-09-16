@@ -32112,16 +32112,16 @@ digo: "página no encontrada"</seg>
       <tuv lang="en">
         <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220404T150302Z" creationid="Mari" creationdate="20220404T150302Z">
-        <seg>Sustituir las etiquetas personalizadas con espacio</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220916T105027Z" creationid="Mari" creationdate="20220404T150302Z">
+        <seg>Reemplazar las etiquetas personalizadas con espacio</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replace escaped sequences with space</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220404T150142Z" creationid="Mari" creationdate="20220404T150142Z">
-        <seg>Sustituir las secuencias de escape con espacio</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220916T105015Z" creationid="Mari" creationdate="20220404T150142Z">
+        <seg>Reemplazar las secuencias de escape con espacio</seg>
       </tuv>
     </tu>
     <tu>
