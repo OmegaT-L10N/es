@@ -19916,9 +19916,9 @@ volverán al estado predeterminado.</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
 Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220805T183209Z" creationid="hcartagena" creationdate="20200729T215546Z">
+      <tuv lang="es" changeid="Mari" changedate="20220916T102055Z" creationid="hcartagena" creationdate="20200729T215546Z">
         <seg>Si puede ver el archivo OmegaT, pero no OmegaT.exe, en el Administrador de archivos
-(Windows Explorer), cambie la configuración para que muestre la extensión de los archivos.</seg>
+(Windows Explorer), cambie la configuración para que se muestre la extensión de los archivos.</seg>
       </tuv>
     </tu>
     <tu>
