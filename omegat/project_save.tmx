@@ -24075,8 +24075,8 @@ conexión a Internet.</seg>
       <tuv lang="en">
         <seg>Local working copies cleaned up: {0}</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220404T152451Z" creationid="Mari" creationdate="20220404T152451Z">
-        <seg>Copias de trabajo locales limpiadas {0}</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220916T105424Z" creationid="Mari" creationdate="20220404T152451Z">
+        <seg>Copias de trabajo locales limpiadas: {0}</seg>
       </tuv>
     </tu>
     <tu>
