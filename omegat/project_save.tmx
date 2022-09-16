@@ -18882,10 +18882,10 @@ es que su invierno ha llegado</seg>
 Java is installed at system level and is in the command path, the full path need
 not be entered.)</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220330T183215Z" creationid="hcartagena" creationdate="20200729T225118Z">
+      <tuv lang="es" changeid="Mari" changedate="20220916T103936Z" creationid="hcartagena" creationdate="20200729T225118Z">
         <seg>Si
 Java está instalado a nivel de sistema y está en la ruta de acceso del comando, no tiene
-que introducir la ruta de acceso completa.)</seg>
+que introducir la ruta de acceso completa).</seg>
       </tuv>
     </tu>
     <tu>
