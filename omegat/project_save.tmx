@@ -1947,8 +1947,8 @@ formatos de archivo compatibles). Para añadir archivos al proyecto, haga clic e
       <tuv lang="en">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
-      <tuv lang="es" changeid="nenyavie" changedate="20200225T092825Z" creationid="nenyavie" creationdate="20200225T092825Z">
-        <seg>(Deje la contraseña en blanco si va a utilizar una clave de API.)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220916T103836Z" creationid="nenyavie" creationdate="20200225T092825Z">
+        <seg>(Deje la contraseña en blanco si va a utilizar una clave de API).</seg>
       </tuv>
     </tu>
     <tu>
