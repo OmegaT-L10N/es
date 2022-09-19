@@ -6596,8 +6596,8 @@ El ajuste actual es {0}MB.</seg>
       <tuv lang="en">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170917T180623Z" creationid="Cristina" creationdate="20170917T180623Z">
-        <seg>Una guía paso a paso sobre cómo usar las utilidades de extracción y combinación de texto desde Rainbow para procesar antes y después los archivos a traducir con OmegaT.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220919T093605Z" creationid="Cristina" creationdate="20170917T180623Z">
+        <seg>Una guía paso a paso sobre cómo usar las utilidades de extracción y combinación de texto desde Rainbow para procesar antes y después los archivos que traducir con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
