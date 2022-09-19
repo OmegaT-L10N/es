@@ -14305,8 +14305,8 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       <tuv lang="en">
         <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170916T151013Z" creationid="Cristina" creationdate="20170916T151013Z">
-        <seg>Durante la instalación, dependiendo de su sistema operativo, puede recibir varias advertencias de seguridad.&lt;br0/&gt;</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220919T100457Z" creationid="Cristina" creationdate="20170916T151013Z">
+        <seg>Durante la instalación, en función del sistema operativo, puede recibir varias advertencias de seguridad.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45033,8 +45033,8 @@ puede buscar en los archivos sin suscripción:</seg>
       <tuv lang="en">
         <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220612T145552Z" creationid="Mari" creationdate="20220612T145552Z">
-        <seg>Los usuarios que tengan prisa pueden utilizar en su lugar la versión sin firmar; si tiene dificultades para iniciar la aplicación, consulte &lt;a0&gt;cómo abrir una aplicación de un desarrollador no identificado&lt;/a0&gt;.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220919T100318Z" creationid="Mari" creationdate="20220612T145552Z">
+        <seg>Los usuarios que tengan prisa pueden utilizar en su lugar la versión sin firmar. Si tiene dificultades para iniciar la aplicación, consulte &lt;a0&gt;cómo abrir una aplicación de un desarrollador no identificado&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
