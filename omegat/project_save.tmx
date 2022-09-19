@@ -37298,8 +37298,8 @@ El reemplazo de texto se aplica a los segmentos traducidos del proyecto, tengan 
       <tuv lang="en">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
-      <tuv lang="es" changeid="Cristina" changedate="20170816T190851Z" creationid="Cristina" creationdate="20170816T190851Z">
-        <seg>Gracias al trabajo de los traductores en el pasado, la interfaz de usuario de OmegaT y/o los textos de ayuda se han traducido a varios idiomas.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220919T102756Z" creationid="Cristina" creationdate="20170816T190851Z">
+        <seg>Gracias al trabajo de traductores anteriores, la interfaz de usuario de OmegaT y los textos de ayuda se han traducido a varios idiomas.</seg>
       </tuv>
     </tu>
     <tu>
