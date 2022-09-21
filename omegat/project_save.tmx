@@ -17600,6 +17600,14 @@ que está incluido (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries Folder:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220921T084354Z" creationid="Mari" creationdate="20220921T084354Z">
+        <seg>Carpeta de glosarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181207T121044Z" creationid="taty" creationdate="20181113T175114Z">
@@ -43342,6 +43350,14 @@ OmegaT.jar y el script linux-install.sh y ejecute el script con ./linux-install.
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151127T075053Z" creationid="Antonio" creationdate="20151127T075053Z">
         <seg>Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220921T084348Z" creationid="Mari" creationdate="20220921T084348Z">
+        <seg>Carpeta de memorias de traducción:</seg>
       </tuv>
     </tu>
     <tu>
