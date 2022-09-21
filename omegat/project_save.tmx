@@ -13261,6 +13261,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries Folder:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220921T084407Z" creationid="Mari" creationdate="20220921T084407Z">
+        <seg>Carpeta de diccionarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries already installed:</seg>
       </tuv>
       <tuv lang="es" changeid="Víctor Parra" changedate="20151126T194734Z" creationid="Víctor Parra" creationdate="20151126T194734Z">
@@ -15722,6 +15730,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T151952Z" creationid="Helli" creationdate="20150526T132214Z">
         <seg>Exportar selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220921T084812Z" creationid="Mari" creationdate="20220921T084812Z">
+        <seg>Carpeta de memorias de traducción de exportación:</seg>
       </tuv>
     </tu>
     <tu>
