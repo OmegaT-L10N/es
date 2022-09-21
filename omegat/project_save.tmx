@@ -39373,6 +39373,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is saved as backup: {0}</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220921T085502Z" creationid="Mari" creationdate="20220921T085502Z">
+        <seg>El archivo original se guarda como copia de seguridad: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180933Z" creationid="hcartagena" creationdate="20180605T180933Z">
