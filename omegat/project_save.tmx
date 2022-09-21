@@ -12699,6 +12699,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be override by the remote project configuration content.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Mari" changedate="20220921T085415Z" creationid="Mari" creationdate="20220921T085415Z">
+        <seg>El contenido de configuración del proyecto remoto anulará la configuración actual del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
@@ -41859,8 +41867,8 @@ servidor.</seg>
       <tuv lang="en">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
-      <tuv lang="es" changeid="Mari" changedate="20220519T095245Z" creationid="Cristina" creationdate="20170822T185448Z">
-        <seg>Esta versión de JRE solo se utilizará de manera local para OmegaT; no entrará en conflicto, reemplazará ni desinstalará las otras instalaciones de JRE y, por lo tanto, su uso es seguro.</seg>
+      <tuv lang="es" changeid="Mari" changedate="20220921T085148Z" creationid="Cristina" creationdate="20170822T185448Z">
+        <seg>Esta versión de JRE solo se utilizará de manera local para OmegaT; no entrará en conflicto, anulará ni desinstalará las otras instalaciones de JRE y, por lo tanto, su uso es seguro.</seg>
       </tuv>
     </tu>
     <tu>
