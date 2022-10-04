@@ -689,8 +689,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
-      <tuv lang="es" changeid="hcartagena" changedate="20151124T230718Z" creationid="hcartagena" creationdate="20151124T230718Z">
-        <seg>&amp;No eliminar escape de literales de Unicode (\uXXXX)</seg>
+      <tuv lang="es" changeid="Mari" changedate="20221004T183057Z" creationid="hcartagena" creationdate="20151124T230718Z">
+        <seg>&amp;No eliminar escape de literales Unicode (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
