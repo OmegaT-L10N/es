@@ -22749,6 +22749,14 @@ the user license.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is used for testing purposes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213804Z" creationid="vicparra" creationdate="20221226T213804Z">
+        <seg>Se usa con fines de prueba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151120T175448Z" creationid="hcartagena" creationdate="20151120T175448Z">
@@ -39242,6 +39250,14 @@ actual.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T122140Z" creationid="Mari" creationdate="20211125T122140Z">
         <seg>Los archivos aparecen en la subcarpeta &lt;f0&gt;script&lt;/f0&gt; de la carpeta de archivos de usuario de OmegaT e incluyen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213822Z" creationid="vicparra" creationdate="20221226T213822Z">
+        <seg>Los archivos son descargables directamente desde &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
