@@ -41813,12 +41813,11 @@ servidor.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en">
         <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled.</seg>
       </tuv>
-      <tuv lang="es" changeid="vicparra" changedate="20221226T190038Z" creationid="vicparra" creationdate="20221226T190038Z">
-        <seg>[fuzzy]Este archivo contiene el &lt;e0&gt;texto original&lt;/e0&gt; del segmento actual cuando la &lt;l1/&gt; preferencia está habilitada.</seg>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190114Z" creationid="vicparra" creationdate="20221226T190038Z">
+        <seg>Este archivo contiene el &lt;e0&gt;texto traducido&lt;/e0&gt; del segmento actual cuando la &lt;l1/&gt; preferencia está habilitada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42534,6 +42533,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220519T102537Z" creationid="Mari" creationdate="20220310T104201Z">
         <seg>Sin embargo, este procedimiento se debe evitar una vez que comenzó a traducir el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190237Z" creationid="vicparra" creationdate="20221226T190237Z">
+        <seg>Estos tres archivos proporcionan una forma simple de acceder a algunos contenidos de OmegaT y los procesa con programas locales, tales como scripts de shel.l</seg>
       </tuv>
     </tu>
     <tu>
