@@ -41853,6 +41853,14 @@ servidor.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T204807Z" creationid="vicparra" creationdate="20221226T204807Z">
+        <seg>Este archivo contiene la información de inicio de sesión de los repositorios de trabajo en equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
@@ -54061,6 +54069,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211127T163724Z" creationid="Mari" creationdate="20211127T163724Z">
         <seg>cambie el nombre del archivo &lt;f0&gt;project_save.tmx &lt;/f0&gt;actual (por ejemplo, a &lt;f1&gt;project_save.tmx.temporal&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repositories.properties</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190629Z" creationid="vicparra" creationdate="20221226T190629Z">
+        <seg>repositories.properties</seg>
       </tuv>
     </tu>
     <tu>
