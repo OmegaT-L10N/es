@@ -47,3 +47,4 @@ override	anular
 Project files	Archivos del proyecto
 dialog	cuadro de diálogo
 library	biblioteca
+appendix	apéndice
