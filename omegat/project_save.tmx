@@ -34051,6 +34051,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185051Z" creationid="vicparra" creationdate="20221226T185051Z">
+        <seg>Véanse las &lt;l0/&gt; instrucciones para obtener más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T184503Z" creationid="vicparra" creationdate="20221226T184503Z">
@@ -38476,6 +38484,15 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184742Z" creationid="vicparra" creationdate="20221226T184742Z">
+        <seg>La carpeta de configuración almacena la mayoría de las opciones y preferencias de OmegaT para el usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
@@ -39417,6 +39434,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T155028Z" creationid="taty" creationdate="20181116T155028Z">
         <seg>La ubicación del archivo &lt;f1&gt;.tbx&lt;/f1&gt; debe estar dentro de la carpeta &lt;f2&gt;/glosario&lt;/f2&gt;, pero puede estar en una carpeta más profunda (por ejemplo, &lt;f3&gt;glosario/sub/MiGlosario.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184906Z" creationid="vicparra" creationdate="20221226T184906Z">
+        <seg>La ubicación de la carpeta de configuración predeterminada varía en función del sistema (el carácter &lt;e0&gt;~&lt;/e0&gt; representa su carpeta de inicio):</seg>
       </tuv>
     </tu>
     <tu>
@@ -44874,6 +44899,14 @@ en la línea {1}, columna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184758Z" creationid="vicparra" creationdate="20221226T184758Z">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; para acceder a ella directamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Stemming for &amp;Glossary Entries</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T211054Z" creationid="hcartagena" creationdate="20151116T221147Z">
@@ -47861,6 +47894,15 @@ mediante el script de instalación (linux-install.sh).</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T144857Z" creationid="Antonio" creationdate="20160316T184918Z">
         <seg>Puede seleccionar cuáles de los siguientes elementos se deben traducir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185009Z" creationid="vicparra" creationdate="20221226T185009Z">
+        <seg>Puede especificar una carpeta de configuración que no sea la predeterminada cuando inicie OmegaT desde la línea de comandos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55619,6 +55661,31 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T113347Z" creationid="Antonio" creationdate="20151130T113347Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184913Z" creationid="vicparra" creationdate="20221226T184913Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184950Z" creationid="vicparra" creationdate="20221226T184931Z">
+        <seg>~/Biblioteca/Preferencias/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184959Z" creationid="vicparra" creationdate="20221226T184959Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
