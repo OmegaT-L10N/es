@@ -11399,6 +11399,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184604Z" creationid="vicparra" creationdate="20221226T184604Z">
+        <seg>Carpeta de configuración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T192819Z" creationid="hcartagena" creationdate="20151116T192819Z">
@@ -34043,6 +34051,22 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184503Z" creationid="vicparra" creationdate="20221226T184503Z">
+        <seg>Véanse las preferencias &lt;l0/&gt; para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184552Z" creationid="vicparra" creationdate="20221226T184552Z">
+        <seg>Véase la ventana &lt;l0/&gt; para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T164450Z" creationid="Antonio" creationdate="20151128T164450Z">
@@ -38961,6 +38985,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where distributed scripts are located.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184527Z" creationid="vicparra" creationdate="20221226T184527Z">
+        <seg>La carpeta en la que se encuentran los scripts distribuidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where images used by OmegaT are stored.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T184403Z" creationid="vicparra" creationdate="20221226T184403Z">
@@ -38973,6 +39005,14 @@ actual.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T184425Z" creationid="vicparra" creationdate="20221226T184425Z">
         <seg>La carpeta en la que se almacenan las imágenes utilizadas por OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184441Z" creationid="vicparra" creationdate="20221226T184441Z">
+        <seg>La carpeta en la que puede instalar plugins externos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53331,6 +53371,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>plugins/</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184430Z" creationid="vicparra" creationdate="20221226T184430Z">
+        <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>pol</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154638Z" creationid="Antonio" creationdate="20151128T154638Z">
@@ -53832,6 +53880,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161515Z" creationid="Antonio" creationdate="20160330T161515Z">
         <seg>script/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>scripts/</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T184508Z" creationid="vicparra" creationdate="20221226T184508Z">
+        <seg>scripts/</seg>
       </tuv>
     </tu>
     <tu>
