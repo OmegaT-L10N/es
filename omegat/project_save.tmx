@@ -13064,6 +13064,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>Default contents</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185219Z" creationid="vicparra" creationdate="20221226T185219Z">
+        <seg>Contenido predeterminado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Default glossary</seg>
       </tuv>
@@ -13861,6 +13870,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T210400Z" creationid="hcartagena" creationdate="20151124T233447Z">
         <seg>No permitir la creación de documentos traducidos con problemas de et&amp;iquetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not automatically display the Source Files list</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185324Z" creationid="vicparra" creationdate="20221226T185324Z">
+        <seg>No mostrar automáticamente la lista de Archivos de Origen</seg>
       </tuv>
     </tu>
     <tu>
@@ -20130,6 +20147,15 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185215Z" creationid="vicparra" creationdate="20221226T185215Z">
+        <seg>Si no utiliza la carpeta de configuración predeterminada, todas las modificaciones realizadas en las &lt;l0&gt;preferencias&lt;/l0&gt; se almacenarán en la carpeta de configuración especificada y no aparecerán cuando reanude el trabajo con la carpeta de configuración predeterminada.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you enter names of folders that do not exist yet, OmegaT creates them for you.</seg>
       </tuv>
@@ -25514,6 +25540,15 @@ conexión a Internet.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220404T143413Z" creationid="Mari" creationdate="20220404T143413Z">
         <seg>Segmentos modificados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185157Z" creationid="vicparra" creationdate="20221226T185157Z">
+        <seg>Las preferencias modificadas se almacenan en la carpeta de configuración utilizada por el proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35530,6 +35565,15 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>Some preferences do not have an equivalent in the user interface.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185235Z" creationid="vicparra" creationdate="20221226T185235Z">
+        <seg>Algunas preferencias no tienen un equivalente en la interfaz de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
@@ -41301,6 +41345,15 @@ una de ellas te alcanzó</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185238Z" creationid="vicparra" creationdate="20221226T185238Z">
+        <seg>Deben modificarse manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
@@ -41678,6 +41731,15 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181109T141104Z" creationid="taty" creationdate="20181109T141104Z">
         <seg>Esta función hace uso de los diccionarios de ortografía utilizados en LibreOffice y Open Office.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>This file includes a number of important user preferences.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185230Z" creationid="vicparra" creationdate="20221226T185230Z">
+        <seg>Este archivo incluye una serie de preferencias de usuario importantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42969,6 +43031,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211125T201122Z" creationid="Mari" creationdate="20211125T201122Z">
         <seg>Para obtener coincidencias más literales y cercanas al 100%, seleccione la opción &lt;g0&gt;Texto completo, con etiquetas y números&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185418Z" creationid="vicparra" creationdate="20221226T185418Z">
+        <seg>Para evitar que la ventana de la lista Archivos de Origen se abra automáticamente cuando se carga un proyecto, busque &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; y reemplace &lt;t1&gt;true&lt;/t1&gt; por &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
