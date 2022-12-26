@@ -2675,6 +2675,14 @@ en modo de trabajo en grupo).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182717Z" creationid="vicparra" creationdate="20221226T182717Z">
+        <seg>/Applicaciones/OmegaT.app/Contenido/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161538Z" creationid="Antonio" creationdate="20160330T161538Z">
@@ -2695,6 +2703,14 @@ en modo de trabajo en grupo).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T161601Z" creationid="Antonio" creationdate="20160330T161601Z">
         <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182658Z" creationid="vicparra" creationdate="20221226T182658Z">
+        <seg>/opt/omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -9795,6 +9811,14 @@ pide otro trago, monada</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T203112Z" creationid="hcartagena" creationdate="20151116T202830Z">
         <seg>Documento traducido act&amp;ual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182653Z" creationid="vicparra" creationdate="20221226T182653Z">
+        <seg>C:\Archivos de programa\OmegaT\</seg>
       </tuv>
     </tu>
     <tu>
@@ -38116,6 +38140,22 @@ Intente corregir el error y vuelva a cargar el proyecto.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182529Z" creationid="vicparra" creationdate="20221226T182529Z">
+        <seg>La carpeta de aplicación contiene la aplicación &lt;f0&gt;OmegaT.jar&lt;/f0&gt; y una cantidad de otros archivos importantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder location depends on your platform and on the way you have installed OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182552Z" creationid="vicparra" creationdate="20221226T182552Z">
+        <seg>La ubicación de la carpeta de aplicación depende de su plataforma y de la manera en la que ha instalado OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T145422Z" creationid="Mari" creationdate="20220113T145422Z">
@@ -39751,6 +39791,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T173442Z" creationid="taty" creationdate="20181116T173403Z">
         <seg>Las extensiónes reconocidas son &lt;f1&gt;TXT&lt;/f1&gt; y &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182613Z" creationid="vicparra" creationdate="20221226T182613Z">
+        <seg>Las ubicaciones recomendadas o predeterminadas son las siguientes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51981,6 +52029,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T020542Z" creationid="hcartagena" creationdate="20160401T020542Z">
         <seg>mALIGNa (licencia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182702Z" creationid="vicparra" creationdate="20221226T182702Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
