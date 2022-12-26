@@ -2383,12 +2383,32 @@ en modo de trabajo en grupo).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182257Z" creationid="vicparra" creationdate="20221226T182257Z">
+        <seg>--disable-location-save
+	  No recuerde el último directorio abierto en el selector de archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211007T140155Z" creationid="hcartagena" creationdate="20160331T214634Z">
         <seg>--disable-project-locking
 		No intente bloquear el archivo omegat.project del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182246Z" creationid="vicparra" creationdate="20221226T182246Z">
+        <seg>--disable-project-locking
+	  No intente bloquear el archivo omegat.project del proyecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8374,6 +8394,14 @@ El archivo TMX no se cargará.</seg>
       </tuv>
       <tuv lang="es" changeid="Helli" changedate="20150526T145706Z" creationid="Helli" creationdate="20150526T145706Z">
         <seg>Apéndice I. Aviso legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182454Z" creationid="vicparra" creationdate="20221226T182454Z">
+        <seg>Carpeta de aplicación</seg>
       </tuv>
     </tu>
     <tu>
@@ -19276,6 +19304,16 @@ que introducir la ruta de acceso completa).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182235Z" creationid="vicparra" creationdate="20221226T182235Z">
+        <seg>Si se invoca en un árbol de trabajo en git o checkout de svn, los
+	  esultados se subirán al servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20180605T180801Z" creationid="hcartagena" creationdate="20180605T180801Z">
@@ -21438,6 +21476,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220919T093410Z" creationid="Cristina" creationdate="20170917T175058Z">
         <seg>Información sobre los procedimientos y las funciones de OmegaT para usuarios avanzados que pueden encontrarse en otros sitios web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182225Z" creationid="vicparra" creationdate="20221226T182225Z">
+        <seg>Iniciar un proyecto de trabajo en grupo básico con los idiomas específicos.</seg>
       </tuv>
     </tu>
     <tu>
