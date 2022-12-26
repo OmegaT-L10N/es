@@ -13410,6 +13410,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer: OmegaT Nightly</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213751Z" creationid="vicparra" creationdate="20221226T213608Z">
+        <seg>Desarrollador: OmegaT de desarrollo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T233717Z" creationid="hcartagena" creationdate="20200729T233717Z">
@@ -21909,6 +21917,14 @@ escritorio, haga doble clic en el acceso directo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install OmegaT</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213502Z" creationid="vicparra" creationdate="20221226T213502Z">
+        <seg>Instalar OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170820T144943Z" creationid="Cristina" creationdate="20170820T144943Z">
@@ -27754,6 +27770,14 @@ la carpeta Aplicaciones.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20210928T200046Z" creationid="Mari" creationdate="20210928T195946Z">
         <seg>Tema clásico de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes in two editions:</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213515Z" creationid="vicparra" creationdate="20221226T213515Z">
+        <seg>OmegaT está en dos ediciones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36414,6 +36438,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213531Z" creationid="vicparra" creationdate="20221226T213531Z">
+        <seg>Estándar: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -41950,6 +41982,22 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151210T184220Z" creationid="Antonio" creationdate="20151210T184220Z">
         <seg>Esta documentación tiene la finalidad de servir como un tutorial y como guía de referencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is automatically generated every time new code is added to OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213629Z" creationid="vicparra" creationdate="20221226T213629Z">
+        <seg>Esta edición se genera automáticamente cada vez que se añade nuevo código a OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is recommended for everyday use.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213548Z" creationid="vicparra" creationdate="20221226T213548Z">
+        <seg>Esta edición es recomendada para uso diario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52826,6 +52874,22 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T182702Z" creationid="vicparra" creationdate="20221226T182702Z">
         <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Notarized</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213410Z" creationid="vicparra" creationdate="20221226T213410Z">
+        <seg>macOS con firma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Unsigned</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T213418Z" creationid="vicparra" creationdate="20221226T213418Z">
+        <seg>macOS sin firma</seg>
       </tuv>
     </tu>
     <tu>
