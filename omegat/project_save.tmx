@@ -28481,6 +28481,14 @@ versión 1.8 o superior.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's distribution license.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182744Z" creationid="vicparra" creationdate="20221226T182744Z">
+        <seg>Licencia de distribución de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's main features are:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T051848Z" creationid="hcartagena" creationdate="20160401T051848Z">
@@ -28501,6 +28509,14 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T202905Z" creationid="hcartagena" creationdate="20160331T202905Z">
         <seg>Sin embargo, Omegat presentará la oración de la siguiente manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182729Z" creationid="vicparra" creationdate="20221226T182729Z">
+        <seg>OmegaT-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -53045,6 +53061,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154517Z" creationid="Antonio" creationdate="20151128T154515Z">
         <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182721Z" creationid="vicparra" creationdate="20221226T182721Z">
+        <seg>otras plataformas</seg>
       </tuv>
     </tu>
     <tu>
