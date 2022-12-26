@@ -2445,6 +2445,16 @@ en modo de trabajo en grupo).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T181931Z" creationid="vicparra" creationdate="20221226T181904Z">
+        <seg>--no-team
+	  Deshabilite la función de proyectos de trabajo en grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T120840Z" creationid="Mari" creationdate="20220125T120840Z">
@@ -2479,8 +2489,8 @@ en modo de trabajo en grupo).</seg>
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="es" changeid="vicparra" changedate="20221226T181511Z" creationid="vicparra" creationdate="20221226T181511Z">
-        <seg>[fuzzy]--remote-project
+      <tuv lang="es" changeid="vicparra" changedate="20221226T181915Z" creationid="vicparra" creationdate="20221226T181511Z">
+        <seg>--remote-project
 	  Descargue un archivo omegat.project desde la URL dada como &lt;ruta de acceso
 	  al proyecto&gt; y cargue el proyecto.</seg>
       </tuv>
@@ -54014,6 +54024,16 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155240Z" creationid="Antonio" creationdate="20151128T155240Z">
         <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T182130Z" creationid="vicparra" creationdate="20221226T182130Z">
+        <seg>team init &lt;idioma de origen&gt; &lt;idioma de destino&gt;
+	  Herramienta de trabajo en grupo.</seg>
       </tuv>
     </tu>
     <tu>
