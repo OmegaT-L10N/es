@@ -34161,6 +34161,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T204950Z" creationid="vicparra" creationdate="20221226T204950Z">
+        <seg>Véase la &lt;l0/&gt; preferencia para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T184503Z" creationid="vicparra" creationdate="20221226T184503Z">
@@ -39016,6 +39024,15 @@ actual.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>The file contents are not encrypted.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T204850Z" creationid="vicparra" creationdate="20221226T204850Z">
+        <seg>El contenido del archivo no está cifrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
@@ -41921,6 +41938,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T204931Z" creationid="vicparra" creationdate="20221226T204931Z">
+        <seg>Esta carpeta proporciona una ubicación alternativa para los plugins de extensión de OmegaT instalados manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181116T150028Z" creationid="taty" creationdate="20181116T150028Z">
@@ -42408,6 +42433,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T190412Z" creationid="vicparra" creationdate="20221226T190412Z">
         <seg>Este archivo de parámetros contiene filtros de archivo personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T204914Z" creationid="vicparra" creationdate="20221226T204914Z">
+        <seg>Este archivo de parámetros contiene parámetros de sementación personalizados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54565,6 +54598,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T121215Z" creationid="Mari" creationdate="20211124T121215Z">
         <seg>especifica qué partes del texto NO se deben separar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>spelling/</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T205121Z" creationid="vicparra" creationdate="20221226T205121Z">
+        <seg>spelling/</seg>
       </tuv>
     </tu>
     <tu>
