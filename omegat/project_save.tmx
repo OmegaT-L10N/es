@@ -7238,6 +7238,14 @@ El ajuste actual es {0}MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190244Z" creationid="vicparra" creationdate="20221226T190244Z">
+        <seg>Contendido adicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T122425Z" creationid="Mari" creationdate="20220125T122425Z">
@@ -14841,6 +14849,14 @@ project_save.tmx no se cargó y SVN cambió al estado inestable.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220111T200039Z" creationid="Mari" creationdate="20220111T200020Z">
         <seg>Editor…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190247Z" creationid="vicparra" creationdate="20221226T190247Z">
+        <seg>EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -24628,6 +24644,14 @@ conexión a Internet.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190402Z" creationid="vicparra" creationdate="20221226T190402Z">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211124T184927Z" creationid="Mari" creationdate="20211124T184927Z">
@@ -34113,6 +34137,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190359Z" creationid="vicparra" creationdate="20221226T190359Z">
+        <seg>Véase el &lt;l0/&gt; apéndice para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T183423Z" creationid="vicparra" creationdate="20221226T183423Z">
@@ -42337,6 +42369,50 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190625Z" creationid="vicparra" creationdate="20221226T190625Z">
+        <seg>Este archivo de parámetros contiene parámetros de texto automático personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190257Z" creationid="vicparra" creationdate="20221226T190257Z">
+        <seg>Este archivo de parámetros contiene accesos directos personalizados del editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190423Z" creationid="vicparra" creationdate="20221226T190423Z">
+        <seg>Este archivo de parámetros contiene parámetros de búsqueda externa personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>This parameter file contains customized file filters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190412Z" creationid="vicparra" creationdate="20221226T190412Z">
+        <seg>Este archivo de parámetros contiene filtros de archivo personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190409Z" creationid="vicparra" creationdate="20221226T190409Z">
+        <seg>Este archivo de parámetros contiene accesos directos personalizados de la interfaz de usuario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
       </tuv>
       <tuv lang="es" changeid="Cristina" changedate="20170924T142439Z" creationid="Cristina" creationdate="20170921T181231Z">
@@ -50384,6 +50460,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>finder.xml</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190414Z" creationid="vicparra" creationdate="20221226T190414Z">
+        <seg>finder.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T150735Z" creationid="Antonio" creationdate="20160125T150735Z">
@@ -53184,6 +53268,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20200729T215754Z" creationid="hcartagena" creationdate="20200729T215754Z">
         <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.autotext</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190425Z" creationid="vicparra" creationdate="20221226T190425Z">
+        <seg>omegat.autotext</seg>
       </tuv>
     </tu>
     <tu>
