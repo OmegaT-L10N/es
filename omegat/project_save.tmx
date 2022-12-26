@@ -2825,6 +2825,14 @@ El ajuste actual es {0}MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T211923Z" creationid="vicparra" creationdate="20221226T211923Z">
+        <seg>2) Aumenta la cantidad de memoria disponible para OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151120T115706Z" creationid="Antonio" creationdate="20151120T115706Z">
@@ -13602,6 +13610,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212156Z" creationid="vicparra" creationdate="20221226T212156Z">
+        <seg>Deshabilite un filtro deseleccionando su cuadro si prefiere no traducir los archivos que no están asociados a él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220805T154625Z" creationid="hcartagena" creationdate="20180605T180619Z">
@@ -16396,6 +16412,14 @@ La tela de araña te retiene
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212051Z" creationid="vicparra" creationdate="20221226T212051Z">
+        <seg>Los filtros son tanto locales y específicos para un proyecto dado, o gobales y disponibles para todos los proyectos que comparten una carpeta de configuración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File filters are pieces of code capable of:</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160127T181822Z" creationid="Antonio" creationdate="20160127T181750Z">
@@ -16584,6 +16608,14 @@ La tela de araña te retiene
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151116T223704Z" creationid="hcartagena" creationdate="20151116T223704Z">
         <seg>Filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filters in bold are used in the current project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212114Z" creationid="vicparra" creationdate="20221226T212114Z">
+        <seg>Los filtros en negrita se están usando en el proyecto actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16882,6 +16914,14 @@ que está incluido (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="es" changeid="nenyavie" changedate="20200226T133243Z" creationid="nenyavie" creationdate="20200226T133243Z">
         <seg>Por razones de confidencialidad, se podría no querer enviar todos los segmentos al motor de traducción automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see:</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212100Z" creationid="vicparra" creationdate="20221226T212100Z">
+        <seg>Para más detalles, véase:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41033,6 +41073,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T150331Z" creationid="Antonio" creationdate="20160125T114441Z">
         <seg>La &lt;u0&gt; &lt;a1&gt;página&lt;/a1&gt; OmegaT &lt;/u0&gt; contiene enlaces a numerosos recursos de &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Their contents will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212205Z" creationid="vicparra" creationdate="20221226T212205Z">
+        <seg>Su contenido no se mostrará para traducir.</seg>
       </tuv>
     </tu>
     <tu>
