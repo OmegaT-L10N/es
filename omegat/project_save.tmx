@@ -19608,6 +19608,15 @@ volverán al estado predeterminado.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185701Z" creationid="vicparra" creationdate="20221226T185701Z">
+        <seg>Si se utilizan las funciones correspondientes, esta carpeta puede contener hasta tres archivos de texto:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
@@ -40684,6 +40693,24 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185806Z" creationid="vicparra" creationdate="20221226T185806Z">
+        <seg>El texto del archivo se sustituye cada vez que se introduce un nuevo segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185736Z" creationid="vicparra" creationdate="20221226T185736Z">
+        <seg>El texto en el archivo se reemplaza cada vez que se llama a esta función.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
@@ -41779,6 +41806,24 @@ servidor.</seg>
     <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185800Z" creationid="vicparra" creationdate="20221226T185800Z">
+        <seg>Este archivo contiene el &lt;e0&gt;texto original&lt;/e0&gt; del segmento actual cuando la &lt;l1/&gt; preferencia está habilitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T190038Z" creationid="vicparra" creationdate="20221226T190038Z">
+        <seg>[fuzzy]Este archivo contiene el &lt;e0&gt;texto original&lt;/e0&gt; del segmento actual cuando la &lt;l1/&gt; preferencia está habilitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T185502Z" creationid="vicparra" creationdate="20221226T185502Z">
@@ -41808,6 +41853,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T150840Z" creationid="Antonio" creationdate="20160330T150840Z">
         <seg>**En este archivo se registran los mensajes de error de Java, mientras que &lt;a0&gt;OmegaT&lt;/a0&gt; se está ejecutando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185727Z" creationid="vicparra" creationdate="20221226T185727Z">
+        <seg>Este archivo almacena el texto seleccionado actualmente cuando se utiliza &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54161,6 +54214,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>selection.txt</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185703Z" creationid="vicparra" creationdate="20221226T185703Z">
+        <seg>selection.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T123045Z" creationid="Mari" creationdate="20211130T123045Z">
@@ -54369,6 +54430,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185738Z" creationid="vicparra" creationdate="20221226T185738Z">
+        <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>spa</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T155130Z" creationid="Antonio" creationdate="20151128T155130Z">
@@ -54565,6 +54634,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151130T113343Z" creationid="Antonio" creationdate="20151130T113343Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target.txt</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185808Z" creationid="vicparra" creationdate="20221226T185808Z">
+        <seg>target.txt</seg>
       </tuv>
     </tu>
     <tu>
