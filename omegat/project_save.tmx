@@ -11375,6 +11375,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Common preferences</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212719Z" creationid="vicparra" creationdate="20221226T212719Z">
+        <seg>Preferencias comunes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160401T044402Z" creationid="hcartagena" creationdate="20160401T044402Z">
@@ -13198,6 +13206,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik (lead de
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220103T190718Z" creationid="Mari" creationdate="20220103T190718Z">
         <seg>Eliminar archivos originales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212711Z" creationid="vicparra" creationdate="20221226T212711Z">
+        <seg>Eliminar este archivo también restablece las preferencias de archivo y revierte el proyecto a los filtros de archivo globales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212531Z" creationid="vicparra" creationdate="20221226T212531Z">
+        <seg>Eliminar ese archivo también restablece las preferencias de filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25657,6 +25681,14 @@ conexión a Internet.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212607Z" creationid="vicparra" creationdate="20221226T212607Z">
+        <seg>Los filtros de archivo locales modificados se guardan en el archivo &lt;l0/&gt;, ubicado en la carpeta de proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
@@ -34034,6 +34066,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212513Z" creationid="vicparra" creationdate="20221226T212513Z">
+        <seg>Véase &lt;l1/&gt; para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20160331T203412Z" creationid="hcartagena" creationdate="20160331T203412Z">
@@ -34273,6 +34313,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T184552Z" creationid="vicparra" creationdate="20221226T184552Z">
         <seg>Véase la ventana &lt;l0/&gt; para más detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212621Z" creationid="vicparra" creationdate="20221226T212621Z">
+        <seg>Véase el &lt;l1/&gt; capítulo para más detalles.</seg>
       </tuv>
     </tu>
     <tu>
