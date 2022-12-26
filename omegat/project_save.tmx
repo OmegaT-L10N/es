@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_9223ca1d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2475,6 +2475,18 @@ en modo de trabajo en grupo).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T181511Z" creationid="vicparra" creationdate="20221226T181511Z">
+        <seg>[fuzzy]--remote-project
+	  Descargue un archivo omegat.project desde la URL dada como &lt;ruta de acceso
+	  al proyecto&gt; y cargue el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -2563,6 +2575,16 @@ en modo de trabajo en grupo).</seg>
       <tuv lang="es" changeid="Mari" changedate="20211007T135858Z" creationid="hcartagena" creationdate="20180604T223841Z">
         <seg>-h, --help
 		Muestre información sobre el uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T181217Z" creationid="vicparra" creationdate="20221226T181217Z">
+        <seg>-h, --ayuda
+	 Mostrar este mensaje de ayuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26230,6 +26252,14 @@ la carpeta Aplicaciones.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T181124Z" creationid="vicparra" creationdate="20221226T181124Z">
+        <seg>Sin opciones: iniciar GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220404T153251Z" creationid="Mari" creationdate="20220404T153251Z">
@@ -27979,6 +28009,14 @@ para iniciarse.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160125T112457Z" creationid="Antonio" creationdate="20160125T112457Z">
         <seg>OmegaT en la Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T181048Z" creationid="vicparra" creationdate="20221226T181048Z">
+        <seg>Opciones de OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30999,6 +31037,14 @@ local sin la función de trabajo en grupo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T181150Z" creationid="vicparra" creationdate="20221226T181150Z">
+        <seg>Solo ruta de Proyecto: iniciar GUI y cargar proyecto específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="es" changeid="eumeu" changedate="20181115T212302Z" creationid="eumeu" creationdate="20181115T212302Z">
@@ -33741,6 +33787,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220221T154040Z" creationid="Mari" creationdate="20220221T154040Z">
         <seg>Consulte &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt; (en inglés)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Guide for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T181041Z" creationid="vicparra" creationdate="20221226T181041Z">
+        <seg>Véase Ayuda &gt; Guía de usuario para más detalles, incluyendo las opciones disponibles de Java.u</seg>
       </tuv>
     </tu>
     <tu>
