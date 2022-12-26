@@ -6502,6 +6502,14 @@ El ajuste actual es {0}MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183701Z" creationid="vicparra" creationdate="20221226T183701Z">
+        <seg>Un enlace a la página de soporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220113T154208Z" creationid="Mari" creationdate="20220113T154208Z">
@@ -35202,6 +35210,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183731Z" creationid="vicparra" creationdate="20221226T183731Z">
+        <seg>Instrucciones sencillas de instalación y ejecución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220404T143305Z" creationid="Mari" creationdate="20220404T143305Z">
@@ -38696,6 +38712,14 @@ actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183755Z" creationid="vicparra" creationdate="20221226T183755Z">
+        <seg>La carpeta de documentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014 Vincent Bidaux.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T163641Z" creationid="Antonio" creationdate="20151128T163641Z">
@@ -39157,6 +39181,14 @@ mas otras te dan la bienvenida</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183652Z" creationid="vicparra" creationdate="20221226T183652Z">
+        <seg>El índice al manual de usuario multilingüe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
       <tuv lang="es" changeid="taty" changedate="20181204T151025Z" creationid="eumeu" creationdate="20181112T132841Z">
@@ -39263,6 +39295,14 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T183440Z" creationid="vicparra" creationdate="20221226T183440Z">
         <seg>La lista de mejoras y corrección de errores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183809Z" creationid="vicparra" creationdate="20221226T183809Z">
+        <seg>La lista de contribuidores individuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49261,6 +49301,14 @@ propia carpeta de configuración.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contributors.txt</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183801Z" creationid="vicparra" creationdate="20221226T183801Z">
+        <seg>contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;source&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211130T121817Z" creationid="Mari" creationdate="20211130T121817Z">
@@ -49481,6 +49529,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T163355Z" creationid="Antonio" creationdate="20160330T163355Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs/</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183736Z" creationid="vicparra" creationdate="20221226T183736Z">
+        <seg>docs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -49785,6 +49841,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220308T183428Z" creationid="Antonio" creationdate="20151128T084204Z">
         <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en/</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183813Z" creationid="vicparra" creationdate="20221226T183813Z">
+        <seg>en/</seg>
       </tuv>
     </tu>
     <tu>
@@ -51379,6 +51443,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T144957Z" creationid="Antonio" creationdate="20160316T184958Z">
         <seg>entradas de índice, marcadores, referencias de marcadores, notas, comentarios, notas de presentación, enlaces (URL), nombres de hoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183630Z" creationid="vicparra" creationdate="20221226T183630Z">
+        <seg>index.html</seg>
       </tuv>
     </tu>
     <tu>
