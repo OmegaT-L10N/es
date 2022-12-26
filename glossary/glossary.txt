@@ -45,3 +45,4 @@ form-feed character	carácter de salto de página
 override	anular
 Project files	Archivos del proyecto
 dialog	cuadro de diálogo
+library	biblioteca
