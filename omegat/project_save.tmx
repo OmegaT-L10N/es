@@ -37769,6 +37769,14 @@ su lugar, se utilizará la carpeta actual.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T183329Z" creationid="vicparra" creationdate="20221226T183329Z">
+        <seg>Versión 3 de la GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220519T103341Z" creationid="eumeu" creationdate="20181116T155256Z">
