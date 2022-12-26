@@ -10999,6 +10999,14 @@ pide otro trago, monada</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212426Z" creationid="vicparra" creationdate="20221226T212426Z">
+        <seg>Haga clicl en el botón &lt;g0&gt;Restaurar Predeterminados&lt;/g0&gt; para restablecer los filtros de archivo a sus ajustes predeterminados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the dropdown arrow of the &lt;g0&gt;Search for&lt;/g0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220316T152206Z" creationid="Mari" creationdate="20220316T152206Z">
@@ -25641,6 +25649,14 @@ conexión a Internet.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212505Z" creationid="vicparra" creationdate="20221226T212505Z">
+        <seg>Las preferencias de filtro de archivo global modificadas se guarda en &lt;l0/&gt;, en la carpeta de configuración.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
@@ -35701,6 +35717,14 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212348Z" creationid="vicparra" creationdate="20221226T212348Z">
+        <seg>Algunos filtros proporcionan un botón de &lt;g0&gt;Opciones...&lt;/g0&gt; para personalizar aún más sus ajustes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220805T173740Z" creationid="Antonio" creationdate="20160125T155021Z">
@@ -43314,6 +43338,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20211123T145318Z" creationid="Mari" creationdate="20211123T145241Z">
         <seg>Para modificar un patrón de filtro de archivos, puede modificar directamente los campos o hacer clic en &lt;g0&gt;Editar&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T212302Z" creationid="vicparra" creationdate="20221226T212302Z">
+        <seg>PAra modificar las extensiones de archivo, el nombre del archivo meta y las codificaciones asociadas a un filtro, selecciónelo de la lista y haga click en el botón &lt;g0&gt;Editar...&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
