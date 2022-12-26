@@ -6110,6 +6110,14 @@ El ajuste actual es {0}MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185448Z" creationid="vicparra" creationdate="20221226T185448Z">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151201T221356Z" creationid="hcartagena" creationdate="20151201T221356Z">
@@ -19103,6 +19111,15 @@ que introducir la ruta de acceso completa).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185630Z" creationid="vicparra" creationdate="20221226T185630Z">
+        <seg>Si OmegaT se comporta de forma errática, incluya este archivo, o la parte relevante del mismo, en su informe.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
@@ -28921,6 +28938,15 @@ versión 1.8 o superior.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220125T123857Z" creationid="Mari" creationdate="20220125T123646Z">
         <seg>Solo se traducirá el archivo prueba.html en la raíz de la carpeta de archivos originales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185456Z" creationid="vicparra" creationdate="20221226T185456Z">
+        <seg>Solo esta preferencia actualmente requiere modificación manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39633,6 +39659,15 @@ xx o xxx es el código de idioma e YY es el código de región o país (opcional
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185531Z" creationid="vicparra" creationdate="20221226T185531Z">
+        <seg>El más actual es &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
       </tuv>
@@ -41173,6 +41208,14 @@ la ubicación de la carpeta de configuración de OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185619Z" creationid="vicparra" creationdate="20221226T185619Z">
+        <seg>Estos archivos registran diversos mensajes internos de estado y eventos de programa generados mientras OmegaT se está ejecutando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220207T122918Z" creationid="Mari" creationdate="20220207T122918Z">
@@ -41736,6 +41779,15 @@ servidor.</seg>
     <tu>
       <prop type="origin">MT:[MyMemory (máquina)]</prop>
       <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185502Z" creationid="vicparra" creationdate="20221226T185502Z">
+        <seg>Este archivo describe el diseño general de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
         <seg>This file includes a number of important user preferences.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T185230Z" creationid="vicparra" creationdate="20221226T185230Z">
@@ -41756,6 +41808,15 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20160330T150840Z" creationid="Antonio" creationdate="20160330T150840Z">
         <seg>**En este archivo se registran los mensajes de error de Java, mientras que &lt;a0&gt;OmegaT&lt;/a0&gt; se está ejecutando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185522Z" creationid="vicparra" creationdate="20221226T185522Z">
+        <seg>Esta carpeta contiene una serie de archivos de registro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44973,6 +45034,14 @@ en la línea {1}, columna {2}.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T184758Z" creationid="vicparra" creationdate="20221226T184758Z">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; para acceder a ella directamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185649Z" creationid="vicparra" creationdate="20221226T185649Z">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;para ver el contenido del archivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52295,6 +52364,14 @@ propia carpeta de configuración.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151118T200856Z" creationid="hcartagena" creationdate="20151118T192023Z">
         <seg>cargado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>logs/</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T185506Z" creationid="vicparra" creationdate="20221226T185506Z">
+        <seg>logs/</seg>
       </tuv>
     </tu>
     <tu>
