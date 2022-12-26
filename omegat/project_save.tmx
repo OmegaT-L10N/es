@@ -34147,8 +34147,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
-      <tuv lang="es" changeid="vicparra" changedate="20221226T183423Z" creationid="vicparra" creationdate="20221226T183423Z">
-        <seg>Véase el capítulo &lt;l0/&gt; para más detalles.</seg>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T205345Z" creationid="vicparra" creationdate="20221226T183423Z">
+        <seg>Véase el &lt;l0/&gt; capítulo para más detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41926,6 +41926,15 @@ servidor.</seg>
       </tuv>
       <tuv lang="es" changeid="vicparra" changedate="20221226T185522Z" creationid="vicparra" creationdate="20221226T185522Z">
         <seg>Esta carpeta contiene una serie de archivos de registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (máquina)]</prop>
+      <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T205129Z" creationid="vicparra" creationdate="20221226T205129Z">
+        <seg>Esta carpeta contiene sus diccionarios de ortografía.</seg>
       </tuv>
     </tu>
     <tu>
