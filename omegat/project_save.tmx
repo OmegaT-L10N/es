@@ -2731,6 +2731,14 @@ en modo de trabajo en grupo).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T211908Z" creationid="vicparra" creationdate="20221226T211908Z">
+        <seg>1) Reduce la cantidad de archivos en la carpeta de origen;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220804T095637Z" creationid="hcartagena" creationdate="20151116T193149Z">
@@ -28243,6 +28251,14 @@ para iniciarse.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T211804Z" creationid="vicparra" creationdate="20221226T211804Z">
+        <seg>OmegaT no tiene memoria suficiente y el programa se cerrará cuando pulse Aceptar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="es" changeid="hcartagena" changedate="20151209T171345Z" creationid="hcartagena" creationdate="20151116T192916Z">
@@ -30090,6 +30106,18 @@ confirme todo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T211744Z" creationid="vicparra" creationdate="20221226T211744Z">
+        <seg>Ponga los archivos originales en ./source y el material
+complementario en ./tm, ./glossary y ./dictionary según corresponda y luego
+confirme todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="es" changeid="Mari" changedate="20220328T111759Z" creationid="hcartagena" creationdate="20200729T214930Z">
@@ -30530,6 +30558,14 @@ destino al que desea traducirlos.</seg>
       </tuv>
       <tuv lang="es" changeid="Antonio" changedate="20151128T154720Z" creationid="Antonio" creationdate="20151128T154710Z">
         <seg>Portugués</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T211816Z" creationid="vicparra" creationdate="20221226T211816Z">
+        <seg>Soluciones posibles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34024,8 +34060,8 @@ De manera predeterminada, el ámbito de búsqueda está en el proyecto. Puede es
       <tuv lang="en">
         <seg>See Help &gt; User Guide for details, including available Java options.</seg>
       </tuv>
-      <tuv lang="es" changeid="vicparra" changedate="20221226T181041Z" creationid="vicparra" creationdate="20221226T181041Z">
-        <seg>Véase Ayuda &gt; Guía de usuario para más detalles, incluyendo las opciones disponibles de Java.u</seg>
+      <tuv lang="es" changeid="vicparra" changedate="20221226T211703Z" creationid="vicparra" creationdate="20221226T181041Z">
+        <seg>Véase Ayuda &gt; Guía de usuario para más detalles, incluyendo las opciones disponibles de Java.</seg>
       </tuv>
     </tu>
     <tu>
